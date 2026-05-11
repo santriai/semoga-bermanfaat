@@ -1,0 +1,127 @@
+[
+  {
+    "name": "Sahih al-Bukhari",
+    "author": "Imam Muhammad bin Ismail al-Bukhari",
+    "desc": "Kitab hadits yang dianggap paling shahih setelah Al-Qur'an dan menjadi rujukan utama umat Islam."
+  },
+  {
+    "name": "Sahih Muslim",
+    "author": "Imam Muslim bin al-Hajjaj",
+    "desc": "Kitab hadits shahih yang disusun dengan sistematika yang rapi dan mendampingi kesahihan Sahih Bukhari."
+  },
+  {
+    "name": "Sunan Abu Dawud",
+    "author": "Imam Abu Dawud as-Sijistani",
+    "desc": "Kitab sunan yang sangat masyhur karena fokusnya pada hadits-hadits yang berkaitan dengan hukum syariat."
+  },
+  {
+    "name": "Sunan at-Tirmidhi",
+    "author": "Imam Abu Isa at-Tirmidhi",
+    "desc": "Kitab hadits yang dikenal karena mencantumkan derajat hadits dan perbedaan pendapat para ulama fiqih."
+  },
+  {
+    "name": "Sunan an-Nasa'i",
+    "author": "Imam Ahmad bin Syu'aib an-Nasa'i",
+    "desc": "Kitab hadits yang memiliki standar ketat dalam pemilihan perawi dan dikenal juga sebagai Al-Mujtaba."
+  },
+  {
+    "name": "Sunan Ibn Majah",
+    "author": "Imam Ibnu Majah al-Qazwini",
+    "desc": "Kitab terakhir dalam kelompok Kutubus Sittah yang memuat hadits-hadits dalam berbagai bab fiqih."
+  },
+  {
+    "name": "Al-Muwatta'",
+    "author": "Imam Malik bin Anas",
+    "desc": "Kitab hadits dan fiqih tertua yang disusun oleh pendiri madzhab Maliki di Madinah."
+  },
+  {
+    "name": "Musnad Ahmad",
+    "author": "Imam Ahmad bin Hanbal",
+    "desc": "Koleksi hadits raksasa yang disusun berdasarkan urutan nama sahabat yang meriwayatkannya."
+  },
+  {
+    "name": "Riyadhus Shalihin",
+    "author": "Imam an-Nawawi",
+    "desc": "Kumpulan hadits pilihan tentang akhlak, adab, dan penyucian jiwa yang sangat populer di seluruh dunia."
+  },
+  {
+    "name": "Al-Arba'in An-Nawawiyyah",
+    "author": "Imam an-Nawawi",
+    "desc": "Koleksi 42 hadits yang dianggap sebagai inti atau pondasi ajaran agama Islam."
+  },
+  {
+    "name": "Bulughul Maram",
+    "author": "Ibnu Hajar al-Asqalani",
+    "desc": "Ringkasan hadits-hadits hukum yang disusun secara tematis untuk memudahkan pencarian dalil fiqih."
+  },
+  {
+    "name": "Fathul Bari",
+    "author": "Ibnu Hajar al-Asqalani",
+    "desc": "Kitab penjelasan (syarah) paling lengkap dan otoritatif untuk memahami isi kandungan Sahih al-Bukhari."
+  },
+  {
+    "name": "Subulus Salam",
+    "author": "Muhammad bin Ismail al-Shan'ani",
+    "desc": "Kitab syarah dari Bulughul Maram yang menjelaskan makna hadits dari sisi bahasa dan hukum."
+  },
+  {
+    "name": "Nayl al-Awtar",
+    "author": "Imam al-Syaukani",
+    "desc": "Kitab yang menjelaskan hadits-hadits hukum dalam kitab Muntaqa al-Akhbar dengan tinjauan fiqih yang luas."
+  },
+  {
+    "name": "Umdatul Ahkam",
+    "author": "Abdul Ghani al-Maqdisi",
+    "desc": "Kumpulan hadits-hadits hukum yang disepakati keshahihannya oleh Imam Bukhari dan Imam Muslim."
+  },
+  {
+    "name": "Mishkat al-Masabih",
+    "author": "Al-Khatib al-Tibrizi",
+    "desc": "Kitab yang mengumpulkan dan menyempurnakan hadits-hadits dari berbagai kitab rujukan utama."
+  },
+  {
+    "name": "Al-Adab al-Mufrad",
+    "author": "Imam Muhammad bin Ismail al-Bukhari",
+    "desc": "Kitab khusus yang menghimpun hadits-hadits tentang etika, sopan santun, dan perilaku sosial muslim."
+  },
+  {
+    "name": "Jami' al-Ulum wal Hikam",
+    "author": "Ibnu Rajab al-Hanbali",
+    "desc": "Kitab syarah mendalam terhadap 50 hadits pokok yang mencakup berbagai cabang ilmu dan hikmah."
+  },
+  {
+    "name": "Sunan ad-Darimi",
+    "author": "Imam ad-Darimi",
+    "desc": "Kitab hadits yang memiliki kedudukan tinggi karena kualitas sanadnya dan sering dikaitkan dengan Kutubus Sittah."
+  },
+  {
+    "name": "Al-Mustadrak 'ala al-Sahihayn",
+    "author": "Al-Hakim an-Naisaburi",
+    "desc": "Kitab yang menghimpun hadits-hadits shahih sesuai syarat Bukhari-Muslim namun tidak tercantum dalam kitab mereka."
+  },
+  {
+    "name": "Sunan al-Daraqutni",
+    "author": "Imam al-Daraqutni",
+    "desc": "Kitab hadits yang fokus pada penjelasan cacat-cacat tersembunyi dalam sanad dan matan hadits."
+  },
+  {
+    "name": "At-Targhib wat-Tarhib",
+    "author": "Imam al-Mundhiri",
+    "desc": "Kumpulan hadits tentang dorongan untuk beramal shalih serta ancaman terhadap perbuatan dosa."
+  },
+  {
+    "name": "Al-Lu'lu' wal Marjan",
+    "author": "Muhammad Fuad Abdul Baqi",
+    "desc": "Himpunan hadits-hadits yang disepakati keshahihannya (Muttafaqun 'Alaih) oleh Bukhari dan Muslim."
+  },
+  {
+    "name": "Syarh Sahih Muslim",
+    "author": "Imam an-Nawawi",
+    "desc": "Kitab penjelasan yang sangat populer dalam menguraikan kandungan hadits dan hukum dalam Sahih Muslim."
+  },
+  {
+    "name": "Al-Jami' al-Saghir",
+    "author": "Imam Jalaluddin al-Suyuti",
+    "desc": "Kumpulan hadits pendek yang disusun secara alfabetis untuk memudahkan penghafalan dan pencarian."
+  }
+]
