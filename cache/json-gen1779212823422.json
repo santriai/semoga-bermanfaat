@@ -1,0 +1,41 @@
+{
+  "question": "Hukum Pinjol dalam Islam",
+  "summary": "Pinjaman online (Pinjol) pada dasarnya adalah akad Qardh (pinjaman). Dalam perspektif syariat, jika pinjaman tersebut mensyaratkan bunga, denda keterlambatan, atau biaya tambahan yang bersifat eksploitatif, maka hukumnya adalah Haram karena termasuk Riba Nasiah. Namun, jika Pinjol dilakukan melalui platform Syariah yang menggunakan akad tijari (komersial) seperti Murabahah atau Ijarah tanpa unsur riba, maka hukumnya diperbolehkan.",
+  "lawStatus": "Haram (jika mengandung Riba/Bunga/Denda), Mubah (jika murni Qardh atau sesuai Syariah)",
+  "madzhabComparison": [
+    {
+      "madzhab": "Syafi'i",
+      "opinion": "Madzhab Syafi'i sangat ketat dalam akad Qardh. Setiap syarat yang mendatangkan manfaat bagi kreditor (muqridh), seperti bunga atau biaya admin yang melebihi biaya operasional riil, adalah batil dan termasuk Riba. Akad tetap sah sebagai pinjaman namun syarat bunganya haram dan batal."
+    },
+    {
+      "madzhab": "Hanafi",
+      "opinion": "Hanafi memandang bahwa tambahan yang disyaratkan dalam pinjaman harta mitsli (sejenis) adalah Riba. Namun, mereka membedakan antara pinjaman yang rusak (fasid) karena syarat tambahan dengan esensi tolong-menolongnya, walau secara praktis bunga tetap dilarang keras."
+    },
+    {
+      "madzhab": "Maliki",
+      "opinion": "Dalam pandangan Maliki, segala bentuk 'ziyadah' (tambahan) yang disyaratkan di awal dalam akad pinjaman adalah dilarang karena mengubah sifat akad tabarru' (sosial) menjadi mu'awadhah (komersial) yang tidak adil. Denda keterlambatan juga dipandang sebagai bentuk Riba Jahiliyah."
+    },
+    {
+      "madzhab": "Hambali",
+      "opinion": "Madzhab Hambali menegaskan kaidah bahwa 'setiap pinjaman yang membawa manfaat adalah riba'. Jika peminjam memberikan kelebihan tanpa syarat di awal saat pelunasan, hukumnya boleh (Husnul Qadha'), namun jika disyaratkan di awal melalui aplikasi, maka itu adalah riba yang diharamkan."
+    }
+  ],
+  "evidences": [
+    {
+      "source": "Al-Quran Surah Al-Baqarah ayat 275",
+      "text": "وَأَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا",
+      "meaning": "Padahal Allah telah menghalalkan jual beli dan mengharamkan riba."
+    },
+    {
+      "source": "Hadis Riwayat Al-Baihaqi (Kaidah Fiqh)",
+      "text": "كُلُّ قَرْضٍ جَرَّ مَنْفَعَةً فَهُوَ رِبًا",
+      "meaning": "Setiap pinjaman yang menarik manfaat (bagi pemberi pinjaman) maka itu adalah riba."
+    },
+    {
+      "source": "Fatwa DSN-MUI No: 117/DSN-MUI/II/2018",
+      "text": "Layanan Pembiayaan Berbasis Teknologi Informasi berdasarkan Prinsip Syariah",
+      "meaning": "Menegaskan bahwa penyelenggaraan fintech pembiayaan boleh dilakukan selama tidak bertentangan dengan prinsip syariah, yaitu menghindari riba, gharar, maysir, dan tadlis."
+    }
+  ],
+  "conclusion": "Secara kolektif melalui metode Bahtsul Masail, Pinjol konvensional yang menerapkan bunga tetap atau bunga berbunga hukumnya mutlak Haram. Umat Islam diimbau untuk: 1) Menghindari pinjol ribawi karena dosa riba yang besar dan dampak sosial yang merusak. 2) Menggunakan layanan Fintech Syariah yang telah terverifikasi Dewan Pengawas Syariah jika dalam keadaan darurat. 3) Memastikan akad yang digunakan adalah akad yang dibenarkan (seperti Murabahah atau Qardh al-Hasan) tanpa ada unsur denda yang masuk ke kantong perusahaan (biasanya dialokasikan untuk dana sosial/ta'zir)."
+}
