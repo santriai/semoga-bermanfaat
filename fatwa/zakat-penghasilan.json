@@ -1,0 +1,36 @@
+{
+  "question": "Zakat Penghasilan",
+  "summary": "Zakat penghasilan merupakan ijtihad kontemporer yang menganalogikan (qiyas) pendapatan profesional dengan zakat emas/perak (nuqud) atau zakat perdagangan ('urudl al-tijarah). Hukumnya wajib bagi yang telah mencapai nisab (setara 85 gram emas) menurut mayoritas ulama kontemporer dan lembaga fatwa internasional.",
+  "lawStatus": "Wajib",
+  "madzhabComparison": [
+    {
+      "madzhab": "Syafi'i",
+      "opinion": "Dalam pandangan qadim (klasik), zakat hanya diwajibkan pada harta tertentu (nuqud, ternak, pertanian). Pendapatan (al-mal al-mustafad) tidak wajib dizakati seketika saat diterima, melainkan harus melewati syarat Haul (dimiliki selama satu tahun hijriah) dan mencapai Nisab di akhir haul tersebut."
+    },
+    {
+      "madzhab": "Hanafi",
+      "opinion": "Harta yang diperoleh di tengah tahun (al-mal al-mustafad) digabungkan dengan harta sejenis yang sudah mencapai nisab. Zakat dibayarkan pada akhir haul harta pokok tersebut tanpa harus menunggu harta baru itu melewati satu tahun tersendiri."
+    },
+    {
+      "madzhab": "Maliki",
+      "opinion": "Mensyaratkan haul (satu tahun) penuh bagi harta yang didapat dari pendapatan atau pemberian. Tidak ada zakat seketika saat uang diterima kecuali jika harta tersebut berasal dari keuntungan perdagangan yang modalnya sudah mencapai nisab."
+    },
+    {
+      "madzhab": "Hambali",
+      "opinion": "Terdapat satu riwayat dari Imam Ahmad yang selaras dengan pendapat Ibnu Abbas dan Mu'awiyah bahwa zakat boleh dikeluarkan langsung saat harta diterima (al-mal al-mustafad) tanpa menunggu haul, seperti pada kasus upah atau pemberian. Pendapat inilah yang menjadi salah satu sandaran zakat profesi modern."
+    }
+  ],
+  "evidences": [
+    {
+      "source": "Al-Qur'an Surah Al-Baqarah: 267",
+      "text": "يَا أَيُّهَا الَّذِينَ آمَنُوا أَنْفِقُوا مِنْ طَيِّبَاتِ مَا كَسَبْتُمْ",
+      "meaning": "Wahai orang-orang yang beriman, infakkanlah sebagian dari hasil usahamu yang baik-baik."
+    },
+    {
+      "source": "At-Taubah: 103",
+      "text": "خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِمْ بِهَا",
+      "meaning": "Ambillah zakat dari sebagian harta mereka, dengan zakat itu kamu membersihkan dan mensucikan mereka."
+    }
+  ],
+  "conclusion": "Secara metodologi Bahtsul Masail, zakat penghasilan dapat diwajibkan dengan mengacu pada konsep 'Al-Mal al-Mustafad' (harta yang baru didapat) dan Qiyas Syabah (analogi kemiripan) kepada zakat emas/perak dalam hal nisab dan kadar zakatnya (2,5%). Bagi muslim yang penghasilannya mencapai nilai 85 gram emas per tahun, disarankan mengeluarkan zakatnya sebesar 2,5% baik setiap bulan (ta'jil al-zakat) atau di akhir tahun guna kehati-hatian (ihtiyath) dan kemaslahatan fakir miskin."
+}
