@@ -1,110 +1,302 @@
 {
   "profile": {
     "name": "Aqidatul Awam",
-    "originalTitle": "عَقِيْدَةُ الْعَوَامّ",
-    "author": "Syekh Sayyid Ahmad al-Marzuqi al-Maliki al-Hasani",
-    "field": "Tauhid / Aqidah Ahlussunnah wal Jama'ah",
-    "about": "Kitab Aqidatul Awam merupakan teks fundamental dalam ilmu tauhid yang disusun dalam bentuk syair (nadhom) untuk memudahkan umat Islam memahami poin-poin pokok keimanan. Kitab ini mencakup pembahasan mengenai sifat-sifat Allah, sifat-sifat Rasul, tugas malaikat, kitab-kitab suci, serta sejarah singkat keluarga Nabi Muhammad SAW. Ditulis berdasarkan visi spiritual oleh pengarangnya, kitab ini telah menjadi kurikulum wajib di hampir seluruh pesantren tradisional di Nusantara. Kandungannya merangkum prinsip 'Aqidah 50' yang terdiri dari sifat wajib, mustahil, dan jaiz bagi Allah serta para Rasul. Sistematikanya yang ringkas namun padat menjadikannya pegangan utama bagi tingkat pemula (awam).",
-    "authorBorn": "1205 H / 1791 M di Mesir",
-    "authorDied": "1281 H / 1864 M di Mekkah",
+    "originalTitle": "عَقِيْدَةُ الْعَوَام",
+    "author": "Al-'Alim Al-'Allamah Ahmad bin Muhammad bin Ramadhan bin Manshur Al-Marzuqi Al-Hasani Al-Maliki",
+    "field": "Ilmu Tawhid (Aqidah)",
+    "about": "Kitab Aqidatul Awam merupakan matan dalam bentuk nazham (syair) yang sangat populer di kalangan umat Islam, khususnya di pondok pesantren, sebagai panduan dasar iman. Kitab ini disusun oleh Imam Ahmad Al-Marzuqi atas petunjuk langsung dari Rasulullah SAW melalui mimpi, yang mengajarkan pokok-pokok aqidah Ahlussunnah wal Jama'ah. Isi utamanya mencakup sifat-sifat wajib, mustahil, dan jaiz bagi Allah serta para Rasul, nama-nama malaikat, kitab-kitab samawi, dan silsilah keluarga Nabi Muhammad SAW. Dengan bahasa yang ringkas namun padat, nazham ini menjadi standar wajib bagi setiap muslim (awam) dalam mengenal dasar-dasar ketuhanan. Matan ini memiliki sekitar 57 bait yang mencakup seluruh rukun iman secara mendasar namun menyeluruh.",
+    "authorBorn": "Mesir, 1205 H",
+    "authorDied": "Makkah, 1281 H",
     "authorCentury": "Abad ke-13 Hijriah"
   },
   "chapters": [
     {
-      "title": "Muqaddimah (Pembukaan)",
-      "titleArabic": "الْمُقَدِّمَةُ",
-      "arabic": "أَبْدَأُ بِاسْمِ اللهِ وَالرَّحْمَنِ * وَبِالرَّحِيْمِ دَائِمِ اْلإِحْسَانِ. فَالْحَمْدُ لِلَّهِ الْقَدِيْمِ اْلأَوَّلِ * اْلآخِرِ الْبَاقِي بِلاَ تَحَوُّلِ. ثُمَّ الصَّلاَةُ وَالسَّلاَمُ سَرْمَدَا * عَلَى النَّبِيِّ خَيْرِ مَنْ قَدْ وَحَّدَا. وَآلِهِ وَصَحْبِهِ وَمَنْ تَبِعْ * سَبِيْلَ دِيْنِ الْحَقِّ غَيْرَ مُبْتَدِعْ.",
-      "translation": "Aku memulai dengan nama Allah, Yang Maha Pengasih, dan Yang Maha Penyayang yang senantiasa memberikan kebaikan. Maka segala puji bagi Allah Yang Maha Dahulu, Yang Maha Awal, Yang Maha Akhir, Yang Maha Kekal tanpa perubahan. Kemudian shalawat dan salam semoga tercurah selamanya kepada Nabi sebaik-baik orang yang mengesakan Allah. Dan kepada keluarganya, sahabatnya, serta orang yang mengikuti jalan agama yang benar bukan orang yang berbuat bid'ah."
+      "title": "Muqaddimah 1: Basmalah & Pujian",
+      "titleArabic": "الْمُقَدِّمَةُ: بَسْمَلَةٌ وَثَنَاءٌ",
+      "arabic": "أَبْدَأُ بِاسْمِ اللهِ وَالرَّحْمَنِ * وَبِالرَّحِيْمِ دَائِمِ الْإِحْسَانِ",
+      "translation": "Aku memulai dengan nama Allah, Yang Maha Pengasih, dan Yang Maha Penyayang yang senantiasa memberikan kebaikan."
     },
     {
-      "title": "Sifat-Sifat Wajib Bagi Allah",
-      "titleArabic": "صِفَاتُ اللهِ الْوَاجِبَةُ",
-      "arabic": "وَبَعْدُ فَاعْلَمْ بِوُجُوْبِ الْمَعْرِفَهْ * مِنْ وَاجِبٍ لِلَّهِ عِشْرِيْنَ صِفَهْ. فَاللهُ مَوْجُوْدٌ قَدِيْمٌ بَاقِي * مُخَالِفٌ لِلْخَلْقِ بِاْلإِطْلاَقِ. وَقَائِمٌ غَنِيْ وَوَاحِدٌ وَحَيّ * قَادِرْ مُرِيْدٌ عَالِمٌ بِكُلِّ شَيْ. سَمِيْعٌ الْبَصِيْرُ وَالْمُتَكَلِّمُ * لَهُ صِفَاتٌ سَبْعَةٌ تَنْتَظِمُ. فَقُدْرَةٌ إِرَادَةٌ سَمْعٌ بَصَرْ * حَيَاةٌ الْعِلْمُ كَلاَمٌ اسْتَمَرْ.",
-      "translation": "Dan setelah itu ketahuilah dengan kewajiban ma'rifah (mengenal Allah), dari sifat yang wajib bagi Allah yaitu dua puluh sifat. Allah itu Ada, Dahulu, Kekal, Berbeda dengan makhluk-Nya secara mutlak. Berdiri sendiri, Maha Kaya, Maha Esa, Maha Hidup, Maha Kuasa, Maha Berkehendak, Maha Mengetahui segala sesuatu. Maha Mendengar, Maha Melihat, dan Maha Berbicara, Ia memiliki tujuh sifat yang tersusun berurutan. Yaitu Kuasa, Kehendak, Mendengar, Melihat, Hidup, Ilmu, dan Berbicara yang terus menerus."
+      "title": "Muqaddimah 2: Tahmid & Shalawat",
+      "titleArabic": "الْحَمْدُ وَالصَّلَاةُ وَالسَّلَامُ",
+      "arabic": "فَالْحَمْدُ للهِ الْقَدِيْمِ الْأَوَّلِ * اَلْآخِرِ الْبَاقِي بِلَا تَحَوُّلِ. ثُمَّ الصَّلَاةُ وَالسَّلَامُ سَرْمَدَا * عَلَى النَّبِيِّ خَيْرِ مَنْ قَدْ وَحَّدَا",
+      "translation": "Maka segala puji bagi Allah Yang Maha Dahulu, Yang Awal, Yang Akhir, Yang Kekal tanpa ada perubahan. Kemudian shalawat dan salam semoga selalu tercurah kepada Nabi Muhammad, sebaik-baik orang yang telah mengesakan Allah."
     },
     {
-      "title": "Sifat Mustahil dan Jaiz Bagi Allah",
-      "titleArabic": "صِفَاتُ اللهِ الْمُسْتَحِيْلَةُ وَالْجَائِزَةُ",
-      "arabic": "وَضِدُّ كُلِّ وَاجِبٍ مُسْتَحِيْلُ * فَاحْفَظْ لِخَمْسِيْنَ بِحُكْمٍ مِيْلُ. وَجَائِزٌ فِي حَقِّهِ فَضْلٌ وَعَدْلْ * تَرْكٌ لِكُلِّ مُمْكِنٍ كَمَا فَعَلْ.",
-      "translation": "Dan lawan dari setiap sifat wajib (bagi Allah) adalah sifat mustahil, maka hafallah 50 sifat itu dengan hukum yang condong (pada kebenaran). Dan sifat jaiz (wenang) pada hak Allah adalah berkat karunia dan keadilan-Nya, yaitu meninggalkan setiap perkara yang mungkin sebagaimana Dia melakukannya."
+      "title": "Muqaddimah 3: Keluarga & Sahabat Nabi",
+      "titleArabic": "الْآلُ وَالصَّحْبُ",
+      "arabic": "وَآلِهِ وَصَحْبِهِ وَمَنْ تَبِعْ * سَبِيْلَ دِيْنِ الْحَقِّ غَيْرَ مُبْتَدِعْ",
+      "translation": "Dan kepada keluarga, sahabat, dan orang-orang yang mengikuti jalan agama yang benar tanpa berbuat bid'ah (yang menyimpang)."
     },
     {
-      "title": "Sifat-Sifat Para Rasul",
-      "titleArabic": "صِفَاتُ الرُّسُلِ عَلَيْهِمُ السَّلاَمُ",
-      "arabic": "أَرْسَلَ أَنْبِيَا ذَوِي فَطَانَهْ * بِالصِّدْقِ وَالتَّبْلِيْغِ وَاْلأَمَانَهْ. وَجَائِزٌ فِي حَقِّهِمْ مِنْ عَرَضِ * بِغَيْرِ نَقْصٍ كَخَفِيْفِ الْمَرَضِ. عِصْمَتُهُمْ كَسَائِرِ الْمَلاَئِكَهْ * وَاجِبَةٌ وَفَاضَلُوا الْمَلاَئِكَهْ.",
-      "translation": "Allah telah mengutus para Nabi yang memiliki kecerdasan, kejujuran, menyampaikan (wahyu), dan amanah (terpercaya). Dan jaiz pada hak mereka dari sifat-sifat manusiawi tanpa mengurangi martabatnya, seperti sakit yang ringan. Penjagaan mereka (dari dosa) seperti seluruh malaikat adalah wajib, dan mereka (para Nabi) lebih utama dari para malaikat."
+      "title": "Kewajiban Mengetahui Sifat Allah",
+      "titleArabic": "مَعْرِفَةُ صِفَاتِ اللهِ الْوَاجِبَةِ",
+      "arabic": "وَبَعْدُ فَاعْلَمْ بِوُجُوْبِ الْمَعْرِفَهْ * مِنْ وَاجِبٍ للهِ عِشْرِيْنَ صِفَهْ",
+      "translation": "Dan setelah itu, ketahuilah bahwa wajib mengenal sifat-sifat bagi Allah sebanyak dua puluh sifat."
     },
     {
-      "title": "Sifat Mustahil Bagi Rasul",
-      "titleArabic": "الْمُسْتَحِيْلُ فِي حَقِّ الرُّسُلِ",
-      "arabic": "وَالْمُسْتَحِيْلُ ضِدُّ كُلِّ وَاجِبِ * فَاحْفَظْ لِخَمْسِيْنَ بِحُكْمٍ وَاجِبِ.",
-      "translation": "Dan sifat mustahil adalah lawan dari setiap sifat yang wajib, maka hafallah (sifat-sifat ini) menjadi 50 (aqidah) dengan hukum yang wajib."
+      "title": "Sifat Allah: Wujud (Ada)",
+      "titleArabic": "صِفَةُ الْوُجُودِ",
+      "arabic": "فَاللهُ مَوْجُوْدٌ قَدِيْمٌ بَاقِي * مُخَالِفٌ لِلْخَلْقِ بِالْإِطْلَاقِ",
+      "translation": "Maka Allah itu Ada (Wujud), Dahulu (Qidam), Kekal (Baqa), dan berbeda dengan makhluk secara mutlak."
     },
     {
-      "title": "Nama-Nama Nabi dan Rasul yang Wajib Diketahui",
-      "titleArabic": "أَسْمَاءُ الرُّسُلِ الْوَاجِبِ مَعْرِفَتُهُمْ",
-      "arabic": "تَفْصِيْلُ خَمْسَةٍ وَعِشْرِيْنَ لَزِمْ * كُلَّ مُكَلَّفٍ فَحَقِّقْ وَاغْتَنِمْ. هُمْ آدَمٌ اِدْرِيْسُ نُوْحٌ هُوْدُ مَعْ * صَالِحْ وَإِبْرَاهِيْمُ كُلٌّ مُتَّبَعْ. لُوْطٌ وَإِسْمَاعِيْلُ إِسْحَاقُ كَذَا * يَعْقُوْبُ يُوْسُفُ وَأَيُّوْبُ احْتَذَى. شُعَيْبُ هَارُوْنُ وَمُوْسَى وَالْيَسَعْ * ذُو الْكِفْلِ دَاوُدُ سُلَيْمَانُ اتَّبَعْ. إلْيَاسُ يُوْنُسُ زَكَرِيَّا يَحْيَى * عِيْسَى وَطَهَ خَاتِمٌ لِلأَنْبِيَا. عَلَيْهِمُ الصَّلاَةُ وَالسَّلاَمُ * وَآلِهِمْ مَا دَامَتِ اْلأَيَّامُ.",
-      "translation": "Rincian 25 Nabi itu wajib bagi setiap mukallaf (orang yang dibebani syariat), maka yakinkanlah dan raihlah keberuntungan. Mereka adalah Adam, Idris, Nuh, Hud, beserta Shaleh dan Ibrahim yang semuanya diikuti. Luth, Ismail, Ishaq, demikian pula Ya'qub, Yusuf, dan Ayyub yang mengikuti. Syuaib, Harun, Musa, dan Alyasa', Dzulkifli, Dawud, Sulaiman yang mengikuti. Ilyas, Yunus, Zakaria, Yahya, Isa, dan Thaha (Muhammad) sebagai penutup para Nabi. Atas mereka shalawat dan salam serta keluarga mereka selama hari-hari masih ada."
+      "title": "Sifat Allah: Qidam & Baqa",
+      "titleArabic": "صِفَةُ الْقِدَمِ وَالْبَقَاءِ",
+      "arabic": "قَدِيْمٌ بَاقِي",
+      "translation": "Allah Maha Dahulu (tidak ada permulaan) dan Maha Kekal (tidak ada akhir)."
     },
     {
-      "title": "Nama-Nama Malaikat dan Tugasnya",
-      "titleArabic": "الْمَلاَئِكَةُ وَأَعْمَالُهُمْ",
-      "arabic": "وَالْمَلَكُ الَّذي بِلاَ أَبٍ وَأُمّ * لاَ أَكْلَ لاَ شُرْبَ وَلاَ نَوْمَ لَهُمْ. تَفْصِيْلُ عَشْرٍ مِنْهُمُ جِبْرِيْلُ * مِيْكَالُ إِسْرَافِيْلُ عِزْرَائِيْلُ. مُنْكَرْ نَكِيْرٌ وَرَقِيْبٌ وَكَذَا * عَتِيْدٌ مَالِكٌ وَرِضْوَانُ احْتَذَى.",
-      "translation": "Dan Malaikat itu yang tanpa ayah dan ibu, tidak makan, tidak minum, dan tidak tidur bagi mereka. Rincian sepuluh dari mereka adalah Jibril, Mikail, Israfil, Izrail. Munkar, Nakir, Raqib, dan demikian pula Atid, Malik, dan Ridwan yang mengikuti."
+      "title": "Sifat Allah: Mukhalafatu lil Hawaditsi",
+      "titleArabic": "مُخَالَفَتُهُ لِلْحَوَادِثِ",
+      "arabic": "مُخَالِفٌ لِلْخَلْقِ بِالْإِطْلَاقِ",
+      "translation": "Berbeda dengan makhluk secara mutlak (tidak ada satupun yang menyerupai-Nya)."
     },
     {
-      "title": "Kitab-Kitab Allah dan Penerimanya",
-      "titleArabic": "الْكُتُبُ السَّمَاوِيَّةُ",
-      "arabic": "أَرْبَعَةٌ مِنْ كُتُبٍ تَفْصِيْلُهَا * تَوْرَاةُ مُوْسَى بِالْهُدَى تَنْزِيْلُهَا. زَبُوْرُ دَاوُدَ وَإِنْجِيْلٌ عَلَى * عِيْسَى وَفُرْقَانٌ عَلَى خَيْرِ الْمَلاَ. وَصُحُفُ الْخَلِيْلِ وَالْكَلِيْمِ * فِيْهَا كَلاَمُ الْحَكَمِ الْعَلِيْمِ.",
-      "translation": "Empat dari kitab-kitab suci rinciannya adalah: Taurat bagi Musa diturunkan dengan petunjuk. Zabur bagi Dawud dan Injil bagi Isa, dan Al-Furqan (Al-Qur'an) bagi sebaik-baik manusia (Muhammad). Dan Shuhuf (lembaran) Al-Khalil (Ibrahim) dan Al-Kalim (Musa), di dalamnya terdapat firman Allah Yang Maha Bijaksana dan Maha Mengetahui."
+      "title": "Sifat Allah: Qiyamuhu Binafsihi & Wahdaniyyah",
+      "titleArabic": "قِيَامُهُ بِنَفْسِهِ وَالْوَحْدَانِيَّةُ",
+      "arabic": "قَائِمٌ غَنِيْ وَوَاحِدٌ وَحَيّ * قَادِرْ مُرِيْدٌ عَالِمٌ بِكُلِّ شَيْ",
+      "translation": "Berdiri sendiri (Qiyamuhu Binafsihi), Maha Kaya (Tidak butuh bantuan), Maha Esa (Wahdaniyyah), Maha Hidup (Hayat), Maha Kuasa (Qudrah), Maha Berkehendak (Iradah), dan Maha Mengetahui atas segala sesuatu ('Ilmun)."
     },
     {
-      "title": "Kewajiban Mengimani Syariat Nabi Muhammad",
-      "titleArabic": "اْلإِيْمَانُ بِمَا جَاءَ بِهِ الرَّسُوْلُ",
-      "arabic": "وَكُلُّ مَا أَتَى بِهِ الرَّسُوْلُ * فَحَقُّهُ التَّسْلِيْمُ وَالْقَبُوْلُ. إِيْمَانُنَا بِيَوْمِ آخِرٍ وَجَبْ * وَكُلِّ مَا كَانَ بِهِ مِنَ الْعَجَبْ.",
-      "translation": "Dan segala apa yang dibawa oleh Rasul, maka haknya adalah dipasrahkan dan diterima. Iman kita kepada hari akhir adalah wajib, dan segala perkara ajaib (dahsyat) yang ada di dalamnya."
+      "title": "Sifat Allah: Qudrah & Iradah",
+      "titleArabic": "صِفَةُ الْقُدْرَةِ وَالْإِرَادَةِ",
+      "arabic": "قَادِرْ مُرِيْدٌ",
+      "translation": "Maha Kuasa untuk melakukan segala sesuatu dan Maha Berkehendak menentukan segala sesuatu."
     },
     {
-      "title": "Kewajiban Terakhir Mukallaf",
-      "titleArabic": "خَاتِمَةُ التَّكْلِيْفِ",
-      "arabic": "خَاتِمَةٌ فِي ذِكْرِ بَاقِي الْوَاجِبِ * مِمَّا عَلَى مُكَلَّفٍ مِنْ وَاجِبِ.",
-      "translation": "Penutup dalam menyebutkan sisa kewajiban, dari apa yang wajib bagi mukallaf."
+      "title": "Sifat Allah: 'Ilmun & Hayat",
+      "titleArabic": "صِفَةُ الْعِلْمِ وَالْحَيَاةِ",
+      "arabic": "عَالِمٌ بِكُلِّ شَيْ * وَحَيّ",
+      "translation": "Maha Mengetahui segala hal tanpa terkecuali dan Maha Hidup selamanya."
     },
     {
-      "title": "Nasab (Silsilah) Nabi Muhammad SAW",
-      "titleArabic": "نَسَبُ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ",
-      "arabic": "نَبِيُّنَا مُحَمَّدٌ قَدْ أُرْسِلاَ * لِلْعَالَمِيْنَ رَحْمَةً وَفُضِّلاَ. أَبُوْهُ عَبْدُ اللهِ عَبْدُ الْمُطَّلِبْ * وَهَاشِمٌ عَبْدُ مَنَافٍ يَنْتَسِبْ. وَأُمُّهُ آمِنَةُ الزُّهْرِيَّهْ * أَرْضَعَتْهُ حَلِيْمَةُ السَّعْدِيَّهْ. مَوْلِدُهُ بِمَكَّةَ اْلأَمِيْنَهْ * وَفَاتُهُ بِطَيْبَةَ الْمَدِيْنَهْ.",
-      "translation": "Nabi kita Muhammad telah diutus untuk alam semesta sebagai rahmat dan keutamaan. Ayahnya adalah Abdullah bin Abdul Mutthalib, dan Hasyim bin Abdu Manaf silsilah nasabnya. Dan ibunya adalah Aminah Az-Zuhriyyah, yang menyusuinya adalah Halimah As-Sa'diyyah. Kelahirannya di Makkah yang aman, dan wafatnya di Thaibah (Madinah)."
+      "title": "Sifat Allah: Sam'un, Bashar, & Kalam",
+      "titleArabic": "السَّمْعُ وَالْبَصَرُ وَالْكَلَامُ",
+      "arabic": "سَمِيْعٌ الْبَصِيْرُ وَالْمُتَكَلِّمُ * لَهُ صِفَاتٌ سَبْعَةٌ تَنْتَظِمُ",
+      "translation": "Maha Mendengar (Sam'un), Maha Melihat (Bashar), dan Maha Berfirman (Kalam). Dia memiliki tujuh sifat (ma'ani) yang tersusun rapi."
     },
     {
-      "title": "Usia Nabi dan Putera-Puteri Beliau",
-      "titleArabic": "أَوْلاَدُ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ",
-      "arabic": "أَتَمَّ قَبْلَ الْوَحْيِ أَرْبَعِيْنَا * وَعُمْرُهُ قَدْ جَازَ سِتِّيْنَا. وَسَبْعَةٌ أَوْلاَدُهُ فَمِنْهُمُ * ثَلاَثَةٌ مِنَ الذُّكُوْرِ تُفْهَمُ. قَاسِمْ وَعَبْدُ اللهِ وَهْوَ الطَّيِّبُ * وَطَاهِرٌ بِذَيْنِ ذَا يُلَقَّبُ. أَتَاهُ إِبْرَاهِيْمُ مِنْ سُرِّيَّهْ * فَأُمُّهُ مَارِيَةُ الْقِبْطِيَّهْ. وَغَيْرُ إِبْرَاهِيْمَ مِنْ خَدِيْجَهْ * هُمْ سِتَّةٌ فَخُذْ بِهِمْ لَوِيْجَهْ. وَأَرْبَعٌ مِنَ اْلإِنَاثِ تُذْكَرُ * رِضْوَانُ رَبِّي لِلْجَمِيْعِ يُذْكَرُ. فَاطِمَةُ الزَّهْرَاءُ بَعْلُهَا عَلِي * وَابْنَاهُمَا السِّبْطَانِ فَضْلُهُمْ جَلِي. فَزَيْنَبٌ وَبَعْدَهَا رُقَيَّهْ * وَأُمُّ كُلْثُوْمٍ زَكَتْ رَضِيَّهْ.",
-      "translation": "Beliau menyempurnakan 40 tahun sebelum wahyu datang, dan umurnya telah melewati 60 tahun. Putera-puteri beliau ada tujuh, di antaranya tiga laki-laki yang harus dipahami. Qasim dan Abdullah yang dijuluki At-Thayyib dan At-Thahir dengan kedua sebutan ini ia dijuluki. Ibrahim datang dari jalur budak (Mariyah), maka ibunya adalah Mariyah Al-Qibthiyyah. Dan selain Ibrahim, semuanya dari Khadijah, mereka ada enam orang, maka kenalilah mereka dengan penuh cinta. Dan empat perempuan yang disebutkan, keridhaan Tuhanku untuk semuanya disebut. Fatimah Az-Zahra yang suaminya adalah Ali, dan kedua putera mereka (Hasan-Husein) adalah dua cucu yang keutamaannya jelas. Lalu Zainab dan setelahnya Ruqayyah, dan Ummu Kultsum yang suci dan diridhai."
+      "title": "Sifat Ma'ani: Qudrah & Iradah (Detail)",
+      "titleArabic": "صِفَاتُ الْمَعَانِي: قُدْرَةٌ إِرَادَةٌ",
+      "arabic": "فَقُدْرَةٌ إِرَادَةٌ سَمْعٌ بَصَرُ * حَيَاةٌ الْعِلْمُ كَلَامٌ اسْتَمَرُّ",
+      "translation": "Maka yaitu: Qudrah, Iradah, Sam'un, Bashar, Hayat, Ilmu, dan Kalam secara terus menerus."
     },
     {
-      "title": "Istri-Istri Nabi Muhammad SAW",
-      "titleArabic": "أَزْوَاجُ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ",
-      "arabic": "عَنْ تِسْعِ نِسْوَةٍ وَفَاةُ الْمُصْطَفَى * خُيِّرْنَ فَاخْتَرْنَ النَّبِيَّ الْمُقْتَفَى. عَائِشَةٌ وَحَفْصَةٌ وَسَوْدَةُ * صَفِيَّةٌ مَيْمُوْنَةٌ وَرَمْلَةُ. هِنْدٌ وَزَيْنَبٌ كَذَا جُوَيْرِيَهْ * لِلْمُؤْمِنِيْنَ أُمَّهَاتٌ مَرْضِيَهْ.",
-      "translation": "Dari sembilan istri saat wafatnya Al-Musthafa (Nabi), mereka diberi pilihan lalu memilih Nabi yang diikuti. Aisyah, Hafshah, Saudah, Shafiyyah, Maimunah, dan Ramlah. Hindun (Ummu Salamah), Zainab, demikian pula Juwairiyah, bagi orang-orang mukmin mereka adalah ibu-ibu yang diridhai."
+      "title": "Sifat Jaiz Allah",
+      "titleArabic": "الصِّفَةُ الْجَائِزَةُ فِي حَقِّ اللهِ",
+      "arabic": "وَجَائِزٌ بِفَضْلِهِ وَعَدْلِهِ * تَرْكٌ لِكُلِّ مُمْكِنٍ أَوْ فِعْلِهِ",
+      "translation": "Dan jaiz (boleh) bagi Allah dengan anugerah dan keadilan-Nya, untuk meninggalkan suatu yang mungkin atau melakukannya."
     },
     {
-      "title": "Keluarga Nabi: Hamzah dan Abbas",
-      "titleArabic": "حَمْزَةُ وَالْعَبَّاسُ",
-      "arabic": "حَمْزَةُ عَمُّهُ وَعَبَّاسٌ كَذَا * عَمُّ النَّبِيِّ ذَا تَقًى وَذَا رِضَى.",
-      "translation": "Hamzah adalah pamannya dan Abbas demikian pula, paman Nabi yang memiliki ketakwaan dan keridhaan."
+      "title": "Sifat Wajib Para Rasul",
+      "titleArabic": "الصِّفَاتُ الْوَاجِبَةُ لِلرُّسُلِ",
+      "arabic": "أَرْسَلَ أَنْبِيَا ذَوِي فَطَانَهْ * بِالصِّدْقِ وَالتَّبْلِيْغِ وَالْأَمَانَهْ",
+      "translation": "Allah mengutus para Nabi yang memiliki kecerdasan (Fathanah), Kejujuran (Shidqun), Menyampaikan wahyu (Tabligh), dan Terpercaya (Amanah)."
     },
     {
-      "title": "Peristiwa Isra' dan Mi'raj",
-      "titleArabic": "اْلإِسْرَاءُ وَالْمِعْرَاجُ",
-      "arabic": "وَبَعْدَ خَمْسِيْنَ مِنَ الْأَعْوَامِ * وَرِحْلَةِ الْإِسْرَاءِ لِلْإِمَامِ. مِنْ مَكَّةٍ لَيْلاً لِقُدْسٍ يُدْرَى * وَبَعْدَ إِسْرَاءٍ عُرُوْجٌ لِلسَّمَا. حَتَّى رَأَى النَّبِيُّ رَبًّا كَلَّمَا * مِنْ غَيْرِ كَيْفٍ وَانْحِصَارٍ وَانْتَمَى. وَافْتَرَضَ عَلَيْهِ خَمْسًا بَعْدَمَا * كَانَتْ لِخَمْسِيْنَ صَلاَةً كَمَا. وَبَلَّغَ الْأُمَّةَ بِالْإِسْرَاءِ * وَفَرْضِ خَمْسَةٍ بِلاَ امْتِرَاءِ.",
-      "translation": "Dan setelah 50 tahun (dari umur Nabi), terjadi perjalanan Isra' bagi sang pemimpin. Dari Makkah di malam hari menuju Baitul Maqdis yang dikenal, dan setelah Isra' adalah naik (Mi'raj) ke langit. Hingga Nabi melihat Tuhan yang berfirman, tanpa menanyakan bagaimana, batasan, dan tempat. Dan Allah mewajibkan kepadanya shalat lima waktu setelah sebelumnya berjumlah 50 shalat. Dan Nabi menyampaikan kepada umat tentang peristiwa Isra' dan kewajiban shalat lima waktu tanpa keraguan."
+      "title": "Sifat Jaiz Para Rasul",
+      "titleArabic": "الصِّفَةُ الْجَائِزَةُ فِي حَقِّ الرُّسُلِ",
+      "arabic": "وَجَائِزٌ فِي حَقِّهِمْ مِنْ عَرَضِ * بِغَيْرِ نَقْصٍ كَخَفِيْفِ الْمَرَضِ",
+      "translation": "Dan boleh bagi mereka (para Rasul) sifat kemanusiaan tanpa mengurangi derajat mereka yang luhur, seperti sakit yang ringan."
     },
     {
-      "title": "Khatimah (Penutup Kitab)",
-      "titleArabic": "خَاتِمَةُ الْكِتَابِ",
-      "arabic": "قَدْ فَازَ صِدِّيْقٌ بِتَصْدِيْقٍ لَهُ * وَبِالْعُرُوْجِ الصِّدْقُ وَافَى أَهْلَهُ. وَهَذِهِ عَقِيْدَةٌ مُخْتَصَرَهْ * وَلِلْعَوَامِّ سَهْلَةٌ مُيَسَّرَهْ. نَاظِمُ تِلْكَ أَحْمَدُ الْمَرْزُوْقِي * مَنْ يَنْتَمِي لِلصَّادِقِ الْمَصْدُوْقِ. وَالْحَمْدُ لِلَّهِ وَصَلَّى سَلَّمَا * عَلَى النَّبِيِّ خَيْرِ مَنْ قَدْ عَلَّمَا. وَالآلِ وَالصَّحْبِ وَكُلِّ مُرْشِدِ * وَكُلِّ مَنْ بِخَيْرِ هَدْيٍ يَقْتَدِي. وَأَسْأَلُ الْكَرِيْمَ إِخْلاَصَ الْعَمَلْ * وَنَفْعَ كُلِّ مَنْ بِهَا قَدِ اشْتَغَلْ. أَبْيَاتُهَا (مَيْنٌ) بِحِسَّابِ الْجُمَلْ * تَارِيْخُهَا (لِيْ حَيُّ غُرٍّ) جُمَلْ. سَمَّيْتُهَا عَقِيْدَةَ الْعَوَامِّ * مِنْ وَاجِبٍ فِي الدِّيْنِ بِالتَّمَامِ.",
-      "translation": "Sungguh Abu Bakar Ash-Shiddiq telah beruntung karena membenarkan beliau, dan dengan peristiwa Mi'raj itu kebenaran menemui ahlinya. Dan inilah aqidah yang ringkas, dan bagi orang awam sangat mudah serta dimudahkan. Penulis nadhom ini adalah Ahmad Al-Marzuqi, yang bernasab kepada Nabi yang jujur dan dibenarkan (Ash-Shadiq Al-Mashduq). Dan segala puji bagi Allah, serta shalawat dan salam atas Nabi sebaik-baik pengajar. Dan keluarga, sahabat, serta setiap pembimbing, dan setiap orang yang mengikuti petunjuk yang baik. Aku memohon kepada Yang Maha Mulia keikhlasan amal, dan manfaat bagi setiap orang yang menyibukkan diri dengannya (kitab ini). Bait-baitnya berjumlah 57 (Maynun), menurut hitungan abajadun, dan tahun pembuatannya adalah 1258 H (Li Hayyun Ghurrun). Aku menamakannya Aqidatul Awam, dari hal-hal yang wajib dalam agama secara sempurna."
+      "title": "Ma'shum (Terjaga dari Dosa)",
+      "titleArabic": "عِصْمَةُ الْأَنْبِيَاءِ",
+      "arabic": "عِصْمَتُهُمْ كَسَائِرِ الْمَلَائِكَهْ * وَاجِبَةٌ وَفَاضَلُوا الْمَلَائِكَهْ",
+      "translation": "Keterjagaan mereka (dari dosa) adalah seperti para malaikat, dan itu wajib bagi mereka. Bahkan mereka (para Nabi) lebih utama daripada para malaikat."
+    },
+    {
+      "title": "Kewajiban Mengimani 10 Malaikat",
+      "titleArabic": "الْإِيْمَانُ بِالْمَلَائِكَةِ",
+      "arabic": "وَالْمُسْتَحِيْلُ ضِدُّ كُلِّ وَاجِبِ * فَاحْفَظْ لِخَمْسِيْنَ بِحُكْمٍ وَاجِبِ",
+      "translation": "Adapun sifat mustahil adalah lawan dari setiap sifat wajib. Maka hafalkanlah 50 aqidah (20 sifat wajib Allah, 20 mustahil, 1 jaiz, 4 wajib Rasul, 4 mustahil Rasul, 1 jaiz) sebagai hukum yang wajib."
+    },
+    {
+      "title": "Nama-Nama Malaikat (Jibril - Mikail)",
+      "titleArabic": "أَسْمَاءُ الْمَلَائِكَةِ: جِبْرِيْل وَمِيْكَائِيْل",
+      "arabic": "تَفْصِيْلُ عَشْرَةٍ هُمُ: جِبْرِيْلُ * مِيْكَائِيْلُ اِسْرَافِيْلُ عِزْرَائِيْلُ",
+      "translation": "Rincian sepuluh malaikat adalah: Jibril, Mikail, Israfil, Izrail."
+    },
+    {
+      "title": "Nama-Nama Malaikat (Munkar - Malik)",
+      "titleArabic": "مُنْكَر وَنَكِيْر وَغَيْرُهُمَا",
+      "arabic": "مُنْكَرُ نَكِيْرٌ وَرَقِيْبٌ وَكَذَا * عَتِيْدٌ مَالِكٌ وَرِضْوَانُ احْتَذَى",
+      "translation": "Munkar, Nakir, Raqib, dan begitu pula Atid, Malik, serta Ridwan yang mengikuti (tugas masing-masing)."
+    },
+    {
+      "title": "Kewajiban Mengimani 4 Kitab Samawi",
+      "titleArabic": "الْإِيْمَانُ بِالْكُتُبِ السَّمَاوِيَّةِ",
+      "arabic": "أَرْبَعَةٌ مِنْ كُتُبٍ تَفْصِيْلُهَا * تَوْرَاةُ مُوْسَى بِالْهُدَى تَنْزِيْلُهَا",
+      "translation": "Ada empat kitab suci yang dirinci: Taurat bagi Nabi Musa diturunkan dengan membawa petunjuk."
+    },
+    {
+      "title": "Kitab Zabur, Injil, & Al-Quran",
+      "titleArabic": "الزَّبُوْرُ وَالْإِنْجِيْلُ وَالْفُرْقَانُ",
+      "arabic": "زَبُوْرُ دَاوُدَ وَاِنْجِيْلُ عَلَى * عِيْسَى وَفُرْقَانٌ عَلَى خَيْرِ الْمَلَا",
+      "translation": "Zabur bagi Nabi Daud, Injil bagi Nabi Isa, dan Al-Furqan (Al-Quran) bagi sebaik-baik makhluk (Nabi Muhammad)."
+    },
+    {
+      "title": "Suhuf Nabi Ibrahim & Nabi Musa",
+      "titleArabic": "صُحُفُ اِبْرَاهِيْمَ وَمُوْسَى",
+      "arabic": "وَصُحُفُ الْخَلِيْلِ وَالْكَلِيْمِ * فِيْهَا كَلَامُ الْحَكَمِ الْعَلِيْمِ",
+      "translation": "Dan Shuhuf (lembaran) bagi Al-Khalil (Nabi Ibrahim) dan Al-Kalim (Nabi Musa), di dalamnya terkandung firman dari Allah Yang Maha Bijaksana lagi Maha Mengetahui."
+    },
+    {
+      "title": "Kewajiban Mengetahui 25 Rasul",
+      "titleArabic": "وُجُوْبُ مَعْرِفَةِ خَمْسَةٍ وَعِشْرِيْنَ رَسُوْلاً",
+      "arabic": "وَكُلُّ مَا أَتَى بِهِ الرَّسُوْلُ * فَحَقُّهُ التَّسْلِيْمُ وَالْقَبُوْلُ",
+      "translation": "Dan segala sesuatu yang dibawa oleh Rasul, maka wajib kita pasrah dan menerimanya."
+    },
+    {
+      "title": "Daftar Nabi (1-7)",
+      "titleArabic": "أَسْمَاءُ الْأَنْبِيَاءِ (١-٧)",
+      "arabic": "إِيْمَانُنَا بِصَادِقٍ أَقْسَامُ * اِنْ جَمَعَتْ خَمْسِيْنَ فَالْإِتْمَامُ",
+      "translation": "Iman kita kepada kebenaran itu terbagi beberapa bagian, jika terkumpul 50 (aqidah) maka sempurnalah."
+    },
+    {
+      "title": "Nabi Adam hingga Nabi Luth",
+      "titleArabic": "مِنْ آدَم إِلَى لُوْط",
+      "arabic": "هُمْ: آدَمٌ اِدْرِيْسُ نُوْحٌ هُوْدُ مَعْ * صَالِحْ وَاِبْرَاهِيْمُ كُلٌّ مُتَّبَعْ. لُوْطٌ وَاِسْمَاعِيْلُ اِسْحَاقُ كَذَا",
+      "translation": "Mereka adalah: Adam, Idris, Nuh, Hud, serta Shalih dan Ibrahim yang semuanya diikuti. Luth, Ismail, dan Ishaq begitu pula."
+    },
+    {
+      "title": "Nabi Ya'qub hingga Nabi Al-Yasa'",
+      "titleArabic": "مِنْ يَعْقُوْب إِلَى الْيَسَع",
+      "arabic": "يَعْقُوْبُ يُوْسُفُ وَأَيُّوْبُ احْتَذَى. شُعَيْبُ هَارُوْنُ وَمُوْسَى وَالْيَسَعْ",
+      "translation": "Ya'qub, Yusuf, dan Ayyub yang mengikuti. Syuaib, Harun, Musa, dan Al-Yasa'."
+    },
+    {
+      "title": "Nabi Dzulkifli hingga Nabi Muhammad",
+      "titleArabic": "مِنْ ذِي الْكِفْلِ إِلَى مُحَمَّدٍ",
+      "arabic": "ذُو الْكِفْلِ دَاوُدُ سُلَيْمَانُ اتَّبَعْ. اِلْيَاسُ يُوْنُسُ زَكَرِيَّا يَحْيَى * عِيْسَى وَطَهَ خَاتِمٌ لِلْأَنْبِيَا",
+      "translation": "Dzulkifli, Daud, Sulaiman yang mengikuti. Ilyas, Yunus, Zakariya, Yahya, Isa, dan Thaha (Muhammad) sebagai penutup para Nabi."
+    },
+    {
+      "title": "Shalawat bagi Para Nabi",
+      "titleArabic": "الصَّلَاةُ عَلَيْهِمْ أَجْمَعِيْنَ",
+      "arabic": "عَلَيْهِمُ الصَّلَاةُ وَالسَّلَامُ * وَآلِهِمْ مَا دَامَتِ الْأَيَّامُ",
+      "translation": "Semoga shalawat dan salam tercurah kepada mereka dan keluarga mereka selama hari-hari masih ada."
+    },
+    {
+      "title": "Silsilah Ayah Nabi Muhammad",
+      "titleArabic": "نَسَبُ النَّبِيِّ مِنْ جِهَةِ أَبِيْهِ",
+      "arabic": "نَبِيُّنَا مُحَمَّدٌ قَدْ أُرْسِلَا * لِلْعَالَمِيْنَ رَحْمَةً وَفُضِّلَا. أَبُوْهُ عَبْدُ اللهِ عَبْدُ الْمُطَّلِبْ * وَهَاشِمٌ عَبْدُ مَنَافٍ يَنْتَسِبْ",
+      "translation": "Nabi kita Muhammad telah diutus untuk semesta alam sebagai rahmat dan beliau diutamakan. Ayahnya adalah Abdullah bin Abdul Mutthalib, dan nasabnya tersambung ke Hasyim bin Abdu Manaf."
+    },
+    {
+      "title": "Ibunda Nabi Muhammad",
+      "titleArabic": "أُمُّ النَّبِيِّ",
+      "arabic": "وَأُمُّهُ آمِنَةُ الزُّهْرِيَّهْ * أَرْضَعَتْهُ حَلِيْمَةُ السَّعْدِيَّهْ",
+      "translation": "Dan Ibunya adalah Aminah dari suku Zuhrah, yang menyusuinya adalah Halimah As-Sa'diyyah."
+    },
+    {
+      "title": "Tempat Lahir & Wafat",
+      "titleArabic": "مَوْلِدُهُ وَوَفَاتُهُ",
+      "arabic": "مَوْلِدُهُ بِمَكَّةَ الْأَمِيْنَهْ * وَفَاتُهُ بِطَيْبَةَ الْمَدِيْنَهْ",
+      "translation": "Kelahirannya di Makkah yang aman, dan wafatnya di Thayyibah (Madinah) yang bercahaya."
+    },
+    {
+      "title": "Usia Nabi Muhammad",
+      "titleArabic": "عُمْرُ النَّبِيِّ",
+      "arabic": "أَتَمَّ قَبْلَ الْوَحْيِ أَرْبَعِيْنَا * وَعُمْرُهُ قَدْ جَازَ سِتِّيْنَا",
+      "translation": "Beliau menyempurnakan usia empat puluh tahun sebelum wahyu turun, dan usianya telah melewati enam puluh tahun (wafat pada usia 63 tahun)."
+    },
+    {
+      "title": "Putra-Putra Nabi (Qasim, Abdullah, Ibrahim)",
+      "titleArabic": "أَوْلَادُ النَّبِيِّ الذُّكُوْرُ",
+      "arabic": "وَسَبْعَةٌ أَوْلَادُهُ فَمِنْهُمُ * ثَلَاثَةٌ مِنَ الذُّكُوْرِ تُفْهَمُ. قَاسِمْ وَعَبْدُ اللهِ وَهْوَ الطَّيِّبُ * وَطَاهِرٌ بِذَيْنِ ذَا يُلَقَّبُ. أَتَاهُ اِبْرَاهِيْمُ مِنْ سُرِّيَّهْ * فَأُمُّهُ مَارِيَّةُ الْقِبْطِيَّهْ",
+      "translation": "Anak-anak beliau ada tujuh, tiga di antaranya adalah laki-laki: Qasim, Abdullah yang dijuluki At-Thayyib dan At-Thahir. Dan kemudian Ibrahim dari selir beliau, ibunya adalah Mariyah Al-Qibthiyyah."
+    },
+    {
+      "title": "Putri-Putri Nabi (Fathimah, Zainab, dll)",
+      "titleArabic": "بَنَاتُ النَّبِيِّ",
+      "arabic": "وَأَرْبَعٌ مِنَ الْإِنَاثِ تُذْكَرُ * رِضْوَانُ رَبِّي لِلْجَمِيْعِ يُذْكَرُ. فَاطِمَةُ الزَّهْرَاءُ بَعْلُهَا عَلِيْ * وَابْنَاهُمَا السِّبْطَانِ فَضْلُهُمْ جَلِيْ. فَزَيْنَبٌ وَبَعْدَهَا رُقَيَّةْ * وَأُمُّ كُلْثُوْمٍ زَكَتْ رَضِيَّةْ",
+      "translation": "Dan empat orang perempuan: Fathimah Az-Zahra yang suaminya adalah Ali bin Abi Thalib, dan kedua putra mereka (Hasan & Husain) memiliki keutamaan yang nyata. Kemudian Zainab, setelahnya Ruqayyah, dan Ummu Kultsum yang suci lagi diridhai."
+    },
+    {
+      "title": "Istri-Istri Nabi (Ummahatul Mukminin)",
+      "titleArabic": "أَزْوَاجُ النَّبِيِّ",
+      "arabic": "عَنْ تِسْعِ نِسْوَةٍ وَفَاةُ الْمُصْطَفَى * خُيِّرْنَ فَاخْتَرْنَ النَّبِيَّ الْمُقْتَفَى",
+      "translation": "Nabi wafat meninggalkan sembilan istri, mereka diberi pilihan dan mereka memilih Nabi sebagai ikutan."
+    },
+    {
+      "title": "Nama-Nama Istri Nabi (Bagian 1)",
+      "titleArabic": "أَسْمَاءُ الزَّوْجَاتِ (١)",
+      "arabic": "عَائِشَةٌ وَحَفْصَةٌ وَسَوْدَةُ * صَفِيَّةٌ مَيْمُوْنَةٌ وَرَمْلَةُ",
+      "translation": "Aisyah, Hafshah, Saudah, Shafiyyah, Maimunah, dan Ramlah (Ummu Habibah)."
+    },
+    {
+      "title": "Nama-Nama Istri Nabi (Bagian 2)",
+      "titleArabic": "أَسْمَاءُ الزَّوْجَاتِ (٢)",
+      "arabic": "هِنْدٌ وَزَيْنَبٌ كَذَا جُوَيْرِيَهْ * لِلْمُؤْمِنِيْنَ أُمَّهَاتٌ مَرْضِيَّهْ",
+      "translation": "Hindun (Ummu Salamah), Zainab, begitu juga Juwairiyah. Mereka adalah ibu bagi orang-orang beriman yang diridhai."
+    },
+    {
+      "title": "Paman-Paman Nabi",
+      "titleArabic": "أَعْمَامُ النَّبِيِّ",
+      "arabic": "حَمْزَةُ عَمُّهُ وَعَبَّاسٌ كَذَا * عَمَّتُهُ صَفِيَّةٌ ذَاتُ احْتِذَا",
+      "translation": "Hamzah adalah pamannya, begitu pula Abbas. Bibinya adalah Shafiyyah yang mengikuti (Islam)."
+    },
+    {
+      "title": "Peristiwa Isra Mi'raj",
+      "titleArabic": "الْإِسْرَاءُ وَالْمِعْرَاجُ",
+      "arabic": "وَقَبْلَ هِجْرَةِ النَّبِيِّ الْإِسْرَا * مِن مَّكَّةٍ لَيْلاً لِقُدْسٍ يُدْرَى",
+      "translation": "Dan sebelum hijrah Nabi, terjadilah peristiwa Isra' dari Makkah di malam hari menuju Baitul Maqdis (Al-Quds) yang sudah diketahui."
+    },
+    {
+      "title": "Kenaikan ke Sidratul Muntaha",
+      "titleArabic": "الْعُرُوجُ إِلَى السَّمَاءِ",
+      "arabic": "وَبَعْدَ إِسْرَاءٍ عُرُوْجٌ لِلسَّمَا * حَتَّى رَأَى النَّبِيُّ رَبًّا كَلَّمَا",
+      "translation": "Setelah Isra' dilanjutkan dengan naik ke langit (Mi'raj) hingga Nabi melihat Tuhannya yang berfirman kepadanya."
+    },
+    {
+      "title": "Perintah Shalat Lima Waktu",
+      "titleArabic": "فَرْضُ الصَّلَوَاتِ الْخَمْسِ",
+      "arabic": "مِنْ غَيْرِ كَيْفٍ وَانْحِصَارٍ وَافْتَرَضْ * عَلَيْهِ خَمْسًا بَعْدَ خَمْسِيْنَ فَرَضْ",
+      "translation": "Tanpa bagaimana (kaif) dan batasan tempat. Dan Allah mewajibkan kepadanya shalat lima waktu setelah sebelumnya lima puluh waktu."
+    },
+    {
+      "title": "Penyampaian Berita Isra Mi'raj",
+      "titleArabic": "تَبْلِيْغُ خَبَرِ الْإِسْرَاءِ",
+      "arabic": "وَبَلَّغَ الْأُمَّةَ بِالْإِسْرَاءِ * وَفَرْضِ خَمْسَةٍ بِلَا امْتِرَاءِ",
+      "translation": "Dan beliau menyampaikan kepada umat tentang peristiwa Isra' dan kewajiban shalat lima waktu tanpa keraguan."
+    },
+    {
+      "title": "Kebenaran Abu Bakar Ash-Shiddiq",
+      "titleArabic": "تَصْدِيْقُ أَبِي بَكْرٍ الصِّدِّيْقِ",
+      "arabic": "قَدْ فَازَ صِدِّيْقٌ بِتَصْدِيْقٍ لَهُ * وَبِالْعُرُوْجِ الصِّدْقُ وَافَى أَهْلَهُ",
+      "translation": "Sungguh beruntung Abu Bakar Ash-Shiddiq karena membenarkannya (Nabi), dan dengan berita Mi'raj itu, kebenaran menemui orang yang pantas menerimanya."
+    },
+    {
+      "title": "Penutup: Ringkasan Aqidah",
+      "titleArabic": "خَاتِمَةُ الْعَقِيْدَةِ",
+      "arabic": "وَهَذِهِ عَقِيْدَةٌ مُخْتَصَرَهْ * وَلِلْعَوَامِ سَهْلَةٌ مُيَسَّرَهْ",
+      "translation": "Dan inilah aqidah yang diringkas, bagi orang awam sangat mudah dan gampang dipahami."
+    },
+    {
+      "title": "Nama Kitab (Aqidatul Awam)",
+      "titleArabic": "تَسْمِيَةُ الْكِتَابِ",
+      "arabic": "سَمَّيْتُهَا عَقِيْدَةَ الْعَوَامِ * مِنْ وَاجِبِ الدِّيْنِ بِالتَّمَامِ",
+      "translation": "Aku menamakan kitab ini 'Aqidatul Awam' (Aqidah untuk orang awam), yang berisi kewajiban agama secara sempurna."
+    },
+    {
+      "title": "Doa & Harapan Penulis",
+      "titleArabic": "دُعَاءُ الْمُؤَلِّفِ",
+      "arabic": "وَأَسْأَلُ اللهَ لَنَا الْإِخْلَاصَا * وَأَنْ يَكُوْنَ نَفْعُهَا مَحْصُوْصَا",
+      "translation": "Dan aku memohon kepada Allah keikhlasan bagi kami, dan agar manfaat kitab ini menjadi khusus (bagi yang mempelajarinya)."
+    },
+    {
+      "title": "Jumlah Bait Nazham",
+      "titleArabic": "عَدَدُ أَبْيَاتِ الْمَنْظُوْمَةِ",
+      "arabic": "أَبْيَاتُهَا (مَيْنٌ) بِعَدِّ الْجُمَلِ * تَارِيْخُهَا (لِيْ حَيُّ غُرٍّ) جُمَّلِ",
+      "translation": "Bait-bait nazham ini berjumlah 57 (huruf Mim dan Yun) menurut hitungan abajadun, dan tahun penyusunannya adalah 1258 H (Li Hayyun Ghurrin)."
+    },
+    {
+      "title": "Pujian Terakhir & Shalawat Penutup",
+      "titleArabic": "الْخَاتِمَةُ وَالصَّلَاةُ عَلَى النَّبِيِّ",
+      "arabic": "ثُمَّ الصَّلَاةُ وَالسَّلَامُ أَبَدَا * عَلَى النَّبِيِّ خَيْرِ مَنْ قَدْ وَحَّدَا. وَالْآلِ وَالصَّحْبِ وَكُلِّ مُرْشِدِ * وَكُلِّ مَنْ لِخَيْرِ هَدْيٍ يَقْتَدِي",
+      "translation": "Kemudian shalawat dan salam selamanya atas Nabi sebaik-baik yang mengesakan Allah. Serta keluarga, sahabat, dan setiap pembimbing, dan setiap orang yang mengikuti petunjuk kebaikan."
     }
   ]
 }
