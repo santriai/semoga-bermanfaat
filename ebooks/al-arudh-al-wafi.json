@@ -1,0 +1,404 @@
+{
+  "profile": {
+    "name": "Al-Arudh al-Wafi",
+    "originalTitle": "اَلْعَرُوْضُ الْوَافِي",
+    "author": "Syekh Muhammad Bahjat al-Baitar (شَيْخ مُحَمَّد بَهْجَت الْبَيْطَار)",
+    "field": "Ilmu Arudh dan Qawafi (Prosodi Arab)",
+    "about": "Kitab Al-Arudh al-Wafi merupakan karya monumental dari Syekh Muhammad Bahjat al-Baitar yang membahas secara mendalam struktur ritme dan rima dalam puisi Arab klasik. Kitab ini berfungsi sebagai panduan otoritatif bagi para sastrawan dan pelajar untuk memahami 16 bahr (meteran) puisi Arab beserta perubahan-perubahannya. Penulis menyajikan materi dengan sistematis, mulai dari kaidah penulisan arudhiyah hingga detail terkecil mengenai cacat rima (uyub al-qafiyah). Kitab ini dikenal karena penjelasannya yang jernih, menggabungkan metode klasik dengan pendekatan pedagogis yang memudahkan pemahaman. Di dunia pesantren dan akademisi sastra Arab, kitab ini menjadi rujukan utama untuk menjaga keaslian struktur syair Arab dari penyimpangan.",
+    "authorBorn": "Damaskus, Suriah, 1311 H / 1894 M",
+    "authorDied": "Damaskus, Suriah, 1396 H / 1976 M",
+    "authorCentury": "Abad 14 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Mukadimah Kitab",
+      "titleArabic": "مُقَدِّمَةُ الْكِتَابِ",
+      "arabic": "اَلْحَمْدُ لِلَّهِ الَّذِي جَعَلَ الْبَيَانَ لِلْإِنْسَانِ مِيزَانًا، وَالصَّلَاةُ وَالسَّلَامُ عَلَى سَيِّدِنَا مُحَمَّدٍ أَفْصَحِ الْعَرَبِ لِسَانًا. أَمَّا بَعْدُ، فَهَذَا كِتَابٌ فِي عِلْمَيِ الْعَرُوضِ وَالْقَوَافِي، جَمَعْتُ فِيهِ أُصُولَ هَذَا الْفَنِّ بِأُسْلُوبٍ وَافٍ.",
+      "translation": "Segala puji bagi Allah yang telah menjadikan penjelasan (bayan) sebagai timbangan bagi manusia. Shalawat serta salam semoga tercurah kepada junjungan kita Nabi Muhammad, orang yang paling fasih lisannya di antara bangsa Arab. Adapun setelah itu, ini adalah sebuah kitab tentang dua ilmu: Arudh dan Qawafi, yang aku kumpulkan di dalamnya pokok-pokok seni ini dengan metode yang lengkap."
+    },
+    {
+      "title": "Definisi Ilmu Arudh",
+      "titleArabic": "تَعْرِيفُ عِلْمِ الْعَرُوضِ",
+      "arabic": "الْعَرُوضُ هُوَ عِلْمٌ يُعْرَفُ بِهِ صَحِيحُ أَوْزَانِ الشِّعْرِ الْعَرَبِيِّ مِنْ فَاسِدِهَا. وَمَوْضُوعُهُ: الشِّعْرُ الْعَرَبِيُّ مِنْ حَيْثُ هُوَ مَوْزُونٌ.",
+      "translation": "Arudh adalah ilmu yang digunakan untuk mengetahui benar atau salahnya timbangan syair Arab. Objek kajiannya adalah syair Arab dari sisi timbangan/ritmenya."
+    },
+    {
+      "title": "Penulisan Arudh (Al-Kitabah al-Arudhiyyah)",
+      "titleArabic": "الْكِتَابَةُ الْعَرُوضِيَّةُ",
+      "arabic": "الْقَاعِدَةُ فِي الْكِتَابَةِ الْعَرُوضِيَّةِ: مَا يُنْطَقُ يُكْتَبُ وَمَا لَا يُنْطَقُ لَا يُكْتَبُ.",
+      "translation": "Kaidah dalam penulisan arudh adalah: apa yang diucapkan maka ditulis, dan apa yang tidak diucapkan maka tidak ditulis."
+    },
+    {
+      "title": "Hukum At-Tanwin",
+      "titleArabic": "حُكْمُ التَّنْوِينِ",
+      "arabic": "التَّنْوِينُ يُكْتَبُ نُونًا سَاكِنَةً، مِثْلُ: (كِتَابٌ) تُكْتَبُ (كِتَابُنْ).",
+      "translation": "Tanwin ditulis sebagai nun sukun, contohnya: 'Kitabun' ditulis 'Kitabun' (dengan nun mati)."
+    },
+    {
+      "title": "Hukum Al-Harf al-Musyaddad",
+      "titleArabic": "حُكْمُ الْحَرْفِ الْمُشَدَّدِ",
+      "arabic": "الْحَرْفُ الْمُشَدَّدُ يُكْتَبُ حَرْفَيْنِ: الْأَوَّلُ سَاكِنٌ وَالثَّانِي مُتَحَرِّكٌ.",
+      "translation": "Huruf yang bertasydid ditulis dua huruf: yang pertama sukun (mati) dan yang kedua mutaharrik (berharakat)."
+    },
+    {
+      "title": "Komponen Kata (Al-Asbab)",
+      "titleArabic": "الْأَسْبَابُ",
+      "arabic": "السَّبَبُ نَوْعَانِ: سَبَبٌ خَفِيفٌ (مُتَحَرِّكٌ فَسَاكِنٌ مِثْلُ لَمْ) وَسَبَبٌ ثَقِيلٌ (مُتَحَرِّكٌ فَمُتَحَرِّكٌ مِثْلُ أَرَى).",
+      "translation": "Sabab ada dua macam: Sabab Khafif (berharakat lalu sukun seperti 'Lam') dan Sabab Thaqil (berharakat lalu berharakat seperti 'Ara')."
+    },
+    {
+      "title": "Komponen Kata (Al-Awtad)",
+      "titleArabic": "الْأَوْتَادُ",
+      "arabic": "الْوَتَدُ نَوْعَانِ: مَجْمُوعٌ (مُتَحَرِّكَانِ فَسَاكِنٌ مِثْلُ نَعَمْ) وَمَفْرُوقٌ (مُتَحَرِّكٌ فَسَاكِنٌ فَمُتَحَرِّكٌ مِثْلُ قَامَ).",
+      "translation": "Watad ada dua macam: Majmu' (dua berharakat lalu sukun seperti 'Na'am') dan Mafruq (berharakat, sukun, lalu berharakat seperti 'Qama')."
+    },
+    {
+      "title": "Komponen Kata (Al-Fawashil)",
+      "titleArabic": "الْفَوَاصِلُ",
+      "arabic": "الْفَاصِلَةُ نَوْعَانِ: صُغْرَى (ثَلَاثُ مُتَحَرِّكَاتٍ فَسَاكِنٌ) وَكُبْرَى (أَرْبَعُ مُتَحَرِّكَاتٍ فَسَاكِنٌ).",
+      "translation": "Fashilah ada dua macam: Sughra (tiga berharakat lalu sukun) dan Kubra (empat berharakat lalu sukun)."
+    },
+    {
+      "title": "Sepuluh Taf'ilat (Feet)",
+      "titleArabic": "التَّفَاعِيلُ الْعَشَرَةُ",
+      "arabic": "الْأَجْزَاءُ الْعَرُوضِيَّةُ عَشَرَةٌ: فَعُولُنْ، فَاعِلُنْ، مَفَاعِيلُنْ، مُفَاعَلَتُنْ، فَاعِلَاتُنْ، مُسْتَفْعِلُنْ، مُتَفَاعِلُنْ، مَفْعُولَاتُ، مُسْتَفْعِ لُنْ، فَاعِ لَاتُنْ.",
+      "translation": "Bagian-bagian arudh (feet) ada sepuluh: Fa'ulun, Fa'ilun, Mafa'ilun, Mufa'alatun, Fa'ilatun, Mustaf'ilun, Mutafa'ilun, Maf'ulatu, Mustaf'i lun, Fa'i latun."
+    },
+    {
+      "title": "Pengertian Az-Zihaf",
+      "titleArabic": "مَعْنَى الزِّحَافِ",
+      "arabic": "الزِّحَافُ هُوَ تَغْيِيرٌ يَخْتَصُّ بِثَوَانِي الْأَسْبَابِ، وَلَا يَلْزَمُ إِذَا وَقَعَ.",
+      "translation": "Zihaf adalah perubahan yang khusus terjadi pada huruf kedua dari Sabab, dan tidak bersifat mengikat (lazim) jika terjadi."
+    },
+    {
+      "title": "Macam-Macam Zihaf Mufrad (Al-Khabn)",
+      "titleArabic": "الْخَبْنُ",
+      "arabic": "الْخَبْنُ هُوَ حَذْفُ الثَّانِي السَّاكِنِ، مِثْلُ قَلْبِ فَاعِلُنْ إِلَى فَعِلُنْ.",
+      "translation": "Al-Khabn adalah membuang huruf kedua yang sukun, seperti mengubah Fa'ilun menjadi Fa'ilun (dengan membuang alif)."
+    },
+    {
+      "title": "Al-Idhmar",
+      "titleArabic": "الْإِضْمَارُ",
+      "arabic": "الْإِضْمَارُ هُوَ تَسْكِينُ الثَّانِي الْمُتَحَرِّكِ، مِثْلُ مُتَفَاعِلُنْ تُصْبِحُ مُتْفَاعِلُنْ.",
+      "translation": "Al-Idhmar adalah mensukunkan huruf kedua yang berharakat, seperti Mutafa'ilun menjadi Mutfa'ilun."
+    },
+    {
+      "title": "Al-Waqs",
+      "titleArabic": "الْوَقْصُ",
+      "arabic": "الْوَقْصُ هُوَ حَذْفُ الثَّانِي الْمُتَحَرِّكِ، مِثْلُ مُتَفَاعِلُنْ تُصْبِحُ مُفَاعِلُنْ.",
+      "translation": "Al-Waqs adalah membuang huruf kedua yang berharakat, seperti Mutafa'ilun menjadi Mufa'ilun."
+    },
+    {
+      "title": "At-Tayyi",
+      "titleArabic": "الطَّيُّ",
+      "arabic": "الطَّيُّ هُوَ حَذْفُ الرَّابِعِ السَّاكِنِ، مِثْلُ مُسْتَفْعِلُنْ تُصْبِحُ مُسْتَعِلُنْ.",
+      "translation": "At-Tayyi adalah membuang huruf keempat yang sukun, seperti Mustaf'ilun menjadi Musta'ilun."
+    },
+    {
+      "title": "Al-Qabd",
+      "titleArabic": "الْقَبْضُ",
+      "arabic": "الْقَبْضُ هُوَ حَذْفُ الْخَامِسِ السَّاكِنِ، مِثْلُ فَعُولُنْ تُصْبِحُ فَعُولُ.",
+      "translation": "Al-Qabd adalah membuang huruf kelima yang sukun, seperti Fa'ulun menjadi Fa'ulu."
+    },
+    {
+      "title": "Al-Aql",
+      "titleArabic": "الْعَقْلُ",
+      "arabic": "الْعَقْلُ هُوَ حَذْفُ الْخَامِسِ الْمُتَحَرِّكِ، مِثْلُ مُفَاعَلَتُنْ تُصْبِحُ مُفَاعَتُنْ.",
+      "translation": "Al-Aql adalah membuang huruf kelima yang berharakat, seperti Mufa'alatun menjadi Mufa'atun."
+    },
+    {
+      "title": "Al-Kaff",
+      "titleArabic": "الْكَفُّ",
+      "arabic": "الْكَفُّ هُوَ حَذْفُ السَّابِعِ السَّاكِنِ، مِثْلُ مَفَاعِيلُنْ تُصْبِحُ مَفَاعِيلُ.",
+      "translation": "Al-Kaff adalah membuang huruf ketujuh yang sukun, seperti Mafa'ilun menjadi Mafa'ilu."
+    },
+    {
+      "title": "Zihaf Murakkab (Al-Khabl)",
+      "titleArabic": "الْخَبْلُ",
+      "arabic": "الْخَبْلُ هُوَ اجْتِمَاعُ الْخَبْنِ وَالطَّيِّ، مِثْلُ مُسْتَفْعِلُنْ تُصْبِحُ مُتَعِلُنْ.",
+      "translation": "Al-Khabl adalah gabungan antara Khabn dan Tayyi, seperti Mustaf'ilun menjadi Muta'ilun."
+    },
+    {
+      "title": "Al-Khazl",
+      "titleArabic": "الْخَزْلُ",
+      "arabic": "الْخَزْلُ هُوَ اجْتِمَاعُ الْإِضْمَارِ وَالطَّيِّ فِي مُتَفَاعِلُنْ.",
+      "translation": "Al-Khazl adalah gabungan antara Idhmar dan Tayyi dalam taf'ilah Mutafa'ilun."
+    },
+    {
+      "title": "Al-Syakl",
+      "titleArabic": "الشَّكْلُ",
+      "arabic": "الشَّكْلُ هُوَ اجْتِمَاعُ الْخَبْنِ وَالْكَفِّ.",
+      "translation": "Al-Syakl adalah gabungan antara Khabn dan Kaff."
+    },
+    {
+      "title": "Al-Naqs",
+      "titleArabic": "النَّقْصُ",
+      "arabic": "النَّقْصُ هُوَ اجْتِمَاعُ الْعَصْبِ وَالْكَفِّ.",
+      "translation": "Al-Naqs adalah gabungan antara 'Asb dan Kaff."
+    },
+    {
+      "title": "Pengertian Al-Illah",
+      "titleArabic": "مَعْنَى الْعِلَّةِ",
+      "arabic": "الْعِلَّةُ هِيَ تَغْيِيرٌ يَلْحَقُ الْأَسْبَابَ وَالْأَوْتَادَ فِي الْعَرُوضِ وَالضَّرْبِ، وَإِذَا وَقَعَتْ لَزِمَتْ.",
+      "translation": "Illah adalah perubahan yang mengenai Sabab dan Watad pada bagian Arudh (akhir baris pertama) dan Dharb (akhir baris kedua), dan jika terjadi maka bersifat mengikat (lazim)."
+    },
+    {
+      "title": "Illah bi al-Ziyadah (At-Tarfîl)",
+      "titleArabic": "التَّرْفِيلُ",
+      "arabic": "التَّرْفِيلُ هُوَ زِيَادَةُ سَبَبٍ خَفِيفٍ عَلَى مَا انْتَهَى بِوَتَدٍ مَجْمُوعٍ، مِثْلُ فَاعِلُنْ تُصْبِحُ فَاعِلَاتُنْ.",
+      "translation": "At-Tarfil adalah penambahan Sabab Khafif pada taf'ilah yang diakhiri Watad Majmu', seperti Fa'ilun menjadi Fa'ilatun."
+    },
+    {
+      "title": "At-Tadzyîl",
+      "titleArabic": "التَّذْيِيلُ",
+      "arabic": "التَّذْيِيلُ هُوَ زِيَادَةُ حَرْفٍ سَاكِنٍ عَلَى مَا انْتَهَى بِوَتَدٍ مَجْمُوعٍ، مِثْلُ مُسْتَفْعِلُنْ تُصْبِحُ مُسْتَفْعِلَانْ.",
+      "translation": "At-Tadzyil adalah penambahan satu huruf sukun pada taf'ilah yang diakhiri Watad Majmu', seperti Mustaf'ilun menjadi Mustaf'ilan."
+    },
+    {
+      "title": "Al-Isbagh",
+      "titleArabic": "الْإِسْبَاغُ",
+      "arabic": "الْإِسْبَاغُ هُوَ زِيَادَةُ حَرْفٍ سَاكِنٍ عَلَى مَا انْتَهَى بِسَبَبٍ خَفِيفٍ.",
+      "translation": "Al-Isbagh adalah penambahan satu huruf sukun pada taf'ilah yang diakhiri Sabab Khafif."
+    },
+    {
+      "title": "Illah bi al-Naqsh (Al-Hadzf)",
+      "titleArabic": "الْحَذْفُ",
+      "arabic": "الْحَذْفُ هُوَ سُقُوطُ السَّبَبِ الْخَفِيفِ مِنْ آخِرِ التَّفْعِيلَةِ.",
+      "translation": "Al-Hadzf adalah gugurnya Sabab Khafif dari akhir taf'ilah."
+    },
+    {
+      "title": "Al-Qathf",
+      "titleArabic": "الْقَطْفُ",
+      "arabic": "الْقَطْفُ هُوَ اجْتِمَاعُ الْحَذْفِ مَعَ الْعَصْبِ فِي مُفَاعَلَتُنْ.",
+      "translation": "Al-Qathf adalah gabungan antara Hadzf dan 'Asb dalam taf'ilah Mufa'alatun."
+    },
+    {
+      "title": "Al-Qath'",
+      "titleArabic": "الْقَطْعُ",
+      "arabic": "الْقَطْعُ هُوَ حَذْفُ سَاكِنِ الْوَتَدِ الْمَجْمُوعِ وَتَسْكِينُ مَا قَبْلَهُ.",
+      "translation": "Al-Qath' adalah membuang huruf sukun dari Watad Majmu' dan mensukunkan huruf sebelumnya."
+    },
+    {
+      "title": "Al-Bahr Ath-Thawil",
+      "titleArabic": "الْبَحْرُ الطَّوِيلُ",
+      "arabic": "وَزْنُهُ: فَعُولُنْ مَفَاعِيلُنْ فَعُولُنْ مَفَاعِيلُنْ (مَرَّتَيْنِ). وَلَهُ عَرُوضٌ وَاحِدَةٌ مَقْبُوضَةٌ.",
+      "translation": "Wazannya: Fa'ulun Mafa'ilun Fa'ulun Mafa'ilun (dua kali). Memiliki satu Arudh yang Maqbudhah (Mafa'ilu)."
+    },
+    {
+      "title": "Al-Bahr Al-Madid",
+      "titleArabic": "الْبَحْرُ الْمَدِيدُ",
+      "arabic": "وَزْنُهُ: فَاعِلَاتُنْ فَاعِلُنْ فَاعِلَاتُنْ (مَرَّتَيْنِ).",
+      "translation": "Wazannya: Fa'ilatun Fa'ilun Fa'ilatun (dua kali)."
+    },
+    {
+      "title": "Al-Bahr Al-Basit",
+      "titleArabic": "الْبَحْرُ الْبَسِيطُ",
+      "arabic": "وَزْنُهُ: مُسْتَفْعِلُنْ فَاعِلُنْ مُسْتَفْعِلُنْ فَاعِلُنْ (مَرَّتَيْنِ).",
+      "translation": "Wazannya: Mustaf'ilun Fa'ilun Mustaf'ilun Fa'ilun (dua kali)."
+    },
+    {
+      "title": "Al-Bahr Al-Wafir",
+      "titleArabic": "الْبَحْرُ الْوَافِرُ",
+      "arabic": "وَزْنُهُ: مُفَاعَلَتُنْ مُفَاعَلَتُنْ فَعُولُنْ (مَرَّتَيْنِ).",
+      "translation": "Wazannya: Mufa'alatun Mufa'alatun Fa'ulun (dua kali)."
+    },
+    {
+      "title": "Al-Bahr Al-Kamil",
+      "titleArabic": "الْبَحْرُ الْكَامِلُ",
+      "arabic": "وَزْنُهُ: مُتَفَاعِلُنْ مُتَفَاعِلُنْ مُتَفَاعِلُنْ (مَرَّتَيْنِ).",
+      "translation": "Wazannya: Mutafa'ilun Mutafa'ilun Mutafa'ilun (dua kali)."
+    },
+    {
+      "title": "Al-Bahr Al-Hazaj",
+      "titleArabic": "الْبَحْرُ الْهَزَجُ",
+      "arabic": "وَزْنُهُ: مَفَاعِيلُنْ مَفَاعِيلُنْ (مَرَّتَيْنِ).",
+      "translation": "Wazannya: Mafa'ilun Mafa'ilun (dua kali)."
+    },
+    {
+      "title": "Al-Bahr Al-Rajaz",
+      "titleArabic": "الْبَحْرُ الرَّجَزُ",
+      "arabic": "وَزْنُهُ: مُسْتَفْعِلُنْ مُسْتَفْعِلُنْ مُسْتَفْعِلُنْ (مَرَّتَيْنِ). وَيُسَمَّى حِمَارَ الشُّعَرَاءِ.",
+      "translation": "Wazannya: Mustaf'ilun Mustaf'ilun Mustaf'ilun (dua kali). Disebut juga sebagai 'Keledai para Penyair' karena kemudahannya."
+    },
+    {
+      "title": "Al-Bahr Al-Ramal",
+      "titleArabic": "الْبَحْرُ الرَّمَلُ",
+      "arabic": "وَزْنُهُ: فَاعِلَاتُنْ فَاعِلَاتُنْ فَاعِلَاتُنْ (مَرَّتَيْنِ).",
+      "translation": "Wazannya: Fa'ilatun Fa'ilatun Fa'ilatun (dua kali)."
+    },
+    {
+      "title": "Al-Bahr Al-Sari'",
+      "titleArabic": "الْبَحْرُ السَّرِيعُ",
+      "arabic": "وَزْنُهُ: مُسْتَفْعِلُنْ مُسْتَفْعِلُنْ مَفْعُولَاتُ (مَرَّتَيْنِ).",
+      "translation": "Wazannya: Mustaf'ilun Mustaf'ilun Maf'ulatu (dua kali)."
+    },
+    {
+      "title": "Al-Bahr Al-Munsarih",
+      "titleArabic": "الْبَحْرُ الْمُنْسَرِحُ",
+      "arabic": "وَزْنُهُ: مُسْتَفْعِلُنْ مَفْعُولَاتُ مُسْتَفْعِلُنْ (مَرَّتَيْنِ).",
+      "translation": "Wazannya: Mustaf'ilun Maf'ulatu Mustaf'ilun (dua kali)."
+    },
+    {
+      "title": "Al-Bahr Al-Khafif",
+      "titleArabic": "الْبَحْرُ الْخَفِيفُ",
+      "arabic": "وَزْنُهُ: فَاعِلَاتُنْ مُسْتَفْعِ لُنْ فَاعِلَاتُنْ (مَرَّتَيْنِ).",
+      "translation": "Wazannya: Fa'ilatun Mustaf'i lun Fa'ilatun (dua kali)."
+    },
+    {
+      "title": "Al-Bahr Al-Mudhari'",
+      "titleArabic": "الْبَحْرُ الْمُضَارِعُ",
+      "arabic": "وَزْنُهُ: مَفَاعِيلُنْ فَاعِ لَاتُنْ (مَرَّتَيْنِ).",
+      "translation": "Wazannya: Mafa'ilun Fa'i latun (dua kali)."
+    },
+    {
+      "title": "Al-Bahr Al-Muqtadhib",
+      "titleArabic": "الْبَحْرُ الْمُقْتَضَبُ",
+      "arabic": "وَزْنُهُ: مَفْعُولَاتُ مُسْتَفْعِلُنْ (مَرَّتَيْنِ).",
+      "translation": "Wazannya: Maf'ulatu Mustaf'ilun (dua kali)."
+    },
+    {
+      "title": "Al-Bahr Al-Mujtath",
+      "titleArabic": "الْبَحْرُ الْمُجْتَثُّ",
+      "arabic": "وَزْنُهُ: مُسْتَفْعِ لُنْ فَاعِلَاتُنْ (مَرَّتَيْنِ).",
+      "translation": "Wazannya: Mustaf'i lun Fa'ilatun (dua kali)."
+    },
+    {
+      "title": "Al-Bahr Al-Mutaqarib",
+      "titleArabic": "الْبَحْرُ الْمُتَقَارِبُ",
+      "arabic": "وَزْنُهُ: فَعُولُنْ فَعُولُنْ فَعُولُنْ فَعُولُنْ (مَرَّتَيْنِ).",
+      "translation": "Wazannya: Fa'ulun Fa'ulun Fa'ulun Fa'ulun (dua kali)."
+    },
+    {
+      "title": "Al-Bahr Al-Mutadarak",
+      "titleArabic": "الْبَحْرُ الْمُتَدَارَكُ",
+      "arabic": "وَزْنُهُ: فَاعِلُنْ فَاعِلُنْ فَاعِلُنْ فَاعِلُنْ (مَرَّتَيْنِ).",
+      "translation": "Wazannya: Fa'ilun Fa'ilun Fa'ilun Fa'ilun (dua kali)."
+    },
+    {
+      "title": "Definisi Ilmu Qafiyah",
+      "titleArabic": "تَعْرِيفُ عِلْمِ الْقَافِيَةِ",
+      "arabic": "الْقَافِيَةُ هِيَ مِنْ آخِرِ حَرْفٍ فِي الْبَيْتِ إِلَى أَوَّلِ سَاكِنٍ قَبْلَهُ مَعَ الْمُتَحَرِّكِ الَّذِي قَبْلَ السَّاكِنِ.",
+      "translation": "Qafiyah adalah hitungan dari huruf terakhir dalam bait hingga huruf sukun pertama sebelumnya, beserta satu huruf berharakat sebelum sukun tersebut."
+    },
+    {
+      "title": "Huruf-Huruf Qafiyah (Ar-Rawi)",
+      "titleArabic": "حُرُوفُ الْقَافِيَةِ: الرَّوِيُّ",
+      "arabic": "الرَّوِيُّ هُوَ الْحَرْفُ الَّذِي تُبْنَى عَلَيْهِ الْقَصِيدَةُ وَتُنْسَبُ إِلَيْهِ.",
+      "translation": "Ar-Rawi adalah huruf yang menjadi dasar bangunan qasidah dan qasidah tersebut dinisbatkan kepadanya (misal: Raa-iyyah)."
+    },
+    {
+      "title": "Al-Washl",
+      "titleArabic": "الْوَصْلُ",
+      "arabic": "الْوَصْلُ هُوَ حَرْفٌ لِينٍ يَنْشَأُ عَنْ إِشْبَاعِ حَرَكَةِ الرَّوِيِّ.",
+      "translation": "Al-Washl adalah huruf mad (alif, wawu, ya) yang timbul akibat pemanjangan harakat huruf Rawi."
+    },
+    {
+      "title": "Al-Khuruj",
+      "titleArabic": "الْخُرُوجُ",
+      "arabic": "الْخُرُوجُ هُوَ حَرْفُ لِينٍ بَعْدَ هَاءِ الْوَصْلِ.",
+      "translation": "Al-Khuruj adalah huruf mad yang terletak setelah Ha' Washl."
+    },
+    {
+      "title": "Ar-Ridaf",
+      "titleArabic": "الرِّدْفُ",
+      "arabic": "الرِّدْفُ هُوَ حَرْفُ مَدٍّ قَبْلَ الرَّوِيِّ مُبَاشَرَةً.",
+      "translation": "Ar-Ridaf adalah huruf mad yang terletak tepat sebelum huruf Rawi."
+    },
+    {
+      "title": "At-Ta'sis",
+      "titleArabic": "التَّأْسِيسُ",
+      "arabic": "التَّأْسِيسُ هُوَ أَلِفٌ بَيْنَهَا وَبَيْنَ الرَّوِيِّ حَرْفٌ وَاحِدٌ مُتَحَرِّكٌ.",
+      "translation": "At-Ta'sis adalah huruf alif yang di antaranya dan huruf Rawi dipisahkan oleh satu huruf berharakat."
+    },
+    {
+      "title": "Al-Dakhil",
+      "titleArabic": "الدَّخِيلُ",
+      "arabic": "الدَّخِيلُ هُوَ الْحَرْفُ الْمُتَحَرِّكُ الْوَاقِعُ بَيْنَ أَلِفِ التَّأْسِيسِ وَالرَّوِيِّ.",
+      "translation": "Al-Dakhil adalah huruf berharakat yang terletak di antara Alif Ta'sis dan Rawi."
+    },
+    {
+      "title": "Harakat Qafiyah (Al-Majra)",
+      "titleArabic": "الْمَجْرَى",
+      "arabic": "الْمَجْرَى هُوَ حَرَكَةُ حَرْفِ الرَّوِيِّ الْمُطْلَقِ.",
+      "translation": "Al-Majra adalah harakat pada huruf Rawi Mutlaq (yang tidak sukun)."
+    },
+    {
+      "title": "Al-Nafadz",
+      "titleArabic": "النَّفَاذُ",
+      "arabic": "النَّفَاذُ هُوَ حَرَكَةُ هَاءِ الْوَصْلِ.",
+      "translation": "Al-Nafadz adalah harakat pada Ha' Washl."
+    },
+    {
+      "title": "Al-Hadzwu",
+      "titleArabic": "الْحَذْوُ",
+      "arabic": "الْحَذْوُ هُوَ حَرَكَةُ مَا قَبْلَ الرِّدْفِ.",
+      "translation": "Al-Hadzwu adalah harakat huruf sebelum Ridaf."
+    },
+    {
+      "title": "Al-Rasasu",
+      "titleArabic": "الرَّسُّ",
+      "arabic": "الرَّسُّ هُوَ حَرَكَةُ مَا قَبْلَ أَلِفِ التَّأْسِيسِ.",
+      "translation": "Al-Rassu adalah harakat huruf sebelum Alif Ta'sis."
+    },
+    {
+      "title": "Nama-Nama Qafiyah (Al-Mutakawis)",
+      "titleArabic": "الْمُتَكَاوسُ",
+      "arabic": "الْمُتَكَاوسُ: كُلُّ قَافِيَةٍ تَوَالَى فِيهَا أَرْبَعُ مُتَحَرِّكَاتٍ بَيْنَ سَاكِنَيْهَا.",
+      "translation": "Al-Mutakawis: Setiap qafiyah yang memiliki empat huruf berharakat berturut-turut di antara dua huruf sukunnya."
+    },
+    {
+      "title": "Al-Mutarakib",
+      "titleArabic": "الْمُتَرَاكِبُ",
+      "arabic": "الْمُتَرَاكِبُ: مَا تَوَالَى فِيهَا ثَلَاثُ مُتَحَرِّكَاتٍ بَيْنَ سَاكِنَيْهَا.",
+      "translation": "Al-Mutarakib: Setiap qafiyah yang memiliki tiga huruf berharakat berturut-turut di antara dua huruf sukunnya."
+    },
+    {
+      "title": "Al-Mutadarik",
+      "titleArabic": "الْمُتَدَارِكُ",
+      "arabic": "الْمُتَدَارِكُ: مَا تَوَالَى فِيهَا مُتَحَرِّكَانِ بَيْنَ سَاكِنَيْهَا.",
+      "translation": "Al-Mutadarik: Setiap qafiyah yang memiliki dua huruf berharakat berturut-turut di antara dua huruf sukunnya."
+    },
+    {
+      "title": "Al-Mutawatir",
+      "titleArabic": "الْمُتَوَاتِرُ",
+      "arabic": "الْمُتَوَاتِرُ: مَا وَقَعَ فِيهَا مُتَحَرِّكٌ وَاحِدٌ بَيْنَ سَاكِنَيْهَا.",
+      "translation": "Al-Mutawatir: Setiap qafiyah yang memiliki satu huruf berharakat di antara dua huruf sukunnya."
+    },
+    {
+      "title": "Al-Mutaradim",
+      "titleArabic": "الْمُتَرَادِفُ",
+      "arabic": "الْمُتَرَادِفُ: مَا اجْتَمَعَ فِيهَا سَاكِنَانِ فِي آخِرِ الْبَيْتِ.",
+      "translation": "Al-Mutaradif: Setiap qafiyah yang memiliki dua huruf sukun berkumpul di akhir bait."
+    },
+    {
+      "title": "Cacat Qafiyah (Al-Ikwa')",
+      "titleArabic": "الْإِكْوَاءُ",
+      "arabic": "الْإِكْوَاءُ هُوَ اخْتِلَافُ حَرَكَةِ الرَّوِيِّ بِالضَّمِّ وَالْكَسْرِ.",
+      "translation": "Al-Ikwa' adalah perbedaan harakat Rawi antara dhammah dan kasrah dalam satu qasidah."
+    },
+    {
+      "title": "Al-Ishad",
+      "titleArabic": "الْإِصْحَادُ",
+      "arabic": "الْإِصْحَادُ هُوَ اخْتِلَافُ حَرَكَةِ الرَّوِيِّ بِالْفَتْحِ مَعَ الضَّمِّ أَوِ الْكَسْرِ.",
+      "translation": "Al-Ishad adalah perbedaan harakat Rawi antara fathah dengan dhammah atau kasrah."
+    },
+    {
+      "title": "Al-Itha'",
+      "titleArabic": "الْإِيطَاءُ",
+      "arabic": "الْإِيطَاءُ هُوَ تَكْرَارُ كَلِمَةِ الْقَافِيَةِ بِمَعْنَاهَا وَلَفْظِهَا قَبْلَ مُرُورِ سَبْعَةِ أَبْيَاتٍ.",
+      "translation": "Al-Itha' adalah pengulangan kata qafiyah yang sama makna dan lafaznya sebelum melewati tujuh bait."
+    },
+    {
+      "title": "Al-Sinad",
+      "titleArabic": "السِّنَادُ",
+      "arabic": "السِّنَادُ هُوَ اخْتِلَافُ مَا يُرَاعَى قَبْلَ الرَّوِيِّ مِنَ الْحُرُوفِ وَالْحَرَكَاتِ.",
+      "translation": "Al-Sinad adalah perbedaan pada hal-hal yang harus dijaga sebelum Rawi, baik berupa huruf maupun harakat."
+    },
+    {
+      "title": "Khatimah",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ",
+      "arabic": "تَمَّ بِحَمْدِ اللَّهِ تَعَالَى كِتَابُ الْعَرُوضِ الْوَافِي، رَاجِيًا مِنَ اللَّهِ أَنْ يَنْفَعَ بِهِ طُلَّابَ الْعِلْمِ.",
+      "translation": "Telah selesai dengan puji syukur kepada Allah Ta'ala kitab Al-Arudh al-Wafi, seraya berharap kepada Allah agar kitab ini bermanfaat bagi para penuntut ilmu."
+    }
+  ]
+}
