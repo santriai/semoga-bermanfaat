@@ -1,0 +1,344 @@
+{
+  "profile": {
+    "name": "Sahih Muslim",
+    "originalTitle": "المُسْنَدُ الصَّحِيحُ المُخْتَصَرُ بِنَقْلِ الْعَدْلِ عَنِ الْعَدْلِ إِلَى رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ",
+    "author": "Al-Imam Al-Hafiz Abu Al-Husayn Muslim bin Al-Hajjaj Al-Qushayri Al-Naysaburi",
+    "field": "Hadits (Kutubus Sittah)",
+    "about": "Sahih Muslim adalah kitab hadits paling otentik kedua setelah Sahih Bukhari dalam literatur Islam. Imam Muslim menyaring sekitar 300.000 hadits selama 15 tahun untuk menyusun kitab yang memuat sekitar 7.500 hadits (termasuk pengulangan) ini. Keunggulan kitab ini terletak pada sistematika penyusunannya yang rapi, di mana hadits-hadits dengan tema yang sama dikelompokkan dalam satu bab beserta berbagai jalur sanadnya. Kitab ini diawali dengan Muqaddimah yang sangat masyhur yang menjelaskan metodologi kritik hadits dan pentingnya sanad dalam agama. Dalam tradisi pesantren, Sahih Muslim merupakan rujukan utama dalam menentukan hukum dan memahami sunnah Nabi Muhammad SAW.",
+    "authorBorn": "204 Hijriah (Naisabur, Iran)",
+    "authorDied": "261 Hijriah (Naisabur, Iran)",
+    "authorCentury": "Abad ke-3 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah (Pendahuluan Ilmu Hadits)",
+      "titleArabic": "المُقَدِّمَةُ",
+      "arabic": "إِنَّ الْحَمْدَ لِلَّهِ نَحْمَدُهُ وَنَسْتَعِينُهُ وَنَسْتَغْفِرُهُ... أَمَّا بَعْدُ، فَإِنَّكَ رَحِمَكَ اللَّهُ بِتَوْفِيقِ خَالِقِكَ ذَكَرْتَ أَنَّكَ هَمَمْتَ بِفَحْصِ جُمْلَةِ الْأَخْبَارِ الْمَأْثُورَةِ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي سُنَنِ الدِّينِ وَأَحْكَامِهِ.",
+      "translation": "Segala puji bagi Allah, kami memuji-Nya, memohon pertolongan-Nya, dan memohon ampunan-Nya... Adapun setelah itu, semoga Allah merahmatimu dengan taufik dari Penciptamu, engkau menyebutkan keinginanmu untuk memeriksa kumpulan riwayat yang dinukil dari Rasulullah SAW mengenai sunnah-sunnah agama dan hukum-hukumnya."
+    },
+    {
+      "title": "Kitab Iman (Keyakinan)",
+      "titleArabic": "كِتَابُ الْإِيمَانِ",
+      "arabic": "بَابُ بَيَانِ الْإِيمَانِ وَالْإِسْلَامِ وَالْإِحْسَانِ وَوُجُوبِ إِيمَانِ مَنْ لَمْ يُؤْمِنْ بِرِسَالَةِ نَبِيِّنَا صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ... قَالَ: فَأَخْبِرْنِي عَنِ الْإِيمَانِ، قَالَ: أَنْ تُؤْمِنَ بِاللَّهِ، وَمَلَائِكَتِهِ، وَكُتُبِهِ، وَرُسُلِهِ، وَالْيَوْمِ الْآخِرِ، وَتُؤْمِنَ بِالْقَدَرِ خَيْرِهِ وَشَرِّهِ.",
+      "translation": "Bab Penjelasan tentang Iman, Islam, dan Ihsan... Jibril bertanya: Beritahukan aku tentang Iman. Nabi menjawab: Engkau beriman kepada Allah, Malaikat-Nya, Kitab-kitab-Nya, Rasul-rasul-Nya, Hari Akhir, dan engkau beriman kepada takdir yang baik maupun yang buruk."
+    },
+    {
+      "title": "Kitab Thaharah (Bersuci)",
+      "titleArabic": "كِتَابُ الطَّهَارَةِ",
+      "arabic": "الطُّهُورُ شَطْرُ الْإِيمَانِ، وَالْحَمْدُ لِلَّهِ تَمْلَأُ الْمِيزَانَ، وَسُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ تَمْلَآنِ - أَوْ تَمْلَأُ - مَا بَيْنَ السَّمَوَاتِ وَالْأَرْضِ.",
+      "translation": "Bersuci (Thaharah) adalah separuh dari iman, ucapan Alhamdulillah memenuhi timbangan, dan ucapan Subhanallah walhamdulillah keduanya memenuhi apa yang ada di antara langit dan bumi."
+    },
+    {
+      "title": "Kitab Haid (Menstruasi)",
+      "titleArabic": "كِتَابُ الْحَيْضِ",
+      "arabic": "بَابُ جَوَازِ غَسْلِ الْحَائِضِ رَأْسَ زَوْجِهَا وَتَرْجِيلِهِ، وَطَهَارَةِ سُؤْرِهَا... عَنْ عَائِشَةَ قَالَتْ: كُنْتُ أُرَجِّلُ رَأْسَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَأَنَا حَائِضٌ.",
+      "translation": "Bab diperbolehkannya wanita haid mencuci kepala suaminya dan menyisirnya... Dari Aisyah ia berkata: Aku pernah menyisir rambut Rasulullah SAW padahal aku sedang haid."
+    },
+    {
+      "title": "Kitab Shalat",
+      "titleArabic": "كِتَابُ الصَّلَاةِ",
+      "arabic": "بَابُ بَدْءِ الْأَذَانِ وَكَيْفِيَّتِهِ. أُمِرَ بِلَالٌ أَنْ يَشْفَعَ الْأَذَانَ، وَأَنْ يُوتِرَ الْإِقَامَةَ، إِلَّا الْإِقَامَةَ.",
+      "translation": "Bab Permulaan Adzan dan Tata Caranya. Bilal diperintahkan untuk menggenapkan kalimat adzan dan mengganjilkan kalimat iqamah, kecuali kalimat iqamah (qad qamatis shalah)."
+    },
+    {
+      "title": "Kitab Masjid dan Tempat Shalat",
+      "titleArabic": "كِتَابُ الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاةِ",
+      "arabic": "جُعِلَتْ لِيَ الْأَرْضُ مَسْجِدًا وَطَهُورًا، فَأَيُّمَا رَجُلٍ مِنْ أُمَّتِي أَدْرَكَتْهُ الصَّلَاةُ فَلْيُصَلِّ.",
+      "translation": "Telah dijadikan bumi bagiku sebagai masjid (tempat sujud) dan sarana bersuci. Maka siapa saja dari umatku yang mendapati waktu shalat, hendaklah ia shalat."
+    },
+    {
+      "title": "Kitab Shalat Musafir dan Jamak-Qashar",
+      "titleArabic": "كِتَابُ صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+      "arabic": "بَابُ صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا. فَرَضَ اللَّهُ الصَّلَاةَ حِينَ فَرَضَهَا رَكْعَتَيْنِ رَكْعَتَيْنِ فِي الْحَضَرِ وَالسَّفَرِ، فَأُقِرَّتْ صَلَاةُ السَّفَرِ وَزِيدَ فِي صَلَاةِ الْحَضَرِ.",
+      "translation": "Bab Shalat Orang-orang Musafir dan meringkasnya. Allah mewajibkan shalat pada awal mulanya dua rakaat-dua rakaat baik di rumah maupun dalam perjalanan, kemudian ditetapkan shalat safar dua rakaat dan ditambah rakaat shalat hadhar (di rumah)."
+    },
+    {
+      "title": "Kitab Jumu'ah (Jumat)",
+      "titleArabic": "كِتَابُ الْجُمُعَةِ",
+      "arabic": "بَابُ الطَّيبِ وَالسِّوَاكِ يَوْمَ الْجُمُعَةِ. غُسْلُ يَوْمِ الْجُمُعَةِ وَاجِبٌ عَلَى كُلِّ مُحْتَلِمٍ، وَسِوَاكٌ، وَيَمَسُّ مِنَ الطِّيبِ مَا قَدَرَ عَلَيْهِ.",
+      "translation": "Bab wewangian dan siwak pada hari Jumat. Mandi pada hari Jumat adalah wajib bagi setiap orang yang sudah baligh, juga bersiwak dan memakai wewangian semampunya."
+    },
+    {
+      "title": "Kitab Shalat Dua Hari Raya",
+      "titleArabic": "كِتَابُ صَلَاةِ الْعِيدَيْنِ",
+      "arabic": "أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يُصَلِّي فِي الْأَضْحَى وَالْفِطْرِ، ثُمَّ يَخْطُبُ بَعْدَ الصَّلَاةِ.",
+      "translation": "Bahwa Rasulullah SAW melaksanakan shalat pada hari raya Adha dan Idul Fitri, kemudian beliau berkhutbah setelah shalat."
+    },
+    {
+      "title": "Kitab Shalat Istisqa' (Minta Hujan)",
+      "titleArabic": "كِتَابُ الِاسْتِسْقَاءِ",
+      "arabic": "خَرَجَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَسْتَسْقِي، فَتَوَجَّهَ إِلَى الْقِبْلَةِ يَدْعُو، وَحَوَّلَ رِدَاءَهُ، ثُمَّ صَلَّى رَكْعَتَيْنِ جَهَرَ فِيهِمَا بِالْقِرَاءَةِ.",
+      "translation": "Nabi SAW keluar untuk memohon hujan, beliau menghadap kiblat sambil berdoa, membalikkan selendangnya, kemudian shalat dua rakaat dengan mengeraskan bacaannya."
+    },
+    {
+      "title": "Kitab Gerhana (Kusuf)",
+      "titleArabic": "كِتَابُ الْكُسُوفِ",
+      "arabic": "إِنَّ الشَّمْسَ وَالْقَمَرَ آيَتَانِ مِنْ آيَاتِ اللَّهِ، لَا يَخْسِفَانِ لِمَوْتِ أَحَدٍ وَلَا لِحَيَاتِهِ، فَإِذَا رَأَيْتُمْ ذَلِكَ فَادْعُوا اللَّهَ وَصَلُّوا.",
+      "translation": "Sesungguhnya matahari dan bulan adalah dua tanda dari tanda-tanda kebesaran Allah. Keduanya tidak gerhana karena mati atau hidupnya seseorang. Jika kalian melihatnya, maka berdoalah kepada Allah dan shalatlah."
+    },
+    {
+      "title": "Kitab Jenazah",
+      "titleArabic": "كِتَابُ الْجَنَائِزِ",
+      "arabic": "لَقِّنُوا مَوْتَاكُمْ لَا إِلَهَ إِلَّا اللَّهُ. وَمَنْ شَهِدَ الْجَنَازَةَ حَتَّى يُصَلَّى عَلَيْهَا فَلَهُ قِيرَاطٌ.",
+      "translation": "Tuntunlah (talqin) orang yang akan mati di antara kalian dengan ucapan Laa ilaha illallah. Dan barangsiapa menghadiri jenazah hingga dishalatkan maka baginya pahala satu qirath."
+    },
+    {
+      "title": "Kitab Zakat",
+      "titleArabic": "كِتَابُ الزَّكَاةِ",
+      "arabic": "لَيْسَ فِيمَا دُونَ خَمْسَةِ أَوْسُقٍ صَدَقَةٌ، وَلَا فِيمَا دُونَ خَمْسِ ذَوْدٍ صَدَقَةٌ، وَلَا فِيمَا دُونَ خَمْسِ أَوَاقٍ صَدَقَةٌ.",
+      "translation": "Tidak ada kewajiban zakat pada hasil tani yang kurang dari lima ausuq, tidak ada zakat pada unta yang kurang dari lima ekor, dan tidak ada zakat pada perak yang kurang dari lima awaq."
+    },
+    {
+      "title": "Kitab Puasa (Shiyam)",
+      "titleArabic": "كِتَابُ الصِّيَامِ",
+      "arabic": "صُومُوا لِرُؤْيَتِهِ وَأَفْطِرُوا لِرُؤْيَتِهِ، فَإِنْ غُمَّ عَلَيْكُمْ فَأَكْمِلُوا الْعِدَّةَ ثَلَاثِينَ.",
+      "translation": "Berpuasalah kalian karena melihat hilal dan berbukalah (lebaran) karena melihatnya. Jika hilal tertutup awan, maka sempurnakanlah hitungan bulan menjadi tiga puluh hari."
+    },
+    {
+      "title": "Kitab I'tikaf",
+      "titleArabic": "كِتَابُ الِاعْتِكَافِ",
+      "arabic": "أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يَعْتَكِفُ الْعَشْرَ الْأَوَاخِرَ مِنْ رَمَضَانَ حَتَّى تَوَفَّاهُ اللَّهُ.",
+      "translation": "Bahwa Nabi SAW senantiasa beri'tikaf pada sepuluh hari terakhir bulan Ramadhan hingga Allah mewafatkannya."
+    },
+    {
+      "title": "Kitab Haji",
+      "titleArabic": "كِتَابُ الْحَجِّ",
+      "arabic": "خُذُوا عَنِّي مَنَاسِكَكُمْ، فَلَعَلِّي لَا أَلْقَاكُمْ بَعْدَ عَامِي هَذَا. وَالْحَجُّ الْمَبْرُورُ لَيْسَ لَهُ جَزَاءٌ إِلَّا الْجَنَّةُ.",
+      "translation": "Ambillah dariku tata cara manasik haji kalian, karena barangkali aku tidak akan bertemu kalian lagi setelah tahun ini. Dan haji yang mabrur tidak ada balasan baginya kecuali surga."
+    },
+    {
+      "title": "Kitab Nikah",
+      "titleArabic": "كِتَابُ النِّكَاحِ",
+      "arabic": "يَا مَعْشَرَ الشَّبَابِ، مَنِ اسْتَطَاعَ مِنْكُمُ الْبَاءَةَ فَلْيَتَزَوَّجْ، فَإِنَّهُ أَغَضُّ لِلْبَصَرِ وَأَحْصَنُ لِلْفَرْجِ.",
+      "translation": "Wahai sekalian pemuda, barangsiapa di antara kalian yang telah memiliki kemampuan, maka menikahlah. Karena nikah itu lebih menundukkan pandangan dan lebih menjaga kemaluan."
+    },
+    {
+      "title": "Kitab Persusuan (Radha')",
+      "titleArabic": "كِتَابُ الرَّضَاعِ",
+      "arabic": "يَحْرُمُ مِنَ الرَّضَاعَةِ مَا يَحْرُمُ مِنَ الْوِلَادَةِ. وَلَا تُحَرِّمُ الْمَصَّةُ وَالْمَصَّتَانِ.",
+      "translation": "Persusuan mengharamkan apa yang diharamkan karena nasab (kelahiran). Dan satu atau dua kali hisapan tidaklah mengharamkan pernikahan."
+    },
+    {
+      "title": "Kitab Talak (Perceraian)",
+      "titleArabic": "كِتَابُ الطَّلَاقِ",
+      "arabic": "بَابُ طَلَاقِ الثَّلَاثِ. كَانَ الطَّلَاقُ عَلَى عَهْدِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَأَبِي بَكْرٍ وَسَنَتَيْنِ مِنْ خِلَافَةِ عُمَرَ طَلَاقُ الثَّلَاثِ وَاحِدَةً.",
+      "translation": "Bab Talak Tiga. Talak tiga pada masa Rasulullah SAW, Abu Bakar, dan dua tahun pertama kekhalifahan Umar dianggap sebagai talak satu."
+    },
+    {
+      "title": "Kitab Lian (Saling Melaknat)",
+      "titleArabic": "كِتَابُ اللَّعَانِ",
+      "arabic": "بَابُ بَيَانِ لِعَانِ الْمُتَلَاعِنَيْنِ. أَنَّ رَجُلًا أَتَى النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: يَا رَسُولَ اللَّهِ، أَرَأَيْتَ رَجُلًا وَجَدَ مَعَ امْرَأَتِهِ رَجُلًا؟",
+      "translation": "Bab penjelasan tentang saling melaknat (li'an). Bahwasanya seorang laki-laki datang kepada Nabi SAW dan bertanya: Wahai Rasulullah, bagaimana pendapatmu jika ada seorang laki-laki mendapati laki-laki lain bersama istrinya?"
+    },
+    {
+      "title": "Kitab Pembebasan Budak ('Itq)",
+      "titleArabic": "كِتَابُ الْعِتْقِ",
+      "arabic": "أَيُّمَا امْرِئٍ مُسْلِمٍ أَعْتَقَ امْرِأً مُسْلِمًا، كَانَ فَكَاكَهُ مِنَ النَّارِ، يُجْزِي كُلُّ عُضْوٍ مِنْهُ عُضْوًا مِنْهُ.",
+      "translation": "Siapa saja orang muslim yang memerdekakan seorang budak muslim, maka itu akan menjadi pembebas baginya dari api neraka, setiap anggota tubuh budak itu membebaskan setiap anggota tubuhnya."
+    },
+    {
+      "title": "Kitab Jual Beli (Buyu')",
+      "titleArabic": "كِتَابُ الْبُيُوعِ",
+      "arabic": "نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّm عَنْ بَيْعِ الْحَصَاةِ، وَعَنْ بَيْعِ الْغَرَرِ. وَالْبَيِّعَانِ بِالْخِيَارِ مَا لَمْ يَتَفَرَّقَا.",
+      "translation": "Rasulullah SAW melarang jual beli dengan lemparan batu (hashah) dan jual beli yang mengandung tipuan (gharar). Penjual dan pembeli memiliki hak khiyar (memilih) selama belum berpisah."
+    },
+    {
+      "title": "Kitab Musaqat (Sewa Menyewa Tanah/Kebun)",
+      "titleArabic": "كِتَابُ الْمُسَاقَاةِ",
+      "arabic": "مَنْ بَاعَ نَخْلًا بَعْدَ أَنْ تُؤَبَّرَ فَثَمَرَتُهَا لِلْبَائِعِ، إِلَّا أَنْ يَشْتَرِطَ الْمُبْتَاعُ.",
+      "translation": "Barangsiapa menjual pohon kurma setelah dikawinkan, maka buahnya adalah milik penjual, kecuali jika pembeli memberi syarat (bahwa buah untuknya)."
+    },
+    {
+      "title": "Kitab Faraidh (Waris)",
+      "titleArabic": "كِتَابُ الْفَرَائِضِ",
+      "arabic": "أَلْحِقُوا الْفَرَائِضَ بِأَهْلِهَا، فَمَا بَقِيَ فَهُوَ لِأَوْلَى رَجُلٍ ذَكَرٍ. لَا يَرِثُ الْمُسْلِمُ الْكَافِرَ وَلَا الْكَافِرُ الْمُسْلِمَ.",
+      "translation": "Berikanlah bagian warisan kepada yang berhak, dan sisanya untuk laki-laki yang paling utama. Seorang muslim tidak mewarisi orang kafir dan orang kafir tidak mewarisi muslim."
+    },
+    {
+      "title": "Kitab Hibah (Pemberian)",
+      "titleArabic": "كِتَابُ الْهِبَاتِ",
+      "arabic": "الْعَائِدُ فِي هِبَتِهِ كَالْكَلْبِ يَقِيءُ ثُمَّ يَعُودُ فِي قَيْئِهِ. اتَّقُوا اللَّهَ وَاعْدِلُوا بَيْنَ أَوْلَادِكُمْ.",
+      "translation": "Orang yang mengambil kembali hibahnya seperti anjing yang muntah lalu menjilati kembali muntahannya. Bertakwalah kepada Allah dan berlakulah adil di antara anak-anakmu."
+    },
+    {
+      "title": "Kitab Wasiat",
+      "titleArabic": "كِتَابُ الْوَصِيَّةِ",
+      "arabic": "مَا حَقُّ امْرِئٍ مُسْلِمٍ لَهُ شَيْءٌ يُوصِي فِيهِ، يَبِيتُ لَيْلَتَيْنِ إِلَّا وَوَصِيَّتُهُ مَكْتُوبَةٌ عِنْدَهُ. الثُّلُثُ وَالثُّلُثُ كَثِيرٌ.",
+      "translation": "Tidak pantas bagi seorang muslim yang memiliki sesuatu untuk diwasiatkan melewati dua malam melainkan wasiatnya sudah tertulis di sisinya. (Wasiat itu maksimal) sepertiga, dan sepertiga itu sudah banyak."
+    },
+    {
+      "title": "Kitab Nazar",
+      "titleArabic": "كِتَابُ النَّذْرِ",
+      "arabic": "لَا نَذْرَ فِي مَعْصِيَةِ اللَّهِ، وَلَا فِيمَا لَا يَمْلِكُ ابْنُ آدَمَ. إِنَّ النَّذْرَ لَا يُقَدِّمُ شَيْئًا وَلَا يُؤَخِّرُهُ.",
+      "translation": "Tidak ada nazar dalam kemaksiatan kepada Allah, dan tidak ada nazar pada apa yang tidak dimiliki manusia. Sesungguhnya nazar tidak bisa memajukan atau menunda sesuatu."
+    },
+    {
+      "title": "Kitab Sumpah (Aiman)",
+      "titleArabic": "كِتَابُ الْأَيْمَانِ",
+      "arabic": "مَنْ حَلَفَ عَلَى يَمِينٍ، فَرَأَى غَيْرَهَا خَيْرًا مِنْهَا، فَلْيَأْتِ الَّذِي هُوَ خَيْرٌ، وَلْيُكَفِّرْ عَنْ يَمِينِهِ.",
+      "translation": "Barangsiapa bersumpah, lalu melihat ada hal lain yang lebih baik darinya, maka lakukanlah hal yang lebih baik itu dan bayarlah kaffarah (denda) sumpahnya."
+    },
+    {
+      "title": "Kitab Qasamah, Penyamun, dan Qishash",
+      "titleArabic": "كِتَابُ الْقَسَامَةِ وَالْمُحَارِبِينَ وَالْقِصَاصِ وَالدِّيَاتِ",
+      "arabic": "لَا يَحِلُّ دَمُ امْرِئٍ مُسْلِمٍ، يَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَنِّي رَسُولُ اللَّهِ، إِلَّا بِإِحْدَى ثَلَاثٍ: الثَّيِّبُ الزَّانِي، وَالنَّفْسُ بِالنَّفْسِ، وَالتَّارِكُ لِدِينِهِ الْمُفَارِقُ لِلْجَمَاعَةِ.",
+      "translation": "Tidak halal darah seorang muslim yang bersaksi bahwa tidak ada tuhan selain Allah dan aku adalah Rasulullah, kecuali karena salah satu dari tiga hal: janda/duda yang berzina, jiwa dibalas jiwa (pembunuhan), dan orang yang meninggalkan agamanya serta memisahkan diri dari jamaah."
+    },
+    {
+      "title": "Kitab Hudud (Hukuman Pidana)",
+      "titleArabic": "كِتَابُ الْحُدُودِ",
+      "arabic": "خُذُوا عَنِّي، خُذُوا عَنِّي، قَدْ جَعَلَ اللَّهُ لَهُنَّ سَبِيلًا، الْبِكْرُ بِالْبِكْرِ جَلْدُ مِائَةٍ وَنَفْيُ سَنَةٍ، وَالثَّيِّبُ بِالثَّيِّبِ جَلْدُ مِائَةٍ وَالرَّجْمُ.",
+      "translation": "Ambillah dariku, ambillah dariku, sungguh Allah telah memberi jalan bagi mereka. Perjaka dengan perawan (yang berzina) hukumannya cambuk seratus kali dan diasingkan setahun. Janda dengan duda hukumannya cambuk seratus kali dan rajam."
+    },
+    {
+      "title": "Kitab Peradilan (Aqdiyyah)",
+      "titleArabic": "كِتَابُ الْأَقْضِيَةِ",
+      "arabic": "إِذَا حَكَمَ الْحَاكِمُ فَاجْتَهَدَ ثُمَّ أَصَابَ فَلَهُ أَجْرَانِ، وَإِذَا حَكَمَ فَاجْتَهَدَ ثُمَّ أَخْطَأَ فَلَهُ أَجْرٌ.",
+      "translation": "Apabila seorang hakim memutuskan hukum lalu dia berijtihad dan benar maka baginya dua pahala, dan apabila dia memutuskan hukum lalu berijtihad dan salah maka baginya satu pahala."
+    },
+    {
+      "title": "Kitab Barang Temuan (Luqathah)",
+      "titleArabic": "كِتَابُ اللُّقَطَةِ",
+      "arabic": "عَرِّفْهَا سَنَةً، ثُمَّ اعْرِفْ عِفَاصَهَا وَوِكاءَهَا، ثُمَّ اسْتَنْفِقْ بِهَا، فَإِنْ جَاءَ رَبُّهَا فَأَدِّهَا إِلَيْهِ.",
+      "translation": "Umumkanlah ia selama satu tahun, kemudian kenalilah wadah dan pengikatnya, lalu gunakanlah. Jika pemiliknya datang, maka serahkanlah kepadanya."
+    },
+    {
+      "title": "Kitab Jihad dan Siyar",
+      "titleArabic": "كِتَابُ الْجِهَادِ وَالسِّيَرِ",
+      "arabic": "اغْزُوا بِاسْمِ اللَّهِ فِي سَبِيلِ اللَّهِ، قَاتِلُوا مَنْ كَفَرَ بِاللَّهِ، اغْزُوا وَلَا تَغُلُّوا، وَلَا تَغْدِرُوا، وَلَا تَمْثُلُوا، وَلَا تَقْتُلُوا وَلِيدًا.",
+      "translation": "Berperanglah dengan nama Allah di jalan Allah, perangilah orang yang kafir kepada Allah. Berperanglah dan janganlah berlebihan (dalam membunuh), jangan berkhianat, jangan mencincang mayat, dan jangan membunuh anak-anak."
+    },
+    {
+      "title": "Kitab Kepemimpinan (Imarah)",
+      "titleArabic": "كِتَابُ الْإِمَارَةِ",
+      "arabic": "مَنْ أَطَاعَنِي فَقَدْ أَطَاعَ اللَّهَ، وَمَنْ عَصَانِي فَقَدْ عَصَى اللَّهَ، وَمَنْ أَطَاعَ الْأَمِيرَ فَقَدْ أَطَاعَنِي، وَمَنْ عَصَى الْأَمِيرَ فَقَدْ عَصَانِي.",
+      "translation": "Barangsiapa menaatiku berarti telah menaati Allah, barangsiapa mendurhakaiku berarti mendurhakai Allah. Barangsiapa menaati pemimpin berarti telah menaatiku, dan barangsiapa mendurhakai pemimpin berarti telah mendurhakaiku."
+    },
+    {
+      "title": "Kitab Hewan Buruan dan Sembelihan",
+      "titleArabic": "كِتَابُ الصَّيْدِ وَالذَّبَائِحِ",
+      "arabic": "إِنَّ اللَّهَ كَتَبَ الْإِحْسَانَ عَلَى كُلِّ شَيْءٍ، فَإِذَا قَتَلْتُمْ فَأَحْسِنُوا الْقِتْلَةَ، وَإِذَا ذَبَحْتُمْ فَأَحْسِنُوا الذَّبْحَ.",
+      "translation": "Sesungguhnya Allah mewajibkan berbuat baik (ihsan) atas segala sesuatu. Jika kalian membunuh maka bunuhlah dengan cara yang baik, dan jika menyembelih maka sembelihlah dengan cara yang baik."
+    },
+    {
+      "title": "Kitab Kurban (Adhahi)",
+      "titleArabic": "كِتَابُ الْأَضَاحِي",
+      "arabic": "لَا تَذْبَحُوا إِلَّا مُسِنَّةً، إِلَّا أَنْ يَعْسُرَ عَلَيْكُمْ فَتَذْبَحُوا جَذَعَةً مِنَ الضَّأْنِ.",
+      "translation": "Janganlah kalian menyembelih kecuali hewan yang sudah cukup umur (musinnah), kecuali jika kalian kesulitan maka sembelihlah domba yang berumur satu tahun (jadza'ah)."
+    },
+    {
+      "title": "Kitab Minuman (Ashribah)",
+      "titleArabic": "كِتَابُ الْأَشْرِبَةِ",
+      "arabic": "كُلُّ مُسْكِرٍ خَمْرٌ، وَكُلُّ مُسْكِرٍ حَرَامٌ. وَمَنْ شَرِبَ الْخَمْرَ فِي الدُّنْيَا لَمْ يَشْرَبْهَا فِي الْآخِرَةِ.",
+      "translation": "Setiap yang memabukkan adalah khamar, dan setiap yang memabukkan adalah haram. Barangsiapa meminum khamar di dunia, ia tidak akan meminumnya di akhirat (kecuali bertaubat)."
+    },
+    {
+      "title": "Kitab Pakaian dan Perhiasan",
+      "titleArabic": "كِتَابُ اللِّبَاسِ وَالزِّينَةِ",
+      "arabic": "لَا يَدْخُلُ الْجَنَّةَ مَنْ كَانَ فِي قَلْبِهِ مِثْقَالُ ذَرَّةٍ مِنْ كِبْرٍ. قَالَ رَجُلٌ: إِنَّ الرَّجُلَ يُحِبُّ أَنْ يَكُونَ ثَوْبُهُ حَسَنًا وَنَعْلُهُ حَسَنَةً؟ قَالَ: إِنَّ اللَّهَ جَمِيلٌ يُحِبُّ الْجَمَالَ.",
+      "translation": "Tidak akan masuk surga orang yang di dalam hatinya terdapat kesombongan seberat biji sawi. Seorang laki-laki bertanya: Bagaimana dengan orang yang suka pakaiannya bagus dan sandalnya bagus? Nabi menjawab: Sesungguhnya Allah itu Indah dan mencintai keindahan."
+    },
+    {
+      "title": "Kitab Adab (Etika)",
+      "titleArabic": "كِتَابُ الْأَدَبِ",
+      "arabic": "بَابُ النَّهْيِ عَنِ التَّكَنِّي بِأَبِي الْقَاسِمِ. تَسَمَّوْا بِاسْمِي وَلَا تَكَنَّوْا بِكُنْيَتِي.",
+      "translation": "Bab larangan menggunakan kunyah (gelar) Abu Al-Qasim. Berilah nama dengan namaku, namun janganlah kalian ber-kunyah dengan kunyah-ku."
+    },
+    {
+      "title": "Kitab Salam",
+      "titleArabic": "كِتَابُ السَّلَامِ",
+      "arabic": "لَا تَدْخُلُونَ الْجَنَّةَ حَتَّى تُؤْمِنُوا، وَلَا تُؤْمِنُوا حَتَّى تَحَابُّوا، أَوَلَا أَدُلُّكُمْ عَلَى شَيْءٍ إِذَا فَعَلْتُمُوهُ تَحَابَبْتُمْ؟ أَفْشُوا السَّلَامَ بَيْنَكُمْ.",
+      "translation": "Kalian tidak akan masuk surga hingga kalian beriman, dan kalian tidak beriman hingga kalian saling mencintai. Maukah aku tunjukkan sesuatu yang jika kalian lakukan akan membuat kalian saling mencintai? Tebarkanlah salam di antara kalian."
+    },
+    {
+      "title": "Kitab Kata-kata yang Dilarang",
+      "titleArabic": "كِتَابُ الْأَلْفَاظِ مِنَ الْأَدَبِ وَغَيْرِهَا",
+      "arabic": "لَا يَقُولَنَّ أَحَدُكُمْ: خَبُثَتْ نَفْسِي، وَلَكِنْ لِيَقُلْ: لَقِسَتْ نَفْسِي. وَلَا تُسَمُّوا الْعِنَبَ الْكَرْمَ.",
+      "translation": "Janganlah salah seorang dari kalian berkata 'jiwaku buruk (khabuthat)', melainkan katakanlah 'jiwaku sedang tidak nyaman (laqisat)'. Dan janganlah kalian menyebut buah anggur dengan sebutan 'al-karm'."
+    },
+    {
+      "title": "Kitab Syair",
+      "titleArabic": "كِتَابُ الشِّعْرِ",
+      "arabic": "أَصْدَقُ كَلِمَةٍ قَالَهَا شَاعِرٌ كَلِمَةُ لَبِيدٍ: أَلَا كُلُّ شَيْءٍ مَا خَلَا اللَّهَ بَاطِلُ.",
+      "translation": "Kalimat paling jujur yang pernah diucapkan oleh seorang penyair adalah perkataan Labid: Ingatlah, segala sesuatu selain Allah adalah batil (fana)."
+    },
+    {
+      "title": "Kitab Mimpi (Ru'ya)",
+      "titleArabic": "كِتَابُ الرُّؤْيَا",
+      "arabic": "الرُّؤْيَا الصَّالِحَةُ مِنَ اللَّهِ، وَالْحُلْمُ مِنَ الشَّيْطَانِ، فَمَنْ رَأَى شَيْئًا يَكْرَهُهُ فَلْيَنْفُثْ عَنْ يَسَارِهِ ثَلَاثًا.",
+      "translation": "Mimpi yang baik itu dari Allah, sedangkan mimpi buruk (al-hulm) itu dari setan. Barangsiapa melihat sesuatu yang ia benci, maka meludahlah (tipis) ke arah kiri tiga kali."
+    },
+    {
+      "title": "Kitab Keutamaan (Fadhail) Rasulullah",
+      "titleArabic": "كِتَابُ الْفَضَائِلِ",
+      "arabic": "بَابُ قُرْبِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنَ النَّاسِ وَتَبَرُّكِهِمْ بِهِ. مَا سُئِلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَلَى الْإِسْلَامِ شَيْئًا إِلَّا أَعْطَاهُ.",
+      "translation": "Bab kedekatan Nabi SAW dengan manusia dan tabarruk mereka kepada beliau. Tidaklah Rasulullah SAW diminta sesuatu atas nama Islam melainkan beliau pasti memberikannya."
+    },
+    {
+      "title": "Kitab Fadhail Sahabat",
+      "titleArabic": "كِتَابُ فَضَائِلِ الصَّحَابَةِ رَضِيَ اللَّهُ عَنْهُمْ",
+      "arabic": "لَا تَسُبُّوا أَصْحَابِي، فَوَالَّذِي نَفْسِي بِيَدِهِ لَوْ أَنَّ أَحَدَكُمْ أَنْفَقَ مِثْلَ أُحُدٍ ذَهَبًا مَا أَدْرَكَ مُدَّ أَحَدِهِمْ وَلَا نَصِيفَهُ.",
+      "translation": "Janganlah kalian mencela para sahabatku. Demi Zat yang jiwaku berada di tangan-Nya, seandainya salah seorang dari kalian menginfakkan emas sebesar gunung Uhud, niscaya tidak akan menandingi satu mud infak mereka, bahkan tidak pula setengahnya."
+    },
+    {
+      "title": "Kitab Kebaikan, Silaturahmi, dan Adab",
+      "titleArabic": "كِتَابُ الْبِرِّ وَالصِّلَةِ وَالْآدَابِ",
+      "arabic": "الْبِرُّ حُسْنُ الْخُلُقِ، وَالْإِثْمُ مَا حَاكَ فِي صَدْرِكَ وَكَرِهْتَ أَنْ يَطَّلِعَ عَلَيْهِ النَّاسُ.",
+      "translation": "Kebaikan adalah akhlak yang mulia, sedangkan dosa adalah apa yang mengganjal di dalam dadamu dan engkau benci jika hal itu diketahui oleh orang lain."
+    },
+    {
+      "title": "Kitab Takdir (Qadar)",
+      "titleArabic": "كِتَابُ الْقَدَرِ",
+      "arabic": "كَتَبَ اللَّهُ مَقَادِيرَ الْخَلَائِقِ قَبْلَ أَنْ يَخْلُقَ السَّمَوَاتِ وَالْأَرْضَ بِخَمْسِينَ أَلْفَ سَنَةٍ، وَعَرْشُهُ عَلَى الْمَاءِ.",
+      "translation": "Allah telah menulis takdir seluruh makhluk lima puluh ribu tahun sebelum Dia menciptakan langit dan bumi, dan saat itu Arsy-Nya berada di atas air."
+    },
+    {
+      "title": "Kitab Ilmu",
+      "titleArabic": "كِتَابُ الْعِلْمِ",
+      "arabic": "مَنْ سَنَّ فِي الْإِسْلَامِ سُنَّةً حَسَنَةً فَلَهُ أَجْرُهَا وَأَجْرُ مَنْ عَمِلَ بِهَا... وَمَنْ دَعَا إِلَى هُدًى كَانَ لَهُ مِنَ الْأَجْرِ مِثْلُ أُجُورِ مَنْ تَبِعَهُ.",
+      "translation": "Barangsiapa mencontohkan dalam Islam jalan yang baik, maka baginya pahalanya dan pahala orang yang mengamalkannya... Dan barangsiapa mengajak kepada petunjuk, ia mendapatkan pahala sebanyak pahala orang-orang yang mengikutinya."
+    },
+    {
+      "title": "Kitab Dzikir, Doa, Taubat, dan Istighfar",
+      "titleArabic": "كِتَابُ الذِّكْرِ وَالدُّعَاءِ وَالتَّوْبَةِ وَالِاسْتِغْفَارِ",
+      "arabic": "أَنَا عِنْدَ ظَنِّ عَبْدِي بِي، وَأَنَا مَعَهُ إِذَا ذَكَرَنِي، فَإِنْ ذَكَرَنِي فِي نَفْسِهِ ذَكَرْتُهُ فِي نَفْسِي.",
+      "translation": "Aku (Allah) sesuai dengan persangkaan hamba-Ku kepada-Ku, dan Aku bersamanya ketika ia mengingat-Ku. Jika ia mengingat-Ku dalam dirinya, Aku akan mengingatnya dalam diri-Ku."
+    },
+    {
+      "title": "Kitab Taubat",
+      "titleArabic": "كِتَابُ التَّوْبَةِ",
+      "arabic": "لَلَّهُ أَشَدُّ فَرَحًا بِتَوْبَةِ عَبْدِهِ حِينَ يَتُوبُ إِلَيْهِ مِنْ أَحَدِكُمْ كَانَ عَلَى رَاحِلَتِهِ بِأَرْضِ فَلَاةٍ فَانْفَلَتَتْ مِنْهُ.",
+      "translation": "Sungguh Allah lebih gembira dengan taubat hamba-Nya daripada kegembiraan salah seorang di antara kalian yang kehilangan hewan tunggangannya di padang pasir yang luas lalu ia menemukannya kembali."
+    },
+    {
+      "title": "Kitab Sifat Orang Munafik",
+      "titleArabic": "كِتَابُ صِفَاتِ الْمُنَافِقِينَ وَأَحْكَامِهِمْ",
+      "arabic": "مَثَلُ الْمُنَافِقِ كَمَثَلِ الشَّاةِ الْعَائِرَةِ بَيْنَ الْغَنَمَيْنِ، تَعِيرُ إِلَى هَذِهِ مَرَّةً وَإِلَى هَذِهِ مَرَّةً.",
+      "translation": "Perumpamaan orang munafik itu seperti domba yang kebingungan di antara dua kawanan domba, ia mendatangi kawanan ini sekali dan kawanan itu sekali."
+    },
+    {
+      "title": "Kitab Kiamat, Surga, dan Neraka",
+      "titleArabic": "كِتَابُ صِفَةِ الْقِيَامَةِ وَالْجَنَّةِ وَالنَّارِ",
+      "arabic": "يُحْشَرُ النَّاسُ يَوْمَ الْقِيَامَةِ حُفَاةً عُرَاةً غُرْلًا. قَالَتْ عَائِشَةُ: يَا رَسُولَ اللَّهِ، الرِّجَالُ وَالنِّسَاءُ جَمِيعًا يَنْظُرُ بَعْضُهُمْ إِلَى بَعْضٍ؟ قَالَ: الْأَمْرُ أَشَدُّ مِنْ أَنْ يُهِمَّهُمْ ذَلِكَ.",
+      "translation": "Manusia akan dikumpulkan pada hari kiamat dalam keadaan tidak beralas kaki, telanjang, dan belum dikhitan. Aisyah bertanya: Wahai Rasulullah, laki-laki dan perempuan semua saling melihat? Nabi menjawab: Urusan saat itu jauh lebih berat daripada sekadar memikirkan hal itu."
+    },
+    {
+      "title": "Kitab Fitnah (Ujian Akhir Zaman)",
+      "titleArabic": "كِتَابُ الْفِتَنِ وَأَشْرَاطِ السَّاعَةِ",
+      "arabic": "بَادِرُوا بِالْأَعْمَالِ فِتَنًا كَقِطَعِ اللَّيْلِ الْمُظْلِمِ، يُصْبِحُ الرَّجُلُ مُؤْمِنًا وَيُمْسِي كَافِرًا.",
+      "translation": "Bersegeralah beramal sebelum datangnya fitnah-fitnah yang seperti potongan malam yang gelap, di mana seseorang pada pagi hari beriman namun pada sore harinya menjadi kafir."
+    },
+    {
+      "title": "Kitab Zuhud dan Kelembutan Hati",
+      "titleArabic": "كِتَابُ الزُّهْدِ وَالرَّقَائِقِ",
+      "arabic": "الدُّنْيَا سِجْنُ الْمُؤْمِنِ وَجَنَّةُ الْكَافِرِ. انْظُرُوا إِلَى مَنْ هُوَ أَسْفَلَ مِنْكُمْ وَلَا تَنْظُرُوا إِلَى مَنْ هُوَ فَوْقَكُمْ.",
+      "translation": "Dunia adalah penjara bagi orang mukmin dan surga bagi orang kafir. Lihatlah kepada orang yang berada di bawahmu (dalam urusan dunia) dan jangan melihat kepada orang yang berada di atasmu."
+    },
+    {
+      "title": "Kitab Tafsir",
+      "titleArabic": "كِتَابُ التَّفْسِيرِ",
+      "arabic": "بَابُ فِي قَوْلِهِ تَعَالَى: {وَأَنْذِرْ عَشِيرَتَكَ الْأَقْرَبِينَ}. لَمَّا نَزَلَتْ هَذِهِ الْآيَةُ دَعَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قُرَيْشًا فَاجْتَمَعُوا.",
+      "translation": "Bab tentang firman Allah: 'Dan berilah peringatan kepada kerabat-kerabatmu yang terdekat'. Ketika ayat ini turun, Rasulullah SAW memanggil kaum Quraisy lalu mereka berkumpul."
+    }
+  ]
+}
