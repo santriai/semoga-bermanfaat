@@ -1,0 +1,314 @@
+{
+  "profile": {
+    "name": "Akhbar al-Zaman",
+    "originalTitle": "أَخْبَارُ الزَّمَانِ وَمَنْ أَبَادَهُ الْحِدْثَانِ مِنَ الْأُمَمِ الْمَاضِيَةِ وَالْأَجْيَالِ الْخَالِيَةِ وَالْمَمَالِكِ الدَّاثِرَةِ",
+    "author": "Abū al-Ḥasan ‘Alī ibn al-Ḥusayn al-Mas‘ūdī (أَبُو الْحَسَنِ عَلِيُّ بْنُ الْحُسَيْنِ الْمَسْعُودِيُّ)",
+    "field": "Tarikh (Sejarah), Kosmologi, dan Geografi",
+    "about": "Kitab ini merupakan salah satu karya monumental dalam khazanah literatur sejarah Islam klasik yang menggabungkan unsur mitologi, geografi, dan sejarah awal peradaban manusia. Al-Mas'udi menyusunnya sebagai ensiklopedia besar yang mencakup penciptaan alam semesta, asal-usul bangsa-bangsa, hingga detail mendalam mengenai keajaiban dunia purba, khususnya Mesir. Meskipun sebagian besar jilid dari karya asli ini telah hilang, naskah yang tersisa memberikan gambaran luar biasa tentang pemikiran intelektual abad ke-10 mengenai geofisika dan antropologi. Kitab ini sering dianggap sebagai jembatan antara narasi tradisional keagamaan dengan observasi saintifik pada masanya. Di kalangan pesantren dan akademisi turath, kitab ini dihargai karena gaya bahasanya yang tinggi serta kekayaan datanya mengenai bangsa-bangsa terdahulu yang tidak ditemukan di sumber lain.",
+    "authorBorn": "Baghdad, 283 H",
+    "authorDied": "Fustat (Mesir), 345 H",
+    "authorCentury": "Abad ke-10 Masehi / Abad ke-4 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah (Pendahuluan)",
+      "titleArabic": "الْمُقَدِّمَةُ",
+      "arabic": "بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ. الْحَمْدُ لِلهِ الَّذِي كَانَ قَبْلَ كُلِّ كَوْنٍ، وَأَنْشَأَ الْأَشْيَاءَ بِقُدْرَتِهِ. أَمَّا بَعْدُ، فَهَذَا كِتَابٌ نَذْكُرُ فِيهِ أَخْبَارَ الْأُمَمِ الْمَاضِيَةِ وَالْقُرُونِ الْخَالِيَةِ.",
+      "translation": "Dengan menyebut nama Allah yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah yang ada sebelum segala eksistensi, dan yang menciptakan segala sesuatu dengan kekuasaan-Nya. Adapun setelah itu, ini adalah kitab yang kami sebutkan di dalamnya kabar bangsa-bangsa terdahulu dan kurun waktu yang telah lewat."
+    },
+    {
+      "title": "Penciptaan Dunia dan Unsur-unsurnya",
+      "titleArabic": "ذِكْرُ بَدْءِ الْعَالَمِ وَمَا فِيهِ",
+      "arabic": "قَالَ الْمُؤَلِّفُ: إِنَّ اللهَ خَلَقَ الْعَالَمَ مِنْ غَيْرِ أَصْلٍ، وَجَعَلَ أَصْلَ الْخَلْقِ الْمَاءَ، ثُمَّ خَلَقَ مِنْهُ بَقِيَّةَ الْأَرْكَانِ مِنَ النَّارِ وَالْهَوَاءِ وَالْأَرْضِ.",
+      "translation": "Penulis berkata: Sesungguhnya Allah menciptakan alam semesta tanpa asal (contoh) sebelumnya, dan menjadikan asal penciptaan adalah air, kemudian menciptakan darinya unsur-unsur lainnya yaitu api, udara, dan tanah."
+    },
+    {
+      "title": "Penyebutan Tentang Malaikat",
+      "titleArabic": "ذِكْرُ الْمَلَائِكَةِ",
+      "arabic": "خَلَقَ اللهُ الْمَلَائِكَةَ مِنْ نُورٍ، وَهُمْ أَصْنَافٌ كَثِيرَةٌ، مِنْهُمْ حَمَلَةُ الْعَرْشِ وَالْمُقَرَّبُونَ وَأَهْلُ السَّمَاوَاتِ.",
+      "translation": "Allah menciptakan malaikat dari cahaya, dan mereka terbagi dalam banyak jenis, di antaranya pembawa Arsy, malaikat Muqarrabun, dan penduduk langit."
+    },
+    {
+      "title": "Penciptaan Iblis dan Bangsa Jin",
+      "titleArabic": "خَلْقُ إِبْلِيسَ وَالْجِنِّ",
+      "arabic": "وَأَمَّا الْجِنُّ فَخُلِقُوا مِنْ مَارِجٍ مِنْ نَارٍ، وَسَكَنُوا الْأَرْضَ قَبْلَ آدَمَ بِآلَافِ السِّنِينَ، وَتَفَرَّقُوا فِيهَا فِرَقاً.",
+      "translation": "Adapun Jin, maka mereka diciptakan dari nyala api, dan mereka menghuni bumi ribuan tahun sebelum Adam, serta terbagi menjadi beberapa kelompok di dalamnya."
+    },
+    {
+      "title": "Penciptaan Adam Alaihissalam",
+      "titleArabic": "ذِكْرُ خَلْقِ آدَمَ عَلَيْهِ السَّلَامُ",
+      "arabic": "ثُمَّ خَلَقَ اللهُ آدَمَ مِنْ طِينٍ لَازِبٍ، وَنَفَخَ فِيهِ مِنْ رُوحِهِ، وَأَسْجَدَ لَهُ مَلَائِكَتَهُ.",
+      "translation": "Kemudian Allah menciptakan Adam dari tanah liat yang pekat, dan meniupkan ke dalamnya sebagian ruh-Nya, serta memerintahkan malaikat-Nya untuk bersujud kepadanya."
+    },
+    {
+      "title": "Penyebaran Keturunan Adam",
+      "titleArabic": "ذِكْرُ انْتِشَارِ وَلَدِ آدَمَ",
+      "arabic": "وَتَنَاسَلَ بَنُو آدَمَ وَكَثُرُوا فِي الْأَرْضِ، وَكَانَ شِيثُ وَصِيَّ أَبِيهِ آدَمَ فِي إِقَامَةِ الْحَقِّ.",
+      "translation": "Dan beranak-pinaklah keturunan Adam serta bertambah banyak di bumi, dan Seth (Shith) adalah wasi (penerus) ayahnya, Adam, dalam menegakkan kebenaran."
+    },
+    {
+      "title": "Kisah Idris Alaihissalam",
+      "titleArabic": "ذِكْرُ إِدْرِيسَ عَلَيْهِ السَّلَامُ",
+      "arabic": "وَهُوَ أَوَّلُ مَنْ خَطَّ بِالْقَلَمِ، وَنَظَرَ فِي عِلْمِ النُّجُومِ وَالْحِسَابِ، وَرَفَعَهُ اللهُ مَكَاناً عَلِيّاً.",
+      "translation": "Dan dia adalah orang pertama yang menulis dengan pena, meneliti ilmu perbintangan dan hisab, serta Allah mengangkatnya ke derajat yang tinggi."
+    },
+    {
+      "title": "Nabi Nuh dan Air Bah",
+      "titleArabic": "ذِكْرُ نُوحٍ وَالطُّوفَانِ",
+      "arabic": "فَلَمَّا طَغَى النَّاسُ أَرْسَلَ اللهُ نُوحاً، فَكَذَّبُوهُ، فَأَنْزَلَ اللهُ الطُّوفَانَ الَّذِي غَمَرَ الْأَرْضَ كُلَّهَا.",
+      "translation": "Maka ketika manusia melampaui batas, Allah mengutus Nuh, namun mereka mendustakannya, maka Allah menurunkan banjir besar yang menenggelamkan seluruh bumi."
+    },
+    {
+      "title": "Pembagian Bumi Kepada Putra Nuh",
+      "titleArabic": "قِسْمَةُ الْأَرْضِ بَيْنَ وُلْدِ نُوحٍ",
+      "arabic": "قَسَمَ نُوحٌ الْأَرْضَ بَيْنَ أَوْلَادِهِ الثَّلَاثَةِ: سَامٍ وَحَامٍ وَيَافِثَ.",
+      "translation": "Nuh membagi bumi di antara ketiga putranya: Sam, Ham, dan Yafith."
+    },
+    {
+      "title": "Keturunan Sam (Bangsa Arab dan Persia)",
+      "titleArabic": "ذِكْرُ بَنِي سَامٍ",
+      "arabic": "مِنْهُمُ الْعَرَبُ وَالْفُرْسُ وَالرُّومُ، وَسَكَنُوا أَوْسَاطَ الْأَرْضِ وَمَشَارِقَهَا.",
+      "translation": "Di antara mereka adalah bangsa Arab, Persia, dan Romawi, dan mereka mendiami wilayah tengah bumi dan bagian timurnya."
+    },
+    {
+      "title": "Keturunan Ham (Bangsa Afrika dan Mesir)",
+      "titleArabic": "ذِكْرُ بَنِي حَامٍ",
+      "arabic": "مِنْهُمُ الْقِبْطُ وَالسُّودَانُ وَالْبَرْبَرُ، وَتَوَجَّهُوا إِلَى مَغَارِبِ الْأَرْضِ وَجَنُوبِهَا.",
+      "translation": "Di antara mereka adalah bangsa Qibti (Mesir), Sudan, dan Berber, dan mereka menuju ke arah barat bumi dan selatannya."
+    },
+    {
+      "title": "Keturunan Yafith (Bangsa Turk dan China)",
+      "titleArabic": "ذِكْرُ بَنِي يَافِثَ",
+      "arabic": "مِنْهُمُ التُّرْكُ وَالصِّينُ وَيَأْجُوجُ وَمَأْجُوجُ، وَسَكَنُوا الشِّمَالَ.",
+      "translation": "Di antara mereka adalah bangsa Turk, China, serta Ya'juj dan Ma'juj, dan mereka mendiami wilayah utara."
+    },
+    {
+      "title": "Sifat dan Bentuk Bumi",
+      "titleArabic": "ذِكْرُ صِفَةِ الْأَرْضِ",
+      "arabic": "الْأَرْضُ مُدَوَّرَةٌ كَالْكُرَةِ، وَالْمَاءُ مُحِيطٌ بِهَا، وَالْمَعْمُورُ مِنْهَا جُزْءٌ يَسِيرٌ.",
+      "translation": "Bumi itu bulat seperti bola, dan air melingkupinya, dan bagian yang berpenghuni darinya hanyalah sebagian kecil."
+    },
+    {
+      "title": "Penyebutan Tentang Laut-Laut Besar",
+      "titleArabic": "ذِكْرُ الْبِحَارِ",
+      "arabic": "هِيَ سَبْعَةُ بِحَارٍ عِظَامٍ، مِنْهَا بَحْرُ الْهِنْدِ وَبَحْرُ الرُّومِ وَالْبَحْرُ الْمُحِيطُ.",
+      "translation": "Ada tujuh laut besar, di antaranya Laut Hindia, Laut Romawi (Mediterania), dan Laut Al-Muhit (Atlantik/Samudra)."
+    },
+    {
+      "title": "Keajaiban di Lautan",
+      "titleArabic": "ذِكْرُ عَجَائِبِ الْبِحَارِ",
+      "arabic": "فِي الْبِحَارِ حَيَوَانَاتٌ عَظِيمَةٌ وَجَزَائِرُ فِيهَا أُمَمٌ لَا يَعْلَمُ خَلْقَهُمْ إِلَّا اللهُ.",
+      "translation": "Di dalam lautan terdapat hewan-hewan besar dan pulau-pulau yang di dalamnya terdapat bangsa-bangsa yang tidak diketahui penciptaannya kecuali oleh Allah."
+    },
+    {
+      "title": "Penyebutan Tentang Sungai Nil",
+      "titleArabic": "ذِكْرُ نِيلِ مِصْرَ",
+      "arabic": "هُوَ مِنْ أَعْجَبِ أَنْهَارِ الدُّنْيَا، يَخْرُجُ مِنْ جِبَالِ الْقَمَرِ فِي جَنُوبِ الْأَرْضِ.",
+      "translation": "Ia adalah termasuk sungai paling menakjubkan di dunia, keluar dari Pegunungan Qamar di selatan bumi."
+    },
+    {
+      "title": "Negeri Mesir dan Keutamaannya",
+      "titleArabic": "ذِكْرُ أَرْضِ مِصْرَ",
+      "arabic": "مِصْرُ هِيَ أُمُّ الْبِلَادِ، وَمَعْدِنُ الْكُنُوزِ، وَفِيهَا مِنَ الْآثَارِ مَا لَيْسَ فِي غَيْرِهَا.",
+      "translation": "Mesir adalah induk negeri-negeri, tambang harta karun, dan di dalamnya terdapat peninggalan yang tidak ada di tempat lain."
+    },
+    {
+      "title": "Raja Mesir Pertama Setelah Banjir Besar",
+      "titleArabic": "ذِكْرُ ملوكِ مِصْرَ بَعْدَ الطُّوفَانِ",
+      "arabic": "أَوَّلُ مَنْ مَلَكَ مِصْرَ بَعْدَ الطُّوفَانِ بَيْنَصَرُ بْنُ حَامٍ، وَبَنَى فِيهَا الْمَدَائِنَ.",
+      "translation": "Orang pertama yang menguasai Mesir setelah banjir besar adalah Baynasar bin Ham, dan dia membangun kota-kota di sana."
+    },
+    {
+      "title": "Raja Misraim dan Pembangunan Kota",
+      "titleArabic": "ذِكْرُ مِصْرَايِمَ",
+      "arabic": "وَبِاسْمِهِ سُمِّيَتْ مِصْرُ، وَقَسَمَ أَرْضَهَا بَيْنَ أَوْلَادِهِ وَحَفَرَ الْأَنْهَارَ.",
+      "translation": "Dan dengan namanya Mesir dinamakan, dia membagi tanahnya di antara anak-anaknya dan menggali sungai-sungai."
+    },
+    {
+      "title": "Penyebutan Tentang Raja Naqrawus",
+      "titleArabic": "ذِكْرُ الْمَلِكِ نَقْرَاوُسَ",
+      "arabic": "كَانَ مِنَ الْجَبَابِرَةِ، وَبَنَى مَدِينَةً عَظِيمَةً وَوَضَعَ فِيهَا الطَّلَاسِمَ.",
+      "translation": "Dia termasuk golongan penguasa diktator (Jabbar), membangun kota besar dan meletakkan jimat-jimat (talismans) di dalamnya."
+    },
+    {
+      "title": "Ilmu Sihir dan Jimat di Mesir Kuno",
+      "titleArabic": "ذِكْرُ السِّحْرِ وَالطَّلَاسِمِ بِمِصْرَ",
+      "arabic": "اشْتَهَرَ أَهْلُ مِصْرَ بِعِلْمِ الطَّبَائِعِ وَالسِّحْرِ، وَصَنَعُوا تَمَاثِيلَ تَنْطِقُ وَتَحْرُسُ الْمَدَائِنَ.",
+      "translation": "Penduduk Mesir terkenal dengan ilmu alam dan sihir, mereka membuat patung-patung yang dapat berbicara dan menjaga kota-kota."
+    },
+    {
+      "title": "Pembangunan Piramida",
+      "titleArabic": "ذِكْرُ بِنَاءِ الْأَهْرَامِ",
+      "arabic": "بَنَى الْمُلُوكُ الْأَهْرَامَ لِتَكُونَ مَلَاذاً لَهُمْ مِنَ الْآفَاتِ، وَأَوْدَعُوا فِيهَا عُلُومَهُمْ وَأَمْوَالَهُمْ.",
+      "translation": "Para raja membangun piramida untuk menjadi tempat berlindung bagi mereka dari bencana, dan mereka menyimpan ilmu pengetahuan serta harta mereka di dalamnya."
+    },
+    {
+      "title": "Piramida Timur dan Piramida Barat",
+      "titleArabic": "ذِكْرُ الْهَرَمَيْنِ",
+      "arabic": "أَحَدُهُمَا مَبْنِيٌّ بِالرُّخَامِ الْمُلَوَّنِ، وَالْآخَرُ بِالْحَجَرِ الصَّلْدِ، وَفِيهِمَا عَجَائِبُ كَثِيرَةٌ.",
+      "translation": "Salah satunya dibangun dengan marmer berwarna, dan yang lainnya dengan batu keras, dan pada keduanya terdapat banyak keajaiban."
+    },
+    {
+      "title": "Misteri Di Dalam Piramida",
+      "titleArabic": "ذِكْرُ مَا فِي دَاخِلِ الْأَهْرَامِ",
+      "arabic": "يُقَالُ إِنَّ فِيهَا غُرَفاً مَمْلُوءَةً بِالْجَوَاهِرِ وَالسِّلَاحِ الَّذِي لَا يَصْدَأُ، وَالزُّجَاجِ الَّذِي يَنْثَنِي.",
+      "translation": "Dikatakan bahwa di dalamnya terdapat ruangan-ruangan yang penuh dengan permata, senjata yang tidak bisa berkarat, dan kaca yang bisa dibengkokkan."
+    },
+    {
+      "title": "Patung Sphinx (Abu al-Haul)",
+      "titleArabic": "ذِكْرُ أَبِي الْهَوْلِ",
+      "arabic": "هُوَ صَنَمٌ عَظِيمٌ مِنْ حَجَرٍ عِنْدَ الْأَهْرَامِ، كَانَ يَحْرُسُ الْمِنْطَقَةَ بِسِحْرِهِ.",
+      "translation": "Ia adalah berhala besar dari batu di dekat piramida, yang dahulu menjaga kawasan tersebut dengan sihirnya."
+    },
+    {
+      "title": "Raja Ashmun dan Kota Ashmunin",
+      "titleArabic": "ذِكْرُ الْمَلِكِ أَشْمُونَ",
+      "arabic": "بَنَى مَدِينَةَ أَشْمُونَ، وَكَانَ عَالِماً بِالنُّجُومِ وَالْكِيمِيَاءِ.",
+      "translation": "Dia membangun kota Ashmun, dan dia adalah seorang yang alim dalam ilmu perbintangan dan kimia."
+    },
+    {
+      "title": "Keajaiban Mercusuar Iskandariyah",
+      "titleArabic": "ذِكْرُ مَنَارَةِ الْإِسْكَنْدَرِيَّةِ",
+      "arabic": "بَنَاهَا الْمُلُوكُ لِتَهْتَدِيَ بِهَا السُّفُنُ، وَكَانَ فِيهَا مِرْآةٌ تَرَى الْمَرَاكِبَ مِنْ مَسَافَةٍ بَعِيدَةٍ.",
+      "translation": "Para raja membangunnya agar kapal-kapal mendapat petunjuk, dan di dalamnya terdapat cermin yang dapat melihat kapal dari jarak yang sangat jauh."
+    },
+    {
+      "title": "Bangsa Amaliqah (Para Raksasa)",
+      "titleArabic": "ذِكْرُ الْعَمَالِيقِ",
+      "arabic": "هُمْ أُمَّةٌ مِنْ بَنِي عِمْلَاقَ، كَانُوا طِوَالَ الْأَجْسَامِ، مَلَكُوا الشَّامَ وَمِصْرَ.",
+      "translation": "Mereka adalah bangsa dari keturunan 'Imlaq, bertubuh sangat tinggi, dan menguasai Syam serta Mesir."
+    },
+    {
+      "title": "Penyebutan Tentang Bangsa Ad",
+      "titleArabic": "ذِكْرُ عَادٍ",
+      "arabic": "هُمْ قَوْمُ هُودٍ، بَنَوْا إِرَمَ ذَاتَ الْعِمَادِ، وَأَهْلَكَهُمُ اللهُ بِالرِّيحِ الصَّرْصَرِ.",
+      "translation": "Mereka adalah kaum Nabi Hud, membangun Iram yang memiliki tiang-tiang tinggi, dan Allah membinasakan mereka dengan angin yang sangat dingin lagi kencang."
+    },
+    {
+      "title": "Penyebutan Tentang Bangsa Tsamud",
+      "titleArabic": "ذِكْرُ ثَمُودَ",
+      "arabic": "قَوْمُ صَالِحٍ الَّذِينَ نَحَتُوا الْجِبَالَ بُيُوتاً، وَأَهْلَكَهُمُ اللهُ بِالصَّيْحَةِ.",
+      "translation": "Kaum Nabi Shalih yang memahat gunung-gunung untuk dijadikan rumah, dan Allah membinasakan mereka dengan suara yang menggelegar."
+    },
+    {
+      "title": "Raja-Raja Yunani",
+      "titleArabic": "ذِكْرُ ملوكِ الْيُونَانِ",
+      "arabic": "كَانُوا أَهْلَ فَلْسَفَةٍ وَطِبٍّ، وَمِنْهُمْ بَقْرَاطُ وَأَرِسْطُوطَالِيسُ.",
+      "translation": "Mereka adalah ahli filsafat dan kedokteran, di antaranya adalah Hippocrates dan Aristoteles."
+    },
+    {
+      "title": "Alexander Agung (Iskandar Dzulqarnain)",
+      "titleArabic": "ذِكْرُ الْإِسْكَنْدَرِ",
+      "arabic": "طَافَ الْبِلَادَ وَبَنَى السُّدُودَ، وَدَخَلَ ظُلُمَاتِ الْأَرْضِ طَلَباً لِعَيْنِ الْحَيَاةِ.",
+      "translation": "Dia mengelilingi negeri-negeri dan membangun bendungan, serta memasuki kegelapan bumi untuk mencari mata air kehidupan."
+    },
+    {
+      "title": "Raja-Raja Persia",
+      "titleArabic": "ذِكْرُ ملوكِ الْفُرْسِ",
+      "arabic": "هُمْ كِسْرَى وَأَنُوشِرْوَانُ، مَلَكُوا الْعِرَاقَ وَبَنَوْا الْإِيوَانَ الْعَظِيمَ.",
+      "translation": "Mereka adalah Kisra dan Anushirwan, menguasai Irak dan membangun istana (Iwan) yang agung."
+    },
+    {
+      "title": "Kisah Ratu Balqis dan Kerajaan Saba",
+      "titleArabic": "ذِكْرُ بَلْقِيسَ وَسَبَأَ",
+      "arabic": "مَلَكَتِ الْيَمَنَ، وَبَنَتْ سَدَّ مَأْرِبَ، وَآمَنَتْ مَعَ سُلَيْمَانَ عَلَيْهِ السَّلَامُ.",
+      "translation": "Dia menguasai Yaman, membangun bendungan Ma'rib, dan beriman bersama Nabi Sulaiman Alaihissalam."
+    },
+    {
+      "title": "Bangsa Berber dan Asal Usul Mereka",
+      "titleArabic": "ذِكْرُ الْبَرْبَرِ",
+      "arabic": "اخْتُلِفَ فِي نَسَبِهِمْ، فَمِنْهُمْ مَنْ قَالَ إِنَّهُمْ مِنْ وُلْدِ حَامٍ، وَسَكَنُوا جِبَالَ الْمَغْرِبِ.",
+      "translation": "Terjadi perbedaan pendapat tentang nasab mereka, di antara pendapat ada yang mengatakan mereka dari keturunan Ham, dan mereka mendiami pegunungan di Maghrib (Afrika Utara)."
+    },
+    {
+      "title": "Keajaiban Kota Tembaga",
+      "titleArabic": "ذِكْرُ مَدِينَةِ النُّحَاسِ",
+      "arabic": "مَدِينَةٌ فِيهَا طَلَاسِمُ فِي صَحْرَاءِ الْمَغْرِبِ، مَنْ صَعِدَ سُورَهَا أَلْقَى نَفْسَهُ فِيهَا.",
+      "translation": "Sebuah kota yang memiliki jimat-jimat di padang pasir Maghrib, siapa yang menaiki temboknya maka ia akan melemparkan dirinya ke dalam."
+    },
+    {
+      "title": "Penyebutan Tentang Bangsa Sudan",
+      "titleArabic": "ذِكْرُ السُّودَانِ",
+      "arabic": "هُمْ أُمَمٌ كَثِيرَةٌ، مِنْهُمُ النُّوبَةُ وَالْبُجَةُ وَالْحَبَشَةُ، وَلَهُمْ مَلِكٌ يَعْبُدُونَهُ.",
+      "translation": "Mereka adalah banyak bangsa, di antaranya Nuba, Buja, dan Habasyah (Ethiopia), dan mereka memiliki raja yang mereka sembah."
+    },
+    {
+      "title": "Bangsa Turk dan Keberanian Mereka",
+      "titleArabic": "ذِكْرُ التُّرْكِ",
+      "arabic": "هُمْ أَهْلُ حَرْبٍ وَطَعْنٍ، يَسْكُنُونَ الْخِيَامَ وَيَنْتَقِلُونَ فِي طَلَبِ الْمَرْعَى.",
+      "translation": "Mereka adalah ahli perang dan penusukan, tinggal di tenda-tenda dan berpindah-pindah untuk mencari padang rumput."
+    },
+    {
+      "title": "Bangsa China dan Kerajinan Tangan",
+      "titleArabic": "ذِكْرُ أَهْلِ الصِّينِ",
+      "arabic": "أَحْذَقُ النَّاسِ بِالصِّنَاعَاتِ وَالتَّصَاوِيرِ، وَلَهُمْ نِظَامٌ دَقِيقٌ فِي الْمُلْكِ.",
+      "translation": "Manusia yang paling mahir dalam industri dan seni gambar, serta mereka memiliki sistem pemerintahan yang sangat teliti."
+    },
+    {
+      "title": "Bangsa India dan Ilmu Pengetahuan",
+      "titleArabic": "ذِكْرُ الْهِنْدِ",
+      "arabic": "أَهْلُ حِكْمَةٍ وَرِيَاضِيَّاتٍ، مِنْهُمْ خَرَجَ عِلْمُ النُّجُومِ وَالْحِسَابِ الْهِنْدِيِّ.",
+      "translation": "Ahli hikmah dan matematika, dari mereka keluar ilmu perbintangan dan hitungan Hindia."
+    },
+    {
+      "title": "Pohon-Pohon Ajaib di Dunia",
+      "titleArabic": "ذِكْرُ الْأَشْجَارِ الْعَجِيبَةِ",
+      "arabic": "مِنْهَا شَجَرَةُ الْوَاقِ وَاقِ الَّتِي ثَمَرُهَا عَلَى صُورَةِ النِّسَاءِ.",
+      "translation": "Di antaranya adalah pohon Waq-Waq yang buahnya menyerupai rupa wanita."
+    },
+    {
+      "title": "Gunung-Gunung Besar di Bumi",
+      "titleArabic": "ذِكْرُ الْجِبَالِ",
+      "arabic": "مِنْهَا جَبَلُ قَافٍ الْمُحِيطِ بِالْأَرْضِ، وَجَبَلُ سَرَنْدِيبَ الَّذِي هَبَطَ فِيهِ آدَمُ.",
+      "translation": "Di antaranya adalah Gunung Qaf yang mengelilingi bumi, dan Gunung Sarandib tempat Adam turun."
+    },
+    {
+      "title": "Penyebutan Tentang Permata dan Tambang",
+      "titleArabic": "ذِكْرُ الْجَوَاهِرِ وَالْمَعَادِنِ",
+      "arabic": "خَلَقَ اللهُ فِي بَطْنِ الْأَرْضِ الذَّهَبَ وَالْفِضَّةَ وَالْيَاقُوتَ وَالزُّمُرُّدَ.",
+      "translation": "Allah menciptakan di dalam perut bumi emas, perak, yakut, dan zamrud."
+    },
+    {
+      "title": "Kehidupan Binatang Darat",
+      "titleArabic": "ذِكْرُ حَيَوَانِ الْبَرِّ",
+      "arabic": "مِنْهَا الْفِيَلَةُ وَالْكَرَّكَدَنُ وَالسِّبَاعُ، وَلِكُلٍّ مِنْهَا طَبَائِعُ مُخْتَلِفَةٌ.",
+      "translation": "Di antaranya gajah, badak, dan binatang buas, yang masing-masing memiliki tabiat yang berbeda."
+    },
+    {
+      "title": "Burung-Burung Ajaib",
+      "titleArabic": "ذِكْرُ الطُّيُورِ",
+      "arabic": "مِنْهَا طَائِرُ الْعَنْقَاءِ الَّذِي يَعِيشُ مِئاتِ السِّنِينَ وَلَا يُرَى إِلَّا نَادِراً.",
+      "translation": "Di antaranya adalah burung Anqa' yang hidup ratusan tahun dan jarang terlihat."
+    },
+    {
+      "title": "Kuil-Kuil Kuno di Mesir (Al-Barabi)",
+      "titleArabic": "ذِكْرُ الْبَرابِي بِمِصْرَ",
+      "arabic": "هِيَ هَيَاكِلُ عَظِيمَةٌ فِيهَا صُوَرُ الْأَفْلَاكِ وَالْمُلُوكِ، مَبْنِيَّةٌ بِالصَّخْرِ الْعَظِيمِ.",
+      "translation": "Ia adalah kuil-kuil besar yang di dalamnya terdapat gambar benda-benda langit dan para raja, dibangun dengan batu-batu raksasa."
+    },
+    {
+      "title": "Raja-Raja Mesir Sebelum Banjir",
+      "titleArabic": "ذِكْرُ مُلُوكِ مِصْرَ قَبْلَ الطُّوفَانِ",
+      "arabic": "مِنْهُمْ سُورِيدُ الَّذِي رَأَى رُؤْيَا الطُّوفَانِ فَبَنَى الْأَهْرَامَ لِحِفْظِ الْعُلُومِ.",
+      "translation": "Di antara mereka adalah Surid yang bermimpi tentang banjir besar lalu membangun piramida untuk menjaga ilmu pengetahuan."
+    },
+    {
+      "title": "Penyebutan Tentang Nabi Musa dan Firaun",
+      "titleArabic": "ذِكْرُ مُوسَى وَفِرْعَوْنَ",
+      "arabic": "أَرْسَلَ اللهُ مُوسَى إِلَى فِرْعَوْنَ، فَطَغَى وَتَجَبَّرَ، فَأَغْرَقَهُ اللهُ فِي الْبَحْرِ.",
+      "translation": "Allah mengutus Musa kepada Firaun, namun ia melampaui batas dan sombong, maka Allah menenggelamkannya di laut."
+    },
+    {
+      "title": "Akhir Zaman dan Tanda-tandanya",
+      "titleArabic": "ذِكْرُ آخِرِ الزَّمَانِ",
+      "arabic": "إِذَا اقْتَرَبَ الزَّمَانُ ظَهَرَتِ الْفِتَنُ، وَتَغَيَّرَتِ الطَّبَائِعُ، وَقَرُبَ خُرُوجُ الدَّجَّالِ.",
+      "translation": "Apabila zaman telah dekat (akhir), maka nampaklah fitnah, berubah tabiat manusia, dan dekatnya keluarnya Dajjal."
+    },
+    {
+      "title": "Penutup Kitab (Khatimah)",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ",
+      "arabic": "تَمَّ مَا أَرَدْنَا ذِكْرَهُ فِي هَذَا الْكِتَابِ مِنْ أَخْبَارِ الزَّمَانِ، وَالْحَمْدُ لِلهِ رَبِّ الْعَالَمِينَ.",
+      "translation": "Telah selesai apa yang kami ingin sebutkan dalam kitab ini mengenai kabar sejarah zaman, dan segala puji bagi Allah Tuhan semesta alam."
+    }
+  ]
+}
