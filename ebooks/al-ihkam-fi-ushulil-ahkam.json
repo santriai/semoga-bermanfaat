@@ -1,0 +1,110 @@
+{
+  "profile": {
+    "name": "Al-Ihkam fi Ushulil Ahkam",
+    "originalTitle": "الْإِحْكَامُ فِي أُصُولِ الْأَحْكَامِ",
+    "author": "Saifuddin Abu al-Hasan Ali bin Abi Ali bin Muhammad al-Amidi (سيف الدين الآمدي)",
+    "field": "Ushul al-Fiqh (Prinsip Dasar Hukum Islam)",
+    "about": "Kitab Al-Ihkam merupakan salah satu dari empat pilar utama dalam disiplin ilmu Ushul Fiqh menurut madzhab Syafi'i dan Mutakallimin. Al-Amidi menyusun karya ini dengan metodologi yang sangat sistematis, menggabungkan kedalaman logika (manthiq) dengan dalil-dalil syar'i. Kitab ini mensintesis pemikiran dari kitab-kitab besar sebelumnya seperti Al-Mustasfa karya Al-Ghazali dan Al-Mahsul karya Ar-Razi. Isinya mencakup empat pondasi utama: hakekat hukum, dalil-dalil hukum, metode pengambilan kesimpulan (istidlal), serta kriteria mujtahid dan mufti. Karya ini tetap menjadi rujukan primer bagi sarjana hukum Islam di seluruh dunia karena ketelitiannya dalam membedah setiap masalah ushuliyah.",
+    "authorBorn": "551 H (1156 M) di Amid (Diyarbakir), Turki.",
+    "authorDied": "631 H (1233 M) di Damaskus, Suriah.",
+    "authorCentury": "Abad ke-6 dan ke-7 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah: Hakikat Ilmu dan Ushul Fiqh",
+      "titleArabic": "الْمُقَدِّمَةُ فِي بَيَانِ حَقِيقَةِ الْعِلْمِ وَأُصُولِ الْفِقْهِ",
+      "arabic": "أَمَّا بَعْدُ، فَإِنَّ أَوْلَى مَا صُرِفَتْ فِيهِ نَفَائِسُ الْأَيَّامِ، وَأَغْلَى مَا خُصَّتْ بِهِ فَوَاضِلُ الْأَعْوَامِ، طَلَبُ الْعِلْمِ الَّذِي بِهِ سَعَادَةُ الدَّارَيْنِ. وَإِنَّ أُصُولَ الْفِقْهِ هِيَ الْقَوَاعِدُ الَّتِي يُبْنَى عَلَيْهَا مَعْرِفَةُ الْأَحْكَامِ الشَّرْعِيَّةِ.",
+      "translation": "Adapun setelahnya, sesungguhnya perkara utama yang patut dihabiskan dengannya waktu-waktu berharga, dan yang paling mahal untuk dikhususkan bagi keutamaan tahun-tahun kehidupan, adalah menuntut ilmu yang dengannya diraih kebahagiaan dunia dan akhirat. Dan sesungguhnya Ushul Fiqh adalah kaidah-kaidah yang di atasnya dibangun pengetahuan tentang hukum-hukum syariat."
+    },
+    {
+      "title": "Pondasi Pertama: Tentang Hakikat Hukum (Al-Ahkam)",
+      "titleArabic": "الْقَاعِدَةُ الْأُولَى: فِي بَيَانِ الْأَحْكَامِ الشَّرْعِيَّةِ",
+      "arabic": "الْقَاعِدَةُ الْأُولَى فِي الْحُكْمِ، وَأَقْسَامِهِ، وَأَرْكَانِهِ. وَالْحُكْمُ عِنْدَ أَصْحَابِنَا هُوَ خِطَابُ اللهِ الْمُتَعَلِّقُ بِأَفْعَالِ الْمُكَلَّفِينَ بِالِاقْتِضَاءِ أَوْ التَّخْيِيرِ أَوْ الْوَضْعِ.",
+      "translation": "Pondasi pertama membahas tentang hukum, pembagiannya, dan rukun-rukunnya. Hukum menurut para ulama kami (Mutakallimin) adalah khitab (kalam) Allah yang berkaitan dengan perbuatan para mukallaf, baik dalam bentuk tuntutan, pemberian pilihan, atau ketetapan (wad'i)."
+    },
+    {
+      "title": "Hukum Taklifi: Wajib, Mandub, Mubah, Makruh, Haram",
+      "titleArabic": "الْمَسْأَلَةُ الْأُولَى: فِي أَقْسَامِ الْحُكْمِ التَّكْلِيفِيِّ",
+      "arabic": "وَالْحُكْمُ التَّكْلِيفِيُّ يَنْقَسِمُ إِلَى الْوُجُوبِ، وَالنَّدْبِ، وَالْإِبَاحَةِ، وَالْكَرَاهَةِ، وَالتَّحْرِيمِ.",
+      "translation": "Masalah pertama: Mengenai pembagian hukum taklifi yang terbagi menjadi wajib, sunnah (mandub), mubah, makruh, dan haram."
+    },
+    {
+      "title": "Hukum Wad'i: Sebab, Syarat, Mani', Shahih, Bathil",
+      "titleArabic": "الْمَسْأَلَةُ الثَّانِيَةُ: فِي الْحُكْمِ الْوَضْعِيِّ",
+      "arabic": "وَهُوَ مَا وَضَعَهُ الشَّارِعُ عَلَامَةً لِلْحُكْمِ، وَهُوَ السَّبَبُ وَالشَّرْطُ وَالْمَانِعُ وَالصِّحَّةُ وَالْبُطْلَانُ.",
+      "translation": "Masalah kedua: Tentang hukum wad'i, yaitu apa yang ditetapkan oleh pembuat syariat sebagai tanda bagi hukum, yang meliputi sebab, syarat, penghalang (mani'), sah, dan batal."
+    },
+    {
+      "title": "Rukun Hukum I: Al-Hakim (Sang Pembuat Hukum)",
+      "titleArabic": "الرُّكْنُ الْأَوَّلُ: فِي الْحَاكِمِ",
+      "arabic": "لَا حَاكِمَ إِلَّا اللهُ تَعَالَى، وَالْعَقْلُ لَا يُوجِبُ وَلَا يُحَرِّمُ وَلَا يُقَبِّحُ بِمُجَرَّدِهِ خِلَافاً لِلْمُعْتَزِلَةِ.",
+      "translation": "Rukun pertama: Mengenai Al-Hakim. Tidak ada pembuat hukum kecuali Allah Ta'ala, dan akal semata tidaklah mewajibkan, mengharamkan, atau menentukan baik-buruk secara mandiri, berbeda dengan pendapat Mu'tazilah."
+    },
+    {
+      "title": "Rukun Hukum II: Al-Mahkum Bihi (Objek Hukum)",
+      "titleArabic": "الرُّكْنُ الثَّانِي: فِي الْمَحْكُومِ بِهِ",
+      "arabic": "وَهُوَ فِعْلُ الْمُكَلَّفِ الَّذِي تَعَلَّقَ بِهِ الْخِطَابُ، وَيُشْتَرَطُ أَنْ يَكُونَ مَعْلُومًا وَمُمْكِنًا.",
+      "translation": "Rukun kedua: Mengenai Al-Mahkum Bihi, yaitu perbuatan mukallaf yang berkaitan dengan khitab, dengan syarat perbuatan tersebut harus diketahui dan mungkin untuk dilakukan."
+    },
+    {
+      "title": "Rukun Hukum III: Al-Mahkum 'Alayhi (Subjek Hukum)",
+      "titleArabic": "الرُّكْنُ الثَّالِثُ: فِي الْمَحْكُومِ عَلَيْهِ",
+      "arabic": "وَهُوَ الْمُكَلَّفُ، وَيُشْتَرَطُ فِيهِ الْعَقْلُ وَفَهْمُ الْخِطَابِ.",
+      "translation": "Rukun ketiga: Mengenai Al-Mahkum 'Alayhi, yaitu orang yang dibebani hukum (mukallaf), disyaratkan baginya memiliki akal dan kemampuan memahami khitab."
+    },
+    {
+      "title": "Pondasi Kedua: Tentang Dalil-Dalil Hukum",
+      "titleArabic": "الْقَاعِدَةُ الثَّانِيَةُ: فِي أَدِلَّةِ الْأَحْكَامِ",
+      "arabic": "وَهِيَ الْكِتَابُ وَالسُّنَّةُ وَالْإِجْمَاعُ وَالِاسْتِدْلَالُ بِمَا تَقَدَّمَ وَالْعَقْلُ.",
+      "translation": "Pondasi kedua: Membahas dalil-dalil hukum, yaitu Al-Qur'an (Al-Kitab), Sunnah, Ijma', serta metode istidlal dengan apa yang telah disebutkan sebelumnya dan akal."
+    },
+    {
+      "title": "Dalil Pertama: Al-Kitab (Al-Qur'an)",
+      "titleArabic": "الدَّلِيلُ الْأَوَّلُ: الْكِتَابُ",
+      "arabic": "الْكِتَابُ هُوَ الْقُرْآنُ الْمُنَزَّلُ عَلَى رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، الْمَنْقُولُ إِلَيْنَا بِالتَّوَاتُرِ.",
+      "translation": "Dalil pertama: Al-Kitab adalah Al-Qur'an yang diturunkan kepada Rasulullah SAW, yang sampai kepada kita melalui jalur mutawatir."
+    },
+    {
+      "title": "Dalil Kedua: As-Sunnah",
+      "titleArabic": "الدَّلِيلُ الثَّانِي: السُّنَّةُ",
+      "arabic": "وَهِيَ قَوْلُ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَفِعْلُهُ وَتَقْرِيرُهُ. وَالْكَلَامُ فِي الْأَخْبَارِ وَالتَّوَاتُرِ وَالْآحَادِ.",
+      "translation": "Dalil kedua: As-Sunnah, yang meliputi perkataan, perbuatan, dan ketetapan Nabi SAW. Pembahasan mencakup tentang berita (khabar), mutawatir, dan hadits ahad."
+    },
+    {
+      "title": "Dalil Ketiga: Al-Ijma' (Kesepakatan Ulama)",
+      "titleArabic": "الدَّلِيلُ الثَّالِثُ: الْإِجْمَاعُ",
+      "arabic": "وَهُوَ اتِّفَاقُ أَهْلِ الْحَلِّ وَالْعَقْدِ مِنْ أُمَّةِ مُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِي عَصْرٍ عَلَى حُكْمِ وَاقِعَةٍ.",
+      "translation": "Dalil ketiga: Al-Ijma', yaitu kesepakatan ahli halli wal 'aqdi (para mujtahid) dari umat Muhammad SAW pada suatu masa atas hukum suatu kejadian."
+    },
+    {
+      "title": "Pondasi Ketiga: Tentang Metode Pengambilan Hukum (Istidlal)",
+      "titleArabic": "الْقَاعِدَةُ الثَّالِثَةُ: فِي طُرُقِ الِاسْتِدْلَالِ",
+      "arabic": "وَهِيَ الْقِيَاسُ، وَالِاسْتِصْحَابُ، وَالْمَصَالِحُ الْمُرْسَلَةُ، وَأَدِلَّةٌ أُخْرَى كَالِاسْتِحْسَانِ وَسَدِّ الذَّرَائِعِ.",
+      "translation": "Pondasi ketiga: Membahas metode pengambilan hukum, meliputi Qiyas (analogi), Istishab, Mashalih Mursalah, serta dalil lainnya seperti Istihsan dan Saddu ad-Dzara'i."
+    },
+    {
+      "title": "Metode Qiyas: Rukun dan Syaratnya",
+      "titleArabic": "بَابُ الْقِيَاسِ: أَرْكَانُهُ وَشُرُوطُهُ",
+      "arabic": "أَرْكَانُهُ أَرْبَعَةٌ: الْأَصْلُ، وَالْفَرْعُ، وَالْحُكْمُ، وَالْعِلَّةُ. وَالْعِلَّةُ هِيَ الْوَصْفُ الْمُؤَثِّرُ.",
+      "translation": "Bab Qiyas: Rukunnya ada empat, yaitu Al-Ashl (kasus pokok), Al-Far'u (kasus cabang), Al-Hukm (hukum asal), dan Al-'Illah (alasan hukum). 'Illah adalah sifat yang berpengaruh dalam penetapan hukum."
+    },
+    {
+      "title": "Metodologi Kebahasaan: Am, Khas, Mutlaq, Muqayyad",
+      "titleArabic": "الْكَلَامُ فِي الدَّلَالَاتِ اللَّفْظِيَّةِ",
+      "arabic": "وَيَشْتَمِلُ عَلَى الْعَامِّ وَالْخَاصِّ، وَالْمُطْلَقِ وَالْمُقَيَّدِ، وَالْأَمْرِ وَالنَّهْيِ، وَالْمَنْطُوقِ وَالْمَفْهُومِ.",
+      "translation": "Pembahasan mengenai indikasi lafadz (dilalat), mencakup umum ('Am) dan khusus (Khas), mutlak dan muqayyad, perintah (amr) dan larangan (nahyi), serta tekstual (manthuq) dan kontekstual (mafhum)."
+    },
+    {
+      "title": "Pondasi Keempat: Ijtihad, Fatwa, dan Taqlid",
+      "titleArabic": "الْقَاعِدَةُ الرَّابِعَةُ: فِي الِاجْتِهَادِ وَالْفَتْوَى وَالتَّقْلِيدِ",
+      "arabic": "الِاجْتِهَادُ هُوَ اسْتِفْرَاغُ الْوُسْعِ فِي نَيْلِ حُكْمٍ شَرْعِيٍّ. وَيُشْتَرَطُ فِي الْمُجْتَهِدِ الْعِلْمُ بِالْكِتَابِ وَالسُّنَّةِ وَاللُّغَةِ.",
+      "translation": "Pondasi keempat: Membahas Ijtihad, Fatwa, dan Taqlid. Ijtihad adalah mengerahkan segala kemampuan untuk mendapatkan hukum syariat. Disyaratkan bagi mujtahid memiliki ilmu tentang Al-Qur'an, Sunnah, dan bahasa Arab."
+    },
+    {
+      "title": "Khatimah: Tarjih dan Kontradiksi Dalil",
+      "titleArabic": "الْخَاتِمَةُ: فِي التَّعَارُضِ وَالتَّرْجِيحِ",
+      "arabic": "إِذَا تَعَارَضَ دَلِيلَانِ، فَلَا بُدَّ مِنَ الْجَمْعِ بَيْنَهُمَا، أَوْ النَّسْخِ، أَوْ التَّرْجِيحِ بَيْنَ الدَّلَائِلِ.",
+      "translation": "Penutup: Membahas pertentangan (ta'arudh) dan penguatan dalil (tarjih). Jika dua dalil bertentangan, maka harus dikompromikan (al-jam'u), dibatalkan salah satunya (nasakh), atau dikuatkan salah satunya (tarjih)."
+    }
+  ]
+}
