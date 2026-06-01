@@ -1,380 +1,320 @@
 {
   "profile": {
-    "name": "Sunan Abi Daud (Kitab At-Thaharah - Hadits No. 1)",
-    "originalTitle": "سُنَنُ أَبِي دَاوُدَ - كِتَابُ الطَّهَارَةِ",
-    "author": "Al-Imam Al-Hafiz Abu Daud Sulayman bin al-Ash'ath al-Sijistani (رحمه الله)",
-    "field": "Hadits Ahkam (Hukum Fiqih)",
-    "about": "Sunan Abi Daud merupakan salah satu dari 'Al-Kutub al-Sittah' (Enam Kitab Induk Hadits) yang paling utama dalam bidang hukum Islam. Imam Abu Daud menyusun kitab ini dengan memfokuskan pada hadits-hadits yang menjadi sandaran para fuqaha (ahli fiqih) dalam menetapkan hukum syariat. Kitab ini mengandung sekitar 5.274 hadits yang disaring dari 500.000 hadits yang beliau kumpulkan. Sistematika penulisannya mengikuti bab-bab fiqih untuk memudahkan pembaca mencari dalil hukum tertentu. Keistimewaan kitab ini terletak pada komentar Imam Abu Daud terhadap status kekuatan hadits di beberapa tempat, menjadikannya rujukan primer dalam studi Turath.",
+    "name": "Sunan Abi Daud (Hadits No. 1)",
+    "originalTitle": "سُنَنُ أَبِي دَاوُدَ",
+    "author": "Al-Imam Al-Hafiz Abu Daud Sulaiman bin Al-Ash'ath as-Sijistani",
+    "field": "Hadits Ahkam (Hukum-Hukum Fiqih)",
+    "about": "Sunan Abi Daud merupakan salah satu dari enam kitab hadits utama (Kutubus Sittah) yang paling menonjol dalam bidang hadits hukum. Imam Abu Daud menyusun kitab ini dengan menyeleksi sekitar 4.800 hadits dari 500.000 hadits yang beliau kumpulkan, dengan fokus utama pada dalil-dalil hukum fiqih. Kitab ini diakui secara luas oleh para ulama karena sistematika penyusunannya yang mengikuti bab-bab fiqih, memudahkan para fuqaha untuk merujuk dalil. Metodologi beliau mencakup pencantuman hadits shahih, hasan, dan hadits yang mendekati keduanya, serta memberikan penjelasan pada hadits yang memiliki kelemahan berat. Hadits nomor 1 dalam kitab ini membuka pembahasan besar mengenai Thaharah (Bersuci).",
     "authorBorn": "202 H / 817 M (Sijistan)",
     "authorDied": "275 H / 889 M (Basrah)",
     "authorCentury": "Abad ke-3 Hijriah"
   },
   "chapters": [
     {
-      "title": "Pembukaan Kitab At-Thaharah (Bersuci)",
-      "titleArabic": "كِتَابُ الطَّهَارَةِ",
-      "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ. كِتَابُ الطَّهَارَةِ",
-      "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Kitab tentang Bersuci."
+      "title": "Muqaddimah Kitab At-Thaharah",
+      "titleArabic": "كِتَاب الطَّهَارَةِ",
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ. كِتَابُ الطَّهَارَةِ.",
+      "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Kitab Bersuci (Thaharah)."
     },
     {
-      "title": "Bab 1: Seseorang yang masuk ke tempat buang hajat mengucapkan (doa)",
-      "titleArabic": "بَابُ مَا يَقُولُ الرَّجُلُ إِذَا دَخَلَ الْخَلاَءَ",
-      "arabic": "حَدَّثَنَا مُسَدَّدُ بْنُ مُسَرْهَدٍ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، وَعَبْدُ الْوَارِثِ، عَنْ عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ: كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا دَخَلَ الْخَلاَءَ قَالَ: «اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ»",
-      "translation": "Telah menceritakan kepada kami Musaddad bin Musarhad, telah menceritakan kepada kami Hammad bin Zaid dan Abdul Warits, dari Abdul Aziz bin Suhaib, dari Anas bin Malik, ia berkata: Rasulullah shallallahu 'alaihi wasallam apabila hendak masuk ke tempat buang air (WC), beliau mengucapkan: 'Ya Allah, sesungguhnya aku berlindung kepada-Mu dari setan laki-laki dan setan perempuan.'"
+      "title": "Bab 1: Berdoa Saat Memasuki Tempat Buang Air (Hadits No. 1)",
+      "titleArabic": "بَاب التَّخَلِّي عِنْدَ قَضَاءِ الْحَاجَةِ",
+      "arabic": "حَدَّثَنَا مُسَدَّدُ بْنُ مُسَرْهَدٍ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، وَعَبْدُ الْوَارِثِ، عَنْ عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ، عَنْ أَنَسِ بْنِ مَالِكٍ قَالَ: كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا دَخَلَ الْخَلَاءَ قَالَ: «اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ»",
+      "translation": "Telah menceritakan kepada kami Musaddad bin Musarhad, telah menceritakan kepada kami Hammad bin Zaid dan Abdul Warits, dari Abdul Aziz bin Suhaib, dari Anas bin Malik, ia berkata: Rasulullah shallallahu 'alaihi wasallam apabila hendak masuk ke tempat buang air (WC), beliau berdoa: 'Ya Allah, sesungguhnya aku berlindung kepada-Mu dari setan laki-laki dan setan perempuan'."
     },
     {
-      "title": "Bab 2: Larangan menghadap kiblat saat buang air",
+      "title": "Bab 2: Larangan Menghadap Kiblat Saat Buang Air",
       "titleArabic": "بَاب كَرَاهِيَةِ اسْتِقْبَالِ الْقِبْلَةِ عِنْدَ الْقَضَاءِ",
-      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ إِسْحَقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ، عَنْ رَافِعِ بْنِ إِسْحَقَ، مَوْلَى آلِ الشِّفَاءِ عَنْ أَبِي أَيُّوبَ الأَنْصَارِيِّ، قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «إِذَا أَتَيْتُمُ الْغَائِطَ فَلاَ تَسْتَقْبِلُوا الْقِبْلَةَ وَلاَ تَسْتَدْبِرُوهَا بِبَوْلٍ وَلاَ غَائِطٍ وَلَكِنْ شَرِّقُوا أَوْ غَرِّبُوا»",
-      "translation": "Bab tentang makruhnya menghadap kiblat saat buang hajat. Dari Abu Ayyub Al-Anshari berkata: Rasulullah SAW bersabda: 'Jika kalian mendatangi tempat buang air, janganlah menghadap kiblat dan jangan pula membelakanginya saat kencing atau buang air besar, akan tetapi menghadaplah ke timur atau ke barat (bagi penduduk Madinah).'"
+      "arabic": "عَنْ أَبِي أَيُّوبَ الأَنْصَارِيِّ، قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: إِذَا أَتَيْتُمُ الْغَائِطَ فَلاَ تَسْتَقْبِلُوا الْقِبْلَةَ وَلاَ تَسْتَدْبِرُوهَا بِبَوْلٍ وَلاَ غَائِطٍ وَلَكِنْ شَرِّقُوا أَوْ غَرِّبُوا.",
+      "translation": "Dari Abu Ayyub Al-Anshari, ia berkata: Rasulullah shallallahu 'alaihi wasallam bersabda: 'Apabila kalian mendatangi tempat buang air, maka janganlah menghadap kiblat dan jangan pula membelakanginya saat kencing atau buang air besar, akan tetapi menghadaplah ke timur atau ke barat'."
     },
     {
-      "title": "Bab 3: Keringanan dalam membelakangi kiblat",
-      "titleArabic": "بَابُ الرُّخْصَةِ فِي ذَلِكَ",
-      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ، عَنْ عَمِّهِ وَاسِعِ بْنِ حَبَّانَ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، قَالَ: لَقَدْ ظَهَرْتُ عَلَى ظَهْرِ بَيْتِنَا، فَرَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَلَى لَبِنَتَيْنِ مُسْتَقْبِلَ بَيْتِ الْمَقْدِسِ لِحَاجَتِهِ.",
-      "translation": "Bab tentang rukhshah (keringanan) dalam hal tersebut. Dari Abdullah bin Umar berkata: Aku pernah naik ke atap rumah kami, lalu aku melihat Rasulullah SAW duduk di atas dua batu bata menghadap ke arah Baitul Maqdis (membelakangi Ka'bah) saat membuang hajatnya."
+      "title": "Bab 3: Keringanan Membelakangi Kiblat di Bangunan",
+      "titleArabic": "بَاب الرُّخْصَةِ فِي ذَلِكَ",
+      "arabic": "عَنِ ابْنِ عُمَرَ، قَالَ: رَقِيتُ يَوْمًا عَلَى بَيْتِ حَفْصَةَ فَرَأَيْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقْضِي حَاجَتَهُ مُسْتَقْبِلَ الشَّأْمِ مُسْتَدْبِرَ الْكَعْبَةِ.",
+      "translation": "Dari Ibnu Umar, ia berkata: Suatu hari aku naik ke atas atap rumah Hafshah, lalu aku melihat Nabi shallallahu 'alaihi wasallam sedang buang hajat dengan menghadap ke arah Syam dan membelakangi Ka'bah."
     },
     {
-      "title": "Bab 4: Larangan ber-istinja (bersuci) dengan tangan kanan",
-      "titleArabic": "بَاب النَّهْيِ عَنْ تَمَسُّحِ الذَّكَرِ بِالْيَمِينِ",
-      "arabic": "عَنْ أَبِي قَتَادَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: «إِذَا بَالَ أَحَدُكُمْ فَلاَ يَمَسَّ ذَكَرَهُ بِيَمِينِهِ، وَلاَ يَتَمَسَّحْ مِنَ الْخَلاَءِ بِيَمِينِهِ»",
-      "translation": "Dari Abu Qatadah, dari Nabi SAW bersabda: 'Jika salah seorang dari kalian kencing, maka janganlah ia menyentuh kemaluannya dengan tangan kanannya, dan janganlah ia bersuci dari buang air dengan tangan kanannya.'"
+      "title": "Bab 4: Menutup Diri Saat Buang Air",
+      "titleArabic": "بَاب الِاسْتِتَارِ عِنْدَ الْقَضَاءِ",
+      "arabic": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ إِذَا أَرَادَ الْبَرَازَ انْطَلَقَ حَتَّى لاَ يَرَاهُ أَحَدٌ.",
+      "translation": "Dari Jabir bin Abdullah, bahwa Nabi shallallahu 'alaihi wasallam apabila hendak buang air besar, beliau pergi menjauh hingga tidak ada seorang pun yang melihat beliau."
     },
     {
-      "title": "Bab 5: Bersembunyi (menjauh) saat buang air",
-      "titleArabic": "بَابُ الِاسْتِتَارِ عِنْدَ الْقَضَاءِ",
-      "arabic": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا أَرَادَ الْبَرَازَ انْطَلَقَ حَتَّى لاَ يَرَاهُ أَحَدٌ.",
-      "translation": "Dari Jabir bin Abdullah bahwa Nabi SAW jika ingin buang air besar, beliau pergi menjauh hingga tidak ada seorang pun yang melihatnya."
+      "title": "Bab 5: Menjauh Saat Buang Air di Tempat Terbuka",
+      "titleArabic": "بَاب الارْتِيَادِ لِلْبَوْلِ",
+      "arabic": "عَنْ أَبِي مُوسَى، قَالَ: كُنْتُ مَعَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَوْمًا فَأَرَادَ أَنْ يَبُولَ، فَأَتَى دَمِثًا فِي أَصْلِ جِدَارٍ فَبَالَ، ثُمَّ قَالَ: إِذَا بَالَ أَحَدُكُمْ فَلْيَرْتَدْ لِبَوْلِهِ.",
+      "translation": "Dari Abu Musa, ia berkata: Aku pernah bersama Nabi shallallahu 'alaihi wasallam pada suatu hari, lalu beliau ingin kencing. Beliau mendatangi tempat yang tanahnya lunak di pangkal tembok lalu kencing, kemudian bersabda: 'Apabila salah seorang di antara kalian ingin kencing, hendaknya ia mencari tempat yang tepat (agar tidak terkena percikan)'."
     },
     {
-      "title": "Bab 6: Larangan berbicara di tempat buang air",
+      "title": "Bab 6: Larangan Kencing di Air yang Tenang",
+      "titleArabic": "بَاب النَّهْيِ عَنِ الْبَوْلِ فِي الْمَاءِ الرَّاكِدِ",
+      "arabic": "عَنْ جَابِرٍ، عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ نَهَى أَنْ يُبَالَ فِي الْمَاءِ الرَّاكِدِ.",
+      "translation": "Dari Jabir, dari Rasulullah shallallahu 'alaihi wasallam bahwa beliau melarang kencing di air yang tenang (tidak mengalir)."
+    },
+    {
+      "title": "Bab 7: Larangan Kencing di Lubang Tanah",
+      "titleArabic": "بَاب النَّهْيِ عَنِ الْبَوْلِ فِي الْجُحْرِ",
+      "arabic": "عَنْ قَتَادَةَ، عَنْ عَبْدِ اللَّهِ بْنِ سَرْجِسَ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى أَنْ يُبَالَ فِي الْجُحْرِ.",
+      "translation": "Dari Qatadah, dari Abdullah bin Sarjis, bahwa Rasulullah shallallahu 'alaihi wasallam melarang kencing di lubang (sarang hewan/serangga)."
+    },
+    {
+      "title": "Bab 8: Larangan Berbicara Saat Buang Air",
       "titleArabic": "بَاب كَرَاهِيَةِ الْكَلاَمِ عِنْدَ الْخَلاَءِ",
-      "arabic": "عَنِ ابْنِ عُمَرَ، أَنَّ رَجُلاً مَرَّ وَرَسُولُ اللَّهِ صلى الله عليه وسلم يَبُولُ فَسَلَّمَ فَلَمْ يَرُدَّ عَلَيْهِ.",
-      "translation": "Dari Ibnu Umar bahwa ada seorang laki-laki lewat saat Rasulullah SAW sedang kencing, lalu ia mengucapkan salam, namun beliau tidak menjawabnya."
+      "arabic": "عَنِ ابْنِ عُمَرَ، أَنَّ رَجُلاً مَرَّ وَرَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَبُولُ فَسَلَّمَ فَلَمْ يَرُدَّ عَلَيْهِ.",
+      "translation": "Dari Ibnu Umar, bahwa ada seseorang lewat sementara Rasulullah shallallahu 'alaihi wasallam sedang kencing, orang itu mengucapkan salam namun beliau tidak menjawabnya."
     },
     {
-      "title": "Bab 7: Memakai cincin saat masuk tempat buang air",
-      "titleArabic": "بَابُ الرَّجُلِ يَدْخُلُ الْخَلاَءَ وَمَعَهُ الْخَاتَمُ",
-      "arabic": "عَنْ أَنَسٍ، قَالَ: كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا دَخَلَ الْخَلاَءَ وَضَعَ خَاتَمَهُ.",
-      "translation": "Dari Anas ia berkata: Nabi SAW jika hendak masuk ke tempat buang air, beliau meletakkan (melepas) cincinnya."
+      "title": "Bab 9: Berdzikir Setelah Selesai Buang Air",
+      "titleArabic": "بَاب مَا يَقُولُ الرَّجُلُ إِذَا خَرَجَ مِنَ الْخَلاَءِ",
+      "arabic": "عَنْ عَائِشَةَ، قَالَتْ: كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا خَرَجَ مِنَ الْخَلاَءِ قَالَ: غُفْرَانَكَ.",
+      "translation": "Dari Aisyah, ia berkata: Nabi shallallahu 'alaihi wasallam apabila keluar dari tempat buang air, beliau mengucapkan: 'Ghufranaka' (Aku memohon ampunan-Mu)."
     },
     {
-      "title": "Bab 8: Menjauhkan diri ke padang luas untuk buang air",
-      "titleArabic": "بَابُ الارتِيادِ لِلْبَوْلِ",
-      "arabic": "عَنْ أَبِي مُوسَى، قَالَ: كُنْتُ مَعَ النَّبِيِّ صلى الله عليه وسلم، فَأَرَادَ أَنْ يَبُولَ، فَأَتَى دَمِثًا فِي أَصْلِ جِدَارٍ فَبَالَ.",
-      "translation": "Dari Abu Musa ia berkata: Aku bersama Nabi SAW, lalu beliau hendak kencing, beliau pun mendatangi tempat yang tanahnya lunak di pangkal tembok lalu kencing di sana."
+      "title": "Bab 10: Makruh Membawa Cincin Berlafadz Allah ke WC",
+      "titleArabic": "بَاب فِي الرَّجُلِ يَدْخُلُ الْخَلاَءَ وَمَعَهُ الْخَاتَمُ",
+      "arabic": "عَنْ أَنَسٍ، قَالَ: كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا دَخَلَ الْخَلاَءَ وَضَعَ خَاتَمَهُ.",
+      "translation": "Dari Anas, ia berkata: Nabi shallallahu 'alaihi wasallam apabila masuk ke tempat buang air, beliau menanggalkan cincinnya."
     },
     {
-      "title": "Bab 9: Larangan kencing di air yang tenang (diam)",
-      "titleArabic": "بَابُ الْبَوْلِ فِي الْمَاءِ الرَّاكِدِ",
-      "arabic": "عَنْ جَابِرٍ، عَنِ النَّبِيِّ صلى {عليه وسلم} أَنَّهُ نَهَى أَنْ يُبَالَ فِي الْمَاءِ الرَّاكِدِ.",
-      "translation": "Dari Jabir, dari Nabi SAW bahwa beliau melarang kencing pada air yang diam (tidak mengalir)."
+      "title": "Bab 11: Larangan Ber-istinja Dengan Tangan Kanan",
+      "titleArabic": "بَاب كَرَاهِيَةِ مَسِّ الذَّكَرِ بِالْيَمِينِ فِي الِاسْتِبْرَاءِ",
+      "arabic": "عَنْ أَبِي قَتَادَةَ، قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: إِذَا بَالَ أَحَدُكُمْ فَلاَ يَمَسَّ ذَكَرَهُ بِيَمِينِهِ، وَلاَ يَتَمَسَّحْ مِنَ الْخَلاَءِ بِيَمِينِهِ.",
+      "translation": "Dari Abu Qatadah, ia berkata: Rasulullah shallallahu 'alaihi wasallam bersabda: 'Apabila salah seorang dari kalian kencing, janganlah ia menyentuh kemaluannya dengan tangan kanan, dan jangan pula beristinja dari buang air dengan tangan kanan'."
     },
     {
-      "title": "Bab 10: Larangan kencing di tempat mandi",
-      "titleArabic": "بَابُ الْبَوْلِ فِي الْمُسْتَحَمِّ",
-      "arabic": "عَنْ عَبْدِ اللَّهِ بْنِ مُغَفَّلٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ: «لاَ يَبُولَنَّ أَحَدُكُمْ فِي مُسْتَحَمِّهِ ثُمَّ يَتَوَضَّأُ فِيهِ»",
-      "translation": "Dari Abdullah bin Mughaffal, bahwa Nabi SAW bersabda: 'Janganlah salah seorang dari kalian kencing di tempat mandinya kemudian berwudhu di situ.'"
+      "title": "Bab 12: Bersuci Dengan Batu (Istijmar)",
+      "titleArabic": "بَاب الِاسْتِجْمَارِ",
+      "arabic": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: مَنِ اسْتَجْمَرَ فَلْيُوتِرْ، مَنْ فَعَلَ فَقَدْ أَحْسَنَ وَمَنْ لاَ فَلاَ حَرَجَ.",
+      "translation": "Dari Abu Hurairah, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: 'Barangsiapa yang beristijmar (bersuci dengan batu) maka hendaknya dia melakukannya dengan bilangan ganjil. Barangsiapa melakukannya maka itu baik, dan barangsiapa tidak (ganjil) maka tidak mengapa'."
     },
     {
-      "title": "Bab 11: Kencing sambil berdiri",
-      "titleArabic": "بَابُ الْبَوْلِ قَائِمًا",
-      "arabic": "عَنْ حُذَيْفَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم أَتَى سُبَاطَةَ قَوْمٍ فَبَالَ قَائِمًا.",
-      "translation": "Dari Hudzaifah bahwa Nabi SAW mendatangi tempat pembuangan sampah suatu kaum lalu kencing sambil berdiri."
+      "title": "Bab 13: Larangan Menggunakan Kotoran dan Tulang",
+      "titleArabic": "بَاب مَا يُنْهَى عَنْهُ أَنْ يُسْتَنْجَى بِهِ",
+      "arabic": "عَنْ جَابِرٍ، قَالَ: نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ يُتَمَسَّحَ بِعَظْمٍ أَوْ بِبَعِرٍ.",
+      "translation": "Dari Jabir, ia berkata: Rasulullah shallallahu 'alaihi wasallam melarang beristinja dengan tulang atau kotoran hewan yang kering."
     },
     {
-      "title": "Bab 12: Kencing sambil duduk",
-      "titleArabic": "بَابُ الْبَوْلِ قَاعِدًا",
-      "arabic": "عَنْ عَائِشَةَ، قَالَتْ: مَنْ حَدَّثَكُمْ أَنَّ النَّبِيَّ صلى الله عليه وسلم بَالَ قَائِمًا فَلاَ تُصَدِّقُوهُ، مَا بَالَ إِلاَّ جَالِسًا.",
-      "translation": "Dari Aisyah ia berkata: 'Barangsiapa yang menceritakan kepada kalian bahwa Nabi SAW kencing sambil berdiri, maka janganlah kalian membenarkannya. Tidaklah beliau kencing melainkan dalam keadaan duduk.'"
+      "title": "Bab 14: Bersuci Dengan Air",
+      "titleArabic": "بَاب الِاسْتِنْجَاءِ بِالْمَاءِ",
+      "arabic": "عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ: كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَدْخُلُ الْخَلاَءَ، فَأَحْمِلُ أَنَا وَغُلاَمٌ نَحْوِي إِدَاوَةً مِنْ مَاءٍ وَعَنَزَةً، فَيَسْتَنْجِي بِالْمَاءِ.",
+      "translation": "Dari Anas bin Malik, ia berkata: Dahulu Rasulullah shallallahu 'alaihi wasallam masuk ke tempat buang air, lalu aku dan seorang anak kecil seumuranku membawa bejana kecil berisi air dan tombak kecil, kemudian beliau beristinja dengan air."
     },
     {
-      "title": "Bab 13: Bersuci dengan batu (Istijmar)",
-      "titleArabic": "بَابُ الِاسْتِجْمَارِ",
-      "arabic": "عَنْ أَبِي هُرَيْرَةَ، قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «مَنِ اسْتَجْمَرَ فَلْيُوتِرْ»",
-      "translation": "Dari Abu Hurairah ia berkata: Rasulullah SAW bersabda: 'Barangsiapa yang bersuci dengan batu, hendaklah ia melakukannya dengan jumlah ganjil.'"
+      "title": "Bab 15: Menggosok Tangan ke Tanah Setelah Istinja",
+      "titleArabic": "بَاب دَلْكِ الْيَدِ بِالأَرْضِ بَعْدَ الِاسْتِنْجَاءِ",
+      "arabic": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ اسْتَنْجَى ثُمَّ مَسَحَ يَدَهُ بِالأَرْضِ.",
+      "translation": "Dari Abu Hurairah, bahwa Nabi shallallahu 'alaihi wasallam beristinja kemudian beliau menggosokkan tangannya ke tanah."
     },
     {
-      "title": "Bab 14: Bersuci dengan kotoran kering dan tulang adalah dilarang",
-      "titleArabic": "بَابُ مَا يُنْهَى عَنْهُ أَنْ يُسْتَنْجَى بِهِ",
-      "arabic": "عَنْ جَابِرٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم نَهَى أَنْ يُتَمَسَّحَ بِعَظْمٍ أَوْ بِبَعَرٍ.",
-      "translation": "Dari Jabir bahwa Nabi SAW melarang bersuci dengan tulang atau kotoran hewan (yang kering)."
+      "title": "Bab 16: Menggunakan Siwak",
+      "titleArabic": "بَاب السِّوَاكِ",
+      "arabic": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: لَوْلاَ أَنْ أَشُقَّ عَلَى أُمَّتِي لأَمَرْتُهُمْ بِالسِّوَاكِ مَعَ كُلِّ صَلاَةٍ.",
+      "translation": "Dari Abu Hurairah, dari Nabi shallallahu 'alaihi wasallam beliau bersabda: 'Seandainya tidak memberatkan umatku, niscaya akan aku perintahkan mereka bersiwak setiap kali hendak shalat'."
     },
     {
-      "title": "Bab 15: Menggunakan air untuk istinja",
-      "titleArabic": "بَابُ الِاسْتِنْجَاءِ بِالْمَاءِ",
-      "arabic": "عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ: كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَدْخُلُ الْخَلاَءَ، فَأَحْمِلُ أَنَا وَغُلاَمٌ نَحْوِي إِدَاوَةً مِنْ مَاءٍ وَعَنَزَةً فَيَسْتَنْجِي بِالْمَاءِ.",
-      "translation": "Dari Anas bin Malik ia berkata: Rasulullah SAW masuk ke tempat buang air, lalu aku dan seorang anak yang sebaya denganku membawakan bejana berisi air dan tombak kecil, lalu beliau pun bersuci dengan air tersebut."
+      "title": "Bab 17: Cara Menggunakan Siwak",
+      "titleArabic": "بَاب كَيْفَ يَسْتَنُّ",
+      "arabic": "عَنْ أَبِي مُوسَى، قَالَ: دَخَلْتُ عَلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَطَرَفُ السِّوَاكِ عَلَى لِسَانِهِ.",
+      "translation": "Dari Abu Musa, ia berkata: Aku menemui Nabi shallallahu 'alaihi wasallam dan ujung siwak berada di atas lidah beliau."
     },
     {
-      "title": "Bab 16: Menggosokkan tangan ke tanah setelah istinja",
-      "titleArabic": "بَابُ مَسْحِ الْيَدِ بِالأَرْضِ إِذَا اسْتَنْجَى",
-      "arabic": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم اسْتَنْجَى بِالْمَاءِ ثُمَّ مَسَحَ يَدَهُ عَلَى الأَرْضِ.",
-      "translation": "Dari Abu Hurairah bahwa Nabi SAW bersuci dengan air kemudian beliau menggosokkan tangannya ke tanah."
+      "title": "Bab 18: Bersiwak Saat Bangun Malam",
+      "titleArabic": "بَاب السِّوَاكِ مِنَ اللَّيْلِ",
+      "arabic": "عَنْ حُذَيْفَةَ، قَالَ: كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا قَامَ مِنَ اللَّيْلِ يَشُوصُ فَاهُ بِالسِّوَاكِ.",
+      "translation": "Dari Hudzaifah, ia berkata: Rasulullah shallallahu 'alaihi wasallam apabila bangun di malam hari, beliau membersihkan mulutnya dengan siwak."
     },
     {
-      "title": "Bab 17: Bersiwak",
-      "titleArabic": "بَابُ السِّوَاكِ",
-      "arabic": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: «لَوْلاَ أَنْ أَشُقَّ عَلَى أُمَّتِي لأَمَرْتُهُمْ بِالسِّوَاكِ عِنْدَ كُلِّ صَلاَةٍ»",
-      "translation": "Dari Abu Hurairah, dari Nabi SAW bersabda: 'Kalaulah tidak memberatkan umatku, niscaya akan aku perintahkan mereka untuk bersiwak setiap kali hendak shalat.'"
+      "title": "Bab 19: Fitrah Manusia",
+      "titleArabic": "بَاب السِّوَاكِ مِنَ الْفِطْرَةِ",
+      "arabic": "عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: عَشْرٌ مِنَ الْفِطْرَةِ: قَصُّ الشَّارِبِ، وَإِعْفَاءُ اللِّحْيَةِ، وَالسِّوَاكُ، وَاسْتِنْشَاقُ الْمَاءِ...",
+      "translation": "Dari Aisyah, dari Nabi shallallahu 'alaihi wasallam beliau bersabda: 'Sepuluh perkara termasuk fitrah: memotong kumis, memelihara jenggot, bersiwak, menghirup air ke hidung... (dst)'."
     },
     {
-      "title": "Bab 18: Cara bersiwak",
-      "titleArabic": "بَابُ كَيْفَ يَسْتَنُّ",
-      "arabic": "عَنْ أَبِي مُوسَى، قَالَ: دَخَلْتُ عَلَى النَّبِيِّ صلى الله عليه وسلم وَطَرَفُ السِّوَاكِ عَلَى لِسَانِهِ.",
-      "translation": "Dari Abu Musa ia berkata: Aku menemui Nabi SAW dan ujung siwak berada pada lidah beliau."
+      "title": "Bab 20: Kewajiban Wudhu",
+      "titleArabic": "بَاب فَرْضِ الْوُضُوءِ",
+      "arabic": "عَنْ أَبِي هُرَيْرَةَ، قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: لاَ تُقْبَلُ صَلاَةُ مَنْ أَحْدَثَ حَتَّى يَتَوَضَّأَ.",
+      "translation": "Dari Abu Hurairah, ia berkata: Rasulullah shallallahu 'alaihi wasallam bersabda: 'Tidak diterima shalat seseorang yang berhadats sampai ia berwudhu'."
     },
     {
-      "title": "Bab 19: Bersiwak bagi orang yang bangun malam",
-      "titleArabic": "بَابُ السِّوَاكِ لِمَنْ قَامَ مِنَ اللَّيْلِ",
-      "arabic": "عَنْ حُذَيْفَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا قَامَ مِنَ اللَّيْلِ يَشُوصُ فَاهُ بِالسِّوَاكِ.",
-      "translation": "Dari Hudzaifah bahwa Rasulullah SAW apabila bangun di malam hari, beliau membersihkan mulutnya dengan siwak."
+      "title": "Bab 21: Keutamaan Wudhu",
+      "titleArabic": "بَاب مَا جَاءَ فِي فَضْلِ الْوُضُوءِ",
+      "arabic": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: إِذَا تَوَضَّأَ الْعَبْدُ الْمُسْلِمُ فَغَسَلَ وَجْهَهُ خَرَجَ مِنْ وَجْهِهِ كُلُّ خَطِيئَةٍ نَظَرَ إِلَيْهَا بِعَيْنَيْهِ مَعَ الْمَاءِ...",
+      "translation": "Dari Abu Hurairah, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: 'Apabila seorang hamba Muslim berwudhu lalu ia mencuci wajahnya, maka keluarlah dari wajahnya setiap dosa yang dilihat oleh matanya bersama air... (dst)'."
     },
     {
-      "title": "Bab 20: Fitrah (Kesucian Diri)",
-      "titleArabic": "بَابُ السِّوَاكِ مِنَ الْفِطْرَةِ",
-      "arabic": "عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: «عَشْرٌ مِنَ الْفِطْرَةِ: قَصُّ الشَّارِبِ، وَإِعْفَاءُ اللِّحْيَةِ، وَالسِّوَاكُ، وَاسْتِنْشَاقُ الْمَاءِ...»",
-      "translation": "Dari Aisyah, dari Nabi SAW bersabda: 'Ada sepuluh hal yang termasuk fitrah: memotong kumis, membiarkan jenggot (lebat), bersiwak, menghirup air ke hidung...'"
+      "title": "Bab 22: Membaca Basmalah Saat Wudhu",
+      "titleArabic": "بَاب التَّسْمِيَةِ عَلَى الْوُضُوءِ",
+      "arabic": "عَنْ أَبِي هُرَيْرَةَ، قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: لاَ صَلاَةَ لِمَنْ لاَ وُضُوءَ لَهُ، وَلاَ وُضُوءَ لِمَنْ لَمْ يَذْكُرِ اسْمَ اللَّهِ عَلَيْهِ.",
+      "translation": "Dari Abu Hurairah, ia berkata: Rasulullah shallallahu 'alaihi wasallam bersabda: 'Tidak ada shalat bagi orang yang tidak berwudhu, dan tidak ada wudhu bagi orang yang tidak menyebut nama Allah padanya'."
     },
     {
-      "title": "Bab 21: Kewajiban berwudhu",
-      "titleArabic": "بَابُ فَرْضِ الْوُضُوءِ",
-      "arabic": "عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: «لاَ يَقْبَلُ اللَّهُ صَلاَةً بِغَيْرِ طُهُورٍ»",
-      "translation": "Dari Ibnu Umar, dari Nabi SAW bersabda: 'Allah tidak menerima shalat tanpa bersuci.'"
+      "title": "Bab 23: Mencuci Tangan Sebelum Wudhu",
+      "titleArabic": "بَاب الرَّجُلِ يَسْتَيْقِظُ مِنْ مَنَامِهِ أَيَغْسِلُ يَدَهُ قَبْلَ أَنْ يُدْخِلَهَا فِي الإِنَاءِ",
+      "arabic": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: إِذَا اسْتَيْقَظَ أَحَدُكُمْ مِنْ نَوْمِهِ فَلاَ يَغْمِسْ يَدَهُ فِي الإِنَاءِ حَتَّى يَغْسِلَهَا ثَلاَثًا.",
+      "translation": "Dari Abu Hurairah, bahwa Nabi shallallahu 'alaihi wasallam bersabda: 'Apabila salah seorang dari kalian bangun tidur, janganlah ia mencelupkan tangannya ke dalam bejana sampai ia mencucinya sebanyak tiga kali'."
     },
     {
-      "title": "Bab 22: Apa yang mengharuskan wudhu (hadats)",
-      "titleArabic": "بَابُ مَا يُوجِبُ الْوُضُوءَ",
-      "arabic": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ: «لاَ يَقْبَلُ اللَّهُ صَلاَةَ أَحَدِكُمْ إِذَا أَحْدَثَ حَتَّى يَتَوَضَّأَ»",
-      "translation": "Dari Abu Hurairah bahwa Rasulullah SAW bersabda: 'Allah tidak menerima shalat salah seorang dari kalian jika ia berhadats hingga ia berwudhu.'"
+      "title": "Bab 24: Cara Berwudhu (Istinsyaq)",
+      "titleArabic": "بَاب الِاسْتِنْثَارِ",
+      "arabic": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: مَنْ تَوَضَّأَ فَلْيَسْتَنْشِقْ.",
+      "translation": "Dari Abu Hurairah, dari Nabi shallallahu 'alaihi wasallam: 'Barangsiapa yang berwudhu hendaknya ia menghirup air ke hidung'."
     },
     {
-      "title": "Bab 23: Seseorang yang ragu apakah ia telah berhadats",
-      "titleArabic": "بَابُ الرَّجُلِ يُخَيَّلُ إِلَيْهِ أَنَّهُ أَحْدَثَ",
-      "arabic": "عَنْ عَبَّادِ بْنِ تَمِيمٍ، عَنْ عَمِّهِ أَنَّهُ شَكَا إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم الرَّجُلُ الَّذِي يُخَيَّلُ إِلَيْهِ أَنَّهُ يَجِدُ الشَّيْءَ فِي الصَّلاَةِ، فَقَالَ: «لاَ يَنْصَرِفْ حَتَّى يَسْمَعَ صَوْتًا أَوْ يَجِدَ رِيحًا»",
-      "translation": "Dari Abbad bin Tamim dari pamannya bahwa ia mengadu kepada Rasulullah SAW tentang seorang laki-laki yang merasa seolah-olah terjadi sesuatu (hadats) dalam shalatnya. Beliau bersabda: 'Janganlah ia membatalkan shalatnya hingga ia mendengar suara atau mencium bau.'"
+      "title": "Bab 25: Menyela-nyela Jenggot",
+      "titleArabic": "بَاب تَخْلِيلِ اللِّحْيَةِ",
+      "arabic": "عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ إِذَا تَوَضَّأَ أَخَذَ كَفًّا مِنْ مَاءٍ فَأَدْخَلَهُ تَحْتَ حَنَكِهِ فَخَلَّلَ بِهِ لِحْيَتَهُ.",
+      "translation": "Dari Anas bin Malik, bahwa Nabi shallallahu 'alaihi wasallam apabila berwudhu mengambil seciduk air lalu memasukkannya ke bawah dagunya dan menyela-nyela jenggotnya."
     },
     {
-      "title": "Bab 24: Wudhu karena menyentuh kemaluan",
-      "titleArabic": "بَابُ الْوُضُوءِ مِنْ مَسِّ الذَّكَرِ",
-      "arabic": "عَنْ بُسْرَةَ بِنْتِ صَفْوَانَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ: «مَنْ مَسَّ ذَكَرَهُ فَلْيَتَوَضَّأْ»",
-      "translation": "Dari Busrah binti Safwan bahwa Nabi SAW bersabda: 'Barangsiapa yang menyentuh kemaluannya maka hendaklah ia berwudhu.'"
+      "title": "Bab 26: Menyela-nyela Jari",
+      "titleArabic": "بَاب تَخْلِيلِ الأَصَابِعِ",
+      "arabic": "عَنْ لَقِيطِ بْنِ صَبِرَةَ، قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: أَسْبِغِ الْوُضُوءَ، وَخَلِّلْ بَيْنَ الأَصَابِعِ.",
+      "translation": "Dari Laqith bin Sabirah, ia berkata: Rasulullah shallallahu 'alaihi wasallam bersabda: 'Sempurnakanlah wudhu dan sela-selalah di antara jari-jemari'."
     },
     {
-      "title": "Bab 25: Tidak berwudhu karena menyentuh kemaluan",
-      "titleArabic": "بَابُ تَرْكِ الْوُضُوءِ مِنْ ذَلِكَ",
-      "arabic": "عَنْ طَلْقِ بْنِ عَلِيٍّ، قَالَ: سَأَلَ رَجُلٌ النَّبِيَّ صلى الله عليه وسلم عَنْ مَسِّ الذَّكَرِ فَقَالَ: «هَلْ هُوَ إِلاَّ بَضْعَةٌ مِنْكَ»",
-      "translation": "Dari Talq bin Ali berkata: Seorang laki-laki bertanya kepada Nabi SAW tentang menyentuh kemaluan, maka beliau bersabda: 'Bukankah itu hanyalah bagian dari anggota tubuhmu?'"
+      "title": "Bab 27: Mengusap Kepala",
+      "titleArabic": "بَاب مَسْحِ الرَّأْسِ",
+      "arabic": "عَنْ عَبْدِ اللَّهِ بْنِ زَيْدٍ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَسَحَ رَأْسَهُ بِيَدَيْهِ، فَأَقْبَلَ بِهِمَا وَأَدْبَرَ.",
+      "translation": "Dari Abdullah bin Zaid, bahwa Rasulullah shallallahu 'alaihi wasallam mengusap kepalanya dengan kedua tangannya, beliau menggerakkannya dari depan ke belakang dan kembali lagi."
     },
     {
-      "title": "Bab 26: Wudhu karena menyentuh daging unta",
-      "titleArabic": "بَابُ الْوُضُوءِ مِنْ لُحُومِ الإِبِلِ",
-      "arabic": "عَنْ جَابِرِ بْنِ سَمُرَةَ، أَنَّ رَجُلاً سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم: أَنَتَوَضَّأُ مِنْ لُحُومِ الْغَنَمِ؟ قَالَ: «إِنْ شِئْتَ»، قَالَ: أَنَتَوَضَّأُ مِنْ لُحُومِ الإِبِلِ؟ قَالَ: «نَعَمْ»",
-      "translation": "Dari Jabir bin Samurah bahwa seorang laki-laki bertanya kepada Rasulullah SAW: 'Apakah kami harus berwudhu setelah makan daging kambing?' Beliau menjawab: 'Jika kamu mau'. Ia bertanya lagi: 'Apakah kami harus berwudhu setelah makan daging unta?' Beliau menjawab: 'Ya'."
+      "title": "Bab 28: Mengusap Telinga",
+      "titleArabic": "بَاب مَسْحِ الأُذُنَيْنِ",
+      "arabic": "عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَسَحَ بِرَأْسِهِ وَأُذُنَيْهِ ظَاهِرِهِمَا وَبَاطِنِهِمَا.",
+      "translation": "Dari Ibnu Abbas, bahwa Nabi shallallahu 'alaihi wasallam mengusap kepala dan kedua telinganya, baik bagian luar maupun bagian dalamnya."
     },
     {
-      "title": "Bab 27: Tidur yang mengharuskan wudhu",
-      "titleArabic": "بَابُ الْوُضُوءِ مِنَ النَّوْمِ",
-      "arabic": "عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «الْعَيْنُ وِكَاءُ السَّهِ، فَمَنْ نَامَ فَلْيَتَوَضَّأْ»",
-      "translation": "Dari Ali bin Abi Thalib ia berkata: Rasulullah SAW bersabda: 'Mata adalah pengikat dubur, maka barangsiapa yang tidur hendaklah ia berwudhu.'"
+      "title": "Bab 29: Mencuci Kaki",
+      "titleArabic": "بَاب غَسْلِ الرِّجْلَيْنِ",
+      "arabic": "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ: تخلَّفَ عَنَّا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي سَفْرَةٍ... فَنَادَى بِأَعْلَى صَوْتِهِ: وَيْلٌ لِلأَعْقَابِ مِنَ النَّارِ.",
+      "translation": "Dari Abdullah bin Amr, ia berkata: Rasulullah shallallahu 'alaihi wasallam tertinggal dari kami dalam sebuah perjalanan... lalu beliau berseru dengan suara keras: 'Celakalah tumit-tumit (yang tidak terbasuh air wudhu) dari api neraka'."
     },
     {
-      "title": "Bab 28: Keluar Madzi",
-      "titleArabic": "بَابُ فِي الْمَذْيِ",
-      "arabic": "عَنْ عَلِيٍّ، قَالَ: كُنْتُ رَجُلاً مَذَّاءً، فَأَمَرْتُ رَجُلاً أَنْ يَسْأَلَ النَّبِيَّ صلى الله عليه وسلم لِمَكَانِ ابْنَتِهِ، فَسَأَلَهُ، فَقَالَ: «تَوَضَّأْ وَاغْسِلْ ذَكَرَكَ»",
-      "translation": "Dari Ali ia berkata: Aku adalah seorang laki-laki yang sering mengeluarkan madzi, lalu aku menyuruh seseorang untuk bertanya kepada Nabi SAW karena posisi putri beliau (sebagai istriku). Maka beliau bersabda: 'Berwudhulah dan cucilah kemaluanmu.'"
+      "title": "Bab 30: Wudhu Sekali-sekali",
+      "titleArabic": "بَاب الْوُضُوءِ مَرَّةً مَرَّةً",
+      "arabic": "عَنِ ابْنِ عَبَّاسٍ، قَالَ: تَوَضَّأَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَرَّةً مَرَّةً.",
+      "translation": "Dari Ibnu Abbas, ia berkata: Rasulullah shallallahu 'alaihi wasallam pernah berwudhu dengan membasuh masing-masing satu kali."
     },
     {
-      "title": "Bab 29: Mandi Janabah",
-      "titleArabic": "بَابُ فِي الْغُسْلِ مِنَ الْجَنَابَةِ",
-      "arabic": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ: «إِذَا جَلَسَ بَيْنَ شُعَبِهَا الأَرْبَعِ ثُمَّ جَهَدَهَا فَقَدْ وَجَبَ الْغُسْلُ»",
-      "translation": "Dari Abu Hurairah bahwa Nabi SAW bersabda: 'Jika seseorang telah duduk di antara empat cabang (anggota tubuh wanita) kemudian bersungguh-sungguh (menyetubuhi), maka wajib baginya mandi.'"
+      "title": "Bab 31: Wudhu Dua Kali-dua Kali",
+      "titleArabic": "بَاب الْوُضُوءِ مَرَّتَيْنِ مَرَّتَيْنِ",
+      "arabic": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَوَضَّأَ مَرَّتَيْنِ مَرَّتَيْنِ.",
+      "translation": "Dari Abu Hurairah, bahwa Nabi shallallahu 'alaihi wasallam pernah berwudhu dengan membasuh masing-masing dua kali."
     },
     {
-      "title": "Bab 30: Keluar Mani saat tidur (Mimpi Basah)",
-      "titleArabic": "بَابُ فِي الرَّجُلِ يَجِدُ الْبَلَلَ فِي مَنَامِهِ",
-      "arabic": "عَنْ عَائِشَةَ، قَالَتْ: سُئِلَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الرَّجُلِ يَجِدُ الْبَلَلَ وَلاَ يَذْكُرُ احْتِلاَمًا، قَالَ: «يَغْتَسِلُ»",
-      "translation": "Dari Aisyah ia berkata: Rasulullah SAW ditanya tentang seorang laki-laki yang menemukan basah (mani) namun tidak ingat bermimpi, beliau bersabda: 'Ia harus mandi'."
+      "title": "Bab 32: Wudhu Tiga Kali-tiga Kali",
+      "titleArabic": "بَاب الْوُضُوءِ ثَلاَثًا ثَلاَثًا",
+      "arabic": "عَنْ عُثْمَانَ بْنِ عَفَّانَ، أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَوَضَّأَ ثَلاَثًا ثَلاَثًا.",
+      "translation": "Dari Utsman bin Affan, bahwa Nabi shallallahu 'alaihi wasallam pernah berwudhu dengan membasuh masing-masing tiga kali."
     },
     {
-      "title": "Bab 31: Cara Mandi Nabi SAW",
-      "titleArabic": "بَابُ كَيْفَ الْغُسْلُ",
-      "arabic": "عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا اغْتَسَلَ مِنَ الْجَنَابَةِ بَدَأَ فَغَسَلَ يَدَيْهِ ثُمَّ يَتَوَضَّأُ كَمَا يَتَوَضَّأُ لِلصَّلاَةِ...",
-      "translation": "Dari Aisyah bahwa Nabi SAW jika mandi janabah, beliau memulai dengan mencuci kedua tangannya kemudian berwudhu sebagaimana wudhu untuk shalat..."
+      "title": "Bab 33: Larangan Berlebih-lebihan dalam Wudhu",
+      "titleArabic": "بَاب الإِسْرَافِ فِي الْمَاءِ",
+      "arabic": "عَنْ عَبْدِ اللَّهِ بْنِ مُغَفَّلٍ، أَنَّهُ سَمِعَ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: إِنَّهُ سَيَكُونُ فِي هَذِهِ الأُمَّةِ قَوْمٌ يَعْتَدُونَ فِي الطَّهُورِ وَالدُّعَاءِ.",
+      "translation": "Dari Abdullah bin Mughaffal, ia mendengar Nabi shallallahu 'alaihi wasallam bersabda: 'Sesungguhnya akan ada di antara umat ini kaum yang melampaui batas dalam bersuci dan berdoa'."
     },
     {
-      "title": "Bab 32: Mandi bagi wanita",
-      "titleArabic": "بَابُ غُسْلِ النِّسَاءِ",
-      "arabic": "عَنْ أُمِّ سَلَمَةَ، قَالَتْ: يَا رَسُولُ اللَّهِ، إِنِّي امْرَأَةٌ أَشُدُّ ضَفْرَ رَأْسِي، أَفَأَنْقُضُهُ لِغُسْلِ الْجَنَابَةِ؟ قَالَ: «لاَ، إِنَّمَا يَكْفِيكِ أَنْ تَحْثِي عَلَى رَأْسِكِ ثَلاَثَ حَثَيَاتٍ»",
-      "translation": "Dari Ummu Salamah ia berkata: 'Wahai Rasulullah, aku adalah wanita yang mengikat kuat kepangan rambutku, apakah aku harus melepasnya untuk mandi janabah?' Beliau menjawab: 'Tidak, cukup bagimu menyiramkan air ke kepalamu sebanyak tiga kali siraman.'"
+      "title": "Bab 34: Memercikkan Air ke Kemaluan Setelah Wudhu",
+      "titleArabic": "بَاب النَّضْحِ بَعْدَ الْوُضُوءِ",
+      "arabic": "عَنْ جَابِرٍ، أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَوَضَّأَ وَنَضَحَ فَرْجَهُ.",
+      "translation": "Dari Jabir, bahwa Nabi shallallahu 'alaihi wasallam berwudhu lalu memercikkan air ke kemaluannya."
     },
     {
-      "title": "Bab 33: Larangan berlebihan dalam menggunakan air",
-      "titleArabic": "بَابُ مَا جَاءَ فِي إِسْرَافِ الْمَاءِ",
-      "arabic": "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم مَرَّ بِسَعْدٍ وَهُوَ يَتَوَضَّأُ، فَقَالَ: «مَا هَذَا السَّرَفُ يَا سَعْدُ؟»",
-      "translation": "Dari Abdullah bin Amr bahwa Rasulullah SAW melewati Sa'ad yang sedang berwudhu, lalu beliau bersabda: 'Pemborosan apa ini wahai Sa'ad?'"
+      "title": "Bab 35: Doa Setelah Wudhu",
+      "titleArabic": "بَاب مَا يَقُولُ الرَّجُلُ بَعْدَ وُضُوئِهِ",
+      "arabic": "عَنْ عُمَرَ بْنِ الْخَطَّابِ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: مَا مِنْكُمْ مِنْ أَحَدٍ يَتَوَضَّأُ فَيُبْلِغُ الْوُضُوءَ ثُمَّ يَقُولُ أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ...",
+      "translation": "Dari Umar bin Al-Khattab, dari Nabi shallallahu 'alaihi wasallam beliau bersabda: 'Tidaklah salah seorang dari kalian berwudhu dengan sempurna kemudian mengucapkan: Asyhadu alla ilaha illallah... (dst)'."
     },
     {
-      "title": "Bab 34: Membaca Bismillah saat wudhu",
-      "titleArabic": "بَابُ التَّسْمِيَةِ عَلَى الْوُضُوءِ",
-      "arabic": "عَنْ أَبِي هُرَيْرَةَ، قَالَ: قَالَ رَسُولُ اللَّهِ صلى {عليه وسلم}: «لاَ صَلاَةَ لِمَنْ لاَ وُضُوءَ لَهُ، وَلاَ وُضُوءَ لِمَنْ لَمْ يَذْكُرِ اسْمَ اللَّهِ عَلَيْهِ»",
-      "translation": "Dari Abu Hurairah ia berkata: Rasulullah SAW bersabda: 'Tidak ada shalat bagi yang tidak berwudhu, dan tidak ada wudhu bagi yang tidak menyebut nama Allah atasnya (membaca Basmalah).'"
+      "title": "Bab 36: Mengusap Sepatu (Khuff)",
+      "titleArabic": "بَاب الْمَسْحِ عَلَى الْخُفَّيْنِ",
+      "arabic": "عَنْ جَرِيرٍ، أَنَّهُ بَالَ ثُمَّ تَوَضَّأَ وَمَسَحَ عَلَى خُفَّيْهِ.",
+      "translation": "Dari Jarir, bahwa ia kencing kemudian berwudhu dan mengusap kedua sepatunya (khuff)."
     },
     {
-      "title": "Bab 35: Berkumur dan ber-instinsyaq",
-      "titleArabic": "بَابُ الْمَضْمَضَةِ وَالِاسْتِنْشَاقِ",
-      "arabic": "عَنْ لَقِيطِ بْنِ صَبِرَةَ، قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «أَسْبِغِ الْوُضُوءَ وَخَلِّلْ بَيْنَ الأَصَابِعِ وَبَالِغْ فِي الِاسْتِنْشَاقِ إِلاَّ أَنْ تَكُونَ صَائِمًا»",
-      "translation": "Dari Laqith bin Sabirah ia berkata: Rasulullah SAW bersabda: 'Sempurnakanlah wudhu, sela-selailah jari-jemari, dan bersungguh-sungguhlah dalam menghirup air ke hidung kecuali jika kamu sedang berpuasa.'"
+      "title": "Bab 37: Batas Waktu Mengusap Khuff",
+      "titleArabic": "بَاب التَّوْقِيتِ فِي الْمَسْحِ",
+      "arabic": "عَنْ عَلِيٍّ، قَالَ: جَعَلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ثَلاَثَةَ أَيَّامٍ وَلَيَالِيَهُنَّ لِلْمُسَافِرِ، وَيَوْمًا وَلَيْلَةً لِلْمُقِيمِ.",
+      "translation": "Dari Ali, ia berkata: Rasulullah shallallahu 'alaihi wasallam menetapkan waktu tiga hari tiga malam bagi musafir, dan satu hari satu malam bagi orang yang mukim (untuk mengusap khuff)."
     },
     {
-      "title": "Bab 36: Membasuh muka",
-      "titleArabic": "بَابُ غَسْلِ الْوَجْهِ",
-      "arabic": "عَنِ ابْنِ عَبَّاسٍ، أَنَّهُ تَوَضَّأَ فَغَسَلَ وَجْهَهُ، أَخَذَ غَرْفَةً مِنْ مَاءٍ فَمَضْمَضَ بِهَا وَاسْتَنْشَقَ، ثُمَّ أَخَذَ غَرْفَةً مِنْ مَاءٍ فَجَعَلَ بِهَا هَكَذَا، أَضَافَهَا إِلَى يَدِهِ الأُخْرَى فَغَسَلَ بِهِمَا وَجْهَهُ.",
-      "translation": "Dari Ibnu Abbas bahwa ia berwudhu lalu membasuh mukanya, ia mengambil seciduk air lalu berkumur dan berinstinsyaq, kemudian mengambil seciduk air lagi dan menjadikannya begini (mencampurkan dengan tangan lainnya) lalu membasuh wajahnya dengan kedua tangannya."
+      "title": "Bab 38: Mengusap Bagian Atas Khuff",
+      "titleArabic": "بَاب كَيْفَ الْمَسْحُ",
+      "arabic": "عَنْ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ قَالَ: لَوْ كَانَ الدِّينُ بِالرَّأْيِ لَكَانَ أَسْفَلُ الْخُفِّ أَوْلَى بِالْمَسْحِ مِنْ أَعْلاَهُ.",
+      "translation": "Dari Ali radhiyallahu 'anhu, ia berkata: 'Seandainya agama itu dengan logika, niscaya bagian bawah sepatu lebih utama untuk diusap daripada bagian atasnya'."
     },
     {
-      "title": "Bab 37: Menyela-nyela jenggot",
-      "titleArabic": "بَابُ تَخْلِيلِ اللِّحْيَةِ",
-      "arabic": "عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا تَوَضَّأَ أَخَذَ كَفًّا مِنْ مَاءٍ فَأَدْخَلَهُ تَحْتَ حَنَكِهِ فَخَلَّلَ بِهِ لِحْيَتَهُ.",
-      "translation": "Dari Anas bahwa Nabi SAW jika berwudhu beliau mengambil seciduk air lalu memasukkannya ke bawah dagunya kemudian menyela-nyela jenggotnya dengan air tersebut."
+      "title": "Bab 39: Mengusap Sorban",
+      "titleArabic": "بَاب الْمَسْحِ عَلَى الْعِمَامَةِ",
+      "arabic": "عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَسَحَ عَلَى الْعِمَامَةِ وَعَلَى النَّاصِيَةِ.",
+      "translation": "Dari Al-Mughirah bin Syu'bah, bahwa Nabi shallallahu 'alaihi wasallam mengusap sorbannya dan ubun-ubunnya."
     },
     {
-      "title": "Bab 38: Membasuh kedua tangan hingga siku",
-      "titleArabic": "بَابُ غَسْلِ الْيَدَيْنِ",
-      "arabic": "عَنْ نُعَيْمٍ الْمُجْمِرِ، قَالَ: رَأَيْتُ أَبَا هُرَيْرَةَ يَتَوَضَّأُ فَغَسَلَ وَجْهَهُ فَأَسْبَغَ الْوُضُوءَ، ثُمَّ غَسَلَ يَدَهُ الْيُمْنَى حَتَّى أَشْرَعَ فِي الْعَضُدِ...",
-      "translation": "Dari Nu'aim Al-Mujmir ia berkata: Aku melihat Abu Hurairah berwudhu, ia membasuh wajahnya dan menyempurnakan wudhu, kemudian membasuh tangan kanannya hingga sampai ke lengan atas..."
+      "title": "Bab 40: Hal-hal yang Membatalkan Wudhu (Tidur)",
+      "titleArabic": "بَاب الْوُضُوءِ مِنَ النَّوْمِ",
+      "arabic": "عَنْ صَفْوَانَ بْنِ عَسَّالٍ، قَالَ: كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَأْمُرُنَا إِذَا كُنَّا سَفَرًا أَنْ لاَ نَنْزِعَ خِفَافَنَا ثَلاَثَةَ أَيَّامٍ إِلاَّ مِنْ جَنَابَةٍ، لَكِنْ مِنْ غَائِطٍ وَبَوْلٍ وَنَوْمٍ.",
+      "translation": "Dari Shafwan bin Assal, ia berkata: Rasulullah shallallahu 'alaihi wasallam memerintahkan kami jika sedang bepergian untuk tidak melepas sepatu kami selama tiga hari kecuali karena janabah, namun tetap mengusapnya setelah buang air besar, kencing, dan tidur."
     },
     {
-      "title": "Bab 39: Mengusap kepala",
-      "titleArabic": "بَابُ مَسْحِ الرَّأْسِ",
-      "arabic": "عَنْ عَبْدِ اللَّهِ بْنِ زَيْدٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم مَسَحَ رَأْسَهُ بِيَدَيْهِ فَأَقْبَلَ بِهِمَا وَأَدْبَرَ.",
-      "translation": "Dari Abdullah bin Zaid bahwa Rasulullah SAW mengusap kepalanya dengan kedua tangannya, beliau menjalankan kedua tangannya dari depan ke belakang dan kembali lagi."
+      "title": "Bab 41: Wudhu Karena Menyentuh Kemaluan",
+      "titleArabic": "بَاب الْوُضُوءِ مِنْ مَسِّ الذَّكَرِ",
+      "arabic": "عَنْ بُسْرَةَ بِنْتِ صَفْوَانَ، أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: مَنْ مَسَّ ذَكَرَهُ فَلْيَتَوَضَّأْ.",
+      "translation": "Dari Busrah binti Shafwan, bahwa Nabi shallallahu 'alaihi wasallam bersabda: 'Barangsiapa yang menyentuh kemaluannya, maka hendaknya ia berwudhu'."
     },
     {
-      "title": "Bab 40: Mengusap kedua telinga",
-      "titleArabic": "بَابُ مَسْحِ الأُذُنَيْنِ",
-      "arabic": "عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم مَسَحَ بِرَأْسِهِ وَأُذُنَيْهِ بَاطِنِهِمَا بِالسَّبَّابَتَيْنِ وَظَاهِرِهِمَا بِإِبْهَامَيْهِ.",
-      "translation": "Dari Ibnu Abbas bahwa Nabi SAW mengusap kepala dan kedua telinganya; bagian dalamnya dengan jari telunjuk dan bagian luarnya dengan ibu jari."
+      "title": "Bab 42: Wudhu Karena Menyentuh Makanan yang Dimasak Api",
+      "titleArabic": "بَاب الْوُضُوءِ مِمَّا مَسَّتِ النَّارُ",
+      "arabic": "عَنْ أَبِي هُرَيْرَةَ، قَالَ: سَمِعْتُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: تَوَضَّؤُوا مِمَّا مَسَّتِ النَّارُ.",
+      "translation": "Dari Abu Hurairah, ia berkata: Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Berwudhulah kalian karena memakan sesuatu yang disentuh api (dimasak)'."
     },
     {
-      "title": "Bab 41: Membasuh kedua kaki",
-      "titleArabic": "بَابُ غَسْلِ الرِّجْلَيْنِ",
-      "arabic": "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ: تَخَلَّفَ عَنَّا النَّبِيُّ صلى الله عليه وسلم فِي سَفْرَةٍ... فَنَادَى بِأَعْلَى صَوْتِهِ: «وَيْلٌ لِلأَعْقَابِ مِنَ النَّارِ»",
-      "translation": "Dari Abdullah bin Amr ia berkata: Nabi SAW tertinggal dari kami dalam suatu perjalanan... lalu beliau berseru dengan suara keras: 'Celakalah tumit-tumit (yang tidak terbasuh air wudhu) dari api neraka.'"
+      "title": "Bab 43: Mansukhnya Wudhu Karena Makanan yang Dimasak",
+      "titleArabic": "بَاب تَرْكِ الْوُضُوءِ مِمَّا مَسَّتِ النَّارُ",
+      "arabic": "عَنْ جَابِرٍ، قَالَ: كَانَ آخِرَ الأَمْرَيْنِ مِنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَرْكُ الْوُضُوءِ مِمَّا مَسَّتِ النَّارُ.",
+      "translation": "Dari Jabir, ia berkata: Ketentuan terakhir dari dua perkara Rasulullah shallallahu 'alaihi wasallam adalah meninggalkan wudhu karena memakan sesuatu yang disentuh api."
     },
     {
-      "title": "Bab 42: Berwudhu satu kali satu kali",
-      "titleArabic": "بَابُ الْوُضُوءِ مَرَّةً مَرَّةً",
-      "arabic": "عَنِ ابْنِ عَبَّاسٍ، قَالَ: تَوَضَّأَ رَسُولُ اللَّهِ صلى الله عليه وسلم مَرَّةً مَرَّةً.",
-      "translation": "Dari Ibnu Abbas ia berkata: Rasulullah SAW berwudhu (membasuh anggota wudhu) satu kali satu kali."
+      "title": "Bab 44: Wudhu Karena Memakan Daging Unta",
+      "titleArabic": "بَاب الْوُضُوءِ مِنْ لُحُومِ الإِبِلِ",
+      "arabic": "عَنْ جَابِرِ بْنِ سَمُرَةَ، أَنَّ رَجُلاً سَأَلَ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: أَتَوَضَّأُ مِنْ لُحُومِ الإِبِلِ؟ قَالَ: نَعَمْ.",
+      "translation": "Dari Jabir bin Samurah, bahwa seseorang bertanya kepada Nabi shallallahu 'alaihi wasallam: 'Apakah aku harus berwudhu karena memakan daging unta?' Beliau menjawab: 'Ya'."
     },
     {
-      "title": "Bab 43: Berwudhu dua kali dua kali",
-      "titleArabic": "بَابُ الْوُضُوءِ مَرَّتَيْنِ مَرَّتَيْنِ",
-      "arabic": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم تَوَضَّأَ مَرَّتَيْنِ مَرَّتَيْنِ.",
-      "translation": "Dari Abu Hurairah bahwa Nabi SAW berwudhu dua kali dua kali."
+      "title": "Bab 45: Berkumur Setelah Minum Susu",
+      "titleArabic": "بَاب الْمَضْمَضَةِ مِنَ اللَّبَنِ",
+      "arabic": "عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ شَرِبَ لَبَنًا ثُمَّ دَعَا بِمَاءٍ فَتَمَضْمَضَ وَقَالَ: إِنَّ لَهُ دَسَمًا.",
+      "translation": "Dari Ibnu Abbas, bahwa Nabi shallallahu 'alaihi wasallam minum susu kemudian beliau meminta air lalu berkumur dan bersabda: 'Sesungguhnya susu itu mengandung lemak'."
     },
     {
-      "title": "Bab 44: Berwudhu tiga kali tiga kali",
-      "titleArabic": "بَابُ الْوُضُوءِ ثَلاَثًا ثَلاَثًا",
-      "arabic": "عَنْ عُثْمَانَ بْنِ عَفَّانَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم تَوَضَّأَ ثَلاَثًا ثَلاَثًا.",
-      "translation": "Dari Utsman bin Affan bahwa Nabi SAW berwudhu tiga kali tiga kali."
+      "title": "Bab 46: Mandi Janabah",
+      "titleArabic": "بَاب فِي الْغُسْلِ مِنَ الْجَنَابَةِ",
+      "arabic": "عَنْ عَائِشَةَ، قَالَتْ: كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا اغْتَسَلَ مِنَ الْجَنَابَةِ بَدَأَ فَغَسَلَ يَدَيْهِ ثُمَّ يَتَوَضَّأُ كَمَا يَتَوَضَّأُ لِلصَّلاَةِ...",
+      "translation": "Dari Aisyah, ia berkata: Rasulullah shallallahu 'alaihi wasallam apabila mandi janabah memulai dengan mencuci kedua tangannya kemudian berwudhu sebagaimana wudhu untuk shalat... (dst)'."
     },
     {
-      "title": "Bab 45: Berdoa setelah wudhu",
-      "titleArabic": "بَابُ مَا يُقَالُ بَعْدَ الْوُضُوءِ",
-      "arabic": "عَنْ عُمَرَ بْنِ الْخَطَّابِ، قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «مَا مِنْكُمْ مِنْ أَحَدٍ يَتَوَضَّأُ فَيُبْلِغُ الْوُضُوءَ ثُمَّ يَقُولُ: أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَنَّ مُحَمَّدًا عَبْدُ اللَّهِ وَرَسُولُهُ، إِلاَّ فُتِحَتْ لَهُ أَبْوَابُ الْجَنَّةِ الثَّمَانِيَةُ»",
-      "translation": "Dari Umar bin Al-Khattab ia berkata: Rasulullah SAW bersabda: 'Tidaklah salah seorang dari kalian berwudhu lalu menyempurnakan wudhunya kemudian mengucapkan: Asyhadu alla ilaha illallah wa anna Muhammadan 'abdullahi wa rasuluh, melainkan akan dibukakan baginya delapan pintu surga.'"
+      "title": "Bab 47: Jumlah Air Untuk Mandi",
+      "titleArabic": "بَاب مَا يُجْزِئُ مِنَ الْمَاءِ فِي الْغُسْلِ",
+      "arabic": "عَنْ أَنَسٍ، قَالَ: كَانَ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَغْتَسِلُ بِالصَّاعِ إِلَى خَمْسَةِ أَمْدَادٍ وَيَتَوَضَّأُ بِالْمُدِّ.",
+      "translation": "Dari Anas, ia berkata: Nabi shallallahu 'alaihi wasallam mandi dengan satu sha' hingga lima mud, dan berwudhu dengan satu mud."
     },
     {
-      "title": "Bab 46: Mengusap Sepatu (Khuff)",
-      "titleArabic": "بَابُ الْمَسْحِ عَلَى الْخُفَّيْنِ",
-      "arabic": "عَنْ جَرِيرِ بْنِ عَبْدِ اللَّهِ، أَنَّهُ بَالَ ثُمَّ تَوَضَّأَ وَمَسَحَ عَلَى خُفَّيْهِ.",
-      "translation": "Dari Jarir bin Abdullah bahwa ia kencing kemudian berwudhu dan mengusap kedua sepatunya (khuff)."
+      "title": "Bab 48: Larangan Mandi dengan Sisa Air Wanita",
+      "titleArabic": "بَاب النَّهْيِ عَنْ أَنْ يَغْتَسِلَ الرَّجُلُ بِفَضْلِ طَهُورِ الْمَرْأَةِ",
+      "arabic": "عَنْ حُمَيْدٍ الْحِمْيَرِيِّ، قَالَ: لَقِيتُ رَجُلاً صَحِبَ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ... نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ تَبْتَدِئَ الْمَرْأَةُ فَيَغْتَسِلَ الرَّجُلُ بِفَضْلِهَا.",
+      "translation": "Dari Humaid Al-Himyari, ia berkata: Aku bertemu seseorang yang bersahabat dengan Nabi shallallahu 'alaihi wasallam... Rasulullah shallallahu 'alaihi wasallam melarang wanita memulai mandi lalu laki-laki mandi dengan sisa airnya."
     },
     {
-      "title": "Bab 47: Durasi mengusap Khuff",
-      "titleArabic": "بَابُ التَّوْقِيتِ فِي الْمَسْحِ",
-      "arabic": "عَنْ عَلِيٍّ، قَالَ: جَعَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم ثَلاَثَةَ أَيَّامٍ وَلَيَالِيَهُنَّ لِلْمُسَافِرِ وَيَوْمًا وَلَيْلَةً لِلْمُقِيمِ.",
-      "translation": "Dari Ali ia berkata: Rasulullah SAW menetapkan waktu tiga hari tiga malam bagi musafir dan satu hari satu malam bagi mukim (untuk mengusap khuff)."
+      "title": "Bab 49: Keringanan Mandi Bersama",
+      "titleArabic": "بَاب الرُّخْصَةِ فِي ذَلِكَ",
+      "arabic": "عَنْ عَائِشَةَ، قَالَتْ: كُنْتُ أَغْتَسِلُ أَنَا وَرَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنْ إِنَاءٍ وَاحِدٍ.",
+      "translation": "Dari Aisyah, ia berkata: Aku pernah mandi bersama Rasulullah shallallahu 'alaihi wasallam dari satu bejana."
     },
     {
-      "title": "Bab 48: Mengusap sorban",
-      "titleArabic": "بَابُ الْمَسْحِ عَلَى الْعِمَامَةِ",
-      "arabic": "عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم مَسَحَ عَلَى الْخُفَّيْنِ وَالنَّاصِيَةِ وَعَلَى الْعِمَامَةِ.",
-      "translation": "Dari Mughirah bin Syu'bah bahwa Rasulullah SAW mengusap kedua sepatunya, ubun-ubunnya, dan di atas sorbannya."
-    },
-    {
-      "title": "Bab 49: Tayammum",
-      "titleArabic": "بَابُ التَّيَمُّمِ",
-      "arabic": "عَنْ عَمَّارِ بْنِ يَاسِرٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ فِي التَّيَمُّمِ: «ضَرْبَةٌ لِلْوَجْهِ وَالْكَفَّيْنِ»",
-      "translation": "Dari Ammar bin Yasir bahwa Nabi SAW bersabda tentang tayammum: 'Sekali tepukan untuk wajah dan kedua telapak tangan.'"
-    },
-    {
-      "title": "Bab 50: Tayammum bagi yang junub",
-      "titleArabic": "بَابُ الْجُنُبِ يَتَيَمَّمُ",
-      "arabic": "عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَأَى رَجُلاً مُعْتَزِلاً لَمْ يُصَلِّ... قَالَ: «عَلَيْكَ بِالصَّعِيدِ فَإِنَّهُ يَكْفِيكَ»",
-      "translation": "Dari Imran bin Husain bahwa Rasulullah SAW melihat seorang laki-laki yang menjauh dan tidak shalat... Beliau bersabda: 'Hendaklah kamu menggunakan tanah (tayammum), karena itu sudah cukup bagimu.'"
-    },
-    {
-      "title": "Bab 51: Orang yang terluka boleh bertayammum",
-      "titleArabic": "بَابُ فِي الْمَجْرُوحِ يَتَيَمَّمُ",
-      "arabic": "عَنْ جَابِرٍ، قَالَ: خَرَجْنَا فِي سَفَرٍ فَأَصَابَ رَجُلاً مِنَّا حَجَرٌ فَشَجَّهُ فِي رَأْسِهِ ثُمَّ احْتَلَمَ... فَمَاتَ، فَقَالَ النَّبِيُّ صلى الله عليه وسلم: «قَتَلُوهُ قَتَلَهُمُ اللَّهُ، أَلاَّ سَأَلُوا إِذْ لَمْ يَعْلَمُوا»",
-      "translation": "Dari Jabir berkata: Kami keluar dalam perjalanan lalu salah seorang dari kami terkena batu yang melukai kepalanya, kemudian ia mimpi basah... (setelah mandi) ia meninggal. Maka Nabi SAW bersabda: 'Mereka telah membunuhnya, semoga Allah membalas mereka. Mengapa mereka tidak bertanya jika tidak tahu?'"
-    },
-    {
-      "title": "Bab 52: Air laut itu suci",
-      "titleArabic": "بَابُ الْوُضُوءِ بِمَاءِ الْبَحْرِ",
-      "arabic": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَجُلاً سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ: يَا رَسُولُ اللَّهِ، إِنَّا نَرْكَبُ الْبَحْرَ... أَفَنَتَوَضَّأُ بِمَاءِ الْبَحْرِ؟ فَقَالَ: «هُوَ الطَّهُورُ مَاؤُهُ الْحِلاُّ مَيْتَتُهُ»",
-      "translation": "Dari Abu Hurairah bahwa seorang laki-laki bertanya kepada Rasulullah SAW: 'Wahai Rasulullah, kami mengarungi laut... bolehkah kami berwudhu dengan air laut?' Beliau menjawab: 'Laut itu suci airnya dan halal bangkainya.'"
-    },
-    {
-      "title": "Bab 53: Air sumur Budha'ah",
-      "titleArabic": "بَابُ مَا جَاءَ فِي بِئْرِ بُضَاعَةَ",
-      "arabic": "عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّهُ قِيلَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم: أَنَتَوَضَّأُ مِنْ بِئْرِ بُضَاعَةَ؟ فَقَالَ: «إِنَّ الْمَاءَ طَهُورٌ لاَ يُنَجِّسُهُ شَيْءٌ»",
-      "translation": "Dari Abu Said Al-Khudri bahwa ditanyakan kepada Rasulullah SAW: 'Bolehkah kami berwudhu dari sumur Budha'ah?' Beliau menjawab: 'Sesungguhnya air itu suci, tidak ada sesuatu pun yang menajiskannya (selama tidak berubah bau, rasa, atau warnanya).'"
-    },
-    {
-      "title": "Bab 54: Ukuran air dua qullah",
-      "titleArabic": "بَابُ مَا نُجِّسَ مِنَ الْمَاءِ",
-      "arabic": "عَنِ ابْنِ عُمَرَ، قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم وَهُوَ يُسْأَلُ عَنِ الْمَاءِ يَكُونُ فِي الْفَلاَةِ... فَقَالَ: «إِذَا كَانَ الْمَاءُ قُلَّتَيْنِ لَمْ يَحْمِلِ الْخَبَثَ»",
-      "translation": "Dari Ibnu Umar ia berkata: Aku mendengar Rasulullah SAW ditanya tentang air yang berada di padang luas... Beliau bersabda: 'Jika air telah mencapai ukuran dua qullah, maka ia tidak mengandung kotoran (najis).'"
-    },
-    {
-      "title": "Bab 55: Menghilangkan najis anjing pada bejana",
-      "titleArabic": "بَابُ وُلُوغِ الْكَلْبِ",
-      "arabic": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ: «طُهُورُ إِنَاءِ أَحَدِكُمْ إِذَا وَلَغَ فِيهِ الْكَلْبُ أَنْ يَغْسِلَهُ سَبْعَ مَرَّاتٍ أُولاهُنَّ بِالتُّرَابِ»",
-      "translation": "Dari Abu Hurairah bahwa Rasulullah SAW bersabda: 'Sucinya bejana salah seorang dari kalian jika dijilat anjing adalah dengan mencucinya tujuh kali, yang pertamanya dengan tanah.'"
-    },
-    {
-      "title": "Bab 56: Kesucian kucing",
-      "titleArabic": "بَابُ سُؤْرِ الْهِرَّةِ",
-      "arabic": "عَنْ كَبْشَةَ بِنْتِ كَعْبٍ، أَنَّ أَبَا قَتَادَةَ دَخَلَ فَسَكَبَتْ لَهُ وَضُوءًا فَجَاءَتْ هِرَّةٌ فَشَرِبَتْ مِنْهُ... فَقَالَ: «إِنَّهَا لَيْسَتْ بِنَجَسٍ، إِنَّهَا مِنَ الطَّوَّافِينَ عَلَيْكُمْ»",
-      "translation": "Dari Kabsyah binti Ka'ab bahwa Abu Qatadah masuk lalu ia menuangkan air wudhu untuknya, kemudian datang seekor kucing dan minum dari air itu... Abu Qatadah berkata: 'Sesungguhnya kucing itu tidak najis, ia termasuk hewan yang sering berkeliaran di sekitar kalian.'"
-    },
-    {
-      "title": "Bab 57: Sisa air minum wanita",
-      "titleArabic": "بَابُ فَضْلِ وُضُوءِ الْمَرْأَةِ",
-      "arabic": "عَنْ بَعْضِ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم قَالَ: نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ تَغْتَسِلَ الْمَرْأَةُ بِفَضْلِ الرَّجُلِ أَوْ يَغْتَسِلَ الرَّجُلُ بِفَضْلِ الْمَرْأَةِ.",
-      "translation": "Dari sebagian sahabat Nabi SAW berkata: Rasulullah SAW melarang wanita mandi dengan sisa air pria atau pria mandi dengan sisa air wanita (secara bersamaan/tanpa aturan)."
-    },
-    {
-      "title": "Bab 58: Darah Istihadhah",
-      "titleArabic": "بَابُ فِي الْمُسْتَحَاضَةِ",
-      "arabic": "عَنْ عَائِشَةَ، أَنَّ فَاطِمَةَ بِنْتَ أَبِي حُبَيْشٍ سَأَلَتِ النَّبِيَّ صلى الله عليه وسلم فَقَالَتْ: إِنِّي أُسْتَحَاضُ فَلاَ أَطْهُرُ، أَفَأَدَعُ الصَّلاَةَ؟ قَالَ: «لاَ، إِنَّمَا ذَلِكِ عِرْقٌ وَلَيْسَ بِالْحَيْضَةِ»",
-      "translation": "Dari Aisyah bahwa Fatimah binti Abi Hubaisy bertanya kepada Nabi SAW: 'Sesungguhnya aku keluar darah istihadhah sehingga aku tidak suci, apakah aku harus meninggalkan shalat?' Beliau menjawab: 'Tidak, itu hanyalah darah penyakit dan bukan darah haid.'"
-    },
-    {
-      "title": "Bab 59: Mandi setelah haid",
-      "titleArabic": "بَابُ الْغُسْلِ مِنَ الْمَحِيضِ",
-      "arabic": "عَنْ عَائِشَةَ، أَنَّ امْرَأَةً سَأَلَتِ النَّبِيَّ صلى الله عليه وسلم عَنْ غُسْلِهَا مِنَ الْمَحِيضِ، فَأَمَرَهَا كَيْفَ تَغْتَسِلُ... ثُمَّ خُذِي فِرْصَةً مِنْ مِسْكٍ فَتَطَهَّرِي بِهَا.",
-      "translation": "Dari Aisyah bahwa seorang wanita bertanya kepada Nabi SAW tentang mandi haid, beliau memerintahkannya cara mandi... kemudian beliau bersabda: 'Ambillah sepotong kapas yang diberi wewangian (misik) lalu bersucilah dengannya.'"
-    },
-    {
-      "title": "Bab 60: Penutup Kitab At-Thaharah",
-      "titleArabic": "خَاتِمَةُ كِتَابِ الطَّهَارَةِ",
-      "arabic": "تَمَّ كِتَابُ الطَّهَارَةِ وَيَلِيهِ كِتَابُ الصَّلاَةِ.",
-      "translation": "Telah selesai Kitab At-Thaharah (Bersuci) dan berikutnya adalah Kitab Ash-Shalah (Shalat)."
+      "title": "Bab 50: Tayammum",
+      "titleArabic": "بَاب فِي التَّيَمُّمِ",
+      "arabic": "عَنْ عَمَّارِ بْنِ يَاسِرٍ، أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَمَرَهُ بِالتَّيَمُّمِ لِلْوَجْهِ وَالْكَفَّيْنِ.",
+      "translation": "Dari Ammar bin Yasir, bahwa Nabi shallallahu 'alaihi wasallam memerintahkannya untuk bertayammum dengan mengusap wajah dan kedua telapak tangan."
     }
   ]
 }
