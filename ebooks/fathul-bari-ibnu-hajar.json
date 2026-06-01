@@ -1,428 +1,278 @@
 {
   "profile": {
-    "name": "Fathul Bari Syarh Sahih al-Bukhari",
-    "originalTitle": "فَتْحُ الْبَارِي بِشَرْحِ صَحِيحِ الْبُخَارِيِّ",
-    "author": "Al-Hafiz Ahmad bin Ali bin Muhammad bin Hajar al-Asqalani",
-    "field": "Hadits (Syarh/Komentar Sahih al-Bukhari)",
-    "about": "Fathul Bari merupakan kitab syarh (penjelasan) paling komprehensif dan otoritatif terhadap Sahih al-Bukhari yang disusun selama kurang lebih 25 tahun. Kitab ini dianggap sebagai 'puncak' dalam literatur hadits karena kedalaman analisis bahasa, fiqih, sejarah, dan asbabun nuzul yang disertakan oleh Ibnu Hajar. Di kalangan pesantren dan akademisi Islam, kitab ini merupakan rujukan utama dalam membedah hukum Islam langsung dari sumber hadits primer. Penulis menyertakan pendahuluan khusus berjudul 'Hadyus Sari' yang membedah metodologi Imam al-Bukhari secara mendalam. Tanpa memahami Fathul Bari, penguasaan terhadap Sahih al-Bukhari dianggap belum sempurna bagi seorang mujtahid.",
+    "name": "Fathul Bari Ibnu Hajar",
+    "originalTitle": "فَتْحُ البَارِي بِشَرْحِ صَحِيحِ البُخَارِي",
+    "author": "Al-Hafiz Ahmad bin 'Ali bin Hajar al-'Asqalani (Syihabuddin Abul Fadhl)",
+    "field": "Hadits (Syarah/Komentar Sahih al-Bukhari)",
+    "about": "Fathul Bari merupakan mahakarya paling fenomenal dalam literatur hadits yang mensyarah Sahih al-Bukhari. Kitab ini disusun selama kurang lebih 25 tahun oleh Al-Hafiz Ibnu Hajar al-Asqalani, yang menggabungkan kedalaman ilmu riwayat, dirayah, bahasa, dan fiqh. Di dalamnya, penulis menjawab segala problematika sanad, menjelaskan kosa kata sulit, serta mengistimbath hukum dari setiap hadits dengan sangat teliti. Kitab ini diawali dengan Muqaddimah berjudul Hadyus Sari yang menjadi kunci pembuka memahami metodologi Imam al-Bukhari. Bagi kalangan ulama, kitab ini dianggap sebagai puncak penjelasan hadits sehingga muncul ungkapan 'La Hijrata Ba'dal Fath' (Tidak perlu lagi mencari penjelasan hadits lain setelah adanya Fathul Bari).",
     "authorBorn": "773 H (Kairo, Mesir)",
     "authorDied": "852 H (Kairo, Mesir)",
-    "authorCentury": "Abad ke-8 & 9 Hijriah"
+    "authorCentury": "Abad ke-8 dan ke-9 Hijriah"
   },
   "chapters": [
     {
-      "title": "Muqaddimah (Hadyus Sari)",
-      "titleArabic": "مُقَدِّمَةُ فَتْحِ الْبَارِي (هَدْيُ السَّارِي)",
-      "arabic": "قَالَ الشَّيْخُ الإِمَامُ الْعَالِمُ الْعَلَّامَةُ، حَافِظُ الْعَصْرِ، شِهَابُ الدِّينِ أَبُو الْفَضْلِ أَحْمَدُ بْنُ عَلِيِّ بْنِ حَجَرٍ الْعَسْقَلَانِيُّ: الْحَمْدُ لِلَّهِ الَّذِي شَرَحَ صُدُورَ أَهْلِ الْإِيمَانِ بِالْهُدَى، وَنَوَّرَ بَصَائِرَهُمْ بِمُشَاهَدَةِ نُورِ الْيَقِينِ فِي كُلِّ مَا بَدَا.",
-      "translation": "Berkata Syaikh Imam yang Alim dan العلامة (sangat luas ilmunya), Hafiz masa ini, Syihabuddin Abu al-Fadl Ahmad bin Ali bin Hajar al-Asqalani: Segala puji bagi Allah yang telah melapangkan dada ahli iman dengan hidayah, dan menerangi mata hati mereka dengan menyaksikan cahaya keyakinan pada setiap apa yang nampak."
+      "title": "Muqaddimah: Hadyus Sari",
+      "titleArabic": "مُقَدِّمَةُ هَدْيُ السَّارِي",
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ. الْحَمْدُ لِلَّهِ الَّذِي شَرَحَ صُدُورَ أَهْلِ الْحَدِيثِ لِتَحْصِيلِ سُنَنِ نَبِيِّهِ، وَوَفَّقَهُمْ لِلتَّمْيِيزِ بَيْنَ صَحِيحِهِ وَسَقِيمِهِ. أَمَّا بَعْدُ: فَإِنَّ التَّصْنِيفَ فِي غَرِيبِ الْحَدِيثِ وَمُشْكِلِهِ مِنْ أَهَمِّ الْأُمُورِ.",
+      "translation": "Dengan menyebut nama Allah yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah yang telah melapangkan dada ahli hadits untuk memperoleh sunnah-sunnah Nabi-Nya, dan memberi mereka taufik untuk membedakan antara hadits yang shahih dan yang cacat. Adapun setelah itu, sesungguhnya penyusunan karya mengenai keasingan hadits dan problematika di dalamnya adalah termasuk perkara yang paling penting."
     },
     {
       "title": "Kitab Permulaan Wahyu",
-      "titleArabic": "كِتَابُ بَدْءِ الْوَحْيِ",
-      "arabic": "بَاب كَيْفَ كَانَ بَدْءُ الْوَحْيِ إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ. وَقَوْلُ اللَّهِ عَزَّ وَجَلَّ: {إِنَّا أَوْحَيْنَا إِلَيْكَ كَمَا أَوْحَيْنَا إِلَى نُوحٍ وَالنَّبِيِّينَ مِنْ بَعْدِهِ}",
-      "translation": "Bab bagaimana permulaan wahyu kepada Rasulullah SAW, dan firman Allah Azza wa Jalla: 'Sesungguhnya Kami telah mewahyukan kepadamu sebagaimana Kami telah mewahyukan kepada Nuh dan nabi-nabi setelahnya'."
+      "titleArabic": "كِتَاب بَدْءِ الْوَحْيِ",
+      "arabic": "بَاب كَيْفَ كَانَ بَدْءُ الْوَحْيِ إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ. وَقَوْلُ اللَّهِ جَلَّ ذِكْرُهُ: (إِنَّا أَوْحَيْنَا إِلَيْكَ كَمَا أَوْحَيْنَا إِلَى نُوحٍ وَالنَّبِيِّينَ مِنْ بَعْدِهِ).",
+      "translation": "Bab: Bagaimana permulaan wahyu diturunkan kepada Rasulullah SAW. Dan firman Allah Jalla Dhikruhu: 'Sesungguhnya Kami telah mewahyukan kepadamu sebagaimana Kami telah mewahyukan kepada Nuh dan nabi-nabi setelahnya'."
     },
     {
-      "title": "Kitab Iman",
-      "titleArabic": "كِتَابُ الْإِيمَانِ",
-      "arabic": "بَابُ الإِيمَانِ وَقَوْلِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: بُنِيَ الإِسْلامُ عَلَى خَمْسٍ، وَهُوَ قَوْلٌ وَفِعْلٌ، وَيَزِيدُ وَيَنْقُصُ.",
-      "translation": "Bab Iman dan sabda Nabi SAW: Islam dibangun atas lima perkara. Iman adalah perkataan dan perbuatan, bisa bertambah dan berkurang."
+      "title": "Kitab Iman: Definisi Iman",
+      "titleArabic": "كِتَابُ الْإِيمَانِ: بَابُ دُعَاؤُكُمْ إِيمَانُكُمْ",
+      "arabic": "بَاب الْإِيمَانُ وَقَوْلُ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: بُنِيَ الْإِسْلَامُ عَلَى خَمْسٍ. وَهُوَ قَوْلٌ وَفِعْلٌ، وَيَزِيدُ وَيَنْقُصُ.",
+      "translation": "Bab Iman dan Sabda Nabi SAW: Islam dibangun di atas lima perkara. Iman adalah perkataan dan perbuatan, ia dapat bertambah dan berkurang."
     },
     {
-      "title": "Kitab Ilmu",
-      "titleArabic": "كِتَابُ الْعِلْمِ",
-      "arabic": "بَابُ فَضْلِ الْعِلْمِ، وَقَوْلِ اللَّهِ تَعَالَى: {يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَالَّذِينَ أُوتُوا الْعِلْمَ دَرَجَاتٍ}",
-      "translation": "Bab Keutamaan Ilmu, dan firman Allah Ta'ala: 'Allah akan meninggikan orang-orang yang beriman di antaramu dan orang-orang yang diberi ilmu pengetahuan beberapa derajat'."
+      "title": "Kitab Iman: Cabang-cabang Iman",
+      "titleArabic": "بَاب أُمُورِ الْإِيمَانِ",
+      "arabic": "بَاب أُمُورِ الْإِيمَانِ، وَقَوْلُ اللَّهِ تَعَالَى: (لَيْسَ الْبِرَّ أَنْ تُوَلُّوا وُجُوهَكُمْ). الْإِيمَانُ بِضْعٌ وَسِتُّونَ شُعْبَةً، وَالْحَيَاءُ شُعْبَةٌ مِنَ الْإِيمَانِ.",
+      "translation": "Bab Perkara-perkara Iman, dan firman Allah Ta'ala: 'Bukanlah kebaktian itu dengan menghadapkan wajahmu'. Iman itu memiliki enam puluh lebih cabang, dan rasa malu adalah salah satu cabang dari iman."
     },
     {
-      "title": "Kitab Wudhu",
-      "titleArabic": "كِتَابُ الْوُضُوءِ",
-      "arabic": "بَابُ مَا جَاءَ فِي الْوُضُوءِ، وَقَوْلِ اللَّهِ تَعَالَى: {إِذَا قُمْتُمْ إِلَى الصَّلاةِ فَاغْسِلُوا وُجُوهَكُمْ}",
-      "translation": "Bab tentang apa yang datang dalam perkara wudhu, dan firman Allah Ta'ala: 'Apabila kalian hendak mengerjakan shalat, maka basuhlah wajahmu'."
+      "title": "Kitab Ilmu: Keutamaan Ilmu",
+      "titleArabic": "كِتَابُ الْعِلْمِ: بَابُ فَضْلِ الْعِلْمِ",
+      "arabic": "بَابُ فَضْلِ الْعِلْمِ، وَقَوْلُ اللَّهِ تَعَالَى: (يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَالَّذِينَ أُوتُوا الْعِلْمَ دَرَجَاتٍ).",
+      "translation": "Bab Keutamaan Ilmu, dan firman Allah Ta'ala: 'Allah akan mengangkat derajat orang-orang yang beriman di antara kalian dan orang-orang yang diberi ilmu beberapa derajat'."
     },
     {
-      "title": "Kitab Mandi Besar",
+      "title": "Kitab Wudhu: Kewajiban Wudhu",
+      "titleArabic": "كِتَابُ الْوُضُوءِ: بَابُ مَا جَاءَ فِي الْوُضُوءِ",
+      "arabic": "بَاب مَا جَاءَ فِي الْوُضُوءِ، وَقَوْلُ اللَّهِ تَعَالَى: (إِذَا قُمْتُمْ إِلَى الصَّلَاةِ فَاغْسِلُوا وُجُوهَكُمْ). لَا تُقْبَلُ صَلَاةُ مَنْ أَحْدَثَ حَتَّى يَتَوَضَّأَ.",
+      "translation": "Bab Tentang Wudhu, dan firman Allah Ta'ala: 'Jika kalian hendak shalat, maka basuhlah wajah-wajah kalian'. Tidak diterima shalat seseorang yang berhadats sampai ia berwudhu."
+    },
+    {
+      "title": "Kitab Wudhu: Mencuci Kedua Kaki",
+      "titleArabic": "بَابُ غَسْلِ الرِّجْلَيْنِ إِلَى الْكَعْبَيْنِ",
+      "arabic": "بَابُ غَسْلِ الرِّجْلَيْنِ، وَلَا يَمْسَحُ عَلَى الْقَدَمَيْنِ. وَوَيْلٌ لِلأَعْقَابِ مِنَ النَّارِ.",
+      "translation": "Bab mencuci kedua kaki sampai mata kaki, dan tidak cukup hanya mengusap kaki. Celakalah tumit-tumit (yang tidak terbasuh) dari api neraka."
+    },
+    {
+      "title": "Kitab Mandi (Al-Ghusl)",
       "titleArabic": "كِتَابُ الْغُسْلِ",
-      "arabic": "بَابُ الْوُضُوءِ قَبْلَ الْغُسْلِ، وَمَا جَاءَ فِي الْجَنَابَةِ.",
-      "translation": "Bab berwudhu sebelum mandi, dan apa yang datang dalam penjelasan tentang janabah."
+      "arabic": "بَابُ الْوُضُوءِ قَبْلَ الْغُسْلِ. كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا اغْتَسَلَ مِنَ الْجَنَابَةِ بَدَأَ فَغَسَلَ يَدَيْهِ ثُمَّ يَتَوَضَّأُ.",
+      "translation": "Bab Wudhu sebelum mandi. Adalah Nabi SAW jika mandi janabah memulai dengan mencuci kedua tangannya kemudian berwudhu."
     },
     {
       "title": "Kitab Haid",
       "titleArabic": "كِتَابُ الْحَيْضِ",
-      "arabic": "بَابُ كَيْفَ كَانَ بَدْءُ الْحَيْضِ وَقَوْلِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: هَذَا شَيْءٌ كَتَبَهُ اللَّهُ عَلَى بَنَاتِ آدَمَ.",
-      "translation": "Bab bagaimana permulaan haid dan sabda Nabi SAW: 'Ini adalah sesuatu yang telah Allah tetapkan bagi anak-anak perempuan Adam'."
+      "arabic": "بَابُ كَيْفَ كَانَ بَدْءُ الْحَيْضِ. وَقَوْلُ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: هَذَا شَيْءٌ كَتَبَهُ اللَّهُ عَلَى بَنَاتِ آدَمَ.",
+      "translation": "Bab bagaimana permulaan haid. Dan sabda Nabi SAW: Ini adalah sesuatu yang telah Allah tetapkan bagi anak-anak perempuan Adam."
     },
     {
       "title": "Kitab Tayammum",
-      "titleArabic": "كِتَابُ التَّيَمُّمِ",
-      "arabic": "بَابُ التَّيَمُّمِ، وَقَوْلِ اللَّهِ تَعَالَى: {فَلَمْ تَجِدُوا مَاءً فَتَيَمَّمُوا صَعِيدًا طَيِّبًا}",
-      "translation": "Bab Tayammum, dan firman Allah Ta'ala: 'Lalu kamu tidak mendapatkan air, maka bertayammumlah dengan tanah yang baik (suci)'."
+      "titleArabic": "كِتَابُ التَّيَمُّمِ",
+      "arabic": "بَابُ التَّيَمُّمِ فِي الْحَضَرِ إِذَا لَمْ يَجِدِ الْمَاءَ. فَلَمْ تَجِدُوا مَاءً فَتَيَمَّمُوا صَعِيدًا طَيِّبًا.",
+      "translation": "Bab Tayammum saat tidak dalam perjalanan jika tidak menemukan air. 'Lalu kalian tidak mendapatkan air, maka bertayammumlah dengan debu yang baik'."
     },
     {
-      "title": "Kitab Shalat",
-      "titleArabic": "كِتَابُ الصَّلَاةِ",
-      "arabic": "بَابُ كَيْفَ فُرِضَتِ الصَّلَاةُ فِي الْإِسْرَاءِ؟ وَأَمَّا التَّحْرِيفُ فِي الْقِبْلَةِ.",
-      "translation": "Bab bagaimana shalat diwajibkan saat Isra'? Dan penjelasan mengenai perpindahan kiblat."
+      "title": "Kitab Shalat: Kewajiban Shalat",
+      "titleArabic": "كِتَابُ الصَّلَاةِ: بَابُ كَيْفَ فُرِضَتِ الصَّلَاةُ",
+      "arabic": "بَابُ كَيْفَ فُرِضَتِ الصَّلَاةُ فِي الْإِسْرَاءِ. هِيَ خَمْسٌ وَهِيَ خَمْسُونَ، لَا يُبَدَّلُ الْقَوْلُ لَدَيَّ.",
+      "translation": "Bab Bagaimana shalat diwajibkan saat Isra'. Shalat itu lima waktu (dalam pengerjaan) namun lima puluh (dalam pahala), tidak berubah ketetapan di sisi-Ku."
     },
     {
-      "title": "Kitab Waktu-waktu Shalat",
-      "titleArabic": "كِتَابُ مَوَاقِيتِ الصَّلَاةِ",
-      "arabic": "بَابُ مَوَاقِيتِ الصَّلَاةِ وَفَضْلِهَا، وَقَوْلِهِ تَعَالَى: {إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَوْقُوتًا}",
-      "translation": "Bab waktu-waktu shalat dan keutamaannya, serta firman-Nya: 'Sesungguhnya shalat itu adalah kewajiban yang ditentukan waktunya atas orang-orang yang beriman'."
+      "title": "Kitab Shalat: Menghadap Kiblat",
+      "titleArabic": "بَابُ التَّوَجُّهِ نَحْوَ الْقِبْلَةِ",
+      "arabic": "بَابُ التَّوَجُّهِ نَحْوَ الْقِبْلَةِ حَيْثُ كَانَ. فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ.",
+      "translation": "Bab Menghadap ke arah Kiblat di mana pun berada. 'Maka palingkanlah wajahmu ke arah Masjidil Haram'."
     },
     {
-      "title": "Kitab Adzan",
-      "titleArabic": "كِتَابُ الْأَذَانِ",
-      "arabic": "بَابُ بَدْءِ الْأَذَانِ وَمَا جَاءَ فِي قَوْلِهِ: مَثْنَى مَثْنَى.",
-      "translation": "Bab permulaan adzan dan apa yang datang tentang ucapan adzan yang dua-dua (genap)."
+      "title": "Kitab Waktu-Waktu Shalat",
+      "titleArabic": "كِتَابُ مَوَاقِيتِ الصَّلَاةِ",
+      "arabic": "بَابُ مَوَاقِيتِ الصَّلَاةِ وَفَضْلِهَا. إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَوْقُوتًا.",
+      "translation": "Bab Waktu-waktu shalat dan keutamaannya. 'Sesungguhnya shalat itu bagi orang beriman adalah kewajiban yang ditentukan waktunya'."
+    },
+    {
+      "title": "Kitab Adzan: Permulaan Adzan",
+      "titleArabic": "كِتَابُ الْأَذَانِ: بَابُ بَدْءِ الْأَذَانِ",
+      "arabic": "بَابُ بَدْءِ الْأَذَانِ، وَقَوْلُهُ عَزَّ وَجَلَّ: (وَإِذَا نَادَيْتُمْ إِلَى الصَّلَاةِ اتَّخَذُوهَا هُزُوًا وَلَعِبًا).",
+      "translation": "Bab Permulaan Adzan, dan firman-Nya Azza wa Jalla: 'Dan apabila kamu menyeru (mereka) untuk (mengerjakan) shalat, mereka menjadikannya buah ejekan dan permainan'."
     },
     {
       "title": "Kitab Shalat Jumat",
       "titleArabic": "كِتَابُ الْجُمُعَةِ",
-      "arabic": "بَابُ فَرْضِ الْجُمُعَةِ، وَقَوْلِ اللَّهِ تَعَالَى: {إِذَا نُودِيَ لِلصَّلاةِ مِنْ يَوْمِ الْجُمُعَةِ فَاسْعَوْا إِلَى ذِكْرِ اللَّهِ}",
-      "translation": "Bab kewajiban shalat Jumat, dan firman Allah Ta'ala: 'Apabila diserukan untuk shalat pada hari Jumat, maka bersegeralah kamu untuk mengingat Allah'."
+      "arabic": "بَابُ فَرْضِ الْجُمُعَةِ، لِقَوْلِ اللَّهِ تَعَالَى: (إِذَا نُودِيَ لِلصَّلَاةِ مِنْ يَوْمِ الْجُمُعَةِ فَاسْعَوْا إِلَى ذِكْرِ اللَّهِ).",
+      "translation": "Bab Kewajiban shalat Jumat, berdasarkan firman Allah Ta'ala: 'Apabila diseru untuk menunaikan shalat pada hari Jumat, maka segeralah kamu kepada mengingat Allah'."
     },
     {
-      "title": "Kitab Shalat Khauf",
+      "title": "Kitab Shalat Khauf (Takut)",
       "titleArabic": "كِتَابُ صَلَاةِ الْخَوْفِ",
-      "arabic": "بَابُ صَلَاةِ الْخَوْفِ، وَقَوْلِ اللَّهِ تَعَالَى: {وَإِذَا كُنْتَ فِيهِمْ فَأَقَمْتَ لَهُمُ الصَّلاةَ}",
-      "translation": "Bab shalat khauf (ketakutan/perang), dan firman Allah Ta'ala: 'Dan apabila kamu berada di tengah-tengah mereka, lalu kamu hendak mendirikan shalat bersama mereka'."
+      "arabic": "بَابُ صَلَاةِ الْخَوْفِ، وَقَوْلُ اللَّهِ تَعَالَى: (وَإِذَا كُنْتَ فِيهِمْ فَأَقَمْتَ لَهُمُ الصَّلَاةَ).",
+      "translation": "Bab Shalat Khauf, dan firman Allah Ta'ala: 'Dan apabila kamu berada di tengah-tengah mereka lalu kamu hendak mendirikan shalat bersama-sama mereka'."
     },
     {
-      "title": "Kitab Dua Hari Raya",
+      "title": "Kitab Dua Hari Raya (Al-Idayn)",
       "titleArabic": "كِتَابُ الْعِيدَيْنِ",
-      "arabic": "بَابُ الْعِيدَيْنِ وَالتَّجَمُّلِ فِيهِمَا، وَالْمَشْيِ وَالرُّكُوبِ إِلَى الْعِيدِ.",
-      "translation": "Bab dua hari raya dan berhias pada keduanya, serta berjalan kaki atau berkendara menuju tempat shalat Id."
+      "arabic": "بَابُ فِي الْعِيدَيْنِ وَالتَّجَمُّلِ فِيهِمَا. كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَلْبَسُ بُرْدَهُ فِي الْعِيدَيْنِ.",
+      "translation": "Bab tentang dua hari raya dan berhias pada keduanya. Adalah Nabi SAW mengenakan burdah (pakaian bergaris) beliau pada dua hari raya."
     },
     {
-      "title": "Kitab Shalat Witir",
+      "title": "Kitab Witr",
       "titleArabic": "كِتَابُ الْوِتْرِ",
-      "arabic": "بَابُ مَا جَاءَ فِي الْوِتْرِ، وَمَا يَقْرَأُ فِيهِ وَأَنَّهُ سُنَّةٌ مُؤَكَّدَةٌ.",
-      "translation": "Bab tentang apa yang datang mengenai shalat witir, apa yang dibaca di dalamnya, dan bahwa ia adalah sunnah muakkadah."
+      "arabic": "بَابُ مَا جَاءَ فِي الْوِتْرِ. اجْعَلُوا آخِرَ صَلَاتِكُمْ بِاللَّيْلِ وِتْرًا.",
+      "translation": "Bab tentang apa yang diriwayatkan mengenai shalat Witr. Jadikanlah akhir shalat malam kalian adalah shalat Witr."
     },
     {
-      "title": "Kitab Istisqa' (Minta Hujan)",
+      "title": "Kitab Istisqa (Minta Hujan)",
       "titleArabic": "كِتَابُ الِاسْتِسْقَاءِ",
-      "arabic": "بَابُ الِاسْتِسْقَاءِ وَخُرُوجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِلَى الْمُصَلَّى.",
-      "translation": "Bab Istisqa' dan keluarnya Nabi SAW ke tempat shalat (tanah lapang)."
+      "arabic": "بَابُ الِاسْتِسْقَاءِ وَخُرُوجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِلَى الْمُصَلَّى. فَاسْتَسْقَى فَصَلَّى رَكْعَتَيْنِ وَقَلَبَ رِدَاءَهُ.",
+      "translation": "Bab Istisqa dan keluarnya Nabi SAW ke mushalla (lapangan). Beliau meminta hujan lalu shalat dua rakaat dan membalikkan selendangnya."
     },
     {
-      "title": "Kitab Gerhana",
+      "title": "Kitab Kusuf (Gerhana)",
       "titleArabic": "كِتَابُ الْكُسُوفِ",
-      "arabic": "بَابُ الصَّلَاةِ فِي كُسُوفِ الشَّمْسِ، وَالصَّدَقَةِ فِي الْكُسُوفِ.",
-      "translation": "Bab shalat pada saat gerhana matahari, dan bersedekah saat gerhana."
+      "arabic": "بَابُ الصَّلَاةِ فِي كُسُوفِ الشَّمْسِ. إِنَّ الشَّمْسَ وَالْقَمَرَ آيَتَانِ مِنْ آيَاتِ اللَّهِ، لَا يَخْسِفَانِ لِمَوْتِ أَحَدٍ.",
+      "translation": "Bab Shalat pada saat gerhana matahari. Sesungguhnya matahari dan bulan adalah dua tanda dari tanda-tanda kebesaran Allah, keduanya tidak gerhana karena kematian seseorang."
     },
     {
-      "title": "Kitab Sujud Tilawah",
+      "title": "Kitab Sujud Al-Qur'an (Tilawah)",
       "titleArabic": "كِتَابُ سُجُودِ الْقُرْآنِ",
-      "arabic": "بَابُ سُجُودِ الْمُسْلِمِينَ مَعَ الْمُشْرِكِينَ، وَسُجُودِ التِّلَاوَةِ.",
-      "translation": "Bab sujudnya kaum muslimin bersama orang musyrik (dalam konteks tertentu) dan sujud tilawah."
+      "arabic": "بَابُ سُجُودِ الْمُسْلِمِينَ مَعَ الْمُشْرِكِينَ وَالْمُشْرِكُ جُنُبٌ وَلَيْسَ عَلَى وُضُوءٍ. سَجَدَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِالنَّجْمِ.",
+      "translation": "Bab sujudnya kaum muslimin bersama kaum musyrikin padahal kaum musyrik itu junub dan tidak berwudhu. Nabi SAW sujud saat membaca surat An-Najm."
     },
     {
-      "title": "Kitab Qashar Shalat",
-      "titleArabic": "كِتَابُ تَقْصِيرِ الصَّلَاةِ",
-      "arabic": "بَابُ مَا جَاءَ فِي التَّقْصِيرِ، وَكَمْ يُقِيمُ حَتَّى يَقْصُرَ.",
-      "translation": "Bab tentang apa yang datang mengenai meringkas shalat (qashar), dan berapa lama menetap hingga boleh mengqashar."
+      "title": "Kitab Memendekkan Shalat (Qashar)",
+      "titleArabic": "كِتَابُ تَقْصِيرِ الصَّلَاةِ",
+      "arabic": "بَابُ مَا جَاءَ فِي التَّقْصِيرِ، وَكَمْ يُقِيمُ حَتَّى يَقْصُرَ. أَقَامَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِمَكَّةَ تِسْعَةَ عَشَرَ يَقْصُرُ.",
+      "translation": "Bab tentang apa yang diriwayatkan mengenai qashar, dan berapa lama menetap sehingga boleh qashar. Nabi SAW menetap di Makkah 19 hari dengan men-qashar shalat."
     },
     {
-      "title": "Kitab Shalat Tahajjud",
-      "titleArabic": "كِتَابُ التَّهَجُّدِ",
-      "arabic": "بَابُ قِيَامِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِاللَّيْلِ، وَفَضْلِ مَنْ تَعَارَّ مِنَ اللَّيْلِ فَصَلَّى.",
-      "translation": "Bab bangunnya Nabi SAW di malam hari, dan keutamaan orang yang terjaga di malam hari lalu shalat."
+      "title": "Kitab Tahajjud",
+      "titleArabic": "كِتَابُ التَّهَجُّدِ",
+      "arabic": "بَابُ قِيَامِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ اللَّيْلَ حَتَّى تَتَوَرَّمَ قَدَمَاهُ. أَفَلَا أَكُونُ عَبْدًا شَكُورًا.",
+      "translation": "Bab shalat malam Nabi SAW hingga kedua kaki beliau bengkak. Bukankah seharusnya aku menjadi hamba yang banyak bersyukur?"
     },
     {
       "title": "Kitab Jenazah",
       "titleArabic": "كِتَابُ الْجَنَائِزِ",
-      "arabic": "بَابُ فِي الْجَنَائِزِ، وَمَنْ كَانَ آخِرُ كَلَامِهِ لَا إِلَهَ إِلَّا اللَّهُ.",
-      "translation": "Bab tentang jenazah, dan barangsiapa yang akhir perkataannya adalah Laa ilaha illallah."
+      "arabic": "بَابُ فِي الْجَنَائِزِ وَمَنْ كَانَ آخِرُ كَلَامِهِ لَا إِلَهَ إِلَّا اللَّهُ. مَنْ كَانَ آخِرُ كَلَامِهِ لَا إِلَهَ إِلَّا اللَّهُ دَخَلَ الْجَنَّةَ.",
+      "translation": "Bab tentang jenazah dan siapa yang akhir ucapannya adalah Laa ilaha illallah. Barangsiapa yang akhir ucapannya Laa ilaha illallah maka ia masuk surga."
     },
     {
       "title": "Kitab Zakat",
-      "titleArabic": "كِتَابُ الزَّكَاةِ",
-      "arabic": "بَابُ وُجُوبِ الزَّكَاةِ، وَقَوْلِ اللَّهِ تَعَالَى: {وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ}",
-      "translation": "Bab kewajiban zakat, dan firman Allah Ta'ala: 'Dan dirikanlah shalat serta tunaikanlah zakat'."
+      "titleArabic": "كِتَابُ الزَّكَاةِ",
+      "arabic": "بَابُ وُجُوبِ الزَّكَاةِ، وَقَوْلُ اللَّهِ تَعَالَى: (وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ). وَمَا أُدِّيَ زَكَاتُهُ فَلَيْسَ بِكَنْزٍ.",
+      "translation": "Bab kewajiban zakat, dan firman Allah Ta'ala: 'Dan dirikanlah shalat dan tunaikanlah zakat'. Harta yang telah ditunaikan zakatnya bukanlah termasuk simpanan haram (kanz)."
     },
     {
       "title": "Kitab Haji",
-      "titleArabic": "كِتَابُ الْحَجِّ",
-      "arabic": "بَابُ وُجُوبِ الْحَجِّ وَفَضْلِهِ، وَقَوْلِ اللَّهِ تَعَالَى: {وَلِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ}",
-      "translation": "Bab kewajiban haji dan keutamaannya, serta firman Allah Ta'ala: 'Mengerjakan haji adalah kewajiban manusia terhadap Allah'."
+      "titleArabic": "كِتَابُ الْحَجِّ",
+      "arabic": "بَابُ وُجُوبِ الْحَجِّ وَفَضْلِهِ. وَلِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلًا.",
+      "translation": "Bab kewajiban haji dan keutamaannya. 'Dan (di antara) kewajiban manusia terhadap Allah adalah melaksanakan ibadah haji ke Baitullah, bagi orang yang mampu mengadakan perjalanan ke sana'."
     },
     {
       "title": "Kitab Puasa",
-      "titleArabic": "كِتَابُ الصَّوْمِ",
-      "arabic": "بَابُ وُجُوبِ صَوْمِ رَمَضَانَ، وَقَوْلِ اللَّهِ تَعَالَى: {كُتِبَ عَلَيْكُمُ الصِّيَامُ}",
-      "translation": "Bab kewajiban puasa Ramadhan, dan firman Allah Ta'ala: 'Diwajibkan atas kamu berpuasa'."
+      "titleArabic": "كِتَابُ الصَّوْمِ",
+      "arabic": "بَابُ وُجُوبِ صَوْمِ رَمَضَانَ، وَقَوْلِ اللَّهِ تَعَالَى: (يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ).",
+      "translation": "Bab kewajiban puasa Ramadhan, dan firman Allah Ta'ala: 'Wahai orang-orang yang beriman, diwajibkan atas kalian berpuasa'."
+    },
+    {
+      "title": "Kitab Tarawih",
+      "titleArabic": "كِتَابُ صَلَاةِ التَّرَاوِيحِ",
+      "arabic": "بَابُ فَضْلِ مَنْ قَامَ رَمَضَانَ. مَنْ قَامَ رَمَضَانَ إِيمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ.",
+      "translation": "Bab keutamaan orang yang mendirikan shalat malam di bulan Ramadhan. Barangsiapa shalat malam di bulan Ramadhan karena iman dan mengharap pahala, diampuni dosa-dosanya yang telah lalu."
     },
     {
       "title": "Kitab Jual Beli",
       "titleArabic": "كِتَابُ الْبُيُوعِ",
-      "arabic": "بَابُ مَا جَاءَ فِي قَوْلِ اللَّهِ تَعَالَى: {وَأَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا}",
-      "translation": "Bab tentang apa yang datang dalam firman Allah Ta'ala: 'Dan Allah telah menghalalkan jual beli dan mengharamkan riba'."
+      "arabic": "بَابُ مَا جَاءَ فِي قَوْلِ اللَّهِ تَعَالَى: (وَأَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا). وَقَوْلِهِ: (إِلَّا أَنْ تَكُونَ تِجَارَةً عَنْ تَرَاضٍ مِنْكُمْ).",
+      "translation": "Bab tentang apa yang diriwayatkan mengenai firman Allah Ta'ala: 'Dan Allah telah menghalalkan jual beli dan mengharamkan riba'. Dan firman-Nya: 'Kecuali dengan jalan perniagaan yang berlaku dengan suka sama suka di antara kalian'."
     },
     {
-      "title": "Kitab Salam (Pesanan)",
-      "titleArabic": "كِتَابُ السَّلَمِ",
-      "arabic": "بَابُ السَّلَمِ فِي كَيْلٍ مَعْلُومٍ إِلَى أَجَلٍ مَعْلُومٍ.",
-      "translation": "Bab tentang akad salam (pesanan) dalam takaran tertentu hingga jangka waktu tertentu."
-    },
-    {
-      "title": "Kitab Syuf'ah",
-      "titleArabic": "كِتَابُ الشُّفْعَةِ",
-      "arabic": "بَابُ الشُّفْعَةِ فِيمَا لَمْ يُقْسَمْ، فَإِذَا وَقَعَتِ الْحُدُودُ فَلَا شُفْعَةَ.",
-      "translation": "Bab hak syuf'ah (prioritas beli) pada harta yang belum dibagi, jika batas sudah ditentukan maka tidak ada syuf'ah."
-    },
-    {
-      "title": "Kitab Ijarah (Sewa Menyewa)",
-      "titleArabic": "كِتَابُ الْإِجَارَةِ",
-      "arabic": "بَابُ الِاسْتِئْجَارِ، وَالرَّجُلِ يَسْتَأْجِرُ الرَّجُلَ لِيَعْمَلَ لَهُ.",
-      "translation": "Bab persewaan, dan seseorang yang menyewa orang lain untuk bekerja baginya."
-    },
-    {
-      "title": "Kitab Wakalah (Perwakilan)",
-      "titleArabic": "كِتَابُ الْوَكَالَةِ",
-      "arabic": "بَابُ الْوَكَالَةِ فِي الشِّرَاءِ وَالْبَيْعِ، وَإِذَا وَكَّلَ رَجُلًا أَنْ يَبِيعَ فَأَعْطَاهُ شَيْئًا.",
-      "translation": "Bab perwakilan dalam urusan beli dan jual, dan jika seseorang mewakilkan orang lain untuk menjual lalu memberinya sesuatu."
-    },
-    {
-      "title": "Kitab Pertanian",
-      "titleArabic": "كِتَابُ الْمُزَارَعَةِ",
-      "arabic": "بَابُ فَضْلِ الزَّرْعِ وَالْغَرْسِ إِذَا أُكِلَ مِنْهُ.",
-      "translation": "Bab keutamaan bercocok tanam dan menanam pohon jika hasilnya dimakan."
-    },
-    {
-      "title": "Kitab Hutang Piutang",
-      "titleArabic": "كِتَابُ فِي الِاسْتِقْرَاضِ",
-      "arabic": "بَابُ أَدَاءِ الدُّيُونِ، وَمَنْ أَخَذَ أَمْوَالَ النَّاسِ يُرِيدُ أَدَاءَهَا.",
-      "translation": "Bab pelunasan hutang, dan barangsiapa mengambil harta orang lain (berhutang) dengan maksud melunasinya."
-    },
-    {
-      "title": "Kitab Persengketaan",
-      "titleArabic": "كِتَابُ الْخُصُومَاتِ",
-      "arabic": "بَابُ مَا يُذْكَرُ فِي الْخُصُومَاتِ، وَالِدَّدِ الْخَصِمِ.",
-      "translation": "Bab apa yang disebutkan dalam urusan persengketaan, dan tentang pendebat yang keras kepala."
-    },
-    {
-      "title": "Kitab Luqathah (Barang Temuan)",
-      "titleArabic": "كِتَابُ اللُّقَطَةِ",
-      "arabic": "بَابُ كَيْفَ تُعَرَّفُ اللُّقَطَةُ، وَضَالَّةِ الْإِبِلِ وَالْغَنَمِ.",
-      "translation": "Bab bagaimana mengumumkan barang temuan, serta unta dan kambing yang tersesat."
-    },
-    {
-      "title": "Kitab Kezhaliman",
-      "titleArabic": "كِتَابُ الْمَظَالِمِ",
-      "arabic": "بَابُ قِصَاصِ الْمَظَالِمِ، وَقَوْلِ اللَّهِ تَعَالَى: {أَلَا لَعْنَةُ اللَّهِ عَلَى الظَّالِمِينَ}",
-      "translation": "Bab qishash atas kezhaliman, dan firman Allah Ta'ala: 'Ingatlah, laknat Allah atas orang-orang yang zhalim'."
-    },
-    {
-      "title": "Kitab Syarikat (Perseroan)",
-      "titleArabic": "كِتَابُ الشَّرِكَةِ",
-      "arabic": "بَابُ الشَّرِكَةِ فِي الطَّعَامِ وَالنَّهْدِ، وَالشَّرِكَةِ فِي الْغَنَمِ.",
-      "translation": "Bab perserikatan dalam makanan dan biaya, serta perserikatan dalam ternak kambing."
-    },
-    {
-      "title": "Kitab Gadai",
-      "titleArabic": "كِتَابُ الرَّهْنِ",
-      "arabic": "بَابُ الرَّهْنِ فِي الْحَضَرِ، وَقَوْلِ اللَّهِ تَعَالَى: {وإِنْ كُنْتُمْ عَلَى سَفَرٍ... فَرِهَانٌ مَقْبُوضَةٌ}",
-      "translation": "Bab gadai saat tidak dalam perjalanan, dan firman Allah Ta'ala: 'Jika kamu dalam perjalanan... maka hendaklah ada barang tanggungan yang dipegang'."
-    },
-    {
-      "title": "Kitab Pembebasan Budak",
-      "titleArabic": "كِتَابُ الْعِتْقِ",
-      "arabic": "بَابُ فَضْلِ الْعِتْقِ، وَقَوْلِ اللَّهِ تَعَالَى: {فَلَا اقْتَحَمَ الْعَقَبَةَ وَمَا أَدْرَاكَ مَا الْعَقَبَةُ فَكُّ رَقَبَةٍ}",
-      "translation": "Bab keutamaan memerdekakan budak, dan firman Allah Ta'ala: 'Tetapi dia tidak menempuh jalan yang mendaki... tahukah kamu jalan yang mendaki itu? Yaitu melepaskan perbudakan'."
+      "title": "Kitab Pesan Inden (Salam)",
+      "titleArabic": "كِتَابُ السَّلَمِ",
+      "arabic": "بَابُ السَّلَمِ فِي كَيْلٍ مَعْلُومٍ. مَنْ أَسْلَفَ فِي شَيْءٍ فَلْيُسْلِفْ فِي كَيْلٍ مَعْلُومٍ وَوَزْنٍ مَعْلُومٍ إِلَى أَجَلٍ مَعْلُومٍ.",
+      "translation": "Bab Salam (pesan barang) dengan takaran tertentu. Barangsiapa melakukan salam pada sesuatu, hendaklah pada takaran yang diketahui dan timbangan yang diketahui sampai batas waktu yang diketahui."
     },
     {
       "title": "Kitab Hibah (Pemberian)",
       "titleArabic": "كِتَابُ الْهِبَةِ",
-      "arabic": "بَابُ فَضْلِ الْهِبَةِ وَالتَّحْرِيضِ عَلَيْهَا، وَهَدِيَّةِ مَا جَاءَ فِي الْقَلِيلِ وَالْكَثِيرِ.",
-      "translation": "Bab keutamaan hibah dan anjuran melakukannya, serta hadiah dalam jumlah sedikit maupun banyak."
-    },
-    {
-      "title": "Kitab Persaksian",
-      "titleArabic": "كِتَابُ الشَّهَادَاتِ",
-      "arabic": "بَابُ مَا جَاءَ فِي بَيِّنَةِ الْمُدَّعِي، وَالْيَمِينِ عَلَى الْمُدَّعَى عَلَيْهِ.",
-      "translation": "Bab tentang apa yang datang mengenai bukti bagi penggugat, dan sumpah bagi tergugat."
-    },
-    {
-      "title": "Kitab Perdamaian",
-      "titleArabic": "كِتَابُ الصُّلْحِ",
-      "arabic": "بَابُ الصُّلْحِ بَيْنَ النَّاسِ، وَإِذَا اصْطَلَحُوا عَلَى جَوْرٍ فَالصُّلْحُ مَرْدُودٌ.",
-      "translation": "Bab perdamaian di antara manusia, dan jika mereka berdamai di atas kezhaliman maka perdamaian itu tertolak."
-    },
-    {
-      "title": "Kitab Syarat-syarat",
-      "titleArabic": "كِتَابُ الشُّرُوطِ",
-      "arabic": "بَابُ مَا يَجُوزُ مِنَ الشُّرُوطِ فِي الْإِسْلَامِ، وَالشُّرُوطِ فِي الْمُعَامَلَاتِ.",
-      "translation": "Bab syarat-syarat yang diperbolehkan dalam Islam, dan syarat-syarat dalam transaksi (muamalah)."
-    },
-    {
-      "title": "Kitab Wasiat",
-      "titleArabic": "كِتَابُ الْوَصَايَا",
-      "arabic": "بَابُ الْوَصَايَا، وَقَوْلِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: مَا حَقُّ امْرِئٍ مُسْلِمٍ لَهُ شَيْءٌ يُوصِي فِيهِ يَبِيتُ لَيْلَتَيْنِ إِلَّا وَوَصِيَّتُهُ مَكْتُوبَةٌ عِنْدَهُ.",
-      "translation": "Bab wasiat-wasiat, dan sabda Nabi SAW: 'Tidaklah berhak bagi seorang muslim yang memiliki sesuatu untuk diwasiatkan bermalam selama dua malam melainkan wasiatnya telah tertulis di sisinya'."
+      "arabic": "بَابُ فَضْلِ الْهِبَةِ وَالتَّحْرِيضِ عَلَيْهَا. تَهَادُوا تَحَابُّوا. وَقَوْلُهُ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: يَا نِسَاءَ الْمُسْلِمَاتِ لَا تَحْقِرَنَّ جَارَةٌ لِجَارَتِهَا وَلَوْ فِرْسِنَ شَاةٍ.",
+      "translation": "Bab Keutamaan hibah dan anjuran melakukannya. Saling memberi hadiahlah kalian, niscaya kalian saling mencintai. Nabi SAW bersabda: Wahai wanita muslimah, janganlah seorang tetangga meremehkan pemberian tetangganya meskipun hanya kuku kambing."
     },
     {
       "title": "Kitab Jihad",
-      "titleArabic": "كِتَابُ الْجِهَادِ وَالسِّيَرِ",
-      "arabic": "بَابُ فَضْلِ الْجِهَادِ وَالسِّيَرِ، وَقَوْلِ اللَّهِ تَعَالَى: {إِنَّ اللَّهَ اشْتَرَى مِنَ الْمُؤْمِنِينَ أَنْفُسَهُمْ وَأَمْوَالَهُمْ بِأَنَّ لَهُمُ الْجَنَّةَ}",
-      "translation": "Bab keutamaan jihad dan sejarah peperangan, serta firman Allah Ta'ala: 'Sesungguhnya Allah telah membeli dari orang-orang mukmin diri dan harta mereka dengan memberikan surga untuk mereka'."
-    },
-    {
-      "title": "Kitab Jizyah",
-      "titleArabic": "كِتَابُ الْجِزْيَةِ",
-      "arabic": "بَابُ الْجِزْيَةِ وَالْمُوَادَعَةِ مَعَ أَهْلِ الْحَرْبِ، وَقَوْلِ اللَّهِ تَعَالَى: {قَاتِلُوا الَّذِينَ لَا يُؤْمِنُونَ بِاللَّهِ... حَتَّى يُعْطُوا الْجِزْيَةَ}",
-      "translation": "Bab Jizyah (pajak perlindungan) dan perjanjian damai dengan musuh perang, serta firman Allah Ta'ala: 'Perangilah orang-orang yang tidak beriman kepada Allah... sampai mereka membayar jizyah'."
+      "titleArabic": "كِتَابُ الْجِهَادِ وَالسِّيَرِ",
+      "arabic": "بَابُ فَضْلِ الْجِهَادِ وَالسِّيَرِ، وَقَوْلِ اللَّهِ تَعَالَى: (إِنَّ اللَّهَ اشْتَرَى مِنَ الْمُؤْمِنِينَ أَنْفُسَهُمْ وَأَمْوَالَهُمْ بِأَنَّ لَهُمُ الْجَنَّةَ).",
+      "translation": "Bab keutamaan Jihad dan ekspedisi, dan firman Allah Ta'ala: 'Sesungguhnya Allah telah membeli dari orang-orang mukmin diri dan harta mereka dengan memberikan surga untuk mereka'."
     },
     {
       "title": "Kitab Permulaan Makhluk",
       "titleArabic": "كِتَابُ بَدْءِ الْخَلْقِ",
-      "arabic": "بَابُ مَا جَاءَ فِي قَوْلِ اللَّهِ تَعَالَى: {وَهُوَ الَّذِي يَبْدَأُ الْخَلْقَ ثُمَّ يُعِيدُهُ}",
-      "translation": "Bab tentang apa yang datang dalam firman Allah Ta'ala: 'Dan Dialah yang memulai penciptaan, kemudian mengulanginya kembali'."
+      "arabic": "بَابُ مَا جَاءَ فِي قَوْلِ اللَّهِ تَعَالَى: (وَهُوَ الَّذِي يَبْدَأُ الْخَلْقَ ثُمَّ يُعِيدُهُ). كَانَ اللَّهُ وَلَمْ يَكُنْ شَيْءٌ قَبْلَهُ، وَكَانَ عَرْشُهُ عَلَى الْمَاءِ.",
+      "translation": "Bab tentang apa yang diriwayatkan mengenai firman Allah Ta'ala: 'Dan Dialah yang memulai penciptaan, kemudian mengulanginya'. Allah telah ada dan tidak ada sesuatupun sebelum-Nya, dan Arsy-Nya berada di atas air."
     },
     {
       "title": "Kitab Kisah Para Nabi",
       "titleArabic": "كِتَابُ أَحَادِيثِ الْأَنْبِيَاءِ",
-      "arabic": "بَابُ خَلْقِ آدَمَ صَلَوَاتُ اللَّهِ عَلَيْهِ وَذُرِّيَّتِهِ، وَمَا جَاءَ فِي ذِكْرِ إِدْرِيسَ وَنُوحٍ.",
-      "translation": "Bab penciptaan Adam AS dan keturunannya, serta apa yang datang dalam penyebutan Idris dan Nuh."
+      "arabic": "بَابُ خَلْقِ آدَمَ صَلَوَاتُ اللَّهِ عَلَيْهِ وَذُرِّيَّتِهِ. خَلَقَ اللَّهُ آدَمَ عَلَى صُورَتِهِ طُولُهُ سِتُّونَ ذِرَاعًا.",
+      "translation": "Bab Penciptaan Adam AS dan keturunannya. Allah menciptakan Adam menurut bentuk-Nya (yang mulia) dengan tinggi enam puluh hasta."
     },
     {
-      "title": "Kitab Manaqib (Keistimewaan)",
-      "titleArabic": "كِتَابُ الْمَنَاقِبِ",
-      "arabic": "بَابُ مَنَاقِبِ قُرَيْشٍ، وَمَا جَاءَ فِي أَسْمَاءِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ.",
-      "translation": "Bab keistimewaan suku Quraisy, dan apa yang datang mengenai nama-nama Rasulullah SAW."
-    },
-    {
-      "title": "Kitab Keistimewaan Sahabat",
-      "titleArabic": "كِتَابُ فَضَائِلِ أَصْحَابِ النَّبِيِّ",
-      "arabic": "بَابُ فَضْلِ أَبِي بَكْرٍ الصِّدِّيقِ بَعْدَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ.",
-      "translation": "Bab keutamaan Abu Bakar ash-Shiddiq setelah Nabi SAW."
-    },
-    {
-      "title": "Kitab Peperangan Nabi",
-      "titleArabic": "كِتَابُ الْمَغَازِي",
-      "arabic": "بَابُ غَزْوَةِ بَدْرٍ، وَقَوْلِ اللَّهِ تَعَالَى: {وَلَقَدْ نَصَرَكُمُ اللَّهُ بِبَدْرٍ وَأَنْتُمْ أَذِلَّةٌ}",
-      "translation": "Bab Perang Badar, dan firman Allah Ta'ala: 'Sungguh Allah telah menolong kamu dalam peperangan Badar, padahal kamu adalah orang-orang yang lemah'."
-    },
-    {
-      "title": "Kitab Tafsir",
-      "titleArabic": "كِتَابُ التَّفْسِيرِ",
-      "arabic": "بَابُ مَا جَاءَ فِي تَفْسِيرِ الْقُرْآنِ، وَمَا نَزَلَ مِنَ الْقُرْآنِ بِمَكَّةَ وَالْمَدِينَةِ.",
-      "translation": "Bab apa yang datang mengenai tafsir Al-Qur'an, dan apa yang turun dari Al-Qur'an di Makkah dan Madinah."
+      "title": "Kitab Tafsir Al-Qur'an",
+      "titleArabic": "كِتَابُ التَّفْسِيرِ",
+      "arabic": "بَابُ تَفْسِيرِ سُورَةِ الْفَاتِحَةِ وَسُمِّيَتْ أُمَّ الْكِتَابِ. هِيَ السَّبْعُ الْمَثَانِي وَالْقُرْآنُ الْعَظِيمُ الَّذِي أُوتِيتُهُ.",
+      "translation": "Bab Tafsir Surat Al-Fatihah dan ia dinamakan Ummul Kitab. Ia adalah tujuh ayat yang diulang-ulang dan Al-Qur'an yang agung yang diberikan kepadaku."
     },
     {
       "title": "Kitab Nikah",
-      "titleArabic": "كِتَابُ النِّكَاحِ",
-      "arabic": "بَابُ التَّرْغِيبِ فِي النِّكَاحِ، وَقَوْلِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: مَنِ اسْتَطَاعَ مِنْكُمُ الْبَاءَةَ فَلْيَتَزَوَّجْ.",
-      "translation": "Bab anjuran menikah, dan sabda Nabi SAW: 'Barangsiapa di antara kalian yang mampu memberi nafkah/beban keluarga, maka menikahlah'."
+      "titleArabic": "كِتَابُ النِّكَاحِ",
+      "arabic": "بَابُ التَّرْغِيبِ فِي النِّكَاحِ. يَا مَعْشَرَ الشَّبَابِ مَنِ اسْتَطَاعَ مِنْكُمُ الْبَاءَةَ فَلْيَتَزَوَّجْ.",
+      "translation": "Bab Anjuran Menikah. Wahai sekalian pemuda, barangsiapa di antara kalian yang telah memiliki kemampuan (lahir batin), maka hendaklah ia menikah."
     },
     {
-      "title": "Kitab Thalaq (Cerai)",
-      "titleArabic": "كِتَابُ الطَّلَاقِ",
-      "arabic": "بَابُ مَا جَاءَ فِي الطَّلَاقِ، وَقَوْلِ اللَّهِ تَعَالَى: {يَا أَيُّهَا النَّبِيُّ إِذَا طَلَّقْتُمُ النِّسَاءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ}",
-      "translation": "Bab tentang apa yang datang mengenai thalaq, dan firman Allah Ta'ala: 'Wahai Nabi, apabila kamu menceraikan istri-istrimu maka hendaklah kamu ceraikan mereka pada waktu mereka dapat (menghadapi) iddahnya'."
-    },
-    {
-      "title": "Kitab Nafkah",
-      "titleArabic": "كِتَابُ النَّفَقَاتِ",
-      "arabic": "بَابُ فَضْلِ النَّفَقَةِ عَلَى الْأَهْلِ، وَوُجُوبِ نَفَقَةِ الرَّجُلِ عَلَى امْرَأَتِهِ وَعِيَالِهِ.",
-      "translation": "Bab keutamaan memberi nafkah kepada keluarga, dan wajibnya nafkah laki-laki atas istri dan anak-anaknya."
+      "title": "Kitab Thalaq (Perceraian)",
+      "titleArabic": "كِتَابُ الطَّلَاقِ",
+      "arabic": "بَابُ قَوْلِ اللَّهِ تَعَالَى: (يَا أَيُّهَا النَّبِيُّ إِذَا طَلَّقْتُمُ النِّسَاءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ).",
+      "translation": "Bab firman Allah Ta'ala: 'Wahai Nabi, apabila kamu menceraikan istri-istrimu maka hendaklah kamu ceraikan mereka pada waktu mereka dapat (menghadapi) iddahnya'."
     },
     {
       "title": "Kitab Makanan",
       "titleArabic": "كِتَابُ الْأَطْعِمَةِ",
-      "arabic": "بَابُ التَّسْمِيَةِ عَلَى الطَّعَامِ، وَالْأَكْلِ مِمَّا يَلِي النَّاسَ.",
-      "translation": "Bab membaca basmalah atas makanan, dan makan dari bagian yang terdekat dengan orang tersebut."
+      "arabic": "بَابُ التَّسْمِيَةِ عَلَى الطَّعَامِ وَالْأَكْلِ بِالْيَمِينِ. يَا غُلَامُ سَمِّ اللَّهَ وَكُلْ بِيَمِينِكَ وَكُلْ مِمَّا يَلِيكَ.",
+      "translation": "Bab Membaca Bismillah sebelum makan dan makan dengan tangan kanan. Wahai anak muda, sebutlah nama Allah, makanlah dengan tangan kananmu, dan makanlah apa yang ada di dekatmu."
     },
     {
-      "title": "Kitab Aqiqah",
-      "titleArabic": "كِتَابُ الْعَقِيقَةِ",
-      "arabic": "بَابُ إِمَاطَةِ الْأَذَى عَنِ الْغُلَامِ فِي الْعَقِيقَةِ، وَمَا يُذْبَحُ عَنِ الْغُلَامِ وَالْجَارِيَةِ.",
-      "translation": "Bab menghilangkan kotoran dari bayi saat aqiqah, dan apa yang disembelih untuk anak laki-laki dan anak perempuan."
-    },
-    {
-      "title": "Kitab Sembelihan dan Berburu",
-      "titleArabic": "كِتَابُ الذَّبَائِحِ وَالصَّيْدِ",
-      "arabic": "بَابُ التَّسْمِيَةِ عَلَى الصَّيْدِ، وَمَا جَاءَ فِي ذَبَائِحِ أَهْلِ الْكِتَابِ.",
-      "translation": "Bab membaca basmalah saat berburu, dan apa yang datang mengenai sembelihan Ahli Kitab."
-    },
-    {
-      "title": "Kitab Kurban",
-      "titleArabic": "كِتَابُ الْأَضَاحِي",
-      "arabic": "بَابُ سُنَّةِ الْأُضْحِيَّةِ، وَمَا يُسْتَحَبُّ مِنَ الْإِبِلِ وَالْبَقَرِ وَالْغَنَمِ.",
-      "translation": "Bab sunnah berkurban, dan apa yang disukai dari unta, sapi, dan kambing."
-    },
-    {
-      "title": "Kitab Minuman",
-      "titleArabic": "كِتَابُ الْأَشْرِبَةِ",
-      "arabic": "بَابُ قَوْلِ اللَّهِ تَعَالَى: {إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ... رِجْسٌ مِنْ عَمَلِ الشَّيْطَانِ}، وَمَا كَانَ مِنَ الْخَمْرِ.",
-      "translation": "Bab firman Allah Ta'ala: 'Sesungguhnya khamar dan judi... adalah keji dari perbuatan setan', dan apa saja yang termasuk khamar."
-    },
-    {
-      "title": "Kitab Penyakit dan Pengobatan",
-      "titleArabic": "كِتَابُ الْمَرْضَى وَالطِّبِّ",
-      "arabic": "بَابُ مَا جَاءَ فِي كَفَّارَةِ الْمَرِيضِ، وَالدَّوَاءِ بِالْعَسَلِ وَالْحَبَّةِ السَّوْدَاءِ.",
-      "translation": "Bab tentang apa yang datang mengenai penggugur dosa bagi orang sakit, serta pengobatan dengan madu dan jintan hitam."
+      "title": "Kitab Sumpah dan Nadzar",
+      "titleArabic": "كِتَابُ الْأَيْمَانِ وَالنُّذُورِ",
+      "arabic": "بَابُ كَيْفَ كَانَتْ يَمِينُ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ. لَا وَمُقَلِّبِ الْقُلُوبِ.",
+      "translation": "Bab bagaimana sumpah Nabi SAW. Beliau sering bersumpah: 'Tidak, demi Dzat yang membolak-balikkan hati'."
     },
     {
       "title": "Kitab Adab (Etika)",
       "titleArabic": "كِتَابُ الْأَدَبِ",
-      "arabic": "بَابُ بِرِّ الْوَالِدَيْنِ، وَصِلَةِ الرَّحِمِ، وَمَا يُنْهَى عَنْهُ مِنَ السَّبِّ وَاللَّعْنِ.",
-      "translation": "Bab berbakti kepada orang tua, menyambung silaturahmi, dan apa yang dilarang dari mencela dan melaknat."
+      "arabic": "بَابُ بِرِّ الْوَالِدَيْنِ، وَقَوْلِ اللَّهِ تَعَالَى: (وَوَصَّيْنَا الْإِنْسَانَ بِوَالِدَيْهِ حُسْنًا). مَنْ أَحَقُّ النَّاسِ بِحُسْنِ صَحَابَتِي؟ قَالَ: أُمُّكَ.",
+      "translation": "Bab Berbakti kepada orang tua. 'Dan Kami wasiatkan kepada manusia agar berbuat baik kepada orang tuanya'. Siapakah orang yang paling berhak aku pergauli dengan baik? Nabi menjawab: Ibumu."
     },
     {
-      "title": "Kitab Doa",
-      "titleArabic": "كِتَابُ الدَّعَوَاتِ",
-      "arabic": "بَابُ فَضْلِ الدُّعَاءِ، وَقَوْلِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: لِكُلِّ نَبِيٍّ دَعْوَةٌ مُسْتَجَابَةٌ.",
-      "translation": "Bab keutamaan doa, dan sabda Nabi SAW: 'Bagi setiap nabi ada doa yang mustajab (pasti dikabulkan)'."
+      "title": "Kitab Doa-doa",
+      "titleArabic": "كِتَابُ الدَّعَوَاتِ",
+      "arabic": "بَابُ لِكُلِّ نَبِيٍّ دَعْوَةٌ مُسْتَجَابَةٌ. فَإِنِّي اخْتَبَأْتُ دَعْوَتِي شَفَاعَةً لِأُمَّتِي يَوْمَ الْقِيَامَةِ.",
+      "translation": "Bab Setiap Nabi memiliki doa yang mustajab. Dan sesungguhnya aku menyimpan doaku sebagai syafaat bagi umatku di hari kiamat."
     },
     {
       "title": "Kitab Ar-Riqaq (Pelembut Hati)",
-      "titleArabic": "كِتَابُ الرِّقَاقِ",
-      "arabic": "بَابُ مَا جَاءَ فِي الصِّحَّةِ وَالْفَرَاغِ، وَأَنْ لَا عَيْشَ إِلَّا عَيْشُ الْآخِرَةِ.",
-      "translation": "Bab tentang apa yang datang mengenai kesehatan dan waktu luang, serta bahwa tidak ada kehidupan sejati kecuali kehidupan akhirat."
-    },
-    {
-      "title": "Kitab Qadar (Takdir)",
-      "titleArabic": "كِتَابُ الْقَدَرِ",
-      "arabic": "بَابُ فِي الْقَدَرِ، وَقَوْلِ اللَّهِ تَعَالَى: {وَكَانَ أَمْرُ اللَّهِ قَدَرًا مَقْدُورًا}",
-      "translation": "Bab tentang Takdir, dan firman Allah Ta'ala: 'Dan ketetapan Allah itu adalah suatu ketetapan yang pasti berlaku'."
-    },
-    {
-      "title": "Kitab Sumpah dan Nadzar",
-      "titleArabic": "كِتَابُ الْأَيْمَانِ وَالنُّذُورِ",
-      "arabic": "بَابُ السَّمْعِ وَالطَّاعَةِ، وَمَا جَاءَ فِي كَفَّارَةِ الْيَمِينِ.",
-      "translation": "Bab mendengar dan taat, serta apa yang datang mengenai denda (kafarat) sumpah."
-    },
-    {
-      "title": "Kitab Warisan",
-      "titleArabic": "كِتَابُ الْفَرَائِضِ",
-      "arabic": "بَابُ تَعْلِيمِ الْفَرَائِضِ، وَمَا جَاءَ فِي مِيرَاثِ الْوَلَدِ وَالْوَالِدَيْنِ.",
-      "translation": "Bab mengajarkan ilmu waris, dan apa yang datang mengenai warisan anak dan kedua orang tua."
-    },
-    {
-      "title": "Kitab Hudud (Hukuman Pidana)",
-      "titleArabic": "كِتَابُ الْحُدُودِ",
-      "arabic": "بَابُ رَجْمِ الْمُحْصَنِ، وَمَا جَاءَ فِي حَدِّ السَّارِقِ.",
-      "translation": "Bab rajam bagi pezina muhshan, dan apa yang datang mengenai hukuman bagi pencuri."
-    },
-    {
-      "title": "Kitab Fitnah (Ujian Akhir Zaman)",
-      "titleArabic": "كِتَابُ الْفِتَنِ",
-      "arabic": "بَابُ مَا جَاءَ فِي قَوْلِ اللَّهِ تَعَالَى: {وَاتَّقُوا فِتْنَةً لَا تُصِيبَنَّ الَّذِينَ ظَلَمُوا مِنْكُمْ خَاصَّةً}",
-      "translation": "Bab apa yang datang dalam firman Allah Ta'ala: 'Dan peliharalah dirimu dari siksaan yang tidak hanya menimpa orang-orang yang zhalim saja di antara kamu'."
+      "titleArabic": "كِتَابُ الرِّقَاقِ",
+      "arabic": "بَابُ مَا جَاءَ فِي الصِّحَّةِ وَالْفَرَاغِ. نِعْمَتَانِ مَغْبُونٌ فِيهِمَا كَثِيرٌ مِنَ النَّاسِ: الصِّحَّةُ وَالْفَرَاغُ.",
+      "translation": "Bab tentang kesehatan dan waktu luang. Ada dua nikmat yang banyak manusia tertipu di dalamnya: Kesehatan dan waktu luang."
     },
     {
       "title": "Kitab Tauhid",
-      "titleArabic": "كِتَابُ التَّوْحِيدِ",
-      "arabic": "بَابُ مَا جَاءَ فِي دُعَاءِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أُمَّتَهُ إِلَى تَوْحِيدِ اللَّهِ عَزَّ وَجَلَّ.",
-      "translation": "Bab apa yang datang mengenai seruan Nabi SAW kepada umatnya menuju tauhid kepada Allah Azza wa Jalla."
+      "titleArabic": "كِتَابُ التَّوْحِيدِ",
+      "arabic": "بَابُ مَا جَاءَ فِي دُعَاءِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أُمَّتَهُ إِلَى تَوْحِيدِ اللَّهِ تَعَالَى. فَلْيَكُنْ أَوَّلَ مَا تَدْعُوهُمْ إِلَيْهِ شَهَادَةُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ.",
+      "translation": "Bab tentang ajakan Nabi SAW kepada umatnya menuju Tauhid (mengesakan Allah). Hendaklah hal pertama yang engkau serukan kepada mereka adalah kesaksian bahwa tidak ada Tuhan selain Allah."
     },
     {
-      "title": "Penutup Kitab (Khatimah)",
+      "title": "Khatimah (Penutup)",
       "titleArabic": "خَاتِمَةُ الْكِتَابِ",
-      "arabic": "قَالَ الْمُؤَلِّفُ رَحِمَهُ اللَّهُ: هَذَا آخِرُ مَا قَصَدْتُ لَهُ فِي هَذَا الشَّرْحِ، وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ، حَمْدًا كَثِيرًا طَيِّبًا مُبَارَكًا فِيهِ.",
-      "translation": "Penulis berkata -semoga Allah merahmatinya-: Ini adalah bagian akhir dari apa yang aku tuju dalam penjelasan (syarh) ini, dan segala puji bagi Allah Rabb semesta alam, pujian yang banyak, baik, dan diberkahi di dalamnya."
+      "arabic": "بَابُ قَوْلِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: كَلِمَتَانِ حَبِيبَتَانِ إِلَى الرَّحْمَنِ، خَفِيفَتَانِ عَلَى اللِّسَانِ، ثَقِيلَتَانِ فِي الْمِيزَانِ: سُبْحَانَ اللَّهِ وَبِحَمْدِهِ، سُبْحَانَ اللَّهِ الْعَظِيمِ.",
+      "translation": "Bab Sabda Nabi SAW: Dua kalimat yang dicintai Ar-Rahman, ringan di lisan, namun berat di timbangan: Subhanallahi wa bihamdihi, Subhanallahil 'Azhim (Maha Suci Allah dengan segala puji bagi-Nya, Maha Suci Allah yang Maha Agung)."
     }
   ]
 }
