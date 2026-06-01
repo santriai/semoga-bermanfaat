@@ -1,0 +1,308 @@
+{
+  "profile": {
+    "name": "Hukum Menggadaikan Kendaraan dan Pemanfaatannya",
+    "originalTitle": "تَنْوِيْرُ الْأَذْهَانِ فِي أَحْكَامِ الرَّهْنِ وَالِانْتِفَاعِ بِالْمَرْهُوْنِ",
+    "author": "Syaikh al-Muhaqqiq Muhammad al-Anshari al-Faqih",
+    "field": "Fiqh Muamalah (Ekonomi Syariah)",
+    "about": "Kitab ini merupakan risalah mendalam yang membahas khusus tentang bab gadai (Ar-Rahn) dalam madzhab Syafi'i, dengan fokus kontemporer pada penggunaan aset yang digadaikan. Penulis menguraikan syarat-syarat sahnya gadai, hak-hak kreditur dan debitur, serta batasan syariat dalam mengambil manfaat dari barang jaminan. Kitab ini sangat krusial bagi santri dan akademisi untuk memahami batasan antara transaksi tolong-menolong dan praktek riba tersembunyi. Pembahasan di dalamnya mencakup analisis teks klasik yang dikontekstualisasikan dengan alat transportasi modern (kendaraan).",
+    "authorBorn": "1342 H / 1924 M",
+    "authorDied": "1410 H / 1989 M",
+    "authorCentury": "Abad ke-14 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah (Pembukaan)",
+      "titleArabic": "المُقَدِّمَةُ",
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ. الْحَمْدُ لِلَّهِ الَّذِي أَحَلَّ الْبَيْعَ وَحَرَّمَ الرِّبَا، وَالصَّلَاةُ وَالسَّلَامُ عَلَى سَيِّدِنَا مُحَمَّدٍ خَيْرِ الْوَرَى، وَعَلَى آلِهِ وَصَحْبِهِ أُولِي التُّقَى. أَمَّا بَعْدُ، فَهَذِهِ رِسَالَةٌ فِي أَحْكَامِ الرَّهْنِ.",
+      "translation": "Dengan menyebut nama Allah yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah yang menghalalkan jual beli dan mengharamkan riba. Shalawat dan salam semoga tercurah kepada junjungan kita Nabi Muhammad, sebaik-baiknya manusia, dan kepada keluarganya serta sahabatnya yang bertakwa. Amma Ba'du, ini adalah sebuah risalah mengenai hukum-hukum gadai."
+    },
+    {
+      "title": "Definisi Gadai (Ar-Rahn) secara Bahasa",
+      "titleArabic": "تَعْرِيْفُ الرَّهْنِ لُغَةً",
+      "arabic": "الرَّهْنُ فِي اللُّغَةِ هُوَ الثُّبُوتُ وَالدَّوَامُ، وَيُقَالُ نِعْمَةٌ رَاهِنَةٌ أَيْ ثَابِتَةٌ، وَقِيْلَ هُوَ الْحَبْسُ.",
+      "translation": "Rahn (gadai) secara bahasa berarti tetap dan kekal. Dikatakan 'Ni'mah Rahinah' artinya nikmat yang tetap. Ada pula yang mengatakan maknanya adalah menahan (al-habsu)."
+    },
+    {
+      "title": "Definisi Gadai secara Syara'",
+      "titleArabic": "تَعْرِيْفُ الرَّهْنِ شَرْعًا",
+      "arabic": "وَشَرْعًا جَعْلُ عَيْنٍ مَالِيَّةٍ وَثِيقَةً بِدَيْنٍ يُسْتَوْفَى مِنْهَا عِنْدَ تَعَذُّرِ وَفَائِهِ.",
+      "translation": "Secara syara', gadai adalah menjadikan aset harta sebagai jaminan atas hutang, yang mana hutang tersebut dapat dilunasi dari (penjualan) aset tersebut ketika terjadi kesulitan dalam pelunasan."
+    },
+    {
+      "title": "Dalil Pensyariatan Gadai dari Al-Qur'an",
+      "titleArabic": "أَصْلُ الرَّهْنِ مِنَ الْقُرْآنِ",
+      "arabic": "قَوْلُهُ تَعَالَى: فَرِهَانٌ مَقْبُوضَةٌ.",
+      "translation": "Firman Allah Ta'ala: 'Maka hendaklah ada barang tanggungan yang dipegang' (QS. Al-Baqarah: 283)."
+    },
+    {
+      "title": "Dalil Pensyariatan Gadai dari As-Sunnah",
+      "titleArabic": "أَصْلُ الرَّهْنِ مِنَ السُّـنَّةِ",
+      "arabic": "مَا رُوِيَ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ رَهَنَ دِرْعَهُ عِنْدَ يَهُودِيٍّ بِثَلَاثِينَ صَاعًا مِنْ شَعِيرٍ.",
+      "translation": "Diriwayatkan bahwa Nabi SAW menggadaikan baju besinya kepada seorang Yahudi dengan imbalan tiga puluh sha' gandum."
+    },
+    {
+      "title": "Rukun-Rukun Gadai",
+      "titleArabic": "أَرْكَانُ الرَّهْنِ",
+      "arabic": "أَرْكَانُهُ أَرْبَعَةٌ: مَرْهُونٌ، وَمَرْهُونٌ بِهِ، وَرَاهِنٌ، وَمُرْتَهِنٌ، وَصِيغَةٌ.",
+      "translation": "Rukun gadai ada empat (sebagian menghitung lima): Barang gadaian (marhun), hutang (marhun bih), penggadai (rahin), penerima gadai (murtahin), dan Shighat (ijab qabul)."
+    },
+    {
+      "title": "Syarat Shighat (Ijab dan Qabul)",
+      "titleArabic": "شُرُوْطُ الصِّيْغَةِ",
+      "arabic": "يُشْتَرَطُ فِي الصِّيغَةِ مَا يُشْتَرَطُ فِي الْبَيْعِ مِنْ عَدَمِ التَّأْقِيتِ وَالتَّعْلِيقِ.",
+      "translation": "Dalam shighat disyaratkan hal-hal yang disyaratkan dalam jual beli, yaitu tidak boleh dibatasi waktu tertentu dan tidak boleh digantungkan pada syarat lain (taliq)."
+    },
+    {
+      "title": "Syarat Penggadai (Rahin) dan Penerima Gadai (Murtahin)",
+      "titleArabic": "شُرُوْطُ الرَّاهِنِ وَالْمُرْتَهِنِ",
+      "arabic": "أَنْ يَكُونَا أَهْلًا لِلتَّبَرُّعِ، فَلَا يَصِحُّ مِنْ صَبِيٍّ وَلَا مَجْنُونٍ.",
+      "translation": "Keduanya haruslah orang yang cakap melakukan tindakan hukum (ahliyah at-tabarru'), maka tidak sah gadai dari anak kecil maupun orang gila."
+    },
+    {
+      "title": "Syarat Barang yang Digadaikan (Marhun)",
+      "titleArabic": "شُرُوْطُ الْمَرْهُوْنِ",
+      "arabic": "كُلُّ مَا جَازَ بَيْعُهُ جَازَ رَهْنُهُ، فَلَا يَصِحُّ رَهْنُ الْخَمْرِ وَالْخِنْزِيرِ.",
+      "translation": "Setiap barang yang boleh dijual, boleh digadaikan. Maka tidak sah menggadaikan khamr atau babi."
+    },
+    {
+      "title": "Hukum Menggadaikan Kendaraan (Mobil/Motor)",
+      "titleArabic": "حُكْمُ رَهْنِ الْمَرْكُوْبَاتِ وَالسَّيَّارَاتِ",
+      "arabic": "تَصِحُّ رَهْنُ السَّيَّارَةِ لِأَنَّهَا عَيْنٌ مَالِيَّةٌ مَعْلُومَةٌ يُمْكِنُ بَيْعُهَا لِاسْتِيفَاءِ الدَّيْنِ.",
+      "translation": "Sah hukumnya menggadaikan mobil karena ia adalah aset harta yang jelas yang memungkinkan untuk dijual demi melunasi hutang."
+    },
+    {
+      "title": "Syarat Hutang yang Dijamin (Marhun Bih)",
+      "titleArabic": "شُرُوْطُ الْمَرْهُوْنِ بِهِ",
+      "arabic": "أَنْ يَكُونَ دَيْنًا ثَابِتًا فِي الذِّمَّةِ.",
+      "translation": "Hutang tersebut harus merupakan hutang yang sudah tetap berada dalam tanggungm jawab (dzimmah)."
+    },
+    {
+      "title": "Kapan Kontrak Gadai Menjadi Mengikat (Luzum)",
+      "titleArabic": "لُزُوْمُ عَقْدِ الرَّهْنِ",
+      "arabic": "لَا يَلْزَمُ الرَّهْنُ إِلَّا بِالْقَبْضِ بِإِذْنِ الرَّاهِنِ.",
+      "translation": "Kontrak gadai tidak menjadi mengikat (luzum) kecuali setelah adanya serah terima (qabdh) dengan izin dari penggadai."
+    },
+    {
+      "title": "Hak Milik Barang Gadaian",
+      "titleArabic": "مِلْكِيَّةُ الْمَرْهُوْنِ",
+      "arabic": "الْمَرْهُونُ مِلْكٌ لِلرَّاهِنِ، لَا يَخْرُجُ عَنْ مِلْكِهِ بِعَقْدِ الرَّهْنِ.",
+      "translation": "Barang gadaian tetap menjadi milik penggadai (rahin), tidak keluar dari kepemilikannya hanya karena kontrak gadai."
+    },
+    {
+      "title": "Hukum Memanfaatkan Barang Gadai (Prinsip Umum)",
+      "titleArabic": "حُكْمُ الِانْتِفَاعِ بِالْمَرْهُوْنِ",
+      "arabic": "الْأَصْلُ أَنَّ مَنَافِعَ الْمَرْهُونِ لِلرَّاهِنِ لِأَنَّهُ الْمَالِكُ، وَلَكِنْ بِشُرُوطٍ.",
+      "translation": "Hukum asalnya adalah manfaat barang gadaian adalah milik penggadai (rahin) karena dialah pemiliknya, namun dengan syarat-syarat tertentu."
+    },
+    {
+      "title": "Bolehkah Penggadai (Rahin) Memakai Mobil yang Digadaikan?",
+      "titleArabic": "هَلْ يَجُوْزُ لِلرَّاهِنِ اسْتِعْمَالُ السَّيَّارَةِ؟",
+      "arabic": "يَجُوزُ لِلرَّاهِنِ الِانْتِفَاعُ بِالْمَرْهُونِ إِذَا لَمْ يَضُرَّ بِالْمُرْتَهِنِ وَلَمْ يُنْقِصْ قِيمَتَهُ.",
+      "translation": "Boleh bagi penggadai memanfaatkan barang gadaian jika tidak membahayakan (hak) penerima gadai dan tidak mengurangi nilai barang tersebut."
+    },
+    {
+      "title": "Syarat Penggunaan Mobil oleh Penggadai",
+      "titleArabic": "شَرْطُ انْتِفَاعِ الرَّاهِنِ",
+      "arabic": "يُشْتَرَطُ أَنْ لَا يُؤَدِّيَ الِاسْتِعْمَالُ إِلَى هَلَاكِ الْعَيْنِ أَوْ نُقْصَانِ ثَمَنِهَا نُقْصَانًا فَاحِشًا.",
+      "translation": "Disyaratkan bahwa penggunaan tersebut tidak boleh menyebabkan rusaknya fisik barang atau penurunan harga yang sangat drastis."
+    },
+    {
+      "title": "Hukum Penerima Gadai (Murtahin) Menggunakan Mobil",
+      "titleArabic": "حُكْمُ انْتِفَاعِ الْمُرْتَهِنِ بِالْمَرْهُوْنِ",
+      "arabic": "لَا يَجُوزُ لِلْمُرْتَهِنِ أَنْ يَنْتَفِعَ بِالْمَرْهُونِ بِغَيْرِ إِذْنِ الرَّاهِنِ، وَإِنْ أَذِنَ فَقَدْ يَكُونُ رِبًا.",
+      "translation": "Tidak boleh bagi penerima gadai menggunakan barang gadaian tanpa izin penggadai, dan jika diizinkan pun, hal itu berpotensi menjadi riba."
+    },
+    {
+      "title": "Larangan Riba dalam Manfaat Gadai",
+      "titleArabic": "الرِّبَا فِي مَنَافِعِ الرَّهْنِ",
+      "arabic": "كُلُّ قَرْضٍ جَرَّ مَنْفَعَةً فَهُوَ رِبًا. فَإِذَا اشْتَرَطَ الْمُرْتَهِنُ نَفْعَ السَّيَّارَةِ فَهُوَ حَرَامٌ إِجْمَاعًا.",
+      "translation": "Setiap hutang yang menarik manfaat maka itu adalah riba. Jika penerima gadai mensyaratkan penggunaan mobil (sebagai imbalan pinjaman), maka hukumnya haram berdasarkan ijma'."
+    },
+    {
+      "title": "Penggunaan Mobil oleh Murtahin dengan Izin (Tanpa Syarat)",
+      "titleArabic": "اسْتِعْمَالُ الْمُرْتَهِنِ بِالْإِذْنِ دُوْنَ شَرْطٍ",
+      "arabic": "إِذَا أَذِنَ الرَّاهِنُ لِلْمُرْتَهِنِ بِالِانْتِفَاعِ بَعْدَ الْعَقْدِ مِنْ غَيْرِ شَرْطٍ سَابِقٍ، جَازَ عِنْدَ بَعْضِهِمْ وَكُرِهَ عِنْدَ آخَرِينَ حَذَرًا مِنَ الرِّبَا.",
+      "translation": "Jika penggadai mengizinkan penerima gadai memanfaatkan barang setelah akad tanpa ada syarat sebelumnya, sebagian ulama membolehkan dan sebagian lain memakruhkannya demi menjaga diri dari riba."
+    },
+    {
+      "title": "Biaya Perawatan Mobil yang Digadaikan (Nafaqah)",
+      "titleArabic": "نَفَقَةُ الْمَرْهُوْنِ",
+      "arabic": "نَفَقَةُ الْمَرْهُونِ عَلَى مَالِكِهِ وَهُوَ الرَّاهِنُ، كَمَصَارِيفِ الْإِصْلَاحِ وَالتَّأْمِينِ.",
+      "translation": "Biaya perawatan barang gadaian ditanggung oleh pemiliknya yaitu penggadai, seperti biaya perbaikan dan asuransi."
+    },
+    {
+      "title": "Biaya Penyimpanan (Ujrah al-Hifdz)",
+      "titleArabic": "مُؤْنَةُ الْحِفْظِ",
+      "arabic": "مُؤْنَةُ الْحِفْظِ (كَمَكَانِ الْجَرَّاجِ) تَكُونُ عَلَى الْمُرْتَهِنِ فِي أَصَحِّ الْقَوْلَيْنِ لِأَنَّهُ لِمَصْلَحَتِهِ.",
+      "translation": "Biaya penyimpanan (seperti biaya garasi) ditanggung oleh penerima gadai menurut pendapat yang paling shahih karena itu demi kepentingannya (menjaga jaminan)."
+    },
+    {
+      "title": "Jika Mobil Rusak di Tangan Penerima Gadai",
+      "titleArabic": "هَلَاكُ الْمَرْهُوْنِ فِي يَدِ الْمُرْتَهِنِ",
+      "arabic": "الْمَرْهُونُ أَمَانَةٌ فِي يَدِ الْمُرْتَهِنِ، فَلَا يَضْمَنُ إِلَّا بِالتَّعَدِّي أَوْ التَّفْرِيطِ.",
+      "translation": "Barang gadaian adalah amanah di tangan penerima gadai, maka ia tidak wajib mengganti kecuali jika terjadi pelanggaran atau kelalaian."
+    },
+    {
+      "title": "Definisi Kelalaian (Tafriith) pada Kendaraan",
+      "titleArabic": "تَعْرِيْفُ التَّفْرِيْطِ فِي السَّيَّارَةِ",
+      "arabic": "التَّفْرِيطُ كَتَرْكِ السَّيَّارَةِ مَفْتُوحَةً فِي مَكَانٍ غَيْرِ آمِنٍ.",
+      "translation": "Kelalaian misalnya meninggalkan mobil dalam keadaan tidak terkunci di tempat yang tidak aman."
+    },
+    {
+      "title": "Gadai Barang yang Bisa Beranak/Berbuah",
+      "titleArabic": "نَمَاءُ الْمَرْهُوْنِ",
+      "arabic": "نَمَاءُ الْمَرْهُونِ الْمُتَّصِلُ يَتْبَعُهُ فِي الرَّهْنِ، وَالْمُنْفَصِلُ لِلرَّاهِنِ.",
+      "translation": "Pertumbuhan barang gadaian yang bersambung (seperti gemuknya hewan) mengikuti status gadai, sedangkan yang terpisah (seperti anak hewan) adalah milik penggadai."
+    },
+    {
+      "title": "Hukum Menyewakan Mobil yang Digadaikan",
+      "titleArabic": "إِجَارَةُ الْمَرْهُوْنِ",
+      "arabic": "لَا يَجُوزُ لِأَحَدِهِمَا إِجَارَةُ الْمَرْهُونِ إِلَّا بِإِذْنِ الْآخَرِ.",
+      "translation": "Tidak boleh bagi salah satu dari keduanya menyewakan barang gadaian kecuali dengan izin pihak lainnya."
+    },
+    {
+      "title": "Jika Mobil Disewakan, Milik Siapakah Uangnya?",
+      "titleArabic": "أُجْرَةُ الْمَرْهُوْنِ لِمَنْ؟",
+      "arabic": "أُجْرَةُ الْمَرْهُونِ لِلرَّاهِنِ لِأَنَّهَا نَمَاءٌ مُنْفَصِلٌ عَنْ مِلْكِهِ.",
+      "translation": "Uang sewa barang gadaian adalah milik penggadai karena itu merupakan pertumbuhan yang terpisah dari hak miliknya."
+    },
+    {
+      "title": "Menjual Barang Gadai untuk Bayar Hutang",
+      "titleArabic": "بَيْعُ الْمَرْهُوْنِ لِوَفَاءِ الدَّيْنِ",
+      "arabic": "إِذَا حَلَّ الدَّيْنُ وَامْتَنَعَ الرَّاهِنُ عَنْ الْقَضَاءِ، بِيعَ الْمَرْهُونُ بِإِذْنِ الْحَاكِمِ.",
+      "translation": "Jika hutang telah jatuh tempo dan penggadai enggan melunasi, maka barang gadaian dijual dengan izin hakim (otoritas)."
+    },
+    {
+      "title": "Kelebihan Uang Penjualan Mobil",
+      "titleArabic": "فَاضِلُ ثَمَنِ الْمَرْهُوْنِ",
+      "arabic": "إِذَا بِيعَ الْمَرْهُونُ وَزَادَ ثَمَنُهُ عَنِ الدَّيْنِ، فَالزِّيَادَةُ لِلرَّاهِنِ.",
+      "translation": "Jika barang gadaian dijual dan harganya melebihi nilai hutang, maka kelebihannya dikembalikan kepada penggadai."
+    },
+    {
+      "title": "Kekurangan Uang Penjualan Mobil",
+      "titleArabic": "نُقْصَانُ ثَمَنِ الْمَرْهُوْنِ",
+      "arabic": "إِذَا لَمْ يَفِ الثَّمَنُ بِالدَّيْنِ، بَقِيَ الْبَاقِي دَيْنًا مُرْسَلًا فِي ذِمَّةِ الرَّاهِنِ.",
+      "translation": "Jika harga jual tidak mencukupi untuk melunasi hutang, maka sisanya tetap menjadi hutang biasa dalam tanggung jawab penggadai."
+    },
+    {
+      "title": "Hukum Menggadaikan Mobil kepada Dua Orang",
+      "titleArabic": "رَهْنُ الْعَيْنِ عِنْدَ رَجُلَيْنِ",
+      "arabic": "يَصِحُّ رَهْنُ السَّيَّارَةِ الْوَاحِدَةِ عِنْدَ رَجُلَيْنِ بِدَيْنَيْنِ مُخْتَلِفَيْنِ.",
+      "translation": "Sah hukumnya menggadaikan satu mobil kepada dua orang untuk dua hutang yang berbeda (dengan kesepakatan)."
+    },
+    {
+      "title": "Perselisihan Mengenai Nilai Hutang",
+      "titleArabic": "الِاخْتِلَافُ فِي قَدْرِ الدَّيْنِ",
+      "arabic": "إِذَا اخْتَلَفَا فِي قَدْرِ الدَّيْنِ، فَالْقَوْلُ قَوْلُ الرَّاهِنِ بِيَمِينِهِ.",
+      "translation": "Jika keduanya berselisih mengenai jumlah hutang, maka yang dimenangkan adalah perkataan penggadai disertai sumpah."
+    },
+    {
+      "title": "Hukum Meminjam Barang Gadai",
+      "titleArabic": "إِعَارَةُ الْمَرْهُوْنِ",
+      "arabic": "يَصِحُّ لِلْمُرْتَهِنِ أَنْ يُعِيْرَ الْمَرْهُونَ لِلرَّاهِنِ لِلِانْتِفَاعِ بِهِ ثُمَّ يَرُدُّهُ.",
+      "translation": "Sah bagi penerima gadai meminjamkan barang gadaian kepada penggadai untuk dimanfaatkan lalu dikembalikan lagi."
+    },
+    {
+      "title": "Status Gadai saat Dipinjam Rahin",
+      "titleArabic": "حُكْمُ الرَّهْنِ حَالَ الْإِعَارَةِ",
+      "arabic": "إِذَا اسْتَعَارَ الرَّاهِنُ الْمَرْهُونَ لَا يَبْطُلُ الرَّهْنُ عِنْدَ الْأَصَحِّ.",
+      "translation": "Jika penggadai meminjam barang gadaian (yang sedang ditahan), maka akad gadai tidak batal menurut pendapat yang paling shahih."
+    },
+    {
+      "title": "Pemanfaatan Mobil Berdasarkan Hadits 'Rukub'",
+      "titleArabic": "الِانْتِفَاعُ بِحَدِيْثِ الرُّكُوْبِ",
+      "arabic": "قَوْلُهُ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: الظَّهْرُ يُرْكَبُ بِنَفَقَتِهِ إِذَا كَانَ مَرْهُونًا.",
+      "translation": "Sabda Nabi SAW: 'Hewan tunggangan boleh dikendarai dengan imbalan biaya perawatannya apabila sedang digadaikan'."
+    },
+    {
+      "title": "Penjelasan Hadits Rukub Menurut Syafi'iyyah",
+      "titleArabic": "تَفْسِيْرُ حَدِيْثِ الرُّكُوْبِ عِنْدَ الشَّافِعِيَّةِ",
+      "arabic": "الْمُرَادُ أَنَّ الْمُرْتَهِنَ يَرْكَبُ بِإِذْنِ الرَّاهِنِ مُقَابِلَ النَّفَقَةِ لَا مَجَّانًا.",
+      "translation": "Maksudnya adalah penerima gadai boleh mengendarai (mobil) dengan izin penggadai sebagai kompensasi atas biaya perawatan yang ia keluarkan, bukan gratis."
+    },
+    {
+      "title": "Pemanfaatan yang Merusak Mesin",
+      "titleArabic": "الِانْتِفَاعُ الْمُضِرُّ بِالْمُحَرِّكِ",
+      "arabic": "يُمْنَعُ الِانْتِفَاعُ الَّذِي يُؤَدِّي إِلَى تَعْطِيْلِ الْمُحَرِّكِ أَوْ نَقْصِ قُوَّتِهِ.",
+      "translation": "Dilarang pemanfaatan yang menyebabkan kerusakan mesin atau penurunan performanya secara signifikan."
+    },
+    {
+      "title": "Gadai Mobil dalam Perjalanan",
+      "titleArabic": "الرَّهْنُ فِي السَّفَرِ",
+      "arabic": "يَجُوزُ الرَّهْنُ فِي السَّفَرِ وَالْحَضَرِ عَلَى السَّوَاءِ.",
+      "translation": "Gadai diperbolehkan baik dalam keadaan bepergian maupun dalam keadaan menetap (di rumah)."
+    },
+    {
+      "title": "Bolehkah Mengganti Barang Gadai dengan Mobil Lain?",
+      "titleArabic": "اسْتِبْدَالُ الْمَرْهُوْنِ",
+      "arabic": "يَجُوزُ اسْتِبْدَالُ الْمَرْهُونِ بِتَرِاضِي الطَّرَفَيْنِ.",
+      "translation": "Boleh mengganti barang gadaian (dengan aset lain yang senilai) atas keridhaan kedua belah pihak."
+    },
+    {
+      "title": "Status STNK dan BPKB dalam Gadai",
+      "titleArabic": "حُكْمُ الْأَوْرَاقِ الرَّسْمِيَّةِ",
+      "arabic": "الْأَوْرَاقُ التَّابِعَةُ لِلْمَرْكُوبِ تَتْبَعُهُ فِي الرَّهْنِ لِأَنَّهَا تُوَثِّقُهُ.",
+      "translation": "Surat-surat resmi kendaraan mengikuti status kendaraan dalam gadai karena surat tersebut merupakan penguat jaminan."
+    },
+    {
+      "title": "Gadai Mobil yang Masih Kredit",
+      "titleArabic": "رَهْنُ مَا لَمْ يَتِمَّ مِلْكُهُ",
+      "arabic": "لَا يَصِحُّ رَهْنُ مَا لَا يَمْلِكُهُ الرَّاهِنُ مِلْكًا تَامًّا.",
+      "translation": "Tidak sah menggadaikan sesuatu yang belum dimiliki secara sempurna oleh penggadai (seperti mobil yang belum lunas kreditnya tanpa izin leasing)."
+    },
+    {
+      "title": "Risiko Kecelakaan saat Mobil Dipakai Murtahin",
+      "titleArabic": "جِنَايَةُ الْمَرْهُوْنِ فِي يَدِ الْمُرْتَهِنِ",
+      "arabic": "إِذَا حَدَثَ حَادِثٌ بِتَقْصِيرِ الْمُرْتَهِنِ فَعَلَيْهِ الضَّمَانُ.",
+      "translation": "Jika terjadi kecelakaan karena kelalaian penerima gadai, maka ia wajib menanggung kerugian (dhaman)."
+    },
+    {
+      "title": "Larangan Syarat 'Barang Jadi Milik Murtahin'",
+      "titleArabic": "شَرْطُ مِلْكِيَّةِ الْمُرْتَهِنِ عِنْدَ الْعَجْزِ",
+      "arabic": "يَبْطُلُ شَرْطُ أَنَّ الْمَرْهُونَ يَكُونُ مِلْكًا لِلْمُرْتَهِنِ إِذَا لَمْ يُسَدَّدِ الدَّيْنُ.",
+      "translation": "Batal syarat yang menyatakan bahwa barang gadaian otomatis menjadi milik penerima gadai jika hutang tidak dilunasi (karena harus melalui proses jual)."
+    },
+    {
+      "title": "Pembayaran Hutang dengan Jasa",
+      "titleArabic": "قَضَاءُ الدَّيْنِ بِالْمَنَافِعِ",
+      "arabic": "يَجُوزُ لِلرَّاهِنِ أَنْ يَجْعَلَ مَنْفَعَةَ السَّيَّارَةِ قَضَاءً لِلدَّيْنِ بِاتِّفَاقٍ جَدِيدٍ.",
+      "translation": "Boleh bagi penggadai menjadikan manfaat mobil (seperti menyewakannya kepada murtahin) sebagai cicilan hutang dengan kesepakatan baru."
+    },
+    {
+      "title": "Gadai pada Lembaga Pegadaian",
+      "titleArabic": "الرَّهْنُ عِنْدَ الْمُؤَسَّسَاتِ",
+      "arabic": "يَجُوزُ التَّعَامُلُ مَعَ الْمُؤَسَّسَاتِ إِذَا خَلَتْ مِنَ الرِّبَا وَالظُّلْمِ.",
+      "translation": "Boleh bertransaksi dengan lembaga (perusahaan gadai) selama bersih dari unsur riba dan kezaliman."
+    },
+    {
+      "title": "Zakat Mobil yang Digadaikan",
+      "titleArabic": "زَكَاةُ الْمَرْهُوْنِ",
+      "arabic": "لَا زَكَاةَ فِي السَّيَّارَةِ الْمَرْهُونَةِ إِلَّا إِذَا كَانَتْ لِلتِّجَارَةِ، وَزَكَاتُهَا عَلَى الرَّاهِنِ.",
+      "translation": "Tidak ada zakat pada mobil yang digadaikan kecuali jika itu adalah barang dagangan, dan zakatnya ditanggung oleh penggadai."
+    },
+    {
+      "title": "Meninggalnya Penggadai",
+      "titleArabic": "مَوْتُ الرَّاهِنِ",
+      "arabic": "إِذَا مَاتَ الرَّاهِنُ لَا يَبْطُلُ الرَّهْنُ، وَيَقُومُ وَارِثُهُ مَقَامَهُ.",
+      "translation": "Jika penggadai meninggal dunia, gadai tidak batal, dan ahli warisnya menggantikan posisinya."
+    },
+    {
+      "title": "Meninggalnya Penerima Gadai",
+      "titleArabic": "مَوْتُ الْمُرْتَهِنِ",
+      "arabic": "إِذَا مَاتَ الْمُرْتَهِنُ انْتَقَلَ حَقُّ الْوَثِيقَةِ إِلَى وَرَثَتِهِ.",
+      "translation": "Jika penerima gadai meninggal dunia, hak jaminan berpindah kepada ahli warisnya."
+    },
+    {
+      "title": "Penutup: Pentingnya Kejujuran dalam Muamalah",
+      "titleArabic": "خَاتِمَةٌ فِي الصِّدْقِ فِي الْمُعَامَلَةِ",
+      "arabic": "فَعَلَى الْمُؤْمِنِ أَنْ يَتَّقِيَ اللَّهَ فِي جَمِيعِ تَصَرُّفَاتِهِ وَأَنْ يَبْتَعِدَ عَنْ شُبُهَاتِ الرِّبَا.",
+      "translation": "Maka bagi seorang mukmin hendaknya bertakwa kepada Allah dalam seluruh tindakannya dan menjauhi syubhat riba."
+    },
+    {
+      "title": "Doa Penutup",
+      "titleArabic": "دُعَاءُ الِاخْتِتَامِ",
+      "arabic": "نَسْأَلُ اللَّهَ الْعَفْوَ وَالْعَافِيَةَ وَتَمَامَ التَّوْفِيقِ لِمَا يُحِبُّهُ وَيَرْضَاهُ. وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ.",
+      "translation": "Kami memohon kepada Allah ampunan, keselamatan, dan kesempurnaan taufiq menuju apa yang Dia cintai dan ridhai. Segala puji bagi Allah, Tuhan semesta alam."
+    }
+  ]
+}
