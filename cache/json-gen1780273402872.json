@@ -1,0 +1,11 @@
+{
+  "question": "Dalam kajian Qiyas Istitsna'i (Syllogism of Exception) pada kitab-kitab Mantiq standar Aswaja seperti Sullam al-Munawaraq, jika kita memiliki premis Syartiyyah Muttashilah yang bersifat 'Luzumiyyah', prosedur manakah yang secara logis sah (valid) untuk menghasilkan kesimpulan (Intaj)?",
+  "options": [
+    "Mengecualikan (istitsna') kebalikan dari Tali (Naqidh al-Tali) untuk menghasilkan kebalikan dari Muqaddam (Naqidh al-Muqaddam).",
+    "Mengecualikan (istitsna') kebalikan dari Muqaddam (Naqidh al-Muqaddam) untuk menghasilkan kebalikan dari Tali (Naqidh al-Tali).",
+    "Mengecualikan (istitsna') keberadaan Tali ('Ain al-Tali) untuk menghasilkan keberadaan Muqaddam ('Ain al-Muqaddam).",
+    "Mengecualikan (istitsna') Muqaddam dan Tali secara bersamaan untuk menghasilkan natijah yang bersifat dharuri."
+  ],
+  "correctIndex": 0,
+  "explanation": "Dalam Qiyas Istitsna'i Muttashil, terdapat dua kaidah 'Intaj' yang valid: (1) 'Istitsna' 'Ain al-Muqaddam yuntij 'Ain al-Tali' (menerapkan sebab menghasilkan akibat), dan (2) 'Istitsna' Naqidh al-Tali yuntij Naqidh al-Muqaddam' (meniadakan akibat secara otomatis meniadakan sebab). Pilihan A benar karena jika akibat (lazim) tidak ada, maka sebab (malzum) mustahil ada. Sebaliknya, meniadakan sebab belum tentu meniadakan akibat karena bisa jadi ada sebab lain, dan menetapkan akibat belum tentu menetapkan satu sebab spesifik (Fallacy of affirming the consequent)."
+}
