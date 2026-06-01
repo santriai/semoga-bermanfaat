@@ -1,0 +1,326 @@
+{
+  "profile": {
+    "name": "Kasyifat al-Saja",
+    "originalTitle": "كَاشِفَةُ السَّجَا شَرْحُ سَفِيْنَةِ النَّجَا",
+    "author": "Syekh Nawawi al-Bantani (Muhammad bin Umar bin Arabi al-Bantani)",
+    "field": "Fiqih Madzhab Syafi'i & Ilmu Tawhid",
+    "about": "Kitab Kasyifat al-Saja merupakan syarah (penjelasan mendalam) atas kitab Safinatun Najah karya Syekh Salim bin Sumair al-Hadhrami. Kitab ini merupakan literatur wajib di pondok pesantren Indonesia yang menguraikan hukum-hukum dasar Islam mulai dari dasar keimanan hingga rukun-rukun ibadah harian. Syekh Nawawi memberikan penjelasan komprehensif dengan menyisipkan dalil-dalil Al-Qur'an, Hadits, serta pendapat muktamad dari ulama muta'akhirin Syafi'iyyah. Struktur pembahasannya sangat sistematis, dimulai dari Ushuluddin (Dasar Agama) lalu beralih ke Furu'iyyah (Hukum Fiqih) meliputi thaharah, shalat, jenazah, zakat, dan puasa.",
+    "authorBorn": "Tanara, Banten, 1813 M",
+    "authorDied": "Makkah, 1897 M",
+    "authorCentury": "Abad ke-19 Masehi / Abad ke-13 Hijriyah"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah Penulis",
+      "titleArabic": "مُقَدِّمَةُ الْمُؤَلِّفِ",
+      "arabic": "بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ. الْحَمْدُ للهِ رَبِّ الْعَالَمِينَ وَبِهِ نَسْتَعِيْنُ عَلَى أُمُوْرِ الدُّنْيَا وَالدِّيْنِ",
+      "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah Tuhan semesta alam, dan kepada-Nya kami memohon pertolongan atas urusan dunia dan agama."
+    },
+    {
+      "title": "Dasar Islam (Rukun Islam)",
+      "titleArabic": "أَرْكَانُ الْإِسْلَامِ",
+      "arabic": "أَرْكَانُ الْإِسْلَامِ خَمْسَةٌ: شَهَادَةُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللهِ، وَإِقَامُ الصَّلَاةِ، وَإِيتَاءُ الزَّكَاةِ، وَصَوْمُ رَمَضَانَ، وَحِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلًا",
+      "translation": "Rukun Islam ada lima: Bersaksi bahwa tidak ada Tuhan selain Allah dan Muhammad adalah utusan Allah, mendirikan shalat, menunaikan zakat, puasa Ramadhan, dan haji ke Baitullah bagi yang mampu menempuh perjalanannya."
+    },
+    {
+      "title": "Dasar Iman (Rukun Iman)",
+      "titleArabic": "أَرْكَانُ الْإِيْمَانِ",
+      "arabic": "أَرْكَانُ الْإِيْمَانِ سِتَّةٌ: أَنْ تُؤْمِنَ بِاللهِ، وَمَلَائِكَتِهِ، وَكُتُبِهِ، وَرُسُلِهِ، وَبِالْيَوْمِ الْآخِرِ، وَبِالْقَدَرِ خَيْرِهِ وَشَرِّهِ مِنَ اللهِ تَعَالَى",
+      "translation": "Rukun Iman ada enam: Kamu beriman kepada Allah, malaikat-malaikat-Nya, kitab-kitab-Nya, rasul-rasul-Nya, hari akhir, dan takdir yang baik maupun yang buruk dari Allah Ta'ala."
+    },
+    {
+      "title": "Makna Kalimat Tauhid",
+      "titleArabic": "مَعْنَى لَا إِلَهَ إِلَّا اللهُ",
+      "arabic": "وَمَعْنَى لَا إِلَهَ إِلَّا اللهُ: لَا مَعْبُودَ بِحَقٍّ فِي الْوُجُودِ إِلَّا اللهُ",
+      "translation": "Makna La ilaha illallah adalah: Tidak ada yang disembah dengan sebenar-benarnya dalam wujud (alam semesta) ini kecuali Allah."
+    },
+    {
+      "title": "Tanda-tanda Baligh",
+      "titleArabic": "عَلَامَاتُ الْبُلُوغِ",
+      "arabic": "عَلَامَاتُ الْبُلُوغِ ثَلَاثٌ: تَمَامُ خَمْسَ عَشْرَةَ سَنَةً فِي الذَّكَرِ وَالْأُنْثَى، وَالِاحْتِلَامُ فِي الذَّكَرِ وَالْأُنْثَى لِتِسْعِ سِنِينَ، وَالْحَيْضُ فِي الْأُنْثَى لِتِسْعِ سِنِينَ",
+      "translation": "Tanda-tanda baligh ada tiga: Sempurnanya umur 15 tahun bagi laki-laki dan perempuan, mimpi basah bagi laki-laki dan perempuan pada usia 9 tahun, dan haid bagi perempuan pada usia 9 tahun."
+    },
+    {
+      "title": "Syarat Istinja dengan Batu",
+      "titleArabic": "شُرُوطُ إِجْزَاءِ الْحَجَرِ",
+      "arabic": "شُرُوطُ إِجْزَاءِ الْحَجَرِ ثَمَانِيَةٌ: أَنْ يَكُونَ بِثَلَاثَةِ أَحْجَارٍ، وَأَنْ يُنَقِّيَ الْمَحَلَّ، وَأَنْ لَا يَجِفَّ الْخَارِجُ، وَلَا يَنْتَقِلَ، وَلَا يَطْرَأَ عَلَيْهِ غَيْرُهُ، وَلَا يُجَاوِزَ صَفْحَتَهُ وَحَشَفَتَهُ، وَلَا يُصِيبَهُ مَاءٌ، وَأَنْ تَكُونَ الْأَحْجَارُ طَاهِرَةً",
+      "translation": "Syarat diperbolehkannya istinja dengan batu ada delapan: Dengan tiga batu, mensucikan tempat keluar, kotoran belum kering, kotoran tidak berpindah tempat, tidak terkena benda lain, tidak melewati pinggiran dubur atau ujung kemaluan, tidak terkena air, dan batunya harus suci."
+    },
+    {
+      "title": "Fardhu-fardhu Wudhu",
+      "titleArabic": "فُرُوضُ الْوُضُوءِ",
+      "arabic": "فُرُوضُ الْوُضُوءِ سِتَّةٌ: الْأَوَّلُ النِّيَّةُ، الثَّانِي غَسْلُ الْوَجْهِ، الثَّالِثُ غَسْلُ الْيَدَيْنِ مَعَ الْمِرْفَقَيْنِ، الرَّابِعُ مَسْحُ شَيْءٍ مِنَ الرَّأْسِ، الْخَامِسُ غَسْلُ الرِّجْلَيْنِ مَعَ الْكَعْبَيْنِ، السَّادِسُ التَّرْتِيبُ",
+      "translation": "Fardhu wudhu ada enam: Pertama niat, kedua membasuh wajah, ketiga membasuh kedua tangan sampai siku, keempat mengusap sebagian kepala, kelima membasuh kedua kaki sampai mata kaki, keenam tertib."
+    },
+    {
+      "title": "Niat dalam Ibadah",
+      "titleArabic": "فَصْلٌ فِي النِّيَّةِ",
+      "arabic": "النِّيَّةُ قَصْدُ الشَّيْءِ مُقْتَرِنًا بِفِعْلِهِ، وَمَحَلُّهَا الْقَلْبُ، وَالتَّلَفُّظُ بِهَا سُنَّةٌ، وَوَقْتُهَا عِنْدَ غَسْلِ أَوَّلِ جُزْءٍ مِنَ الْوَجْهِ",
+      "translation": "Niat adalah menyengaja sesuatu disertai dengan perbuatannya, tempatnya di dalam hati, melafalkannya sunnah, dan waktunya adalah saat membasuh bagian pertama dari wajah."
+    },
+    {
+      "title": "Pembahasan Air",
+      "titleArabic": "فَصْلٌ فِي الْمِيَاهِ",
+      "arabic": "الْمَاءُ قَلِيلٌ وَكَثِيْرٌ. الْقَلِيلُ مَا دُوْنَ الْقُلَّتَيْنِ، وَالْكَثِيْرُ قُلَّتَانِ فَأَكْثَرَ. الْقَلِيلُ يَتَنَجَّسُ بِوُقُوْعِ النَّجَاسَةِ فِيهِ وَإِنْ لَمْ يَتَغَيَّرْ",
+      "translation": "Air itu ada yang sedikit dan ada yang banyak. Air sedikit adalah yang kurang dari dua qullah, dan air banyak adalah dua qullah atau lebih. Air sedikit menjadi najis dengan jatuhnya najis di dalamnya meskipun tidak berubah."
+    },
+    {
+      "title": "Perkara yang Mewajibkan Mandi Besar",
+      "titleArabic": "مُوجِبَاتُ الْغُسْلِ",
+      "arabic": "مُوجِبَاتُ الْغُسْلِ سِتَّةٌ: إِيْلَاجُ الْحَشَفَةِ فِي الْفَرْجِ، وَخُرُوجُ الْمَنِيِّ، وَالْمَوْتُ، وَالْحَيْضُ، وَالنِّفَاسُ، وَالْوِلَادَةُ",
+      "translation": "Hal-hal yang mewajibkan mandi ada enam: Memasukkan ujung kemaluan ke dalam farji, keluarnya sperma, mati, haid, nifas, dan melahirkan."
+    },
+    {
+      "title": "Fardhu-fardhu Mandi Besar",
+      "titleArabic": "فُرُوضُ الْغُسْلِ",
+      "arabic": "فُرُوضُ الْغُسْلِ اثْنَانِ: النِّيَّةُ، وَتَعْمِيمُ الْبَدَنِ بِالْمَاءِ",
+      "translation": "Fardhu mandi ada dua: Niat dan meratakan air ke seluruh tubuh."
+    },
+    {
+      "title": "Syarat-syarat Wudhu",
+      "titleArabic": "شُرُوطُ الْوُضُوءِ",
+      "arabic": "شُرُوطُ الْوُضُوءِ عَشَرَةٌ: الْإِسْلَامُ، وَالتَّمْيِيْزُ، وَالنَّقَاءُ عَنِ الْحَيْضِ وَالنِّفَاسِ، وَعَمَّا يَمْنَعُ وُصُولَ الْمَاءِ إِلَى الْبَشَرَةِ",
+      "translation": "Syarat-syarat wudhu ada sepuluh: Islam, tamyiz (dapat membedakan baik dan buruk), suci dari haid dan nifas, serta suci dari perkara yang menghalangi sampainya air ke kulit."
+    },
+    {
+      "title": "Pembatal-pembatal Wudhu",
+      "titleArabic": "نَوَاقِضُ الْوُضُوءِ",
+      "arabic": "نَوَاقِضُ الْوُضُوءِ أَرْبَعَةُ أَشْيَاءَ: الْخَارِجُ مِنْ أَحَدِ السَّبِيلَيْنِ، زَوَالُ الْعَقْلِ بِنَوْمٍ أَوْ غَيْرِهِ، لَمْسُ بَشَرَةِ الرَّجُلِ وَالْمَرْأَةِ الْكَبِيْرَيْنِ الْأَجْنَبِيَيْنِ، مَسُّ قُبُلِ الْآدَمِيِّ أَوْ حَلْقَةِ دُبُرِهِ بِبَطْنِ الرَّاحَةِ",
+      "translation": "Pembatal wudhu ada empat perkara: Keluarnya sesuatu dari salah satu dua jalan (kubul/dubur), hilangnya akal karena tidur atau lainnya, bersentuhan kulit laki-laki dan perempuan yang keduanya dewasa dan bukan mahram, serta menyentuh kemaluan manusia atau lingkaran duburnya dengan telapak tangan."
+    },
+    {
+      "title": "Larangan bagi Orang Berhadats Kecil",
+      "titleArabic": "مَا يَحْرُمُ بِالْحَدَثِ الْأَصْغَرِ",
+      "arabic": "مَنْ انْتَقَضَ وُضُوؤُهُ حَرُمَ عَلَيْهِ أَرْبَعَةُ أَشْيَاءَ: الصَّلَاةُ، وَالطَّوَافُ، وَمَسُّ الْمُصْحَفِ، وَحَمْلُهُ",
+      "translation": "Siapa yang batal wudhunya, haram baginya empat perkara: Shalat, thawaf, menyentuh mushaf, dan membawanya."
+    },
+    {
+      "title": "Larangan bagi Orang Junub",
+      "titleArabic": "مَا يَحْرُمُ عَلَى الْجُنُبِ",
+      "arabic": "وَيَحْرُمُ عَلَى الْجُنُبِ سِتَّةُ أَشْيَاءَ: الصَّلَاةُ، وَالطَّوَافُ، وَمَسُّ الْمُصْحَفِ، وَحَمْلُهُ، وَاللُّبْثُ فِي الْمَسْجِدِ، وَقِرَاءَةُ الْقُرْآنِ",
+      "translation": "Dan haram bagi orang junub enam perkara: Shalat, thawaf, menyentuh mushaf, membawanya, berdiam diri di masjid, dan membaca Al-Qur'an (dengan niat tilawah)."
+    },
+    {
+      "title": "Larangan bagi Wanita Haid",
+      "titleArabic": "مَا يَحْرُمُ بِالْحَيْضِ",
+      "arabic": "وَيَحْرُمُ بِالْحَيْضِ عَشَرَةُ أَشْيَاءَ: الصَّلَاةُ، وَالطَّوَافُ، وَمَسُّ الْمُصْحَفِ، وَحَمْلُهُ، وَاللُّبْثُ فِي الْمَسْجِدِ، وَقِرَاءَةُ الْقُرْآنِ، وَالصَّوْمُ، وَالطَّلَاقُ، وَالْمُرُورُ فِي الْمَسْجِدِ، وَالِاسْتِمْتَاعُ بِمَا بَيْنَ السُّرَّةِ وَالرُّكْبَةِ",
+      "translation": "Dan haram sebab haid sepuluh perkara: Shalat, thawaf, menyentuh mushaf, membawanya, berdiam diri di masjid, membaca Al-Qur'an, puasa, thalaq, melintasi masjid (jika khawatir mengotori), dan bersenang-senang di antara pusar dan lutut."
+    },
+    {
+      "title": "Sebab-sebab Tayammum",
+      "titleArabic": "أَسْبَابُ التَّيَمُّمِ",
+      "arabic": "أَسْبَابُ التَّيَمُّمِ ثَلَاثَةٌ: فَقْدُ الْمَاءِ، وَالْمَرَضُ، وَالِاحْتِيَاجُ إِلَيْهِ لِعَطَشِ حَيَوَانٍ مُحْتَرَمٍ",
+      "translation": "Sebab-sebab tayammum ada tiga: Tidak adanya air, sakit, dan butuhnya air untuk kehausan hewan yang dihormati (muhtaram)."
+    },
+    {
+      "title": "Syarat-syarat Tayammum",
+      "titleArabic": "شُرُوطُ التَّيَمُّمِ",
+      "arabic": "شُرُوطُ التَّيَمُّمِ عَشَرَةٌ: أَنْ يَكُونَ بِتُرَابٍ، وَأَنْ يَكُونَ التُّرَابُ طَاهِرًا، وَأَنْ لَا يَكُونَ مُسْتَعْمَلًا، وَأَنْ لَا يُخَالِطَهُ دَقِيْقٌ وَنَحْوُهُ، وَأَنْ يَقْصِدَهُ، وَأَنْ يَمْسَحَ وَجْهَهُ وَيَدَيْهِ بِضَرْبَتَيْنِ، وَأَنْ يُزِيْلَ النَّجَاسَةَ أَوَّلًا، وَأَنْ يَجْتَهِدَ فِي الْقِبْلَةِ قَبْلَهُ، وَأَنْ يَكُونَ التَّيَمُّمُ بَعْدَ دُخُولِ الْوَقْتِ، وَأَنْ يَتَيَمَّمَ لِكُلِّ فَرِيضَةٍ",
+      "translation": "Syarat tayammum ada sepuluh: Menggunakan debu, debunya suci, bukan debu musta'mal (bekas), tidak tercampur tepung atau sejenisnya, menyengaja (tujuan) tayammum, mengusap wajah dan kedua tangan dengan dua kali tepukan, menghilangkan najis terlebih dahulu, berijtihad mencari arah kiblat sebelumnya, tayammum dilakukan setelah masuk waktu shalat, dan tayammum untuk setiap satu kali shalat fardhu."
+    },
+    {
+      "title": "Rukun-rukun Tayammum",
+      "titleArabic": "أَرْكَانُ التَّيَمُّمِ",
+      "arabic": "أَرْكَانُ التَّيَمُّمِ خَمْسَةٌ: الْأَوَّلُ نَقْلُ التُّرَابِ، الثَّانِي النِّيَّةُ، الثَّالِثُ مَسْحُ الْوَجْهِ، الرَّابِعُ مَسْحُ الْيَدَيْنِ إِلَى الْمِرْفَقَيْنِ، الْخَامِسُ التَّرْتِيبُ بَيْنَ الْمَسْحَتَيْنِ",
+      "translation": "Rukun tayammum ada lima: Pertama memindahkan debu, kedua niat, ketiga mengusap wajah, keempat mengusap kedua tangan sampai siku, kelima tertib di antara dua usapan."
+    },
+    {
+      "title": "Pembatal Tayammum",
+      "titleArabic": "مُبْطِلَاتُ التَّيَمُّمِ",
+      "arabic": "مُبْطِلَاتُ التَّيَمُّمِ ثَلَاثَةٌ: مَا أَبْطَلَ الْوُضُوءَ، وَالرِّدَّةُ، وَتَوَهُّمُ الْمَاءِ إِنْ تَيَمَّمَ لِفَقْدِهِ",
+      "translation": "Pembatal tayammum ada tiga: Apa saja yang membatalkan wudhu, murtad, dan mengira adanya air jika ia bertayammum karena ketiadaan air."
+    },
+    {
+      "title": "Najis yang Bisa Menjadi Suci",
+      "titleArabic": "النَّجَاسَةُ الَّتِي تَطْهُرُ",
+      "arabic": "الَّذِي يَطْهُرُ مِنَ النَّجَاسَاتِ ثَلَاثَةٌ: الْخَمْرُ إِذَا تَخَلَّلَتْ بِنَفْسِهَا، وَجِلْدُ الْمَيْتَةِ إِذَا دُبِغَ، وَمَا صَارَ حَيَوَانًا",
+      "translation": "Najis yang bisa menjadi suci ada tiga: Khamar (arak) jika telah menjadi cuka dengan sendirinya, kulit bangkai jika telah disamak, dan sesuatu yang telah menjadi hewan (seperti ulat pada bangkai)."
+    },
+    {
+      "title": "Macam-macam Najis",
+      "titleArabic": "أَنْوَاعُ النَّجَاسَاتِ",
+      "arabic": "النَّجَاسَاتُ ثَلَاثٌ: مُغَلَّظَةٌ وَمُخَفَّفَةٌ وَمُتَوَسِّطَةٌ. الْمُغَلَّظَةُ نَجَاسَةُ الْكَلْبِ وَالْخِنْزِيْرِ وَفَرْعِ أَحَدِهِمَا. الْمُخَفَّفَةُ بَوْلُ الصَّبِيِّ الَّذِي لَمْ يَطْعَمْ غَيْرَ اللَّبَنِ وَلَمْ يَبْلُغْ الْحَوْلَيْنِ. الْمُتَوَسِّطَةُ سَائِرُ النَّجَاسَاتِ",
+      "translation": "Najis ada tiga: Mughallazah (berat), Mukhaffafah (ringan), dan Mutawassithah (sedang). Mughallazah adalah najis anjing, babi, dan keturunan salah satu keduanya. Mukhaffafah adalah air kencing bayi laki-laki yang belum makan selain susu ibu dan belum berumur dua tahun. Mutawassithah adalah sisa najis lainnya."
+    },
+    {
+      "title": "Masa Haid dan Nifas",
+      "titleArabic": "أَقَلُّ الْحَيْضِ وَالنِّفَاسِ",
+      "arabic": "أَقَلُّ الْحَيْضِ يَوْمٌ وَلَيْلَةٌ وَغَالِبُهُ سِتٌّ أَوْ سَبْعٌ وَأَكْثَرُهُ خَمْسَةَ عَشَرَ يَوْمًا بِلَيَالِيْهَا. أَقَلُّ الطُّهْرِ بَيْنَ الْحَيْضَتَيْنِ خَمْسَةَ عَشَرَ يَوْمًا. أَقَلُّ النِّفَاسِ مَجَّةٌ وَغَالِبُهُ أَرْبَعُونَ يَوْمًا وَأَكْثَرُهُ سِتُّونَ يَوْمًا",
+      "translation": "Masa minimal haid adalah sehari semalam, umumnya enam atau tujuh hari, dan maksimal lima belas hari. Minimal masa suci di antara dua haid adalah lima belas hari. Masa minimal nifas adalah setetes, umumnya empat puluh hari, dan maksimal enam puluh hari."
+    },
+    {
+      "title": "Udzur-udzur Shalat",
+      "titleArabic": "أَعْذَارُ الصَّلَاةِ",
+      "arabic": "أَعْذَارُ الصَّلَاةِ اثْنَانِ: النَّوْمُ وَالنِّسْيَانُ",
+      "translation": "Udzur shalat (yang dimaklumi sehingga boleh menunda) ada dua: Tidur dan lupa."
+    },
+    {
+      "title": "Syarat-syarat Shalat",
+      "titleArabic": "شُرُوطُ الصَّلَاةِ",
+      "arabic": "شُرُوطُ الصَّلَاةِ ثَمَانِيَةٌ: طَهَارَةُ الْحَدَثَيْنِ، وَالطَّهَارَةُ عَنِ النَّجَاسَةِ فِي الثَّوْبِ وَالْبَدَنِ وَالْمَكَانِ، وَسَتْرُ الْعَوْرَةِ، وَاسْتِقْبَالُ الْقِبْلَةِ، وَدُخُولُ الْوَقْتِ، وَالْعِلْمُ بِفَرْضِيَّتِهَا، وَأَنْ لَا يَعْتَقِدَ فَرْضًا مِنْ فُرُوضِهَا سُنَّةً، وَاجْتِنَابُ الْمُبْطِلَاتِ",
+      "translation": "Syarat shalat ada delapan: Suci dari dua hadats, suci dari najis pada pakaian, badan dan tempat, menutup aurat, menghadap kiblat, masuk waktu, mengetahui kefardhuannya, tidak meyakini salah satu fardhu shalat sebagai sunnah, dan menjauhi pembatal-pembatal shalat."
+    },
+    {
+      "title": "Hadats Kecil dan Besar",
+      "titleArabic": "الْحَدَثُ أَصْغَرُ وَأَكْبَرُ",
+      "arabic": "الْأَحْدَاثُ اثْنَانِ: أَصْغَرُ وَأَكْبَرُ. فَالْأَصْغَرُ مَا أَوْجَبَ الْوُضُوءَ، وَالْأَكْبَرُ مَا أَوْجَبَ الْغُسْلَ",
+      "translation": "Hadats ada dua: Kecil dan besar. Hadats kecil adalah apa yang mewajibkan wudhu, dan hadats besar adalah apa yang mewajibkan mandi."
+    },
+    {
+      "title": "Batasan Aurat",
+      "titleArabic": "الْعَوْرَاتُ",
+      "arabic": "الْعَوْرَاتُ أَرْبَعٌ: عَوْرَةُ الرَّجُلِ مُطْلَقًا وَالْأَمَةِ فِي الصَّلَاةِ مَا بَيْنَ السُّرَّةِ وَالرُّكْبَةِ، وَعَوْرَةُ الْحُرَّةِ فِي الصَّلَاةِ جَمِيْعُ بَدَنِهَا مَا سِوَى الْوَجْهِ وَالْكَفَّيْنِ",
+      "translation": "Aurat ada empat: Aurat laki-laki secara mutlak dan budak perempuan dalam shalat adalah antara pusar dan lutut, dan aurat wanita merdeka dalam shalat adalah seluruh badannya kecuali wajah dan kedua telapak tangan."
+    },
+    {
+      "title": "Rukun-rukun Shalat",
+      "titleArabic": "أَرْكَانُ الصَّلَاةِ",
+      "arabic": "أَرْكَانُ الصَّلَاةِ سَبْعَةَ عَشَرَ: النِّيَّةُ، تَكْبِيْرَةُ الْإِحْرَامِ، الْقِيَامُ لِلْقَادِرِ، قِرَاءَةُ الْفَاتِحَةِ، الرُّكُوعُ، الطُّمَأْنِيْنَةُ فِيْهِ، الِاعْتِدَالُ، الطُّمَأْنِيْنَةُ فِيْهِ، السُّجُودُ مَرَّتَيْنِ، الطُّمَأْنِيْنَةُ فِيْهِ، الْجُلُوسُ بَيْنَ السَّجْدَتَيْنِ، الطُّمَأْنِيْنَةُ فِيْهِ، التَّشَهُّدُ الْأَخِيْرُ، الْقُعُودُ فِيْهِ، الصَّلَاةُ عَلَى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِيْهِ، التَّسْلِيْمَةُ الْأُولَى، التَّرْتِيْبُ",
+      "translation": "Rukun shalat ada tujuh belas: Niat, takbiratul ihram, berdiri bagi yang mampu, membaca Al-Fatihah, ruku, tuma'ninah dalam ruku, i'tidal, tuma'ninah dalam i'tidal, sujud dua kali, tuma'ninah dalam sujud, duduk di antara dua sujud, tuma'ninah dalam duduk tersebut, tasyahhud akhir, duduk tasyahhud akhir, membaca shalawat atas Nabi SAW di dalamnya, salam pertama, dan tertib."
+    },
+    {
+      "title": "Tingkatan Niat Shalat",
+      "titleArabic": "دَرَجَاتُ النِّيَّةِ",
+      "arabic": "النِّيَّةُ ثَلَاثُ دَرَجَاتٍ: إِنْ كَانَتِ الصَّلَاةُ فَرْضًا وَجَبَ قَصْدُ الْفِعْلِ وَالتَّعْيِيْنُ وَالْفَرْضِيَّةُ، وَإِنْ كَانَتْ نَفْلًا مُؤَقَّتًا وَجَبَ قَصْدُ الْفِعْلِ وَالتَّعْيِيْنُ، وَإِنْ كَانَتْ نَفْلًا مُطْلَقًا وَجَبَ قَصْدُ الْفِعْلِ فَقَطْ",
+      "translation": "Niat ada tiga tingkatan: Jika shalat fardhu maka wajib menyengaja perbuatan (ushalli), menentukan shalatnya (Zuhur/Ashar), dan menyatakan kefardhuannya. Jika sunnah yang ditentukan waktunya/sebabnya maka wajib ushalli dan ta'yin. Jika sunnah mutlak maka cukup ushalli saja."
+    },
+    {
+      "title": "Syarat Takbiratul Ihram",
+      "titleArabic": "شُرُوطُ تَكْبِيْرَةِ الْإِحْرَامِ",
+      "arabic": "شُرُوطُ تَكْبِيْرَةِ الْإِحْرَامِ سِتَّةَ عَشَرَ: أَنْ تَقَعَ حَالَةَ الْقِيَامِ فِي الْفَرْضِ، وَأَنْ تَكُونَ بِالْعَرَبِيَّةِ، وَبِلَفْظِ الْجَلَالَةِ، وَبِلَفْظِ أَكْبَرُ، وَالتَّرْتِيْبُ بَيْنَ اللَّفْظَيْنِ...",
+      "translation": "Syarat takbiratul ihram ada enam belas: Harus dilakukan saat berdiri pada shalat fardhu, dengan bahasa Arab, dengan lafadz Jalalah (Allah), dengan lafadz Akbar, tertib antara kedua lafadz tersebut (dan seterusnya)..."
+    },
+    {
+      "title": "Syarat-syarat Fatihah",
+      "titleArabic": "شُرُوطُ الْفَاتِحَةِ",
+      "arabic": "شُرُوطُ الْفَاتِحَةِ عَشَرَةٌ: التَّرْتِيْبُ، وَالْمُوَالَاةُ، وَمُرَاعَاةُ حُرُوفِهَا، وَمُرَاعَاةُ تَشْدِيْدَاتِهَا، وَأَنْ لَا يَسْكُتَ سَكْتَةً طَوِيْلَةً وَلَا قَصِيْرَةً يَقْصِدُ بِهَا قَطْعَ الْقِرَاءَةِ...",
+      "translation": "Syarat Fatihah ada sepuluh: Tertib (berurutan ayatnya), muwalat (berkesinambungan), menjaga huruf-hurufnya, menjaga tasydid-tasydidnya, tidak diam lama atau sebentar dengan niat memutus bacaan (dan seterusnya)..."
+    },
+    {
+      "title": "Tasydid-tasydid dalam Al-Fatihah",
+      "titleArabic": "تَشْدِيْدَاتُ الْفَاتِحَةِ",
+      "arabic": "تَشْدِيْدَاتُ الْفَاتِحَةِ أَرْبَعَ عَشْرَةَ: بِسْمِ اللهِ فَوْقَ اللَّامِ، الرَّحْمَنِ فَوْقَ الرَّاءِ، الرَّحِيْمِ فَوْقَ الرَّاءِ، الْحَمْدُ للهِ فَوْقَ لَامِ الْجَلَالَةِ، رَبِّ الْعَالَمِيْنَ فَوْقَ الْبَاءِ...",
+      "translation": "Tasydid Al-Fatihah ada empat belas: Bismillah di atas Lam, Ar-Rahman di atas Ra, Ar-Rahim di atas Ra, Alhamdu Lillah di atas Lam Jalalah, Rabbil 'Alamin di atas Ba (dan seterusnya)..."
+    },
+    {
+      "title": "Syarat-syarat Sujud",
+      "titleArabic": "شُرُوطُ السُّجُودِ",
+      "arabic": "شُرُوطُ السُّجُودِ سَبْعَةٌ: أَنْ يَسْجُدَ عَلَى سَبْعَةِ أَعْضَاءٍ، وَأَنْ تَكُونَ جَبْهَتُهُ مَكْشُوفَةً، وَالتَّحَامُلُ بِرَأْسِهِ، وَعَدَمُ الْهَوِيِّ لِغَيْرِهِ، وَأَنْ لَا يَسْجُدَ عَلَى شَيْءٍ يَتَحَرَّكُ بِحَرَكَتِهِ، وَارْتِفَاعُ أَسَافِلِهِ عَلَى أَعَالِيْهِ، وَالطُّمَأْنِيْنَةُ فِيْهِ",
+      "translation": "Syarat sujud ada tujuh: Sujud dengan tujuh anggota badan, dahi harus terbuka, menumpukan berat kepala, tidak turun untuk tujuan selain sujud, tidak sujud di atas sesuatu yang bergerak jika ia bergerak, bagian bawah (pantat) harus lebih tinggi dari bagian atas (kepala), dan tuma'ninah."
+    },
+    {
+      "title": "Anggota-anggota Sujud",
+      "titleArabic": "أَعْضَاءُ السُّجُودِ",
+      "arabic": "أَعْضَاءُ السُّجُودِ سَبْعَةٌ: الْجَبْهَةُ، وَبُطُونُ الْكَفَّيْنِ، وَالرُّكْبَتَانِ، وَبُطُونُ أَصَابِعِ الرِّجْلَيْنِ",
+      "translation": "Anggota sujud ada tujuh: Dahi, kedua telapak tangan, kedua lutut, dan bagian dalam jari-jari kedua kaki."
+    },
+    {
+      "title": "Tasydid-tasydid dalam Tasyahhud",
+      "titleArabic": "تَشْدِيْدَاتُ التَّشَهُّدِ",
+      "arabic": "تَشْدِيْدَاتُ التَّشَهُّدِ إِحْدَى وَعِشْرُونَ: خَمْسٌ فِي أَكْمَلِهِ وَسِتَّ عَشْرَةَ فِي أَقَلِّهِ. التَّحِيَّاتُ عَلَى التَّاءِ وَالْيَاءِ، الْمُبَارَكَاتُ الصَّلَوَاتُ عَلَى الصَّادِ...",
+      "translation": "Tasydid Tasyahhud ada dua puluh satu: Lima pada bagian pelengkap dan enam belas pada bagian minimal. At-Tahiyyat pada Ta dan Ya, As-Shalawat pada Shad (dan seterusnya)..."
+    },
+    {
+      "title": "Waktu-waktu Shalat",
+      "titleArabic": "أَوْقَاتُ الصَّلَاةِ",
+      "arabic": "أَوْقَاتُ الصَّلَاةِ خَمْسٌ: وَقْتُ الظُّهْرِ مِنْ زَوَالِ الشَّمْسِ إِلَى مَصِيْرِ ظِلِّ الشَّيْءِ مِثْلَهُ غَيْرَ ظِلِّ الزَّوَالِ...",
+      "translation": "Waktu shalat ada lima: Waktu Zuhur dari tergelincirnya matahari hingga bayangan benda sama panjang dengan bendanya selain bayangan istiwa (dan seterusnya)..."
+    },
+    {
+      "title": "Waktu yang Diharamkan Shalat",
+      "titleArabic": "الْأَوْقَاتُ الَّتِي تَحْرُمُ فِيهَا الصَّلَاةُ",
+      "arabic": "تَحْرُمُ الصَّلَاةُ الَّتِي لَيْسَ لَهَا سَبَبٌ مُتَقَدِّمٌ وَلَا مُقَارِنٌ فِي خَمْسَةِ أَوْقَاتٍ: عِنْدَ طُلُوعِ الشَّمْسِ حَتَّى تَرْتَفِعَ، وَعِنْدَ الِاسْتِوَاءِ، وَعِنْدَ الِاصْفِرَارِ، وَبَعْدَ الصُّبْحِ، وَبَعْدَ الْعَصْرِ",
+      "translation": "Haram shalat yang tidak memiliki sebab terdahulu atau sebab yang menyertai pada lima waktu: Saat matahari terbit hingga meninggi, saat istiwa (tengah hari) kecuali hari Jumat, saat matahari menguning hingga terbenam, setelah shalat Subuh, dan setelah shalat Ashar."
+    },
+    {
+      "title": "Diam yang Disunnahkan dalam Shalat",
+      "titleArabic": "سَكَتَاتُ الصَّلَاةِ",
+      "arabic": "سَكَتَاتُ الصَّلَاةِ سِتٌّ: بَيْنَ تَكْبِيْرَةِ الْإِحْرَامِ وَدُعَاءِ الِافْتِتَاحِ، وَبَيْنَ دُعَاءِ الِافْتِتَاحِ وَالتَّعَوُّذِ، وَبَيْنَ التَّعَوُّذِ وَالْفَاتِحَةِ، وَبَيْنَ آخِرِ الْفَاتِحَةِ وَآمِيْنَ، وَبَيْنَ آمِيْنَ وَالسُّورَةِ، وَبَيْنَ السُّورَةِ وَالرُّكُوعِ",
+      "translation": "Diam (saktah) dalam shalat ada enam: Antara takbiratul ihram dan doa iftitah, antara doa iftitah dan ta'awudz, antara ta'awudz dan Al-Fatihah, antara akhir Al-Fatihah dan Amin, antara Amin dan membaca surat, serta antara surat dan ruku'."
+    },
+    {
+      "title": "Rukun-rukun yang Wajib Tuma'ninah",
+      "titleArabic": "الْأَرْكَانُ الَّتِي تَجِبُ فِيهَا الطُّمَأْنِيْنَةُ",
+      "arabic": "الْأَرْكَانُ الَّتِي تَجِبُ فِيهَا الطُّمَأْنِيْنَةُ أَرْبَعَةٌ: الرُّكُوعُ، وَالِاعْتِدَالُ، وَالسُّجُودُ، وَالْجُلُوسُ بَيْنَ السَّجْدَتَيْنِ",
+      "translation": "Rukun-rukun yang wajib disertai tuma'ninah ada empat: Ruku', i'tidal, sujud, dan duduk di antara dua sujud."
+    },
+    {
+      "title": "Sebab-sebab Sujud Sahwi",
+      "titleArabic": "أَسْبَابُ سُجُودِ السَّهْوِ",
+      "arabic": "أَسْبَابُ سُجُودِ السَّهْوِ أَرْبَعَةٌ: تَرْكُ بَعْضٍ مِنْ أَبْعَاضِ الصَّلَاةِ، وَفِعْلُ مَا يُبْطِلُ عَمْدُهُ وَلَا يُبْطِلُ سَهْوُهُ، وَنَقْلُ رُكْنٍ قَوْلِيٍّ إِلَى غَيْرِ مَحَلِّهِ، وَإِيقَاعُ رُكْنٍ فِعْلِيٍّ مَعَ احْتِمَالِ الزِّيَادَةِ",
+      "translation": "Sebab sujud sahwi ada empat: Meninggalkan salah satu sunnah ab'adh, melakukan sesuatu yang membatalkan jika sengaja namun tidak batal jika lupa, memindahkan rukun qauli (ucapan) ke tempat lain, dan melakukan rukun fi'li (perbuatan) dengan adanya kemungkinan kelebihan rakaat."
+    },
+    {
+      "title": "Sunnah Ab'adh Shalat",
+      "titleArabic": "أَبْعَاضُ الصَّلَاةِ",
+      "arabic": "أَبْعَاضُ الصَّلَاةِ سَبْعَةٌ: التَّشَهُّدُ الْأَوَّلُ، وَقُعُودُهُ، وَالصَّلَاةُ عَلَى النَّبِيِّ فِيْهِ، وَالصَّلَاةُ عَلَى الْآلِ فِي التَّشَهُّدِ الْأَخِيْرِ، وَالْقُنُوتُ، وَقِيَامُهُ، وَالصَّلَاةُ وَالسَّلَامُ عَلَى النَّبِيِّ وَآلِهِ وَصَحْبِهِ فِيْهِ",
+      "translation": "Sunnah ab'adh shalat ada tujuh: Tasyahhud awal, duduknya tasyahhud awal, membaca shalawat atas Nabi di dalamnya, membaca shalawat atas keluarga Nabi pada tasyahhud akhir, qunut, berdiri qunut, dan membaca shalawat serta salam atas Nabi, keluarga, dan sahabatnya di dalam qunut."
+    },
+    {
+      "title": "Pembatal-pembatal Shalat",
+      "titleArabic": "مُبْطِلَاتُ الصَّلَاةِ",
+      "arabic": "تَبْطُلُ الصَّلَاةُ بِأَحَدَ عَشَرَ شَيْئًا: بِالْحَدَثِ، وَبِوُقُوعِ النَّجَاسَةِ، وَانْكِشَافِ الْعَوْرَةِ، وَالنُّطْقِ بِحَرْفَيْنِ، وَبِالْمُفْطِرِ عَمْدًا، وَالْأَكْلِ الْكَثِيْرِ، وَثَلَاثِ حَرَكَاتٍ مُتَوَالِيَاتٍ، وَالْوَثْبَةِ الْفَاحِشَةِ، وَالضَّرْبَةِ الْمُفْرِطَةِ، وَزِيَادَةِ رُكْنٍ فِعْلِيٍّ، وَتَقَدُّمِ الْمَأْمُومِ عَلَى إِمَامِهِ...",
+      "translation": "Shalat batal karena sebelas perkara: Hadats, terkena najis, terbukanya aurat, mengucapkan dua huruf (yang dipahami), melakukan hal yang membatalkan puasa dengan sengaja, makan banyak, tiga gerakan berturut-turut, lompatan yang buruk, pukulan yang keras, menambah rukun fi'li, dan mendahului imam (dan seterusnya)..."
+    },
+    {
+      "title": "Syarat Berjamaah",
+      "titleArabic": "شُرُوطُ الْقُدْوَةِ",
+      "arabic": "شُرُوطُ الْقُدْوَةِ أَحَدَ عَشَرَ: أَنْ لَا يَعْلَمَ بُطْلَانَ صَلَاةِ إِمَامِهِ، وَأَنْ لَا يَعْتَقِدَ وُجُوبَ قَضَائِهَا عَلَيْهِ، وَأَنْ لَا يَكُونَ مَأْمُومًا وَلَا أُمِّيًّا، وَأَنْ لَا يَتَقَدَّمَ عَلَيْهِ فِي الْمَكَانِ...",
+      "translation": "Syarat makmum mengikuti imam ada sebelas: Tidak mengetahui batalnya shalat imam, tidak meyakini bahwa imam wajib mengqadha shalatnya, imam bukan status makmum, imam bukan orang yang buta huruf (ummi), dan tidak mendahului posisi imam (dan seterusnya)..."
+    },
+    {
+      "title": "Syarat Shalat Jumat",
+      "titleArabic": "شُرُوطُ وُجُوبِ الْجُمُعَةِ",
+      "arabic": "شُرُوطُ وُجُوبِ الْجُمُعَةِ سَبْعَةٌ: الْإِسْلَامُ، وَالْبُلُوغُ، وَالْعَقْلُ، وَالْحُرِّيَّةُ، وَالذُّكُورِيَّةُ، وَالصِّحَّةُ، وَالِاسْتِيْطَانُ",
+      "translation": "Syarat wajib Jumat ada tujuh: Islam, baligh, berakal, merdeka, laki-laki, sehat, dan penduduk tetap (istithan)."
+    },
+    {
+      "title": "Rukun Dua Khutbah",
+      "titleArabic": "أَرْكَانُ الْخُطْبَتَيْنِ",
+      "arabic": "أَرْكَانُ الْخُطْبَتَيْنِ خَمْسَةٌ: حَمْدُ اللهِ فِيهِمَا، وَالصَّلَاةُ عَلَى النَّبِيِّ فِيهِمَا، وَالْوَصِيَّةُ بِالتَّقْوَى فِيهِمَا، وَقِرَاءَةُ آيَةٍ مِنَ الْقُرْآنِ فِي إِحْدَاهُمَا، وَالدُّعَاءُ لِلْمُؤْمِنِيْنَ وَالْمُؤْمِنَاتِ فِي الْأَخِيْرَةِ",
+      "translation": "Rukun dua khutbah ada lima: Memuji Allah pada keduanya, membaca shalawat pada keduanya, berwasiat taqwa pada keduanya, membaca satu ayat Al-Qur'an pada salah satunya, dan mendoakan kaum mukminin serta mukminat pada khutbah terakhir."
+    },
+    {
+      "title": "Pengurusan Jenazah",
+      "titleArabic": "تَجْهِيْزُ الْمَيِّتِ",
+      "arabic": "الَّذِي يَلْزَمُ فِي الْمَيِّتِ أَرْبَعَةُ أَشْيَاءَ: غُسْلُهُ، وَتَكْفِيْنُهُ، وَالصَّلَاةُ عَلَيْهِ، وَدَفْنُهُ",
+      "translation": "Kewajiban terhadap jenazah ada empat perkara: Memandikan, mengafani, menyalatkan, dan menguburkan."
+    },
+    {
+      "title": "Rukun Shalat Jenazah",
+      "titleArabic": "أَرْكَانُ صَلَاةِ الْجَنَازَةِ",
+      "arabic": "أَرْكَانُ صَلَاةِ الْجَنَازَةِ سَبْعَةٌ: النِّيَّةُ، وَأَرْبَعُ تَكْبِيْرَاتٍ، وَالْقِيَامُ عَلَى الْقَادِرِ، وَقِرَاءَةُ الْفَاتِحَةِ، وَالصَّلَاةُ عَلَى النَّبِيِّ بَعْدَ الثَّانِيَةِ، وَالدُّعَاءُ لِلْمَيِّتِ بَعْدَ الثَّالِثَةِ، وَالسَّلَامُ",
+      "translation": "Rukun shalat jenazah ada tujuh: Niat, empat kali takbir, berdiri bagi yang mampu, membaca Al-Fatihah, membaca shalawat atas Nabi setelah takbir kedua, mendoakan jenazah setelah takbir ketiga, dan salam."
+    },
+    {
+      "title": "Kewajiban Zakat",
+      "titleArabic": "فَصْلٌ فِي الزَّكَاةِ",
+      "arabic": "تَجِبُ الزَّكَاةُ فِي سِتَّةِ أَشْيَاءَ: النَّعَمِ، وَالنَّقْدَيْنِ، وَالْمُعَشَّرَاتِ، وَأَمْوَالِ التِّجَارَةِ، وَالرِّكَازِ، وَالْمَعْدِنِ",
+      "translation": "Zakat wajib pada enam perkara: Binatang ternak, emas dan perak (mata uang), hasil pertanian, harta dagangan, harta karun (rikaz), dan hasil tambang."
+    },
+    {
+      "title": "Puasa Ramadhan",
+      "titleArabic": "فَصْلٌ فِي الصِّيَامِ",
+      "arabic": "يَجِبُ صَوْمُ رَمَضَانَ بِأَحَدِ خَمْسَةِ أُمُورٍ: بِكَمَالِ شَعْبَانَ ثَلَاثِيْنَ يَوْمًا، أَوْ بِرُؤْيَةِ الْهِلَالِ...",
+      "translation": "Wajib puasa Ramadhan dengan salah satu dari lima perkara: Dengan sempurnanya bulan Sya'ban tiga puluh hari, atau dengan melihat hilal (dan seterusnya)..."
+    },
+    {
+      "title": "Syarat Sah Puasa",
+      "titleArabic": "شُرُوطُ صِحَّةِ الصَّوْمِ",
+      "arabic": "شُرُوطُ صِحَّتِهِ أَرْبَعَةُ أَشْيَاءَ: إِسْلَامٌ، وَعَقْلٌ، وَنَقَاءٌ مِنْ نَحْوِ حَيْضٍ، وَعِلْمٌ بِكَوْنِ الْوَقْتِ قَابِلًا لِلصَّوْمِ",
+      "translation": "Syarat sah puasa ada empat perkara: Islam, berakal, suci dari sejenis haid, dan mengetahui bahwa waktu tersebut diperbolehkan untuk puasa."
+    },
+    {
+      "title": "Rukun Puasa",
+      "titleArabic": "أَرْكَانُ الصَّوْمِ",
+      "arabic": "أَرْكَانُهُ ثَلَاثَةُ أَشْيَاءَ: نِيَّةٌ لَيْلًا لِكُلِّ يَوْمٍ فِي الْفَرْضِ، وَتَرْكُ مُفْطِرٍ ذَاكِرًا مُخْتَارًا غَيْرَ جَاهِلٍ مَعْذُورٍ، وَصَائِمٌ",
+      "translation": "Rukun puasa ada tiga perkara: Niat pada malam hari untuk setiap hari pada puasa fardhu, meninggalkan pembatal puasa dalam keadaan ingat, atas kemauan sendiri dan tidak bodoh yang dimaklumi, serta orang yang berpuasa."
+    },
+    {
+      "title": "Khatimah (Penutup)",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ",
+      "arabic": "تَمَّ هَذَا الشَّرْحُ الْمُبَارَكُ بِحَمْدِ اللهِ وَعَوْنِهِ. نَسْأَلُ اللهَ أَنْ يَنْفَعَ بِهِ وَيَجْعَلَهُ خَالِصًا لِوَجْهِهِ الْكَرِيْمِ",
+      "translation": "Telah selesai syarah yang diberkahi ini dengan memuji Allah dan pertolongan-Nya. Kami memohon kepada Allah agar menjadikannya bermanfaat dan menjadikannya ikhlas semata-mata karena Wajah-Nya yang Mulia."
+    }
+  ]
+}
