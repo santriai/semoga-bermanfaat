@@ -1,0 +1,440 @@
+{
+  "profile": {
+    "name": "Ad-Durr al-Manthur fi al-Tafsir bi al-Ma'thur",
+    "originalTitle": "اَلدُّرُّ الْمَنْثُوْرُ فِي التَّفْسِيْرِ بِالْمَأْثُوْرِ",
+    "author": "Al-Imam Jalaluddin Abdurrahman bin Abi Bakr as-Suyuti",
+    "field": "Tafsir bi al-Ma'thur (Hadis & Atsar)",
+    "about": "Kitab ini merupakan salah satu karya monumental dalam khazanah intelektual Islam yang menghimpun penafsiran Al-Qur'an murni berdasarkan riwayat hadis Nabi, atsar sahabat, dan perkataan tabi'in. Imam as-Suyuti menyusun kitab ini sebagai ringkasan dari kitab tafsirnya yang lebih besar berjudul Tarjuman al-Qur'an dengan membuang sanad-sanadnya untuk mempermudah pembaca, namun tetap menyebutkan mukharrij hadisnya. Kitab ini menjadi rujukan utama dalam metodologi Tafsir bi al-Ma'thur karena kelengkapan riwayat yang dikumpulkannya dari berbagai kitab hadis primer. Penulis menyusunnya secara sistematis mengikuti urutan mushaf dari Surah Al-Fatihah hingga An-Nas. Di dalamnya, as-Suyuti tidak mencampurkan opini pribadi atau penalaran rasional (ra'yu), menjadikannya pustaka murni tradisi periwayatan.",
+    "authorBorn": "849 H / 1445 M (Kairo, Mesir)",
+    "authorDied": "911 H / 1505 M (Kairo, Mesir)",
+    "authorCentury": "Abad ke-9 & 10 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Mukaddimah Penulis",
+      "titleArabic": "مُقَدِّمَةُ الْمُؤَلِّفِ",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَكْرَمَ هَذِهِ الْأُمَّةَ بِكِتَابِهِ الْمُنْزَلِ، وَأَوْضَحَ فِيهِ مَا يَحْتَاجُ إِلَيْهِ مِنَ الْحَلَالِ وَالْحَرَامِ وَالْأَمْثَالِ. فَلَمَّا أَلَّفْتُ كِتَابِي (تَرْجُمَانِ الْقُرْآنِ) وَهُوَ التَّفْسِيرُ الْمُسْنَدُ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَالصَّحَابَةِ، رَأَيْتُ قُصُورَ الْهِمَمِ عَنْ تَحْصِيلِهِ، فَلَخَّصْتُهُ فِي هَذَا الْكِتَابِ مَعَ حَذْفِ الْأَسَانِيدِ.",
+      "translation": "Segala puji bagi Allah yang telah memuliakan umat ini dengan kitab-Nya yang diturunkan, dan menjelaskan di dalamnya apa yang dibutuhkan berupa halal, haram, dan perumpamaan. Ketika aku telah menyusun kitabku (Tarjuman al-Qur'an) yang merupakan tafsir bersanad dari Rasulullah SAW dan para sahabat, aku melihat lemahnya semangat orang-orang untuk mempelajarinya, maka aku meringkasnya dalam kitab ini dengan membuang sanad-sanadnya."
+    },
+    {
+      "title": "Keutamaan Al-Qur'an Secara Umum",
+      "titleArabic": "فَضَائِلُ الْقُرْآنِ عَامَّةً",
+      "arabic": "أَخْرَجَ ابْنُ الضُّرَيْسِ وَالْبَيْهَقِيُّ عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ قَالَ: إِنَّ هَذَا الْقُرْآنَ مَأْدُبَةُ اللَّهِ فَاقْبَلُوا مِنْ مَأْدُبَتِهِ مَا اسْتَطَعْتُمْ. وَأَخْرَجَ أَحْمَدُ عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ مَرْفُوعًا: مَنْ شَغَلَهُ الْقُرْآنُ عَنْ ذِكْرِي وَمَسْأَلَتِي أَعْطَيْتُهُ أَفْضَلَ مَا أُعْطِي السَّائِلِينَ.",
+      "translation": "Ibnu Ad-Dhurais dan Al-Baihaqi mengeluarkan riwayat dari Abdullah bin Mas'ud, ia berkata: 'Sesungguhnya Al-Qur'an ini adalah jamuan Allah, maka terimalah jamuan-Nya semampu kalian.' Ahmad mengeluarkan dari Abu Sa'id al-Khudri secara marfu': 'Barangsiapa yang disibukkan oleh Al-Qur'an daripada berdzikir dan meminta kepada-Ku, maka Aku beri dia sesuatu yang lebih utama dari apa yang Aku berikan kepada para peminta.'"
+    },
+    {
+      "title": "Tafsir Surah Al-Fatihah",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْفَاتِحَةِ",
+      "arabic": "أَخْرَجَ أَحْمَدُ وَالْبُخَارِيُّ عَنْ أَبِي سَعِيدِ بْنِ الْمُعَلَّى قَالَ: كُنْتُ أُصَلِّي فَدَعَانِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ... فَقَالَ: لَأُعَلِّمَنَّكَ سُورَةً هِيَ أَعْظَمُ السُّوَرِ فِي الْقُرْآنِ: الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ، هِيَ السَّبْعُ الْمَثَانِي وَالْقُرْآنُ الْعَظِيمُ.",
+      "translation": "Ahmad dan Al-Bukhari mengeluarkan dari Abu Sa'id bin al-Mu'alla, ia berkata: 'Aku sedang shalat lalu Rasulullah SAW memanggilku... beliau bersabda: Aku benar-benar akan mengajarkanmu sebuah surah yang merupakan surah paling agung dalam Al-Qur'an: Al-Hamdu lillahi Rabbil 'Alamin, ia adalah as-Sab'ul Matsani dan Al-Qur'an yang Agung.'"
+    },
+    {
+      "title": "Hukum Membaca Basmalah",
+      "titleArabic": "الْقَوْلُ فِي التَّسْمِيَةِ (بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ)",
+      "arabic": "أَخْرَجَ أَبُو دَاوُدَ وَالْحَاكِمُ عَنِ ابْنِ عَبَّاسٍ قَالَ: كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا يَعْرِفُ فَصْلَ السُّورَةِ حَتَّى يَنْزِلَ عَلَيْهِ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ.",
+      "translation": "Abu Dawud dan Al-Hakim mengeluarkan dari Ibnu Abbas, ia berkata: 'Nabi SAW tidak mengetahui pemisah antar surah hingga turun kepada beliau: Bismillahir Rahmanir Rahim.'"
+    },
+    {
+      "title": "Tafsir Surah Al-Baqarah",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْبَقَرَةِ",
+      "arabic": "أَخْرَجَ أَحْمَدُ وَمُسْلِمٌ عَنْ أَبِي أُمَامَةَ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: اقْرَءُوا سُورَةَ الْبَقَرَةِ، فَإِنَّ أَخْذَهَا بَرَكَةٌ، وَتَرْكَهَا حَسْرَةٌ، وَلَا تَسْتَطِيعُهَا الْبَطَلَةُ (السَّحَرَةُ).",
+      "translation": "Ahmad dan Muslim mengeluarkan dari Abu Umamah, ia berkata: Aku mendengar Rasulullah SAW bersabda: 'Bacalah Surah Al-Baqarah, karena mengambilnya adalah keberkahan, meninggalkannya adalah penyesalan, dan tukang sihir tidak akan mampu mengalahkannya.'"
+    },
+    {
+      "title": "Tafsir Al-Baqarah: Alif Lam Mim",
+      "titleArabic": "تَفْسِيرُ الم (أَوَّلُ الْبَقَرَةِ)",
+      "arabic": "أَخْرَجَ ابْنُ جَرِيرٍ عَنِ ابْنِ مَسْعُودٍ فِي قَوْلِهِ (الم) قَالَ: هِيَ حُرُوفٌ هُجِائِيَّةٌ، وَقَالَ ابْنُ عَبَّاسٍ: هُوَ قَسَمٌ أَقْسَمَ اللَّهُ بِهِ.",
+      "translation": "Ibnu Jarir mengeluarkan dari Ibnu Mas'ud mengenai firman-Nya (Alif Lam Mim), ia berkata: 'Itu adalah huruf-huruf hijaiyah,' dan Ibnu Abbas berkata: 'Itu adalah sumpah yang Allah bersumpah dengannya.'"
+    },
+    {
+      "title": "Tafsir Al-Baqarah: Sifat Orang Bertakwa",
+      "titleArabic": "صِفَاتُ الْمُتَّقِينَ فِي الْبَقَرَةِ",
+      "arabic": "أَخْرَجَ ابْنُ أَبِي حَاتِمٍ عَنِ ابْنِ عَبَّاسٍ (الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ) قَالَ: يُصَدِّقُونَ بِمَا جَاءَ مِنْ عِنْدِ اللَّهِ، (وَيُقِيمُونَ الصَّلَاةَ) أَيْ يُؤَدُّونَهَا بِفُرُوضِهَا وَخُشُوعِهَا.",
+      "translation": "Ibnu Abi Hatim mengeluarkan dari Ibnu Abbas mengenai ayat (Orang-orang yang beriman kepada yang ghaib), ia berkata: 'Mereka membenarkan apa yang datang dari sisi Allah,' dan (Mendirikan shalat) artinya menunaikannya dengan kefardhuan dan kekhusyu'annya."
+    },
+    {
+      "title": "Tafsir Al-Baqarah: Kisah Penciptaan Nabi Adam",
+      "titleArabic": "قِصَّةُ خَلْقِ آدَمَ عَلَيْهِ السَّلَامُ",
+      "arabic": "أَخْرَجَ ابْنُ جَرِيرٍ عَنِ ابْنِ عَبَّاسٍ قَالَ: لَمَّا أَرَادَ اللَّهُ أَنْ يَخْلُقَ آدَمَ بَعَثَ جِبْرِيلَ إِلَى الْأَرْضِ لِيَأْتِيَ بِطِينٍ مِنْهَا، فَقَالَتِ الْأَرْضُ: أَعُوذُ بِاللَّهِ مِنْكَ أَنْ تَنْقُصَ مِنِّي.",
+      "translation": "Ibnu Jarir mengeluarkan dari Ibnu Abbas, ia berkata: 'Ketika Allah hendak menciptakan Adam, Dia mengutus Jibril ke bumi untuk mengambil tanah darinya, maka bumi berkata: Aku berlindung kepada Allah darimu agar engkau tidak mengurangiku.'"
+    },
+    {
+      "title": "Tafsir Ayat Kursi",
+      "titleArabic": "تَفْسِيرُ آيَةِ الْكُرْسِيِّ",
+      "arabic": "أَخْرَجَ أَحْمَدُ وَمُسْلِمٌ عَنْ أُبَيِّ بْنِ كَعْبٍ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ سَأَلَهُ: أَيُّ آيَةٍ فِي كِتَابِ اللَّهِ أَعْظَمُ؟ قَالَ: اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ. فَضَرَبَ فِي صَدْرِهِ وَقَالَ: لِيَهْنِكَ الْعِلْمُ أَبَا الْمُنْذِرِ.",
+      "translation": "Ahmad dan Muslim mengeluarkan dari Ubay bin Ka'ab bahwa Nabi SAW bertanya kepadanya: 'Ayat mana dalam kitab Allah yang paling agung?' Ia menjawab: 'Allahu la ilaha illa Huwal Hayyul Qayyum.' Maka Nabi menepuk dadanya dan bersabda: 'Semoga ilmu ini menjadi berkah bagimu wahai Abu Mundzir.'"
+    },
+    {
+      "title": "Tafsir Surah Ali Imran",
+      "titleArabic": "تَفْسِيرُ سُورَةِ آلِ عِمْرَانَ",
+      "arabic": "أَخْرَجَ التِّرْمِذِيُّ عَنْ أَبِي أُمَامَةَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: اقْرَءُوا الزَّهْرَاوَيْنِ: الْبَقَرَةَ وَآلَ عِمْرَانَ، فَإِنَّهُمَا تَأْتِيَانِ يَوْمَ الْقِيَامَةِ كَأَنَّهُمَا غَمَامَتَانِ.",
+      "translation": "At-Tirmidzi mengeluarkan dari Abu Umamah, ia berkata: Rasulullah SAW bersabda: 'Bacalah dua bunga (az-Zahrawain): Al-Baqarah dan Ali Imran, karena keduanya akan datang pada hari kiamat seolah-olah dua awan.'"
+    },
+    {
+      "title": "Tafsir Surah An-Nisa",
+      "titleArabic": "تَفْسِيرُ سُورَةِ النِّسَاءِ",
+      "arabic": "أَخْرَجَ الْبَيْهَقِيُّ عَنِ ابْنِ مَسْعُودٍ قَالَ: إِنَّ فِي سُورَةِ النِّسَاءِ لَخَمْسَ آيَاتٍ مَا يَسُرُّنِي أَنَّ لِي بِهِنَّ الدُّنْيَا وَمَا فِيهَا: إِنَّ اللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍ...",
+      "translation": "Al-Baihaqi mengeluarkan dari Ibnu Mas'ud, ia berkata: 'Sesungguhnya dalam Surah An-Nisa terdapat lima ayat yang aku tidak akan menukarnya dengan dunia beserta isinya, (salah satunya): Sesungguhnya Allah tidak mendhalimi seberat dzarrah pun...'"
+    },
+    {
+      "title": "Tafsir Surah Al-Ma'idah",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْمَائِدَةِ",
+      "arabic": "أَخْرَجَ أَبُو عُبَيْدٍ عَنْ مُحَمَّدِ بْنِ كَعْبٍ الْقُرَظِيِّ قَالَ: نَزَلَتْ سُورَةُ الْمَائِدَةِ عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي حَجَّةِ الْوَدَاعِ وَهُوَ عَلَى نَاقَتِهِ.",
+      "translation": "Abu Ubaid mengeluarkan dari Muhammad bin Ka'ab al-Qurazhi, ia berkata: 'Surah Al-Ma'idah turun kepada Rasulullah SAW pada haji wada' ketika beliau berada di atas untanya.'"
+    },
+    {
+      "title": "Tafsir Surah Al-An'am",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْأَنْعَامِ",
+      "arabic": "أَخْرَجَ الْحَاكِمُ عَنْ جَابِرٍ قَالَ: لَمَّا نَزَلَتْ سُورَةُ الْأَنْعَامِ سَبَّحَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، ثُمَّ قَالَ: لَقَدْ شَيَّعَ هَذِهِ السُّورَةَ مِنَ الْمَلَائِكَةِ مَا سَدَّ الْأُفُقَ.",
+      "translation": "Al-Hakim mengeluarkan dari Jabir, ia berkata: 'Ketika Surah Al-An'am turun, Rasulullah SAW bertasbih, kemudian beliau bersabda: Surah ini telah diiringi oleh para malaikat yang memenuhi ufuk.'"
+    },
+    {
+      "title": "Tafsir Surah Al-A'raf",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْأَعْرَافِ",
+      "arabic": "أَخْرَجَ ابْنُ جَرِيرٍ عَنِ ابْنِ عَبَّاسٍ فِي قَوْلِهِ (وَبَيْنَهُمَا حِجَابٌ وَعَلَى الْأَعْرَافِ رِجَالٌ) قَالَ: الْأَعْرَافُ هُوَ سُورٌ بَيْنَ الْجَنَّةِ وَالنَّارِ.",
+      "translation": "Ibnu Jarir mengeluarkan dari Ibnu Abbas mengenai firman-Nya (Dan di antara keduanya ada tabir, dan di atas Al-A'raf ada orang-orang), ia berkata: 'Al-A'raf adalah tembok pembatas antara surga dan neraka.'"
+    },
+    {
+      "title": "Tafsir Surah Al-Anfal",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْأَنْفَالِ",
+      "arabic": "أَخْرَجَ الْبُخَارِيُّ عَنِ ابْنِ عَبَّاسٍ فِي قَوْلِهِ (يَسْأَلُونَكَ عَنِ الْأَنْفَالِ) قَالَ: نَزَلَتْ فِي غَنَائِمِ بَدْرٍ.",
+      "translation": "Al-Bukhari mengeluarkan dari Ibnu Abbas mengenai firman-Nya (Mereka bertanya kepadamu tentang Al-Anfal/Harta Rampasan), ia berkata: 'Ayat ini turun mengenai rampasan perang Badar.'"
+    },
+    {
+      "title": "Tafsir Surah At-Taubah",
+      "titleArabic": "تَفْسِيرُ سُورَةِ التَّوْبَةِ",
+      "arabic": "أَخْرَجَ ابْنُ أَبِي شَيْبَةَ عَنْ سَعِيدِ بْنِ جُبَيْرٍ قَالَ: قُلْتُ لِابْنِ عَبَّاسٍ: سُورَةُ التَّوْبَةِ؟ قَالَ: هِيَ الْفَاضِحَةُ، مَا زَالَتْ تَنْزِلُ (وَمِنْهُمْ... وَمِنْهُمْ...) حَتَّى ظَنُّوا أَنْ لَنْ يَبْقَى أَحَدٌ إِلَّا ذُكِرَ فِيهَا.",
+      "translation": "Ibnu Abi Shaibah mengeluarkan dari Sa'id bin Jubair, ia berkata: Aku bertanya kepada Ibnu Abbas: 'Surah At-Taubah?' Ia menjawab: 'Itu adalah surah Penyingkap Aib, senantiasa turun (Dan di antara mereka... Dan di antara mereka...) hingga mereka menyangka tidak ada seorang pun tersisa kecuali disebutkan di dalamnya.'"
+    },
+    {
+      "title": "Tafsir Surah Yunus",
+      "titleArabic": "تَفْسِيرُ سُورَةِ يُونُسَ",
+      "arabic": "أَخْرَجَ ابْنُ جَرِيرٍ عَنِ ابْنِ عَبَّاسٍ فِي قَوْلِهِ (لِلَّذِينَ أَحْسَنُوا الْحُسْنَى وَزِيَادَةٌ) قَالَ: الْحُسْنَى هِيَ الْجَنَّةُ، وَالزِّيَادَةُ هِيَ النَّظَرُ إِلَى وَجْهِ اللَّهِ الْكَرِيمِ.",
+      "translation": "Ibnu Jarir mengeluarkan dari Ibnu Abbas mengenai firman-Nya (Bagi orang-orang yang berbuat baik ada pahala yang terbaik/Al-Husna dan tambahannya), ia berkata: 'Al-Husna adalah surga, dan tambahannya adalah memandang wajah Allah yang Mulia.'"
+    },
+    {
+      "title": "Tafsir Surah Hud",
+      "titleArabic": "تَفْسِيرُ سُورَةِ هُودٍ",
+      "arabic": "أَخْرَجَ التِّرْمِذِيُّ عَنْ أَبِي بَكْرٍ الصِّدِّيقِ قَالَ: يَا رَسُولَ اللَّهِ قَدْ شِبْتَ! قَالَ: شَيَّبَتْنِي هُودٌ وَالْوَاقِعَةُ وَالْمُرْسَلَاتُ وَعَمَّ يَتَسَاءَلُونَ وَإِذَا الشَّمْسُ كُوِّرَتْ.",
+      "translation": "At-Tirmidzi mengeluarkan dari Abu Bakar ash-Shiddiq, ia berkata: 'Wahai Rasulullah, engkau telah beruban!' Beliau bersabda: 'Aku dibuat beruban oleh surah Hud, Al-Waqi'ah, Al-Mursalat, 'Amma Yatasa'alun, dan Idzasy Syamsu Kuwwirat.'"
+    },
+    {
+      "title": "Tafsir Surah Yusuf",
+      "titleArabic": "تَفْسِيرُ سُورَةِ يُوسُفَ",
+      "arabic": "أَخْرَجَ الْحَاكِمُ عَنْ مُصْعَبِ بْنِ سَعْدٍ عَنْ أَبِيهِ قَالَ: أُنْزِلَ الْقُرْآنُ عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَتَلَاهُ عَلَيْهِمْ زَمَانًا، فَقَالُوا: يَا رَسُولَ اللَّهِ لَوْ قَصَصْتَ عَلَيْنَا؟ فَنَزَلَتْ (نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ الْقَصَصِ).",
+      "translation": "Al-Hakim mengeluarkan dari Mush'ab bin Sa'ad, dari ayahnya, ia berkata: 'Al-Qur'an diturunkan kepada Rasulullah SAW lalu beliau membacakannya kepada mereka dalam suatu waktu, lalu mereka berkata: Wahai Rasulullah, sekiranya engkau menceritakan kisah kepada kami? Maka turunlah (Kami menceritakan kepadamu kisah yang paling baik).'"
+    },
+    {
+      "title": "Tafsir Surah Ar-Ra'd",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الرَّعْدِ",
+      "arabic": "أَخْرَجَ ابْنُ جَرِيرٍ عَنِ ابْنِ عَبَّاسٍ فِي قَوْلِهِ (وَيُسَبِّحُ الرَّعْدُ بِحَمْدِهِ) قَالَ: الرَّعْدُ مَلَكٌ يَسُوقُ السَّحَابَ بِالصَّوْتِ.",
+      "translation": "Ibnu Jarir mengeluarkan dari Ibnu Abbas mengenai firman-Nya (Dan guruh itu bertasbih dengan memuji-Nya), ia berkata: 'Guruh (Ar-Ra'd) adalah malaikat yang menggiring awan dengan suara.'"
+    },
+    {
+      "title": "Tafsir Surah Ibrahim",
+      "titleArabic": "تَفْسِيرُ سُورَةِ إِبْرَاهِيمَ",
+      "arabic": "أَخْرَجَ الْبُخَارِيُّ وَمُسْلِمٌ عَنِ الْبَرَاءِ بْنِ عَازِبٍ فِي قَوْلِهِ (يُثَبِّتُ اللَّهُ الَّذِينَ آمَنُوا بِالْقَوْلِ الثَّابِتِ) قَالَ: نَزَلَتْ فِي عَذَابِ الْقَبْرِ.",
+      "translation": "Al-Bukhari dan Muslim mengeluarkan dari Al-Bara' bin Azib mengenai firman-Nya (Allah meneguhkan orang-orang yang beriman dengan perkataan yang teguh), ia berkata: 'Ayat ini turun mengenai adzab kubur.'"
+    },
+    {
+      "title": "Tafsir Surah Al-Hijr",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْحِجْرِ",
+      "arabic": "أَخْرَجَ ابْنُ أَبِي حَاتِمٍ عَنِ ابْنِ عَبَّاسٍ فِي قَوْلِهِ (وَلَقَدْ آتَيْنَاكَ سَبْعًا مِنَ الْمَثَانِي) قَالَ: هِيَ أُمُّ الْقُرْآنِ.",
+      "translation": "Ibnu Abi Hatim mengeluarkan dari Ibnu Abbas mengenai firman-Nya (Dan sesungguhnya Kami telah memberikan kepadamu tujuh ayat yang dibaca berulang-ulang), ia berkata: 'Itu adalah Ummul Qur'an (Al-Fatihah).'"
+    },
+    {
+      "title": "Tafsir Surah An-Nahl",
+      "titleArabic": "تَفْسِيرُ سُورَةِ النَّحْلِ",
+      "arabic": "أَخْرَجَ ابْنُ مَرْدَوَيْهِ عَنِ ابْنِ عَبَّاسٍ قَالَ: سُورَةُ النَّحْلِ تُدْعَى سُورَةَ النِّعَمِ.",
+      "translation": "Ibnu Mardawaih mengeluarkan dari Ibnu Abbas, ia berkata: 'Surah An-Nahl disebut juga sebagai Surah An-Ni'am (Nikmat-nikmat).'"
+    },
+    {
+      "title": "Tafsir Surah Al-Isra'",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْإِسْرَاءِ",
+      "arabic": "أَخْرَجَ أَحْمَدُ وَالْبُخَارِيُّ عَنِ ابْنِ عَبَّاسٍ فِي قَوْلِهِ (سُبْحَانَ الَّذِي أَسْرَى بِعَبْدِهِ لَيْلًا) قَالَ: هُوَ إِسْرَاءُ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى.",
+      "translation": "Ahmad dan Al-Bukhari mengeluarkan dari Ibnu Abbas mengenai firman-Nya (Maha Suci Allah yang telah memperjalankan hamba-Nya pada suatu malam), ia berkata: 'Itu adalah perjalanan Isra' Nabi SAW dari Masjidil Haram ke Masjidil Aqsa.'"
+    },
+    {
+      "title": "Tafsir Surah Al-Kahf",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْكَهْفِ",
+      "arabic": "أَخْرَجَ الْحَاكِمُ عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ قَالَ: مَنْ قَرَأَ سُورَةَ الْكَهْفِ يَوْمَ الْجُمُعَةِ أَضَاءَ لَهُ مِنَ النُّورِ مَا بَيْنَ الْجُمُعَتَيْنِ.",
+      "translation": "Al-Hakim mengeluarkan dari Abu Sa'id al-Khudri, ia berkata: 'Barangsiapa membaca Surah Al-Kahfi pada hari Jumat, maka akan terpancar cahaya baginya di antara dua Jumat.'"
+    },
+    {
+      "title": "Tafsir Surah Maryam",
+      "titleArabic": "تَفْسِيرُ سُورَةِ مَرْيَمَ",
+      "arabic": "أَخْرَجَ ابْنُ جَرِيرٍ عَنِ ابْنِ عَبَّاسٍ فِي قَوْلِهِ (وَاذْكُرْ فِي الْكِتَابِ مَرْيَمَ) قَالَ: هِيَ مَرْيَمُ بِنْتُ عِمْرَانَ أُمُّ عِيسَى عَلَيْهِ السَّلَامُ.",
+      "translation": "Ibnu Jarir mengeluarkan dari Ibnu Abbas mengenai firman-Nya (Dan ceritakanlah kisah Maryam di dalam Al-Kitab), ia berkata: 'Ia adalah Maryam binti Imran, ibunda Nabi Isa AS.'"
+    },
+    {
+      "title": "Tafsir Surah Thaha",
+      "titleArabic": "تَفْسِيرُ سُورَةِ طه",
+      "arabic": "أَخْرَجَ الدَّارِمِيُّ عَنْ أَبِي هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: إِنَّ اللَّهَ تَبَارَكَ وَتَعَالَى قَرَأَ طه وَيس قَبْلَ أَنْ يَخْلُقَ السَّمَاوَاتِ وَالْأَرْضَ بِأَلْفَيْ عَامٍ.",
+      "translation": "Ad-Darimi mengeluarkan dari Abu Hurairah, ia berkata: Rasulullah SAW bersabda: 'Sesungguhnya Allah Tabaraka wa Ta'ala membaca Thaha dan Yasin dua ribu tahun sebelum Dia menciptakan langit dan bumi.'"
+    },
+    {
+      "title": "Tafsir Surah Al-Anbiya",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْأَنْبِيَاءِ",
+      "arabic": "أَخْرَجَ ابْنُ جَرِيرٍ عَنِ ابْنِ مَسْعُودٍ فِي قَوْلِهِ (اقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ) قَالَ: هَذَا تَنْبِيهٌ عَلَى قُرْبِ السَّاعَةِ.",
+      "translation": "Ibnu Jarir mengeluarkan dari Ibnu Mas'ud mengenai firman-Nya (Telah dekat kepada manusia hari penghisaban mereka), ia berkata: 'Ini adalah peringatan akan dekatnya hari kiamat.'"
+    },
+    {
+      "title": "Tafsir Surah Al-Hajj",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْحَجِّ",
+      "arabic": "أَخْرَجَ ابْنُ مَرْدَوَيْهِ عَنِ ابْنِ عَبَّاسٍ قَالَ: نَزَلَتْ سُورَةُ الْحَجِّ بِالْمَدِينَةِ إِلَّا آيَاتٍ نَزَلَتْ بِمَكَّةَ.",
+      "translation": "Ibnu Mardawaih mengeluarkan dari Ibnu Abbas, ia berkata: 'Surah Al-Hajj turun di Madinah kecuali beberapa ayat yang turun di Makkah.'"
+    },
+    {
+      "title": "Tafsir Surah Al-Mu'minun",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْمُؤْمِنُونَ",
+      "arabic": "أَخْرَجَ النَّسَائِيُّ عَنْ عَائِشَةَ قَالَتْ: كَانَ خُلُقُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْقُرْآنَ، ثُمَّ قَرَأَتْ (قَدْ أَفْلَحَ الْمُؤْمِنُونَ) حَتَّى عَشْرَ آيَاتٍ.",
+      "translation": "An-Nasa'i mengeluarkan dari Aisyah, ia berkata: 'Akhlak Rasulullah SAW adalah Al-Qur'an,' kemudian beliau membaca (Sungguh beruntung orang-orang mukmin) hingga sepuluh ayat."
+    },
+    {
+      "title": "Tafsir Surah An-Nur",
+      "titleArabic": "تَفْسِيرُ سُورَةِ النُّورِ",
+      "arabic": "أَخْرَجَ ابْنُ مَرْدَوَيْهِ عَنْ عَائِشَةَ قَالَتْ: عَلِّمُوا رِجَالَكُمْ سُورَةَ الْمَائِدَةِ وَعَلِّمُوا نِسَاءَكُمْ سُورَةَ النُّورِ.",
+      "translation": "Ibnu Mardawaih mengeluarkan dari Aisyah, ia berkata: 'Ajarkanlah kaum laki-laki kalian Surah Al-Ma'idah dan ajarkanlah kaum perempuan kalian Surah An-Nur.'"
+    },
+    {
+      "title": "Tafsir Surah Al-Furqan",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْفُرْقَانِ",
+      "arabic": "أَخْرَجَ ابْنُ أَبِي حَاتِمٍ عَنِ ابْنِ عَبَّاسٍ فِي قَوْلِهِ (تَبَارَكَ الَّذِي نَزَّلَ الْفُرْقَانَ) قَالَ: الْفُرْقَانُ هُوَ الْقُرْآنُ، سُمِّيَ بِذَلِكَ لِأَنَّهُ فَرَقَ بَيْنَ الْحَقِّ وَالْبَاطِلِ.",
+      "translation": "Ibnu Abi Hatim mengeluarkan dari Ibnu Abbas mengenai firman-Nya (Maha Suci Allah yang telah menurunkan Al-Furqan), ia berkata: 'Al-Furqan adalah Al-Qur'an, dinamakan demikian karena ia memisahkan antara yang hak dan yang batil.'"
+    },
+    {
+      "title": "Tafsir Surah Asy-Syu'ara",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الشُّعَرَاءِ",
+      "arabic": "أَخْرَجَ ابْنُ جَرِيرٍ عَنِ ابْنِ عَبَّاسٍ فِي قَوْلِهِ (وَالشُّعَرَاءُ يَتَّبِعُهُمُ الْغَاوُونَ) قَالَ: هُمُ الْكُفَّارُ يَشْتِمُونَ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ.",
+      "translation": "Ibnu Jarir mengeluarkan dari Ibnu Abbas mengenai firman-Nya (Dan penyair-penyair itu diikuti oleh orang-orang yang sesat), ia berkata: 'Mereka adalah orang-orang kafir yang mencela Nabi SAW.'"
+    },
+    {
+      "title": "Tafsir Surah An-Naml",
+      "titleArabic": "تَفْسِيرُ سُورَةِ النَّمْلِ",
+      "arabic": "أَخْرَجَ ابْنُ جَرِيرٍ عَنِ ابْنِ عَبَّاسٍ فِي قَوْلِهِ (إِنَّهُ مِنْ سُلَيْمَانَ وَإِنَّهُ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ) قَالَ: كَتَبَ سُلَيْمَانُ إِلَى بِلْقِيسَ بِهَذِهِ الْبُسْمَلَةِ.",
+      "translation": "Ibnu Jarir mengeluarkan dari Ibnu Abbas mengenai firman-Nya (Sesungguhnya surat itu dari Sulaiman dan sesungguhnya isinya: Dengan menyebut nama Allah yang Maha Pengasih lagi Maha Penyayang), ia berkata: 'Sulaiman menulis kepada Balqis dengan basmalah ini.'"
+    },
+    {
+      "title": "Tafsir Surah Al-Qashash",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْقَصَصِ",
+      "arabic": "أَخْرَجَ ابْنُ جَرِيرٍ عَنِ ابْنِ عَبَّاسٍ فِي قَوْلِهِ (إِنَّ الَّذِي فَرَضَ عَلَيْكَ الْقُرْآنَ لَرَادُّكَ إِلَى مَعَادٍ) قَالَ: إِلَى مَكَّةَ.",
+      "translation": "Ibnu Jarir mengeluarkan dari Ibnu Abbas mengenai firman-Nya (Sesungguhnya Allah yang mewajibkan atasmu Al-Qur'an benar-benar akan mengembalikanmu ke tempat kembali), ia berkata: 'Yaitu ke Makkah.'"
+    },
+    {
+      "title": "Tafsir Surah Al-Ankabut",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْعَنْكَبُوتِ",
+      "arabic": "أَخْرَجَ ابْنُ أَبِي حَاتِمٍ عَنْ مُصْعَبِ بْنِ سَعْدٍ عَنْ أَبِيهِ قَالَ: نَزَلَتْ فِيَّ هَذِهِ الْآيَةُ (وَإِنْ جَاهَدَاكَ لِتُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلَا تُطِعْهُمَا).",
+      "translation": "Ibnu Abi Hatim mengeluarkan dari Mush'ab bin Sa'ad dari ayahnya, ia berkata: 'Ayat ini turun mengenaku (Dan jika keduanya memaksamu untuk mempersekutukan Aku dengan sesuatu yang tidak ada pengetahuanmu tentang itu, maka janganlah kamu mengikuti keduanya).'"
+    },
+    {
+      "title": "Tafsir Surah Ar-Rum",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الرُّومِ",
+      "arabic": "أَخْرَجَ التِّرْمِذِيُّ عَنِ ابْنِ عَبَّاسٍ فِي قَوْلِهِ (غُلِبَتِ الرُّومُ) قَالَ: كَانَ الْمُسْلِمُونَ يُحِبُّونَ أَنْ تَظْهَرَ الرُّومُ عَلَى الْفُرْسِ لِأَنَّهُمْ أَهْلُ كِتَابٍ.",
+      "translation": "At-Tirmidzi mengeluarkan dari Ibnu Abbas mengenai firman-Nya (Bangsa Romawi telah dikalahkan), ia berkata: 'Kaum Muslimin lebih suka jika Romawi menang atas Persia karena mereka adalah Ahli Kitab.'"
+    },
+    {
+      "title": "Tafsir Surah Luqman",
+      "titleArabic": "تَفْسِيرُ سُورَةِ لُقْمَانَ",
+      "arabic": "أَخْرَجَ ابْنُ مَرْدَوَيْهِ عَنِ ابْنِ عَبَّاسٍ قَالَ: كَانَ لُقْمَانُ عَبْدًا حَبَشِيًّا نَجَّارًا، أَعْطَاهُ اللَّهُ الْحِكْمَةَ.",
+      "translation": "Ibnu Mardawaih mengeluarkan dari Ibnu Abbas, ia berkata: 'Luqman adalah seorang budak Habasyah yang berprofesi sebagai tukang kayu, Allah memberinya hikmah.'"
+    },
+    {
+      "title": "Tafsir Surah As-Sajdah",
+      "titleArabic": "تَفْسِيرُ سُورَةِ السَّجْدَةِ",
+      "arabic": "أَخْرَجَ أَحْمَدُ وَالتِّرْمِذِيُّ عَنْ جَابِرٍ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ لَا يَنَامُ حَتَّى يَقْرَأَ (الم تَنْزِيلُ السَّجْدَةِ) وَ (تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ).",
+      "translation": "Ahmad dan At-Tirmidzi mengeluarkan dari Jabir bahwa Nabi SAW tidak tidur hingga beliau membaca Alif Lam Mim Tanzil As-Sajdah dan Tabarakalladzi biyadihil Mulk."
+    },
+    {
+      "title": "Tafsir Surah Al-Ahzab",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْأَحْزَابِ",
+      "arabic": "أَخْرَجَ ابْنُ مَرْدَوَيْهِ عَنْ عَائِشَةَ قَالَتْ: نَزَلَتْ آيَةُ التَّطْهِيرِ (إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ) فِي بَيْتِي.",
+      "translation": "Ibnu Mardawaih mengeluarkan dari Aisyah, ia berkata: 'Ayat pensucian (Sesungguhnya Allah bermaksud hendak menghilangkan dosa dari kamu, hai ahlul bait) turun di rumahku.'"
+    },
+    {
+      "title": "Tafsir Surah Saba'",
+      "titleArabic": "تَفْسِيرُ سُورَةِ سَبَإٍ",
+      "arabic": "أَخْرَجَ أَحْمَدُ عَنِ ابْنِ عَبَّاسٍ قَالَ: سَأَلَ رَجُلٌ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ سَبَإٍ: أَرَجُلٌ هُوَ أَمِ امْرَأَةٌ أَمْ أَرْضٌ؟ قَالَ: بَلْ هُوَ رَجُلٌ وَلَدَ عَشَرَةً مِنَ الْعَرَبِ.",
+      "translation": "Ahmad mengeluarkan dari Ibnu Abbas, ia berkata: Seseorang bertanya kepada Nabi SAW tentang Saba': 'Apakah itu laki-laki, perempuan, atau nama negeri?' Beliau bersabda: 'Bahkan ia adalah seorang laki-laki yang melahirkan sepuluh suku Arab.'"
+    },
+    {
+      "title": "Tafsir Surah Fathir",
+      "titleArabic": "تَفْسِيرُ سُورَةِ فَاطِرٍ",
+      "arabic": "أَخْرَجَ ابْنُ أَبِي حَاتِمٍ عَنِ ابْنِ عَبَّاسٍ فِي قَوْلِهِ (جَاعِلِ الْمَلَائِكَةِ رُسُلًا أُولِي أَجْنِحَةٍ) قَالَ: بَعْضُهُمْ لَهُ جَنَاحَانِ وَبَعْضُهُمْ أَكْثَرُ.",
+      "translation": "Ibnu Abi Hatim mengeluarkan dari Ibnu Abbas mengenai firman-Nya (Yang menjadikan malaikat sebagai utusan-utusan yang mempunyai sayap), ia berkata: 'Sebagian mereka punya dua sayap dan sebagian punya lebih banyak.'"
+    },
+    {
+      "title": "Tafsir Surah Yasin",
+      "titleArabic": "تَفْسِيرُ سُورَةِ يس",
+      "arabic": "أَخْرَجَ أَبُو دَاوُدَ عَنْ مَعْقِلِ بْنِ يَسَارٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: اقْرَءُوا يس عَلَى مَوْتَاكُمْ.",
+      "translation": "Abu Dawud mengeluarkan dari Ma'qil bin Yasar, ia berkata: Rasulullah SAW bersabda: 'Bacalah Yasin kepada orang-orang yang mati di antara kalian.'"
+    },
+    {
+      "title": "Tafsir Surah Ash-Shaffat",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الصَّافَّاتِ",
+      "arabic": "أَخْرَجَ ابْنُ جَرِيرٍ عَنِ ابْنِ عَبَّاسٍ فِي قَوْلِهِ (وَالصَّافَّاتِ صَفًّا) قَالَ: هِيَ الْمَلَائِكَةُ فِي السَّمَاءِ تَصُفُّ لِلصَّلَاةِ.",
+      "translation": "Ibnu Jarir mengeluarkan dari Ibnu Abbas mengenai firman-Nya (Demi rombongan yang berbaris bershaf-shaf), ia berkata: 'Mereka adalah para malaikat di langit yang berbaris untuk shalat.'"
+    },
+    {
+      "title": "Tafsir Surah Shad",
+      "titleArabic": "تَفْسِيرُ سُورَةِ ص",
+      "arabic": "أَخْرَجَ ابْنُ أَبِي حَاتِمٍ عَنِ ابْنِ عَبَّاسٍ فِي قَوْلِهِ (أَصْطَفَى الْبَنَاتِ عَلَى الْبَنِينَ) قَالَ: هَذَا تَوْبِيخٌ لِلْمُشْرِكِينَ الَّذِينَ قَالُوا الْمَلَائِكَةُ بَنَاتُ اللَّهِ.",
+      "translation": "Ibnu Abi Hatim mengeluarkan dari Ibnu Abbas mengenai firman-Nya (Apakah Dia memilih anak-anak perempuan daripada anak-anak laki-laki?), ia berkata: 'Ini adalah teguran bagi kaum musyrik yang berkata bahwa malaikat adalah anak perempuan Allah.'"
+    },
+    {
+      "title": "Tafsir Surah Az-Zumar",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الزُّمَرِ",
+      "arabic": "أَخْرَجَ ابْنُ جَرِيرٍ عَنِ ابْنِ عَبَّاسٍ فِي قَوْلِهِ (قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ) قَالَ: هِيَ أَرْجَى آيَةٍ فِي الْقُرْآنِ.",
+      "translation": "Ibnu Jarir mengeluarkan dari Ibnu Abbas mengenai firman-Nya (Katakanlah: Wahai hamba-hamba-Ku yang melampaui batas terhadap diri mereka sendiri), ia berkata: 'Ini adalah ayat yang paling memberi harapan dalam Al-Qur'an.'"
+    },
+    {
+      "title": "Tafsir Surah Ghafir",
+      "titleArabic": "تَفْسِيرُ سُورَةِ غَافِرٍ",
+      "arabic": "أَخْرَجَ التِّرْمِذِيُّ عَنْ أَبِي هُرَيْرَةَ قَالَ: مَنْ قَرَأَ حم الْمُؤْمِنَ (غَافِرٍ) إِلَى (إِلَيْهِ الْمَصِيرُ) وَآيَةَ الْكُرْسِيِّ حِينَ يُصْبِحُ حُفِظَ حَتَّى يُمْسِيَ.",
+      "translation": "At-Tirmidzi mengeluarkan dari Abu Hurairah, ia berkata: 'Barangsiapa membaca Ha Mim Al-Mu'min (Ghafir) hingga (kepada-Nya tempat kembali) dan Ayat Kursi ketika pagi hari, maka ia dijaga hingga sore hari.'"
+    },
+    {
+      "title": "Tafsir Surah Fushshilat",
+      "titleArabic": "تَفْسِيرُ سُورَةِ فُصِّلَتْ",
+      "arabic": "أَخْرَجَ ابْنُ أَبِي حَاتِمٍ عَنِ ابْنِ عَبَّاسٍ فِي قَوْلِهِ (ثُمَّ اسْتَوَى إِلَى السَّمَاءِ وَهِيَ دُخَانٌ) قَالَ: الدُّخَانُ هُوَ بُخَارُ الْمَاءِ.",
+      "translation": "Ibnu Abi Hatim mengeluarkan dari Ibnu Abbas mengenai firman-Nya (Kemudian Dia menuju ke langit dan langit itu masih merupakan asap), ia berkata: 'Asap itu adalah uap air.'"
+    },
+    {
+      "title": "Tafsir Surah Asy-Syura",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الشُّورَى",
+      "arabic": "أَخْرَجَ ابْنُ جَرِيرٍ عَنِ ابْنِ عَبَّاسٍ فِي قَوْلِهِ (قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي الْقُرْبَى) قَالَ: أَنْ تَوَدُّونِي فِي قَرَابَتِي مِنْكُمْ.",
+      "translation": "Ibnu Jarir mengeluarkan dari Ibnu Abbas mengenai firman-Nya (Katakanlah: Aku tidak meminta upah kepadamu atas seruanku kecuali kasih sayang dalam kekeluargaan), ia berkata: 'Hendaklah kalian mencintaiku karena hubungan kekerabatanku dengan kalian.'"
+    },
+    {
+      "title": "Tafsir Surah Az-Zukhruf",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الزُّخْرُفِ",
+      "arabic": "أَخْرَجَ ابْنُ جَرِيرٍ عَنِ ابْنِ عَبَّاسٍ فِي قَوْلِهِ (وَإِنَّهُ لَعِلْمٌ لِلسَّاعَةِ) قَالَ: هُوَ خُرُوجُ عِيسَى ابْنِ مَرْيَمَ قَبْلَ يَوْمِ الْقِيَامَةِ.",
+      "translation": "Ibnu Jarir mengeluarkan dari Ibnu Abbas mengenai firman-Nya (Dan sesungguhnya itu benar-benar menjadi tanda bagi kedatangan hari kiamat), ia berkata: 'Yaitu turunnya Isa bin Maryam sebelum hari kiamat.'"
+    },
+    {
+      "title": "Tafsir Surah Ad-Dukhan",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الدُّخَانِ",
+      "arabic": "أَخْرَجَ ابْنُ جَرِيرٍ عَنِ ابْنِ عَبَّاسٍ فِي قَوْلِهِ (إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةٍ مُبَارَكَةٍ) قَالَ: هِيَ لَيْلَةُ الْقَدْرِ.",
+      "translation": "Ibnu Jarir mengeluarkan dari Ibnu Abbas mengenai firman-Nya (Sesungguhnya Kami menurunkannya pada malam yang diberkahi), ia berkata: 'Itu adalah Lailatul Qadar.'"
+    },
+    {
+      "title": "Tafsir Surah Al-Jathiyah",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْجَاثِيَةِ",
+      "arabic": "أَخْرَجَ ابْنُ جَرِيرٍ عَنِ ابْنِ عَبَّاسٍ فِي قَوْلِهِ (هَذَا كِتَابُنَا يَنْطِقُ عَلَيْكُمْ بِالْحَقِّ) قَالَ: هُوَ أَعْمَالُ بَنِي آدَمَ تُعْرَضُ عَلَيْهِمْ.",
+      "translation": "Ibnu Jarir mengeluarkan dari Ibnu Abbas mengenai firman-Nya (Inilah kitab Kami yang menceritakan terhadapmu dengan benar), ia berkata: 'Itu adalah amal-amal bani Adam yang ditunjukkan kepada mereka.'"
+    },
+    {
+      "title": "Tafsir Surah Al-Ahqaf",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْأَحْقَافِ",
+      "arabic": "أَخْرَجَ ابْنُ أَبِي حَاتِمٍ عَنِ ابْنِ عَبَّاسٍ فِي قَوْلِهِ (وَاذْكُرْ أَخَا عَادٍ إِذْ أَنْذَرَ قَوْمَهُ بِالْأَحْقَافِ) قَالَ: الْأَحْقَافُ جِبَالٌ مِنَ الرَّمْلِ بِالْيَمَنِ.",
+      "translation": "Ibnu Abi Hatim mengeluarkan dari Ibnu Abbas mengenai firman-Nya (Dan ingatlah saudara kaum 'Ad ketika ia memberi peringatan kepada kaumnya di Al-Ahqaf), ia berkata: 'Al-Ahqaf adalah gunung-gunung pasir di Yaman.'"
+    },
+    {
+      "title": "Tafsir Surah Muhammad",
+      "titleArabic": "تَفْسِيرُ سُورَةِ مُحَمَّدٍ",
+      "arabic": "أَخْرَجَ ابْنُ مَرْدَوَيْهِ عَنِ ابْنِ عَبَّاسٍ قَالَ: نَزَلَتْ سُورَةُ مُحَمَّدٍ بِالْمَدِينَةِ.",
+      "translation": "Ibnu Mardawaih mengeluarkan dari Ibnu Abbas, ia berkata: 'Surah Muhammad turun di Madinah.'"
+    },
+    {
+      "title": "Tafsir Surah Al-Fath",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْفَتْحِ",
+      "arabic": "أَخْرَجَ الْبُخَارِيُّ عَنْ عُمَرَ بْنِ الْخَطَّابِ قَالَ: نَزَلَتْ عَلَيَّ اللَّيْلَةَ سُورَةٌ لَهِيَ أَحَبُّ إِلَيَّ مِمَّا طَلَعَتْ عَلَيْهِ الشَّمْسُ: إِنَّا فَتَحْنَا لَكَ فَتْحًا مُبِينًا.",
+      "translation": "Al-Bukhari mengeluarkan dari Umar bin Khattab, ia berkata: 'Telah turun kepadaku malam ini sebuah surah yang lebih aku cintai daripada segala apa yang disinari matahari: Sesungguhnya Kami telah memberikan kepadamu kemenangan yang nyata.'"
+    },
+    {
+      "title": "Tafsir Surah Al-Hujurat",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْحُجُرَاتِ",
+      "arabic": "أَخْرَجَ الْبُخَارِيُّ عَنِ ابْنِ أَبِي مُلَيْكَةَ قَالَ: كَادَ الْخَيِّرَانِ أَنْ يَهْلِكَا أَبُو بَكْرٍ وَعُمَرُ، رَفَعَا أَصْوَاتَهُمَا عِنْدَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، فَنَزَلَتْ (يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَرْفَعُوا أَصْوَاتَكُمْ).",
+      "translation": "Al-Bukhari mengeluarkan dari Ibnu Abi Mulaikah, ia berkata: 'Hampir saja dua orang terbaik (Abu Bakar dan Umar) binasa; mereka meninggikan suara di hadapan Nabi SAW, maka turunlah (Wahai orang-orang yang beriman janganlah kalian meninggikan suara kalian).'"
+    },
+    {
+      "title": "Tafsir Surah Qaf",
+      "titleArabic": "تَفْسِيرُ سُورَةِ ق",
+      "arabic": "أَخْرَجَ مُسْلِمٌ عَنْ قُطْبَةَ بْنِ مَالِكٍ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يَقْرَأُ فِي الصُّبْحِ بِـ (ق وَالْقُرْآنِ الْمَجِيدِ).",
+      "translation": "Muslim mengeluarkan dari Quthbah bin Malik bahwa Nabi SAW biasa membaca dalam shalat Shubuh surah (Qaf wal Qur'anil Majid)."
+    },
+    {
+      "title": "Tafsir Surah Adz-Dzariyat",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الذَّارِيَاتِ",
+      "arabic": "أَخْرَجَ ابْنُ جَرِيرٍ عَنِ ابْنِ عَبَّاسٍ فِي قَوْلِهِ (وَالذَّارِيَاتِ ذَرْوًا) قَالَ: هِيَ الرِّيَاحُ.",
+      "translation": "Ibnu Jarir mengeluarkan dari Ibnu Abbas mengenai firman-Nya (Demi angin yang menerbangkan debu dengan kuat), ia berkata: 'Itu adalah angin.'"
+    },
+    {
+      "title": "Tafsir Surah At-Thur",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الطُّورِ",
+      "arabic": "أَخْرَجَ الْبُخَارِيُّ عَنْ جُبَيْرِ بْنِ مُطْعِمٍ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقْرَأُ فِي الْمَغْرِبِ بِالطُّورِ.",
+      "translation": "Al-Bukhari mengeluarkan dari Jubair bin Muth'im, ia berkata: 'Aku mendengar Rasulullah SAW membaca surah At-Thur dalam shalat Maghrib.'"
+    },
+    {
+      "title": "Tafsir Surah An-Najm",
+      "titleArabic": "تَفْسِيرُ سُورَةِ النَّجْمِ",
+      "arabic": "أَخْرَجَ الْبُخَارِيُّ عَنِ ابْنِ مَسْعُودٍ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَرَأَ سُورَةَ النَّجْمِ بِمَكَّةَ فَسَجَدَ فِيهَا وَسَجَدَ مَنْ مَعَهُ.",
+      "translation": "Al-Bukhari mengeluarkan dari Ibnu Mas'ud bahwa Nabi SAW membaca Surah An-Najm di Makkah lalu beliau bersujud (sujud tilawah) dan orang yang bersama beliau pun ikut bersujud."
+    },
+    {
+      "title": "Tafsir Surah Al-Qamar",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْقَمَرِ",
+      "arabic": "أَخْرَجَ الْبُخَارِيُّ عَنِ ابْنِ مَسْعُودٍ قَالَ: انْشَقَّ الْقَمَرُ عَلَى عَهْدِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِرْقَتَيْنِ، فَقَالَ: اشْهَدُوا.",
+      "translation": "Al-Bukhari mengeluarkan dari Ibnu Mas'ud, ia berkata: 'Bulan terbelah pada masa Rasulullah SAW menjadi dua bagian, lalu beliau bersabda: Saksikanlah.'"
+    },
+    {
+      "title": "Tafsir Surah Ar-Rahman",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الرَّحْمَنِ",
+      "arabic": "أَخْرَجَ التِّرْمِذِيُّ عَنْ جَابِرٍ قَالَ: قَرَأَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ سُورَةَ الرَّحْمَنِ عَلَى الصَّحَابَةِ، فَقَالَ: لَقَدْ قَرَأْتُهَا عَلَى الْجِنِّ لَيْلَةَ الْجِنِّ، فَكَانُوا أَحْسَنَ مَرْدُودًا مِنْكُمْ.",
+      "translation": "At-Tirmidzi mengeluarkan dari Jabir, ia berkata: Rasulullah SAW membacakan Surah Ar-Rahman kepada para sahabat, lalu bersabda: 'Aku telah membacakannya kepada jin pada malam jin, dan mereka lebih baik responnya daripada kalian.'"
+    },
+    {
+      "title": "Tafsir Surah Al-Waqi'ah",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْوَاقِعَةِ",
+      "arabic": "أَخْرَجَ الْبَيْهَقِيُّ عَنِ ابْنِ مَسْعُودٍ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: مَنْ قَرَأَ سُورَةَ الْوَاقِعَةِ كُلَّ لَيْلَةٍ لَمْ تُصِبْهُ فَاقَةٌ أَبَدًا.",
+      "translation": "Al-Baihaqi mengeluarkan dari Ibnu Mas'ud, ia berkata: Aku mendengar Rasulullah SAW bersabda: 'Barangsiapa membaca Surah Al-Waqi'ah setiap malam, maka ia tidak akan ditimpa kemiskinan selamanya.'"
+    },
+    {
+      "title": "Tafsir Surah Al-Hadid",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْحَدِيدِ",
+      "arabic": "أَخْرَجَ ابْنُ جَرِيرٍ عَنِ ابْنِ عَبَّاسٍ فِي قَوْلِهِ (هُوَ الْأَوَّلُ وَالْآخِرُ وَالظَّاهِرُ وَالْبَاطِنُ) قَالَ: هُوَ اللَّهُ لَا شَيْءَ قَبْلَهُ وَلَا شَيْءَ بَعْدَهُ.",
+      "translation": "Ibnu Jarir mengeluarkan dari Ibnu Abbas mengenai firman-Nya (Dialah Yang Awal, Yang Akhir, Yang Zhahir dan Yang Bathin), ia berkata: 'Dialah Allah, tidak ada sesuatu pun sebelum-Nya dan tidak ada sesuatu pun sesudah-Nya.'"
+    },
+    {
+      "title": "Tafsir Surah Al-Mulk",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْمُلْكِ",
+      "arabic": "أَخْرَجَ التِّرْمِذِيُّ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: إِنَّ سُورَةً مِنَ الْقُرْآنِ ثَلَاثُونَ آيَةً شَفَعَتْ لِرَجُلٍ حَتَّى غُفِرَ لَهُ، وَهِيَ سُورَةُ (تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ).",
+      "translation": "At-Tirmidzi mengeluarkan dari Abu Hurairah dari Nabi SAW, beliau bersabda: 'Sesungguhnya satu surah dalam Al-Qur'an yang terdiri dari tiga puluh ayat dapat memberi syafaat bagi seseorang hingga ia diampuni, yaitu surah (Tabarakalladzi biyadihil Mulk).'"
+    },
+    {
+      "title": "Tafsir Surah An-Naba'",
+      "titleArabic": "تَفْسِيرُ سُورَةِ النَّبَإِ",
+      "arabic": "أَخْرَجَ ابْنُ جَرِيرٍ عَنِ ابْنِ عَبَّاسٍ فِي قَوْلِهِ (عَمَّ يَتَسَاءَلُونَ عَنِ النَّبَإِ الْعَظِيمِ) قَالَ: هُوَ الْقُرْآنُ.",
+      "translation": "Ibnu Jarir mengeluarkan dari Ibnu Abbas mengenai firman-Nya (Tentang apakah mereka saling bertanya? Tentang berita yang agung), ia berkata: 'Itu adalah Al-Qur'an.'"
+    },
+    {
+      "title": "Tafsir Surah Al-A'la",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْأَعْلَى",
+      "arabic": "أَخْرَجَ أَحْمَدُ عَنْ عَلِيٍّ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يُحِبُّ هَذِهِ السُّورَةَ (سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى).",
+      "translation": "Ahmad mengeluarkan dari Ali bahwa Rasulullah SAW mencintai surah ini (Sabbihisma Rabbikal A'la)."
+    },
+    {
+      "title": "Tafsir Surah Ad-Dhuha",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الضُّحَى",
+      "arabic": "أَخْرَجَ ابْنُ جَرِيرٍ عَنِ ابْنِ عَبَّاسٍ قَالَ: لَمَّا نَزَلَتْ (وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَى) عُرِضَ عَلَى رَسُولِ اللَّهِ مَا هُوَ مَفْتُوحٌ عَلَى أُمَّتِهِ بَعْدَهُ.",
+      "translation": "Ibnu Jarir mengeluarkan dari Ibnu Abbas, ia berkata: 'Ketika turun ayat (Dan kelak Tuhanmu pasti memberikan karunia-Nya kepadamu, lalu hati kamu menjadi puas), ditunjukkan kepada Rasulullah apa yang akan dimenangkan bagi umatnya setelah beliau.'"
+    },
+    {
+      "title": "Tafsir Surah Al-Ikhlas",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْإِخْلَاصِ",
+      "arabic": "أَخْرَجَ الْبُخَارِيُّ عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: أَيَعْجِزُ أَحَدُكُمْ أَنْ يَقْرَأَ ثُلُثَ الْقُرْآنِ فِي لَيْلَةٍ؟ قَالُوا: وَأَيُّنَا يُطِيقُ ذَلِكَ؟ قَالَ: (قُلْ هُوَ اللَّهُ أَحَدٌ) تَعْدِلُ ثُلُثَ الْقُرْآنِ.",
+      "translation": "Al-Bukhari mengeluarkan dari Abu Sa'id al-Khudri bahwa Rasulullah SAW bersabda: 'Apakah salah seorang kalian merasa lemah untuk membaca sepertiga Al-Qur'an dalam satu malam?' Mereka bertanya: 'Siapa di antara kami yang mampu?' Beliau bersabda: '(Qul Huwallahu Ahad) menyamai sepertiga Al-Qur'an.'"
+    },
+    {
+      "title": "Tafsir Al-Mu'awwidzatain (Al-Falaq & An-Nas)",
+      "titleArabic": "تَفْسِيرُ الْمُعَوِّذَتَيْنِ",
+      "arabic": "أَخْرَجَ مُسْلِمٌ عَنْ عُقْبَةَ بْنِ عَامِرٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: أَلَمْ تَرَ آيَاتٍ أُنْزِلَتِ اللَّيْلَةَ لَمْ يُرَ مِثْلُهُنَّ قَطُّ: قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ وَقُلْ أَعُوذُ بِرَبِّ النَّاسِ.",
+      "translation": "Muslim mengeluarkan dari Uqbah bin Amir, ia berkata: Rasulullah SAW bersabda: 'Tidakkah engkau melihat ayat-ayat yang diturunkan malam ini yang belum pernah terlihat bandingannya sama sekali: Qul A'udzu bi Rabbil Falaq dan Qul A'udzu bi Rabbil Nas.'"
+    },
+    {
+      "title": "Khatimah (Penutup)",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ",
+      "arabic": "تَمَّ التَّفْسِيرُ بِالْمَأْثُوْرِ، وَالْحَمْدُ لِلَّهِ عَلَى تَمَامِهِ، وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَآلِهِ وَصَحْبِهِ وَسَلَّمَ تَسْلِيمًا كَثِيرًا. جَمَعْتُ فِيهِ مَا وَرَدَ عَنِ السَّلَفِ لِيَكُونَ ذُخْرًا لِطَالِبِ الْعِلْمِ.",
+      "translation": "Telah selesai Tafsir bi al-Ma'thur, dan segala puji bagi Allah atas kesempurnaannya. Semoga shalawat dan salam senantiasa tercurah kepada junjungan kita Nabi Muhammad, keluarga, dan para sahabatnya. Aku telah kumpulkan di dalamnya apa yang diriwayatkan dari para salaf agar menjadi simpanan bagi penuntut ilmu."
+    }
+  ]
+}
