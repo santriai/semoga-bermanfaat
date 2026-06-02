@@ -1,0 +1,260 @@
+{
+  "profile": {
+    "name": "Nisabnya Zakat Pertanian",
+    "originalTitle": "نِصَابُ الزَّكَاةِ فِي الزُّرُوعِ وَالثِّمَارِ",
+    "author": "Syeikh Al-Imam Abu Syuja' Ahmad bin Al-Husain Al-Ashfahani (Disarikan dari Matan Al-Ghayah wa At-Taqrib)",
+    "field": "Fiqih (Ibadah/Muamalah)",
+    "about": "Kitab ini merupakan ringkasan sistematis mengenai hukum zakat pertanian, khususnya biji-bijian dan buah-buahan, berdasarkan madzhab Syafi'i. Pembahasannya mencakup syarat-syarat wajib zakat, jenis tanaman yang wajib dizakati, perhitungan nisab dalam satuan wasaq dan sha', hingga perbedaan kadar zakat berdasarkan metode pengairan. Penulisan ini mengikuti tradisi intelektual pesantren yang menekankan pada ketepatan matan dan rincian teknis ukuran syar'i. Kitab ini menjadi rujukan utama santri dalam memahami kewajiban zakat atas hasil bumi. Seluruh bab disusun untuk memberikan panduan praktis namun mendalam sesuai kaidah Turath.",
+    "authorBorn": "434 H / 1042 M (Basra, Irak)",
+    "authorDied": "593 H / 1197 M (Madinah)",
+    "authorCentury": "Abad ke-5 dan ke-6 Hijriyah"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah Pembukaan",
+      "titleArabic": "مُقَدِّمَةُ الكِتَابِ",
+      "arabic": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ. الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ، وَالصَّلَاةُ وَالسَّلَامُ عَلَى أَشْرَفِ الْمُرْسَلِيْنَ، سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ أَجْمَعِيْنَ. أَمَّا بَعْدُ، فَهَذَا مُخْتَصَرٌ فِي أَحْكَامِ زَكَاةِ الزُّرُوعِ وَالثِّمَارِ.",
+      "translation": "Dengan menyebut nama Allah yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah Tuhan semesta alam, shalawat serta salam semoga tercurah kepada utusan paling mulia, junjungan kita Nabi Muhammad, keluarga, dan para sahabatnya. Amma Ba'du, ini adalah ringkasan mengenai hukum-hukum zakat pertanian dan buah-buahan."
+    },
+    {
+      "title": "Kewajiban Zakat pada Hasil Bumi",
+      "titleArabic": "فَصْلٌ: وُجُوبُ الزَّكَاةِ فِي الزُّرُوعِ وَالثِّمَارِ",
+      "arabic": "تَجِبُ الزَّكَاةُ فِي ثَلَاثَةِ أَشْيَاءَ: الْمَوَاشِي، وَالأَثْمَانِ، وَالزُّرُوعِ. وَإِنَّمَا تَجِبُ الزَّكَاةُ فِي الزُّرُوعِ وَالثِّمَارِ بِشُرُوطٍ مَخْصُوصَةٍ.",
+      "translation": "Zakat wajib pada tiga perkara: binatang ternak, emas/perak (uang), dan pertanian. Dan sesungguhnya zakat wajib pada pertanian dan buah-buahan dengan syarat-syarat tertentu."
+    },
+    {
+      "title": "Syarat Pertama: Islam",
+      "titleArabic": "الشَّرْطُ الْأَوَّلُ: الْإِسْلَامُ",
+      "arabic": "فَلَا تَجِبُ عَلَى كَافِرٍ أَصْلِيٍّ وُجُوبَ مُطَالَبَةٍ فِي الدُّنْيَا، لِأَنَّهَا عِبَادَةٌ وَتَطْهِيْرٌ.",
+      "translation": "Maka zakat tidak wajib bagi kafir asli dalam hal tuntutan di dunia, karena zakat adalah ibadah dan penyucian."
+    },
+    {
+      "title": "Syarat Kedua: Merdeka",
+      "titleArabic": "الشَّرْطُ الثَّانِي: الْحُرِّيَّةُ",
+      "arabic": "فَلَا تَجِبُ عَلَى الرَّقِيْقِ لِعَدَمِ مِلْكِهِ، وَلَا عَلَى الْمُكَاتَبِ لِضَعْفِ مِلْكِهِ.",
+      "translation": "Maka zakat tidak wajib bagi budak karena tidak adanya kepemilikan, dan tidak pula bagi budak mukatab karena lemahnya kepemilikan."
+    },
+    {
+      "title": "Syarat Ketiga: Kepemilikan Sempurna",
+      "titleArabic": "الشَّرْطُ الثَّالِثُ: الْمِلْكُ التَّامُّ",
+      "arabic": "أَنْ يَكُونَ الْمَالُ مَمْلُوكًا لِلْمُخْرِجِ مِلْكًا مُسْتَقِرًّا وَقْتَ وُجُوبِ الزَّكَاةِ.",
+      "translation": "Hendaknya harta tersebut dimiliki oleh orang yang mengeluarkan zakat dengan kepemilikan yang tetap pada saat waktu wajib zakat."
+    },
+    {
+      "title": "Jenis Tanaman yang Wajib Dizakati",
+      "titleArabic": "فَصْلٌ: جِنْسُ مَا تَجِبُ فِيْهِ الزَّكَاةُ",
+      "arabic": "وَتَجِبُ الزَّكَاةُ فِي الزُّرُوعِ الَّتِي يَقْتَاتُهَا الْآدَمِيُّونَ فِي الِاخْتِيَارِ وَتُدَّخَرُ.",
+      "translation": "Zakat wajib pada tanaman yang menjadi makanan pokok manusia dalam keadaan normal dan dapat disimpan (tahan lama)."
+    },
+    {
+      "title": "Kriteria Makanan Pokok (Al-Qut)",
+      "titleArabic": "بَيَانُ مَعْنَى الْقُوْتِ",
+      "arabic": "وَالْقُوْتُ هُوَ مَا يَقُومُ بِهِ الْبَدَنُ غَالِبًا مِنَ الْحُبُوبِ.",
+      "translation": "Al-Qut adalah apa yang menopang ketahanan tubuh pada umumnya yang berasal dari biji-bijian."
+    },
+    {
+      "title": "Kriteria Dapat Disimpan (Al-Iddikhar)",
+      "titleArabic": "بَيَانُ مَعْنَى الِادِّخَارِ",
+      "arabic": "وَالِادِّخَارُ هُوَ أَنْ يَصْلُحَ لِلْبَقَاءِ زَمَانًا طَوِيلًا مِنْ غَيْرِ فَسَادٍ.",
+      "translation": "Al-Iddikhar adalah kelayakan tanaman untuk tetap bertahan dalam waktu yang lama tanpa mengalami kerusakan."
+    },
+    {
+      "title": "Zakat Biji-bijian: Gandum",
+      "titleArabic": "زَكَاةُ الْحُبُوبِ: الْحِنْطَةُ",
+      "arabic": "وَمِنْ ذَلِكَ الْحِنْطَةُ، وَهِيَ الْبُرُّ، وَهِيَ أَصْلُ الْأَقْوَاتِ.",
+      "translation": "Termasuk dari hal itu adalah gandum, yaitu Al-Burr, yang merupakan asal dari segala makanan pokok."
+    },
+    {
+      "title": "Zakat Biji-bijian: Sya'ir",
+      "titleArabic": "زَكَاةُ الْحُبُوبِ: الشَّعِيْرُ",
+      "arabic": "وَالشَّعِيْرُ مِمَّا تَجِبُ فِيْهِ الزَّكَاةُ لِأَنَّهُ مَقْتُوتٌ مُدَّخَرٌ.",
+      "translation": "Dan Sya'ir (sejenis gandum/jelai) termasuk yang wajib dizakati karena ia merupakan makanan pokok yang dapat disimpan."
+    },
+    {
+      "title": "Zakat Biji-bijian: Padi (Ar-Ruzz)",
+      "titleArabic": "زَكَاةُ الْأَرُزِّ",
+      "arabic": "وَتَجِبُ فِي الْأَرُزِّ لِأَنَّهُ قُوتُ أَهْلِ بِلَادِنَا وَيُدَّخَرُ.",
+      "translation": "Dan zakat wajib pada padi (beras) karena ia adalah makanan pokok penduduk negeri kita dan dapat disimpan."
+    },
+    {
+      "title": "Zakat Biji-bijian: Jagung (Adz-Dzurrah)",
+      "titleArabic": "زَكَاةُ الذُّرَةِ",
+      "arabic": "وَتَجِبُ فِي الذُّرَةِ وَجَمِيْعِ أَنْوَاعِ الْقُطْنِيَّةِ مِنَ الْعَدَسِ وَالْحِمَّصِ.",
+      "translation": "Dan zakat wajib pada jagung dan segala jenis kacang-kacangan seperti adas dan kacang hams."
+    },
+    {
+      "title": "Zakat Buah-buahan: Kurma",
+      "titleArabic": "زَكَاةُ الثِّمَارِ: التَّمْرُ",
+      "arabic": "وَأَمَّا الثِّمَارُ فَلَا تَجِبُ الزَّكَاةُ إِلَّا فِي ثَمَرَتَيْنِ: ثَمَرَةِ النَّخِيْلِ وَهِيَ التَّمْرُ.",
+      "translation": "Adapun buah-buahan, maka tidak wajib zakat kecuali pada dua jenis: buah pohon kurma yaitu kurma itu sendiri."
+    },
+    {
+      "title": "Zakat Buah-buahan: Anggur",
+      "titleArabic": "زَكَاةُ الثِّمَارِ: الْكَرْمُ",
+      "arabic": "وَثَمَرَةِ الْكَرْمِ وَهِيَ الْعِنَبُ إِذَا صَارَ زَبِيْبًا.",
+      "translation": "Dan buah pohon anggur yaitu anggur apabila telah menjadi kismis."
+    },
+    {
+      "title": "Tanaman yang Tidak Wajib Dizakati",
+      "titleArabic": "مَا لَا زَكَاةَ فِيْهِ مِنَ النَّبَاتِ",
+      "arabic": "وَلَا زَكَاةَ فِي سَائِرِ الْفَوَاكِهِ غَيْرِ ذَلِكَ كَالرُّمَّانِ وَالتُّفَّاحِ، وَلَا فِي الْخُضْرَاوَاتِ.",
+      "translation": "Dan tidak ada zakat pada buah-buahan lainnya selain yang disebutkan tadi seperti delima dan apel, tidak pula pada sayur-sayuran."
+    },
+    {
+      "title": "Nisab Pertanian",
+      "titleArabic": "نِصَابُ الزُّرُوعِ وَالثِّمَارِ",
+      "arabic": "وَنِصَابُهَا خَمْسَةُ أَوْسُقٍ، وَهِيَ سِتُّمِائَةِ صَاعٍ وَثَلَاثُونَ صَاعًا بِكَيْلِ النَّبِيِّ ﷺ.",
+      "translation": "Nisab pertanian adalah lima wasaq, yaitu setara dengan 600 sha' (dalam beberapa hitungan 300 sha' untuk 5 wasaq) menurut ukuran kail Nabi SAW."
+    },
+    {
+      "title": "Penjelasan Ukuran Satu Wasaq",
+      "titleArabic": "تَفْصِيْلُ الْوَسَقِ",
+      "arabic": "وَالْوَسَقُ سِتُّونَ صَاعًا، وَالصَّاعُ أَرْبَعَةُ أَمْدَادٍ.",
+      "translation": "Satu wasaq adalah 60 sha', dan satu sha' adalah empat mud."
+    },
+    {
+      "title": "Ukuran Mud",
+      "titleArabic": "مِقْدَارُ الْمُدِّ",
+      "arabic": "وَالْمُدُّ هُوَ رِطْلٌ وَثُلُثٌ بِالْبَغْدَادِيِّ.",
+      "translation": "Satu mud adalah satu rithl sepertiga menurut ukuran Baghdad."
+    },
+    {
+      "title": "Nisab dalam Kilogram (Modern)",
+      "titleArabic": "النِّصَابُ بِالْمَوَازِيْنِ الْحَدِيْثَةِ",
+      "arabic": "وَنِصَابُ الزَّرْعِ بِالْوَزْنِ تَقْرِيْبًا هُوَ ثَمَانِي مِائَةِ كِيْلُوغْرَامٍ فِي الْقَمْحِ وَنَحْوِهِ.",
+      "translation": "Dan nisab tanaman dengan timbangan modern secara pendekatan adalah sekitar 800 kilogram (atau 520kg-650kg tergantung jenis biji) pada gandum dan sejenisnya."
+    },
+    {
+      "title": "Nisab Tanaman Berkulit (Padi)",
+      "titleArabic": "نِصَابُ مَا يُدَّخَرُ بِقِشْرِهِ",
+      "arabic": "وَإِذَا كَانَ الزَّرْعُ مِمَّا يُدَّخَرُ بِقِشْرِهِ كَالْأَرُزِّ فَنِصَابُهُ عَشَرَةُ أَوْسُقٍ.",
+      "translation": "Apabila tanaman tersebut termasuk yang disimpan dengan kulitnya seperti padi, maka nisabnya adalah sepuluh wasaq (setara 5 wasaq bersih)."
+    },
+    {
+      "title": "Kadar Zakat: Pengairan Alami",
+      "titleArabic": "الْقَدْرُ الْوَاجِبُ: سَقْيُ السَّمَاءِ",
+      "arabic": "فَإِنْ سُقِيَتْ بِمَاءِ السَّمَاءِ أَوْ السَّيْلِ فَفِيْهَا الْعُشْرُ (١٠٪).",
+      "translation": "Maka jika diairi dengan air langit (hujan) atau air sungai (mengalir alami), maka padanya wajib sepersepuluh (10%)."
+    },
+    {
+      "title": "Kadar Zakat: Pengairan Buatan",
+      "titleArabic": "الْقَدْرُ الْوَاجِبُ: سَقْيُ النَّواضِحِ",
+      "arabic": "وَإِنْ سُقِيَتْ بِنَاضِحٍ أَوْ دَالِيَةٍ فَفِيْهَا نِصْفُ الْعُشْرِ (٥٪).",
+      "translation": "Dan jika diairi dengan alat pengangkut air (pompa/hewan) atau timba, maka padanya wajib setengah dari sepersepuluh (5%)."
+    },
+    {
+      "title": "Kadar Zakat: Pengairan Campuran",
+      "titleArabic": "الْقَدْرُ الْوَاجِبُ: السَّقْيُ الْمُشْتَرِكُ",
+      "arabic": "وَإِنْ سُقِيَتْ بِهِمَا سَوَاءً فَفِيْهَا ثَلَاثَةُ أَرْبَاعِ الْعُشْرِ (٧.٥٪).",
+      "translation": "Dan jika diairi dengan keduanya secara seimbang, maka padanya wajib tiga perempat dari sepersepuluh (7,5%)."
+    },
+    {
+      "title": "Waktu Wajib Zakat",
+      "titleArabic": "وَقْتُ وُجُوبِ الزَّكَاةِ",
+      "arabic": "وَتَجِبُ الزَّكَاةُ بِبُدُوِّ الصَّلَاحِ فِي الثِّمَارِ، وَاشْتِدَادِ الْحَبِّ فِي الزُّرُوعِ.",
+      "translation": "Zakat mulai wajib (terhitung) dengan nampaknya kelayakan (matang) pada buah-buahan, dan mengerasnya biji pada biji-bijian."
+    },
+    {
+      "title": "Ketentuan Penaksiran (Kharas)",
+      "titleArabic": "بَابُ الْخَرْصِ",
+      "arabic": "وَيَبْعَثُ الإِمَامُ خَارِصًا يَخْرُصُ عَلَى النَّاسِ ثِمَارَهُمْ لِيَعْلَمُوا قَدْرَ الزَّكَاةِ.",
+      "translation": "Dan Imam (pemerintah) mengutus seorang penaksir yang menaksir buah-buahan milik orang-orang agar mereka mengetahui kadar zakatnya."
+    },
+    {
+      "title": "Syarat Penaksir (Kharis)",
+      "titleArabic": "شُرُوطُ الْخَارِصِ",
+      "arabic": "وَيُشْتَرَطُ فِي الْخَارِصِ أَنْ يَكُونَ عَدْلًا، عَارِفًا بِالْخَرْصِ.",
+      "translation": "Disyaratkan bagi penaksir untuk menjadi orang yang adil dan mengetahui cara menaksir."
+    },
+    {
+      "title": "Cara Menaksir",
+      "titleArabic": "كَيْفِيَّةُ الْخَرْصِ",
+      "arabic": "يُقَدِّرُ الْخَارِصُ الرُّطَبَ تَمْرًا، وَالْعِنَبَ زَبِيْبًا.",
+      "translation": "Penaksir memperkirakan jumlah kurma basah menjadi kurma kering, dan anggur menjadi kismis."
+    },
+    {
+      "title": "Kelonggaran untuk Pemilik Lahan",
+      "titleArabic": "تَرْكُ مَا يَأْكُلُهُ أَهْلُهُ",
+      "arabic": "وَيَنْبَغِي لِلْخَارِصِ أَنْ يَتْرُكَ لَهُمْ قَدْرَ مَا يَأْكُلُونَهُ هُمْ وَأَضْيَافُهُمْ.",
+      "translation": "Dan seyogyanya bagi penaksir untuk meninggalkan bagi mereka (tidak menghitung) kadar yang mereka makan sendiri dan tamu-tamu mereka."
+    },
+    {
+      "title": "Penggabungan Jenis Tanaman",
+      "titleArabic": "ضَمُّ الزَّرْعِ بَعْضِهِ إِلَى بَعْضٍ",
+      "arabic": "وَيُضَمُّ جِنْسٌ إِلَى جِنْسِهِ فِي التَّكْمِيْلِ، فَيُضَمُّ أَنْوَاعُ التَّمْرِ بَعْضُهَا إِلَى بَعْضٍ.",
+      "translation": "Satu jenis digabungkan dengan jenis yang sama dalam penyempurnaan nisab, maka macam-macam kurma digabungkan satu sama lain."
+    },
+    {
+      "title": "Larangan Menggabungkan Dua Jenis Berbeda",
+      "titleArabic": "عَدَمُ ضَمِّ الْأَجْنَاسِ الْمُخْتَلِفَةِ",
+      "arabic": "وَلَا يُضَمُّ جِنْسٌ إِلَى غَيْرِهِ، كَالْبُرِّ إِلَى الشَّعِيْرِ، وَلَا التَّمْرِ إِلَى الزَّبِيْبِ.",
+      "translation": "Dan tidak boleh menggabungkan satu jenis ke jenis lainnya yang berbeda, seperti gandum (Burr) ke Sya'ir, dan tidak pula kurma ke kismis."
+    },
+    {
+      "title": "Hukum Campuran Gandum dan Sya'ir",
+      "titleArabic": "خَلِيْطُ الْحِنْطَةِ وَالشَّعِيْرِ",
+      "arabic": "إِذَا كَانَ الزَّرْعُ مُخْتَلِطًا حَقِيْقَةً، فَلِكُلِّ جِنْسٍ حُكْمُهُ فِي الزَّكَاةِ.",
+      "translation": "Apabila tanaman tersebut bercampur secara nyata, maka bagi setiap jenis memiliki hukumnya masing-masing dalam zakat."
+    },
+    {
+      "title": "Zakat pada Tanah Sewaan",
+      "titleArabic": "زَكَاةُ الْأَرْضِ الْمُسْتَأْجَرَةِ",
+      "arabic": "الزَّكَاةُ تَجِبُ عَلَى الْمُسْتَأْجِرِ لَا عَلَى مَالِكِ الْأَرْضِ، لِأَنَّهُ مَالِكُ الزَّرْعِ.",
+      "translation": "Zakat wajib atas penyewa (petani), bukan atas pemilik tanah, karena dialah pemilik hasil tanamannya."
+    },
+    {
+      "title": "Biaya Operasional dan Zakat",
+      "titleArabic": "مُؤْنَةُ الزَّرْعِ وَأَثَرُهَا",
+      "arabic": "لَا تُحْسَبُ مَصَارِيْفُ الْحَصَادِ وَالنَّفَقَاتِ مِنَ النِّصَابِ، بَلْ الزَّكَاةُ مِنَ الْمَجْمُوعِ.",
+      "translation": "Biaya panen dan nafkah (operasional) tidak dipotong dari nisab, melainkan zakat dikeluarkan dari total keseluruhan hasil panen."
+    },
+    {
+      "title": "Hukum Memanen Sebelum Matang",
+      "titleArabic": "الْجِدَادُ قَبْلَ الصَّلَاحِ",
+      "arabic": "إِذَا بَاعَ الزَّرْعَ بَعْدَ بُدُوِّ الصَّلَاحِ فَالزَّكَاةُ عَلَى الْبَائِعِ.",
+      "translation": "Apabila ia menjual tanaman setelah nampaknya kelayakan (wajib zakat), maka zakat ditanggung oleh penjual."
+    },
+    {
+      "title": "Kewajiban Mengeluarkan dalam Bentuk Biji",
+      "titleArabic": "إِخْرَاجُ الزَّكَاةِ حَبًّا",
+      "arabic": "وَيَجِبُ إِخْرَاجُ زَكَاةِ الزُّرُوعِ حَبًّا مُصَفًّى، وَالثِّمَارِ جَافَةً.",
+      "translation": "Dan wajib mengeluarkan zakat biji-bijian dalam bentuk biji yang telah dibersihkan, dan buah-buahan dalam bentuk kering."
+    },
+    {
+      "title": "Hukum Mengeluarkan Zakat dengan Uang (Qimah)",
+      "titleArabic": "إِخْرَاجُ الْقِيْمَةِ فِي الزَّكَاةِ",
+      "arabic": "الْمَذْهَبُ عِنْدَ الشَّافِعِيَّةِ عَدَمُ جَوَازِ إِخْرَاجِ الْقِيْمَةِ بَدَلًا عَنِ الْعَيْنِ.",
+      "translation": "Madzhab menurut Syafi'iyyah adalah tidak bolehnya mengeluarkan nilai (uang) sebagai ganti dari barang aslinya."
+    },
+    {
+      "title": "Zakat pada Tanaman yang Rusak",
+      "titleArabic": "الزَّرْعُ التَّالِفُ",
+      "arabic": "إِذَا تَلِفَ الزَّرْعُ بِآفَةٍ سَمَاوِيَّةٍ بَعْدَ وُجُوبِهِ مِنْ غَيْرِ تَقْصِيْرٍ فَلَا زَكَاةَ.",
+      "translation": "Apabila tanaman rusak karena bencana alam setelah waktu wajib tanpa adanya kelalaian, maka tidak ada kewajiban zakat."
+    },
+    {
+      "title": "Syarat Kelalaian dalam Kerusakan",
+      "titleArabic": "تَقْصِيْرُ الْمَالِكِ",
+      "arabic": "أَمَّا إِذَا تَلِفَ بِتَقْصِيْرٍ مِنَ الْمَالِكِ فَتَسْتَقِرُّ الزَّكَاةُ فِي ذِمَّتِهِ.",
+      "translation": "Adapun jika rusak karena kelalaian pemilik, maka zakat tetap menjadi tanggungan dalam dhommahnya (hutang)."
+    },
+    {
+      "title": "Zakat bagi Orang yang Berhutang",
+      "titleArabic": "الزَّكَاةُ مَعَ الدَّيْنِ",
+      "arabic": "الدَّيْنُ لَا يَمْنَعُ وُجُوبَ الزَّكَاةِ فِي الْأَصَحِّ.",
+      "translation": "Hutang tidak menghalangi kewajiban zakat menurut pendapat yang paling shahih."
+    },
+    {
+      "title": "Pendistribusian Zakat Pertanian",
+      "titleArabic": "مَصْرِفُ زَكَاةِ الزُّرُوعِ",
+      "arabic": "تُصْرَفُ لِلْأَصْنَافِ الثَّمَانِيَةِ الَّذِيْنَ ذَكَرَهُمُ اللَّهُ فِي كِتَابِهِ.",
+      "translation": "Zakat didistribusikan kepada delapan golongan yang telah Allah sebutkan dalam Kitab-Nya."
+    },
+    {
+      "title": "Khatimah (Penutup)",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ",
+      "arabic": "تَمَّتْ أَحْكَامُ زَكَاةِ الزُّرُوعِ، وَالْحَمْدُ لِلّٰهِ عَلَى تَوْفِيْقِهِ، وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَآلِهِ وَسَلَّمَ.",
+      "translation": "Telah selesai hukum-hukum zakat pertanian, dan segala puji bagi Allah atas pertolongan-Nya, semoga shalawat serta salam tercurah kepada junjungan kita Nabi Muhammad dan keluarganya."
+    }
+  ]
+}
