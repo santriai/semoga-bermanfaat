@@ -1,0 +1,344 @@
+{
+  "profile": {
+    "name": "Tuhfatul Murid 'ala Jauharatut Tauhid",
+    "originalTitle": "تُحْفَةُ الْمُرِيدِ عَلَى جَوْهَرَةِ التَّوْحِيدِ",
+    "author": "Syeikh Ibrahim bin Muhammad bin Ahmad al-Bajuri",
+    "field": "Ilmu Tauhid (Kalam/Aqaid)",
+    "about": "Kitab Tuhfatul Murid merupakan salah satu syarah (penjelasan) paling otoritatif dan populer terhadap matan Jauharatut Tauhid karya Imam Ibrahim al-Laqani. Kitab ini ditulis dengan gaya bahasa yang sistematis, mendalam, namun tetap dapat dijangkau oleh penuntut ilmu tingkat menengah. Syekh al-Bajuri merinci setiap bait nazham dengan penjelasan akidah Ahlussunnah wal Jama'ah mazhab Asy'ariyah, mencakup aspek Ilahiyyat, Nubuwwat, dan Sam'iyyat. Kitab ini juga diperkaya dengan pembahasan kebahasaan, logika (manthiq), dan nilai-nilai tasawwuf. Sebagai karya seorang mantan Syeikhul Azhar, kitab ini menjadi standar kurikulum di berbagai pesantren dan universitas Islam di seluruh dunia.",
+    "authorBorn": "1198 H / 1784 M (Bajur, Mesir)",
+    "authorDied": "1277 H / 1860 M (Kairo, Mesir)",
+    "authorCentury": "Abad ke-13 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah Penulis (Syarah)",
+      "titleArabic": "مُقَدِّمَةُ الشَّارِحِ",
+      "arabic": "بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ. الْحَمْدُ للهِ الَّذِي وَفَّقَ مَنْ شَاءَ مِنْ عِبَادِهِ لِتَوْحِيدِهِ، وَأَيَّدَ مَنْ أَرَادَ بِعِنَايَتِهِ لِتَسْدِيدِهِ. وَالصَّلَاةُ وَالسَّلَامُ عَلَى سَيِّدِنَا مُحَمَّدٍ خَيْرِ مَنْ أَفْصَحَ عَنِ الْبَيَانِ، وَعَلَى آلِهِ وَأَصْحَابِهِ أَهْلِ الْعِرْفَانِ.",
+      "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah yang telah memberikan taufik kepada siapa yang Dia kehendaki di antara hamba-hamba-Nya untuk mentauhidkan-Nya, dan menguatkan siapa yang Dia kehendaki dengan pertolongan-Nya menuju kebenaran. Shalawat serta salam semoga tercurah kepada junjungan kita Nabi Muhammad, sebaik-baik orang yang menjelaskan keterangan, dan kepada keluarga serta para sahabatnya yang merupakan ahli ma'rifat."
+    },
+    {
+      "title": "Basmalah Matan",
+      "titleArabic": "بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ",
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ. أَيْ أَبْتَدِئُ تَأْلِيفِي، وَهِيَ مَطْلُوبَةٌ فِي كُلِّ أَمْرٍ ذِي بَالٍ.",
+      "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Yakni, aku memulai karanganku ini (dengan basmalah). Membaca basmalah dianjurkan pada setiap perkara penting."
+    },
+    {
+      "title": "Hamdalah (Pujian kepada Allah)",
+      "titleArabic": "الْحَمْدُ لِلَّهِ عَلَى صِلَاتِهِ",
+      "arabic": "الْحَمْدُ لِلَّهِ عَلَى صِلَاتِهِ * ثُمَّ الصَّلَاةُ مَعْ سَلَامِهِ",
+      "translation": "Segala puji bagi Allah atas pemberian-Nya, kemudian shalawat beserta salam-Nya..."
+    },
+    {
+      "title": "Shalawat dan Salam",
+      "titleArabic": "عَلَى نَبِيٍّ جَاءَ بِالتَّوْحِيدِ",
+      "arabic": "عَلَى نَبِيٍّ جَاءَ بِالتَّوْحِيدِ * وَقَدْ خَلَا الدِّينُ عَنِ التَّوْحِيدِ",
+      "translation": "Semoga tercurah kepada Nabi yang datang membawa Tauhid, padahal agama (saat itu) telah kosong dari ketauhidan."
+    },
+    {
+      "title": "Tujuan Penulisan Kitab",
+      "titleArabic": "هَذِهِ أُرْجُوزَةٌ لَقَّبْتُهَا جَوْهَرَةَ التَّوْحِيدِ",
+      "arabic": "وَبَعْدُ فَالْعِلْمُ بِأَصْلِ الدِّينِ * لَا بُدَّ لِلْمُرِيدِ مِنْ تَبْيِينِ. هَذِهِ أُرْجُوزَةٌ لَقَّبْتُهَا * جَوْهَرَةَ التَّوْحِيدِ قَدْ هَذَّبْتُهَا",
+      "translation": "Amma ba'du, maka ilmu pokok agama (Akidah) adalah suatu keharusan bagi pencari kebenaran untuk dijelaskan. Inilah bait-bait Urjuzah yang aku beri judul 'Jauharatut Tauhid' yang telah aku susun dengan rapi."
+    },
+    {
+      "title": "Definisi Ilmu Tauhid",
+      "titleArabic": "تَعْرِيفُ عِلْمِ التَّوْحِيدِ",
+      "arabic": "هُوَ عِلْمٌ يُقْتَدَرُ بِهِ عَلَى إِثْبَاتِ الْعَقَائِدِ الدِّينِيَّةِ الْمُكْتَسَبِ مِنْ أَدِلَّتِهَا الْيَقِينِيَّةِ.",
+      "translation": "Tauhid adalah ilmu yang dengannya seseorang mampu menetapkan akidah-akidah agama yang diperoleh dari dalil-dalil yang meyakinkan."
+    },
+    {
+      "title": "Hukum Mempelajari Ilmu Tauhid",
+      "titleArabic": "حُكْمُ مَعْرِفَةِ اللهِ تَعَالَى",
+      "arabic": "فَكُلُّ مَنْ كُلِّفَ شَرْعًا وَجَبَا * عَلَيْهِ أَنْ يَعْرِفَ اللهَ مَا وَجَبَا",
+      "translation": "Maka setiap orang yang dibebani syariat (mukallaf) secara hukum, wajib baginya mengenal Allah (Ma'rifatullah) pada apa yang wajib bagi-Nya."
+    },
+    {
+      "title": "Kewajiban Mukallaf (Ma'rifat)",
+      "titleArabic": "مَعْرِفَةُ اللهِ تَعَالَى وَالرُّسُلِ",
+      "arabic": "لَهُ وَجَائِزًا وَمُمْتَنِعًا * وَمِثْلُ ذَا لِرُسْلِهِ فَاسْتَمِعَا",
+      "translation": "Mengenal apa yang wajib, jaiz (boleh), dan mustahil bagi Allah. Begitu pula hal yang serupa bagi para Rasul-Nya, maka dengarkanlah."
+    },
+    {
+      "title": "Iman dan Taklid",
+      "titleArabic": "الْإِيمَانُ وَالتَّقْلِيدُ",
+      "arabic": "إِذْ كُلُّ مَنْ قَلَّدَ فِي التَّوْحِيدِ * إِيمَانُهُ لَمْ يَخْلُ مِنْ تَرْدِيدِ",
+      "translation": "Karena setiap orang yang hanya ikut-ikutan (taklid) dalam urusan tauhid, maka imannya tidak sunyi dari keragu-raguan."
+    },
+    {
+      "title": "Dalil Adanya Alam (Hudutsul 'Alam)",
+      "titleArabic": "دَلِيلُ وُجُودِ الْعَالَمِ",
+      "arabic": "فَانْظُرْ إِلَى نَفْسِكَ ثُمَّ انْتَقِلِ * لِلْعَالَمِ الْعُلْوِيِّ ثُمَّ السُّفْلِي",
+      "translation": "Maka perhatikanlah dirimu sendiri, kemudian berpindahlah (memperhatikan) alam atas dan kemudian alam bawah."
+    },
+    {
+      "title": "Sifat Wajib bagi Allah: Wujud",
+      "titleArabic": "صِفَةُ الْوُجُودِ",
+      "arabic": "فَوَاجِبٌ لَهُ الْوُجُودُ وَالْقِدَمْ * كَذَا بَقَاءٌ لَا يُشَابُ بِالْعَدَمْ",
+      "translation": "Maka wajib bagi Allah sifat Wujud (Ada) dan Qidam (Terdahulu), demikian pula Baqa' (Kekal) yang tidak dicampuri oleh ketiadaan."
+    },
+    {
+      "title": "Sifat Wajib bagi Allah: Qidam",
+      "titleArabic": "صِفَةُ الْقِدَمِ",
+      "arabic": "وَالْقِدَمُ هُوَ عَدَمُ الِافْتِتَاحِ لِلْوُجُودِ.",
+      "translation": "Qidam adalah ketiadaan permulaan bagi keberadaan (Allah)."
+    },
+    {
+      "title": "Sifat Wajib bagi Allah: Baqa'",
+      "titleArabic": "صِفَةُ الْبَقَاءِ",
+      "arabic": "وَالْبَقَاءُ هُوَ عَدَمُ الِاخْتِتَامِ لِلْوُجُودِ.",
+      "translation": "Baqa' adalah ketiadaan akhir bagi keberadaan (Allah)."
+    },
+    {
+      "title": "Sifat Wajib bagi Allah: Mukhalafatu lil Hawaditsi",
+      "titleArabic": "صِفَةُ الْمُخَالَفَةِ لِلْحَوَادِثِ",
+      "arabic": "وَصَرْفُهُ لِلْخَلْقِ مُطْلَقًا وَجَبْ * فَمَا لَهُ لَا يَشْتَبِيهِ مَنْ نَسَبْ",
+      "translation": "Berbedanya Allah dengan makhluk secara mutlak adalah wajib. Maka apa yang dimiliki-Nya tidak menyerupai siapapun yang dinasabkan."
+    },
+    {
+      "title": "Sifat Wajib bagi Allah: Qiyamuhu Binafsihi",
+      "titleArabic": "صِفَةُ الْقِيَامِ بِالنَّفْسِ",
+      "arabic": "وَقَائِمٌ لِذَاتِهِ غَنِيٌّ * وَاحِدٌ لَيْسَ لَهُ كَمِّيُّ",
+      "translation": "Allah berdiri sendiri (tidak butuh bantuan), Maha Kaya, Maha Esa, tidak memiliki kuantitas (terbagi-bagi)."
+    },
+    {
+      "title": "Sifat Wajib bagi Allah: Wahdaniyyah",
+      "titleArabic": "صِفَةُ الْوَحْدَانِيَّةِ",
+      "arabic": "فِي ذَاتِهِ وَصِفَاتِهِ وَفِعْلِهِ * تَعَالَى رَبُّنَا عَنْ مِثْلِهِ",
+      "translation": "Esa pada Dzat-Nya, Sifat-Nya, dan Perbuatan-Nya. Maha Tinggi Tuhan kita dari keserupaan."
+    },
+    {
+      "title": "Sifat Ma'ani: Qudrah",
+      "titleArabic": "صِفَةُ الْقُدْرَةِ",
+      "arabic": "وَقُدْرَةٌ بِمُمْكِنٍ تَعَلَّقَتْ * بِلَا تَنَاهٍ مَا بِهِ تَعَلَّقَتْ",
+      "translation": "Sifat Qudrah (Kuasa) berkaitan dengan segala hal yang mungkin, tanpa ada batas akhir pada apa yang berkaitan dengannya."
+    },
+    {
+      "title": "Sifat Ma'ani: Iradah",
+      "titleArabic": "صِفَةُ الْإِرَادَةِ",
+      "arabic": "وَوَحِّدَنْ إِرَادَةً وَعِلْمًا * أَمْرًا وَمَصْدَرًا وَقَوْلًا حُكْمًا",
+      "translation": "Tunggalkanlah sifat Iradah (Berkehendak) dan Ilmu. Bedakan antara Iradah dengan perintah, sumber, ucapan, dan hukum."
+    },
+    {
+      "title": "Sifat Ma'ani: Ilmu",
+      "titleArabic": "صِفَةُ الْعِلْمِ",
+      "arabic": "وَعِلْمُهُ بِكُلِّ شَيْءٍ قَدْ أَحَاطْ * وَاجِبٌ لَهُ لَا يَخْفَى عَنْهُ مَا فِى الِانْضِبَاطْ",
+      "translation": "Ilmu-Nya meliputi segala sesuatu, wajib bagi-Nya, tidak ada yang tersembunyi bagi-Nya dari apa yang teratur (di alam)."
+    },
+    {
+      "title": "Sifat Ma'ani: Hayat",
+      "titleArabic": "صِفَةُ الْحَيَاةِ",
+      "arabic": "وَحَيَاةٌ كَذَا الصَّمْعُ وَالْبَصَرُ * وَالْكَلَامُ لَا كَمَا لَنَا يُنْتَظَرُ",
+      "translation": "Demikian pula sifat Hayat (Hidup), Sama' (Mendengar), Bashar (Melihat), dan Kalam (Berfirman), tidak sebagaimana yang kita bayangkan."
+    },
+    {
+      "title": "Sifat Ma'ani: Sama' dan Bashar",
+      "titleArabic": "صِفَتَا السَّمْعِ وَالْبَصَرِ",
+      "arabic": "فَسَمْعُهُ وَبَصَرُهُ تَعَلَّقَا * بِكُلِّ مَوْجُودٍ لَهُ قَدْ سَبَقَا",
+      "translation": "Pendengaran dan Penglihatan-Nya berkaitan dengan setiap yang wujud yang telah mendahului-Nya."
+    },
+    {
+      "title": "Sifat Ma'ani: Kalam",
+      "titleArabic": "صِفَةُ الْكَلَامِ",
+      "arabic": "وَكَلَامُهُ لَيْسَ بِحَرْفٍ وَلَا صَوْتٍ، وَهُوَ مَعْنًى قَائِمٌ بِالذَّاتِ.",
+      "translation": "Kalam-Nya bukanlah huruf maupun suara, ia adalah makna yang berdiri pada Dzat-Nya."
+    },
+    {
+      "title": "Sifat Ma'nawiyah",
+      "titleArabic": "الصِّفَاتُ الْمَعْنَوِيَّةُ",
+      "arabic": "ثُمَّ كَوْنُهُ قَادِرًا، مُرِيدًا، عَالِمًا، حَيًّا، سَمِيعًا، بَصِيرًا، مُتَكَلِّمًا.",
+      "translation": "Kemudian keadaan-Nya yang Maha Kuasa, Maha Berkehendak, Maha Mengetahui, Maha Hidup, Maha Mendengar, Maha Melihat, dan Maha Berfirman."
+    },
+    {
+      "title": "Sifat Jaiz bagi Allah",
+      "titleArabic": "الْجَائِزُ فِي حَقِّهِ تَعَالَى",
+      "arabic": "وَجَائِزٌ فِي حَقِّهِ تَعَالَى فِعْلُ كُلِّ مُمْكِنٍ أَوْ تَرْكُهُ.",
+      "translation": "Dan boleh (jaiz) bagi Allah Ta'ala melakukan segala hal yang mungkin atau meninggalkannya."
+    },
+    {
+      "title": "Masalah Melihat Allah (Ru'yatullah)",
+      "titleArabic": "رُؤْيَةُ اللهِ تَعَالَى",
+      "arabic": "وَمِنْهُ أَنْ يُرَى بِالْأَبْصَارِ * لَكِنْ بِلَا كَيْفٍ وَلَا انْحِصَارِ",
+      "translation": "Termasuk hal yang jaiz adalah Allah dapat dilihat dengan mata kepala, namun tanpa cara (kaifiyah) dan tanpa batas."
+    },
+    {
+      "title": "Perbuatan Hamba dan Kasb",
+      "titleArabic": "أَفْعَالُ الْعِبَادِ وَالْكَسْبُ",
+      "arabic": "وَعِنْدَنَا لِلْعَبْدِ كَسْبٌ كُلِّفَا * وَلَمْ يَكُنْ مُؤَثِّرًا فَلْتَعْرِفَا",
+      "translation": "Menurut kita (Asy'ariyah), hamba memiliki 'usaha' (kasb) yang dibebankan kepadanya, namun usaha itu tidak memberi pengaruh (pada hasil), maka ketahuilah."
+    },
+    {
+      "title": "Al-Qur'an adalah Kalamullah",
+      "titleArabic": "الْقُرْآنُ كَلَامُ اللهِ",
+      "arabic": "وَقُلْنَا كَلَامُ اللهِ قَدِيمٌ، وَالْقُرْآنُ بِاعْتِبَارِ اللَّفْظِ الْمُنَزَّلِ مَخْلُوقٌ.",
+      "translation": "Kita katakan bahwa Kalam Allah itu Qadim, sedangkan Al-Qur'an dari sudut pandang lafaz yang diturunkan adalah makhluk (dalam konteks lafaz, bukan esensi kalam nafsi)."
+    },
+    {
+      "title": "Masalah Rezeki",
+      "titleArabic": "الرِّزْقُ",
+      "arabic": "وَالرِّزْقُ عِنْدَ الْقَوْمِ مَا بِهِ انْتُفِعْ * وَقِيلَ مَا مُلِكَ وَالْحَقُّ اتُّبِعْ",
+      "translation": "Rezeki menurut kaum (ulama) adalah apa yang dimanfaatkan, dan dikatakan pula apa yang dimiliki, dan kebenaranlah yang diikuti."
+    },
+    {
+      "title": "Kewajiban Mengutus Rasul",
+      "titleArabic": "إِرْسَالُ الرُّسُلِ",
+      "arabic": "إِرْسَالُهُمْ لُطْفٌ مِنَ الرَّحْمَنِ * لِلْخَلْقِ لَا وُجُوبَ فِي الزَّمَانِ",
+      "translation": "Mengutus para Rasul adalah anugerah dari Sang Maha Pengasih untuk makhluk, bukan sebuah kewajiban pada masa itu."
+    },
+    {
+      "title": "Sifat Wajib bagi Rasul: Shiddiq",
+      "titleArabic": "صِفَةُ الصِّدْقِ",
+      "arabic": "وَوَاجِبٌ فِي حَقِّهِمُ الصِّدْقُ وَأَمَانَةٌ وَتَبْلِيغُهُمْ لِمَا أُمِرُوا بِهِ.",
+      "translation": "Wajib bagi mereka (para Rasul) sifat Jujur (Shiddiq), Terpercaya (Amanah), dan menyampaikan apa yang diperintahkan kepada mereka."
+    },
+    {
+      "title": "Sifat Wajib bagi Rasul: Amanah",
+      "titleArabic": "صِفَةُ الْأَمَانَةِ",
+      "arabic": "وَالْأَمَانَةُ هِيَ حِفْظُ الظَّاهِرِ وَالْبَاطِنِ مِنْ تَلَبُّسٍ بِمَنْهِيٍّ عَنْهُ.",
+      "translation": "Amanah adalah terjaganya lahir dan batin dari melakukan hal-hal yang dilarang."
+    },
+    {
+      "title": "Sifat Wajib bagi Rasul: Tabligh",
+      "titleArabic": "صِفَةُ التَّبْلِيغِ",
+      "arabic": "وَالتَّبْلِيغُ أَنْ يُوصِلُوا لِلْخَلْقِ مَا أُمِرُوا بِتَبْلِيغِهِ.",
+      "translation": "Tabligh adalah mereka menyampaikan kepada makhluk apa yang diperintahkan untuk disampaikan."
+    },
+    {
+      "title": "Sifat Wajib bagi Rasul: Fathonah",
+      "titleArabic": "صِفَةُ الْفَطَانَةِ",
+      "arabic": "وَمِثْلُ ذَا الْفَطَانَةُ فِي الْحَقِّ وَجَبْ * لِيَقْطَعُوا بِهَا عِنَادَ مَنْ غَلَبْ",
+      "translation": "Demikian juga sifat Cerdas (Fathonah) wajib secara haq, agar mereka dapat mematahkan penentangan orang yang menantang."
+    },
+    {
+      "title": "Sifat Jaiz bagi Rasul",
+      "titleArabic": "الْجَائِزُ فِي حَقِّ الرُّسُلِ",
+      "arabic": "وَجَائِزٌ فِي حَقِّهِمْ كُلُّ عَرَضْ * بَشَرِيٍّ لَمْ يُؤَدِّ لِنَقْصٍ كَالْمَرَضْ",
+      "translation": "Dan boleh bagi mereka segala sifat manusia yang tidak menyebabkan kekurangan, seperti sakit (yang tidak menjijikkan)."
+    },
+    {
+      "title": "Kemukjizatan (Mu'jizat)",
+      "titleArabic": "الْمُعْجِزَاتُ",
+      "arabic": "وَأَيَّدَهُمْ بِالْمُعْجِزَاتِ لِتَدُلَّ عَلَى صِدْقِهِمْ.",
+      "translation": "Allah menguatkan mereka dengan mukjizat-mukjizat untuk menunjukkan kebenaran mereka."
+    },
+    {
+      "title": "Para Nabi yang Wajib Diketahui",
+      "titleArabic": "الْأَنْبِيَاءُ الَّذِينَ يَجِبُ مَعْرِفَتُهُمْ",
+      "arabic": "حَتْمٌ عَلَى كُلِّ مُكَلَّفٍ أَنْ يَعْرِفَ خَمْسَةً وَعِشْرِينَ مِمَّنْ ذُكِرُوا فِي الْقُرْآنِ.",
+      "translation": "Wajib atas setiap mukallaf mengetahui 25 Nabi yang disebutkan dalam Al-Qur'an."
+    },
+    {
+      "title": "Keimanan kepada Malaikat",
+      "titleArabic": "الْإِيمَانُ بِالْمَلَائِكَةِ",
+      "arabic": "وَمَلَكٌ ذِي عِصْمَةٍ قَدْ وَجَبَا * تَفْضِيلُهُمْ لِلْبَشَرِ قَدْ سُلِبَا",
+      "translation": "Malaikat yang memiliki sifat terjaga (ma'shum) adalah wajib diimani, keutamaan mereka atas manusia telah ditiadakan (oleh sebagian pendapat, namun manusia terpilih lebih utama)."
+    },
+    {
+      "title": "Keimanan kepada Kitab-Kitab Samawi",
+      "titleArabic": "الْإِيمَانُ بِالْكُتُبِ",
+      "arabic": "وَكُتُبُهُ السَّمَاوِيَّةُ تَفْصِيلُهَا أَرْبَعَةٌ: التَّوْرَاةُ، وَالْإِنْجِيلُ، وَالزَّبُورُ، وَالْفُرْقَانُ.",
+      "translation": "Kitab-kitab samawi rinciannya ada empat: Taurat, Injil, Zabur, dan Al-Furqan (Al-Qur'an)."
+    },
+    {
+      "title": "Keimanan kepada Hari Akhir",
+      "titleArabic": "الْإِيمَانُ بِالْيَوْمِ الْآخِرِ",
+      "arabic": "وَإِيمَانُنَا بِيَوْمٍ آخِرٍ وَجَبْ * وَكُلِّ مَا كَانَ بِهِ مِنَ الْعَجَبْ",
+      "translation": "Iman kita kepada Hari Akhir adalah wajib, beserta segala keajaiban yang ada di dalamnya."
+    },
+    {
+      "title": "Pertanyaan Kubur (Munkar dan Nakir)",
+      "titleArabic": "سُؤَالُ الْقَبْرِ",
+      "arabic": "وَمِثْلُ هَذَا سُؤَالُنَا لِلْقَبْرِ * نَعِيمُهُ كَذَا عَذَابُ الْقَبْرِ",
+      "translation": "Demikian juga halnya pertanyaan di kubur, nikmatnya, begitu pula azab kubur."
+    },
+    {
+      "title": "Kebangkitan dan Mahsyar",
+      "titleArabic": "الْبَعْثُ وَالْحَشْرُ",
+      "arabic": "يُعَادُ جِسْمٌ بَعْدَمَا بَلِيَ * وَالرُّوحُ لَمْ تَعْدَمْ عَلَى الصَّحِيحِ",
+      "translation": "Jasad akan dikembalikan setelah hancur, sedangkan ruh tidaklah punah menurut pendapat yang shahih."
+    },
+    {
+      "title": "Telaga Nabi (Al-Haudh)",
+      "titleArabic": "الْحَوْضُ",
+      "arabic": "وَالْحَوْضُ حَقٌّ لِنَبِيِّنَا عَسَى * أَنْ نُسْقَى مِنْهُ شَرْبَةً تُجْلِي الظَّمَا",
+      "translation": "Telaga adalah benar adanya bagi Nabi kita, semoga kita diberi minum darinya dengan sekali minum yang menghilangkan dahaga."
+    },
+    {
+      "title": "Syafa'at",
+      "titleArabic": "الشَّفَاعَةُ",
+      "arabic": "وَشَفَاعَةُ النَّبِيِّ فِي الْفَصْلِ وَجَبَتْ * وَلِغَيْرِهِ مِنَ الْأَخْيَارِ ثَبَتَتْ",
+      "translation": "Syafaat Nabi pada waktu keputusan (kiamat) adalah wajib (pasti), dan bagi selain beliau dari kalangan orang-orang baik juga tetap ada."
+    },
+    {
+      "title": "Hisab dan Mizan",
+      "titleArabic": "الْحِسَابُ وَالْمِيزَانُ",
+      "arabic": "وَالْحِسَابُ وَالْمِيزَانُ حَقٌّ، وَكَذَا الصِّرَاطُ.",
+      "translation": "Hisab (perhitungan) dan Mizan (timbangan) adalah benar, demikian pula Shirath (jembatan)."
+    },
+    {
+      "title": "Surga dan Neraka",
+      "titleArabic": "الْجَنَّةُ وَالنَّارُ",
+      "arabic": "وَالنَّارُ وَالْجَنَّةُ حَقٌّ وُجِدَا * لَا يَفْنَيَانِ أَبَدًا لَنْ تَنْفَدَا",
+      "translation": "Neraka dan Surga adalah benar adanya, keduanya tidak akan sirna dan tidak akan habis selama-lamanya."
+    },
+    {
+      "title": "Keimanan kepada Qadha dan Qadar",
+      "titleArabic": "الْقَضَاءُ وَالْقَدَرُ",
+      "arabic": "وَالْقَضَاءُ وَالْقَدَرُ وَاجِبٌ، وَهُوَ تَقْدِيرُ اللهِ لِلْأَشْيَاءِ فِي الْأَزَلِ.",
+      "translation": "Iman kepada Qadha dan Qadar adalah wajib, yaitu ketentuan Allah terhadap segala sesuatu sejak zaman Azali."
+    },
+    {
+      "title": "Islam dan Iman",
+      "titleArabic": "الْإِسْلَامُ وَالْإِيمَانُ",
+      "arabic": "وَفُسِّرَ الْإِيمَانُ بِالتَّصْدِيقِ * وَالنُّطْقُ فِيهِ خُلْفٌ بِالتَّحْقِيقِ",
+      "translation": "Iman ditafsirkan dengan pembenaran (tashdiq), sedangkan pengucapan (syahadat) di dalamnya terdapat perbedaan pendapat secara tahqiq."
+    },
+    {
+      "title": "Peningkatan dan Pengurangan Iman",
+      "titleArabic": "زِيَادَةُ الْإِيمَانِ وَنُقْصَانُهُ",
+      "arabic": "وَيَزِيدُ بِالطَّاعَةِ وَيَنْقُصُ بِالْعِصْيَانِ عِنْدَ الْبَعْضِ.",
+      "translation": "Iman bertambah dengan ketaatan dan berkurang dengan kemaksiatan menurut sebagian ulama."
+    },
+    {
+      "title": "Kewajiban Taubat",
+      "titleArabic": "التَّوْبَةُ",
+      "arabic": "وَتَوْبَةٌ مِنْ كُلِّ ذَنْبٍ وَاجِبَةٌ * فَوْرًا عَلَى الْإِنْسَانِ وَهِيَ ثَابِتَةٌ",
+      "translation": "Taubat dari setiap dosa hukumnya wajib dengan segera bagi manusia, dan hukumnya tetap."
+    },
+    {
+      "title": "Amar Ma'ruf Nahi Munkar",
+      "titleArabic": "الْأَمْرُ بِالْمَعْرُوفِ وَالنَّهْيُ عَنِ الْمُنْكَرِ",
+      "arabic": "وَالْأَمْرُ بِالْمَعْرُوفِ وَالنَّهْيُ عَنِ الْمُنْكَرِ وَاجِبَانِ كِفَايَةً.",
+      "translation": "Memerintah pada kebaikan dan melarang dari kemungkaran keduanya adalah wajib kifayah."
+    },
+    {
+      "title": "Kepemimpinan (Imamah)",
+      "titleArabic": "الْإِمَامَةُ",
+      "arabic": "وَنَصْبُ إِمَامٍ وَاجِبٌ شَرْعًا لِيَقُومَ بِمَصَالِحِ الْمُسْلِمِينَ.",
+      "translation": "Mengangkat seorang pemimpin adalah wajib menurut syariat untuk menegakkan kemaslahatan umat Islam."
+    },
+    {
+      "title": "Keutamaan Para Sahabat",
+      "titleArabic": "فَضْلُ الصَّحَابَةِ",
+      "arabic": "وَخَيْرُهُمْ مَنْ وَلِيَ الْخِلَافَةَ * وَأَمْرُهُمْ فِي الْفَضْلِ كَالْخِلَافَةِ",
+      "translation": "Sebaik-baik mereka (sahabat) adalah yang memegang kekhalifahan, dan urutan keutamaan mereka sesuai dengan urutan kekhalifahan."
+    },
+    {
+      "title": "Kewajiban Mengikuti Ulama Salaf",
+      "titleArabic": "اتِّبَاعُ السَّلَفِ",
+      "arabic": "وَكُلُّ خَيْرٍ فِي اتِّبَاعِ مَنْ سَلَفْ * وَكُلُّ شَرٍّ فِي ابْتِدَاعِ مَنْ خَلَفْ",
+      "translation": "Setiap kebaikan ada pada mengikuti ulama salaf, dan setiap keburukan ada pada bid'ah (hal baru) ulama khalaf (yang menyimpang)."
+    },
+    {
+      "title": "Penutup: Pentingnya Akhlak dan Tasawwuf",
+      "titleArabic": "الْخَاتِمَةُ فِي التَّصَوُّفِ",
+      "arabic": "وَزِنْ بِشَرْعٍ كُلَّ مَا لَدَيْكَ * وَانْفَعْ بِهِ مَنْ قَدْ مَشَى إِلَيْكَ",
+      "translation": "Timbanglah dengan syariat segala apa yang kau miliki, dan berilah manfaat dengannya kepada orang yang datang kepadamu."
+    },
+    {
+      "title": "Doa Penutup Matan",
+      "titleArabic": "دُعَاءُ الْخَتْمِ",
+      "arabic": "هَذَا وَأَسْأَلُ اللهَ فِي الْإِخْلَاصِ * مِنَ الرِّيَاءِ ثُمَّ فِي الْخَلَاصِ",
+      "translation": "Demikianlah, dan aku memohon kepada Allah keikhlasan dari sifat riya', kemudian memohon keselamatan (di akhirat)."
+    }
+  ]
+}
