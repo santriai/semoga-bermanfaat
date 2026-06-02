@@ -1,0 +1,230 @@
+{
+  "profile": {
+    "name": "Al-Ihkam fi Ushul al-Ahkam",
+    "originalTitle": "الإِحْكَامُ فِي أُصُولِ الأَحْكَامِ",
+    "author": "Al-Imam Abu Muhammad Ali bin Ahmad bin Sa'id bin Hazm al-Andalusi al-Zahiri",
+    "field": "Ushul Fiqh (Metodologi Hukum Islam)",
+    "about": "Kitab ini merupakan karya monumental dalam bidang Ushul Fiqh yang ditulis dari perspektif madzhab Zahiri. Ibn Hazm menyusun kitab ini sebagai panduan komprehensif untuk memahami sumber hukum Islam yang berlandaskan murni pada Al-Qur'an dan As-Sunnah. Keistimewaan kitab ini terletak pada penolakannya yang keras terhadap Qiyas (analogi), Istihsan, dan Taqlid, serta penekanannya pada makna tekstual (zahir) dari nash. Karya ini terdiri dari 8 bagian besar yang mengupas tuntas teori ilmu, bahasa, hukum-hukum syar'i, hingga kritik mendalam terhadap metodologi ushul fiqh konvensional. Kitab ini dianggap sebagai referensi utama bagi siapa pun yang ingin mempelajari dialektika hukum Islam klasik secara mendalam dan kritis.",
+    "authorBorn": "Cordoba, Spanyol (384 H / 994 M)",
+    "authorDied": "Manta Lisham, Spanyol (456 H / 1064 M)",
+    "authorCentury": "Abad ke-5 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah: Hakikat Ilmu dan Pentingnya Ushul",
+      "titleArabic": "مُقَدِّمَةُ الكِتَابِ فِي حَقِيقَةِ العِلْمِ",
+      "arabic": "قَالَ أَبُو مُحَمَّدٍ عَلِيُّ بْنُ أَحْمَدَ: إِنَّ أَفْضَلَ مَا أَعْطَى اللهُ تَعَالَى عِبَادَهُ بَعْدَ الإِيمَانِ بِهِ هُوَ العِلْمُ، وَأَعْلَى العُلُومِ مَا كَانَ مُؤَدِّيًا إِلَى رِضَاهُ.",
+      "translation": "Abu Muhammad Ali bin Ahmad berkata: Sesungguhnya pemberian Allah yang paling utama kepada hamba-Nya setelah iman adalah ilmu, dan ilmu yang paling tinggi adalah ilmu yang mengantarkan pada keridhaan-Nya."
+    },
+    {
+      "title": "Pembagian Nama-nama dan Batasannya",
+      "titleArabic": "بَابُ انْقِسَامِ الأَسْمَاءِ وَحُدُودِهَا",
+      "arabic": "كُلُّ اسْمٍ فَهُوَ وَاقِعٌ عَلَى مُسَمًّى، وَالأَسْمَاءُ إِمَّا أَنْ تَكُونَ حَقِيقَةً أَوْ مَجَازًا، وَالأَصْلُ فِي الكَلَامِ الحَقِيقَةُ.",
+      "translation": "Setiap nama jatuh pada sesuatu yang dinamai (musamma), dan nama-nama itu adakalanya bersifat hakikat atau majaz (kiasan), sedangkan hukum asal dalam perkataan adalah hakikat."
+    },
+    {
+      "title": "Hukum Syar'i: Wajib",
+      "titleArabic": "بَابُ بَيَانِ الوَاجِبِ",
+      "arabic": "الوَاجِبُ هُوَ مَا أَمَرَ اللهُ بِهِ أَمْرًا جَازِمًا لَا يَجُوزُ تَرْكُهُ، وَيُثَابُ فَاعِلُهُ وَيُعَاقَبُ تَارِكُهُ.",
+      "translation": "Wajib adalah apa yang diperintahkan Allah dengan perintah yang tegas yang tidak boleh ditinggalkan, di mana pelakunya diberi pahala dan yang meninggalkannya disiksa."
+    },
+    {
+      "title": "Hukum Syar'i: Mandub (Sunnah)",
+      "titleArabic": "بَابُ المَنْدُوبِ إِلَيْهِ",
+      "arabic": "المَنْدُوبُ هُوَ مَا حَثَّ الشَّرْعُ عَلَى فِعْلِهِ مِنْ غَيْرِ إِلْزَامٍ، فَيُثَابُ فَاعِلُهُ وَلَا يُعَاقَبُ تَارِكُهُ.",
+      "translation": "Mandub adalah apa yang dianjurkan syariat untuk dikerjakan tanpa kewajiban, maka pelakunya diberi pahala dan yang meninggalkannya tidak disiksa."
+    },
+    {
+      "title": "Hukum Syar'i: Mahzur (Haram)",
+      "titleArabic": "بَابُ المَحْظُورِ وَالمُحَرَّمِ",
+      "arabic": "المَحْظُورُ هُوَ مَا نَهَى اللهُ عَنْهُ نَهْيًا جَازِمًا، فَيُعَاقَبُ فَاعِلُهُ وَيُثَابُ تَارِكُهُ امْتِثَالًا.",
+      "translation": "Mahzur (Haram) adalah apa yang dilarang Allah dengan larangan tegas, maka pelakunya disiksa dan yang meninggalkannya karena ketaatan diberi pahala."
+    },
+    {
+      "title": "Hukum Syar'i: Makruh",
+      "titleArabic": "بَابُ المَكْرُوهِ",
+      "arabic": "المَكْرُوهُ هُوَ مَا نَهَى الشَّرْعُ عَنْهُ مِنْ غَيْرِ تَحْرِيمٍ، فَيُثَابُ تَارِكُهُ وَلَا يُعَاقَبُ فَاعِلُهُ.",
+      "translation": "Makruh adalah apa yang dilarang syariat tanpa keharaman, maka yang meninggalkannya diberi pahala dan pelakunya tidak disiksa."
+    },
+    {
+      "title": "Hukum Syar'i: Mubah (Halal)",
+      "titleArabic": "بَابُ المُبَاحِ وَالحَلَالِ",
+      "arabic": "المُبَاحُ هُوَ مَا خَيَّرَ الشَّرْعُ فِيهِ بَيْنَ الفِعْلِ وَالتَّرْكِ، فَلَا ثَوَابَ فِيهِ وَلَا عِقَابَ.",
+      "translation": "Mubah adalah apa yang syariat memberikan pilihan antara melakukan atau meninggalkannya, maka tidak ada pahala dan tidak ada siksa di dalamnya."
+    },
+    {
+      "title": "Asal Mula Bahasa",
+      "titleArabic": "بَابُ أَصْلِ اللُّغَاتِ",
+      "arabic": "اللُّغَةُ تَوْقِيفٌ مِنَ اللهِ تَعَالَى عَلَّمَهَا آدَمَ عَلَيْهِ السَّلَامُ، وَلَيْسَتْ بِاصْطِلَاحٍ بَشَرِيٍّ ابْتِدَاءً.",
+      "translation": "Bahasa adalah ketetapan (tauqif) dari Allah Ta'ala yang diajarkan kepada Adam AS, dan bukan merupakan kesepakatan manusia pada awalnya."
+    },
+    {
+      "title": "Perintah (Amr) dan Bentuknya",
+      "titleArabic": "بَابُ الأَمْرِ وَصِيَغِهِ",
+      "arabic": "صِيغَةُ (افْعَلْ) إِذَا جَاءَتْ مُجَرَّدَةً عَنِ القَرَائِنِ فَهِيَ لِلْوُجُوبِ عَلَى الفَوْرِ.",
+      "translation": "Bentuk kata 'kerjakanlah' (if'al) apabila datang tanpa adanya qarinah (indikasi lain) maka ia menunjukkan kewajiban yang harus segera dilakukan."
+    },
+    {
+      "title": "Larangan (Nahy) dan Konsekuensinya",
+      "titleArabic": "بَابُ النَّهْيِ وَمُقْتَضَاهُ",
+      "arabic": "النَّهْيُ يَقْتَضِي التَّحْرِيمَ وَالفَسَادَ فِي المَنْهِيِّ عَنْهُ، إِلَّا إِذَا قَامَ دَلِيلٌ عَلَى خِلَافِ ذَلِكَ.",
+      "translation": "Larangan berkonsekuensi pada keharaman dan rusaknya (batalnya) hal yang dilarang, kecuali jika terdapat dalil yang menunjukkan selain itu."
+    },
+    {
+      "title": "Lafadz Umum (Al-'Aam)",
+      "titleArabic": "بَابُ العُمُومِ",
+      "arabic": "العُمُومُ هُوَ اللَّفْظُ المُسْتَغْرِقُ لِكُلِّ مَا يَصْلُحُ لَهُ بِوَضْعٍ وَاحِدٍ، كَمَا فِي لَفْظِ (كُلِّ) وَ(جَمِيعِ).",
+      "translation": "Umum adalah lafadz yang mencakup segala sesuatu yang layak baginya dalam satu penetapan, seperti dalam kata 'setiap' (kullu) dan 'seluruh' (jami')."
+    },
+    {
+      "title": "Lafadz Khusus (Al-Khash)",
+      "titleArabic": "بَابُ الخُصُوصِ",
+      "arabic": "الخُصُوصُ هُوَ قَصْرُ الحُكْمِ عَلَى بَعْضِ مَا يَتَنَاوَلُهُ اللَّفْظُ بِدَلِيلٍ مُقْتَرِنٍ أَوْ مُنْفَصِلٍ.",
+      "translation": "Khusus adalah pembatasan hukum pada sebagian apa yang dicakup oleh lafadz dengan dalil yang menyertai atau terpisah."
+    },
+    {
+      "title": "Penjelasan (Al-Bayan)",
+      "titleArabic": "بَابُ البَيَانِ",
+      "arabic": "البَيَانُ هُوَ إِخْرَاجُ الشَّيءِ مِنْ حَيِّزِ الإِشْكَالِ إِلَى حَيِّزِ التَّجَلِّي، وَلَا يَجُوزُ تَأْخِيرُ البَيَانِ عَنْ وَقْتِ الحَاجَةِ.",
+      "translation": "Bayan adalah mengeluarkan sesuatu dari ruang kerumitan menuju ruang kejelasan, dan tidak boleh menunda penjelasan dari waktu yang dibutuhkan."
+    },
+    {
+      "title": "Perbuatan Nabi SAW",
+      "titleArabic": "بَابُ أَفْعَالِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ",
+      "arabic": "أَفْعَالُ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَلَى أَقْسَامٍ: مِنْهَا مَا هُوَ جِبِلِّيٌّ، وَمِنْهَا مَا هُوَ بَيَانٌ لِلْمُجْمَلِ فَحُكْمُهُ حُكْمُ ذَلِكَ المُجْمَلِ.",
+      "translation": "Perbuatan Nabi SAW terbagi beberapa macam: di antaranya ada yang bersifat fitrah manusiawi, dan ada yang merupakan penjelasan bagi yang mujmal (global) maka hukumnya mengikuti hukum yang global tersebut."
+    },
+    {
+      "title": "Laporan (Khabar) Mutawatir",
+      "titleArabic": "بَابُ الخَبَرِ المُتَوَاتِرِ",
+      "arabic": "الخَبَرُ المُتَوَاتِرُ هُوَ مَا نَقَلَهُ جَمْعٌ عَنْ جَمْعٍ تَسْتَحِيلُ مَعَهُ التَّوَاطُؤُ عَلَى الكَذِبِ، وَهُوَ يُوجِبُ العِلْمَ الضَّرُورِيَّ.",
+      "translation": "Khabar Mutawatir adalah apa yang diriwayatkan oleh orang banyak dari orang banyak yang mustahil mereka bersepakat dalam kedustaan, dan ia mewajibkan pengetahuan yang pasti."
+    },
+    {
+      "title": "Laporan Satu Orang (Khabar al-Wahid)",
+      "titleArabic": "بَابُ خَبَرِ الوَاحِدِ",
+      "arabic": "خَبَرُ الوَاحِدِ العَدْلِ عَنِ العَدْلِ إِلَى رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يُوجِبُ العَمَلَ وَالعِلْمَ مَعًا عِنْدَنَا.",
+      "translation": "Khabar satu orang (Ahad) yang adil dari orang yang adil hingga Rasulullah SAW mewajibkan amal dan ilmu sekaligus menurut pendapat kami."
+    },
+    {
+      "title": "Syarat Keadilan Rawi",
+      "titleArabic": "بَابُ شُرُوطِ العَدَالَةِ",
+      "arabic": "العَدْلُ هُوَ المُسْلِمُ البَالِغُ العَاقِلُ الَّذِي لَمْ يَظْهَرُ مِنْهُ فِسْقٌ وَلَا خَرْمٌ لِلْمُرُوءَةِ.",
+      "translation": "Orang yang adil adalah Muslim yang baligh, berakal, yang tidak tampak darinya kefasikan maupun rusaknya kehormatan diri."
+    },
+    {
+      "title": "Konsensus (Ijma')",
+      "titleArabic": "بَابُ الإِجْمَاعِ",
+      "arabic": "الإِجْمَاعُ هُوَ اتِّفَاقُ جَمِيعِ عُلَمَاءِ الأُمَّةِ فِي عَصْرٍ مَا عَلَى حُكْمٍ شَرْعِيٍّ، وَهُوَ حُجَّةٌ قَاطِعَةٌ.",
+      "translation": "Ijma' adalah kesepakatan seluruh ulama umat pada suatu masa atas suatu hukum syariat, dan ia merupakan hujjah yang pasti."
+    },
+    {
+      "title": "Ijma' Shahabat",
+      "titleArabic": "بَابُ إِجْمَاعِ الصَّحَابَةِ",
+      "arabic": "أَقْوَى أَنْوَاعِ الإِجْمَاعِ هُوَ إِجْمَاعُ الصَّحَابَةِ رَضِيَ اللهُ عَنْهُمْ، لِأَنَّهُمْ شَاهَدُوا التَّنْزِيلَ.",
+      "translation": "Jenis ijma' yang paling kuat adalah ijma' para Sahabat RA, karena mereka menyaksikan turunnya wahyu."
+    },
+    {
+      "title": "Penghapusan Hukum (Naskh)",
+      "titleArabic": "بَابُ النَّسْخِ",
+      "arabic": "النَّسْخُ هُوَ رَفْعُ الحُكْمِ الشَّرْعِيِّ بِدَلِيلٍ شَرْعِيٍّ مُتَرَاخٍ عَنْهُ.",
+      "translation": "Naskh adalah penghapusan hukum syariat dengan dalil syariat yang datang kemudian darinya."
+    },
+    {
+      "title": "Jenis-jenis Naskh",
+      "titleArabic": "بَابُ أَنْوَاعِ النَّسْخِ",
+      "arabic": "النَّسْخُ يَكُونُ نَسْخَ التِّلَاوَةِ وَالحُكْمِ مَعًا، أَوْ نَسْخَ الحُكْمِ دُونَ التِّلَاوَةِ، أَوْ نَسْخَ التِّلَاوَةِ دُونَ الحُكْمِ.",
+      "translation": "Naskh dapat berupa penghapusan bacaan dan hukum sekaligus, penghapusan hukum tanpa bacaan, atau penghapusan bacaan tanpa hukum."
+    },
+    {
+      "title": "Naskh Al-Qur'an dengan Al-Qur'an",
+      "titleArabic": "بَابُ نَسْخِ القُرْآنِ بِالقُرْآنِ",
+      "arabic": "يَجُوزُ نَسْخُ القُرْآنِ بِالقُرْآنِ بِاتِّفَاقِ العُلَمَاءِ، لِأَنَّ كُلَّهُ مِنْ عِنْدِ اللهِ.",
+      "translation": "Boleh menghapus (naskh) Al-Qur'an dengan Al-Qur'an berdasarkan kesepakatan ulama, karena semuanya berasal dari sisi Allah."
+    },
+    {
+      "title": "Naskh Sunnah dengan Al-Qur'an",
+      "titleArabic": "بَابُ نَسْخِ السُّنَّةِ بِالقُرْآنِ",
+      "arabic": "يَجُوزُ نَسْخُ السُّنَّةِ بِالقُرْآنِ، لِأَنَّ القُرْآنَ هُوَ المَرْجِعُ الأَصِيلُ لِلدِّينِ.",
+      "translation": "Boleh menghapus Sunnah dengan Al-Qur'an, karena Al-Qur'an adalah rujukan utama bagi agama."
+    },
+    {
+      "title": "Pembatalan Qiyas (Analogi)",
+      "titleArabic": "بَابُ إِبْطَالِ القِيَاسِ",
+      "arabic": "القِيَاسُ كُلُّهُ بَاطِلٌ فِي الدِّينِ، لِأَنَّ اللهَ تَعَالَى قَالَ: (مَا فَرَّطْنَا فِي الكِتَابِ مِنْ شَيءٍ).",
+      "translation": "Qiyas seluruhnya batil dalam agama, karena Allah Ta'ala berfirman: 'Tidak Kami lewatkan sesuatu pun di dalam Kitab ini'."
+    },
+    {
+      "title": "Kritik Terhadap 'Illah (Sebab Hukum)",
+      "titleArabic": "بَابُ فَسَادِ التَّعْلِيلِ",
+      "arabic": "لَا يَجُوزُ قِيَاسُ شَيءٍ عَلَى شَيءٍ بِعِلَّةٍ مُسْتَنْبَطَةٍ، لِأَنَّ الأَحْكَامَ لَا تُعَلَّلُ إِلَّا بِمَا نَصَّ اللهُ عَلَيْهِ.",
+      "translation": "Tidak boleh meng-qiyas-kan sesuatu pada sesuatu yang lain dengan alasan ('illah) yang disimpulkan sendiri, karena hukum tidak memiliki sebab kecuali apa yang telah ditetapkan secara nash oleh Allah."
+    },
+    {
+      "title": "Pembatalan Istihsan",
+      "titleArabic": "بَابُ إِبْطَالِ الِاسْتِحْسَانِ",
+      "arabic": "الِاسْتِحْسَانُ هُوَ قَوْلٌ بِالدِّينِ بِلَا دَلِيلٍ، وَمَنْ اسْتَحْسَنَ فَقَدْ شَرَّعَ.",
+      "translation": "Istihsan adalah berpendapat dalam agama tanpa dalil, dan barangsiapa melakukan istihsan maka ia telah membuat syariat sendiri."
+    },
+    {
+      "title": "Pembatalan Taqlid",
+      "titleArabic": "بَابُ إِبْطَالِ التَّقْلِيدِ",
+      "arabic": "التَّقْلِيدُ حَرَامٌ، وَلَا يَجُوزُ لِأَحَدٍ أَنْ يَأْخُذَ قَوْلَ غَيْرِهِ بِلَا حُجَّةٍ مِنَ القُرْآنِ وَالسُّنَّةِ.",
+      "translation": "Taqlid (mengikuti tanpa dasar) adalah haram, dan tidak boleh bagi siapapun mengambil pendapat orang lain tanpa hujjah dari Al-Qur'an dan As-Sunnah."
+    },
+    {
+      "title": "Kewajiban Meneliti Dalil bagi Orang Awam",
+      "titleArabic": "بَابُ مَا يَلْزَمُ العَامِّيَّ",
+      "arabic": "العَامِّيُّ يَجِبُ عَلَيْهِ سُؤَالُ العُلَمَاءِ عَنْ دَلِيلِ الحُكْمِ لَا عَنْ مُجَرَّدِ الرَّأْيِ.",
+      "translation": "Orang awam wajib bertanya kepada ulama tentang dalil hukum, bukan tentang sekadar opini semata."
+    },
+    {
+      "title": "Ijtihad dan Syaratnya",
+      "titleArabic": "بَابُ الِاجْتِهَادِ",
+      "arabic": "الِاجْتِهَادُ هُوَ اسْتِفْرَاغُ الوُسْعِ فِي طَلَبِ الحُكْمِ مِنْ نُصُوصِ الكِتَابِ وَالسُّنَّةِ.",
+      "translation": "Ijtihad adalah mencurahkan segala kemampuan dalam mencari hukum dari nash-nash Al-Kitab dan As-Sunnah."
+    },
+    {
+      "title": "Perbedaan Pendapat (Ikhtilaf)",
+      "titleArabic": "بَابُ الِاخْتِلَافِ",
+      "arabic": "الِاخْتِلَافُ لَيْسَ رَحْمَةً بَلْ هُوَ مَذْمُومٌ، وَالحَقُّ فِي وَاحِدٍ لَا يَتَعَدَّدُ.",
+      "translation": "Perbedaan pendapat bukanlah rahmat melainkan tercela, dan kebenaran itu satu tidak berbilang."
+    },
+    {
+      "title": "Hukum Asal Sesuatu: Al-Bara'ah al-Asliyyah",
+      "titleArabic": "بَابُ اسْتِصْحَابِ البَرَاءَةِ الأَصْلِيَّةِ",
+      "arabic": "الأَصْلُ فِي الأَشْيَاءِ الإِبَاحَةُ حَتَّى يَرِدَ دَلِيلُ التَّحْرِيمِ.",
+      "translation": "Hukum asal segala sesuatu adalah mubah (boleh) sampai datang dalil yang mengharamkan."
+    },
+    {
+      "title": "Perkataan Sahabat",
+      "titleArabic": "بَابُ قَوْلِ الصَّحَابِيِّ",
+      "arabic": "قَوْلُ الصَّحَابِيِّ لَيْسَ حُجَّةً عَلَى غَيْرِهِ إِذَا لَمْ يُسْنِدْهُ إِلَى رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ.",
+      "translation": "Perkataan Sahabat bukan merupakan hujjah bagi orang lain jika tidak disandarkan kepada Rasulullah SAW."
+    },
+    {
+      "title": "Syariat Umat Terdahulu",
+      "titleArabic": "بَابُ شَرْعِ مَنْ قَبْلَنَا",
+      "arabic": "شَرْعُ مَنْ قَبْلَنَا لَيْسَ شَرْعًا لَنَا إِلَّا مَا أَقَرَّهُ شَرْعُنَا.",
+      "translation": "Syariat umat sebelum kita bukan merupakan syariat bagi kita, kecuali apa yang ditetapkan oleh syariat kita."
+    },
+    {
+      "title": "Fatwa dan Pemberi Fatwa (Mufti)",
+      "titleArabic": "بَابُ الفُتْيَا وَالمُفْتِي",
+      "arabic": "لَا يَجُوزُ لِلْمُفْتِي أَنْ يُفْتِيَ إِلَّا بِمَا يَعْلَمُ صِحَّتَهُ مِنَ الآثَارِ وَالنُّصُوصِ.",
+      "translation": "Tidak boleh bagi seorang mufti untuk memberikan fatwa kecuali dengan apa yang ia ketahui kebenarannya dari atsar (riwayat) dan nash."
+    },
+    {
+      "title": "Kontradiksi Dalil (Ta'arud)",
+      "titleArabic": "بَابُ التَّعَارُضِ بَيْنَ النُّصُوصِ",
+      "arabic": "لَا تَعَارُضَ بَيْنَ النُّصُوصِ الصَّحِيحَةِ فِي الحَقِيقَةِ، وَإِنَّمَا يَجِبُ الجَمْعُ بَيْنَهُمَا.",
+      "translation": "Tidak ada kontradiksi antara nash-nash yang shahih pada hakikatnya, melainkan wajib untuk mengompromikan keduanya."
+    },
+    {
+      "title": "Penutup: Pentingnya Berpegang pada Zahir",
+      "titleArabic": "خَاتِمَةُ الكِتَابِ فِي لُزُومِ الظَّاهِرِ",
+      "arabic": "الوُقُوفُ عِنْدَ ظَاهِرِ النَّصِّ هُوَ السَّلَامَةُ فِي الدِّينِ، وَالتَّأْوِيلُ بِلَا بَيِّنَةٍ ضَلَالٌ.",
+      "translation": "Berhenti pada makna zahir nash adalah keselamatan dalam agama, dan takwil tanpa bukti yang jelas adalah kesesatan."
+    }
+  ]
+}
