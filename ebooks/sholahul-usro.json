@@ -1,0 +1,338 @@
+{
+  "profile": {
+    "name": "Sholahul Usro",
+    "originalTitle": "صَلَاحُ الْأُسْرَةِ",
+    "author": "K.H. Bisri Mustofa (Rembang)",
+    "field": "Fiqh Munakahat & Adab al-Ijtima'iyah",
+    "about": "Kitab Sholahul Usro merupakan karya monumental K.H. Bisri Mustofa yang membahas secara mendalam mengenai fondasi pembangunan keluarga sakinah dalam Islam. Kitab ini mensarikan nilai-nilai dari Al-Qur'an, Hadits, serta pendapat ulama Salafus Shalih mengenai hukum pernikahan, etika rumah tangga, serta kewajiban timbal balik antara suami dan istri. Penulis menekankan bahwa kebaikan masyarakat (sholahul mujtama') bermula dari kebaikan tatanan keluarga (sholahul usro). Kitab ini sering dijadikan rujukan utama di berbagai pesantren untuk mata pelajaran Fiqh Munakahat tingkat dasar dan menengah.",
+    "authorBorn": "1915 M (Rembang, Jawa Tengah)",
+    "authorDied": "1977 M",
+    "authorCentury": "Abad ke-20 Masehi"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah: Pujian Kepada Allah",
+      "titleArabic": "الْمُقَدِّمَةُ",
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ. الْحَمْدُ لِلَّهِ الَّذِي جَعَلَ النِّكَاحَ سَبَبًا لِبَقَاءِ نَسْلِ الْبَشَرِ، وَوَسِيلَةً إِلَى قِيَامِ نِظَامِ الْعَالَمِ. وَالصَّلَاةُ وَالسَّلَامُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَأَصْحَابِهِ أَجْمَعِينَ.",
+      "translation": "Dengan menyebut nama Allah yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah yang telah menjadikan pernikahan sebagai sebab kelangsungan keturunan manusia, dan sebagai sarana tegaknya keteraturan dunia. Selawat dan salam semoga tercurah kepada junjungan kita Nabi Muhammad, serta kepada keluarga dan para sahabatnya sekalian."
+    },
+    {
+      "title": "Anjuran untuk Menikah",
+      "titleArabic": "الْحَثُّ عَلَى النِّكَاحِ",
+      "arabic": "يَا مَعْشَرَ الشَّبَابِ مَنِ اسْتَطَاعَ مِنْكُمُ الْبَاءَةَ فَلْيَتَزَوَّجْ، فَإِنَّهُ أَغَضُّ لِلْبَصَرِ وَأَحْصَنُ لِلْفَرْجِ.",
+      "translation": "Wahai para pemuda, barangsiapa di antara kalian yang telah memiliki kemampuan (finansial dan fisik), maka hendaklah ia menikah. Karena sesungguhnya pernikahan itu lebih dapat menundukkan pandangan dan lebih menjaga kemaluan."
+    },
+    {
+      "title": "Tujuan Utama Pernikahan",
+      "titleArabic": "مَقَاصِدُ النِّكَاحِ",
+      "arabic": "الْمَقْصُودُ مِنَ النِّكَاحِ هُوَ طَلَبُ الْوَلَدِ، وَالتَّحَصُّنُ مِنَ الشَّيْطَانِ، وَإِيْنَاسُ النَّفْسِ.",
+      "translation": "Tujuan dari pernikahan adalah untuk mencari keturunan, membentengi diri dari godaan setan, dan memberikan ketenangan bagi jiwa."
+    },
+    {
+      "title": "Kriteria Memilih Istri yang Sholehah",
+      "titleArabic": "صِفَاتُ الزَّوْجَةِ الصَّالِحَةِ",
+      "arabic": "تُنْكَحُ الْمَرْأَةُ لِأَرْبَعٍ: لِمَالِهَا وَلِحَسَبِهَا وَلِجَمَالِهَا وَلِدِينِهَا، فَاظْفَرْ بِذَاتِ الدِّينِ تَرِبَتْ يَدَاكَ.",
+      "translation": "Wanita dinikahi karena empat hal: karena hartanya, keturunannya, kecantikannya, dan agamanya. Maka pilihlah yang memiliki agama (baik agamanya), niscaya engkau akan beruntung."
+    },
+    {
+      "title": "Kriteria Memilih Calon Suami",
+      "titleArabic": "صِفَاتُ الزَّوْجِ الْمَحْمُودِ",
+      "arabic": "إِذَا جَاءَكُمْ مَنْ تَرْضَوْنَ دِينَهُ وَخُلُقَهُ فَزَوِّجُوهُ، إِلَّا تَفْعَلُوهُ تَكُنْ فِتْنَةٌ فِي الْأَرْضِ وَفَسَادٌ عَرِيضٌ.",
+      "translation": "Jika datang kepadamu laki-laki yang engkau ridhai agama dan akhlaknya, maka nikahkanlah dia. Jika tidak kau lakukan, maka akan terjadi fitnah di bumi dan kerusakan yang luas."
+    },
+    {
+      "title": "Hukum Melihat Calon Pasangan (An-Nazhar)",
+      "titleArabic": "نَظَرُ الْمَخْطُوبَةِ",
+      "arabic": "يُسْتَحَبُّ لِمَنْ أَرَادَ نِكَاحَ امْرَأَةٍ أَنْ يَنْظُرَ إِلَيْهَا، لِيَكُونَ ذَلِكَ أَدْعَى إِلَى الْأُلْفَةِ بَيْنَهُمَا.",
+      "translation": "Disunnahkan bagi orang yang ingin menikahi seorang wanita untuk melihatnya terlebih dahulu, agar hal itu lebih menjamin keharmonisan di antara keduanya."
+    },
+    {
+      "title": "Batasan Anggota Tubuh yang Boleh Dilihat",
+      "titleArabic": "مَا يَجُوزُ نَظَرُهُ مِنَ الْمَخْطُوبَةِ",
+      "arabic": "وَيَنْظُرُ إِلَى الْوَجْهِ وَالْكَفَّيْنِ فَقَطْ.",
+      "translation": "Dan ia hanya diperbolehkan melihat wajah dan kedua telapak tangan saja."
+    },
+    {
+      "title": "Khitbah (Meminang)",
+      "titleArabic": "الْخِطْبَةُ",
+      "arabic": "لَا يَخْطُبُ الرَّجُلُ عَلَى خِطْبَةِ أَخِيهِ حَتَّى يَتْرُكَ الْخَاطِبُ قَبْلَهُ أَوْ يَأْذَنَ لَهُ.",
+      "translation": "Janganlah seorang laki-laki meminang wanita yang sedang dalam pinangan saudaranya, sampai peminang sebelumnya meninggalkan atau memberinya izin."
+    },
+    {
+      "title": "Rukun Pernikahan",
+      "titleArabic": "أَرْكَانُ النِّكَاحِ",
+      "arabic": "أَرْكَانُ النِّكَاحِ خَمْسَةٌ: زَوْجٌ، وَزَوْجَةٌ، وَوَلِيٌّ، وَشَاهِدَانِ، وَصِيغَةٌ.",
+      "translation": "Rukun nikah ada lima: Calon suami, calon istri, wali, dua orang saksi, dan shighat (ijab qabul)."
+    },
+    {
+      "title": "Syarat Sah Calon Suami",
+      "titleArabic": "شُرُوطُ الزَّوْجِ",
+      "arabic": "شُرُوطُ الزَّوْجِ أَنْ يَكُونَ حَلَالًا لِلْمَرْأَةِ، وَأَنْ يَكُونَ مُعَيَّنًا.",
+      "translation": "Syarat calon suami adalah ia halal bagi si wanita (bukan mahram) dan orangnya jelas (ditentukan)."
+    },
+    {
+      "title": "Syarat Sah Calon Istri",
+      "titleArabic": "شُرُوطُ الزَّوْجَةِ",
+      "arabic": "شُرُوطُ الزَّوْجَةِ أَنْ تَكُونَ حَلَالًا لِلرَّجُلِ، وَغَيْرَ مُحْرِمَةٍ، وَخَالِيَةً مِنَ الْمَوَانِعِ.",
+      "translation": "Syarat calon istri adalah ia halal bagi si pria, tidak dalam keadaan ihram, dan terbebas dari penghalang-penghalang nikah."
+    },
+    {
+      "title": "Macam-Macam Wali Nikah",
+      "titleArabic": "أَنْوَاعُ الْأَوْلِيَاءِ",
+      "arabic": "الْأَوْلِيَاءُ هُمُ: الْأَبُ، ثُمَّ الْجَدُّ، ثُمَّ الْأَخُ الشَّقِيقُ، ثُمَّ الْأَخُ لِأَبٍ.",
+      "translation": "Para wali adalah: Ayah, kemudian kakek, kemudian saudara laki-laki sekandung, kemudian saudara laki-laki seayah."
+    },
+    {
+      "title": "Syarat Menjadi Wali Nikah",
+      "titleArabic": "شُرُوطُ الْوَلِيِّ",
+      "arabic": "شُرُوطُ الْوَلِيِّ: الْإِسْلَامُ، وَالْبُلُوغُ، وَالْعَقْلُ، وَالْحُرِّيَّةُ، وَالذُّكُورَةُ، وَالْعَدَالَةُ.",
+      "translation": "Syarat wali: Islam, baligh, berakal sehat, merdeka (bukan budak), laki-laki, dan adil."
+    },
+    {
+      "title": "Syarat Dua Orang Saksi",
+      "titleArabic": "شُرُوطُ الشَّاهِدَيْنِ",
+      "arabic": "يُشْتَرَطُ فِي الشَّاهِدَيْنِ مَا يُشْتَرَطُ فِي الْوَلِيِّ مِنَ الْإِسْلَامِ وَالذُّكُورَةِ وَالْعَدَالَةِ.",
+      "translation": "Syarat bagi dua orang saksi sama dengan syarat wali, yaitu Islam, laki-laki, dan adil."
+    },
+    {
+      "title": "Sighat Ijab dan Qabul",
+      "titleArabic": "الصِّيغَةُ: الْإِيجَابُ وَالْقَبُولُ",
+      "arabic": "الْإِيجَابُ هُوَ قَوْلُ الْوَلِيِّ: زَوَّجْتُكَ، وَالْقَبُولُ هُوَ قَوْلُ الزَّوْجِ: قَبِلْتُ نِكَاحَهَا.",
+      "translation": "Ijab adalah perkataan wali: 'Aku nikahkan engkau', dan Qabul adalah perkataan suami: 'Aku terima nikahnya'."
+    },
+    {
+      "title": "Pentingnya Mahar (Mas Kawin)",
+      "titleArabic": "الصَّدَاقُ (الْمَهْرُ)",
+      "arabic": "يُسْتَحَبُّ تَسْمِيَةُ الْمَهْرِ فِي الْعَقْدِ، وَأَقَلُّهُ مَا لَهُ قِيمَةٌ.",
+      "translation": "Disunnahkan menyebutkan nilai mahar dalam akad, dan minimal mahar adalah segala sesuatu yang memiliki nilai (harga)."
+    },
+    {
+      "title": "Walimatul Urs (Resepsi Pernikahan)",
+      "titleArabic": "وَلِيمَةُ الْعُرْسِ",
+      "arabic": "الْوَلِيمَةُ حَقٌّ، وَهِيَ سُنَّةٌ مُؤَكَّدَةٌ، وَالْإِجَابَةُ إِلَيْهَا وَاجِبَةٌ.",
+      "translation": "Walimah adalah kebenaran, hukumnya sunnah muakkad, dan memenuhi undangannya adalah wajib."
+    },
+    {
+      "title": "Etika Mengadakan Walimah",
+      "titleArabic": "آدَابُ الْوَلِيمَةِ",
+      "arabic": "يَنْبَغِي أَنْ لَا يَخُصَّ بِالْوَلِيمَةِ الْأَغْنِيَاءَ دُونَ الْفُقَرَاءِ.",
+      "translation": "Hendaknya tidak mengkhususkan undangan walimah hanya bagi orang-orang kaya tanpa mengundang orang-orang miskin."
+    },
+    {
+      "title": "Adab Malam Pertama",
+      "titleArabic": "آدَابُ الزِّفَافِ",
+      "arabic": "يُسْتَحَبُّ أَنْ يَضَعَ يَدَهُ عَلَى رَأْسِهَا وَيَدْعُوَ بِالْبَرَكَةِ.",
+      "translation": "Disunnahkan (bagi suami) untuk meletakkan tangannya di atas kepala istrinya dan mendoakan keberkahan baginya."
+    },
+    {
+      "title": "Doa Sebelum Jima' (Berhubungan Suami Istri)",
+      "titleArabic": "الدُّعَاءُ عِنْدَ الْجِمَاعِ",
+      "arabic": "اللَّهُمَّ جَنِّبْنَا الشَّيْطَانَ وَجَنِّبِ الشَّيْطَانَ مَا رَزَقْتَنَا.",
+      "translation": "Ya Allah, jauhkanlah kami dari setan dan jauhkanlah setan dari apa yang Engkau rezekikan kepada kami (anak)."
+    },
+    {
+      "title": "Kewajiban Suami Memberi Nafkah",
+      "titleArabic": "وُجُوبُ النَّفَقَةِ",
+      "arabic": "تَجِبُ النَّفَقَةُ لِلزَّوْجَةِ عَلَى زَوْجِهَا بِالتَّمْكِينِ التَّامِّ.",
+      "translation": "Wajib bagi suami memberikan nafkah kepada istrinya dengan sebab penyerahan diri (istri) secara sempurna."
+    },
+    {
+      "title": "Jenis-Jenis Nafkah",
+      "titleArabic": "أَنْوَاعُ النَّفَقَةِ",
+      "arabic": "النَّفَقَةُ تَشْمَلُ الطَّعَامَ وَالْكِسْوَةَ وَالْمَسْكَنَ.",
+      "translation": "Nafkah mencakup makanan, pakaian, dan tempat tinggal."
+    },
+    {
+      "title": "Kewajiban Istri: Taat kepada Suami",
+      "titleArabic": "طَاعَةُ الزَّوْجَةِ لِزَوْجِهَا",
+      "arabic": "أَعْظَمُ النَّاسِ حَقًّا عَلَى الْمَرْأَةِ زَوْجُهَا.",
+      "translation": "Manusia yang paling besar haknya atas seorang wanita adalah suaminya."
+    },
+    {
+      "title": "Larangan Keluar Rumah Tanpa Izin",
+      "titleArabic": "الْخُرُوجُ بِغَيْرِ إِذْنِ الزَّوْجِ",
+      "arabic": "لَا يَجُوزُ لِلْمَرْأَةِ أَنْ تَخْرُجَ مِنْ بَيْتِهَا إِلَّا بِإِذْنِ زَوْجِهَا.",
+      "translation": "Tidak diperbolehkan bagi seorang wanita keluar dari rumahnya kecuali dengan izin suaminya."
+    },
+    {
+      "title": "Mu'asyarah bil Ma'ruf (Pergaulan yang Baik)",
+      "titleArabic": "الْمُعَاشَرَةُ بِالْمَعْرُوفِ",
+      "arabic": "وَعَاشِرُوهُنَّ بِالْمَعْرُوفِ، فَالْمُعَاشَرَةُ الطَّيِّبَةُ أَصْلُ السَّكِينَةِ.",
+      "translation": "Dan bergaullah dengan mereka secara baik, karena pergaulan yang baik adalah pokok dari ketenangan."
+    },
+    {
+      "title": "Sikap Suami Terhadap Kesalahan Istri",
+      "titleArabic": "صَبْرُ الزَّوْجِ عَلَى زَوْجَتِهِ",
+      "arabic": "لَا يَفْرَكْ مُؤْمِنٌ مُؤْمِنَةً، إِنْ كَرِهَ مِنْهَا خُلُقًا رَضِيَ مِنْهَا آخَرَ.",
+      "translation": "Janganlah seorang mukmin membenci seorang mukminah (istrinya). Jika ia membenci satu akhlaknya, ia pasti ridha dengan akhlaknya yang lain."
+    },
+    {
+      "title": "Hak Istri untuk Mendapat Pendidikan Agama",
+      "titleArabic": "تَعْلِيمُ الزَّوْجَةِ أُمُورَ الدِّينِ",
+      "arabic": "يَجِبُ عَلَى الزَّوْجِ أَنْ يُعَلِّمَ زَوْجَتَهُ فَرَائِضَ الْإِسْلَامِ وَأَحْكَامَ الْحَيْضِ.",
+      "translation": "Wajib bagi suami untuk mengajarkan istrinya fardhu-fardhu Islam dan hukum-hukum haid."
+    },
+    {
+      "title": "Etika Berpakaian di Dalam Rumah",
+      "titleArabic": "آدَابُ اللِّبَاسِ فِي الْبَيْتِ",
+      "arabic": "تَتَزَيَّنُ الْمَرْأَةُ لِزَوْجِهَا وَتَحْرِصُ عَلَى النَّظَافَةِ.",
+      "translation": "Seorang wanita hendaknya berhias untuk suaminya dan menjaga kebersihan."
+    },
+    {
+      "title": "Menjaga Rahasia Rumah Tangga",
+      "titleArabic": "حِفْظُ أَسْرَارِ الزَّوْجِيَّةِ",
+      "arabic": "مِنْ أَشَرِّ النَّاسِ مَنْزِلَةً مَنْ يُفْضِي إِلَى امْرَأَتِهِ وَتُفْضِي إِلَيْهِ ثُمَّ يَنْشُرُ سِرَّهَا.",
+      "translation": "Termasuk manusia yang paling buruk kedudukannya adalah orang yang berhubungan dengan istrinya kemudian ia menyebarkan rahasianya."
+    },
+    {
+      "title": "Keadilan di Antara Istri (Bagi yang Poligami)",
+      "titleArabic": "الْعَدْلُ بَيْنَ الزَّوْجَاتِ",
+      "arabic": "مَنْ كَانَتْ لَهُ امْرَأَتَانِ فَمَالَ إِلَى إِحْدَاهُمَا جَاءَ يَوْمَ الْقِيَامَةِ وَشِقُّهُ مَائِلٌ.",
+      "translation": "Barangsiapa memiliki dua istri lalu ia lebih condong kepada salah satunya, maka ia akan datang pada hari kiamat dalam keadaan bahunya miring."
+    },
+    {
+      "title": "Menghadapi Nushuz (Pembangkangan) Istri",
+      "titleArabic": "عِلَاجُ النُّشُوزِ",
+      "arabic": "وَاللَّاتِي تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَاهْجُرُوهُنَّ فِي الْمَضَاجِعِ وَاضْرِبُوهُنَّ.",
+      "translation": "Wanita-wanita yang kamu khawatirkan nushuznya, maka nasihatilah mereka, pisahkanlah mereka di tempat tidur, dan pukullah mereka (dengan pukulan yang tidak melukai)."
+    },
+    {
+      "title": "Batasan Memukul Istri",
+      "titleArabic": "حُدُودُ الضَّرْبِ غَيْرِ الْمُبَرِّحِ",
+      "arabic": "يَكُونُ الضَّرْبُ غَيْرَ مُبَرِّحٍ، وَيُجْتَنَبُ الْوَجْهُ.",
+      "translation": "Pukulan tersebut haruslah tidak melukai dan wajib menjauhi area wajah."
+    },
+    {
+      "title": "Kewajiban Mendidik Anak",
+      "titleArabic": "تَرْبِيَةُ الْأَوْلَادِ",
+      "arabic": "مُرُوا أَوْلَادَكُمْ بِالصَّلَاةِ لِسَبْعٍ وَاضْرِبُوهُمْ عَلَيْهَا لِعَشْرٍ.",
+      "translation": "Perintahkanlah anak-anakmu shalat ketika berumur tujuh tahun, dan pukullah mereka (jika meninggalkan shalat) ketika berumur sepuluh tahun."
+    },
+    {
+      "title": "Memberi Nama yang Baik untuk Anak",
+      "titleArabic": "تَسْمِيَةُ الْمَوْلُودِ",
+      "arabic": "مِنْ حَقِّ الْوَلَدِ عَلَى وَالِدِهِ أَنْ يُحْسِنَ اسْمَهُ وَأَدَبَهُ.",
+      "translation": "Termasuk hak anak atas ayahnya adalah memberinya nama yang baik dan mendidiknya dengan adab yang baik."
+    },
+    {
+      "title": "Aqiqah bagi Anak",
+      "titleArabic": "الْعَقِيقَةُ",
+      "arabic": "كُلُّ غُلَامٍ مُرْتَهَنٌ بِعَقِيقَتِهِ، تُذْبَحُ عَنْهُ يَوْمَ سَابِعِهِ.",
+      "translation": "Setiap anak tergadai dengan aqiqahnya, yang disembelih untuknya pada hari ketujuh kelahirannya."
+    },
+    {
+      "title": "Berbakti kepada Kedua Orang Tua (Birrul Walidain)",
+      "titleArabic": "بِرُّ الْوَالِدَيْنِ بَعْدَ الزَّوَاجِ",
+      "arabic": "لَا يَنْقَطِعُ بِرُّ الْوَالِدَيْنِ بَعْدَ الزَّوَاجِ، بَلْ هُوَ آكَدُ.",
+      "translation": "Berbakti kepada orang tua tidaklah terputus setelah pernikahan, bahkan hal itu semakin ditekankan."
+    },
+    {
+      "title": "Adab Makan Bersama Keluarga",
+      "titleArabic": "آدَابُ الْأَكْلِ مَعَ الْأُهْلِ",
+      "arabic": "يُسَمِّي اللَّهَ فِي أَوَّلِهِ وَيَحْمَدُهُ فِي آخِرِهِ، وَيَأْكُلُ مِمَّا يَلِيهِ.",
+      "translation": "Hendaknya membaca basmalah di awal makan dan hamdalah di akhirnya, serta makan dari apa yang terdekat darinya."
+    },
+    {
+      "title": "Menjaga Keharmonisan dengan Mertua",
+      "titleArabic": "الْإِحْسَانُ إِلَى أَصْهَارِهِ",
+      "arabic": "الْإِحْسَانُ إِلَى أَهْلِ الزَّوْجَةِ مِنَ الْمُعَاشَرَةِ بِالْمَعْرُوفِ.",
+      "translation": "Berbuat baik kepada keluarga istri termasuk dalam kategori bergaul dengan cara yang makruf."
+    },
+    {
+      "title": "Larangan Mencela Istri",
+      "titleArabic": "النَّهْيُ عَنْ تَقْبِيحِ الزَّوْجَةِ",
+      "arabic": "وَلَا تُقَبِّحْ، أَيْ لَا تَقُلْ لَهَا: قَبَّحَكِ اللَّهُ.",
+      "translation": "Dan janganlah engkau mencela, yaitu janganlah engkau berkata kepadanya: 'Semoga Allah menjelekkanmu'."
+    },
+    {
+      "title": "Tanggung Jawab Kepemimpinan Suami",
+      "titleArabic": "قِوَامَةُ الرَّجُلِ",
+      "arabic": "الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاءِ بِمَا فَضَّلَ اللَّهُ بَعْضَهُمْ عَلَى بَعْضٍ.",
+      "translation": "Kaum laki-laki adalah pemimpin bagi kaum wanita, oleh karena Allah telah melebihkan sebagian mereka atas sebagian yang lain."
+    },
+    {
+      "title": "Keutamaan Sabar dalam Rumah Tangga",
+      "titleArabic": "فَضِيلَةُ الصَّبْرِ",
+      "arabic": "الصَّبْرُ عَلَى سُوءِ خُلُقِ الْمَرْأَةِ يَرْفَعُ الدَّرَجَاتِ.",
+      "translation": "Sabar atas buruknya akhlak istri dapat mengangkat derajat (seorang suami)."
+    },
+    {
+      "title": "Kewajiban Menutup Aurat bagi Istri",
+      "titleArabic": "سَتْرُ الْعَوْرَةِ",
+      "arabic": "يَجِبُ عَلَى الزَّوْجِ مَنْعُ زَوْجَتِهِ مِنَ التَّبَرُّجِ وَإِظْهَارِ الزِّينَةِ لِلْأَجَانِبِ.",
+      "translation": "Wajib bagi suami melarang istrinya dari bertabarruj (berhias berlebihan) dan memperlihatkan perhiasan kepada orang asing."
+    },
+    {
+      "title": "Etika Berbicara dengan Pasangan",
+      "titleArabic": "آدَابُ الْكَلَامِ",
+      "arabic": "يَنْبَغِي أَنْ يَكُونَ الْكَلَامُ لَيِّنًا وَمَلِيئًا بِالْمَوَدَّةِ.",
+      "translation": "Hendaknya perkataan itu lembut dan dipenuhi dengan kasih sayang."
+    },
+    {
+      "title": "Menghindari Perceraian (Thalaq)",
+      "titleArabic": "كَرَاهِيَةُ الطَّلَاقِ",
+      "arabic": "أَبْغَضُ الْحَلَالِ إِلَى اللَّهِ الطَّلَاقُ.",
+      "translation": "Perkara halal yang paling dibenci oleh Allah adalah thalaq (perceraian)."
+    },
+    {
+      "title": "Adab Istri Menyambut Suami Pulang",
+      "titleArabic": "اسْتِقْبَالُ الزَّوْجِ",
+      "arabic": "تَسْتَقْبِلُ زَوْجَهَا بِبَشَاشَةِ الْوَجْهِ وَحُسْنِ اللِّقَاءِ.",
+      "translation": "Istri menyambut suaminya dengan wajah yang berseri-seri dan penyambutan yang baik."
+    },
+    {
+      "title": "Pentingnya Musyawarah dalam Keluarga",
+      "titleArabic": "الْمُشَاوَرَةُ فِي الْأُسْرَةِ",
+      "arabic": "يُسْتَحَبُّ الْمُشَاوَرَةُ بَيْنَ الزَّوْجَيْنِ فِي أُمُورِ الْبَيْتِ.",
+      "translation": "Disunnahkan bermusyawarah antara suami istri dalam urusan rumah tangga."
+    },
+    {
+      "title": "Kewajiban Istri Menjaga Harta Suami",
+      "titleArabic": "حِفْظُ مَالِ الزَّوْجِ",
+      "arabic": "الْمَرْأَةُ رَاعِيَةٌ فِي بَيْتِ زَوْجِهَا وَمَسْئُولَةٌ عَنْ رَعِيَّتِهَا.",
+      "translation": "Wanita adalah pengelola di rumah suaminya dan ia akan dimintai pertanggungjawaban atas pengelolaannya."
+    },
+    {
+      "title": "Membantu Pekerjaan Rumah Tangga",
+      "titleArabic": "مُعَاوَنَةُ الزَّوْجِ فِي الْبَيْتِ",
+      "arabic": "كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي مِهْنَةِ أَهْلِهِ.",
+      "translation": "Nabi SAW dahulu selalu membantu pekerjaan rumah tangga keluarganya."
+    },
+    {
+      "title": "Adab Tidur Bersama",
+      "titleArabic": "آدَابُ النَّوْمِ",
+      "arabic": "يَنَامَانِ عَلَى طَهَارَةٍ وَيَذْكُرَانِ اللَّهَ.",
+      "translation": "Keduanya hendaknya tidur dalam keadaan suci dan berdzikir kepada Allah."
+    },
+    {
+      "title": "Hukum Mencium Istri",
+      "titleArabic": "تَقْبِيلُ الزَّوْجَةِ",
+      "arabic": "تَقْبِيلُ الزَّوْجَةِ مِنَ الْمَوَدَّةِ وَلَا يَنْقُضُ الْوُضُوءَ فِي قَوْلٍ.",
+      "translation": "Mencium istri adalah bagian dari kasih sayang dan tidak membatalkan wudhu menurut sebagian pendapat (dengan syarat tertentu)."
+    },
+    {
+      "title": "Larangan Melakukan Jima' saat Haid",
+      "titleArabic": "تَحْرِيمُ الْجِمَاعِ وَقْتَ الْحَيْضِ",
+      "arabic": "وَيَسْأَلُونَكَ عَنِ الْمَحِيضِ قُلْ هُوَ أَذًى فَاعْتَزِلُوا النِّسَاءَ فِي الْمَحِيضِ.",
+      "translation": "Mereka bertanya kepadamu tentang haid. Katakanlah: 'Haid itu adalah kotoran'. Oleh sebab itu hendaklah kamu menjauhkan diri dari wanita di waktu haid."
+    },
+    {
+      "title": "Pentingnya Keikhlasan dalam Berkeluarga",
+      "titleArabic": "الْإِخْلَاصُ فِي الْعِشْرَةِ",
+      "arabic": "اجْعَلْ عَمَلَكَ كُلَّهُ لِلَّهِ تَعَالَى فِي خِدْمَةِ أَهْلِكَ.",
+      "translation": "Jadikanlah seluruh amalmu hanya untuk Allah dalam melayani keluargamu."
+    },
+    {
+      "title": "Mendoakan Kebaikan Keluarga",
+      "titleArabic": "الدُّعَاءُ لِلْأُسْرَةِ",
+      "arabic": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ.",
+      "translation": "Ya Tuhan kami, anugerahkanlah kepada kami istri-istri kami dan keturunan kami sebagai penyenang hati (kami)."
+    },
+    {
+      "title": "Khatimah (Penutup)",
+      "titleArabic": "الْخَاتِمَةُ",
+      "arabic": "نَسْأَلُ اللَّهَ أَنْ يَجْعَلَ أُسْرَتَنَا أُسْرَةً صَالِحَةً مُبَارَكَةً. تَمَّتْ بِحَمْدِ اللَّهِ.",
+      "translation": "Kami memohon kepada Allah agar menjadikan keluarga kami keluarga yang sholeh dan diberkahi. Selesai dengan memuji Allah."
+    }
+  ]
+}
