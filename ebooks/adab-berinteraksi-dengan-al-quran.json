@@ -1,314 +1,302 @@
 {
   "profile": {
     "name": "Adab Berinteraksi dengan Al-Quran",
-    "originalTitle": "التِّبْيَانُ فِي آدَابِ حَمَلَةِ الْقُرْآنِ",
-    "author": "Al-Imam Abu Zakaria Yahya bin Sharaf an-Nawawi (Imam An-Nawawi)",
-    "field": "Adab & Ulumul Quran",
-    "about": "Kitab At-Tibyan merupakan referensi utama dalam tradisi pesantren dan akademik Islam yang membahas secara komprehensif etika terhadap kitab suci Al-Quran. Imam An-Nawawi menyusun kitab ini untuk memberikan panduan praktis bagi penghafal, pengajar, dan pembaca Al-Quran agar interaksi mereka tidak hanya bersifat lisan, tetapi juga ruhani. Isi kitab mencakup keutamaan membaca Al-Quran, kriteria pengajar dan murid yang ideal, tata krama fisik saat membaca, hingga hukum-hukum fikih terkait penulisan dan penjagaan Mushaf. Kitab ini dianggap sebagai standar emas dalam pembentukan karakter (akhlaq) seorang Muslim terhadap wahyu Ilahi. Penulisan yang sistematis menjadikannya mudah dipelajari oleh pemula maupun ulama senior.",
-    "authorBorn": "631 H (1233 M), Nawa, Suriah",
-    "authorDied": "676 H (1277 M), Nawa, Suriah",
-    "authorCentury": "Abad ke-7 Hijriyah"
+    "originalTitle": "التبيان في آداب حملة القرآن",
+    "author": "Al-Imam Abu Zakariya Yahya bin Syaraf bin Murriy an-Nawawi",
+    "field": "Adab, Akhlaq, dan Ulumul Qur'an",
+    "about": "Kitab At-Tibyan merupakan mahakarya Imam an-Nawawi yang menjadi rujukan utama dalam etika berinteraksi dengan mukjizat terbesar, Al-Quran. Kitab ini membahas secara mendalam mulai dari keutamaan membaca Al-Quran, kewajiban menghormati ahlinya, hingga tata krama teknis bagi pengajar dan pelajar. Selain aspek moral, kitab ini juga merinci hukum-hukum fikih terkait mushaf, seperti aturan menyentuh Al-Quran bagi yang berhadats. Sistematika yang disusun oleh Imam an-Nawawi menjadikannya pedoman wajib di berbagai lembaga pendidikan Islam tradisional maupun modern. Kitab ini menekankan bahwa hubungan dengan Al-Quran tidak hanya sebatas lisan, melainkan pengagungan hati dan pengamalan anggota badan.",
+    "authorBorn": "631 H (Nawa, Suriah)",
+    "authorDied": "676 H (Nawa, Suriah)",
+    "authorCentury": "Abad ke-7 Hijriah"
   },
   "chapters": [
     {
       "title": "Muqaddimah Penulis",
-      "titleArabic": "مُقَدِّمَةُ الْمُؤَلِّفِ",
-      "arabic": "الْحَمْدُ لِلَّهِ الْكَرِيمِ الْمَنَّانِ، ذِي الطَّوْلِ وَالْفَضْلِ وَالْإِحْسَانِ، الَّذِي هَدَانَا لِلْإِيمَانِ، وَفَضَّلَ دِينَنَا عَلَى سَائِرِ الْأَدْيَانِ. أَمَّا بَعْدُ: فَإِنَّ اللَّهَ تَعَالَى مَنَّ عَلَى هَذِهِ الْأُمَّةِ بِالْقُرْآنِ.",
-      "translation": "Segala puji bagi Allah Yang Maha Mulia lagi Maha Pemberi nikmat, Yang memiliki karunia, keutamaan, dan ihsan, yang telah memberi kita petunjuk menuju iman, dan mengutamakan agama kita di atas seluruh agama lainnya. Amma ba'du: Sesungguhnya Allah Ta'ala telah memberikan anugerah kepada umat ini dengan Al-Quran."
+      "titleArabic": "مُقَدِّمَةُ المُؤَلِّفِ",
+      "arabic": "الْحَمْدُ لِلَّهِ الْكَرِيمِ الْمَنَّانِ ذِي الطَّوْلِ وَالْفَضْلِ وَالْإِحْسَانِ الَّذِي هَدَانَا لِلْإِيمَانِ وَفَضَّلَ دِينَنَا عَلَى سَائِرِ الْأَدْيَانِ وَمَنَّ عَلَيْنَا بِإِرْسَالِهِ إِلَيْنَا أَكْرَمَ خَلْقِهِ عَلَيْهِ وَأَفْضَلَهُمْ لَدَيْهِ حَبِيبَهُ وَخَلِيلَهُ وَعَبْدَهُ وَرَسُولَهُ مُحَمَّدًا صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَمَحَا بِهِ عِبَادَةَ الْأَوْثَانِ وَأَكْرَمَهُ بِالْقُرْآنِ الْمُعْجِزَةِ الْمُسْتَمِرَّةِ عَلَى تَعَاقُبِ الْأَزْمَانِ",
+      "translation": "Segala puji bagi Allah, Yang Maha Mulia, Maha Pemberi, Pemilik Karunia dan Kebaikan, yang telah memberi kita petunjuk iman dan melebihkan agama kita di atas agama lainnya. Allah telah menganugerahkan kepada kita pengutusan makhluk-Nya yang paling mulia, kekasih-Nya, hamba-Nya, dan utusan-Nya, Muhammad SAW, yang melaluinya penyembahan berhala dihapuskan. Allah memuliakannya dengan Al-Quran sebagai mukjizat yang kekal sepanjang masa."
     },
     {
       "title": "Bab 1: Keutamaan Membaca dan Menghafal Al-Quran",
-      "titleArabic": "الْبَابُ الْأَوَّلُ: فِي فَضْلِ تِلَاوَةِ الْقُرْآنِ وَحَمَلَتِهِ",
-      "arabic": "قَالَ اللَّهُ تَعَالَى: {إِنَّ الَّذِينَ يَتْلُونَ كِتَابَ اللَّهِ وَأَقَامُوا الصَّلَاةَ}. وَعَنْ عُثْمَانَ بْنِ عَفَّانَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: «خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ».",
-      "translation": "Allah Ta'ala berfirman: 'Sesungguhnya orang-orang yang membaca Kitab Allah dan mendirikan shalat...'. Dari Utsman bin Affan RA berkata: Rasulullah SAW bersabda: 'Sebaik-baik kalian adalah orang yang belajar Al-Quran dan mengajarkannya'."
+      "titleArabic": "الْبَابُ الْأَوَّلُ: فِي فَضِيلَةِ تِلَاوَةِ الْقُرْآنِ وَحَمَلَتِهِ",
+      "arabic": "قَالَ اللَّهُ تَعَالَى: (إِنَّ الَّذِينَ يَتْلُونَ كِتَابَ اللَّهِ وَأَقَامُوا الصَّلَاةَ وَأَنْفَقُوا مِمَّا رَزَقْنَاهُمْ سِرًّا وَعَلَانِيَةً يَرْجُونَ تِجَارَةً لَنْ تَبُورَ). وَعَنْ عُثْمَانَ بْنِ عَفَّانَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ.",
+      "translation": "Allah Ta'ala berfirman: 'Sesungguhnya orang-orang yang selalu membaca Kitab Allah dan mendirikan shalat serta menafkahkan sebagian rezeki yang Kami anugerahkan kepada mereka secara diam-diam maupun terang-terangan, mereka itu mengharapkan perniagaan yang tidak akan merugi.' Dari Utsman bin Affan RA, Rasulullah SAW bersabda: 'Sebaik-baik kalian adalah orang yang belajar Al-Quran dan mengajarkannya.'"
     },
     {
-      "title": "Bab 2: Keutamaan Pembaca Al-Quran atas yang Lain",
-      "titleArabic": "الْبَابُ الثَّانِي: فِي تَرْجِيحِ الْقِرَاءَةِ وَالْقَارِئِ عَلَى غَيْرِهِ",
-      "arabic": "ثَبَتَ عَنْ أَبِي مَسْعُودٍ الْأَنْصَارِيِّ الْبَدْرِيِّ رَضِيَ اللَّهُ عَنْهُ عَنِ النَّبِيِّ ﷺ قَالَ: «يَؤُمُّ الْقَوْمَ أَقْرَؤُهُمْ لِكِتَابِ اللَّهِ».",
-      "translation": "Telah tsabit dari Abu Mas'ud Al-Anshari Al-Badri RA, dari Nabi SAW bersabda: 'Yang menjadi imam bagi suatu kaum adalah yang paling baik bacaan Kitabullah-nya'."
+      "title": "Bab 2: Keutamaan Membaca Dibanding Amalan Lain",
+      "titleArabic": "الْبَابُ الثَّانِي: فِي تَرْجِيحِ الْقِرَاءَةِ وَالْقَارِئِ عَلَى غَيْرِهِمَا",
+      "arabic": "ثَبَتَ عَنْ أَبِي مُوسَى الْأَشْعَرِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: مَثَلُ الْمُؤْمِنِ الَّذِي يَقْرَأُ الْقُرْآنَ مَثَلُ الْأُتْرُجَّةِ رِيحُهَا طَيِّبٌ وَطَعْمُهَا طَيِّبٌ.",
+      "translation": "Telah tsabit dari Abu Musa Al-Asy'ari RA, Rasulullah SAW bersabda: 'Perumpamaan seorang mukmin yang membaca Al-Quran adalah seperti buah utrujah; aromanya harum dan rasanya pun lezat.'"
     },
     {
-      "title": "Bab 3: Kewajiban Memuliakan Ahli Al-Quran",
-      "titleArabic": "الْبَابُ الثَّالِثُ: فِي إِكْرَامِ أَهْلِ الْقُرْآنِ وَالنَّهْيِ عَنْ إِيذَائِهِمْ",
-      "arabic": "قَالَ اللَّهُ تَعَالَى: {وَمَنْ يُعَظِّمْ حُرُمَاتِ اللَّهِ فَهُوَ خَيْرٌ لَهُ عِنْدَ رَبِّهِ}. وَعَنْ أَبِي مُوسَى الْأَشْعَرِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: «إِنَّ مِنْ إِجْلَالِ اللَّهِ تَعَالَى إِكْرَامَ ذِي الشَّيْبَةِ الْمُسْلِمِ، وَحَامِلِ الْقُرْآنِ غَيْرِ الْغَالِي فِيهِ وَلَا الْجَافِي عَنْهُ».",
-      "translation": "Allah Ta'ala berfirman: 'Dan barangsiapa mengagungkan apa-apa yang terhormat di sisi Allah maka itu adalah lebih baik baginya di sisi Tuhannya'. Dari Abu Musa Al-Asy'ari RA berkata: Rasulullah SAW bersabda: 'Sesungguhnya termasuk mengagungkan Allah Ta'ala adalah memuliakan orang tua muslim, dan pembawa (penghafal) Al-Quran yang tidak berlebihan dan tidak pula menjauh darinya'."
+      "title": "Bab 3: Kewajiban Menghormati Ahli Al-Quran",
+      "titleArabic": "الْبَابُ الثَّالِثُ: فِي إِكْرَامِ أَهْلِ الْقُرْآنِ وَالنَّهْيِ عَنْ أَذَاهُمْ",
+      "arabic": "قَالَ اللَّهُ تَعَالَى: (وَمَنْ يُعَظِّمْ حُرُمَاتِ اللَّهِ فَهُوَ خَيْرٌ لَهُ عِنْدَ رَبِّهِ). وَعَنْ أَبِي مُوسَى الْأَشْعَرِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: إِنَّ مِنْ إِجْلَالِ اللَّهِ تَعَالَى إِكْرَامَ ذِي الشَّيْبَةِ الْمُسْلِمِ وَحَامِلِ الْقُرْآنِ غَيْرِ الْغَالِي فِيهِ وَلَا الْجَافِي عَنْهُ.",
+      "translation": "Allah Ta'ala berfirman: 'Dan barangsiapa mengagungkan apa-apa yang terhormat di sisi Allah maka itu adalah lebih baik baginya di sisi Tuhannya.' Rasulullah SAW bersabda: 'Sesungguhnya termasuk bentuk mengagungkan Allah Ta'ala adalah memuliakan orang muslim yang telah beruban (tua) dan pembawa Al-Quran yang tidak melampaui batas dan tidak menjauhinya.'"
     },
     {
-      "title": "Bab 4: Adab Pengajar Al-Quran (Ikhlas)",
-      "titleArabic": "الْبَابُ الرَّابِعُ: فِي آدَابِ مُعَلِّمِ الْقُرْآنِ وَمُتَعَلِّمِهِ - الْإِخْلَاصُ",
-      "arabic": "أَوَّلُ مَا يَنْبَغِي لِلْمُقْرِئِ وَالْقَارِئِ أَنْ يَقْصِدَا بِذَلِكَ رِضَا اللَّهِ تَعَالَى، قَالَ اللَّهُ تَعَالَى: {وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ}.",
-      "translation": "Hal pertama yang seyogyanya dilakukan oleh pengajar dan pembaca adalah meniatkan hal tersebut untuk mencari ridha Allah Ta'ala. Allah Ta'ala berfirman: 'Padahal mereka tidak disuruh kecuali supaya menyembah Allah dengan memurnikan ketaatan kepada-Nya dalam (menjalankan) agama'."
+      "title": "Bab 4: Adab Pengajar dan Pelajar Al-Quran (Ikhlas)",
+      "titleArabic": "الْبَابُ الرَّابِعُ: فِي آدَابِ مُعَلِّمِ الْقُرْآنِ وَمُتَعَلِّمِهِ - الإِخْلَاص",
+      "arabic": "أَوَّلُ مَا يَنْبَغِي لِلْمُعَلِّمِ وَالْمُتَعَلِّمِ أَنْ يَقْصِدَا بِذَلِكَ رِضَا اللَّهِ تَعَالَى. قَالَ اللَّهُ تَعَالَى: (وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ حُنَفَاءَ).",
+      "translation": "Hal pertama yang harus dilakukan oleh pengajar dan pelajar adalah memaksudkan aktivitas tersebut semata-mata mencari ridha Allah Ta'ala. Allah berfirman: 'Padahal mereka tidak disuruh kecuali supaya menyembah Allah dengan memurnikan ketaatan kepada-Nya dalam menjalankan agama dengan lurus.'"
     },
     {
-      "title": "Adab Guru: Tidak Menjadikan Al-Quran sebagai Mata Pencaharian",
-      "titleArabic": "أَنْ لَا يَقْصِدَ بِهِ تَوَصُّلًا إِلَى غَرَضٍ دُنْيَوِيٍّ",
-      "arabic": "يَنْبَغِي أَنْ لَا يَقْصِدَ بِتَعْلِيمِهِ تَوَصُّلًا إِلَى عَرَضٍ مِنْ أَعْرَاضِ الدُّنْيَا مِنْ مَالٍ أَوْ رِيَاسَةٍ أَوْ وَجَاهَةٍ.",
-      "translation": "Hendaknya tidak bermaksud dengan pengajarannya itu untuk mencapai tujuan duniawi, baik berupa harta, kepemimpinan, atau kedudukan."
+      "title": "Fasl: Tidak Menjadikan Al-Quran Sebagai Sarana Duniawi",
+      "titleArabic": "فَصْلٌ: فِي عَدَمِ قَصْدِ الدُّنْيَا بِالقُرْآنِ",
+      "arabic": "وَلَا يَقْصِدَ بِهِ تَوَصُّلًا إِلَى غَرَضٍ مِنْ أَغْرَاضِ الدُّنْيَا مِنْ مَالٍ أَوْ رِيَاسَةٍ أَوْ وَجَاهَةٍ أَوْ ارْتِفَاعٍ عَلَى أَقْرَانِهِ أَوْ ثَنَاءِ النَّاسِ أَوْ صَرْفِ وُجُوهِ النَّاسِ إِلَيْهِ أَوْ نَحْوِ ذَلِكَ.",
+      "translation": "Hendaknya ia tidak bermaksud menjadikannya sebagai sarana untuk mencapai tujuan duniawi, baik berupa harta, kepemimpinan, kedudukan, keunggulan atas kawan sebaya, pujian manusia, menarik perhatian orang, atau sejenisnya."
     },
     {
-      "title": "Adab Guru: Berakhlak Mulia dan Tawadhu",
-      "titleArabic": "التَّخَلُّقُ بِالْأَخْلَاقِ السَّنِيَّةِ وَالتَّوَاضُعُ",
-      "arabic": "يَنْبَغِي لِلْمُعَلِّمِ أَنْ يَتَخَلَّقَ بِالْمَحَاسِنِ الَّتِي وَرَدَ بِهَا الشَّرْعُ، وَأَنْ يَسْتَعْمِلَ التَّوَاضُعَ مَعَ مَنْ يَتَعَلَّمُ مِنْهُ.",
-      "translation": "Hendaknya pengajar berakhlak dengan akhlak yang luhur yang datang dari syariat, dan bersikap tawadhu (rendah hati) kepada orang yang belajar kepadanya."
+      "title": "Fasl: Akhlak Guru Terhadap Murid",
+      "titleArabic": "فَصْلٌ: فِي آدَابِ المُعَلِّمِ مَعَ طَلَبَتِهِ",
+      "arabic": "أَنْ يَرْفُقَ بِمَنْ يَقْرَأُ عَلَيْهِ وَأَنْ يَرْحَبَ بِهِ وَيُحْسِنَ إِلَيْهِ بِحَسَبِ حَالِهِ. وَثَبَتَ عَنْ أَبِي هَارُونَ الْعَبْدِيِّ قَالَ: كُنَّا نَأْتِي أَبَا سَعِيدٍ الْخُدْرِيَّ رَضِيَ اللَّهُ عَنْهُ فَيَقُولُ: مَرْحَبًا بِوَصِيَّةِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ.",
+      "translation": "Hendaknya seorang guru bersikap lembut kepada orang yang belajar kepadanya, menyambutnya, dan berbuat baik kepadanya sesuai keadaannya. Diriwayatkan dari Abu Harun al-Abdi, ia berkata: Kami mendatangi Abu Sa'id al-Khudri RA, lalu ia berkata: 'Selamat datang kepada wasiat Rasulullah SAW.'"
     },
     {
-      "title": "Adab Murid: Memilih Guru yang Kompeten",
-      "titleArabic": "آدَابُ الْمُتَعَلِّمِ: اخْتِيَارُ الْمُعَلِّمِ",
-      "arabic": "يَنْبَغِي لِلْمُتَعَلِّمِ أَنْ لَا يَتَعَلَّمَ إِلَّا مِمَّنْ كَمُلَتْ أَهْلِيَّتُهُ، وَظَهَرَتْ دِيَانَتُهُ، وَتَحَقَّقَتْ مَعْرِفَتُهُ.",
-      "translation": "Seyogyanya bagi murid untuk tidak belajar kecuali kepada orang yang telah sempurna keahliannya, tampak keshalehannya, dan nyata pengetahuannya."
+      "title": "Fasl: Memberi Nasihat Kepada Murid",
+      "titleArabic": "فَصْلٌ: فِي بَذْلِ النَّصِيحَةِ لِلطَّالِبِ",
+      "arabic": "وَمِنْ آدَابِهِ أَنْ يَبْذُلَ لَهُ النَّصِيحَةَ، فَإِنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: الدِّينُ النَّصِيحَةُ، لِلَّهِ وَلِكِتَابِهِ وَلِرَسُولِهِ وَلِأَئِمَّةِ الْمُسْلِمِينَ وَعَامَّتِهِمْ.",
+      "translation": "Di antara adab guru adalah memberikan nasihat kepada murid, karena Rasulullah SAW bersabda: 'Agama adalah nasihat; bagi Allah, Kitab-Nya, Rasul-Nya, para pemimpin kaum muslimin, dan masyarakat awam mereka.'"
     },
     {
-      "title": "Adab Murid: Memuliakan Guru",
-      "titleArabic": "تَوْقِيرُ الْمُعَلِّمِ",
-      "arabic": "يَنْبَغِي لِلْمُتَعَلِّمِ أَنْ يَنْظُرَ إِلَى مُعَلِّمِهِ بِعَيْنِ الْإِجْلَالِ، وَيَعْتَقِدَ كَمَالَ أَهْلِيَّتِهِ.",
-      "translation": "Seyogyanya bagi murid untuk memandang gurunya dengan pandangan pemuliaan, dan meyakini kesempurnaan keahlian sang guru."
+      "title": "Fasl: Larangan Bersikap Sombong Terhadap Murid",
+      "titleArabic": "فَصْلٌ: فِي التَّوَاضُعِ لِلْمُتَعَلِّمِينَ",
+      "arabic": "وَيَنْبَغِي أَنْ يَتَوَاضَعَ لِلْمُتَعَلِّمِينَ وَيَرْفُقَ بِهِمْ. وَقَالَ الشَّافِعِيُّ رَحِمَهُ اللَّهُ: لَا يَطْلُبُ أَحَدٌ هَذَا الْعِلْمَ بِالْعِزِّ وَغِنَى النَّفْسِ فَيُفْلِحُ، وَلَكِنْ مَنْ طَلَبَهُ بِذُلِّ النَّفْسِ وَضِيقِ الْعَيْشِ وَخِدْمَةِ الْعُلَمَاءِ أَفْلَحَ.",
+      "translation": "Hendaknya guru bersikap tawadhu' (rendah hati) kepada murid-murid dan lembut kepada mereka. Imam Syafi'i berkata: 'Tidak ada seorang pun yang menuntut ilmu ini dengan kemuliaan dan kekayaan jiwa lalu ia beruntung, tetapi barangsiapa menuntutnya dengan kerendahan hati, kesempitan hidup, dan melayani ulama, maka ia akan beruntung.'"
     },
     {
-      "title": "Bab 5: Adab Pembawa Al-Quran dalam Kehidupan",
+      "title": "Fasl: Adab Murid dalam Membersihkan Hati",
+      "titleArabic": "فَصْلٌ: فِي تَطْهِيرِ قَلْبِ الْمُتَعَلِّمِ",
+      "arabic": "يَنْبَغِي لِلْمُتَعَلِّمِ أَنْ يُطَهِّرَ قَلْبَهُ مِنَ الْأَدْنَاسِ لِيَصْلُحَ لِقَبُولِ الْقُرْآنِ وَحِفْظِهِ وَاسْتِثْمَارِهِ.",
+      "translation": "Hendaknya seorang pelajar membersihkan hatinya dari kotoran agar layak untuk menerima Al-Quran, menghafalnya, dan memetik buah (manfaat) darinya."
+    },
+    {
+      "title": "Fasl: Memilih Guru yang Kompeten",
+      "titleArabic": "فَصْلٌ: فِي اخْتِيَارِ الْمُعَلِّمِ",
+      "arabic": "وَلَا يَتَعَلَّمُ إِلَّا مِمَّنْ كَمُلَتْ أَهْلِيَّتُهُ وَظَهَرَتْ دِيَانَتُهُ وَتَحَقَّقَتْ مَعْرِفَتُهُ وَاشْتُهِرَتْ صِيَانَتُهُ. قَالَ مُحَمَّدُ بْنُ سِيرِينَ: إِنَّ هَذَا الْعِلْمَ دِينٌ فَانْظُرُوا عَمَّنْ تَأْخُذُونَ دِينَكُمْ.",
+      "translation": "Janganlah ia belajar kecuali kepada orang yang sempurna keahliannya, tampak ketakwaannya, terverifikasi pengetahuannya, dan masyhur penjagaan dirinya. Muhammad bin Sirin berkata: 'Sesungguhnya ilmu ini adalah agama, maka perhatikanlah dari siapa kalian mengambil agama kalian.'"
+    },
+    {
+      "title": "Bab 5: Adab Penghafal Al-Quran",
       "titleArabic": "الْبَابُ الْخَامِسُ: فِي آدَابِ حَامِلِ الْقُرْآنِ",
-      "arabic": "يَنْبَغِي أَنْ يَكُونَ عَلَى أَكْمَلِ الْأَحْوَالِ، وَأَكْرَمِ الْخِلَالِ، وَأَنْ يَرْفَعَ نَفْسَهُ عَنْ كُلِّ مَا نَهَى الْقُرْآنُ عَنْهُ.",
-      "translation": "Hendaknya ia berada dalam kondisi yang paling sempurna, perangai yang paling mulia, dan menjauhkan dirinya dari segala hal yang dilarang oleh Al-Quran."
+      "arabic": "يَنْبَغِي أَنْ يَكُونَ عَلَى أَكْمَلِ الْأَحْوَالِ وَأَكْرَمِ الشَّمَائِلِ وَأَنْ يَرْفَعَ نَفْسَهُ عَنْ كُلِّ مَا نَهَى اللَّهُ عَنْهُ إِجْلَالًا لِلْقُرْآنِ.",
+      "translation": "Hendaknya penghafal Al-Quran berada dalam kondisi yang paling sempurna, karakter yang paling mulia, dan menjauhkan dirinya dari segala yang dilarang Allah demi mengagungkan Al-Quran."
     },
     {
-      "title": "Bab 6: Adab Tilawah - Kesucian (Thaharah)",
-      "titleArabic": "الْبَابُ السَّادِسُ: فِي آدَابِ الْقِرَاءَةِ - الطَّهَارَةُ",
-      "arabic": "يُسْتَحَبُّ إِذَا أَرَادَ الْقِرَاءَةَ أَنْ يَتَطَهَّرَ بِالْمَاءِ، فَإِنْ قَرَأَ مُحْدِثًا جَازَ بِإِجْمَاعِ الْمُسْلِمِينَ.",
-      "translation": "Disunnahkan jika ingin membaca Al-Quran untuk bersuci dengan air, namun jika ia membaca dalam keadaan hadas kecil maka hukumnya boleh berdasarkan ijma' kaum muslimin."
+      "title": "Fasl: Menjaga Hafalan dari Kelupaan",
+      "titleArabic": "فَصْلٌ: فِي التَّحْذِيرِ مِنْ نِسْيَانِ الْقُرْآنِ",
+      "arabic": "وَعَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: عُرِضَتْ عَلَيَّ أُجُورُ أُمَّتِي حَتَّى الْقَذَاةُ يُخْرِجُهَا الرَّجُلُ مِنَ الْمَسْجِدِ، وَعُرِضَتْ عَلَيَّ ذُنُوبُ أُمَّتِي فَلَمْ أَرَ ذَنْبًا أَعْظَمَ مِنْ سُورَةٍ مِنَ الْقُرْآنِ أَوْ آيَةٍ أُوتِيَهَا رَجُلٌ ثُمَّ نَسِيَهَا.",
+      "translation": "Dari Anas bin Malik RA, Rasulullah SAW bersabda: 'Ditampakkan kepadaku pahala-pahala umatku bahkan sampai kotoran yang dikeluarkan seseorang dari masjid, dan ditampakkan kepadaku dosa-dosa umatku, maka aku tidak melihat dosa yang lebih besar daripada satu surah Al-Quran atau satu ayat yang diberikan kepada seseorang kemudian ia melupakannya.'"
     },
     {
-      "title": "Adab Tilawah: Bersiwak",
-      "titleArabic": "اسْتِعْمَالُ السِّوَاكِ",
-      "arabic": "يَنْبَغِي إِذَا أَرَادَ الْقِرَاءَةَ أَنْ يُنَظِّفَ فَمَهُ بِالسِّوَاكِ أَوْ غَيْرِهِ.",
-      "translation": "Seyogyanya jika ingin membaca Al-Quran untuk membersihkan mulutnya dengan siwak atau sarana pembersih lainnya."
+      "title": "Fasl: Memperbanyak Membaca di Malam Hari",
+      "titleArabic": "فَصْلٌ: فِي قِيَامِ اللَّيْلِ بِالْقُرْآنِ",
+      "arabic": "يَنْبَغِي لِحَامِلِ الْقُرْآنِ أَنْ يَعْتَنِيَ بِالْقِرَاءَةِ فِي اللَّيْلِ. قَالَ اللَّهُ تَعَالَى: (مِنْ أَهْلِ الْكِتَابِ أُمَّةٌ قَائِمَةٌ يَتْلُونَ آيَاتِ اللَّهِ آنَاءَ اللَّيْلِ وَهُمْ يَسْجُدُونَ).",
+      "translation": "Hendaknya penghafal Al-Quran memperhatikan bacaan di malam hari. Allah berfirman: 'Di antara Ahli Kitab ada golongan yang berlaku lurus, mereka membaca ayat-ayat Allah pada malam hari, sedang mereka bersujud.'"
     },
     {
-      "title": "Adab Tilawah: Tempat yang Bersih",
-      "titleArabic": "نَظَافَةُ الْمَكَانِ",
-      "arabic": "تُسْتَحَبُّ الْقِرَاءَةُ فِي مَكَانٍ نَظِيفٍ مُخْتَارٍ، وَلِهَذَا اسْتَحَبَّ جَمَاعَةٌ مِنَ الْعُلَمَاءِ الْقِرَاءَةَ فِي الْمَسْجِدِ.",
-      "translation": "Disunnahkan membaca di tempat yang bersih dan terpilih, oleh karena itu sekelompok ulama menyukai membaca Al-Quran di dalam masjid."
+      "title": "Bab 6: Adab Membaca Al-Quran (Kesucian)",
+      "titleArabic": "الْبَابُ السَّادِسُ: فِي آدَابِ الْقِرَاءَةِ - الطَّهَارَة",
+      "arabic": "يَنْبَغِي لِلْقَارِئِ إِذَا أَرَادَ الْقِرَاءَةَ أَنْ يَتَطَهَّرَ. وَإِذَا قَرَأَ مُحْدِثًا جَازَ بِإِجْمَاعِ الْمُسْلِمِينَ، لَكِنَّ الْأَفْضَلَ أَنْ يَكُونَ عَلَى طَهَارَةٍ.",
+      "translation": "Hendaknya pembaca Al-Quran bersuci ketika ingin membaca. Jika ia membaca dalam keadaan berhadats kecil, hukumnya boleh menurut ijma' kaum muslimin, namun yang lebih utama adalah dalam keadaan suci."
     },
     {
-      "title": "Adab Tilawah: Menghadap Kiblat",
-      "titleArabic": "اسْتِقْبَالُ الْقِبْلَةِ",
-      "arabic": "يُسْتَحَبُّ لِلْقَارِئِ فِي غَيْرِ الصَّلَاةِ أَنْ يَسْتَقْبِلَ الْقِبْلَةَ، وَيَجْلِسَ بِسَكِينَةٍ وَوَقَارٍ.",
-      "translation": "Disunnahkan bagi pembaca (di luar shalat) untuk menghadap kiblat dan duduk dengan tenang serta berwibawa."
+      "title": "Fasl: Menggunakan Siwak Sebelum Membaca",
+      "titleArabic": "فَصْلٌ: فِي اسْتِعْمَالِ السِّوَاكِ",
+      "arabic": "وَيَنْبَغِي إِذَا أَرَادَ الْقِرَاءَةَ أَنْ يُنَظِّفَ فَمَهُ بِالسِّوَاكِ وَغَيْرِهِ.",
+      "translation": "Hendaknya ketika ingin membaca, ia membersihkan mulutnya dengan siwak atau sarana lainnya."
     },
     {
-      "title": "Adab Tilawah: Memulai dengan Ta'awudz",
-      "titleArabic": "الِاسْتِعَاذَةُ",
-      "arabic": "إِذَا أَرَادَ الشُّرُوعَ فِي الْقِرَاءَةِ اسْتَعَاذَ، فَقَالَ: أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ.",
-      "translation": "Jika ingin memulai membaca, hendaknya membaca ta'awudz, yaitu mengucapkan: A'udzu billahi minasy syaithanir rajim."
+      "title": "Fasl: Memilih Tempat yang Bersih",
+      "titleArabic": "فَصْلٌ: فِي نَظَافَةِ الْمَكَانِ",
+      "arabic": "تُسْتَحَبُّ الْقِرَاءَةُ فِي مَكَانٍ نَظِيفٍ مُخْتَارٍ، وَلِهَذَا اسْتَحَبَّ جَمَاعَةٌ مِنَ الْعُلَمَاءِ الْقِرَاءَةَ فِي الْمَسْجِدِ لِكَوْنِهِ جَامِعًا لِلنَّظَافَةِ وَشَرَفِ الْبُقْعَةِ.",
+      "translation": "Disunnahkan membaca di tempat yang bersih dan terpilih, karena itu segolongan ulama menyukai membaca di masjid karena masjid menghimpun kebersihan dan kemuliaan tempat."
     },
     {
-      "title": "Adab Tilawah: Membaca Basmalah",
-      "titleArabic": "الْبَسْمَلَةُ",
-      "arabic": "يَنْبَغِي أَنْ يُحَافِظَ عَلَى قِرَاءَةِ {بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ} فِي أَوَّلِ كُلِّ سُورَةٍ إِلَّا سُورَةَ بَرَاءَةَ.",
-      "translation": "Hendaknya menjaga pembacaan 'Bismillahir rahmanir rahim' di setiap awal surat kecuali surat Bara'ah (At-Taubah)."
+      "title": "Fasl: Menghadap Kiblat dan Khusyu'",
+      "titleArabic": "فَصْلٌ: فِي اسْتِقْبَالِ الْقِبْلَةِ",
+      "arabic": "يُسْتَحَبُّ لِلْقَارِئِ فِي غَيْرِ الصَّلَاةِ أَنْ يَسْتَقْبِلَ الْقِبْلَةَ وَيَجْلِسَ بِسَكِينَةٍ وَوَقَارٍ.",
+      "translation": "Disunnahkan bagi pembaca (di luar shalat) untuk menghadap kiblat dan duduk dengan tenang serta penuh wibawa."
     },
     {
-      "title": "Adab Tilawah: Kekhusyukan dan Tadabbur",
-      "titleArabic": "الْخُشُوعُ وَالتَّدَبُّرُ",
-      "arabic": "يَنْبَغِي لِلْقَارِئِ أَنْ يَكُونَ شَأْنُهُ الْخُشُوعَ وَالتَّدَبُّرَ عِنْدَ الْقِرَاءَةِ، فَهَذَا هُوَ الْمَقْصُودُ الْأَسْمَى.",
-      "translation": "Hendaknya keadaan pembaca itu khusyu' dan merenung (tadabbur) saat membaca, karena inilah tujuan yang paling tinggi."
+      "title": "Fasl: Membaca Ta'awudz dan Basmalah",
+      "titleArabic": "فَصْلٌ: فِي الِاسْتِعَاذَةِ وَالتَّسْمِيَةِ",
+      "arabic": "فَإِذَا أَرَادَ الشُّرُوعَ فِي الْقِرَاءَةِ اسْتَعَاذَ، فَيَقُولُ: أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ. وَيَنْبَغِي أَنْ يُحَافِظَ عَلَى قِرَاءَةِ (بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ) فِي أَوَّلِ كُلِّ سُورَةٍ إِلَّا بَرَاءَةَ.",
+      "translation": "Apabila ingin mulai membaca, hendaklah meminta perlindungan dengan ber-ta'awudz: A'udzubillahi minasy syaithanir rajim. Dan hendaknya menjaga bacaan Basmalah di setiap awal surah kecuali surah At-Taubah (Bara'ah)."
     },
     {
-      "title": "Adab Tilawah: Menangis Saat Membaca",
-      "titleArabic": "الْبُكَاءُ عِنْدَ الْقِرَاءَةِ",
-      "arabic": "يُسْتَحَبُّ الْبُكَاءُ وَالتَّبَاكِي لِمَنْ لَا يَقْدِرُ عَلَى الْبُكَاءِ.",
-      "translation": "Disunnahkan menangis (karena takut/haru kepada Allah) dan berusaha menangis bagi yang tidak mampu menangis."
+      "title": "Fasl: Kewajiban Tartil",
+      "titleArabic": "فَصْلٌ: فِي التَّرْتِيلِ",
+      "arabic": "يَنْبَغِي أَنْ يَقْرَأَ بِالتَّرْتِيلِ. قَالَ اللَّهُ تَعَالَى: (وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا). وَالتَّرْتِيلُ أَقْرَبُ إِلَى الْإِجْلَالِ وَالتَّوْقِيرِ وَأَشَدُّ تَأْثِيرًا فِي الْقَلْبِ.",
+      "translation": "Hendaknya ia membaca dengan tartil. Allah berfirman: 'Dan bacalah Al-Quran itu dengan perlahan-lahan (tartil)'. Tartil itu lebih dekat kepada pengagungan dan lebih kuat pengaruhnya di dalam hati."
     },
     {
-      "title": "Adab Tilawah: Membaca dengan Tartil",
-      "titleArabic": "التَّرْتِيلُ",
-      "arabic": "يَنْبَغِي لِلْقَارِئِ أَنْ يُرَتِّلَ قِرَاءَتَهُ، قَالَ اللَّهُ تَعَالَى: {وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا}.",
-      "translation": "Hendaknya pembaca membaca dengan tartil (perlahan dan jelas), Allah Ta'ala berfirman: 'Dan bacalah Al-Quran itu dengan tartil'."
+      "title": "Fasl: Tadabbur (Merenungkan Makna)",
+      "titleArabic": "فَصْلٌ: فِي التَّدَبُّرِ",
+      "arabic": "وَهَذَا هُوَ الْمَقْصُودُ الْأَعْظَمُ وَالْمَطْلُوبُ الْأَهَمُّ، وَبِهِ تَنْشَرِحُ الصُّدُورُ وَتَسْتَنِيرُ الْقُلُوبُ. قَالَ اللَّهُ تَعَالَى: (كِتَابٌ أَنْزَلْنَاهُ إِلَيْكَ مُبَارَكٌ لِيَدَّبَّرُوا آيَاتِهِ).",
+      "translation": "Ini adalah tujuan terbesar dan tuntutan yang paling penting, dengannya dada menjadi lapang dan hati menjadi terang. Allah berfirman: 'Ini adalah sebuah kitab yang Kami turunkan kepadamu penuh dengan berkah supaya mereka merenungkan ayat-ayatnya'."
     },
     {
-      "title": "Adab Tilawah: Meminta Karunia saat Lewat Ayat Rahmat",
-      "titleArabic": "سُؤَالُ اللَّهِ مِنْ فَضْلِهِ عِنْدَ آيَةِ الرَّحْمَةِ",
-      "arabic": "يُسْتَحَبُّ إِذَا مَرَّ بِآيَةِ رَحْمَةٍ أَنْ يَسْأَلَ اللَّهَ مِنْ فَضْلِهِ، وَإِذَا مَرَّ بِآيَةِ عَذَابٍ أَنْ يَتَعَوَّذَ مِنَ الشَّرِّ.",
-      "translation": "Disunnahkan jika melewati ayat rahmat untuk memohon karunia Allah, dan jika melewati ayat azab untuk memohon perlindungan dari keburukan."
+      "title": "Fasl: Menangis Saat Membaca Al-Quran",
+      "titleArabic": "فَصْلٌ: فِي الْبُكَاءِ عِنْدَ الْقِرَاءَةِ",
+      "arabic": "وَهُوَ صِفَةُ الْعَارِفِينَ وَشِعَارُ عِبَادِ اللَّهِ الصَّالِحِينَ. قَالَ اللَّهُ تَعَالَى: (وَيَخِرُّونَ لِلأَذْقَانِ يَبْكُونَ).",
+      "translation": "Menangis (karena takut/rindu kepada Allah) adalah sifat orang-orang arif dan syiar hamba-hamba Allah yang saleh. Allah berfirman: 'Dan mereka menyungkur atas muka mereka sambil menangis'."
     },
     {
-      "title": "Adab Tilawah: Menghormati Al-Quran dari Hal Sia-sia",
-      "titleArabic": "تَنْزِيهُ الْقُرْآنِ عَنِ اللَّغْوِ",
-      "arabic": "يَجِبُ الِاحْتِرَازُ عَنِ الضَّحِكِ وَاللَّغْوِ وَالْعَبَثِ أَثْنَاءَ الْقِرَاءَةِ.",
-      "translation": "Wajib menjaga diri dari tertawa, bicara sia-sia, dan bermain-main di tengah-tengah membaca Al-Quran."
+      "title": "Fasl: Memperindah Suara",
+      "titleArabic": "فَصْلٌ: فِي تَحْسِينِ الصَّوْتِ بِالْقُرْآنِ",
+      "arabic": "أَجْمَعَ الْعُلَمَاءُ رَضِيَ اللَّهُ عَنْهُمْ مِنَ الصَّحَابَةِ وَالتَّابِعِينَ فَمَنْ بَعْدَهُمْ عَلَى اسْتِحْبَابِ تَحْسِينِ الصَّوْتِ بِالْقُرْآنِ.",
+      "translation": "Para ulama dari kalangan Sahabat, Tabi'in, dan setelah mereka telah bersepakat atas kesunnahan memperindah suara dalam membaca Al-Quran."
     },
     {
-      "title": "Hukum Membaca Al-Quran dengan Selain Bahasa Arab",
-      "titleArabic": "الْقِرَاءَةُ بِغَيْرِ الْعَرَبِيَّةِ",
-      "arabic": "لَا تَجُوزُ قِرَاءَةُ الْقُرْآنِ بِغَيْرِ الْعَرَبِيَّةِ، سَوَاءٌ أَحْسَنَ الْعَرَبِيَّةَ أَمْ لَمْ يُحْسِنْهَا.",
-      "translation": "Tidak diperbolehkan membaca Al-Quran dengan selain bahasa Arab, baik dia mahir bahasa Arab maupun tidak."
+      "title": "Fasl: Meminta Karunia Saat Ayat Rahmat",
+      "titleArabic": "فَصْلٌ: فِي سُؤَالِ اللَّهِ تَعَالَى عِنْدَ آيَاتِ الرَّحْمَةِ",
+      "arabic": "يُسْتَحَبُّ إِذَا مَرَّ بِآيَةِ رَحْمَةٍ أَنْ يَسْأَلَ اللَّهَ مِنْ فَضْلِهِ، وَإِذَا مَرَّ بِآيَةِ عَذَابٍ أَنْ يَسْتَعِيذَ بِاللَّهِ مِنَ الشَّرِّ وَمِنَ الْعَذَابِ.",
+      "translation": "Disunnahkan apabila melewati ayat rahmat untuk meminta karunia Allah, dan apabila melewati ayat azab untuk berlindung kepada Allah dari keburukan dan siksa."
     },
     {
-      "title": "Hukum Membaca Al-Quran dengan Qira'ah Syadzah",
-      "titleArabic": "الْقِرَاءَةُ بِالشَّاذِّ",
-      "arabic": "لَا تَجُوزُ الْقِرَاءَةُ بِالشَّاذِّ، وَمَنْ قَرَأَ بِهِ فَقَدْ أَثِمَ.",
-      "translation": "Tidak boleh membaca dengan qira'ah syadzah (yang tidak mutawatir), dan barangsiapa membacanya maka ia berdosa."
+      "title": "Fasl: Urutan Membaca Surah",
+      "titleArabic": "فَصْلٌ: فِي تَرْتِيبِ السُّوَرِ",
+      "arabic": "الِاخْتِيَارُ أَنْ يَقْرَأَ عَلَى تَرْتِيبِ الْمُصْحَفِ، فَيَقْرَأُ الْفَاتِحَةَ ثُمَّ الْبَقَرَةَ ثُمَّ آلَ عِمْرَانَ ثُمَّ مَا بَعْدَهَا عَلَى التَّرْتِيبِ.",
+      "translation": "Pendapat yang terpilih adalah membaca sesuai urutan mushaf, dimulai dari Al-Fatihah, kemudian Al-Baqarah, Ali Imran, dan seterusnya secara berurutan."
     },
     {
-      "title": "Urutan Membaca Surah",
-      "titleArabic": "تَرْتِيبُ السُّوَرِ",
-      "arabic": "الْأَوْلَى أَنْ يَقْرَأَ عَلَى تَرْتِيبِ الْمُصْحَفِ، فَإِذَا فَرَغَ مِنْ سُورَةٍ قَرَأَ الَّتِي تَلِيهَا.",
-      "translation": "Yang utama adalah membaca sesuai urutan Mushaf, jika selesai dari satu surat, bacalah surat setelahnya."
+      "title": "Fasl: Membaca dari Mushaf Lebih Utama",
+      "titleArabic": "فَصْلٌ: فِي الْقِرَاءَةِ مِنَ الْمُصْحَفِ",
+      "arabic": "الْقِرَاءَةُ مِنَ الْمُصْحَفِ أَفْضَلُ مِنَ الْقِرَاءَةِ عَنْ ظَهْرِ الْقَلْبِ، لِأَنَّ النَّظَرَ فِي الْمُصْحَفِ عِبَادَةٌ مَطْلُوبَةٌ.",
+      "translation": "Membaca dari mushaf lebih utama daripada membaca lewat hafalan (luar kepala), karena melihat mushaf adalah ibadah yang dianjurkan."
     },
     {
-      "title": "Membaca dari Mushaf Lebih Utama dari Hafalan",
-      "titleArabic": "الْقِرَاءَةُ مِنَ الْمُصْحَفِ أَفْضَلُ مِنَ الْقِرَاءَةِ عَنْ ظَهْرِ قَلْبٍ",
-      "arabic": "قِرَاءَةُ الْقُرْآنِ مِنَ الْمُصْحَفِ أَفْضَلُ مِنَ الْقِرَاءَةِ عَنْ ظَهْرِ الْقَلْبِ، لِأَنَّ النَّظَرَ فِي الْمُصْحَفِ عِبَادَةٌ مَطْلُوبَةٌ.",
-      "translation": "Membaca Al-Quran dari Mushaf lebih utama daripada membaca lewat hafalan, karena melihat Mushaf adalah ibadah yang dianjurkan."
+      "title": "Fasl: Anjuran Membaca Berjamaah",
+      "titleArabic": "فَصْلٌ: فِي الْقِرَاءَةِ جَمَاعَةً",
+      "arabic": "اعْلَمْ أَنَّ الْقِرَاءَةَ جَمَاعَةً مُسْتَحَبَّةٌ بِدَلَائِلَ كَثِيرَةٍ وَأَفْعَالِ السَّلَفِ الْمُتَظَاهِرَةِ.",
+      "translation": "Ketahuilah bahwa membaca Al-Quran secara berjamaah adalah disunnahkan berdasarkan banyak dalil dan perbuatan kaum salaf yang nyata."
     },
     {
-      "title": "Anjuran Membaca Berjamaah (Tadarus)",
-      "titleArabic": "الْقِرَاءَةُ جَمَاعَةً",
-      "arabic": "اعْلَمْ أَنَّ الْقِرَاءَةَ جَمَاعَةً مُسْتَحَبَّةٌ بِدَلَائِلَ كَثِيرَةٍ وَأَفْعَالِ السَّلَفِ.",
-      "translation": "Ketahuilah bahwa membaca secara berjamaah adalah disunnahkan berdasarkan banyak dalil dan perbuatan ulama salaf."
+      "title": "Fasl: Sujud Tilawah (Hukum dan Keutamaan)",
+      "titleArabic": "فَصْلٌ: فِي سُجُودِ التِّلَاوَةِ",
+      "arabic": "أَجْمَعَ الْعُلَمَاءُ عَلَى أَنَّ سُجُودَ التِّلَاوَةِ مَطْلُوبٌ. وَاخْتَلَفُوا فِي وُجُوبِهِ، فَالْجُمْهُورُ عَلَى أَنَّهُ سُنَّةٌ لَيْسَ بِوَاجِبٍ.",
+      "translation": "Para ulama bersepakat bahwa sujud tilawah itu dianjurkan. Mereka berbeda pendapat tentang kewajibannya; jumhur ulama berpendapat bahwa hukumnya sunnah dan tidak wajib."
     },
     {
-      "title": "Membaca dengan Suara Keras atau Lirih",
-      "titleArabic": "الْجَهْرُ وَالْإِسْرَارُ بِالْقِرَاءَةِ",
-      "arabic": "الْإِخْفَاءُ أَفْضَلُ حَيْثُ خَافَ الرِّيَاءَ، وَالْجَهْرُ أَفْضَلُ حَيْثُ لَا يَخَافُهُ.",
-      "translation": "Membaca lirih lebih utama jika khawatir riya, dan suara keras lebih utama jika tidak khawatir riya."
+      "title": "Fasl: Syarat Sujud Tilawah",
+      "titleArabic": "فَصْلٌ: فِي شُرُوطِ سُجُودِ التِّلَاوَةِ",
+      "arabic": "شُرُوطُ سُجُودِ التِّلَاوَةِ هِيَ شُرُوطُ الصَّلَاةِ فِي الطَّهَارَةِ وَاسْتِقْبَالِ الْقِبْلَةِ وَسَتْرِ الْعَوْرَةِ.",
+      "translation": "Syarat-syarat sujud tilawah sama dengan syarat-syarat shalat, yaitu dalam hal kesucian, menghadap kiblat, dan menutup aurat."
     },
     {
-      "title": "Anjuran Memperbagus Suara",
-      "titleArabic": "تَحْسِينُ الصَّوْتِ بِالْقُرْآنِ",
-      "arabic": "أَجْمَعَ الْعُلَمَاءُ رَضِيَ اللَّهُ عَنْهُمْ عَلَى اسْتِحْبَابِ تَحْسِينِ الصَّوْتِ بِالْقُرْآنِ.",
-      "translation": "Para ulama sepakat atas disunnahkannya memperbagus suara saat membaca Al-Quran."
+      "title": "Fasl: Bilangan Sujud Tilawah",
+      "titleArabic": "فَصْلٌ: فِي عَدَدِ سَجَدَاتِ الْقُرْآنِ",
+      "arabic": "هِيَ خَمْسَ عَشْرَةَ سَجْدَةً عِنْدَ الشَّافِعِيِّ وَجَمَاعَةٍ.",
+      "translation": "Jumlah sujud tilawah ada lima belas tempat menurut Imam Syafi'i dan segolongan ulama lainnya."
     },
     {
-      "title": "Waktu yang Dilarang Membaca Al-Quran",
-      "titleArabic": "الْأَوْقَاتُ الَّتِي تُكْرَهُ فِيهَا الْقِرَاءَةُ",
-      "arabic": "تُكْرَهُ الْقِرَاءَةُ فِي حَالَةِ الرُّكُوعِ وَالسُّجُودِ وَالتَّشَهُّدِ وَغَيْرِهَا مِنْ أَحْوَالِ الصَّلَاةِ سِوَى الْقِيَامِ.",
-      "translation": "Makruh membaca Al-Quran dalam keadaan ruku', sujud, tasyahud, dan kondisi shalat lainnya selain saat berdiri."
+      "title": "Fasl: Bacaan dalam Sujud Tilawah",
+      "titleArabic": "فَصْلٌ: فِي ذِكْرِ سُجُودِ التِّلَاوَةِ",
+      "arabic": "يُقَالُ فِيهِ مَا يُقَالُ فِي سُجُودِ الصَّلَاةِ: سُبْحَانَ رَبِّيَ الْأَعْلَى. وَيُسْتَحَبُّ أَنْ يَقُولَ: سَجَدَ وَجْهِي لِلَّذِي خَلَقَهُ وَصَوَّرَهُ وَشَقَّ سَمْعَهُ وَبَصَرَهُ بِحَوْلِهِ وَقُوَّتِهِ.",
+      "translation": "Dibaca di dalamnya apa yang dibaca saat sujud shalat (Subhana Rabbiyal A'la). Dan disunnahkan membaca: 'Sajada wajhiya lilladzi khalaqahu wa shawwarahu wa syaqqa sam'ahu wa basharahu bi haulihi wa quwwatih'."
     },
     {
-      "title": "Sujud Tilawah: Hukum dan Keutamaannya",
-      "titleArabic": "سُجُودُ التِّلَاوَةِ",
-      "arabic": "أَجْمَعَ الْعُلَمَاءُ عَلَى أَنَّ سُجُودَ التِّلَاوَةِ مَأْمُورٌ بِهِ، وَاخْتَلَفُوا فِي وُجُوبِهِ، وَالصَّحِيحُ أَنَّهُ سُنَّةٌ لَيْسَ بِوَاجِبٍ.",
-      "translation": "Para ulama sepakat bahwa sujud tilawah diperintahkan, mereka berbeda pendapat tentang kewajibannya, namun yang shahih adalah sunnah bukan wajib."
+      "title": "Bab 7: Adab Bersama Mushaf (Kewajiban Memuliakan)",
+      "titleArabic": "الْبَابُ السَّابِعُ: فِي آدَابِ جَمِيعِ النَّاسِ مَعَ الْمُصْحَفِ",
+      "arabic": "أَجْمَعَ الْمُسْلِمُونَ عَلَى وُجُوبِ تَعْظِيمِ الْقُرْآنِ عَلَى الْإِطْلَاقِ وَتَنْزِيهِهِ وَصِيَانَتِهِ.",
+      "translation": "Kaum muslimin bersepakat atas kewajiban mengagungkan Al-Quran secara mutlak, mensucikannya, dan menjaganya."
     },
     {
-      "title": "Syarat Sujud Tilawah",
-      "titleArabic": "شُرُوطُ سُجُودِ التِّلَاوَةِ",
-      "arabic": "شَرْطُ سُجُودِ التِّلَاوَةِ شَرْطُ الصَّلَاةِ فِي الطَّهَارَةِ وَاسْتِقْبَالِ الْقِبْلَةِ وَسَتْرِ الْعَوْرَةِ.",
-      "translation": "Syarat sujud tilawah sama dengan syarat shalat dalam hal kesucian, menghadap kiblat, dan menutup aurat."
+      "title": "Fasl: Pengharaman Bagi yang Berhadats",
+      "titleArabic": "فَصْلٌ: فِي تَحْرِيمِ مَسِّ الْمُصْحَفِ لِلْمُحْدِثِ",
+      "arabic": "يَحْرُمُ عَلَى الْمُحْدِثِ مَسُّ الْمُصْحَفِ وَحَمْلُهُ، سَوَاءٌ كَانَ حَدَثُهُ أَكْبَرَ أَوْ أَصْغَرَ.",
+      "translation": "Haram bagi orang yang berhadats menyentuh mushaf dan membawanya, baik hadats besar maupun kecil."
     },
     {
-      "title": "Bab 7: Adab Bersama Mushaf - Kewajiban Menjaga Mushaf",
-      "titleArabic": "الْبَابُ السَّابِعُ: آدَابُ النَّاسِ مَعَ الْمُصْحَفِ",
-      "arabic": "أَجْمَعَ الْمُسْلِمُونَ عَلَى وُجُوبِ تَعْظِيمِ الْقُرْآنِ الْعَزِيزِ عَلَى الْإِطْلَاقِ وَتَنْزِيهِهِ وَصِيَانَتِهِ.",
-      "translation": "Kaum muslimin sepakat atas wajibnya mengagungkan Al-Quran secara mutlak, mensucikannya, dan menjaganya."
+      "title": "Fasl: Menyentuh Mushaf dengan Pembungkus",
+      "titleArabic": "فَصْلٌ: فِي مَسِّ الْمُصْحَفِ مِنْ وَرَاءِ حَائِلٍ",
+      "arabic": "لَا يَجُوزُ مَسُّ الْمُصْحَفِ بِمَا فِيهِ مِنْ حَائِلٍ لَا يَتْبَعُهُ فِي الْبَيْعِ كَالْخِرْقَةِ.",
+      "translation": "Tidak boleh menyentuh mushaf dengan pembatas/penghalang yang tidak termasuk bagian yang ikut saat dijual, seperti kain (lepas)."
     },
     {
-      "title": "Haram Menyentuh Mushaf bagi yang Berhadas",
-      "titleArabic": "تَحْرِيمُ مَسِّ الْمُصْحَفِ لِلْمُحْدِثِ",
-      "arabic": "يَحْرُمُ عَلَى الْمُحْدِثِ مَسُّ الْمُصْحَفِ وَحَمْلُهُ.",
-      "translation": "Haram bagi orang yang berhadas menyentuh Mushaf dan membawanya."
+      "title": "Fasl: Hukum Membawa Mushaf Dalam Barang",
+      "titleArabic": "فَصْلٌ: فِي حَمْلِ الْمُصْحَفِ مَعَ أَمْتِعَةٍ",
+      "arabic": "إِذَا كَانَ الْمُصْحَفُ فِي أَمْتِعَةٍ فَحَمَلَ الْأَمْتِعَةَ وَلَمْ يَقْصِدِ الْمُصْحَفَ جَازَ عَلَى الصَّحِيحِ.",
+      "translation": "Jika mushaf berada di dalam tumpukan barang, lalu ia membawa barang tersebut tanpa bermaksud membawa mushafnya, maka hukumnya boleh menurut pendapat yang shahih."
     },
     {
-      "title": "Boleh Membawa Mushaf dalam Barang Bawaan",
-      "titleArabic": "حَمْلُ الْمُصْحَفِ فِي مَتَاعٍ",
-      "arabic": "إِذَا كَانَ الْمُصْحَفُ فِي مَتَاعٍ، فَهَلْ يَجُوزُ حَمْلُ الْمَتَاعِ لِلْمُحْدِثِ؟ فِيهِ أَوْجُهٌ، وَالصَّحِيحُ جَوَازُهُ.",
-      "translation": "Jika Mushaf berada di dalam barang bawaan, apakah boleh membawanya bagi orang berhadas? Ada beberapa pendapat, dan yang shahih adalah boleh."
+      "title": "Fasl: Menyentuh Kitab Tafsir",
+      "titleArabic": "فَصْلٌ: فِي مَسِّ كُتُبِ التَّفْسِيرِ",
+      "arabic": "إِذَا كَانَ التَّفْسِيرُ أَكْثَرَ مِنَ الْقُرْآنِ جَازَ مَسُّهُ عَلَى الْمَذْهَبِ الصَّحِيحِ.",
+      "translation": "Apabila (teks) tafsir lebih banyak daripada (teks) Al-Quran, maka boleh menyentuhnya menurut madzhab yang shahih."
     },
     {
-      "title": "Menyentuh Kitab Tafsir",
-      "titleArabic": "مَسُّ كُتُبِ التَّفْسِيرِ",
-      "arabic": "إِذَا كَانَ التَّفْسِيرُ أَكْثَرَ مِنَ الْقُرْآنِ لَمْ يَحْرُمْ مَسُّهُ، وَإِنْ كَانَ الْقُرْآنُ أَكْثَرَ حَرُمَ.",
-      "translation": "Jika tafsirnya lebih banyak dari teks Al-Quran maka tidak haram menyentuhnya, namun jika teks Al-Quran lebih banyak maka haram."
+      "title": "Fasl: Menulis Al-Quran Bagi yang Berhadats",
+      "titleArabic": "فَصْلٌ: فِي كِتَابَةِ الْقُرْآنِ لِلْمُحْدِثِ",
+      "arabic": "يَحْرُمُ عَلَى الْمُحْدِثِ كِتَابَةُ الْمُصْحَفِ إِذَا كَانَ يَمَسُّ الْوَرَقَةَ أَوْ يَحْمِلُهَا عِنْدَ الْكِتَابَةِ.",
+      "translation": "Haram bagi orang yang berhadats menulis mushaf jika ia menyentuh kertasnya atau membawanya saat menulis."
     },
     {
-      "title": "Menyentuh Mushaf bagi Anak Kecil",
-      "titleArabic": "مَسُّ الصَّبِيِّ لِلْمُصْحَفِ",
-      "arabic": "لَا يُمْنَعُ الصَّبِيُّ الْمُحْدِثُ مِنْ مَسِّ الْمُصْحَفِ لِحَاجَةِ تَعَلُّمِهِ.",
-      "translation": "Anak kecil yang berhadas tidak dilarang menyentuh Mushaf untuk keperluan belajarnya."
+      "title": "Fasl: Mengharamkan Perjalanan ke Tanah Musuh Membawa Mushaf",
+      "titleArabic": "فَصْلٌ: فِي السَّفَرِ بِالْمُصْحَفِ إِلَى أَرْضِ الْعَدُوِّ",
+      "arabic": "يُكْرَهُ السَّفَرُ بِالْمُصْحَفِ إِلَى أَرْضِ الْعَدُوِّ إِذَا خِيفَ وُقُوعُهُ فِي أَيْدِيهِمْ.",
+      "translation": "Makruh membawa mushaf bepergian ke tanah musuh jika dikhawatirkan mushaf tersebut akan jatuh ke tangan mereka."
     },
     {
-      "title": "Hukum Menjual Mushaf",
-      "titleArabic": "بَيْعُ الْمُصْحَفِ",
-      "arabic": "بَيْعُ الْمُصْحَفِ جَائِزٌ عِنْدَ الشَّافِعِيِّ، وَمَكْرُوهٌ عِنْدَ أَحْمَدَ.",
-      "translation": "Menjual Mushaf diperbolehkan menurut Imam Syafii, dan makruh menurut Imam Ahmad."
+      "title": "Fasl: Larangan Menjual Mushaf Kepada Non-Muslim",
+      "titleArabic": "فَصْلٌ: فِي بَيْعِ الْمُصْحَفِ لِلْكَافِرِ",
+      "arabic": "يُمْنَعُ بَيْعُ الْمُصْحَفِ مِنَ الْكَافِرِ، وَلَا يَصِحُّ بَيْعُهُ لَهُ.",
+      "translation": "Dilarang menjual mushaf kepada orang kafir, dan penjualannya tidak sah baginya."
     },
     {
-      "title": "Menghormati Mushaf: Jangan Melangkahi",
-      "titleArabic": "احْتِرَامُ الْمُصْحَفِ",
-      "arabic": "يَحْرُمُ تَوَسُّدُ الْمُصْحَفِ، بَلْ يَجِبُ صِيَانَتُهُ عَنْ كُلِّ مَا فِيهِ امْتِهَانٌ.",
-      "translation": "Haram menjadikan Mushaf sebagai bantal, bahkan wajib menjaganya dari segala hal yang bersifat merendahkan."
+      "title": "Fasl: Pengharaman Meludahi Mushaf",
+      "titleArabic": "فَصْلٌ: فِي تَحْرِيمِ الْبُصَاقِ عَلَى الْمُصْحَفِ",
+      "arabic": "يَحْرُمُ الْبُصَاقُ عَلَى الْمُصْحَفِ، وَهُوَ رِدَّةٌ عِنْدَ بَعْضِ الْعُلَمَاءِ لِمَا فِيهِ مِنَ الِاسْتِهَانَةِ.",
+      "translation": "Haram meludahi mushaf, dan perbuatan tersebut dianggap murtad menurut sebagian ulama karena mengandung unsur penghinaan."
     },
     {
-      "title": "Bab 8: Waktu-waktu Utama Membaca Al-Quran",
-      "titleArabic": "الْبَابُ الثَّامِنُ: فِي الْأَوْقَاتِ وَالْأَحْوَالِ الَّتِي تُسْتَحَبُّ فِيهَا الْقِرَاءَةُ",
-      "arabic": "أَفْضَلُ الْقِرَاءَةِ مَا كَانَ فِي الصَّلَاةِ، وَأَمَّا فِي غَيْرِ الصَّلَاةِ فَأَفْضَلُهَا اللَّيْلُ، وَالنِّصْفُ الْأَخِيرُ أَفْضَلُ مِنَ الْأَوَّلِ.",
-      "translation": "Bacaan paling utama adalah saat shalat. Adapun di luar shalat, yang paling utama adalah malam hari, dan separuh malam terakhir lebih utama dari yang pertama."
+      "title": "Bab 8: Ayat dan Surah yang Dianjurkan di Waktu Tertentu",
+      "titleArabic": "الْبَابُ الثَّامِنُ: فِي الْآيَاتِ وَالسُّوَرِ الْمُسْتَحَبَّةِ فِي أَوْقَاتٍ مَخْصُوصَةٍ",
+      "arabic": "مِنْهَا قِرَاءَةُ السَّجْدَةِ وَالْإِنْسَانِ فِي صَلَاةِ الصُّبْحِ يَوْمَ الْجُمُعَةِ. وَقِرَاءَةُ سُورَةِ الْكَهْفِ يَوْمَ الْجُمُعَةِ.",
+      "translation": "Di antaranya adalah membaca surah As-Sajdah dan Al-Insan pada shalat Subuh di hari Jumat, dan membaca surah Al-Kahfi pada hari Jumat."
     },
     {
-      "title": "Hari-hari Utama untuk Tilawah",
-      "titleArabic": "الْأَيَّامُ الْمُخْتَارَةُ",
-      "arabic": "مِنَ الْأَيَّامِ الْمُخْتَارَةِ: يَوْمُ الْجُمُعَةِ، وَالاثْنَيْنِ، وَالْخَمِيسِ، وَيَوْمُ عَرَفَةَ.",
-      "translation": "Hari-hari pilihan untuk tilawah adalah: hari Jumat, Senin, Kamis, dan hari Arafah."
+      "title": "Fasl: Surah yang Dibaca Sebelum Tidur",
+      "titleArabic": "فَصْلٌ: فِيمَا يُقْرَأُ عِنْدَ النَّوْمِ",
+      "arabic": "يُسْتَحَبُّ أَنْ يَقْرَأَ عِنْدَ النَّوْمِ آيَةَ الْكُرْسِيِّ، وَسُورَةَ الْإِخْلَاصِ، وَالْمُعَوِّذَتَيْنِ.",
+      "translation": "Disunnahkan membaca Ayat Kursi, surah Al-Ikhlas, dan Al-Mu'awwidzatain (Al-Falaq dan An-Nas) saat hendak tidur."
     },
     {
-      "title": "Bulan Utama untuk Tilawah",
-      "titleArabic": "الشُّهُورُ الْمُخْتَارَةُ",
-      "arabic": "أَفْضَلُ الشُّهُورِ لِلْقِرَاءَةِ شَهْرُ رَمَضَانَ.",
-      "translation": "Bulan yang paling utama untuk membaca Al-Quran adalah bulan Ramadhan."
-    },
-    {
-      "title": "Membaca Al-Quran di Sepuluh Hari Pertama Dzulhijjah",
-      "titleArabic": "الْعَشْرُ الْأَوَّلُ مِنْ ذِي الْحِجَّةِ",
-      "arabic": "يُسْتَحَبُّ الْإِكْثَارُ مِنَ الْقِرَاءَةِ فِي الْعَشْرِ الْأَوَّلِ مِنْ ذِي الْحِجَّةِ.",
-      "translation": "Disunnahkan memperbanyak bacaan pada sepuluh hari pertama bulan Dzulhijjah."
-    },
-    {
-      "title": "Membaca Surah Al-Kahfi pada Hari Jumat",
-      "titleArabic": "قِرَاءَةُ سُورَةِ الْكَهْفِ يَوْمَ الْجُمُعَةِ",
-      "arabic": "تُسْتَحَبُّ قِرَاءَةُ سُورَةِ الْكَهْفِ يَوْمَ الْجُمُعَةِ وَلَيْلَتَهَا.",
-      "translation": "Disunnahkan membaca surat Al-Kahfi pada hari Jumat dan malam Jumat."
-    },
-    {
-      "title": "Membaca Surah Yaasin, Al-Waqi'ah, dan Al-Mulk",
-      "titleArabic": "قِرَاءَةُ يس وَالْوَاقِعَةِ وَتَبَارَكَ",
-      "arabic": "يُسْتَحَبُّ قِرَاءَةُ يس وَالْوَاقِعَةِ وَتَبَارَكَ كُلَّ لَيْلَةٍ.",
-      "translation": "Disunnahkan membaca surat Yaasin, Al-Waqi'ah, dan Al-Mulk (Tabarak) setiap malam."
+      "title": "Fasl: Membaca Al-Quran untuk Orang Sakit",
+      "titleArabic": "فَصْلٌ: فِي الْقِرَاءَةِ عَلَى الْمَرِيضِ",
+      "arabic": "تُسْتَحَبُّ الْقِرَاءَةُ عَلَى الْمَرِيضِ بِالْفَاتِحَةِ وَالْمُعَوِّذَاتِ.",
+      "translation": "Disunnahkan membacakan surah Al-Fatihah dan Al-Mu'awwidzat kepada orang yang sedang sakit."
     },
     {
       "title": "Bab 9: Menulis Al-Quran dan Memuliakan Mushaf",
       "titleArabic": "الْبَابُ التَّاسِعُ: فِي كِتَابَةِ الْقُرْآنِ وَإِكْرَامِ الْمُصْحَفِ",
-      "arabic": "أَجْمَعَ الْعُلَمَاءُ عَلَى اسْتِحْبَابِ كِتَابَةِ الْمَصَاحِفِ وَتَحْسِينِ خَطِّهَا.",
-      "translation": "Para ulama sepakat atas sunnahnya menulis Mushaf-mushaf dan memperbagus tulisannya."
+      "arabic": "يَنْبَغِي تَحْسِينُ الْخَطِّ وَتَوْضِيحُهُ وَلَا يَجُوزُ كِتَابَتُهُ بِمَا هُوَ نَجِسٌ.",
+      "translation": "Hendaknya memperindah tulisan (khat) Al-Quran dan menjelaskannya, dan tidak boleh menulisnya dengan sesuatu yang najis."
     },
     {
-      "title": "Hukum Menulis Al-Quran di Tembok",
-      "titleArabic": "كِتَابَةُ الْقُرْآنِ عَلَى الْحِيطَانِ",
-      "arabic": "مَذْهَبُنَا أَنَّهُ تُكْرَهُ كِتَابَةُ الْقُرْآنِ عَلَى الْحِيطَانِ وَالثِّيَابِ.",
-      "translation": "Madzhab kami (Syafi'i) menyatakan bahwa makruh menulis Al-Quran pada dinding-dinding dan pakaian."
+      "title": "Fasl: Menghias Mushaf dengan Emas",
+      "titleArabic": "فَصْلٌ: فِي تذهيب الْمُصْحَفِ",
+      "arabic": "يَجُوزُ تذهيب الْمُصْحَفِ لِلنِّسَاءِ وَالرِّجَالِ عِنْدَ الشَّافِعِيِّ تَعْظِيمًا لَهُ.",
+      "translation": "Boleh menghias mushaf dengan emas baik bagi perempuan maupun laki-laki menurut Imam Syafi'i sebagai bentuk pengagungan terhadapnya."
     },
     {
-      "title": "Menulis Al-Quran untuk Obat (Nusyrah)",
-      "titleArabic": "كِتَابَةُ الْقُرْآنِ لِلِاسْتِشْفَاءِ",
-      "arabic": "إِذَا كُتِبَ الْقُرْآنُ فِي إِنَاءٍ ثُمَّ غُسِلَ وَسُقِيَ الْمَرِيضُ، فَقَالَ الْحَسَنُ وَمُجَاهِدٌ: لَا بَأْسَ بِهِ.",
-      "translation": "Jika Al-Quran ditulis di bejana kemudian dibasuh dan airnya diminumkan kepada orang sakit, maka Al-Hasan dan Mujahid berkata: Tidak mengapa."
+      "title": "Fasl: Larangan Membakar Al-Quran",
+      "titleArabic": "فَصْلٌ: فِي إِحْرَاقِ الْوَرَقِ الَّذِي فِيهِ قُرْآنٌ",
+      "arabic": "إِذَا احْتَاجَ إِلَى إِتْلَافِ أَوْرَاقِ الْمُصْحَفِ لِبِلَاهَا فَالْأَوْلَى غَسْلُهَا أَوْ دَفْنُهَا فِي مَكَانٍ طَاهِرٍ.",
+      "translation": "Apabila perlu memusnahkan lembaran mushaf karena sudah usang, maka yang lebih utama adalah membasuhnya (menghapus tinta) atau menguburnya di tempat yang suci."
     },
     {
-      "title": "Menjaga Al-Quran dari Kebakaran",
-      "titleArabic": "صِيَانَةُ الْمُصْحَفِ مِنَ الْحَرِيقِ",
-      "arabic": "إِذَا خِيفَ عَلَى الْمُصْحَفِ غَرَقٌ أَوْ حَرِيقٌ جَازَ لِلْمُحْدِثِ حَمْلُهُ لِلضَّرُورَةِ.",
-      "translation": "Jika dikhawatirkan Mushaf tenggelam atau terbakar, maka boleh bagi orang yang berhadas membawanya karena darurat."
-    },
-    {
-      "title": "Bab 10: Penjelasan Istilah dan Nama dalam Kitab",
-      "titleArabic": "الْبَابُ الْعَاشِرُ: فِي ضَبْطِ الْأَسْمَاءِ وَاللُّغَاتِ الْمَذْكُورَةِ فِي الْكِتَابِ",
-      "arabic": "هَذَا آخِرُ أَبْوَابِ الْكِتَابِ، وَهُوَ مَقْصُودٌ لِإِيضَاحِ مَا قَدْ يَخْفَى مِنَ الْأَلْفَاظِ.",
-      "translation": "Ini adalah bab terakhir kitab, yang bertujuan untuk menjelaskan istilah-istilah yang mungkin masih samar."
+      "title": "Bab 10: Penjelasan Kata-kata Asing (Gharib)",
+      "titleArabic": "الْبَابُ الْعَاشِرُ: فِي ضَبْطِ الْأَلْفَاظِ اللُّغَوِيَّةِ",
+      "arabic": "ذَكَرَ الْمُؤَلِّفُ فِيهِ جُمْلَةً مِنَ اللُّغَاتِ وَالْأَسْمَاءِ الْوَاقِعَةِ فِي الْكِتَابِ لِتَكُونَ تَبْصِرَةً لِلْمُطَالِعِ.",
+      "translation": "Penulis menyebutkan di dalamnya kumpulan kosakata dan nama-nama yang terdapat dalam kitab ini agar menjadi penjelasan bagi pembaca."
     },
     {
       "title": "Khatimah (Penutup)",
       "titleArabic": "خَاتِمَةُ الْكِتَابِ",
-      "arabic": "تَمَّ الْكِتَابُ بِحَمْدِ اللَّهِ وَمَنِّهِ، نَسْأَلُ اللَّهَ أَن يَنْفَعَنَا بِهِ فِي الدَّارَيْنِ.",
-      "translation": "Telah selesai kitab ini dengan puji dan anugerah Allah, kami memohon kepada Allah agar memberikan manfaat kepada kami dengannya di dunia dan akhirat."
+      "arabic": "هَذَا آخِرُ مَا قَصَدْتُ جَمْعَهُ فِي هَذَا الْمُخْتَصَرِ، وَأَسْأَلُ اللَّهَ الْكَرِيمَ أَنْ يَنْفَعَ بِهِ وَأَنْ يَجْعَلَهُ ذُخْرًا لِي بَعْدَ مَوْتِي.",
+      "translation": "Inilah akhir dari apa yang aku maksudkan untuk dihimpun dalam ringkasan ini. Aku memohon kepada Allah Yang Maha Mulia agar menjadikannya bermanfaat dan menjadikannya simpanan pahala bagiku setelah kematianku."
     }
   ]
 }
