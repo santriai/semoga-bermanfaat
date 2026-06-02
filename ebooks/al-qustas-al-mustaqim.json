@@ -1,0 +1,86 @@
+{
+  "profile": {
+    "name": "Al-Qustas al-Mustaqim",
+    "originalTitle": "الْقُسْطَاسُ الْمُسْتَقِيمُ",
+    "author": "Hujjatul Islam Abu Hamid Muhammad bin Muhammad al-Ghazali ath-Thusi",
+    "field": "Ilmu Kalam, Mantiq (Logika), dan Ushuluddin",
+    "about": "Kitab Al-Qustas al-Mustaqim merupakan karya monumental Imam al-Ghazali yang ditulis untuk menyanggah doktrin kaum Batiniyyah atau Ta'limiyyah yang menolak peran akal. Dalam kitab ini, Al-Ghazali membuktikan bahwa prinsip-prinsip logika formal (Mantiq) sebenarnya bersumber dari Al-Qur'an melalui lima 'Timbangan' (Mawazin) utama. Beliau mengemas argumen logika dalam terminologi religius untuk menunjukkan keselarasan antara akal yang sehat dan wahyu ilahi. Kitab ini menggunakan format dialog antara Al-Ghazali dengan seorang penganut Batiniyyah, menjadikannya sangat dialektis dan edukatif. Karya ini menandai fase penting dalam sejarah intelektual Islam di mana logika mulai diterima sebagai instrumen dalam ilmu kalam.",
+    "authorBorn": "450 H / 1058 M (Thous, Iran)",
+    "authorDied": "505 H / 1111 M (Thous, Iran)",
+    "authorCentury": "Abad ke-5 Hijriyah"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah: Alasan Penulisan Kitab",
+      "titleArabic": "الْمُقَدِّمَةُ فِي سَبَبِ تَأْلِيفِ الْكِتَابِ",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَخْرَجَنَا مِنْ ظُلُمَاتِ الطَّبْعِ وَالْأَوْهَامِ، وَنَجَّانَا مِنْ مَضَلَّاتِ الْفِتَنِ وَالْآرَاءِ، وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ رَسُولِ الرَّحْمَةِ. أَمَّا بَعْدُ، فَقَدْ سَأَلَنِي بَعْضُ الرُّفَقَاءِ فِي الطَّرِيقِ أَنْ أُبَيِّنَ لَهُ كَيْفِيَّةَ الِاسْتِعْلَاءِ عَلَى مَهَاوِي الضَّلَالَاتِ بِوَاسِطَةِ مَوَازِينِ الْقُرْآنِ.",
+      "translation": "Segala puji bagi Allah yang telah mengeluarkan kita dari kegelapan tabiat dan keraguan, dan menyelamatkan kita dari kesesatan fitnah dan hawa nafsu. Sholawat serta salam kepada junjungan kita Muhammad, Rasul Rahmat. Adapun setelah itu, sesungguhnya sebagian rekan dalam perjalanan memintaku untuk menjelaskan kepadanya bagaimana cara mengatasi jurang kesesatan dengan perantara timbangan-timbangan Al-Qur'an."
+    },
+    {
+      "title": "Dialog dengan Golongan Ta'limiyyah",
+      "titleArabic": "الْمُحَاوَرَةُ مَعَ الْبَاطِنِيَّةِ التَّعْلِيمِيَّةِ",
+      "arabic": "قَالَ لِي الْقَائِلُ: أَرَاكَ تَدَّعِي مَعْرِفَةَ الْحَقِّ بِالْمِيزَانِ، فَمِنْ أَيْنَ لَكَ هَذَا الْمِيزَانُ؟ وَهَلْ هُوَ مِيزَانُ الرَّأْيِ وَالْقِيَاسِ؟ فَقُلْتُ: مَعَاذَ اللَّهِ! مِيزَانُ الرَّأْيِ وَالْقِيَاسِ مِيزَانُ الشَّيْطَانِ. بَلْ هَذَا مِيزَانُ الْإِيمَانِ وَنُورُ الْقُرْآنِ.",
+      "translation": "Seseorang (dari golongan Ta'limi) berkata kepadaku: 'Aku melihatmu mengaku mengetahui kebenaran dengan suatu timbangan, maka dari manakah engkau mendapatkan timbangan ini? Apakah ini timbangan opini (ra'yu) dan qiyas (analogi)?' Maka aku menjawab: 'Aku berlindung kepada Allah! Timbangan opini dan qiyas adalah timbangan setan. Sebaliknya, ini adalah timbangan iman dan cahaya Al-Qur'an.'"
+    },
+    {
+      "title": "Pembagian Lima Timbangan Al-Qur'an",
+      "titleArabic": "أَقْسَامُ الْمَوَازِينِ الْخَمْسَةِ",
+      "arabic": "اعْلَمْ أَنَّ الْمَوَازِينِ الَّتِي أَنْزَلَهَا اللَّهُ تَعَالَى فِي كِتَابِهِ خَمْسَةٌ: ثَلَاثَةٌ مِنْهَا هِيَ مَوَازِينُ التَّعَادُلِ، وَوَاحِدٌ مِيزَانُ التَّلَازُمِ، وَوَاحِدٌ مِيزَانُ التَّعَانُدِ.",
+      "translation": "Ketahuilah bahwa timbangan-timbangan yang diturunkan Allah Ta'ala di dalam kitab-Nya ada lima: tiga di antaranya adalah Timbangan Kesetaraan (Mizan al-Ta'adul), satu Timbangan Keniscayaan (Mizan al-Talazum), dan satu Timbangan Perlawanan (Mizan al-Ta'anid)."
+    },
+    {
+      "title": "Timbangan Pertama: Mizan al-Ta'adul (Al-Akbar)",
+      "titleArabic": "الْمِيزَانُ الْأَوَّلُ: مِيزَانُ التَّعَادُلِ (الْأَكْبَرُ)",
+      "arabic": "وَهُوَ مِيزَانُ الْخَلِيلِ إِبْرَاهِيمَ عَلَيْهِ السَّلَامُ حِينَ قَالَ: {فَإِنَّ اللَّهَ يَأْتِي بِالشَّمْسِ مِنَ الْمَشْرِقِ فَأْتِ بِهَا مِنَ الْمَغْرِبِ}. وَمِثَالُهُ: كُلُّ مَنْ يَقْدِرُ عَلَى إِطْلَاعِ الشَّمْسِ فَهُوَ الْإِلَهُ، وَإِلَهِي قَادِرٌ عَلَيْهِ، فَإِذًا إِلَهِي هُوَ الْإِلَهُ.",
+      "translation": "Yaitu timbangan Al-Khalil Ibrahim AS ketika beliau berkata: 'Sesungguhnya Allah menerbitkan matahari dari timur, maka terbitkanlah ia dari barat'. Contoh format logikanya: Setiap yang mampu menerbitkan matahari adalah Tuhan; Tuhanku mampu melakukannya; maka Tuhanku adalah Tuhan."
+    },
+    {
+      "title": "Timbangan Kedua: Mizan al-Ta'adul (Al-Awsath)",
+      "titleArabic": "الْمِيزَانُ الثَّانِي: مِيزَانُ التَّعَادُلِ (الْأَوْسَطُ)",
+      "arabic": "وَهُوَ مُسْتَخْرَجٌ مِنْ قَوْلِهِ تَعَالَى: {قُلْ مَنْ أَنْزَلَ الْكِتَابَ الَّذِي جَاءَ بِهِ مُوسَى نُورًا وَهُدًى لِلنَّاسِ}. وَنَظْمُهُ: الْيَهُودُ قَالُوا مَا أَنْزَلَ اللَّهُ عَلَى بَشَرٍ مِنْ شَيْءٍ، وَالْكِتَابُ الَّذِي جَاءَ بِهِ مُوسَى قَدْ أَنْزَلَهُ اللَّهُ عَلَى بَشَرٍ، فَيَلْزَمُ مِنْهُ كَذِبُهُمْ.",
+      "translation": "Timbangan ini disarikan dari firman Allah Ta'ala: 'Katakanlah, siapakah yang menurunkan kitab yang dibawa oleh Musa sebagai cahaya dan petunjuk bagi manusia?'. Susunannya: Kaum Yahudi berkata bahwa Allah tidak menurunkan sesuatu pun kepada manusia; padahal kitab yang dibawa Musa telah diturunkan Allah kepada manusia; maka konsekuensinya adalah kedustaan ucapan mereka."
+    },
+    {
+      "title": "Timbangan Ketiga: Mizan al-Ta'adul (Al-Ashghar)",
+      "titleArabic": "الْمِيزَانُ الثَّالِثُ: مِيزَانُ التَّعَادُلِ (الْأَصْغَرُ)",
+      "arabic": "وَمِثَالُهُ فِي الْقُرْآنِ: {وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ إِذْ قَالُوا مَا أَنْزَلَ اللَّهَ عَلَى بَشَرٍ مِنْ شَيْءٍ}. وَهَذَا يُسْتَعْمَلُ لِإِثْبَاتِ الْخَاصِّ بَعْدَ الْعَامِّ.",
+      "translation": "Contohnya dalam Al-Qur'an: 'Dan mereka tidak menghormati Allah dengan penghormatan yang semestinya di kala mereka berkata: Allah tidak menurunkan sesuatu pun kepada manusia'. Ini digunakan untuk menetapkan hal yang khusus setelah adanya hal yang umum."
+    },
+    {
+      "title": "Timbangan Keempat: Mizan al-Talazum",
+      "titleArabic": "الْمِيزَانُ الرَّابِعُ: مِيزَانُ التَّلَازُمِ",
+      "arabic": "وَهُوَ مِيزَانُ التَّلازُمِ بَيْنَ السَّبَبِ وَالْمُسَبَّبِ، كَقَوْلِهِ تَعَالَى: {لَوْ كَانَ فِيهِمَا آلِهَةٌ إِلَّا اللَّهُ لَفَسَدَتَا}. فَهَذَا يَدُلُّ عَلَى نَفْيِ التَّعَدُّدِ لِأَنَّ الْفَسَادَ مُنْتَفٍ.",
+      "translation": "Yaitu timbangan keniscayaan antara sebab dan akibat, seperti firman-Nya: 'Sekiranya ada di langit dan di bumi tuhan-tuhan selain Allah, tentulah keduanya itu telah rusak'. Ini menunjukkan peniadaan تعدد (bilangan tuhan) karena ketiadaan kerusakan (alam semesta)."
+    },
+    {
+      "title": "Timbangan Kelima: Mizan al-Ta'anid",
+      "titleArabic": "الْمِيزَانُ الْخَامِسُ: مِيزَانُ التَّعَانُدِ",
+      "arabic": "وَهُوَ مِيزَانُ التَّقْسِيمِ وَالسَّبْرِ، كَقَوْلِهِ تَعَالَى: {قُلْ مَنْ يَرْزُقُكُمْ مِنَ السَّمَاوَاتِ وَالْأَرْضِ قُلِ اللَّهُ وَإِنَّا أَوْ إِيَّاكُمْ لَعَلَى هُدًى أَوْ فِي ضَلَالٍ مُبِينٍ}. فَهُمَا ضِدَّانِ لَا يَجْتَمِعَانِ.",
+      "translation": "Yaitu timbangan pembagian dan pengujian, seperti firman-Nya: 'Katakanlah: Siapakah yang memberi rezeki kepadamu dari langit dan bumi? Katakanlah: Allah, dan sesungguhnya kami atau kamu pasti berada dalam petunjuk atau dalam kesesatan yang nyata'. Keduanya adalah lawan yang tidak mungkin bersatu."
+    },
+    {
+      "title": "Kriteria Sahnya Timbangan (Syarat Silogisme)",
+      "titleArabic": "شُرُوطُ صِحَّةِ الْمِيزَانِ",
+      "arabic": "اعْلَمْ أَنَّ لِكُلِّ مِيزَانٍ شُرُوطًا فِي صُورَتِهِ وَمَادَّتِهِ. فَمَادَّتُهُ هِيَ الْمُقَدِّمَاتُ الْيَقِينِيَّةُ، وَصُورَتُهُ هِيَ التَّرْتِيبُ الْمُؤَدِّي إِلَى النَّتِيجَةِ.",
+      "translation": "Ketahuilah bahwa setiap timbangan memiliki syarat dalam bentuk (surah) dan materi (maddah)-nya. Materinya adalah premis-premis yang meyakinkan, sedangkan bentuknya adalah susunan yang menghantarkan kepada kesimpulan."
+    },
+    {
+      "title": "Cara Menjawab Syubhat Lawan",
+      "titleArabic": "كَيْفِيَّةُ الرَّدِّ عَلَى الشُّبُهَاتِ",
+      "arabic": "إِذَا أَوْرَدَ الْخَصْمُ شُبْهَةً، فَانْظُرْ هَلْ خَلَلُهَا فِي صُورَةِ الْمِيزَانِ أَوْ فِي مَادَّتِهِ، فَمَنْ لَا يَعْرِفُ الْخَلَلَ لَا يَقْدِرُ عَلَى الْحَلِّ.",
+      "translation": "Jika lawan mengemukakan syubhat (keraguan), maka perhatikanlah apakah kerusakannya terletak pada bentuk timbangan atau pada materinya. Barangsiapa yang tidak mengetahui letak kerusakan, maka ia tidak akan mampu menyelesaikannya."
+    },
+    {
+      "title": "Pentingnya Belajar Ilmu Logika Al-Qur'an",
+      "titleArabic": "أَهَمِّيَّةُ تَعَلُّمِ مَوَازِينِ الْقُرْآنِ",
+      "arabic": "إِنَّ هَذِهِ الْمَوَازِينِ هِيَ الْقِسْطَاسُ الْمُسْتَقِيمُ الَّذِي أَمَرَ اللَّهُ تَعَالَى بِهِ، وَبِهَا يَتَمَيَّزُ الْحَقُّ مِنَ الْبَاطِلِ لِمَنْ كَانَ لَهُ قَلْبٌ أَوْ أَلْقَى السَّمْعَ وَهُوَ شَهِيدٌ.",
+      "translation": "Sesungguhnya timbangan-timbangan ini adalah 'Al-Qustas al-Mustaqim' (timbangan yang lurus) yang diperintahkan oleh Allah Ta'ala. Dengan itu, kebenaran dapat dibedakan dari kebatilan bagi siapa saja yang memiliki hati atau yang menggunakan pendengarannya sedang dia menyaksikannya."
+    },
+    {
+      "title": "Khatimah: Nasihat bagi Pencari Kebenaran",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ فِي نَصِيحَةِ الْمُرْتَادِ",
+      "arabic": "فَعَلَيْكَ يَا أَخِي بِالِاعْتِصَامِ بِحَبْلِ الْقُرْآنِ وَاسْتِعْمَالِ مَوَازِينِهِ، وَإِيَّاكَ وَالتَّقْلِيدَ الْأَعْمَى الَّذِي يَقُودُ إِلَى الْهَلَاكِ. تَمَّتِ الرِّسَالَةُ وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ.",
+      "translation": "Maka hendaknya bagimu wahai saudaraku untuk berpegang teguh pada tali Al-Qur'an dan menggunakan timbangan-timbangannya. Jauhilah taklid buta yang akan menuntun pada kehancuran. Selesailah risalah ini, dan segala puji bagi Allah Tuhan semesta alam."
+    }
+  ]
+}
