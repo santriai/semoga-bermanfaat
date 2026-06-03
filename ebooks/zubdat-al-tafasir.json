@@ -1,0 +1,428 @@
+{
+  "profile": {
+    "name": "Zubdat al-Tafasir",
+    "originalTitle": "زُبْدَةُ التَّفَاسِيرِ مِنْ فَتْحِ الْقَدِيرِ",
+    "author": "Dr. Muhammad Sulaiman bin Abdullah al-Asyqar (د. محمد سليمان الأشقر)",
+    "field": "Tafsir Al-Qur'an (Turath Modern)",
+    "about": "Kitab ini merupakan ringkasan (mukhtasar) yang sangat masyhur dari kitab Fath al-Qadir karya Imam al-Syaukani. Penulis memfokuskan pada penjelasan kosakata yang sulit (garib al-alfaz) dan makna-makna inti dari setiap ayat tanpa memperpanjang perdebatan teologis atau linguistik yang rumit. Kitab ini menjadi rujukan standar di berbagai lembaga pendidikan Islam karena kemampuannya menyajikan esensi tafsir klasik dalam format yang lebih ringkas dan sistematis. Penulis menyaring pendapat-pendapat yang paling kuat (rajih) dengan tetap menjaga integritas metodologi salaf. Zubdat al-Tafasir sering dicetak di pinggir (margin) mushaf Al-Qur'an untuk memudahkan pembaca memahami makna ayat secara langsung.",
+    "authorBorn": "1930 M (Nablus, Palestina)",
+    "authorDied": "2009 M (Amman, Yordania)",
+    "authorCentury": "Abad 15 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Mukadimah Penulis",
+      "titleArabic": "مُقَدِّمَةُ المُؤَلِّفِ",
+      "arabic": "اَلْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ ، وَالصَّلَاةُ وَالسَّلَامُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ أَجْمَعِينَ. أَمَّا بَعْدُ: فَهَذَا مُخْتَصَرٌ لِتَفْسِيرِ الشَّوْكَانِيِّ (فَتْحِ الْقَدِيرِ) ، اقْتَصَرْتُ فِيهِ عَلَى زُبْدَةِ مَا ذَكَرَهُ ، لِيَكُونَ قَرِيبَ الْمَنَالِ لِطُلَّابِ الْعِلْمِ وَعَامَّةِ الْمُسْلِمِينَ.",
+      "translation": "Segala puji bagi Allah Tuhan semesta alam, shalawat serta salam semoga tercurah kepada junjungan kita Muhammad, keluarga, dan para sahabatnya sekalian. Amma ba'du: Ini adalah ringkasan dari Tafsir al-Syaukani (Fath al-Qadir), yang aku batasi hanya pada intisari (zubdah) dari apa yang beliau sebutkan, agar mudah dijangkau oleh penuntut ilmu dan kaum muslimin pada umumnya."
+    },
+    {
+      "title": "Surah Al-Fatihah",
+      "titleArabic": "سُورَةُ الْفَاتِحَةِ",
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ. الْحَمْدُ لِلَّهِ: هُوَ الثَّنَاءُ بِالْجَمِيلِ عَلَى جِهَةِ التَّعْظِيمِ. رَبِّ الْعَالَمِينَ: الرَّبُّ: هُوَ الْمَالِكُ وَالْمُرَبِّي ، وَالْعَالَمِينَ: جَمْعُ عَالَمٍ ، وَهُوَ كُلُّ مَا سِوَى اللَّهِ.",
+      "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah: Yaitu pujian dengan kebaikan dalam bentuk pengagungan. Rabb semesta alam: Ar-Rabb adalah sang pemilik dan pendidik, sedangkan Al-Alamin adalah bentuk jamak dari 'Alam, yaitu segala sesuatu selain Allah."
+    },
+    {
+      "title": "Surah Al-Baqarah",
+      "titleArabic": "سُورَةُ الْبَقَرَةِ",
+      "arabic": "الم: هَذِهِ الْحُرُوفُ الْمُقَطَّعَةُ لِلإِعْجَازِ. ذَلِكَ الْكِتَابُ: أَيِ الْقُرْآنُ الْعَظِيمُ. لَا رَيْبَ فِيهِ: لَا شَكَّ فِي صِدْقِهِ وَأَنَّهُ مِنْ عِنْدِ اللَّهِ. هُدًى لِلْمُتَّقِينَ: دَلِيلٌ وَمُرْشِدٌ لِلَّذِينَ يَتَّقُونَ اللَّهَ.",
+      "translation": "Alif Lam Mim: Huruf-huruf terputus ini berfungsi untuk mukjizat. Kitab ini: Yaitu Al-Qur'an yang agung. Tidak ada keraguan padanya: Tidak ada keraguan akan kebenarannya dan bahwasanya ia berasal dari sisi Allah. Petunjuk bagi orang yang bertakwa: Penunjuk dan pembimbing bagi orang-orang yang bertakwa kepada Allah."
+    },
+    {
+      "title": "Surah Ali 'Imran",
+      "titleArabic": "سُورَةُ آلِ عِمْرَانَ",
+      "arabic": "قَيُّومٌ: الْقَائِمُ بِتَدْبِيرِ الْخَلْقِ وَحِفْظِهِمْ. الْفُرْقَانَ: مَا يُفَرَّقُ بِهِ بَيْنَ الْحَقِّ وَالْبَاطِلِ. مُحْكَمَاتٌ: بَيِّنَاتُ الدَّلَالَةِ لَا الْتِبَاسَ فِيهَا.",
+      "translation": "Qayyum: Dzat yang terus menerus mengurus makhluk dan menjaga mereka. Al-Furqan: Apa yang digunakan untuk membedakan antara yang hak dan yang batil. Muhkamat: Ayat-ayat yang jelas maknanya dan tidak mengandung kesamaran."
+    },
+    {
+      "title": "Surah An-Nisa'",
+      "titleArabic": "سُورَةُ النِّسَاءِ",
+      "arabic": "اتَّقُوا رَبَّكُمُ: احْذَرُوا عِقَابَهُ بِامْتِثَالِ أَوَامِرِهِ. حُوبًا كَبِيرًا: إِثْمًا عَظِيمًا. نِحْلَةً: عَنْ طِيبِ نَفْسٍ وَفَرِيضَةٍ مِنَ اللَّهِ.",
+      "translation": "Bertakwalah kepada Tuhanmu: Takutilah azab-Nya dengan mematuhi perintah-Nya. Huban kabira: Dosa yang besar. Nihlatan: Sebagai pemberian dengan kerelaan hati dan kewajiban dari Allah."
+    },
+    {
+      "title": "Surah Al-Ma'idah",
+      "titleArabic": "سُورَةُ الْمَائِدَةِ",
+      "arabic": "بِالْعُقُودِ: الْعُهُودِ الْمُؤَكَّدَةِ. بَهِيمَةُ الْأَنْعَامِ: الْإِبِلُ وَالْبَقَرُ وَالْغَنَمُ. شَنَآنُ: بُغْضُ وَكَرَاهِيَةُ.",
+      "translation": "Dengan akad-akad: Perjanjian-perjanjian yang dikuatkan. Bahimatul An'am: Unta, sapi, dan kambing. Syana'an: Kebencian dan kemurkaan."
+    },
+    {
+      "title": "Surah Al-An'am",
+      "titleArabic": "سُورَةُ الْأَنْعَامِ",
+      "arabic": "قَيِّمًا: مُسْتَقِيمًا ثَابِتًا. حَنِيفًا: مَائِلًا عَنِ الْأَدْيَانِ الْبَاطِلَةِ إِلَى الدِّينِ الْحَقِّ. نُسُكِي: عِبَادَتِي أَوْ ذَبِيحَتِي.",
+      "translation": "Qayyiman: Yang lurus lagi kokoh. Hanifan: Yang condong dari agama-agama yang batil menuju agama yang benar. Nusuki: Ibadahku atau sembelihanku."
+    },
+    {
+      "title": "Surah Al-A'raf",
+      "titleArabic": "سُورَةُ الْأَعْرَافِ",
+      "arabic": "حَرَجٌ: ضِيقٌ وَشَكٌّ. الْأَعْرَافُ: سُورٌ بَيْنَ الْجَنَّةِ وَالنَّارِ. طَائِفٌ: وَسْوَسَةٌ أَوْ لَمَّةٌ مِنَ الشَّيْطَانِ.",
+      "translation": "Haraj: Kesempitan dan keraguan. Al-A'raf: Tembok pembatas antara Surga dan Neraka. Tha'if: Bisikan atau godaan dari setan."
+    },
+    {
+      "title": "Surah Al-Anfal",
+      "titleArabic": "سُورَةُ الْأَنْفَالِ",
+      "arabic": "الْأَنْفَالِ: الْغَنَائِمُ. وَجِلَتْ: خَافَتْ وَفَزِعَتْ. شَوْكَةِ: الْقُوَّةُ وَالْمَنَعَةُ وَالسِّلَاحُ.",
+      "translation": "Al-Anfal: Rampasan perang. Wajilat: Merasa takut dan gemetar. Syaukah: Kekuatan, pertahanan, dan senjata."
+    },
+    {
+      "title": "Surah At-Taubah",
+      "titleArabic": "سُورَةُ التَّوْبَةِ",
+      "arabic": "بَرَاءَةٌ: تَبَرُّؤٌ وَانْقِطَاعُ عِصْمَةٍ. مَرْصَدٍ: طَرِيقٍ وَمَمَرٍّ. الصَّغَارُ: الذُّلُّ وَالْهَوَانُ.",
+      "translation": "Bara'ah: Pemutusan hubungan dan hilangnya perlindungan. Marshad: Jalan dan tempat penantian. Ash-Shaghar: Kehinaan dan kerendahan."
+    },
+    {
+      "title": "Surah Yunus",
+      "titleArabic": "سُورَةُ يُونُسَ",
+      "arabic": "لِقَاءَنَا: الْمَصِيرُ إِلَيْنَا بَعْدَ الْمَوْتِ. قَدَمَ صِدْقٍ: سَابِقَةً حَسَنَةً وَمَنْزِلَةً رَفِيعَةً. أَنْدَادًا: أَمْثَالًا وَشُرَكَاءَ.",
+      "translation": "Pertemuan dengan Kami: Tempat kembali kepada Kami setelah mati. Qadama Sidqin: Kedudukan yang baik dan derajat yang tinggi. Andadan: Tandingan-tandingan dan sekutu-sekutu."
+    },
+    {
+      "title": "Surah Hud",
+      "titleArabic": "سُورَةُ هُودٍ",
+      "arabic": "أُحْكِمَتْ: أُتْقِنَتْ فَلَا يَتَطَرَّقُ إِلَيْهَا خَلَلٌ. اعْتَرَاكَ: أَصَابَكَ. مَجْرَاهَا: وَقْتُ جَرْيِهَا أَوْ مَكَانُهُ.",
+      "translation": "Uhkimat: Dikokohkan sehingga tidak ada celah kekurangan. I'tarak: Menimpamu. Majraha: Waktu berjalannya atau tempat berjalannya."
+    },
+    {
+      "title": "Surah Yusuf",
+      "titleArabic": "سُورَةُ يُوسُفَ",
+      "arabic": "غَيَابَتِ الْجُبِّ: قَعْرِ الْبِئْرِ. بَقَرٍ عِجَافٍ: هَزِيلَاتٍ نَحِيفَاتٍ. مَثْوَايا: مَقَامِي وَمَنْزِلِي.",
+      "translation": "Ghayabatil Jubb: Dasar sumur. Baqarin 'Ijaf: Sapi-sapi yang kurus kering. Matswaya: Tempat tinggal dan kedudukanku."
+    },
+    {
+      "title": "Surah Ar-Ra'd",
+      "titleArabic": "سُورَةُ الرَّعْدِ",
+      "arabic": "عَمَدٍ: دَعَائِمَ. مُتَجَاوِرَاتٌ: مُتَلَاصِقَاتٌ. الْمَثُلَاتُ: الْعُقُوبَاتُ الْمُنَكِّلَةُ.",
+      "translation": "Amad: Tiang-tiang penyangga. Mutajawirat: Berdampingan/berdekatan. Al-Matsulat: Siksaan-siksaan yang membinasakan."
+    },
+    {
+      "title": "Surah Ibrahim",
+      "titleArabic": "سُورَةُ إِبْرَاهِيمَ",
+      "arabic": "بِصَدِيدٍ: مَا يَسِيلُ مِنْ جُلُودِ أَهْلِ النَّارِ. اجْتُثَّتْ: اقْتُلِعَتْ مِنْ أَصْلِهَا. مُهْطِعِينَ: مُسْرِعِينَ مَادِّي أَعْنَاقِهِمْ.",
+      "translation": "Shadid: Nanah yang mengalir dari kulit penduduk neraka. Ijtutstsat: Tercabut dari akarnya. Muhti'in: Orang-orang yang datang dengan tergesa-gesa sambil mendongakkan leher."
+    },
+    {
+      "title": "Surah Al-Hijr",
+      "titleArabic": "سُورَةُ الْحِجْرِ",
+      "arabic": "شِيَعِ: فِرَقِ وَأَصْنَافِ. لَوَاقِحَ: تُؤَدِّي إِلَى لَقَاحِ السَّحَابِ بِالْمَطَرِ. صَفْحَ: التَّجَاوُزُ وَالْعَفْوُ.",
+      "translation": "Syiya': Golongan-golongan dan macam-macam. Lawaqih: Yang mengawinkan (membawa benih hujan pada awan). Shafh: Berpaling (dengan baik) dan memaafkan."
+    },
+    {
+      "title": "Surah An-Nahl",
+      "titleArabic": "سُورَةُ النَّحْلِ",
+      "arabic": "تُسِيمُونَ: تَرْعَوْنَ مَوَاشِيَكُمْ. الدِّفْءُ: مَا يُسْتَدْفَأُ بِهِ كَالْأَصْوَافِ. أَوْثَانًا: أَصْنَامًا.",
+      "translation": "Tusimun: Kalian menggembalakan ternak kalian. Dif-un: Apa yang menghangatkan seperti bulu domba. Autsanan: Berhala-berhala."
+    },
+    {
+      "title": "Surah Al-Isra'",
+      "titleArabic": "سُورَةُ الْإِسْرَاءِ",
+      "arabic": "لَفِيفًا: جَمِيعًا مُخْتَلِطِينَ. مَحْذُورًا: مَمْنُوعًا. وَصِيلًا: اِتِّصَالًا.",
+      "translation": "Lafifa: Semuanya dalam keadaan bercampur. Mahdzura: Terlarang/terhalangi. Washila: Hubungan/sambungan."
+    },
+    {
+      "title": "Surah Al-Kahf",
+      "titleArabic": "سُورَةُ الْكَهْفِ",
+      "arabic": "بَاخِعٌ: قَاتِلٌ وَمُهْلِكٌ نَفْسَكَ. الرَّقِيمِ: اللَّوْحِ الَّذِي كُتِبَتْ فِيهِ أَسْمَاؤُهُمْ. شَطَطًا: قَوْلًا جَائِرًا بَعِيدًا عَنِ الْحَقِّ.",
+      "translation": "Bakhi'un: Pembunuh atau pembinasa dirimu sendiri. Ar-Raqim: Prasasti/papan yang tertulis nama-nama mereka. Syathatha: Ucapan yang melampaui batas dan jauh dari kebenaran."
+    },
+    {
+      "title": "Surah Maryam",
+      "titleArabic": "سُورَةُ مَرْيَمَ",
+      "arabic": "وَهَنَ: ضَعُفَ. عِتِيًّا: يَبُوسَةً وَنُحُولًا لِكِبَرِ السِّنِّ. فَرِيًّا: أَمْرًا عَظِيمًا مُنْكَرًا.",
+      "translation": "Wahana: Melemah. 'Itiyya: Kering dan kurus karena usia tua. Fariyya: Sesuatu yang sangat besar mungkernya."
+    },
+    {
+      "title": "Surah Thaha",
+      "titleArabic": "سُورَةُ طه",
+      "arabic": "تَشْقَى: تَتْعَبَ. آنَسْتُ: أَبْصَرْتُ وَرَأَيْتُ. قَبَسٍ: شُعْلَةٍ مِنَ النَّارِ.",
+      "translation": "Tasyqa: Engkau menjadi susah/lelah. Anas-tu: Aku melihat dengan jelas. Qabas: Sulutan/nyala api."
+    },
+    {
+      "title": "Surah Al-Anbiya'",
+      "titleArabic": "سُورَةُ الْأَنْبِيَاءِ",
+      "arabic": "مُعْرِضُونَ: غَافِلُونَ لَا يَتَفَكَّرُونَ. لَاهِيَةً: غَافِلَةً مَشْغُولَةً بِالْبَاطِلِ. حَصِيدًا: كَالزَّرْعِ الْمَحْصُودِ.",
+      "translation": "Mu'ridhun: Orang-orang yang lalai dan tidak berpikir. Lahiyatan: Lalai karena sibuk dengan kebatilan. Hashidan: Seperti tanaman yang telah dipanen."
+    },
+    {
+      "title": "Surah Al-Hajj",
+      "titleArabic": "سُورَةُ الْحَجِّ",
+      "arabic": "تَذْهَلُ: تَنْسَى وَتَغْفَلُ. مَرِيدٍ: مُتَمَرِّدٍ عَالٍ فِي الشَّرِّ. هَامِدَةً: يَابِسَةً مَيْتَةً.",
+      "translation": "Tadz-halu: Lupa dan lalai. Marid: Pembangkang yang sangat jahat. Hamidatan: Kering dan mati (tanahnya)."
+    },
+    {
+      "title": "Surah Al-Mu'minun",
+      "titleArabic": "سُورَةُ الْمُؤْمِنُونَ",
+      "arabic": "خَاشِعُونَ: خَاضِعُونَ مُتَذَلِّلُونَ. سُلَالَةٍ: صَفْوَةٍ اسْتُلَّتْ مِنْ غَيْرِهَا. تَتْرَا: مُتَتَابِعِينَ.",
+      "translation": "Khasyi'un: Orang-orang yang tunduk dan merendahkan diri. Sulalah: Intisari yang disarikan dari yang lain. Tatra: Berurutan/berturut-turut."
+    },
+    {
+      "title": "Surah An-Nur",
+      "titleArabic": "سُورَةُ النُّورِ",
+      "arabic": "رَأْفَةٌ: رَحْمَةٌ وَرِقَّةٌ. الْإِفْكِ: أَشَدُّ الْكَذِبِ. يُبْرِئُكُمْ: يُطَهِّرُكُمْ.",
+      "translation": "Ra'fah: Belas kasih dan kelembutan. Al-Ifki: Kebohongan yang paling parah. Yubri'ukum: Membersihkan/membebaskan kalian."
+    },
+    {
+      "title": "Surah Al-Furqan",
+      "titleArabic": "سُورَةُ الْفُرْقَانِ",
+      "arabic": "هَبَاءً مَنْثُورًا: غُبَارًا مُتَفَرِّقًا لَا وَزْنَ لَهُ. هَوْنًا: بِسَكِينَةٍ وَوَقَارٍ. قَتُورًا: بَخِيلًا ضَيِّقًا.",
+      "translation": "Haba'an manstura: Debu yang beterbangan yang tidak memiliki timbangan. Haunan: Dengan ketenangan dan kewibawaan. Qatura: Kikir dan sempit."
+    },
+    {
+      "title": "Surah Asy-Syu'ara'",
+      "titleArabic": "سُورَةُ الشُّعَرَاءِ",
+      "arabic": "هَضِيمٌ: نَاضِجٌ لَطِيفٌ. رِيعٍ: مَكَانٍ مُرْتَفِعٍ. فَارِهِينَ: مَاهِرِينَ أَوْ مُتَكَبِّرِينَ.",
+      "translation": "Hadhim: Masak dan lembut. Ri'in: Tempat yang tinggi. Farihin: Orang-orang yang mahir atau sombong."
+    },
+    {
+      "title": "Surah An-Naml",
+      "titleArabic": "سُورَةُ النَّمْلِ",
+      "arabic": "أَوْزِعْنِي: أَلْهِمْنِي وَاجْعَلْنِي مُولَعًا. صَرْحٌ: قَصْرٌ أَوْ بِنَاءٌ عَالٍ. مُمَرَّدٌ: مُمَلَّسٌ مَصْقُولٌ.",
+      "translation": "Auzi'ni: Berilah aku ilham dan jadikanlah aku gemar. Sarhun: Istana atau bangunan tinggi. Mumarrad: Dihaluskan dan dilicinkan."
+    },
+    {
+      "title": "Surah Al-Qashash",
+      "titleArabic": "سُورَةُ الْقَصَصِ",
+      "arabic": "شِيَعًا: فِرَقًا. آنَسَ: أَبْصَرَ. جَذْوَةٍ: قِطْعَةٍ غَلِيظَةٍ مِنَ النَّارِ.",
+      "translation": "Syiya'an: Golongan-golongan. Anasa: Melihat. Jadzwah: Potongan api yang besar."
+    },
+    {
+      "title": "Surah Al-'Ankabut",
+      "titleArabic": "سُورَةُ الْعَنْكَبُوتِ",
+      "arabic": "فَتَنَّا: اخْتَبَرْنَا وَامْتَحَنَّا. أَثْقَالًا: أَوْزَارًا وَذُنُوبًا. مَوَدَّةَ: لِأَجْلِ التَّوَادِّ بَيْنَكُمْ.",
+      "translation": "Fatanna: Kami menguji dan mengetes. Atsqalan: Beban-beban dosa. Mawaddah: Karena rasa kasih sayang di antara kalian."
+    },
+    {
+      "title": "Surah Ar-Rum",
+      "titleArabic": "سُورَةُ الرُّومِ",
+      "arabic": "غُلِبَتِ: قُهِرَتْ. بِضْعِ: مَا بَيْنَ الثَّلَاثِ وَالتِّسْعِ. رَوْضَةٍ: جَنَّةٍ.",
+      "translation": "Ghulibat: Dikalahkan. Bidh'i: Antara bilangan tiga sampai sembilan. Raudhah: Taman/Surga."
+    },
+    {
+      "title": "Surah Luqman",
+      "titleArabic": "سُورَةُ لُقْمَانَ",
+      "arabic": "لَهْوَ الْحَدِيثِ: كُلُّ مَا يُلْهِي عَنِ الطَّاعَةِ. وَهْنًا: ضَعْفًا. صَعِّرْ: تُمِلْ وَجْهَكَ كِبْرًا.",
+      "translation": "Lahwal hadits: Segala hal yang melalaikan dari ketaatan. Wahnan: Kelemahan. Sa'ir: Memalingkan wajahmu karena sombong."
+    },
+    {
+      "title": "Surah As-Sajdah",
+      "titleArabic": "سُورَةُ السَّجْدَةِ",
+      "arabic": "مَهِينٍ: ضَعِيفٍ نَحِيفٍ. جَافَى: تَتَبَاعَدُ. قُرَّةِ أَعْيُنٍ: مَا يُسَرُّ بِهِ الْإِنْسَانُ.",
+      "translation": "Mahin: Lemah dan hina. Jafa: Menjauh/merenggang. Qurrati a'yun: Apa yang membahagiakan pandangan manusia."
+    },
+    {
+      "title": "Surah Al-Ahzab",
+      "titleArabic": "سُورَةُ الْأَحْزَابِ",
+      "arabic": "زَاغَتِ: مَالَتْ عَنِ الْقَصْدِ. صَيَاصِيهِمْ: حُصُونِهِمْ. بَرِيئًا: نَزِيهًا مِمَّا قَالُوا.",
+      "translation": "Zaghat: Melenceng/menyimpang dari tujuannya. Sayashihim: Benteng-benteng mereka. Bari'an: Bersih dari apa yang mereka ucapkan."
+    },
+    {
+      "title": "Surah Saba'",
+      "titleArabic": "سُورَةُ سَبَإٍ",
+      "arabic": "أَوِّبِي: سَبِّحِي وَرَدِّدِي التَّسْبِيحَ. مِنسَأَتَهُ: عَصَاهُ. سَيْلَ الْعَرِمِ: السَّيْلُ الشَّدِيدُ.",
+      "translation": "Awwibi: Bertasbihlah dan ulangilah tasbih itu. Minsa'atahu: Tongkatnya. Sailal 'Arim: Banjir yang sangat besar."
+    },
+    {
+      "title": "Surah Fathir",
+      "titleArabic": "سُورَةُ فَاطِرٍ",
+      "arabic": "فَاطِرِ: مُبْدِعِ وَخَالِقِ. الْقِطْمِيرِ: الْقِشْرَةُ الرَّقِيقَةُ عَلَى النَّوَاةِ. لُغُوبٌ: تَعَبٌ وَإِعْيَاءٌ.",
+      "translation": "Fathir: Pencipta dan pembuat. Qithmir: Kulit tipis pada biji kurma. Lughub: Kelelahan dan kepayahan."
+    },
+    {
+      "title": "Surah Yasin",
+      "titleArabic": "سُورَةُ يس",
+      "arabic": "أَغْلَالًا: جَوَامِعَ تُجْمَعُ بِهَا أَيْدِيهِمْ إِلَى أَعْنَاقِهِمْ. فَعَزَّزْنَا: قَوَّيْنَا. الْعُرْجُونِ: عِذْقُ النَّخْلَةِ الْيَابِسُ.",
+      "translation": "Aghlalan: Belenggu yang mengumpulkan tangan mereka ke leher. Fa'azzazna: Maka Kami kuatkan. Urjun: Tangkai kurma yang telah kering."
+    },
+    {
+      "title": "Surah Ash-Shaffat",
+      "titleArabic": "سُورَةُ الصَّافَّاتِ",
+      "arabic": "زَجْرًا: طَرْدًا وَسَوْقًا. ثَاقِبٌ: مُضِيءٌ يَثْقُبُ الظَّلَامَ. يَنْزِفُونَ: تُسْكَرُ عُقُولُهُمْ.",
+      "translation": "Zajran: Pengusiran dan penggiringan. Thaqib: Cahaya yang menembus kegelapan. Yunzifun: Akal mereka menjadi mabuk."
+    },
+    {
+      "title": "Surah Shad",
+      "titleArabic": "سُورَةُ ص",
+      "arabic": "لَاتَ حِينَ مَنَاصٍ: لَيْسَ وَقْتَ فِرَارٍ. اخْتِلَاقٌ: كَذِبٌ وَافْتِرَاءٌ. فَاتَّقِ: فَلْيَحْذَرِ الْعِقَابَ.",
+      "translation": "Lata hina manas: Bukanlah waktunya untuk lari/lepas. Ikhtilaq: Kebohongan dan rekayasa. Fattaqi: Maka hendaknya ia takut akan azab."
+    },
+    {
+      "title": "Surah Az-Zumar",
+      "titleArabic": "سُورَةُ الزُّمَرِ",
+      "arabic": "خَوَّلَهُ: أَعْطَاهُ وَمَنَحَهُ. اشْمَأَزَّتْ: نَفَرَتْ وَانْقبَضَتْ. حَافِّينَ: مُحِيطِينَ.",
+      "translation": "Khawwalahu: Memberinya dan menganugerahinya. Isyma'azzat: Merasa muak dan berkerut. Haffin: Mengitari/sekeliling."
+    },
+    {
+      "title": "Surah Ghafir",
+      "titleArabic": "سُورَةُ غَافِرٍ",
+      "arabic": "الطَّوْلِ: السَّعَةِ وَالْقُدْرَةِ وَالْغِنَى. كَاظِمِينَ: مُمْتَلِئِينَ غَمًّا وَحُزْنًا. سَرَفٌ: مُجَاوَزَةُ الْحَدِّ.",
+      "translation": "Ath-Thaul: Keluasan, kemampuan, dan kekayaan. Kazhimin: Dipenuhi dengan kesedihan dan duka. Saraf: Melampaui batas."
+    },
+    {
+      "title": "Surah Fushshilat",
+      "titleArabic": "سُورَةُ فُصِّلَتْ",
+      "arabic": "أَكْنَةٍ: أَغْطِيَةٍ. نَحِسَاتٍ: مَشْئُومَاتٍ أَوْ شَدِيدَاتِ الْبَرْدِ. تَتَنَزَّلُ: تَنْزِلُ مَرَّةً بَعْدَ أُخْرَى.",
+      "translation": "Akninah: Penutup-penutup. Nahisat: Yang membawa sial atau yang sangat dingin. Tatanazzalu: Turun berkali-kali."
+    },
+    {
+      "title": "Surah Asy-Syura",
+      "titleArabic": "سُورَةُ الشُّورَى",
+      "arabic": "يَذْرَؤُكُمْ: يَخْلُقُكُمْ وَيُكْثِرُكُمْ. رَوْضَاتِ: مَحَاسِنِ وَمَنَازِلِ. مُقْرِنِينَ: مُطِيقِينَ وَضَابِطِينَ.",
+      "translation": "Yadzra'ukum: Menciptakan kalian dan memperbanyak kalian. Raudhat: Keindahan-keindahan dan tempat tinggal. Muqrinin: Orang-orang yang mampu dan menguasai."
+    },
+    {
+      "title": "Surah Az-Zukhruf",
+      "titleArabic": "سُورَةُ الزُّخْرُفِ",
+      "arabic": "مُقْرِنِينَ: ضَابِطِينَ. زُخْرُفًا: ذَهَبًا أَوْ زِينَةً. مُّبْلِسُونَ: يَائِسُونَ مِنَ الْخَيْرِ.",
+      "translation": "Muqrinin: Orang-orang yang menguasai. Zukhrufan: Emas atau perhiasan. Mublisun: Orang-orang yang berputus asa dari kebaikan."
+    },
+    {
+      "title": "Surah Ad-Dukhan",
+      "titleArabic": "سُورَةُ الدُّخَانِ",
+      "arabic": "فَارْتَقِبْ: فَانْتَظِرْ. يَعْلَهُ: يَغْلِي. اعْتِلُوهُ: سُوقُوهُ بِعُنْفٍ.",
+      "translation": "Fartaqib: Maka tunggulah. Yaghli: Mendidih. I'tiluhu: Giringlah dia dengan kasar."
+    },
+    {
+      "title": "Surah Al-Jatsiyah",
+      "titleArabic": "سُورَةُ الْجَاثِيَةِ",
+      "arabic": "جَاثِيَةً: بَارِكَةً عَلَى الرُّكَبِ. هَوَاهُ: مَا يَمِيلُ إِلَيْهِ مِنَ الْبَاطِلِ. أَفَّاكٍ: كَذَّابٍ.",
+      "translation": "Jatsiyah: Berlutut. Hawahu: Apa yang dicenderunginya dari kebatilan. Affak: Pembohong besar."
+    },
+    {
+      "title": "Surah Al-Ahqaf",
+      "titleArabic": "سُورَةُ الْأَحْقَافِ",
+      "arabic": "الْأَحْقَافِ: مَسَاكِنُ عَادٍ (رِمَالٌ مُسْتَطِيلَةٌ). كُرْهًا: بِمَشَقَّةٍ. عَارِضًا: سَحَابًا يَعْرِضُ فِي السَّمَاءِ.",
+      "translation": "Al-Ahqaf: Tempat tinggal kaum 'Ad (bukit pasir yang memanjang). Kurhan: Dengan susah payah. 'Aridhan: Awan yang melintang di langit."
+    },
+    {
+      "title": "Surah Muhammad",
+      "titleArabic": "سُورَةُ مُحَمَّدٍ",
+      "arabic": "أَوْزَارَهَا: أَثْقَالَهَا مِنَ السِّلَاحِ. آسِنٍ: مُتَغَيِّرِ الرِّيحِ وَالطَّعْمِ. أَضْغَانَهُمْ: أَحْقَادَهُمْ.",
+      "translation": "Auzaraha: Beban-bebannya (berupa senjata). Asin: Berubah bau dan rasanya. Adhghanahum: Kebencian-kebencian mereka."
+    },
+    {
+      "title": "Surah Al-Fath",
+      "titleArabic": "سُورَةُ الْفَتْحِ",
+      "arabic": "مُعَزِّرِينَ: نَاصِرِينَ. بَيْتَ الرِّضْوَانِ: هِيَ بَيْعَةُ الشَّجَرَةِ. سِيمَاهُمْ: عَلَامَتُهُمْ.",
+      "translation": "Mu'azzirin: Orang-orang yang menolong. Bai'atur Ridwan: Yaitu Bai'at di bawah pohon. Simahum: Tanda-tanda mereka."
+    },
+    {
+      "title": "Surah Al-Hujurat",
+      "titleArabic": "سُورَةُ الْحُجُرَاتِ",
+      "arabic": "تَحْبَطَ: تَبْطُلَ. تَنَابَزُوا: تَدَاعَوْا بِالْأَلْقَابِ الْقَبِيحَةِ. تَمْتَرُوا: تَشُكُّوا.",
+      "translation": "Tahbhata: Menjadi sia-sia. Tanabazu: Saling memanggil dengan julukan yang buruk. Tamtaru: Ragu-ragu."
+    },
+    {
+      "title": "Surah Qaf",
+      "titleArabic": "سُورَةُ ق",
+      "arabic": "مَّرِيجٍ: مُضْطَرِبٍ. فُرُوجٍ: شُقُوقٍ. نَقَّبُوا: طَافُوا وَاخْتَرَقُوا.",
+      "translation": "Marij: Kacau/bingung. Furuj: Retakan/celah. Naqqabu: Menjelajah dan menembus."
+    },
+    {
+      "title": "Surah Adz-Dzariyat",
+      "titleArabic": "سُورَةُ الذَّارِيَاتِ",
+      "arabic": "الذَّارِيَاتِ: الرِّيَاحِ. الْحُبُكِ: الطَّرَائِقِ الْحَسَنَةِ. ذَنُوبًا: نَصِيبًا مِنَ الْعَذَابِ.",
+      "translation": "Adz-Dzariyat: Angin yang menerbangkan. Al-Hubuk: Jalan-jalan yang indah. Dhanuban: Bagian dari azab."
+    },
+    {
+      "title": "Surah Ath-Thur",
+      "titleArabic": "سُورَةُ الطُّورِ",
+      "arabic": "مَسْطُورٍ: مَكْتُوبٍ. الْمَسْجُورِ: الْمَمْلُوءِ نَارًا. تَمُورُ: تَدُورُ وَتَضْطَرِبُ.",
+      "translation": "Mastur: Tertulis. Al-Masjur: Yang dipenuhi api. Tamuru: Berputar dan berguncang."
+    },
+    {
+      "title": "Surah An-Najm",
+      "titleArabic": "سُورَةُ النَّجْمِ",
+      "arabic": "هَوَى: سَقَطَ وَغَرَبَ. ذُو مِرَّةٍ: ذُو قُوَّةٍ وَخَلْقٍ حَسَنٍ. ضِيزَى: جَائِرَةٌ نَاقِصَةٌ.",
+      "translation": "Hawa: Jatuh/terbenam. Dzu mirrah: Yang memiliki kekuatan dan rupa yang baik. Dhiza: Tidak adil/kurang."
+    },
+    {
+      "title": "Surah Al-Qamar",
+      "titleArabic": "سُورَةُ الْقَمَرِ",
+      "arabic": "انشَقَّ: انْفَصَلَ. نُّكُرٍ: مُنْكَرٍ فَظِيعٍ. مُهْطِعِينَ: مُسْرِعِينَ مَادِّي أَعْنَاقِهِمْ.",
+      "translation": "Insyaqqa: Terbelah. Nukur: Sesuatu yang mungkar lagi mengerikan. Muhti'in: Bersegera dengan mendongakkan leher."
+    },
+    {
+      "title": "Surah Ar-Rahman",
+      "titleArabic": "سُورَةُ الرَّحْمَنِ",
+      "arabic": "الْأَنَامِ: الْخَلْقِ. مَرَجَ: أَرْسَلَ وَخَلَّى. شُوَاظٌ: لَهَبٌ خَالِصٌ لَا دُخَانَ فِيهِ.",
+      "translation": "Al-Anam: Makhluk. Maraja: Membiarkan mengalir. Syuwazh: Nyala api murni tanpa asap."
+    },
+    {
+      "title": "Surah Al-Waqi'ah",
+      "titleArabic": "سُورَةُ الْوَاقِعَةِ",
+      "arabic": "بُسَّتِ: فُتِّتَتْ. مَّخْضُودٍ: لَا شَوْكَ فِيهِ. عُرُبًا: مُتَحَبِّبَاتٍ إِلَى أَزْوَاجِهِنَّ.",
+      "translation": "Bussat: Dihancurkan sampai lumat. Makhdhud: Tidak berduri. 'Uruban: Yang penuh cinta kepada suami mereka."
+    },
+    {
+      "title": "Surah Al-Hadid",
+      "titleArabic": "سُورَةُ الْحَدِيدِ",
+      "arabic": "قَرْضًا حَسَنًا: نَفَقَةً بِإِخْلَاصٍ. أَمَدُ: الزَّمَانُ. قَفَّيْنَا: أَتْبَعْنَا.",
+      "translation": "Qardhan hasanan: Nafkah dengan ikhlas. Amad: Jangka waktu. Qaffaina: Kami iringi/susul."
+    },
+    {
+      "title": "Surah Al-Mujadilah",
+      "titleArabic": "سُورَةُ الْمُجَادِلَةِ",
+      "arabic": "تُحَادُّونَ: تُخَالِفُونَ وَتُعَادُونَ. يَنْتَهُونَ: يَنْزَجِرُونَ. نَجْوَاكُمْ: تَسَارَّكُمْ.",
+      "translation": "Tuhaddun: Menyelisihi dan memusuhi. Yantahun: Berhenti/tercegah. Najwakum: Pembicaraan rahasia kalian."
+    },
+    {
+      "title": "Surah Al-Hasyr",
+      "titleArabic": "سُورَةُ الْحَشْرِ",
+      "arabic": "الْجَلَاءَ: الْخُرُوجَ مِنَ الْوَطَنِ. لِينَةٍ: نَخْلَةٍ. خَصَاصَةٌ: فَقْرٌ وَحَاجَةٌ.",
+      "translation": "Al-Jala': Pengusiran dari tanah air. Linah: Pohon kurma. Khasashah: Kemiskinan dan kebutuhan."
+    },
+    {
+      "title": "Surah Al-Mumtahanah",
+      "titleArabic": "سُورَةُ الْمُمْتَحَنَةِ",
+      "arabic": "تُلْقُونَ: تُوصِلُونَ. عِصَمِ: عُقُودِ النِّكَاحِ. يَتَوَلَّوْا: يَتَّخِذُوا أَوْلِيَاءَ.",
+      "translation": "Tulqun: Menyampaikan. 'Isam: Ikatan pernikahan. Yatawallau: Menjadikan pelindung/pemimpin."
+    },
+    {
+      "title": "Surah Ash-Shaff",
+      "titleArabic": "سُورَةُ الصَّفِّ",
+      "arabic": "مَقْتًا: بُغْضًا شَدِيدًا. بَقْرٍ: شَقٍّ. مَرْصُوصٌ: مُلْتَصِقٌ بَعْضُهُ بِبَعْضٍ.",
+      "translation": "Maqtan: Kebencian yang sangat. Baqr: Belahan. Marshush: Tersusun rapat satu sama lain."
+    },
+    {
+      "title": "Surah Al-Jumu'ah",
+      "titleArabic": "سُورَةُ الْجُمُعَةِ",
+      "arabic": "يُزَكِّيهِمْ: يُطَهِّرُهُمْ مِنَ الشِّرْكِ. أَسْفَارًا: كُتُبًا كَبِيرَةً. نُودِيَ: أُذِّنَ.",
+      "translation": "Yuzakkihim: Membersihkan mereka dari syirik. Asfaran: Kitab-kitab besar. Nudiya: Diserukan (Adzan)."
+    },
+    {
+      "title": "Surah Al-Munafiqun",
+      "titleArabic": "سُورَةُ الْمُنَافِقُونَ",
+      "arabic": "جُنَّةً: وِقَايَةً وَسِتْرًا. خُشُبٌ مُّسَنَّدَةٌ: لَا فَهْمَ لَهُمْ وَلَا خَيْرَ فِيهِمْ. يَنْفَضُّوا: يَتَفَرَّقُوا.",
+      "translation": "Junnah: Tameng dan penutup. Khusyubum musannadah: Tidak punya pemahaman dan tidak ada kebaikan (seperti kayu yang tersandar). Yanfadh-dhu: Membubarkan diri/berpencar."
+    },
+    {
+      "title": "Surah At-Taghabun",
+      "titleArabic": "سُورَةُ التَّغَابُنِ",
+      "arabic": "التَّغَابُنِ: غَبْنُ أَهْلِ الْجَنَّةِ لِأَهْلِ النَّارِ. فَرِيضَةً: وَاجِبَةً. يُوقَ: يُحْمَ وَيُصَنْ.",
+      "translation": "At-Taghabun: Penyesalan (saat ahli surga mengambil tempat ahli neraka). Faridhatan: Kewajiban. Yuqa: Dilindungi dan dipelihara."
+    },
+    {
+      "title": "Surah Ath-Thalaq",
+      "titleArabic": "سُورَةُ الطَّلَاقِ",
+      "arabic": "لِعِدَّتِهِنَّ: فِي الْوَقْتِ الَّذِي يَشْرَعْنَ فِيهِ الْعِدَّةَ. قَدَرًا: تَقْدِيرًا وَأَجَلًا. مَخْرَجًا: خَلَاصًا مِنَ الْكُرُوبِ.",
+      "translation": "Li'iddatihinna: Pada waktu mereka memulai masa iddah. Qadaran: Ketentuan dan ajal. Makhrajan: Jalan keluar dari kesulitan."
+    },
+    {
+      "title": "Surah At-Tahrim",
+      "titleArabic": "سُورَةُ التَّحْرِيمِ",
+      "arabic": "تَبْتَغِي: تَطْلُبُ. صَيَصٍ: بَيْتٍ. قُوتًا: طَعَامًا.",
+      "translation": "Tabtaghi: Engkau mencari. Sayas: Rumah. Qutan: Makanan."
+    },
+    {
+      "title": "Surah Al-Mulk hingga An-Nas",
+      "titleArabic": "مِنْ سُورَةِ الْمُلْكِ إِلَى النَّاسِ",
+      "arabic": "تَفَاوُتٍ: نَقْصٍ وَاضْطِرَابٍ. مَنَاكِبِهَا: جَوَانِبِهَا وَطُرُقِهَا. الْوَسْوَاسِ: الشَّيْطَانِ الَّذِي يُوَسْوِسُ.",
+      "translation": "Tafawut: Kekurangan dan kekacauan. Manakibiha: Penjuru dan jalan-jalannya. Al-Waswas: Setan yang membisikkan keburukan."
+    },
+    {
+      "title": "Penutup Kitab",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ",
+      "arabic": "تَمَّ بِحَمْدِ اللَّهِ هَذَا الْمُخْتَصَرُ ، نَسْأَلُ اللَّهَ أَنْ يَنْفَعَ بِهِ ، وَآخِرُ دَعْوَانَا أَنِ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ.",
+      "translation": "Telah selesai dengan puji bagi Allah ringkasan ini, kami memohon kepada Allah agar memberikan manfaat dengannya, dan akhir doa kami adalah segala puji bagi Allah Tuhan semesta alam."
+    }
+  ]
+}
