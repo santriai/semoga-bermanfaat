@@ -1,0 +1,218 @@
+{
+  "profile": {
+    "name": "Maqasid al-Falasifah",
+    "originalTitle": "مَقَاصِدُ الْفَلَاسِفَةِ",
+    "author": "Al-Imam Abu Hamid Muhammad bin Muhammad al-Ghazali (Hujjatul Islam)",
+    "field": "Falsafah, Mantiq, dan Teologi (Kalam)",
+    "about": "Kitab ini merupakan karya monumental Imam al-Ghazali yang disusun sebagai pengantar objektif terhadap pemikiran filsafat Peripatetik (Masya'iyyah), khususnya pemikiran Ibnu Sina. Penulisan kitab ini bertujuan untuk memetakan pemikiran para filosof secara sistematis sebelum al-Ghazali meluncurkan kritik tajam dalam Tahafut al-Falasifah. Isi kitab terbagi secara metodis ke dalam tiga disiplin utama: Logika (Mantiq), Metafisika (Ilahiyyat), dan Fisika (Tabi'iyyat). Kitab ini diakui secara luas baik di dunia Islam maupun Barat karena kejernihan penjelasannya dalam merumuskan premis-premis filsafat yang kompleks. Penguasaan terhadap isi kitab ini dianggap krusial bagi penuntut ilmu yang ingin memahami dialektika antara akal dan wahyu dalam tradisi intelektual Islam.",
+    "authorBorn": "450 H / 1058 M (Tus, Khurasan)",
+    "authorDied": "505 H / 1111 M (Tus, Khurasan)",
+    "authorCentury": "Abad ke-5 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Mukadimah Kitab",
+      "titleArabic": "مُقَدِّمَةُ الْكِتَابِ",
+      "arabic": "أَمَّا بَعْدُ، فَقَدْ سَأَلْتَنِي أَنْ أَذْكَرَ لَكَ مَقَاصِدَ الْفَلَاسِفَةِ، وَتَحْقِيقَ مَذَاهِبِهِمْ فِي الْإِلٰهِيَّاتِ وَالطَّبِيعِيَّاتِ وَالْمَنْطِقِيَّاتِ، مِنْ غَيْرِ تَمْيِيزٍ بَيْنَ حَقِّهَا وَبَاطِلِهَا، بَلْ عَلَى سَبِيلِ الْحِكَايَةِ الْمُجَرَّدَةِ.",
+      "translation": "Adapun setelah itu, sungguh engkau telah memintaku untuk menyebutkan kepadamu maksud-maksud (tujuan) para filosof, serta verifikasi mazhab-mazhab mereka dalam bidang Ketuhanan (Metafisika), Alam (Fisika), dan Logika, tanpa membedakan antara yang benar dan yang batil, melainkan hanya sekadar pemaparan murni."
+    },
+    {
+      "title": "Pengantar Ilmu Logika (Mantiq)",
+      "titleArabic": "مُقَدِّمَةُ عِلْمِ الْمَنْطِقِ",
+      "arabic": "الْمَنْطِقُ هُوَ الْقَانُونُ الَّذِي يُمَيَّزُ بِهِ الْفِكْرُ الصَّحِيحُ عَنِ الْفِكْرِ الْفَاسِدِ، وَهُوَ مِيزَانُ الْعُلُومِ.",
+      "translation": "Logika adalah undang-undang (aturan) yang dengannya dibedakan antara pemikiran yang benar dari pemikiran yang rusak, dan ia adalah timbangan bagi segala ilmu."
+    },
+    {
+      "title": "Bab Kata Tunggal (Al-Mufrad)",
+      "titleArabic": "بَابُ الْأَلْفَاظِ الْمُفْرَدَةِ",
+      "arabic": "اللَّفْظُ الْمُفْرَدُ هُوَ الَّذِي لَا يَدُلُّ جُزْؤُهُ عَلَى جُزْءِ مَعْنَاهُ، كَالْإِنْسَانِ وَالْفَرَسِ.",
+      "translation": "Kata tunggal adalah kata yang bagian-bagiannya tidak menunjukkan pada bagian maknanya, seperti kata 'manusia' dan 'kuda'."
+    },
+    {
+      "title": "Bab Kata Majemuk (Al-Murakkab)",
+      "titleArabic": "بَابُ الْأَلْفَاظِ الْمُرَكَّبَةِ",
+      "arabic": "اللَّفْظُ الْمُرَكَّبُ هُوَ الَّذِي يَدُلُّ جُزْؤُهُ عَلَى جُزْءِ مَعْنَاهُ، كَقَوْلِكَ: زَيْدٌ قَائِمٌ.",
+      "translation": "Kata majemuk adalah kata yang bagian-bagiannya menunjukkan pada bagian maknanya, seperti ucapanmu: 'Zaid berdiri'."
+    },
+    {
+      "title": "Bab Universalia Lima (Al-Kulliyat al-Khamsah)",
+      "titleArabic": "بَابُ الْكُلِّيَّاتِ الْخَمْسَةِ",
+      "arabic": "الْكُلِّيَّاتُ الْخَمْسَةُ هِيَ: الْجِنْسُ، وَالنَّوْعُ، وَالْفَصْلُ، وَالْخَاصَّةُ، وَالْعَرَضُ الْعَامُّ.",
+      "translation": "Universalia lima (lima konsep umum) adalah: Jenis (genus), Nau' (spesies), Fasl (differentia), Khassah (propertia), dan 'Arad 'Am (aksidensi umum)."
+    },
+    {
+      "title": "Definisi (Al-Hadd) dan Deskripsi (Al-Rasm)",
+      "titleArabic": "بَابُ الْحَدِّ وَالرَّسْمِ",
+      "arabic": "الْحَدُّ التَّامُّ هُوَ الْمُؤَلَّفُ مِنَ الْجِنْسِ الْقَرِيبِ وَالْفَصْلِ الْقَرِيبِ، كَقَوْلِنَا: الْإِنْسَانُ حَيَوَانٌ نَاطِقٌ.",
+      "translation": "Definisi sempurna (Al-Hadd al-Tamm) adalah yang tersusun dari jenis terdekat dan fasl terdekat, seperti ucapan kita: 'Manusia adalah hewan yang berpikir'."
+    },
+    {
+      "title": "Bab Proposisi (Al-Qadiyyah)",
+      "titleArabic": "بَابُ الْقَضَايَا",
+      "arabic": "الْقَضِيَّةُ هِيَ كُلُّ قَوْلٍ يَحْتَمِلُ الصِّدْقَ وَالْكَذِبَ لِذَاتِهِ.",
+      "translation": "Proposisi adalah setiap perkataan yang mengandung kemungkinan benar dan dusta demi zatnya sendiri."
+    },
+    {
+      "title": "Proposisi Kategoris (Al-Hamliyyah)",
+      "titleArabic": "الْقَضِيَّةُ الْحَمْلِيَّةُ",
+      "arabic": "الْحَمْلِيَّةُ هِيَ الَّتِي يُحْكَمُ فِيهَا بِثُبُوتِ شَيْءٍ لِشَيْءٍ أَوْ نَفْيِهِ عَنْهُ.",
+      "translation": "Proposisi kategoris adalah proposisi yang dihukumi di dalamnya dengan penetapan sesuatu bagi sesuatu yang lain atau penafian darinya."
+    },
+    {
+      "title": "Proposisi Hipotesis (Al-Syartiyyah)",
+      "titleArabic": "الْقَضِيَّةُ الشَّرْطِيَّةُ",
+      "arabic": "الشَّرْطِيَّةُ تَنْقَسِمُ إِلَى مُتَّصِلَةٍ وَمُنْفَصِلَةٍ.",
+      "translation": "Proposisi hipotesis (kondisional) terbagi menjadi dua: kontinu (mutthasilah) dan diskrit (munfashilah)."
+    },
+    {
+      "title": "Bab Kontradiksi (Al-Tanaqud)",
+      "titleArabic": "بَابُ التَّنَاقُضِ",
+      "arabic": "التَّنَاقُضُ هُوَ اخْتِلَافُ الْقَضِيَّتَيْنِ بِالْإِيجَابِ وَالسَّلْبِ بِحَيْثُ يَقْتَضِي صِدْقَ إِحْدَاهُمَا كَذِبَ الْأُخْرَى.",
+      "translation": "Kontradiksi adalah perbedaan dua proposisi dalam hal afirmatif (positif) dan negatif sedemikian rupa sehingga kebenaran salah satunya menuntut kedustaan yang lain."
+    },
+    {
+      "title": "Bab Konversi (Al-'Aks)",
+      "titleArabic": "بَابُ الْعَكْسِ",
+      "arabic": "الْعَكْسُ هُوَ صَيْرُورَةُ الْمَوْضُوعِ مَحْمُولًا وَالْمَحْمُولِ مَوْضُوعًا مَعَ بَقَاءِ الْكَيْفِ وَالصِّدْقِ.",
+      "translation": "Konversi adalah menjadikan subjek sebagai predikat dan predikat sebagai subjek dengan tetap menjaga kualitas (positif/negatif) dan kebenarannya."
+    },
+    {
+      "title": "Bab Silogisme (Al-Qiyas)",
+      "titleArabic": "بَابُ الْقِيَاسِ",
+      "arabic": "الْقِيَاسُ هُوَ قَوْلٌ مُؤَلَّفٌ مِنْ أَقْوَالٍ إِذَا سُلِّمَتْ لَزِمَ عَنْهَا لِذَاتِهَا قَوْلٌ آخَرُ اضْطِرَارًا.",
+      "translation": "Silogisme adalah perkataan yang tersusun dari beberapa pernyataan yang apabila diterima, maka akan lazim darinya secara niscaya pernyataan yang lain demi zatnya sendiri."
+    },
+    {
+      "title": "Bentuk Pertama Silogisme (Al-Syakl al-Awwal)",
+      "titleArabic": "الشَّكْلُ الْأَوَّلُ",
+      "arabic": "الشَّكْلُ الْأَوَّلُ هُوَ الَّذِي يَكُونُ الْأَوْسَطُ فِيهِ مَحْمُولًا فِي الصُّغْرَى مَوْضُوعًا فِي الْكُبْرَى.",
+      "translation": "Bentuk pertama adalah yang mana term tengah (middle term) menjadi predikat pada premis minor dan menjadi subjek pada premis mayor."
+    },
+    {
+      "title": "Bab Demonstrasi (Al-Burhan)",
+      "titleArabic": "بَابُ الْبُرْهَانِ",
+      "arabic": "الْبُرْهَانُ هُوَ الْقِيَاسُ الْمُؤَلَّفُ مِنْ مُقَدِّمَاتٍ يَقِينِيَّةٍ لِإِنْتَاجِ الْيَقِينِ.",
+      "translation": "Demonstrasi (Burhan) adalah silogisme yang tersusun dari premis-premis yang meyakinkan (yakin) untuk menghasilkan kesimpulan yang meyakinkan pula."
+    },
+    {
+      "title": "Seni Kedua: Metafisika (Ilahiyyat)",
+      "titleArabic": "الْفَنُّ الثَّانِي: الْإِلٰهِيَّاتُ",
+      "arabic": "الْقَوْلُ فِي الْعِلْمِ الْإِلٰهِيِّ وَتَقْسِيمِ الْمَوْجُودَاتِ إِلَى الْجَوْهَرِ وَالْعَرَضِ.",
+      "translation": "Pembahasan mengenai Ilmu Ketuhanan dan pembagian wujud (eksistensi) menjadi substansi (jauhar) dan aksidensi ('arad)."
+    },
+    {
+      "title": "Pembagian Wujud: Wajib dan Mumkin",
+      "titleArabic": "تَقْسِيمُ الْوُجُودِ إِلَى الْوَاجِبِ وَالْمُمْكِنِ",
+      "arabic": "الْمَوْجُودُ يَنْقَسِمُ إِلَى وَاجِبِ الْوُجُودِ لِذَاتِهِ وَإِلَى مُمْكِنِ الْوُجُودِ لِذَاتِهِ.",
+      "translation": "Wujud terbagi menjadi Wajib al-Wujud (Wujud yang niscaya) demi zat-Nya sendiri dan Mumkin al-Wujud (Wujud yang mungkin) demi zatnya sendiri."
+    },
+    {
+      "title": "Substansi (Al-Jauhar) dan Macamnya",
+      "titleArabic": "بَابُ الْجَوْهَرِ وَأَقْسَامِهِ",
+      "arabic": "الْجَوْهَرُ هُوَ الْمَوْجُودُ لَا فِي مَوْضُوعٍ، وَأَنْوَاعُهُ الْجِسْمُ، وَالْمَادَّةُ، وَالصُّورَةُ، وَالنَّفْسُ، وَالْعَقْلُ.",
+      "translation": "Substansi adalah sesuatu yang eksis tidak pada subjek lain, dan macam-macamnya adalah: benda (jisim), materi, bentuk (shurah), jiwa, dan akal."
+    },
+    {
+      "title": "Aksidensi (Al-'Arad) dan Sembilan Kategorinya",
+      "titleArabic": "بَابُ الْعَرَضِ وَالْمَقُولَاتِ التِّسْعِ",
+      "arabic": "الْعَرَضُ هُوَ الْمَوْجُودُ فِي الْمَوْضُوعِ، وَهِيَ تِسْعَةٌ: الْكَمُّ، وَالْكَيْفُ، وَالْإِضَافَةُ، وَالْأَيْنُ، وَالْمَتَى، وَالْوَضْعُ، وَالْمِلْكُ، وَأَنْ يَفْعَلَ، وَأَنْ يَنْفَعِلَ.",
+      "translation": "Aksidensi adalah sesuatu yang eksis pada subjek lain, dan jumlahnya ada sembilan: kuantitas, kualitas, relasi, tempat, waktu, posisi, kepemilikan, aksi, dan pasi."
+    },
+    {
+      "title": "Sebab dan Akibat (Al-'Illah wal Ma'lul)",
+      "titleArabic": "بَابُ الْعِلَّةِ وَالْمَعْلُولِ",
+      "arabic": "كُلُّ مُمْكِنٍ فَلَهُ عِلَّةٌ، وَالْعِلَلُ أَرْبَعٌ: الْمَادِيَّةُ، وَالصُّورِيَّةُ، وَالْفَاعِلِيَّةُ، وَالْغَائِيَّةُ.",
+      "translation": "Setiap yang mungkin (mumkin) pasti memiliki sebab, dan sebab itu ada empat: material, formal, efisien (pelaku), dan final (tujuan)."
+    },
+    {
+      "title": "Ketunggalan Tuhan (Tawhid)",
+      "titleArabic": "بَابُ التَّوْحِيدِ",
+      "arabic": "وَاجِبُ الْوُجُودِ وَاحِدٌ مِنْ كُلِّ جِهَةٍ، لَا كَثْرَةَ فِيهِ وَلَا تَرْكِيبَ.",
+      "translation": "Wajib al-Wujud adalah Esa dari segala sisi, tidak ada keberbilangan di dalam-Nya dan tidak pula susunan."
+    },
+    {
+      "title": "Sifat-Sifat Wajib al-Wujud",
+      "titleArabic": "صِفَاتُ وَاجِبِ الْوُجُودِ",
+      "arabic": "صِفَاتُهُ عَيْنُ ذَاتِهِ عِنْدَ الْفَلَاسِفَةِ، وَهُوَ عَقْلٌ وَعَاقِلٌ وَمَعْقُولٌ.",
+      "translation": "Sifat-sifat-Nya adalah esensi-Nya sendiri menurut para filosof, dan Dia adalah Akal, Subjek yang berakal, dan Objek yang dipikirkan."
+    },
+    {
+      "title": "Proses Penciptaan (Al-Sudur)",
+      "titleArabic": "بَابُ الصُّدُورِ وَتَرْتِيبِ الْمَوْجُودَاتِ",
+      "arabic": "الْوَاحِدُ لَا يَصْدُرُ عَنْهُ إِلَّا الْوَاحِدُ، فَالْأَوَّلُ صَدَرَ عَنْهُ الْعَقْلُ الْأَوَّلُ.",
+      "translation": "Dari Yang Satu tidak muncul kecuali yang satu, maka dari Yang Pertama (Tuhan) muncul Akal Pertama."
+    },
+    {
+      "title": "Seni Ketiga: Fisika (Tabi'iyyat)",
+      "titleArabic": "الْفَنُّ الثَّالِثُ: الطَّبِيعِيَّاتُ",
+      "arabic": "الْعِلْمُ الطَّبِيعِيُّ يَبْحَثُ عَنِ الْأَجْسَامِ مِنْ حَيْثُ هِيَ مَعْرُوضَةٌ لِلتَّغَيُّرِ وَالْحَرَكَةِ.",
+      "translation": "Ilmu Alam (Fisika) membahas tentang benda-benda sejauh mereka tunduk pada perubahan dan gerak."
+    },
+    {
+      "title": "Materi Dasar (Al-Hayula) dan Bentuk (Al-Shurah)",
+      "titleArabic": "بَابُ الْهَيُولَى وَالصُّورَةِ",
+      "arabic": "الْجِسْمُ الطَّبِيعِيُّ مُؤَلَّفٌ مِنْ مَادَّةٍ هِيَ الْهَيُولَى، وَمِنْ صُورَةٍ بِهَا يَتَقَوَّمُ الْجِسْمُ.",
+      "translation": "Benda alamiah tersusun dari materi dasar (Hayula) dan dari bentuk (Shurah) yang dengannya benda tersebut menjadi eksis secara aktual."
+    },
+    {
+      "title": "Bab Gerak (Al-Harakah)",
+      "titleArabic": "بَابُ الْحَرَكَةِ",
+      "arabic": "الْحَرَكَةُ هِيَ خُرُوجُ الشَّيْءِ مِنَ الْقُوَّةِ إِلَى الْفِعْلِ عَلَى تَدْرِيجٍ.",
+      "translation": "Gerak adalah keluarnya sesuatu dari potensi (potensialitas) menuju aktual secara bertahap."
+    },
+    {
+      "title": "Bab Waktu (Al-Zaman)",
+      "titleArabic": "بَابُ الزَّمَانِ",
+      "arabic": "الزَّمَانُ هُوَ مِقْدَارُ الْحَرَكَةِ مِنْ حَيْثُ الْمُتَقَدِّمُ وَالْمُتَأَخِّرُ.",
+      "translation": "Waktu adalah ukuran gerak ditinjau dari sisi terdahulu dan terkemudian."
+    },
+    {
+      "title": "Bab Ruang (Al-Makan)",
+      "titleArabic": "بَابُ الْمَكَانِ",
+      "arabic": "الْمَكَانُ هُوَ السَّطْحُ الْبَاطِنُ مِنَ الْجِسْمِ الْحَاوِي الْمُمَاسُّ لِلسَّطْحِ الظَّاهِرِ مِنَ الْجِسْمِ الْمَحْوِيِّ.",
+      "translation": "Ruang adalah permukaan dalam dari benda yang melingkupi yang bersentuhan dengan permukaan luar dari benda yang dilingkupi."
+    },
+    {
+      "title": "Bab Jiwa (Al-Nafs)",
+      "titleArabic": "بَابُ النَّفْسِ",
+      "arabic": "النَّفْسُ كَمَالٌ أَوَّلٌ لِجِسْمٍ طَبِيعِيٍّ آلِيٍّ ذِي حَيَاةٍ بِالْقُوَّةِ.",
+      "translation": "Jiwa adalah kesempurnaan awal bagi benda alamiah organik yang memiliki kehidupan secara potensial."
+    },
+    {
+      "title": "Jiwa Nabati (Vegetatif)",
+      "titleArabic": "النَّفْسُ النَّبَاتِيَّةُ",
+      "arabic": "قُوَاهَا ثَلَاثٌ: الْغَاذِيَةُ، وَالْمُنْمِيَةُ، وَالْمُوَلِّدَةُ.",
+      "translation": "Kekuatannya ada tiga: fungsi nutrisi, fungsi pertumbuhan, dan fungsi reproduksi."
+    },
+    {
+      "title": "Jiwa Hewani (Sensitif)",
+      "titleArabic": "النَّفْسُ الْحَيَوَانِيَّةُ",
+      "arabic": "تَزِيدُ عَلَى النَّبَاتِيَّةِ بِالْقُدْرَةِ عَلَى الْحِسِّ وَالْحَرَكَةِ الْإِرَادِيَّةِ.",
+      "translation": "Melebihi jiwa nabati dengan kemampuan mengindera dan gerak berdasarkan kehendak."
+    },
+    {
+      "title": "Jiwa Manusia (Rasional)",
+      "titleArabic": "النَّفْسُ النَّاطِقَةُ",
+      "arabic": "خَاصَّتُهَا إِدْرَاكُ الْكُلِّيَّاتِ وَالنَّظَرُ فِي الْعُلُومِ.",
+      "translation": "Kekhususannya adalah persepsi terhadap konsep-konsep universal dan meneliti ilmu-ilmu pengetahuan."
+    },
+    {
+      "title": "Indera Lahir dan Indera Batin",
+      "titleArabic": "الْحَوَاسُّ الظَّاهِرَةُ وَالْبَاطِنَةُ",
+      "arabic": "الْبَاطِنَةُ خَمْسَةٌ: الْحِسُّ الْمُشْتَرَكُ، وَالْخَيَالُ، وَالْوَهْمُ، وَالْحَافِظَةُ، وَالْمُتَخَيِّلَةُ.",
+      "translation": "Indera batin ada lima: indera bersama (sensus communis), imajinasi, estimasi (wahm), memori, dan daya khayal produktif."
+    },
+    {
+      "title": "Kekekalan Jiwa",
+      "titleArabic": "بَقَاءُ النَّفْسِ",
+      "arabic": "النَّفْسُ جَوْهَرٌ رُوحَانِيٌّ لَا يَفْنَى بِفَنَاءِ الْبَدَنِ.",
+      "translation": "Jiwa adalah substansi spiritual yang tidak fana (binasa) dengan binasanya badan."
+    },
+    {
+      "title": "Penutup Kitab (Khatimah)",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ",
+      "arabic": "فَهَذَا مَا أَرَدْنَا ذِكْرَهُ مِنْ مَقَاصِدِهِمْ، وَبَعْدَ تَقْرِيرِ هٰذِهِ الْقَوَاعِدِ نَشْرَعُ فِي بَيَانِ تَهَافُتِهِمْ.",
+      "translation": "Inilah apa yang kami maksudkan untuk menyebutkan tujuan-tujuan mereka, dan setelah menetapkan kaidah-kaidah ini, kami akan mulai menjelaskan kerancuan (tahafut) mereka."
+    }
+  ]
+}
