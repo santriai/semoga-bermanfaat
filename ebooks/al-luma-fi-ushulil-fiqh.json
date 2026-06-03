@@ -1,0 +1,314 @@
+{
+  "profile": {
+    "name": "Al-Luma' fi Ushulil Fiqh",
+    "originalTitle": "اللُّمَعُ فِي أُصُولِ الْفِقْهِ",
+    "author": "Al-Imam Abu Ishaq Ibrahim bin 'Ali bin Yusuf asy-Syirazi al-Fairuzabadi",
+    "field": "Ushul Al-Fiqh (Metodologi Hukum Islam)",
+    "about": "Kitab Al-Luma' merupakan salah satu teks fundamental dalam metodologi hukum Islam (Ushul Fiqih) yang disusun oleh ulama terkemuka Madzhab Syafi'i, Abu Ishaq asy-Syirazi. Kitab ini dikenal karena gaya bahasanya yang ringkas namun padat, serta menjadi rujukan utama bagi pelajar di pesantren dan universitas Islam di seluruh dunia. Penulis memaparkan berbagai dalil hukum mulai dari Al-Qur'an, Sunnah, Ijma', hingga Qiyas dengan sistematika yang sangat rapi. Al-Luma' berfungsi sebagai jembatan bagi penuntut ilmu untuk memahami perbedaan pendapat di antara para mujtahid (Ikhtilaf). Hingga saat ini, kitab ini tetap menjadi kurikulum wajib dalam studi hukum Islam klasik di seluruh dunia Islam.",
+    "authorBorn": "393 H / 1003 M (Firuzabad, Persia)",
+    "authorDied": "476 H / 1083 M (Baghdad, Irak)",
+    "authorCentury": "Abad ke-5 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Pendahuluan: Definisi Ilmu",
+      "titleArabic": "بَابُ بَيَانِ الْعِلْمِ",
+      "arabic": "أَوَّلُ مَا نَبْدَأُ بِهِ أَنْ نُبَيِّنَ مَا الْعِلْمُ وَمَا الْفِقْهُ وَمَا أُصُولُ الْفِقْهِ. أَمَّا الْعِلْمُ فَهُوَ مَعْرِفَةُ الْمَعْلُومِ عَلَى مَا هُوَ بِهِ.",
+      "translation": "Bab pertama yang kami mulai adalah menjelaskan apa itu ilmu, fiqih, dan ushul fiqih. Adapun ilmu adalah mengetahui sesuatu yang diketahui sesuai dengan keadaan aslinya."
+    },
+    {
+      "title": "Definisi Fiqih dan Ushul Fiqih",
+      "titleArabic": "بَابُ مَعْنَى الْفِقْهِ وَأُصُولِ الْفِقْهِ",
+      "arabic": "وَأَمَّا الْفِقْهُ فَهُوَ مَعْرِفَةُ الْأَحْكَامِ الشَّرْعِيَّةِ الَّتِي طَرِيقُهَا الِاجْتِهَادُ. وَأُصُولُ الْفِقْهِ هِيَ أَدِلَّةُ الْفِقْهِ وَالطُّرُقُ الَّتِي يُتَوَصَّلُ بِهَا إِلَى الْفِقْهِ عَلَى سَبِيلِ الْإِجْمَالِ.",
+      "translation": "Adapun fiqih adalah pengetahuan tentang hukum-hukum syariat yang jalannya adalah ijtihad. Sedangkan ushul fiqih adalah dalil-dalil fiqih dan metode-metode yang digunakan untuk mencapai fiqih secara global."
+    },
+    {
+      "title": "Bab Penjelasan (Al-Bayan)",
+      "titleArabic": "بَابُ الْبَيَانِ",
+      "arabic": "الْبَيَانُ هُوَ إِخْرَاجُ الشَّيْءِ مِنْ حَيِّزِ الْإِشْكَالِ إِلَى حَيِّزِ التَّجَلِّي.",
+      "translation": "Al-Bayan (penjelasan) adalah mengeluarkan sesuatu dari ruang kerumitan (ambiguitas) menuju ruang kejelasan."
+    },
+    {
+      "title": "Pasal: Penjelasan dengan Ucapan",
+      "titleArabic": "فَصْلٌ فِي الْبَيَانِ بِالْقَوْلِ",
+      "arabic": "وَأَمَّا الْبَيَانُ بِالْقَوْلِ فَهُوَ نَصُّ الْكِتَابِ وَنَصُّ السُّنَّةِ الْمُتَوَاتِرَةِ.",
+      "translation": "Adapun penjelasan dengan ucapan adalah nash (teks eksplisit) dari Al-Qur'an dan nash dari Sunnah Mutawatir."
+    },
+    {
+      "title": "Pasal: Penjelasan dengan Perbuatan",
+      "titleArabic": "فَصْلٌ فِي الْبَيَانِ بِالْفِعْلِ",
+      "arabic": "وَأَمَّا الْبَيَانُ بِالْفِعْلِ فَهُوَ مَا فَعَلَهُ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لِيُقْتَدَى بِهِ كَمَا فَعَلَ فِي الصَّلَاةِ وَالْحَجِّ.",
+      "translation": "Adapun penjelasan dengan perbuatan adalah apa yang dilakukan Nabi SAW untuk dicontoh, sebagaimana yang beliau lakukan dalam tata cara shalat dan haji."
+    },
+    {
+      "title": "Bab Hakikat dan Majaz",
+      "titleArabic": "بَابُ الْحَقِيقَةِ وَالْمَجَازِ",
+      "arabic": "الْحَقِيقَةُ كُلُّ لَفْظٍ أُقِرَّ فِي الِاسْتِعْمَالِ عَلَى مَا وُضِعَ لَهُ فِي أَصْلِ اللُّغَةِ. وَالْمَجَازُ مَا اسْتُعْمِلَ فِي غَيْرِ مَا وُضِعَ لَهُ.",
+      "translation": "Hakikat adalah setiap lafaz yang digunakan sesuai dengan ketetapan makna aslinya dalam bahasa. Majaz adalah lafaz yang digunakan bukan pada makna aslinya."
+    },
+    {
+      "title": "Bab Perintah (Al-Amr)",
+      "titleArabic": "بَابُ الْأَمْرِ",
+      "arabic": "الْأَمْرُ قَوْلٌ يَقْتَضِي طَلَبَ الْفِعْلِ مِمَّنْ هُوَ دُونَهُ عَلَى سَبِيلِ الِاسْتِعْلَاءِ.",
+      "translation": "Perintah (Amr) adalah ucapan yang menuntut dilakukannya suatu perbuatan dari pihak yang lebih tinggi kepada yang lebih rendah dengan cara yang menunjukkan keunggulan."
+    },
+    {
+      "title": "Pasal: Bentuk Kata Perintah (Sighat)",
+      "titleArabic": "فَصْلٌ فِي صِيغَةِ الْأَمْرِ",
+      "arabic": "صِيغَةُ الْأَمْرِ هِيَ: افْعَلْ. وَهِيَ تَقْتَضِي الْوُجُوبَ عِنْدَ الْإِطْلَاقِ إِلَّا لِدَلِيلٍ.",
+      "translation": "Bentuk kata perintah adalah 'if'al' (kerjakanlah). Bentuk ini menunjukkan kewajiban jika bersifat mutlak (tanpa qarinah), kecuali ada dalil lain yang memalingkannya."
+    },
+    {
+      "title": "Pasal: Perintah Menunjukkan Kewajiban",
+      "titleArabic": "فَصْلٌ فِي أَنَّ الْأَمْرَ لِلْوُجُوبِ",
+      "arabic": "إِذَا وَرَدَ الْأَمْرُ مُطْلَقاً بِمُجَرَّدِهِ فَإِنَّهُ يَقْتَضِي الْوُجُوبَ عِنْدَ أَكْثَرِ الْفُقَهَاءِ.",
+      "translation": "Apabila perintah datang secara mutlak tanpa embel-embel, maka hal itu menunjukkan kewajiban menurut mayoritas fuqaha."
+    },
+    {
+      "title": "Pasal: Perintah Setelah Larangan",
+      "titleArabic": "فَصْلٌ فِي الْأَمْرِ بَعْدَ الْحَظْرِ",
+      "arabic": "إِذَا وَرَدَ الْأَمْرُ بَعْدَ الْحَظْرِ فَإِنَّهُ يَرُدُّ الْأَمْرَ إِلَى مَا كَانَ عَلَيْهِ قَبْلَ الْحَظْرِ.",
+      "translation": "Apabila perintah datang setelah adanya larangan, maka hal itu mengembalikan hukum ke keadaan semula sebelum adanya larangan tersebut."
+    },
+    {
+      "title": "Pasal: Segera (Faur) atau Tunda (Tarākhi)",
+      "titleArabic": "فَصْلٌ فِي الْفَوْرِ وَالتَّرَاخِي",
+      "arabic": "الْأَمْرُ لَا يَقْتَضِي الْفَوْرَ بَلْ يَجُوزُ التَّرَاخِي فِيهِ مَا لَمْ يَخْشَ الْفَوْتَ.",
+      "translation": "Perintah tidak mengharuskan dilakukan segera (faur), melainkan boleh ditunda (tarakhi) selama tidak dikhawatirkan habis waktunya."
+    },
+    {
+      "title": "Pasal: Perintah Tidak Berulang",
+      "titleArabic": "فَصْلٌ فِي التَّكْرَارِ",
+      "arabic": "الْأَمْرُ لَا يَقْتَضِي التَّكْرَارَ إِلَّا إِذَا عُلِّقَ بِشَرْطٍ أَوْ صِفَةٍ.",
+      "translation": "Perintah tidak mengharuskan pengulangan kecuali jika dikaitkan dengan syarat atau sifat tertentu."
+    },
+    {
+      "title": "Pasal: Perintah pada Sesuatu adalah Larangan Lawannya",
+      "titleArabic": "فَصْلٌ فِي الْأَمْرِ بِالشَّيْءِ نَهْيٌ عَنْ ضِدِّهِ",
+      "arabic": "الْأَمْرُ بِالشَّيْءِ نَهْيٌ عَنْ ضِدِّهِ مِنْ طَرِيقِ الْمَعْنَى.",
+      "translation": "Perintah untuk melakukan sesuatu secara makna merupakan larangan terhadap kebalikannya."
+    },
+    {
+      "title": "Bab Larangan (An-Nahyu)",
+      "titleArabic": "بَابُ النَّهْيِ",
+      "arabic": "النَّهْيُ قَوْلٌ يَقْتَضِي طَلَبَ الْكَفِّ عَنِ الْفِعْلِ عَلَى سَبِيلِ الِاسْتِعْلَاءِ.",
+      "translation": "Larangan (Nahyu) adalah ucapan yang menuntut untuk menahan diri dari suatu perbuatan dengan cara yang menunjukkan keunggulan."
+    },
+    {
+      "title": "Pasal: Larangan Menunjukkan Keharaman",
+      "titleArabic": "فَصْلٌ فِي أَنَّ النَّهْيَ لِلتَّحْرِيمِ",
+      "arabic": "مُطْلَقُ النَّهْيِ يَقْتَضِي التَّحْرِيمَ إِلَّا لِدَلِيلٍ يَصْرِفُهُ إِلَى الْكَرَاهَةِ.",
+      "translation": "Larangan yang mutlak menunjukkan keharaman, kecuali ada dalil yang memalingkannya ke hukum makruh."
+    },
+    {
+      "title": "Pasal: Larangan Menunjukkan Kerusakan (Fasad)",
+      "titleArabic": "فَصْلٌ فِي أَنَّ النَّهْيَ يَقْتَضِي الْفَسَادَ",
+      "arabic": "النَّهْيُ فِي الْعِبَادَاتِ وَالْعُقُودِ يَقْتَضِي الْفَسَادَ.",
+      "translation": "Larangan dalam ibadah dan akad menunjukkan bahwa perbuatan tersebut rusak (tidak sah)."
+    },
+    {
+      "title": "Bab Umum (Al-'Am)",
+      "titleArabic": "بَابُ الْعُمُومِ",
+      "arabic": "الْعُمُومُ هُوَ اللَّفْظُ الْمُسْتَغْرِقُ لِمَا يَصْلُحُ لَهُ مِنْ غَيْرِ حَصْرٍ.",
+      "translation": "Umum (Al-'Am) adalah lafaz yang mencakup seluruh satuan-satuan yang pantas baginya tanpa batasan."
+    },
+    {
+      "title": "Pasal: Bentuk-Bentuk Kata Umum",
+      "titleArabic": "فَصْلٌ فِي صِيَغِ الْعُمُومِ",
+      "arabic": "صِيَغُ الْعُمُومِ أَرْبَعَةٌ: الِاسْمُ الْوَاحِدُ الْمُعَرَّفُ بِالْأَلِفِ وَاللَّامِ، وَاسْمُ الْجَمْعِ الْمُعَرَّفُ بِالْأَلِفِ وَاللَّامِ، وَالْأَسْمَاءُ الْمُبْهَمَةُ، وَالنَّكِرَةُ فِي سِيَاقِ النَّفْيِ.",
+      "translation": "Bentuk kata umum ada empat: Isim mufrad yang dima'rifahkan dengan Alif Lam, Isim jamak yang dima'rifahkan dengan Alif Lam, Isim-isim mubham (seperti man, ma, aina), dan isim nakirah dalam konteks peniadaan (nafi)."
+    },
+    {
+      "title": "Bab Khusus (Al-Khushus)",
+      "titleArabic": "بَابُ الْخُصُوصِ",
+      "arabic": "الْخُصُوصُ هُوَ قَصْرُ الْعَامِّ عَلَى بَعْضِ مَسَمَّيَاتِهِ.",
+      "translation": "Khusus (Al-Khushus) adalah membatasi cakupan lafaz umum hanya pada sebagian satuan-satuannya."
+    },
+    {
+      "title": "Pasal: Pengecualian (Al-Istitsna')",
+      "titleArabic": "فَصْلٌ فِي الِاسْتِثْنَاءِ",
+      "arabic": "الِاسْتِثْنَاءُ هُوَ إِخْرَاجُ مَا لَوْلَاهُ لَدَخَلَ فِي الْكَلَامِ، وَشَرْطُهُ أَنْ يَبْقَى مِنَ الْمُسْتَثْنَى مِنْهُ شَيْءٌ.",
+      "translation": "Istitsna' (pengecualian) adalah mengeluarkan sesuatu yang seandainya tidak dikecualikan niscaya akan masuk dalam cakupan pembicaraan. Syaratnya adalah masih ada sisa dari apa yang dikecualikan tersebut."
+    },
+    {
+      "title": "Pasal: Takhshis dengan Syarat",
+      "titleArabic": "فَصْلٌ فِي التَّخْصِيصِ بِالشَّرْطِ",
+      "arabic": "يَجُوزُ تَخْصِيصُ الْعُمُومِ بِالشَّرْطِ، وَالشَّرْطُ قَدْ يَتَقَدَّمُ عَلَى الْمَشْرُوطِ وَقَدْ يَتَأَخَّرُ.",
+      "translation": "Boleh mengkhususkan keumuman dengan syarat. Syarat terkadang mendahului yang disyaratkan dan terkadang mengakhirinya."
+    },
+    {
+      "title": "Pasal: Takhshis dengan Sifat",
+      "titleArabic": "فَصْلٌ فِي التَّخْصِيصِ بِالصِّفَةِ",
+      "arabic": "التَّخْصِيصُ بِالصِّفَةِ جَائِزٌ، مِثْلُ قَوْلِهِ تَعَالَى: (فِي غَنَمٍ سَائِمَةٍ زَكَاةٌ).",
+      "translation": "Mengkhususkan dengan sifat diperbolehkan, seperti contoh: 'Pada kambing yang digembalakan terdapat zakat'."
+    },
+    {
+      "title": "Pasal: Takhshis dengan Batasan (Ghayah)",
+      "titleArabic": "فَصْلٌ فِي التَّخْصِيصِ بِالْغَايَةِ",
+      "arabic": "الْغَايَةُ تَخُصُّ مَا قَبْلَهَا، كَقَوْلِهِ تَعَالَى: (ثُمَّ أَتِمُّوا الصِّيَامَ إِلَى اللَّيْلِ).",
+      "translation": "Ghayah (batasan akhir) mengkhususkan hukum sebelumnya, seperti firman-Nya: 'Kemudian sempurnakanlah puasa hingga malam hari'."
+    },
+    {
+      "title": "Bab Mujmal",
+      "titleArabic": "بَابُ الْمُجْمَلِ",
+      "arabic": "الْمُجْمَلُ هُوَ مَا لَا يُفْهَمُ مِنْهُ الْمُرَادُ عِنْدَ إِطْلَاقِهِ.",
+      "translation": "Mujmal adalah lafaz yang tidak bisa dipahami maksudnya ketika diucapkan secara mutlak."
+    },
+    {
+      "title": "Bab Mubayyan",
+      "titleArabic": "بَابُ الْمُبَيَّنِ",
+      "arabic": "الْمُبَيَّنُ هُوَ مَا فُهِمَ الْمُرَادُ مِنْهُ، إِمَّا بِأَصْلِ الْوَضْعِ أَوْ بَعْدَ التَّبْيِينِ.",
+      "translation": "Mubayyan adalah lafaz yang dapat dipahami maksudnya, baik sejak asal penetapan bahasanya atau setelah adanya penjelasan."
+    },
+    {
+      "title": "Bab Perbuatan Rasulullah SAW",
+      "titleArabic": "بَابُ أَفْعَالِ الرَّسُولِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+      "arabic": "فِعْلُ الرَّسُولِ لَا يَخْلُو: إِمَّا أَنْ يَفْعَلَهُ عَلَى وَجْهِ الْقُرْبَةِ وَالطَّاعَةِ، أَوْ عَلَى وَجْهِ الْعَادَةِ.",
+      "translation": "Perbuatan Rasulullah tidak lepas dari dua hal: Dilakukan sebagai bentuk ibadah dan ketaatan, atau dilakukan sebagai bentuk kebiasaan manusiawi."
+    },
+    {
+      "title": "Pasal: Perbuatan Khusus bagi Nabi",
+      "titleArabic": "فَصْلٌ فِيمَا اخْتُصَّ بِهِ النَّبِيُّ",
+      "arabic": "مَا دَلَّ الدَّلِيلُ عَلَى أَنَّهُ خَاصٌّ بِهِ فَيُحْمَلُ عَلَى الْخُصُوصِ كَالزِّيَادَةِ فِي النِّكَاحِ.",
+      "translation": "Apa yang ditunjukkan oleh dalil sebagai kekhususan bagi Nabi, maka dipahami sebagai kekhususan, seperti jumlah istri yang lebih dari empat."
+    },
+    {
+      "title": "Bab Nasakh (Pembatalan Hukum)",
+      "titleArabic": "بَابُ النَّسْخِ",
+      "arabic": "النَّسْخُ هُوَ رَفْعُ الْحُكْمِ الشَّرْعِيِّ بِخِطَابٍ شَرْعِيٍّ مُتَرَاخٍ عَنْهُ.",
+      "translation": "Nasakh adalah penghapusan hukum syariat dengan khitab (dalil) syariat yang datang kemudian."
+    },
+    {
+      "title": "Pasal: Syarat-Syarat Nasakh",
+      "titleArabic": "فَصْلٌ فِي شُرُوطِ النَّسْخِ",
+      "arabic": "يَجُوزُ نَسْخُ الْأَخَفِّ بِالْأَثْقَلِ، وَالْأَثْقَلِ بِالْأَخَفِّ، وَنَسْخُ الشَّيْءِ لَا إِلَى بَدَلٍ.",
+      "translation": "Boleh menghapus hukum yang ringan dengan yang berat, yang berat dengan yang ringan, dan menghapus sesuatu tanpa ada penggantinya."
+    },
+    {
+      "title": "Pasal: Bagian-Bagian Nasakh",
+      "titleArabic": "فَصْلٌ فِي أَقْسَامِ النَّسْخِ",
+      "arabic": "يَجُوزُ نَسْخُ التِّلَاوَةِ دُونَ الْحُكْمِ، وَنَسْخُ الْحُكْمِ دُونَ التِّلَاوَةِ، وَنَسْخُهُمَا مَعاً.",
+      "translation": "Boleh menghapus bacaan (teks) tanpa menghapus hukumnya, menghapus hukum tanpa menghapus teksnya, dan menghapus keduanya sekaligus."
+    },
+    {
+      "title": "Pasal: Nasakh Al-Qur'an dengan Al-Qur'an",
+      "titleArabic": "فَصْلٌ فِي نَسْخِ الْقُرْآنِ بِالْقُرْآنِ",
+      "arabic": "يَجُوزُ نَسْخُ الْكِتَابِ بِالْكِتَابِ، وَالسُّنَّةِ بِالسُّنَّةِ.",
+      "translation": "Boleh menghapus (nasakh) Al-Qur'an dengan Al-Qur'an, dan Sunnah dengan Sunnah."
+    },
+    {
+      "title": "Pasal: Nasakh Al-Qur'an dengan Sunnah",
+      "titleArabic": "فَصْلٌ فِي نَسْخِ الْقُرْآنِ بِالسُّنَّةِ",
+      "arabic": "وَيَجُوزُ نَسْخُ الْكِتَابِ بِالسُّنَّةِ الْمُتَوَاتِرَةِ، وَنَسْخُ السُّنَّةِ بِالْكِتَابِ.",
+      "translation": "Boleh menghapus Al-Qur'an dengan Sunnah Mutawatir, dan menghapus Sunnah dengan Al-Qur'an."
+    },
+    {
+      "title": "Bab Berita (Al-Akhbar)",
+      "titleArabic": "بَابُ الأَخْبَارِ",
+      "arabic": "الْخَبَرُ مَا يَدْخُلُهُ الصِّدْقُ وَالْكَذِبُ. وَالْخَبَرُ يَنْقَسِمُ إِلَى آحَادٍ وَمُتَوَاتِرٍ.",
+      "translation": "Khabar (Berita) adalah sesuatu yang mengandung kemungkinan benar atau bohong. Khabar terbagi menjadi Ahad dan Mutawatir."
+    },
+    {
+      "title": "Pasal: Khabar Mutawatir",
+      "titleArabic": "فَصْلٌ فِي الْمُتَوَاتِرِ",
+      "arabic": "الْمُتَوَاتِرُ مَا نَقَلَهُ جَمَاعَةٌ لَا يَجُوزُ عَلَيْهِمُ التَّوَاطُؤُ عَلَى الْكَذِبِ، وَهُوَ يُوجِبُ الْعِلْمَ.",
+      "translation": "Mutawatir adalah berita yang diriwayatkan oleh sekelompok orang yang mustahil mereka bersepakat untuk bohong, dan berita ini menghasilkan ilmu (keyakinan pasti)."
+    },
+    {
+      "title": "Pasal: Khabar Ahad",
+      "titleArabic": "فَصْلٌ فِي خَبَرِ الْوَاحِدِ",
+      "arabic": "خَبَرُ الْوَاحِدِ هُوَ مَا لَمْ يَنْتَهِ إِلَى حَدِّ التَّوَاتُرِ، وَهُوَ يُوجِبُ الْعَمَلَ وَلَا يُوجِبُ الْعِلْمَ.",
+      "translation": "Khabar Ahad adalah berita yang tidak mencapai tingkat mutawatir, ia mewajibkan amal (untuk diamalkan) namun tidak menghasilkan ilmu (keyakinan pasti/qat'i)."
+    },
+    {
+      "title": "Pasal: Syarat-Syarat Periwayat (Rawi)",
+      "titleArabic": "فَصْلٌ فِي شُرُوطِ الرَّاوِي",
+      "arabic": "شَرْطُ الرَّاوِي أَنْ يَكُونَ مُسْلِماً بَالِغاً عاقِلاً عَدْلًا ضَابِطاً.",
+      "translation": "Syarat periwayat adalah harus muslim, baligh, berakal, adil, dan dhabith (memiliki ingatan/catatan yang kuat)."
+    },
+    {
+      "title": "Bab Konsensus (Al-Ijma')",
+      "titleArabic": "بَابُ الإِجْمَاعِ",
+      "arabic": "الْإِجْمَاعُ هُوَ اتِّفَاقُ عُلَمَاءِ الْعَصْرِ عَلَى حُكْمِ الْحَادِثَةِ.",
+      "translation": "Ijma' adalah kesepakatan para ulama di suatu masa atas hukum suatu kejadian."
+    },
+    {
+      "title": "Pasal: Kehujjahan Ijma'",
+      "titleArabic": "فَصْلٌ فِي حُجِّيَّةِ الإِجْمَاعِ",
+      "arabic": "إِجْمَاعُ هَذِهِ الْأُمَّةِ حُجَّةٌ دُونَ غَيْرِهَا لِقَوْلِهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: لَا تَجْتَمِعُ أُمَّتِي عَلَى ضَلَالَةٍ.",
+      "translation": "Ijma' umat ini adalah hujah (dalil) dan bukan umat lainnya, berdasarkan sabda Nabi SAW: 'Umatku tidak akan bersepakat dalam kesesatan'."
+    },
+    {
+      "title": "Pasal: Ijma' Sukuti",
+      "titleArabic": "فَصْلٌ فِي الإِجْمَاعِ السُّكُوتِيِّ",
+      "arabic": "إِذَا قَالَ بَعْضُهُمْ قَوْلاً وَانْتَشَرَ وَلَمْ يُنْكِرْهُ الْبَاقُونَ، فَهَلْ يَكُونُ إِجْمَاعاً؟ فِيهِ وَجْهَانِ.",
+      "translation": "Apabila sebagian ulama berpendapat dan tersebar, lalu ulama lainnya diam (tidak mengingkari), apakah itu termasuk ijma'? Dalam hal ini ada dua pendapat."
+    },
+    {
+      "title": "Bab Analogi (Al-Qiyas)",
+      "titleArabic": "بَابُ الْقِيَاسِ",
+      "arabic": "الْقِيَاسُ هُوَ رَدُّ الْفَرْعِ إِلَى الْأَصْلِ لِعِلَّةٍ تَجْمَعُهُمَا فِي الْحُكْمِ.",
+      "translation": "Qiyas (analogi) adalah menyamakan masalah cabang kepada masalah pokok karena adanya 'illah (sebab hukum) yang menghimpun keduanya dalam satu hukum."
+    },
+    {
+      "title": "Pasal: Rukun-Rukun Qiyas",
+      "titleArabic": "فَصْلٌ فِي أَرْكَانِ الْقِيَاسِ",
+      "arabic": "أَرْكَانُ الْقِيَاسِ أَرْبَعَةٌ: أَصْلٌ، وَفَرْعٌ، وَحُكْمٌ، وَعِلَّةٌ.",
+      "translation": "Rukun qiyas ada empat: Ashl (masalah pokok), Far' (masalah cabang), Hukum, dan 'Illah (sebab hukum)."
+    },
+    {
+      "title": "Pasal: Syarat-Syarat Illah",
+      "titleArabic": "فَصْلٌ فِي شُرُوطِ الْعِلَّةِ",
+      "arabic": "شَرْطُ الْعِلَّةِ أَنْ تَكُونَ مُطَّرِدَةً مُنْعَكِسَةً.",
+      "translation": "Syarat 'illah adalah harus mutthariidah (selalu ada hukum saat ada illah) dan mun'akisah (tidak ada hukum saat tidak ada illah)."
+    },
+    {
+      "title": "Bab Larangan dan Kebolehan",
+      "titleArabic": "بَابُ الْحَظْرِ وَالْإِبَاحَةِ",
+      "arabic": "الْأَشْيَاءُ عَلَى الْإِبَاحَةِ عِنْدَ بَعْضِهِمْ، وَعَلَى الْحَظْرِ عِنْدَ آخَرِينَ.",
+      "translation": "Status hukum asal segala sesuatu adalah mubah (boleh) menurut sebagian ulama, dan haram (dilarang) menurut ulama lainnya."
+    },
+    {
+      "title": "Bab Istishab",
+      "titleArabic": "بَابُ اسْتِصْحَابِ الْحَالِ",
+      "arabic": "اسْتِصْحَابُ الْحَالِ هُوَ بَقَاءُ مَا كَانَ عَلَى مَا كَانَ عِنْدَ عَدَمِ الدَّلِيلِ الشَّرْعِيِّ.",
+      "translation": "Istishab adalah menetapkan keadaan yang sudah ada sebelumnya pada keadaannya semula selama tidak ada dalil syar'i yang mengubahnya."
+    },
+    {
+      "title": "Bab Tata Urutan Dalil",
+      "titleArabic": "بَابُ تَرْتِيبِ الْأَدِلَّةِ",
+      "arabic": "يُقَدَّمُ الْكِتَابُ ثُمَّ السُّنَّةُ ثُمَّ الْإِجْماعُ ثُمَّ الْقِيَاسُ.",
+      "translation": "Didahulukan Al-Qur'an, kemudian Sunnah, kemudian Ijma', baru kemudian Qiyas."
+    },
+    {
+      "title": "Bab Sifat Mufti (Pemberi Fatwa)",
+      "titleArabic": "بَابُ صِفَةِ الْمُفْتِي",
+      "arabic": "يُشْتَرَطُ فِي الْمُفْتِي أَنْ يَكُونَ عَالِماً بِالْكِتَابِ وَالسُّنَّةِ وَلِسَانِ الْعَرَبِ وَمَوَاضِعِ الْإِجْمَاعِ.",
+      "translation": "Disyaratkan bagi seorang Mufti untuk mengetahui Al-Qur'an, Sunnah, bahasa Arab, dan letak-letak kesepakatan (ijma')."
+    },
+    {
+      "title": "Bab Sifat Mustafti (Pencari Fatwa)",
+      "titleArabic": "بَابُ صِفَةِ الْمُسْتَفْتِي",
+      "arabic": "الْمُسْتَفْتِي هُوَ مَنْ لَمْ يَبْلُغْ رُتْبَةَ الِاجْتِهَادِ، فَعَلَيْهِ تَقْلِيدُ الْمُجْتَهِدِ.",
+      "translation": "Mustafti (orang yang meminta fatwa) adalah orang yang belum mencapai derajat ijtihad, maka kewajibannya adalah bertaklid kepada mujtahid."
+    },
+    {
+      "title": "Bab Taklid",
+      "titleArabic": "بَابُ التَّقْلِيدِ",
+      "arabic": "التَّقْلِيدُ هُوَ قَبُولُ قَوْلِ الْغَيْرِ مِنْ غَيْرِ حُجَّةٍ.",
+      "translation": "Taklid adalah menerima pendapat orang lain tanpa mengetahui alasannya (hujah)."
+    },
+    {
+      "title": "Bab Ijtihad",
+      "titleArabic": "بَابُ الِاجْتِهَادِ",
+      "arabic": "الِاجْتِهَادُ هُوَ بَذْلُ الْوُسْعِ فِي طَلَبِ الْحُكْمِ الشَّرْعِيِّ.",
+      "translation": "Ijtihad adalah mengerahkan segala kemampuan dalam mencari hukum syariat."
+    },
+    {
+      "title": "Penutup Kitab",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ",
+      "arabic": "تَمَّ الْكِتَابُ بِحَمْدِ اللَّهِ وَعَوْنِهِ، وَالصَّلَاةُ عَلَى نَبِيِّهِ مُحَمَّدٍ وَآلِهِ.",
+      "translation": "Kitab ini telah selesai dengan memuji Allah dan pertolongan-Nya, serta shalawat kepada Nabi-Nya Muhammad dan keluarganya."
+    }
+  ]
+}
