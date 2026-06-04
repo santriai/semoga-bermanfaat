@@ -1,0 +1,338 @@
+{
+  "profile": {
+    "name": "Tahdhib al-Mantiq",
+    "originalTitle": "تَهْذِيْبُ الْمَنْطِقِ وَالْكَلَامِ (قِسْمُ الْمَنْطِقِ)",
+    "author": "Sa'd al-Din Mas'ud bin Umar al-Taftazani (العلامة سعد الدين التفتازاني)",
+    "field": "Ilmu Mantiq (Logika Aristhotelian)",
+    "about": "Kitab Tahdhib al-Mantiq merupakan teks otoritatif dalam disiplin logika yang ditulis oleh Imam al-Taftazani untuk meringkas esensi ilmu mantiq dari berbagai kitab besar sebelumnya. Kitab ini menjadi kurikulum wajib di berbagai pesantren dan universitas Islam di seluruh dunia karena kepadatan materinya dan ketajaman definisinya. Fokus utamanya terbagi menjadi dua bagian besar: Tashawwurat (konsepsi) dan Tashdiqat (asensi/pembenaran). Di dalamnya dibahas mengenai aturan berfikir yang benar, klasifikasi term (lafadz), kategori lima universal (kulliyat khamsah), hingga struktur silogisme (qiyas) yang ketat. Kitab ini dianggap sebagai standar emas bagi pelajar yang ingin menguasai nalar kritis dalam studi ilmu kalam dan ushul fiqh.",
+    "authorBorn": "722 H / 1322 M (Taftazan, Khurasan)",
+    "authorDied": "792 H / 1390 M (Samarkand)",
+    "authorCentury": "Abad ke-8 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah (Pembukaan)",
+      "titleArabic": "مُقَدِّمَةُ الْكِتَابِ",
+      "arabic": "الْحَمْدُ لِلّٰهِ الَّذِيْ نَطَقَ لِسَانُ النَّبِيِّ بِالْحَقِّ، وَالصَّلَاةُ عَلَى سَيِّدِنَا مُحَمَّدٍ خَيْرِ الْخَلْقِ. أَمَّا بَعْدُ، فَهَذَا تَهْذِيْبُ الْمَنْطِقِ، وَتَقْرِيْبُ الْمَسَالِكِ لِلطَّالِبِيْنَ.",
+      "translation": "Segala puji bagi Allah yang telah membuat lisan Nabi berbicara dengan kebenaran, selawat serta salam atas junjungan kita Muhammad sebaik-baik makhluk. Adapun setelah itu, ini adalah penyempurnaan (Tahdhib) ilmu logika dan kemudahan jalan bagi para pencari ilmu."
+    },
+    {
+      "title": "Definisi Ilmu Mantiq",
+      "titleArabic": "تَعْرِيْفُ عِلْمِ الْمَنْطِقِ",
+      "arabic": "الْمَنْطِقُ آلَةٌ قَانُوْنِيَّةٌ تَعْصِمُ مُرَاعَاتُهَا الذِّهْنَ عَنِ الْخَطَإِ فِي الْفِكْرِ.",
+      "translation": "Logika adalah alat yang bersifat hukum/kaidah yang mana menjaganya (menggunakannya) dapat memelihara pikiran dari kesalahan dalam berfikir."
+    },
+    {
+      "title": "Pembagian Ilmu: Tashawwur",
+      "titleArabic": "الْعِلْمُ: التَّصَوُّرُ",
+      "arabic": "الْعِلْمُ إِمَّا تَصَوُّرٌ وَهُوَ حُصُوْلُ صُوْرَةِ الشَّيْءِ فِي الْعَقْلِ مِنْ غَيْرِ حُكْمٍ.",
+      "translation": "Ilmu itu adakalanya berupa Tashawwur (konsepsi), yaitu perolehan gambaran sesuatu di dalam akal tanpa adanya suatu hukum (vonis/penetapan)."
+    },
+    {
+      "title": "Pembagian Ilmu: Tashdiq",
+      "titleArabic": "الْعِلْمُ: التَّصْدِيْقُ",
+      "arabic": "وَإِمَّا تَصْدِيْقٌ وَهُوَ إِدْرَاكُ أَنَّ النِّسْبَةَ وَاقِعَةٌ أَوْ لَيْسَتْ بِوَاقِعَةٍ.",
+      "translation": "Dan adakalanya berupa Tashdiq (asensi), yaitu persepsi bahwa suatu nisbat (hubungan antara subjek dan predikat) itu terjadi atau tidak terjadi."
+    },
+    {
+      "title": "Pembagian Tashawwur dan Tashdiq (Dharuri)",
+      "titleArabic": "الْعِلْمُ الضَّرُوْرِيُّ",
+      "arabic": "وَكُلٌّ مِنْهُمَا إِمَّا ضَرُوْرِيٌّ لَا يَحْتَاجُ إِلَى نَظَرٍ وَفِكْرٍ كَتَصَوُّرِ الْحَرَارَةِ وَالتَّصْدِيْقِ بِأَنَّ الْوَاحِدَ نِصْفُ الِاثْنَيْنِ.",
+      "translation": "Dan masing-masing dari keduanya (Tashawwur dan Tashdiq) ada yang bersifat Dharuri (aksiomatik), yaitu tidak membutuhkan penalaran dan pemikiran, seperti konsepsi tentang panas dan pembenaran bahwa satu adalah setengah dari dua."
+    },
+    {
+      "title": "Pembagian Tashawwur dan Tashdiq (Nazhari)",
+      "titleArabic": "الْعِلْمُ النَّظَرِيُّ",
+      "arabic": "وَإِمَّا نَظَرِيٌّ يَحْتَاجُ إِلَيْهِ كَتَصَوُّرِ الرُّوحِ وَالتَّصْدِيْقِ بِحُدُوثِ الْعَالَمِ.",
+      "translation": "Dan adakalanya bersifat Nazhari (teoretis), yaitu membutuhkan penalaran, seperti konsepsi tentang ruh dan pembenaran atas kebaruan alam semesta."
+    },
+    {
+      "title": "Definisi Al-Nadhar (Penalaran)",
+      "titleArabic": "تَعْرِيْفُ النَّظَرِ وَالْفِكْرِ",
+      "arabic": "وَالنَّظَرُ وَالْفِكْرُ تَرْتِيْبُ أُمُوْرٍ مَعْلُوْمَةٍ لِتَأْدِيَةِ إِلَى مَجْهُوْلٍ.",
+      "translation": "An-Nadhar dan Al-Fikr (penalaran/pemikiran) adalah penyusunan perkara-perkara yang diketahui untuk menghantarkan pada (pemahaman) hal yang belum diketahui."
+    },
+    {
+      "title": "Signifikasi (Al-Dalalah)",
+      "titleArabic": "مَبَاحِثُ الدَّلَالَةِ",
+      "arabic": "الدَّلَالَةُ هِيَ كَوْنُ الشَّيْءِ بِحَالَةٍ يَلْزَمُ مِنْ عِلْمِهِ الْعِلْمُ بِشَيْءٍ آخَرَ.",
+      "translation": "Dalalah adalah keberadaan sesuatu dalam keadaan yang mana dari pengetahuan tentangnya mengharuskan adanya pengetahuan tentang sesuatu yang lain."
+    },
+    {
+      "title": "Pembagian Dalalah Lafdziyyah Wad'iyyah",
+      "titleArabic": "الدَّلَالَةُ اللَّفْظِيَّةُ الْوَضْعِيَّةُ",
+      "arabic": "الدَّلَالَةُ اللَّفْظِيَّةُ الْوَضْعِيَّةُ تَنْقَسِمُ إِلَى مُطَابَقَةٍ وَتَضَمُّنٍ وَالْتِزَامٍ.",
+      "translation": "Dalalah Lafdziyyah Wad'iyyah (penunjukan kata berdasarkan konsensus) terbagi menjadi: Mutabaqah, Tadammun, dan Iltizam."
+    },
+    {
+      "title": "Dalalah Mutabaqah",
+      "titleArabic": "دَلَالَةُ الْمُطَابَقَةِ",
+      "arabic": "دَلَالَةُ اللَّفْظِ عَلَى تَمَامِ مَا وُضِعَ لَهُ.",
+      "translation": "Penunjukan lafadz (kata) pada keseluruhan makna yang ditetapkan baginya."
+    },
+    {
+      "title": "Dalalah Tadammun",
+      "titleArabic": "دَلَالَةُ التَّضَمُّنِ",
+      "arabic": "دَلَالَةُ اللَّفْظِ عَلَى جُزْءِ مَعْنَاهُ الْمَوْضُوعِ لَهُ.",
+      "translation": "Penunjukan lafadz pada bagian dari makna yang ditetapkan baginya."
+    },
+    {
+      "title": "Dalalah Iltizam",
+      "titleArabic": "دَلَالَةُ الِالْتِزَامِ",
+      "arabic": "دَلَالَةُ اللَّفْظِ عَلَى خَارِجٍ عَنْ مَعْنَاهُ لَازِمٍ لَهُ فِي الذِّهْنِ.",
+      "translation": "Penunjukan lafadz pada sesuatu di luar maknanya yang menjadi kelaziman baginya di dalam pikiran."
+    },
+    {
+      "title": "Pembagian Lafadz: Mufrad dan Murakkab",
+      "titleArabic": "اللَّفْظُ: الْمُفْرَدُ وَالْمُرَكَّبُ",
+      "arabic": "اللَّفْظُ إِنْ لَمْ يَدُلَّ جُزْؤُهُ عَلَى جُزْءِ مَعْنَاهُ فَمُفْرَدٌ، وَإِلَّا فَمُرَكَّبٌ.",
+      "translation": "Lafadz jika bagiannya tidak menunjukan pada bagian maknanya maka disebut Mufrad (tunggal), jika tidak demikian maka disebut Murakkab (tersusun)."
+    },
+    {
+      "title": "Pembagian Lafadz Mufrad: Kulli dan Juz'i",
+      "titleArabic": "الْمُفْرَدُ: الْكُلِّيُّ وَالْجُزْئِيُّ",
+      "arabic": "الْمُفْرَدُ إِنْ مَنَعَ تَصَوُّرُ مَفْهُوْمِهِ عَنِ الشَّرِكَةِ فَجُزْئِيٌّ، وَإِلَّا فَكُلِّيٌّ.",
+      "translation": "Lafadz Mufrad jika penggambaran maknanya mencegah adanya persekutuan (hanya menunjuk satu objek spesifik) maka disebut Juz'i, jika tidak mencegahnya maka disebut Kulli (universal)."
+    },
+    {
+      "title": "Lima Universal (Al-Kulliyat al-Khamsah)",
+      "titleArabic": "الْكُلِّيَّاتُ الْخَمْسَةُ",
+      "arabic": "الْكُلِّيُّ إِمَّا ذَاتِيٌّ وَهُوَ الْجِنْسُ وَالنَّوْعُ وَالْفَصْلُ، أَوْ عَرَضِيٌّ وَهُوَ الْخَاصَّةُ وَالْعَرَضُ الْعَامُّ.",
+      "translation": "Kulli (universal) adakalanya bersifat Dzati (esensial) yaitu Jins, Naw', dan Fasl; atau bersifat 'Aradi (aksidental) yaitu Khassah dan 'Arad 'Am."
+    },
+    {
+      "title": "Definisi Jins (Genus)",
+      "titleArabic": "تَعْرِيْفُ الْجِنْسِ",
+      "arabic": "الْجِنْسُ: هُوَ الْمَقُوْلُ عَلَى كَثِيْرِيْنَ مُخْتَلِفِيْنَ بِالْحَقَائِقِ فِي جَوَابِ مَا هُوَ.",
+      "translation": "Jins adalah atribut yang diucapkan bagi banyak objek yang berbeda hakikatnya dalam menjawab pertanyaan 'apa ini?'."
+    },
+    {
+      "title": "Definisi Naw' (Spesies)",
+      "titleArabic": "تَعْرِيْفُ النَّوْعِ",
+      "arabic": "النَّوْعُ: هُوَ الْمَقُوْلُ عَلَى كَثِيْرِيْنَ مُتَّفِقِيْنَ بِالْحَقَائِقِ فِي جَوَابِ مَا هُوَ.",
+      "translation": "Naw' adalah atribut yang diucapkan bagi banyak objek yang sama hakikatnya dalam menjawab pertanyaan 'apa ini?'."
+    },
+    {
+      "title": "Definisi Fasl (Differensia)",
+      "titleArabic": "تَعْرِيْفُ الْفَصْلِ",
+      "arabic": "الْفَصْلُ: هُوَ الْمَقُوْلُ عَلَى شَيْءٍ فِي جَوَابِ أَيُّ شَيْءٍ هُوَ فِي ذَاتِهِ.",
+      "translation": "Fasl adalah atribut yang diucapkan bagi sesuatu dalam menjawab pertanyaan 'apa sesuatu itu' dalam dzatnya (pembeda esensial)."
+    },
+    {
+      "title": "Definisi Khassah (Properti)",
+      "titleArabic": "تَعْرِيْفُ الْخَاصَّةِ",
+      "arabic": "الْخَاصَّةُ: كُلِّيٌّ عَرَضِيٌّ يَخُصُّ حَقِيْقَةً وَاحِدَةً.",
+      "translation": "Khassah adalah kulli aradi (aksidental) yang hanya dikhususkan bagi satu hakikat saja."
+    },
+    {
+      "title": "Definisi 'Arad 'Am (Aksiden Umum)",
+      "titleArabic": "تَعْرِيْفُ الْعَرَضِ الْعَامِّ",
+      "arabic": "الْعَرَضُ الْعَامُّ: كُلِّيٌّ عَرَضِيٌّ يَعُمُّ حَقَائِقَ مُخْتَلِفَةً.",
+      "translation": "Arad 'Am adalah kulli aradi yang mencakup berbagai hakikat yang berbeda."
+    },
+    {
+      "title": "Definisi (Al-Mu'arrifat)",
+      "titleArabic": "مَبَاحِثُ التَّعْرِيْفِ (الْقَوْلُ الشَّارِحُ)",
+      "arabic": "الْمُعَرِّفُ: قَوْلٌ شَارِحٌ يُفِيْدُ تَصَوُّرَ الْمُعَرَّفِ.",
+      "translation": "Mu'arrif (definisi) adalah perkataan yang menjelaskan yang memberikan faedah berupa penggambaran (tashawwur) atas sesuatu yang didefinisikan."
+    },
+    {
+      "title": "Hadd Tamm (Definisi Sempurna)",
+      "titleArabic": "الْحَدُّ التَّامُّ",
+      "arabic": "الْحَدُّ التَّامُّ: مَا يَكُوْنُ بِالْجِنْسِ الْقَرِيْبِ وَالْفَصْلِ الْقَرِيْبِ.",
+      "translation": "Hadd Tamm adalah definisi yang terdiri dari Jins Qarib (genus terdekat) dan Fasl Qarib (differensia terdekat)."
+    },
+    {
+      "title": "Hadd Naqis (Definisi Kurang Sempurna)",
+      "titleArabic": "الْحَدُّ النَّاقِصُ",
+      "arabic": "الْحَدُّ النَّاقِصُ: مَا يَكُوْنُ بِالْجِنْسِ الْبَعِيْدِ وَالْفَصْلِ الْقَرِيْبِ أَوْ بِالْفَصْلِ وَحْدَهُ.",
+      "translation": "Hadd Naqis adalah definisi yang terdiri dari Jins Ba'id (genus jauh) dan Fasl Qarib, atau hanya dengan Fasl saja."
+    },
+    {
+      "title": "Rasm Tamm (Deskripsi Sempurna)",
+      "titleArabic": "الرَّسْمُ التَّامُّ",
+      "arabic": "الرَّسْمُ التَّامُّ: مَا يَكُوْنُ بِالْجِنْسِ الْقَرِيْبِ وَالْخَاصَّةِ.",
+      "translation": "Rasm Tamm adalah definisi deskriptif yang terdiri dari Jins Qarib dan Khassah."
+    },
+    {
+      "title": "Rasm Naqis (Deskripsi Kurang Sempurna)",
+      "titleArabic": "الرَّسْمُ النَّاقِصُ",
+      "arabic": "الرَّسْمُ النَّاقِصُ: مَا يَكُوْنُ بِالْعَرَضِيَّاتِ فَقَطْ أَوْ بِالْجِنْسِ الْبَعِيْدِ وَالْخَاصَّةِ.",
+      "translation": "Rasm Naqis adalah definisi deskriptif yang hanya terdiri dari hal-hal aksidental saja, atau Jins Ba'id dan Khassah."
+    },
+    {
+      "title": "Syarat-Syarat Ta'rif (Definisi)",
+      "titleArabic": "شُرُوْطُ التَّعْرِيْفِ",
+      "arabic": "يُشْتَرَطُ فِي التَّعْرِيْفِ أَنْ يَكُوْنَ جَامِعًا مَانِعًا، وَأَجْلَى مِنَ الْمُعَرَّفِ.",
+      "translation": "Disyaratkan dalam sebuah definisi agar ia bersifat Jami' (mencakup seluruh satuan objek) dan Mani' (mencegah masuknya objek lain), serta lebih jelas daripada hal yang didefinisikan."
+    },
+    {
+      "title": "Proposisi (Al-Qadaya)",
+      "titleArabic": "مَبَاحِثُ الْقَضَايَا",
+      "arabic": "الْقَضِيَّةُ: قَوْلٌ يَحْتَمِلُ الصِّدْقَ وَالْكَذِبَ لِذَاتِهِ.",
+      "translation": "Proposisi (Qadiyyah) adalah perkataan yang mengandung kemungkinan benar atau dusta dengan sendirinya."
+    },
+    {
+      "title": "Pembagian Proposisi: Hamliyyah dan Syartiyyah",
+      "titleArabic": "الْقَضِيَّةُ الْحَمْلِيَّةُ وَالشَّرْطِيَّةُ",
+      "arabic": "الْقَضِيَّةُ إِمَّا حَمْلِيَّةٌ وَهِيَ مَا حُكِمَ فِيْهَا بِثُبُوتِ شَيْءٍ لِشَيْءٍ أَوْ نَفْيِهِ عَنْهُ، أَوْ شَرْطِيَّةٌ.",
+      "translation": "Proposisi adakalanya bersifat Hamliyyah (kategoris) yaitu menetapkan sesuatu pada sesuatu yang lain atau menafikannya; atau bersifat Syartiyyah (kondisional)."
+    },
+    {
+      "title": "Struktur Hamliyyah: Mawdu' dan Mahmul",
+      "titleArabic": "أَجْزَاءُ الْحَمْلِيَّةِ",
+      "arabic": "أَجْزَاءُ الْحَمْلِيَّةِ ثَلَاثَةٌ: الْمَوْضُوعُ، وَالْمَحْمُولُ، وَالرَّابِطَةُ.",
+      "translation": "Bagian-bagian proposisi kategoris ada tiga: Mawdu' (subjek), Mahmul (predikat), dan Rabitah (kopula)."
+    },
+    {
+      "title": "Syartiyyah Muttasilah",
+      "titleArabic": "الشَّرْطِيَّةُ الْمُتَّصِلَةُ",
+      "arabic": "الْمُتَّصِلَةُ: مَا حُكِمَ فِيْهَا بِالْتِزَامِ قَضِيَّةٍ لِأُخْرَى أَوْ عَنَادِهِمَا.",
+      "translation": "Muttasilah (implikatif) adalah proposisi yang menetapkan adanya kelaziman antara satu proposisi dengan yang lain."
+    },
+    {
+      "title": "Syartiyyah Munfasilah",
+      "titleArabic": "الشَّرْطِيَّةُ الْمُنْفَصِلَةُ",
+      "arabic": "الْمُنْفَصِلَةُ: مَا حُكِمَ فِيْهَا بِالتَّنَافِي بَيْنَ طَرَفَيْهَا.",
+      "translation": "Munfasilah (disjungtif) adalah proposisi yang menetapkan adanya pertentangan/pemisahan antara dua bagian."
+    },
+    {
+      "title": "Kuantitas Proposisi: Al-Sur",
+      "titleArabic": "السُّوْرُ فِي الْقَضَايَا",
+      "arabic": "اللَّفْظُ الدَّالُّ عَلَى كَمِّيَّةِ أَفْرَادِ الْمَوْضُوعِ يُسَمَّى سُوْرًا.",
+      "translation": "Lafadz yang menunjukan jumlah satuan-satuan subjek disebut dengan Sur (kuantor)."
+    },
+    {
+      "title": "Jenis-jenis Sur (Kuantor)",
+      "titleArabic": "أَنْوَاعُ السُّوْرِ",
+      "arabic": "السُّورُ إِمَّا كُلِّيٌّ مُوْجِبٌ (كُلُّ)، أَوْ كُلِّيٌّ سَالِبٌ (لَا شَيْءَ)، أَوْ جُزْئِيٌّ مُوْجِبٌ (بَعْضُ)، أَوْ جُزْئِيٌّ سَالِبٌ (لَيْسَ بَعْضُ).",
+      "translation": "Kuantor adakalanya Kulli Mujab (Universal Afirmatif: 'Setiap'), Kulli Salib (Universal Negatif: 'Tidak satupun'), Juz'i Mujab (Partikular Afirmatif: 'Sebagian'), atau Juz'i Salib (Partikular Negatif: 'Sebagian tidak')."
+    },
+    {
+      "title": "Kontradiksi (Al-Tanaqud)",
+      "titleArabic": "أَحْكَامُ الْقَضَايَا: التَّنَاقُضُ",
+      "arabic": "التَّنَاقُضُ: اخْتِلَافُ قَضِيَّتَيْنِ فِي الْإِيْجَابِ وَالسَّلْبِ بِحَيْثُ يَلْزَمُ مِنْ صِدْقِ إِحْدَاهُمَا كَذِبُ الْأُخْرَى.",
+      "translation": "Kontradiksi (Tanaqud) adalah perbedaan antara dua proposisi dalam hal afirmatif dan negatifnya, sedemikian rupa sehingga kebenaran salah satunya memastikan kedustaan yang lainnya."
+    },
+    {
+      "title": "Syarat Kontradiksi (8 Kesatuan)",
+      "titleArabic": "شُرُوطُ التَّنَاقُضِ",
+      "arabic": "يُشْتَرَطُ فِي التَّنَاقُضِ اتِّحَادُ الطَّرَفَيْنِ فِي الْمَوْضُوعِ، وَالْمَحْمُولِ، وَالزَّمَانِ، وَالْمَكَانِ، وَالْإِضَافَةِ، وَالْقُوَّةِ وَالْفِعْلِ، وَالْجُزْءِ وَالْكُلِّ، وَالشَّرْطِ.",
+      "translation": "Dalam kontradiksi disyaratkan adanya kesatuan dalam: subjek, predikat, waktu, tempat, sandaran (idhafah), potensi vs aktual, bagian vs keseluruhan, dan syarat."
+    },
+    {
+      "title": "Konversi (Al-'Aks al-Mustawi)",
+      "titleArabic": "الْعَكْسُ الْمُسْتَوِي",
+      "arabic": "الْعَكْسُ الْمُسْتَوِي: هُوَ تَبْدِيْلُ طَرَفَيِ الْقَضِيَّةِ مَعَ بَقَاءِ الصِّدْقِ وَالْكَيْفِ.",
+      "translation": "Konversi (Aks Mustawi) adalah pertukaran posisi dua bagian proposisi (subjek dan predikat) dengan tetap mempertahankan kebenaran dan kualitasnya (positif/negatif)."
+    },
+    {
+      "title": "Silogisme (Al-Qiyas)",
+      "titleArabic": "مَبَاحِثُ الْقِيَاسِ",
+      "arabic": "الْقِيَاسُ: قَوْلٌ مُؤَلَّفٌ مِنْ أَقْوَالٍ مَتَى سُلِّمَتْ لَزِمَ عَنْهَا لِذَاتِهَا قَوْلٌ آخَرُ.",
+      "translation": "Silogisme (Qiyas) adalah perkataan yang tersusun dari beberapa proposisi yang jika diterima kebenarannya, maka akan melahirkan perkataan lain (kesimpulan) secara niscaya."
+    },
+    {
+      "title": "Struktur Silogisme: Iqtirani",
+      "titleArabic": "الْقِيَاسُ الِاقْتِرَانِيُّ",
+      "arabic": "الِاقْتِرَانِيُّ: مَا لَمْ يُصَرَّحْ فِيْهِ بِالنَّتِيْجَةِ وَلَا بِنَقِيْضِهَا.",
+      "translation": "Silogisme Iqtirani (kategoris) adalah silogisme yang kesimpulannya atau kontradiksi kesimpulannya tidak disebutkan secara eksplisit di dalam premis."
+    },
+    {
+      "title": "Bentuk-Bentuk Silogisme (Al-Ashkal)",
+      "titleArabic": "الْأَشْكَالُ الْأَرْبَعَةُ",
+      "arabic": "الْهَيْئَةُ الْحَاصِلَةُ لِلْقِيَاسِ مِنْ وَضْعِ الْأَوْسَطِ عِنْدَ الْأَصْغَرِ وَالْأَكْبَرِ تُسَمَّى شَكْلًا.",
+      "translation": "Bentuk yang dihasilkan dari posisi Term Tengah (Hadd Awsat) terhadap Term Minor (Asghar) dan Term Mayor (Akbar) disebut dengan Syakal (figur)."
+    },
+    {
+      "title": "Syakal Pertama (Figure I)",
+      "titleArabic": "الشَّكْلُ الْأَوَّلُ",
+      "arabic": "الشَّكْلُ الْأَوَّلُ: مَا كَانَ الْأَوْسَطُ فِيْهِ مَحْمُوْلًا فِي الصُّغْرَى مَوْضُوْعًا فِي الْكُبْرَى.",
+      "translation": "Syakal Pertama adalah apabila Term Tengah menjadi predikat pada premis minor dan menjadi subjek pada premis mayor."
+    },
+    {
+      "title": "Syarat Syakal Pertama",
+      "titleArabic": "شَرْطُ الشَّكْلِ الْأَوَّلِ",
+      "arabic": "شَرْطُهُ: إِيْجَابُ الصُّغْرَى وَكُلِّيَّةُ الْكُبْرَى.",
+      "translation": "Syaratnya: Premis minor harus afirmatif (positif) dan premis mayor harus universal."
+    },
+    {
+      "title": "Syakal Kedua (Figure II)",
+      "titleArabic": "الشَّكْلُ الثَّانِي",
+      "arabic": "الشَّكْلُ الثَّانِي: مَا كَانَ الْأَوْسَطُ فِيْهِ مَحْمُوْلًا فِيْهِمَا جَمِيْعًا.",
+      "translation": "Syakal Kedua adalah apabila Term Tengah menjadi predikat pada kedua premis."
+    },
+    {
+      "title": "Syarat Syakal Kedua",
+      "titleArabic": "شَرْطُ الشَّكْلِ الثَّانِي",
+      "arabic": "شَرْطُهُ: اخْتِلَافُهُمَا فِي الْكَيْفِ مَعَ كُلِّيَّةِ الْكُبْرَى.",
+      "translation": "Syaratnya: Kedua premis harus berbeda dalam kualitas (satu positif, satu negatif) dan premis mayor harus universal."
+    },
+    {
+      "title": "Syakal Ketiga (Figure III)",
+      "titleArabic": "الشَّكْلُ الثَّالِثُ",
+      "arabic": "الشَّكْلُ الثَّالِثُ: مَا كَانَ الْأَوْسَطُ فِيْهِ مَوْضُوْعًا فِيْهِمَا جَمِيْعًا.",
+      "translation": "Syakal Ketiga adalah apabila Term Tengah menjadi subjek pada kedua premis."
+    },
+    {
+      "title": "Syarat Syakal Ketiga",
+      "titleArabic": "شَرْطُ الشَّكْلِ الثَّالِثُ",
+      "arabic": "شَرْطُهُ: إِيْجَابُ الصُّغْرَى وَكُلِّيَّةُ إِحْدَاهُمَا.",
+      "translation": "Syaratnya: Premis minor harus afirmatif dan salah satu dari keduanya harus universal."
+    },
+    {
+      "title": "Syakal Keempat (Figure IV)",
+      "titleArabic": "الشَّكْلُ الرَّابِعُ",
+      "arabic": "الشَّكْلُ الرَّابِعُ: مَا كَانَ الْأَوْسَطُ مَوْضُوْعًا فِي الصُّغْرَى مَحْمُوْلًا فِي الْكُبْرَى.",
+      "translation": "Syakal Keempat adalah apabila Term Tengah menjadi subjek pada premis minor dan menjadi predikat pada premis mayor."
+    },
+    {
+      "title": "Silogisme Istithna'i (Conditional Syllogism)",
+      "titleArabic": "الْقِيَاسُ الِاسْتِثْنَائِيُّ",
+      "arabic": "الِاسْتِثْنَائِيُّ: هُوَ مَا صُرِّحَ فِيْهِ بِالنَّتِيْجَةِ أَوْ بِنَقِيْضِهَا، وَيُسَمَّى أَيْضًا شَرْطِيًّا.",
+      "translation": "Silogisme Istithna'i (Pengecualian) adalah silogisme yang kesimpulannya atau kontradiksinya disebutkan secara eksplisit, disebut juga silogisme kondisional."
+    },
+    {
+      "title": "Materi Silogisme (Al-Mawadd al-Khamsah)",
+      "titleArabic": "مَوَادُّ الْأَقْيِسَةِ (الصِّنَاعَاتُ الْخَمْسُ)",
+      "arabic": "الْأَقْيِسَةُ بِحَسَبِ الْمَادَّةِ تَنْقَسِمُ إِلَى خَمْسَةٍ: الْبُرْهَانُ، وَالْجَدَلُ، وَالْخَطَابَةُ، وَالشِّعْرُ، وَالْمُغَالَطَةُ.",
+      "translation": "Silogisme berdasarkan materinya terbagi menjadi lima: Burhan (demonstratif), Jadal (dialektika), Khatabah (retorika), Syi'r (puisi), dan Mughalathah (sofisme)."
+    },
+    {
+      "title": "Al-Burhan (Argumentasi Pasti)",
+      "titleArabic": "الْبُرْهَانُ",
+      "arabic": "الْبُرْهَانُ: قِيَاسٌ مُؤَلَّفٌ مِنْ يَقِيْنِيَّاتٍ لِإِنْتَاجِ الْيَقِيْنِ.",
+      "translation": "Burhan adalah silogisme yang tersusun dari premis-premis yang meyakinkan untuk menghasilkan kesimpulan yang yakin (pasti)."
+    },
+    {
+      "title": "Al-Jadal (Dialektika)",
+      "titleArabic": "الْجَدَلُ",
+      "arabic": "الْجَدَلُ: قِيَاسٌ مُؤَلَّفٌ مِنْ مَشْهُوْرَاتٍ أَوْ مُسَلَّمَاتٍ.",
+      "translation": "Jadal adalah silogisme yang tersusun dari perkara-perkara yang masyhur (populer) atau yang disepakati (oleh lawan bicara)."
+    },
+    {
+      "title": "Al-Khatabah (Retorika)",
+      "titleArabic": "الْخَطَابَةُ",
+      "arabic": "الْخَطَابَةُ: قِيَاسٌ مُؤَلَّفٌ مِنْ مَقْبُوْلَاتٍ أَوْ مَظْنُوْنَاتٍ.",
+      "translation": "Khatabah adalah silogisme yang tersusun dari hal-hal yang diterima begitu saja atau hal-hal yang bersifat dugaan (asumsi)."
+    },
+    {
+      "title": "Al-Syi'r (Puisi/Imaginasi)",
+      "titleArabic": "الشِّعْرُ",
+      "arabic": "الشِّعْرُ: قِيَاسٌ مُؤَلَّفٌ مِنْ مُخَيَّلَاتٍ تَنْبَسِطُ مِنْهَا النَّفْسُ أَوْ تَنْقَبِضُ.",
+      "translation": "Syi'r adalah silogisme yang tersusun dari hal-hal imajinatif yang dapat membuat jiwa merasa senang atau sedih."
+    },
+    {
+      "title": "Al-Mughalathah (Kekeliruan Berfikir)",
+      "titleArabic": "الْمُغَالَطَةُ",
+      "arabic": "الْمُغَالَطَةُ: قِيَاسٌ مُؤَلَّفٌ مِنْ وَهْمِيَّاتٍ أَوْ مُشَبَّهَاتٍ بِالْيَقِيْنِيَّاتِ.",
+      "translation": "Mughalathah adalah silogisme yang tersusun dari dugaan palsu atau hal-hal yang diserupakan dengan kebenaran padahal salah."
+    },
+    {
+      "title": "Khatimah (Penutup)",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ",
+      "arabic": "هَذَا آخِرُ مَا أَرَدْنَا إِيْرَادَهُ فِي هَذَا الْمُخْتَصَرِ، وَالْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ، وَالصَّلَاةُ عَلَى سَيِّدِ الْمُرْسَلِيْنَ.",
+      "translation": "Demikianlah akhir dari apa yang kami maksudkan untuk disampaikan dalam ringkasan ini. Segala puji bagi Allah Tuhan semesta alam, dan selawat atas pemimpin para Rasul."
+    }
+  ]
+}
