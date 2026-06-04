@@ -1,0 +1,152 @@
+{
+  "profile": {
+    "name": "Ahkam al-Qur'an",
+    "originalTitle": "أَحْكَامُ الْقُرْآنِ",
+    "author": "Al-Qadhi Abu Bakr Muhammad bin Abdullah bin Muhammad al-Ma'afiri (Ibn al-Arabi al-Maliki)",
+    "field": "Tafsir Ahkam (Fiqih Maliki)",
+    "about": "Kitab ini merupakan salah satu rujukan utama dalam bidang Tafsir Ahkam, khususnya dalam madzhab Maliki. Muallif menyusun kitab ini dengan metode mengumpulkan ayat-ayat hukum dari setiap surat dalam Al-Qur'an dan menggali hukum syara' darinya melalui pendekatan bahasa, ushul fiqih, dan hadits. Kitab ini dikenal karena ketajaman kritiknya terhadap pendapat-pendapat yang dianggap lemah serta pembelaannya terhadap metodologi Imam Malik. Struktur pembahasannya terbagi per surat, mulai dari Al-Fatihah hingga surat-surat pendek, dengan membedah setiap 'Masalah' (mas'alah) hukum yang terkandung di dalamnya. Ibn al-Arabi menggabungkan kepakaran sebagai ahli hadits dan qadhi (hakim) dalam menyajikan argumen hukum yang sistematis.",
+    "authorBorn": "Sevilla, Spanyol (468 H / 1076 M)",
+    "authorDied": "Fez, Maroko (543 H / 1148 M)",
+    "authorCentury": "Abad ke-6 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah Kitab",
+      "titleArabic": "مُقَدِّمَةُ الْكِتَابِ",
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ. قَالَ الشَّيْخُ الْفَقِيهُ الْإِمَامُ الْقَاضِي أَبُو بَكْرٍ مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ مُحَمَّدِ بْنِ عَبْدِ اللَّهِ الْمَعَافِرِيُّ: الْحَمْدُ لِلَّهِ الَّذِي جَعَلَ الْقُرْآنَ نُورًا، وَجَعَلَهُ لِلْأَحْكَامِ دُسْتُورًا. أَمَّا بَعْدُ: فَإِنَّ عِلْمَ الْقُرْآنِ هُوَ الْعِلْمُ الْأَعْلَى، وَمَقْصِدُهُ الْأَقْصَى.",
+      "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Syaikh Al-Faqih Al-Imam Al-Qadhi Abu Bakr Muhammad bin Abdullah bin Muhammad bin Abdullah al-Ma'afiri berkata: Segala puji bagi Allah yang menjadikan Al-Qur'an sebagai cahaya, dan menjadikannya sebagai pedoman hukum. Adapun setelah itu: Sesungguhnya ilmu Al-Qur'an adalah ilmu yang paling mulia dan tujuan yang paling utama."
+    },
+    {
+      "title": "Surat Al-Fatihah: Masalah Nama dan Basmalah",
+      "titleArabic": "سُورَةُ الْفَاتِحَةِ: الْمَسْأَلَةُ الْأُولَى فِي التَّسْمِيَةِ",
+      "arabic": "الْمَسْأَلَةُ الْأُولَى: فِي التَّسْمِيَةِ، وَهِيَ مَقْصِدٌ عَظِيمٌ مِنْ مَقَاصِدِ الشَّرِيعَةِ، وَاخْتَلَفَ الْعُلَمَاءُ هَلْ هِيَ آيَةٌ مِنْ الْقُرْآنِ أَمْ لَا؟ وَالْمَشْهُورُ عَنْ مَالِكٍ أَنَّهَا لَيْسَتْ بِآيَةٍ مِنْ الْفَاتِحَةِ وَلَا مِنْ غَيْرِهَا إلَّا فِي النَّمْلِ.",
+      "translation": "Masalah Pertama: Mengenai Penamaan (Basmalah), dan ia merupakan tujuan agung di antara tujuan-tujuan syariat. Para ulama berselisih apakah ia termasuk ayat dari Al-Qur'an atau tidak? Pendapat yang masyhur dari Imam Malik adalah bahwa Basmalah bukan merupakan ayat dari Al-Fatihah maupun surat lainnya, kecuali dalam surat An-Naml."
+    },
+    {
+      "title": "Surat Al-Baqarah: Hukum Kiblat (Ayat 142)",
+      "titleArabic": "سُورَةُ الْبَقَرَةِ: الْقَوْلُ فِي اسْتِقْبَالِ الْقِبْلَةِ",
+      "arabic": "قَوْله تَعَالَى: (فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ). فِيهِ ثَمَانِي مَسَائِلَ: الْأُولَى: فَرْضِيَّةُ اسْتِقْبَالِ الْقِبْلَةِ لِكُلِّ مُصَلٍّ، وَالثَّانِيَةُ: مَنْ كَانَ بِمَكَّةَ فَرْضُهُ الْمُعَايَنَةُ، وَمَنْ غَابَ عَنْهَا فَرْضُهُ التَّوَجُّهُ نَحْوَهَا.",
+      "translation": "Firman Allah Ta'ala: (Maka palingkanlah wajahmu ke arah Masjidil Haram). Di dalamnya terdapat delapan masalah: Pertama: Kewajiban menghadap kiblat bagi setiap orang yang shalat. Kedua: Orang yang berada di Makkah kewajibannya adalah melihat fisik Ka'bah, sedangkan yang jauh darinya kewajibannya adalah menghadap ke arahnya."
+    },
+    {
+      "title": "Surat Al-Baqarah: Hukum Puasa (Ayat 183-187)",
+      "titleArabic": "سُورَةُ الْبَقَرَةِ: أَحْكَامُ الصِّيَامِ",
+      "arabic": "قَوْله تَعَالَى: (كُتِبَ عَلَيْكُمُ الصِّيَامُ). فِيهِ خَمْسٌ وَعِشْرُونَ مَسْأَلَةً: مِنْهَا وُجُوبُ النِّيَّةِ فِي الصِّيَامِ، وَأَنَّ رَمَضَانَ لَا يَثْبُتُ إلَّا بِرُؤْيَةِ الْهِلَالِ أَوْ اسْتِكْمَالِ الْعِدَّةِ ثَلَاثِينَ يَوْمًا.",
+      "translation": "Firman Allah Ta'ala: (Diwajibkan atas kamu berpuasa). Di dalamnya terdapat 25 masalah: Di antaranya wajibnya niat dalam puasa, dan bahwa bulan Ramadhan tidaklah ditetapkan kecuali dengan rukyatul hilal atau menyempurnakan bilangan tiga puluh hari."
+    },
+    {
+      "title": "Surat Al-Baqarah: Hukum Khamr dan Judi (Ayat 219)",
+      "titleArabic": "سُورَةُ الْبَقَرَةِ: الْخَمْرُ وَالْمَيْسِرُ",
+      "arabic": "قَوْله تَعَالَى: (يَسْأَلُونَكَ عَنِ الْخَمْرِ وَالْمَيْسِرِ). فِيهِ عَشْرُ مَسَائِلَ: الْأُولَى: تَحْرِيمُ الْخَمْرِ، وَهِيَ كُلُّ مَا خَامَرَ الْعَقْلَ وَغَطَّاهُ، سَوَاءً كَانَ مِنْ الْعِنَبِ أَوْ غَيْرِهِ.",
+      "translation": "Firman Allah Ta'ala: (Mereka bertanya kepadamu tentang khamr dan judi). Di dalamnya terdapat sepuluh masalah: Pertama: Pengharaman khamr, yaitu segala sesuatu yang meracuni akal dan menutupinya, baik itu berasal dari anggur maupun selainnya."
+    },
+    {
+      "title": "Surat Al-Baqarah: Hukum Nikah dengan Musyrik (Ayat 221)",
+      "titleArabic": "سُورَةُ الْبَقَرَةِ: نِكَاحُ الْمُشْرِكَاتِ",
+      "arabic": "قَوْله تَعَالَى: (وَلَا تَنْكِحُوا الْمُشْرِكَاتِ حَتَّى يُؤْمِنَّ). فِيهِ سِتُّ مَسَائِلَ: الْأُولَى: الْمُشْرِكَةُ هُنَا هِيَ الْعَابِدَةُ لِلْأَوْثَانِ، وَخَرَجَتْ مِنْهَا الْكِتَابِيَّةُ بِقَوْلِهِ: (وَالْمُحْصَنَاتُ مِنَ الَّذِينَ أُوتُوا الْكِتَابَ).",
+      "translation": "Firman Allah Ta'ala: (Dan janganlah kamu menikahi perempuan-perempuan musyrik hingga mereka beriman). Di dalamnya terdapat enam masalah: Pertama: Wanita musyrik di sini adalah penyembah berhala, dan dikecualikan darinya wanita Ahli Kitab berdasarkan firman-Nya: (Dan wanita-wanita yang menjaga kehormatan di antara orang-orang yang diberi Al-Kitab)."
+    },
+    {
+      "title": "Surat Al-Baqarah: Hukum Haid (Ayat 222)",
+      "titleArabic": "سُورَةُ الْبَقَرَةِ: أَحْكَامُ الْمَحِيضِ",
+      "arabic": "قَوْله تَعَالَى: (وَيَسْأَلُونَكَ عَنِ الْمَحِيضِ قُلْ هُوَ أَذًى). فِيهِ إثْنَتَا عَشْرَةَ مَسْأَلَةً: مِنْهَا مَنْعُ الْوَطْءِ فِي الْفَرْجِ حَتَّى تَطْهُرَ الْمَرْأَةُ بِانْقِطَاعِ الدَّمِ وَتَغْتَسِلَ بِالْمَاءِ.",
+      "translation": "Firman Allah Ta'ala: (Mereka bertanya kepadamu tentang haid, katakanlah: Itu adalah kotoran). Di dalamnya terdapat dua belas masalah: Di antaranya larangan bersetubuh pada kemaluan hingga wanita tersebut suci dengan berhentinya darah dan mandi dengan air."
+    },
+    {
+      "title": "Surat Al-Baqarah: Hukum Ila' (Ayat 226)",
+      "titleArabic": "سُورَةُ الْبَقَرَةِ: حُكْمُ الْإِيلَاءِ",
+      "arabic": "قَوْله تَعَالَى: (لِلَّذِينَ يُؤْلُونَ مِنْ نِسَائِهِمْ تَرَبُّصُ أَرْبَعَةِ أَشْهُرٍ). فِيهِ ثَلَاثَ عَشْرَةَ مَسْأَلَةً: الْإِيلَاءُ هُوَ الْحَلِفُ عَلَى تَرْكِ الْوَطْءِ، وَمُدَّتُهُ أَرْبَعَةُ أَشْهُرٍ.",
+      "translation": "Firman Allah Ta'ala: (Bagi orang-orang yang meng-ila' istrinya, mereka harus menunggu empat bulan). Di dalamnya terdapat tiga belas masalah: Ila' adalah bersumpah untuk tidak bersetubuh, dan masanya adalah empat bulan."
+    },
+    {
+      "title": "Surat Al-Baqarah: Hukum Talak (Ayat 229)",
+      "titleArabic": "سُورَةُ الْبَقَرَةِ: أَحْكَامُ الطَّلَاقِ",
+      "arabic": "قَوْله تَعَالَى: (الطَّلَاقُ مَرَّتَانِ فَإِمْسَاكٌ بِمَعْرُوفٍ أَوْ تَسْرِيحٌ بِإِحْسَانٍ). فِيهِ إحْدَى وَعِشْرُونَ مَسْأَلَةً: أَنَّ الطَّلَاقَ الَّذِي يَمْلِكُ فِيهِ الزَّوْجُ الرَّجْعَةَ هُوَ طَلْقَتَانِ.",
+      "translation": "Firman Allah Ta'ala: (Talak itu dua kali, setelah itu boleh rujuk dengan cara yang makruf atau menceraikan dengan cara yang baik). Di dalamnya terdapat dua puluh satu masalah: Bahwa talak yang mana suami memiliki hak rujuk di dalamnya adalah dua kali talak."
+    },
+    {
+      "title": "Surat Al-Baqarah: Hukum Riba (Ayat 275)",
+      "titleArabic": "سُورَةُ الْبَقَرَةِ: أَحْكَامُ الرِّبَا",
+      "arabic": "قَوْله تَعَالَى: (وَأَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا). فِيهِ سَبْعٌ وَعِشْرُونَ مَسْأَلَةً: الرِّبَا فِي اللُّغَةِ هُوَ الزِّيَادَةُ، وَفِي الشَّرْعِ كُلُّ زِيَادَةٍ لَمْ يُقَابِلْهَا عِوَضٌ مَشْرُوعٌ.",
+      "translation": "Firman Allah Ta'ala: (Padahal Allah telah menghalalkan jual beli dan mengharamkan riba). Di dalamnya terdapat dua puluh tujuh masalah: Riba secara bahasa adalah tambahan, dan secara syara' adalah setiap tambahan yang tidak diimbangi dengan pengganti yang disyariatkan."
+    },
+    {
+      "title": "Surat An-Nisa: Hukum Waris (Ayat 11-12)",
+      "titleArabic": "سُورَةُ النِّسَاءِ: أَحْكَامُ الْمَوَارِيثِ",
+      "arabic": "قَوْله تَعَالَى: (يُوصِيكُمُ اللَّهُ فِي أَوْلَادِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ الْأُنْثَيَيْنِ). فِيهِ خَمْسٌ وَثَلَاثُونَ مَسْأَلَةً: وَهِيَ عِمَادُ عِلْمِ الْفَرَائِضِ، وَبَيَانُ أَنْصِبَاءِ الْوَرَثَةِ مِنَ الْأَوْلَادِ وَالْوَالِدَيْنِ وَالزَّوْجَيْنِ.",
+      "translation": "Firman Allah Ta'ala: (Allah mensyariatkan bagimu tentang pembagian warisan untuk anak-anakmu, yaitu bagian seorang anak laki-laki sama dengan bagian dua orang anak perempuan). Di dalamnya terdapat tiga puluh lima masalah: Ini adalah tiang ilmu faraidh (waris), dan penjelasan bagian-bagian ahli waris dari kalangan anak, orang tua, dan suami istri."
+    },
+    {
+      "title": "Surat An-Nisa: Wanita yang Haram Dinikahi (Ayat 23)",
+      "titleArabic": "سُورَةُ النِّسَاءِ: الْمُحَرَّمَاتُ مِنَ النِّسَاءِ",
+      "arabic": "قَوْله تَعَالَى: (حُرِّمَتْ عَلَيْكُمْ أُمَّهَاتُكُمْ وَبَنَاتُكُمْ...). فِيهِ أَرْبَعٌ وَثَلَاثُونَ مَسْأَلَةً: بَيَّنَ فِيهَا الْمُحَرَّمَاتِ بِالنَّسَبِ، وَالْمُحَرَّمَاتِ بِالرَّضَاعِ، وَالْمُحَرَّمَاتِ بِالصِّهْرِيَّةِ.",
+      "translation": "Firman Allah Ta'ala: (Diharamkan atas kamu ibu-ibumu, anak-anakmu yang perempuan...). Di dalamnya terdapat tiga puluh empat masalah: Di sana dijelaskan wanita-wanita yang haram karena nasab, haram karena persusuan, dan haram karena pernikahan (mushaharah)."
+    },
+    {
+      "title": "Surat Al-Ma'idah: Hukum Wudhu dan Tayammum (Ayat 6)",
+      "titleArabic": "سُورَةُ الْمَائِدَةِ: أَحْكَامُ الطَّهَارَةِ",
+      "arabic": "قَوْله تَعَالَى: (يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قُمْتُمْ إِلَى الصَّلَاةِ فَاغْسِلُوا وُجُوهَكُمْ). فِيهِ سِتٌّ وَخَمْسُونَ مَسْأَلَةً: مِنْهَا وُجُوبُ غَسْلِ الْأَعْضَاءِ الْأَرْبَعَةِ، وَحُكْمُ الْمَسْحِ عَلَى الْخُفَّيْنِ، وَصِفَةُ التَّيَمُّمِ.",
+      "translation": "Firman Allah Ta'ala: (Wahai orang-orang yang beriman, apabila kamu hendak mengerjakan shalat, maka basuhlah mukamu). Di dalamnya terdapat lima puluh enam masalah: Di antaranya kewajiban membasuh empat anggota tubuh, hukum mengusap dua sepatu (khuff), dan tata cara tayammum."
+    },
+    {
+      "title": "Surat Al-Ma'idah: Hukum Mencuri (Ayat 38)",
+      "titleArabic": "سُورَةُ الْمَائِدَةِ: حَدُّ السَّرِقَةِ",
+      "arabic": "قَوْله تَعَالَى: (وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُوا أَيْدِيَهُمَا). فِيهِ ثَلَاثُونَ مَسْأَلَةً: مِنْهَا بَيَانُ النِّصَابِ الَّذِي تُقْطَعُ فِيهِ الْيَدُ، وَصِفَةُ الْقَطْعِ، وَشُرُوطُ الْحِرْزِ.",
+      "translation": "Firman Allah Ta'ala: (Laki-laki yang mencuri dan perempuan yang mencuri, potonglah tangan keduanya). Di dalamnya terdapat tiga puluh masalah: Di antaranya penjelasan nishab (batas nilai) harta yang menyebabkan potong tangan, tata cara pemotongan, dan syarat-syarat tempat penyimpanan harta (hirz)."
+    },
+    {
+      "title": "Surat Al-An'am: Hewan yang Haram (Ayat 145)",
+      "titleArabic": "سُورَةُ الْأَنْعَامِ: مَا يُحَرَّمُ مِنَ الْمَيْتَةِ وَالدَّمِ",
+      "arabic": "قَوْله تَعَالَى: (قُلْ لَا أَجِدُ فِي مَا أُوحِيَ إِلَيَّ مُحَرَّمًا...). فِيهِ تِسْعُ مَسَائِلَ: تَحْرِيمُ الْمَيْتَةِ، وَالدَّمِ الْمَسْفُوحِ، وَلَحْمِ الْخِنْزِيرِ، وَمَا أُهِلَّ لِغَيْرِ اللَّهِ بِهِ.",
+      "translation": "Firman Allah Ta'ala: (Katakanlah: Tiadalah aku peroleh dalam wahyu yang diwahyukan kepadaku, sesuatu yang diharamkan...). Di dalamnya terdapat sembilan masalah: Pengharaman bangkai, darah yang mengalir, daging babi, dan hewan yang disembelih atas nama selain Allah."
+    },
+    {
+      "title": "Surat Al-Anfal: Hukum Ghanimah (Ayat 41)",
+      "titleArabic": "سُورَةُ الْأَنْفَالِ: قِسْمَةُ الْغَنَائِمِ",
+      "arabic": "قَوْله تَعَالَى: (وَاعْلَمُوا أَنَّمَا غَنِمْتُمْ مِنْ شَيْءٍ فَأَنَّ لِلَّهِ خُمُسَهُ). فِيهِ خَمْسَ عَشْرَةَ مَسْأَلَةً: كَيْفِيَّةُ تَقْسِيمِ الْغَنِيمَةِ بَيْنَ الْغَانِمِينَ، وَمَصَارِفُ الْخُمُسِ.",
+      "translation": "Firman Allah Ta'ala: (Ketahuilah, sesungguhnya apa saja yang dapat kamu peroleh sebagai rampasan perang, maka sesungguhnya seperlima untuk Allah). Di dalamnya terdapat lima belas masalah: Tata cara pembagian ghanimah di antara para pemenang perang, dan pos-pos penyaluran bagian seperlima tersebut."
+    },
+    {
+      "title": "Surat At-Taubah: Sasaran Zakat (Ayat 60)",
+      "titleArabic": "سُورَةُ التَّوْبَةِ: مَصَارِفُ الزَّكَاةِ",
+      "arabic": "قَوْله تَعَالَى: (إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَاءِ وَالْمَسَاكِينِ...). فِيهِ تِسْعَ عَشْرَةَ مَسْأَلَةً: حَصْرُ مَصَارِفِ الزَّكَاةِ فِي الْأَصْنَافِ الثَّمَانِيَةِ، وَتَعْرِيفُ كُلِّ صِنْفٍ مِنْهُمْ.",
+      "translation": "Firman Allah Ta'ala: (Sesungguhnya zakat-zakat itu, hanyalah untuk orang-orang fakir, orang-orang miskin...). Di dalamnya terdapat sembilan belas masalah: Pembatasan sasaran zakat pada delapan golongan, dan definisi dari masing-masing golongan tersebut."
+    },
+    {
+      "title": "Surat An-Nur: Hukum Zina (Ayat 2)",
+      "titleArabic": "سُورَةُ النُّورِ: حَدُّ الزِّنَا",
+      "arabic": "قَوْله تَعَالَى: (الزَّانِيَةُ وَالزَّانِي فَاجْلِدُوا كُلَّ وَاحِدٍ مِنْهُمَا مِائَةَ جَلْدَةٍ). فِيهِ ثَلَاثُونَ مَسْأَلَةً: عُقُوبَةُ الْبِكْرِ بِالْجَلْدِ، وَتَغْرِيبُ عَامٍ عِنْدَ مَالِكٍ، وَأَنَّ الثَّيِّبَ رَجْمُهُ ثَابِتٌ بِالسُّنَّةِ.",
+      "translation": "Firman Allah Ta'ala: (Perempuan yang berzina dan laki-laki yang berzina, maka deralah tiap-tiap seorang dari keduanya seratus kali dera). Di dalamnya terdapat tiga puluh masalah: Hukuman bagi bujang (bikr) dengan cambuk dan pengasingan selama satu tahun menurut Imam Malik, serta bahwa orang yang sudah menikah (thayyib) hukumannya adalah rajam berdasarkan sunnah."
+    },
+    {
+      "title": "Surat An-Nur: Hukum Li'an (Ayat 6-9)",
+      "titleArabic": "سُورَةُ النُّورِ: أَحْكَامُ اللِّعَانِ",
+      "arabic": "قَوْله تَعَالَى: (وَالَّذِينَ يَرْمُونَ أَزْوَاجَهُمْ...). فِيهِ عِشْرُونَ مَسْأَلَةً: صِفَةُ اللِّعَانِ بَيْنَ الزَّوْجَيْنِ، وَمَا يَتَرَتَّبُ عَلَيْهِ مِنْ الْفُرْقَةِ الْأَبَدِيَّةِ وَنَفْيِ الْوَلَدِ.",
+      "translation": "Firman Allah Ta'ala: (Dan orang-orang yang menuduh istrinya berzina...). Di dalamnya terdapat dua puluh masalah: Tata cara li'an di antara suami istri, serta konsekuensi hukum berupa perpisahan selamanya dan penafian (penolakan) anak."
+    },
+    {
+      "title": "Surat Al-Ahzab: Hukum Hijab (Ayat 59)",
+      "titleArabic": "سُورَةُ الْأَحْزَابِ: حُكْمُ الْحِجَابِ",
+      "arabic": "قَوْله تَعَالَى: (يَا أَيُّهَا النَّبِيُّ قُلْ لِأَزْوَاجِكَ وَبَنَاتِكَ وَنِسَاءِ الْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِنْ جَلَابِيبِهِنَّ). فِيهِ ثَلَاثُ مَسَائِلَ: وُجُوبُ سَتْرِ الْمَرْأَةِ لِجَمِيعِ بَدَنِهَا عَنِ الْأَجَانِبِ.",
+      "translation": "Firman Allah Ta'ala: (Wahai Nabi, katakanlah kepada istri-istrimu, anak-anak perempuanmu dan istri-istri orang mukmin: Hendaklah mereka mengulurkan jilbabnya ke seluruh tubuh mereka). Di dalamnya terdapat tiga masalah: Wajibnya wanita menutup seluruh tubuhnya dari laki-laki asing (non-mahram)."
+    },
+    {
+      "title": "Surat Al-Jumu'ah: Kewajiban Shalat Jumat (Ayat 9)",
+      "titleArabic": "سُورَةُ الْجُمُعَةِ: وُجُوبُ صَلَاةِ الْجُمُعَةِ",
+      "arabic": "قَوْله تَعَالَى: (إِذَا نُودِيَ لِلصَّلَاةِ مِنْ يَوْمِ الْجُمُعَةِ فَاسْعَوْا إِلَى ذِكْرِ اللَّهِ). فِيهِ خَمْسَ عَشْرَةَ مَسْأَلَةً: وُجُوبُ الْجُمُعَةِ عَلَى الْأَعْيَانِ، وَتَحْرِيمُ الْبَيْعِ بَعْدَ الْأَذَانِ الثَّانِي.",
+      "translation": "Firman Allah Ta'ala: (Apabila diseru untuk menunaikan shalat pada hari Jumat, maka bersegeralah kamu kepada mengingat Allah). Di dalamnya terdapat lima belas masalah: Kewajiban shalat Jumat bagi setiap individu (laki-laki muslim merdeka), dan larangan berjual beli setelah adzan kedua."
+    },
+    {
+      "title": "Surat At-Thalaq: Idah Wanita Hamil (Ayat 4)",
+      "titleArabic": "سُورَةُ الطَّلَاقِ: عِدَّةُ الْحَامِلِ",
+      "arabic": "قَوْله تَعَالَى: (وَأُولَاتُ الْأَحْمَالِ أَجَلُهُنَّ أَنْ يَضَعْنَ حَمْلَهُنَّ). فِيهِ خَمْسُ مَسَائِلَ: أَنَّ عِدَّةَ الْحَامِلِ تَنْتَهِي بِوَضْعِ الْحَمْلِ، سَوَاءً كَانَتْ مُطَلَّقَةً أَوْ مُتَوَفَّى عَنْهَا زَوْجُهَا.",
+      "translation": "Firman Allah Ta'ala: (Dan perempuan-perempuan yang hamil, waktu idah mereka itu ialah sampai mereka melahirkan kandungannya). Di dalamnya terdapat lima masalah: Bahwa idah wanita hamil berakhir dengan melahirkan kandungan, baik ia diceraikan maupun ditinggal mati suaminya."
+    },
+    {
+      "title": "Khatimah (Penutup)",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ",
+      "arabic": "تَمَّ كِتَابُ أَحْكَامِ الْقُرْآنِ، وَالْحَمْدُ لِلَّهِ عَلَى تَمَامِهِ، وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلَّمَ تَسْلِيمًا كَثِيرًا. نَجَزَ الْغَرَضُ مِنْ تَبْيِينِ قَوَاعِدِ الشَّرِيعَةِ مِنْ كِتَابِ اللَّهِ.",
+      "translation": "Telah selesai Kitab Ahkam al-Qur'an, segala puji bagi Allah atas selesainya kitab ini, semoga shalawat dan salam senantiasa tercurah kepada junjungan kita Nabi Muhammad, keluarga, dan para sahabatnya. Telah tercapai tujuan untuk menjelaskan kaidah-kaidah syariat dari Kitabullah."
+    }
+  ]
+}
