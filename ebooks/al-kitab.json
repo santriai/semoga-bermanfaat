@@ -1,0 +1,122 @@
+{
+  "profile": {
+    "name": "Al-Kitab",
+    "originalTitle": "اَلْكِتَابُ لِسِيبَوَيْه",
+    "author": "Al-Imam Abu Bishr 'Amr bin 'Uthman bin Qanbar (Sibawayh)",
+    "field": "Ilmu Nahwu (Linguistik Bahasa Arab)",
+    "about": "Al-Kitab karya Imam Sibawayh adalah kitab sistematis pertama dalam sejarah bahasa Arab yang merumuskan kaidah-kaidah Nahwu dan Sharaf. Kitab ini dianggap sebagai otoritas tertinggi dalam bidangnya, hingga dijuluki sebagai 'Al-Qur'an-nya Ilmu Nahwu' (Qur'an an-Nahw). Sibawayh menyusunnya berdasarkan observasi mendalam terhadap teks Al-Qur'an, Hadis, dan syair-syair Arab jahiliyah untuk menarik kesimpulan hukum gramatika. Isinya mencakup segala aspek kebahasaan, mulai dari fonetik, morfologi, hingga sintaksis yang sangat kompleks. Kitab ini menjadi rujukan utama Mazhab Bashrah dan pondasi bagi seluruh studi bahasa Arab di masa-masa setelahnya.",
+    "authorBorn": "Sekitar 140 H (760 M) di Hamadan, Persia",
+    "authorDied": "Sekitar 180 H (796 M) di Shiraz, Persia",
+    "authorCentury": "Abad ke-2 Hijriah (Masa Kekhalifahan Abbasiyah)"
+  },
+  "chapters": [
+    {
+      "title": "Pendahuluan: Pembagian Kata dalam Bahasa Arab",
+      "titleArabic": "بَابُ عِلْمِ مَا الْكَلِمُ مِنَ الْعَرَبِيَّةِ",
+      "arabic": "فَالْكَلِمُ: اسْمٌ، وَفِعْلٌ، وَحَرْفٌ جَاءَ لِمَعْنًى لَيْسَ بِاسْمٍ وَلَا فِعْلٍ. فَالِاسْمُ: رَجُلٌ وَحَائِطٌ. وَأَمَّا الْفِعْلُ فَأَمْثِلَةٌ أُخِذَتْ مِنْ لَفْظِ أَحْدَاثِ الْأَسْمَاءِ، وَبُنِيَتْ لِمَا مَضَى، وَلِمَا يَكُونُ وَلَمْ يَقَعْ، وَمَا هُوَ كَائِنٌ لَمْ يَنْقَطِعْ.",
+      "translation": "Kata-kata (Al-Kalim) dalam bahasa Arab terbagi menjadi tiga: Isim (kata benda), Fi'il (kata kerja), dan Huruf yang membawa makna namun bukan isim maupun fi'il. Isim contohnya 'rajul' (laki-laki) dan 'ha-ith' (dinding). Adapun Fi'il adalah bentuk-bentuk yang diambil dari lafadz peristiwa (masdar) dan dibentuk untuk masa lampau (Madhi), masa depan yang belum terjadi (Amr), dan masa sekarang yang sedang berlangsung (Mudhari')."
+    },
+    {
+      "title": "Bab Perubahan Akhir Kata (I'rab dan Bina)",
+      "titleArabic": "بَابُ مَجَارِي أَوَاخِرِ الْكَلِمِ مِنَ الْعَرَبِيَّةِ",
+      "arabic": "وَهِيَ تَجْرِي عَلَى ثَمَانِيَةِ مَجَارٍ: نَصْبٍ، وَجَرْ، وَرَفْعٍ، وَجَزْمٍ، وَفَتْحٍ، وَضَمٍّ، وَكَسْرٍ، وَوَقْفٍ. وَهَذِهِ الثَّمَانِيَةُ يَنْضَمُّ إِلَيْهَا ضَرْبَانِ: فَأَمَّا الْأَرْبَعَةُ الْأُوَلُ فَأَوَاخِرُ الْكَلِمِ الْمُنْصَرِفِ الَّذِي يَتَغَيَّرُ لِحَالِ الْعَامِلِ.",
+      "translation": "Pergerakan akhir kata dalam bahasa Arab mengalir pada delapan jenis: Nasab, Jarr, Rafa', Jazm, Fathah, Dhammah, Kasrah, dan Waqf. Kedelapan ini terbagi menjadi dua kelompok: empat yang pertama (Nasab, Jarr, Rafa', Jazm) adalah untuk akhir kata yang berubah karena pengaruh Amil (faktor penyebab perubahan)."
+    },
+    {
+      "title": "Bab Musnad dan Musnad Ilayh (Subjek dan Predikat)",
+      "titleArabic": "بَابُ الْمُسْنَدِ وَالْمُسْنَدِ إِلَيْهِ",
+      "arabic": "وَهُمَا مَا لَا يُسْتَغْنَى وَاحِدٌ مِنْهُمَا عَنِ الْآخَرِ، وَلَا يَجِدُ الْمُتَكَلِّمُ مِنْهُمَا بُدًّا. فَمِنْ ذَلِكَ الِاسْمُ الْمُبْتَدَأُ وَالْمَبْنِيُّ عَلَيْهِ، وَهُوَ خَبَرُهُ. وَمِنْ ذَلِكَ الْفِعْلُ وَالِاسْمُ.",
+      "translation": "Keduanya adalah unsur yang satu sama lain tidak bisa dipisahkan, dan pembicara pasti membutuhkannya. Di antaranya adalah Isim Mubtada' dan apa yang disandarkan padanya yaitu Khabar-nya. Serta di antaranya adalah Fi'il dan Isim (Fa'il)."
+    },
+    {
+      "title": "Bab Tentang Kata-kata yang Keluar dari Tempatnya",
+      "titleArabic": "بَابُ مَا يَكُونُ فِي اللَّفْظِ مِنَ الِاعْتِرَاضِ",
+      "arabic": "هَذَا بَابُ مَا يَكُونُ فِي اللَّفْظِ مِنَ الِاعْتِرَاضِ وَالِاتِّسَاعِ فِي الْكَلَامِ، وَذَلِكَ كَقَوْلِكَ: زَيْدٌ رَأَيْتُهُ، وَزَيْدٌ ضَرَبْتُ غُلَامَهُ.",
+      "translation": "Ini adalah bab mengenai apa yang terjadi dalam lafadz berupa penyisipan dan perluasan dalam pembicaraan, seperti perkataanmu: 'Zaidun ra-aituhu' (Zaid, aku melihatnya) dan 'Zaidun dharabtu ghulamahu' (Zaid, aku memukul pembantunya)."
+    },
+    {
+      "title": "Bab Tentang Fa'il (Pelaku)",
+      "titleArabic": "بَابُ الْفَاعِلِ الَّذِي لَمْ يَتَعَدَّهُ فِعْلُهُ إِلَى مَفْعُولٍ",
+      "arabic": "وَهُوَ الَّذِي يَرْتَفِعُ بِفِعْلِهِ، وَذَلِكَ قَوْلُكَ: ذَهَبَ زَيْدٌ، وَجَلَسَ عَمْرٌو. فَالْفِعْلُ لَا يَصِلُ مِنْهُ إِلَى غَيْرِ مَنْ فَعَلَهُ.",
+      "translation": "Ini adalah bab Fa'il yang perbuatannya tidak melampaui dirinya kepada objek (fi'il lazim). Yaitu yang dirafa'kan oleh perbuatannya, seperti ucapanmu: 'Dzahaba Zaidun' (Zaid telah pergi) dan 'Jalasa 'Amrun' (Amru telah duduk). Maka perbuatan tersebut tidak sampai kepada selain pelakunya."
+    },
+    {
+      "title": "Bab Tentang Maf'ul (Objek) yang Terkena Perbuatan",
+      "titleArabic": "بَابُ الْمَفْعُولِ الَّذِي تَعَدَّى إِلَيْهِ فِعْلُ الْفَاعِلِ",
+      "arabic": "وَذَلِكَ قَوْلُكَ: ضَرَبَ زَيْدٌ عَمْرًا. فَزَيْدٌ مَرْفُوعٌ لِأَنَّهُ هُوَ الَّذِي أَحْدَثَ الضَّرْبَ، وَعَمْرٌو مَنْصُوبٌ لِأَنَّهُ هُوَ الَّذِي وَقَعَ عَلَيْهِ الضَّرْبُ.",
+      "translation": "Yaitu seperti perkataanmu: 'Dharaba Zaidun 'Amran' (Zaid memukul Amru). Zaid dirafa'kan karena dialah yang melakukan pemukulan, dan Amru dinasabkan karena dialah yang menjadi sasaran pemukulan tersebut."
+    },
+    {
+      "title": "Bab Penggunaan Kata dalam Makna Kiasan",
+      "titleArabic": "بَابُ مَا يَحْتَمِلُهُ اللَّفْظُ مِنَ الْمَعَانِي",
+      "arabic": "اعْلَمْ أَنَّ مِنْ كَلَامِهِمُ اخْتِصَارًا، وَإِيجَازًا، وَإِطَالَةً. فَكُلُّ ذَلِكَ لِمَقَاصِدِ الْمُتَكَلِّمِ فِي التَّبْلِيغِ عَنْ نَفْسِهِ.",
+      "translation": "Ketahuilah bahwa di antara ucapan orang Arab ada yang diringkas (Ikhtishar), dipadatkan (Iijaz), dan diperpanjang (Ithalah). Semua itu disesuaikan dengan maksud pembicara dalam menyampaikan pesan dari dirinya."
+    },
+    {
+      "title": "Bab Tentang Amil-Amil yang Masuk pada Mubtada'",
+      "titleArabic": "بَابُ مَا يَدْخُلُ عَلَى الْمُبْتَدَأِ مِنَ الْعَوَامِلِ",
+      "arabic": "وَهِيَ كَانَ وَأَخَوَاتُهَا، تَرْفَعُ الِاسْمَ وَتَنْصِبُ الْخَبَرَ، نَحْوُ: كَانَ زَيْدٌ مُنْطَلِقًا. لِأَنَّهَا دَخَلَتْ لِتُبَيِّنَ الزَّمَانَ.",
+      "translation": "Yaitu Kaana dan saudara-saudaranya, yang merafa'kan Isim dan menasabkan Khabar, contohnya: 'Kaana Zaidun munthaliqan'. Hal ini karena ia masuk untuk menjelaskan keterangan waktu."
+    },
+    {
+      "title": "Bab Tentang Inna dan Saudara-saudaranya",
+      "titleArabic": "بَابُ إِنَّ وَأَخَوَاتِهَا",
+      "arabic": "إِنَّ، وَأَنَّ، وَكَأَنَّ، وَلَكِنَّ، وَلَيْتَ، وَلَعَلَّ. هَذِهِ الْحُرُوفُ تَنْصِبُ الِاسْمَ وَتَرْفَعُ الْخَبَرَ، وَهِيَ تُشْبِهُ الْأَفْعَالَ الْمُتَعَدِّيَةَ.",
+      "translation": "Inna, Anna, Ka-anna, Lakinna, Laita, dan La'alla. Huruf-huruf ini menasabkan Isim dan merafa'kan Khabar, dan fungsi mereka menyerupai Fi'il-fi'il Muta'addi (transitif)."
+    },
+    {
+      "title": "Bab Tentang Huruf Jarr (Preposisi)",
+      "titleArabic": "بَابُ الْإِضَافَةِ وَحُرُوفِ الْجَرِّ",
+      "arabic": "وَهِيَ الْحُرُوفُ الَّتِي تُفْضِي بِالْأَفْعَالِ إِلَى الْأَسْمَاءِ، فَتَجُرُّهَا، نَحْوُ: مَرَرْتُ بِزَيْدٍ، وَذَهَبْتُ إِلَى عَمْرٍو.",
+      "translation": "Yaitu huruf-huruf yang menghubungkan kata kerja kepada kata benda, sehingga menjadikannya berharakat Jarr (Majrur), seperti: 'Marartu bi-Zaidin' (Aku berpapasan dengan Zaid) dan 'Dzahabtu ila 'Amrin' (Aku pergi ke Amru)."
+    },
+    {
+      "title": "Bab Tentang At-Tawaabi' (Pengikut)",
+      "titleArabic": "بَابُ النَّعْتِ وَالْعَطْفِ وَالْبَدَلِ",
+      "arabic": "وَهُوَ كُلُّ اسْمٍ يَكُونُ إِعْرَابُهُ تَابِعًا لِمَا قَبْلَهُ، كَالنَّعْتِ فِي قَوْلِكَ: رَأَيْتُ رَجُلًا كَرِيمًا، فَالْكَرِيمُ نَعْتٌ لِلرَّجُلِ.",
+      "translation": "Yaitu setiap isim yang i'rabnya mengikuti kata sebelumnya, seperti Na'at (sifat) dalam ucapanmu: 'Ra-aitu rajulan kariiman' (Aku melihat laki-laki yang mulia), maka 'Kariim' adalah sifat bagi 'Rajul'."
+    },
+    {
+      "title": "Bab Tentang Istitsna' (Pengecualian)",
+      "titleArabic": "بَابُ الِاسْتِثْنَاءِ",
+      "arabic": "وَأَصْلُهُ بـ (إِلَّا)، تَقُولُ: قَامَ الْقَوْمُ إِلَّا زَيْدًا، فَمَا بَعْدَ إِلَّا مَنْصُوبٌ لِأَنَّهُ خَرَجَ مِمَّا دَخَلَ فِيهِ الْقَوْمُ.",
+      "translation": "Asalnya menggunakan kata 'Illa', kamu berkata: 'Qaamal qaumu illa Zaidan' (Kaum itu berdiri kecuali Zaid), maka kata setelah 'Illa' dinasabkan karena ia keluar dari hukum yang berlaku bagi kaum tersebut."
+    },
+    {
+      "title": "Bab Tentang Nida' (Panggilan)",
+      "titleArabic": "بَابُ النِّدَاءِ",
+      "arabic": "وَحُرُوفُهُ يَا، وَأَيُّ، وَهَيَا. وَالْمُنَادَى يَكُونُ مَبْنِيًّا عَلَى الضَّمِّ إِذَا كَانَ مَعْرِفَةً، نَحْوُ: يَا زَيْدُ.",
+      "translation": "Huruf-hurufnya adalah Ya, Ayyu, dan Haya. Munada (yang dipanggil) dibangun (Mabni) atas Dhammah jika ia berupa Ma'rifah (tertentu), seperti: 'Ya Zaidu'."
+    },
+    {
+      "title": "Bab Tentang Larangan (An-Nahyu)",
+      "titleArabic": "بَابُ النَّهْيِ",
+      "arabic": "وَهُوَ بـ (لَا) الَّتِي تَجْزِمُ الْفِعْلَ الْمُضَارِعَ، نَحْوُ: لَا تَضْرِبْ، تُرِيدُ مَنْعَهُ مِنَ الْفِعْلِ.",
+      "translation": "Yaitu menggunakan 'La' yang menjazmkan Fi'il Mudhari', seperti: 'Laa tadhrib' (Jangan memukul), maksudnya adalah melarangnya dari melakukan perbuatan tersebut."
+    },
+    {
+      "title": "Bab Tentang Tashrif (Morfologi)",
+      "titleArabic": "بَابُ التَّصْرِيفِ وَأَبْنِيَةِ الْأَسْمَاءِ",
+      "arabic": "اعْلَمْ أَنَّ الْأَسْمَاءَ لَهَا أَوْزَانٌ تُعْرَفُ بِهَا، وَأَصْلُهَا الثُّلَاثِيُّ وَالرُّبَاعِيُّ وَالْخُمَاسِيُّ، وَمَا زَادَ فَهُوَ بِالزِّيَادَةِ.",
+      "translation": "Ketahuilah bahwa kata benda memiliki timbangan-timbangan (wazan) yang dengannya ia dikenal, asalnya adalah Tsulatsi (3 huruf), Ruba'i (4 huruf), dan Khumasi (5 huruf), dan apa yang lebih dari itu maka ia adalah tambahan."
+    },
+    {
+      "title": "Bab Tentang Hamzah",
+      "titleArabic": "بَابُ الْهَمْزَةِ",
+      "arabic": "الْهَمْزَةُ تَكُونُ فِي أَوَّلِ الْكَلِمَةِ، وَوَسَطِهَا، وَآخِرِهَا. وَتَكُونُ هَمْزَةَ وَصْلٍ وَهَمْزَةَ قَطْعٍ.",
+      "translation": "Hamzah terdapat di awal kata, tengah, dan akhir. Hamzah juga terbagi menjadi Hamzah Washal (penyambung) dan Hamzah Qath' (pemutus)."
+    },
+    {
+      "title": "Bab Tentang Idgham (Peleburan Huruf)",
+      "titleArabic": "بَابُ الْإِدْغَامِ",
+      "arabic": "وَهُوَ تَقْرِيبُ الصَّوْتِ مِنَ الصَّوْتِ، وَيَكُونُ فِي الْمِثْلَيْنِ وَالْمُتَقَارِبَيْنِ، لِتَخْفِيفِ اللَّفْظِ عَلَى اللِّسَانِ.",
+      "translation": "Idgham adalah mendekatkan satu suara ke suara lainnya, terjadi pada dua huruf yang sama atau berdekatan, tujuannya untuk meringankan pelafalan pada lisan."
+    },
+    {
+      "title": "Penutup: Pentingnya Memahami Kalam Arab",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ فِي مَعْرِفَةِ مَقَاصِدِ الْعَرَبِ",
+      "arabic": "فَهَذَا جُمْلَةُ مَا أَرَدْنَا بَيَانَهُ مِنْ أُصُولِ كَلَامِ الْعَرَبِ وَمَجَارِيهِ، لِيَعْلَمَ النَّاظِرُ فِيهِ كَيْفَ يَنْطِقُ وَكَيْفَ يَقِيسُ.",
+      "translation": "Inilah ringkasan dari apa yang ingin kami jelaskan mengenai pokok-pokok ucapan orang Arab dan alirannya, agar pembaca mengetahui bagaimana seharusnya ia berucap dan bagaimana ia melakukan kias (analogi bahasa)."
+    }
+  ]
+}
