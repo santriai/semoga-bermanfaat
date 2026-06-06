@@ -1,0 +1,140 @@
+{
+  "profile": {
+    "name": "Al-Kawkab al-Durri",
+    "originalTitle": "الْكَوْكَبُ الدُّرِّيُّ فِي تَخْرِيجِ الْفُرُوعِ عَلَى الْقَوَاعِدِ النَّحْوِيَّةِ",
+    "author": "Al-Imam Jamaluddin Abdurrahman bin al-Hasan al-Isnawi (جمال الدين الإسنوي)",
+    "field": "Takhrij al-Furu' 'ala al-Usul (Nahwu & Fiqh)",
+    "about": "Kitab ini merupakan karya monumental yang menghubungkan antara kaidah-kaidah ilmu gramatika Arab (Nahwu) dengan masalah-masalah hukum Islam (Fiqh) dalam mazhab Syafi'i. Al-Isnawi menjelaskan bagaimana perbedaan pendapat dalam masalah nahwu dapat berimplikasi langsung pada perbedaan produk hukum dalam fiqh. Pembahasan di dalamnya disusun secara sistematis mengikuti urutan bab nahwu mulai dari pembagian kata hingga huruf-huruf makna. Kitab ini menjadi rujukan utama bagi para pencari ilmu untuk memahami logika bahasa di balik istinbath hukum. Penulisnya, Imam al-Isnawi, adalah seorang ulama terkemuka yang menyandang gelar Syaikhul Syafi'iyyah pada masanya.",
+    "authorBorn": "704 H (Isnawi, Mesir)",
+    "authorDied": "772 H (Kairo, Mesir)",
+    "authorCentury": "Abad ke-8 Hijriyah"
+  },
+  "chapters": [
+    {
+      "title": "Mukadimah Penulis",
+      "titleArabic": "مُقَدِّمَةُ الْمُؤَلِّفِ",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي نَصَبَ لِلْحَقِّ أَعْلَامًا، وَرَفَعَ لِلْفَضْلِ مَقَامًا، وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ الْمَبْعُوثِ رَحْمَةً لِلْعَالَمِينَ. أَمَّا بَعْدُ: فَإِنَّ الْعَرَبِيَّةَ أَصْلُ الْأُصُولِ، وَبِهَا يَقُومُ اسْتِنْبَاطُ الْفُرُوعِ مِنَ الْمَنْقُولِ.",
+      "translation": "Segala puji bagi Allah yang telah memancangkan panji-panji kebenaran dan mengangkat kedudukan bagi keutamaan. Shalawat dan salam semoga tercurah kepada junjungan kita Nabi Muhammad yang diutus sebagai rahmat bagi semesta alam. Adapun setelah itu, sesungguhnya bahasa Arab adalah pondasi utama dari segala pondasi, dan dengannya proses pengambilan hukum (istinbath) cabang-cabang fiqh dari dalil naqli dapat ditegakkan."
+    },
+    {
+      "title": "Kaidah Isim, Fi'il, dan Huruf",
+      "titleArabic": "تَقْسِيمُ الْكَلَامِ إِلَى اسْمٍ وَفِعْلٍ وَحَرْفٍ",
+      "arabic": "الْكَلَامُ يَنْقَسِمُ إِلَى ثَلَاثَةِ أَقْسَامٍ: اسْمٍ، وَفِعْلٍ، وَحَرْفٍ جَاءَ لِمَعْنًى. وَتَظْهَرُ الْفَائِدَةُ فِي صِيَغِ الْعُقُودِ وَالْأَيْمَانِ، فَإِذَا قَالَ 'إِنْ فَعَلْتُ كَذَا' كَانَ فِعْلًا يُوجِبُ الْحِنْثَ.",
+      "translation": "Kalam terbagi menjadi tiga bagian: Isim, Fi'il, dan Huruf yang memiliki makna. Faidah (hukum fiqh) muncul dalam bentuk akad dan sumpah; jika seseorang berkata 'Jika aku melakukan ini', maka itu adalah kata kerja yang mewajibkan kaffarah sumpah jika dilanggar."
+    },
+    {
+      "title": "Isim Ma'rifah dan Nakirah",
+      "titleArabic": "الْمَعْرِفَةُ وَالنَّكِرَةُ",
+      "arabic": "النَّكِرَةُ فِي سِيَاقِ النَّفْيِ تَعُمُّ، وَفِي سِيَاقِ الْإِثْبَاتِ لَا تَعُمُّ. وَمِنْ فُرُوعِهَا: إِذَا قَالَ 'لَا أَمْلِكُ دِرْهَمًا' شَمَلَ النَّفْيُ كُلَّ دِرْهَمٍ، بِخِلَافِ 'لَهُ عَلَيَّ دِرْهَمٌ'.",
+      "translation": "Isim nakirah (umum) dalam konteks peniadaan (nafi) bermakna umum, sedangkan dalam konteks penetapan (itsbat) tidak bermakna umum. Di antara cabang hukumnya: Jika seseorang berkata 'Aku tidak memiliki satu dirham pun', maka peniadaan itu mencakup seluruh jenis dirham, berbeda dengan kalimat 'Dia memiliki hak satu dirham atasku'."
+    },
+    {
+      "title": "Isim Isyarah dan Rujukan Hukumnya",
+      "titleArabic": "أَسْمَاءُ الْإِشَارَةِ",
+      "arabic": "الْإِشَارَةُ تَقُومُ مَقَامَ الْعِبَارَةِ فِي التَّعْيِينِ. فَلَوْ قَالَ 'بِعْتُكَ هَذَا' وَأَشَارَ إِلَى عَيْنٍ غَائِبَةٍ لَمْ يَصِحَّ، لِأَنَّ مَوْضُوعَ الْإِشَارَةِ لِلْحَاضِرِ.",
+      "translation": "Isyarat kedudukannya sama dengan ucapan dalam hal penentuan (ta'yin). Maka jika seseorang berkata 'Aku menjual ini kepadamu' sambil menunjuk pada benda yang tidak ada di tempat, maka akadnya tidak sah, karena hakikat isyarat adalah untuk benda yang hadir."
+    },
+    {
+      "title": "Isim Maushul dan Keumumannya",
+      "titleArabic": "الْأَسْمَاءُ الْمَوْصُولَةُ",
+      "arabic": "الْأَسْمَاءُ الْمَوْصُولَةُ مِنَ الْمُبْهَمَاتِ الَّتِي لَا تَتَّضِحُ إِلَّا بِالصِّلَةِ. فَمَنْ قَالَ 'مَنْ دَخَلَ دَارِي فَلَهُ دِرْهَمٌ' عَمَّ كُلَّ دَاخِلٍ.",
+      "translation": "Isim-isim maushul termasuk kata-kata yang samar yang tidak menjadi jelas kecuali dengan kalimat penghubung (shilah). Maka barangsiapa berkata 'Siapa saja yang memasuki rumahku, maka baginya satu dirham', maka ini mencakup secara umum setiap orang yang masuk."
+    },
+    {
+      "title": "Kaidah Tasniyah (Dual) dan Jamak",
+      "titleArabic": "التَّثْنِيَةُ وَالْجَمْعُ",
+      "arabic": "أَقَلُّ الْجَمْعِ ثَلَاثَةٌ عِنْدَ الْأَكْثَرِ، وَقِيلَ اثْنَانِ. وَيَظْهَرُ فِي قَوْلِهِ تَعَالَى 'فَإِنْ كَانَ لَهُ إِخْوَةٌ'، فَالْإِخْوَةُ جَمْعٌ، فَهَلْ يُحْجَبُ الْأُمُّ بِاثْنَيْنِ؟",
+      "translation": "Jumlah minimal jamak adalah tiga menurut mayoritas ulama, dan ada yang berpendapat dua. Hal ini tampak dalam firman Allah: 'Jika dia (yang meninggal) mempunyai saudara-saudara'; kata 'saudara-saudara' adalah jamak, maka apakah ibu terhijab (berkurang warisannya) dengan adanya dua saudara?"
+    },
+    {
+      "title": "Hukum Fi'il Madhi dan Mudhari'",
+      "titleArabic": "الْأَفْعَالُ الْمَاضِيَةُ وَالْمُضَارِعَةُ",
+      "arabic": "الْمَاضِي يَدُلُّ عَلَى الِانْقِطَاعِ، وَالْمُضَارِعُ يَحْتَمِلُ الْحَالَ وَالِاسْتِقْبَالَ. فَإِذَا قَالَ 'أَنْتِ طَالِقٌ' فَهُوَ لِلْحَالِ، بِخِلَافِ 'تَطْلُقِينَ'.",
+      "translation": "Fi'il madhi menunjukkan kejadian yang telah selesai, sedangkan mudhari' mengandung kemungkinan masa sekarang atau masa depan. Jika suami berkata 'Engkau tertalaq' (dalam bentuk isim fail/keadaan), maka jatuh pada saat itu, berbeda dengan 'Engkau akan ditalaq'."
+    },
+    {
+      "title": "Kaidah Huruf Jar: Min (Sebagian atau Permulaan)",
+      "titleArabic": "حَرْفُ 'مِنْ' وَمَعَانِيهَا",
+      "arabic": "مِنْ تَكُونُ لِتَبْعِيضٍ وَلِابْتِدَاءِ الْغَايَةِ. فَإِذَا قَالَ 'مَسَحَ بِرَأْسِهِ' فِي الْوُضُوءِ، فَإِنْ جَعَلْنَا الْبَاءَ لِلتَّبْعِيضِ كَفَى بَعْضُ شَعْرَةٍ.",
+      "translation": "Huruf 'Min' bisa bermakna tab'idh (sebagian) atau ibtida'ul ghayah (permulaan batas). Demikian pula huruf Ba'; jika kita menjadikan Ba' pada ayat wudhu 'usaplah kepalamu' bermakna tab'idh, maka cukup mengusap sebagian rambut saja."
+    },
+    {
+      "title": "Kaidah Huruf Jar: Ila (Hingga)",
+      "titleArabic": "حَرْفُ 'إِلَى' وَدُخُولُ الْغَايَةِ",
+      "arabic": "هَلْ تَدْخُلُ الْغَايَةُ فِي الْمُغَيَّا؟ كَقَوْلِهِ تَعَالَى 'إِلَى الْمَرَافِقِ'. الشَّافِعِيُّ يُوجِبُ غَسْلَ الْمِرْفَقَيْنِ دُخُولًا لِلْغَايَةِ.",
+      "translation": "Apakah batas akhir (ghayah) masuk ke dalam hukum yang dibatasi? Seperti firman Allah: 'Hingga ke siku'. Imam Syafi'i mewajibkan membasuh kedua siku karena menganggap batas tersebut masuk ke dalam bagian yang dibasuh."
+    },
+    {
+      "title": "Kaidah Huruf Jar: Fi (Dalam)",
+      "titleArabic": "حَرْفُ 'فِي' لِلظَّرْفِيَّةِ",
+      "arabic": "فِي لِلظَّرْفِيَّةِ حَقِيقَةً. فَلَوْ قَالَ 'أَنْتِ طَالِقٌ فِي الشَّهْرِ' لَمْ يَقَعْ إِلَّا بِانْقِضَائِهِ أَوْ بِمُضِيِّ جُزْءٍ مِنْهُ عَلَى الْخِلَافِ.",
+      "translation": "Huruf 'Fi' secara hakiki bermakna keterangan tempat/waktu (zharfiyyah). Jika suami berkata 'Engkau tertalaq di bulan ini', maka talaq tidak jatuh kecuali setelah berlalunya bulan atau berlalunya sebagian darinya menurut perbedaan pendapat."
+    },
+    {
+      "title": "Huruf 'Al-Wawu' (Urutan atau Kebersamaan)",
+      "titleArabic": "حَرْفُ الْوَاوِ لِلْجَمْعِ أَمْ لِلتَّرْتِيبِ",
+      "arabic": "الْوَاوُ لِمُطْلَقِ الْجَمْعِ عِنْدَ الْجُمْهُورِ وَلَا تَقْتَضِي التَّرْتِيبَ. وَمِنْهُ الْوُضُوءُ، لَوْلَا الدَّلِيلُ الْخَارِجِيُّ لَمَا وَجَبَ التَّرْتِيبُ بَيْنَ الْأَعْضَاءِ.",
+      "translation": "Huruf Wawu bermakna penggabungan mutlak menurut mayoritas ulama dan tidak menuntut urutan (tertib). Di antaranya dalam wudhu; jika bukan karena dalil eksternal, maka urutan antar anggota wudhu tidaklah wajib hanya berdasarkan huruf Wawu dalam ayat."
+    },
+    {
+      "title": "Huruf 'Fa' (Urutan Langsung)",
+      "titleArabic": "حَرْفُ الْفَاءِ لِلتَّرْتِيبِ وَالتَّعْقِيبِ",
+      "arabic": "الْفَاءُ تَقْتَضِي التَّرْتِيبَ وَالتَّعْقِيبَ. فَلَوْ قَالَ 'إِنْ دَخَلْتِ الدَّارَ فَأَنْتِ طَالِقٌ' وَقَعَ الطَّلَاقُ عَقِبَ الدُّخُولِ بِلَا مُهْلَةٍ.",
+      "translation": "Huruf Fa' menuntut urutan dan ketersambungan langsung. Jika suami berkata 'Jika engkau masuk rumah maka (fa) engkau tertalaq', maka talaq jatuh tepat setelah masuk tanpa ada jeda waktu."
+    },
+    {
+      "title": "Huruf 'Thumma' (Urutan Berjarak)",
+      "titleArabic": "حَرْفُ 'ثُمَّ' لِلتَّرَاخِي",
+      "arabic": "ثُمَّ لِلتَّرْتِيبِ مَعَ التَّرَاخِي. وَيَظْهَرُ أَثَرُهَا فِي الْأَيْمَانِ وَالْعُقُودِ وَتَرْتِيبِ الْعِبَادَاتِ كَالْحَجِّ وَالْعُمْرَةِ.",
+      "translation": "Huruf Thumma bermakna urutan dengan jeda waktu (tarakhi). Pengaruhnya tampak dalam sumpah, akad, dan urutan ibadah seperti antara haji dan umrah."
+    },
+    {
+      "title": "Kaidah Huruf 'Aw' (Pilihan atau Ragu)",
+      "titleArabic": "حَرْفُ 'أَوْ' لِلتَّخْيِيرِ أَوِ الشَّكِّ",
+      "arabic": "أَوْ لِلتَّخْيِيرِ بَعْدَ الطَّلَبِ وَلِلشَّكِّ بَعْدَ الْخَبَرِ. فَمَنْ نَذَرَ 'صَوْمَ يَوْمٍ أَوْ يَوْمَيْنِ' وَجَبَ الْأَقَلُّ يَقِينًا.",
+      "translation": "Huruf 'Aw' bermakna pilihan (takhir) setelah kalimat perintah dan bermakna keraguan (syak) setelah kalimat berita. Barangsiapa bernazar 'puasa satu atau dua hari', maka yang wajib secara yakin adalah yang paling sedikit."
+    },
+    {
+      "title": "Huruf 'Hatta' (Hingga/Sampai)",
+      "titleArabic": "حَرْفُ 'حَتَّى' الْجَارَّةُ",
+      "arabic": "حَتَّى بِمَعْنَى إِلَى. فَلَوْ قَالَ 'بِعْتُكَ هَذِهِ الْأَشْجَارَ حَتَّى هَذِهِ الشَّجَرَةِ'، دَخَلَتِ الشَّجَرَةُ فِي الْبَيْعِ.",
+      "translation": "Huruf 'Hatta' semakna dengan 'Ila'. Jika seseorang berkata 'Aku menjual pohon-pohon ini kepadamu hingga pohon yang ini', maka pohon yang ditunjuk tersebut masuk ke dalam akad jual beli."
+    },
+    {
+      "title": "Kaidah Syarat dengan 'In' (Jika)",
+      "titleArabic": "أَدَوَاتُ الشَّرْطِ 'إِنْ'",
+      "arabic": "إِنْ حَرْفُ شَرْطٍ يَعْقِدُ السَّبَبَ بِالْمُسَبَّبِ. وَالطَّلَاقُ الْمُعَلَّقُ بِالشَّرْطِ لَا يَقَعُ قَبْلَ وُجُودِ الصِّفَةِ.",
+      "translation": "Huruf 'In' adalah huruf syarat yang mengikat sebab dengan akibatnya. Talaq yang digantungkan pada syarat tidak akan jatuh sebelum sifat/syarat tersebut terpenuhi."
+    },
+    {
+      "title": "Kaidah 'Lau' (Seandainya)",
+      "titleArabic": "حَرْفُ 'لَوْ' لِلِامْتِنَاعِ",
+      "arabic": "لَوْ حَرْفُ امْتِنَاعٍ لِامْتِنَاعٍ. فَلَوْ قَالَ 'لَوْ جِئْتَنِي لَأَكْرَمْتُكَ' دَلَّ عَلَى أَنَّهُ مَا جَاءَهُ وَلَا أَكْرَمَهُ.",
+      "translation": "Huruf 'Lau' adalah huruf yang menunjukkan ketidakberadaan sesuatu karena ketidakberadaan hal lain. Jika berkata 'Seandainya engkau mendatangiku maka aku akan memuliakanmu', ini menunjukkan bahwa dia tidak datang dan tidak dimuliakan."
+    },
+    {
+      "title": "Kaidah Istitsna (Pengecualian) dengan 'Illa'",
+      "titleArabic": "الِاسْتِثْنَاءُ بِـ 'إِلَّا'",
+      "arabic": "الِاسْتِثْنَاءُ مِنَ النَّفْيِ إِثْبَاتٌ وَمِنَ الْإِثْبَاتِ نَفْيٌ. فَقَوْلُ 'لَا إِلَهَ إِلَّا اللَّهُ' إِثْبَاتٌ لِلْأُلُوهِيَّةِ لِلَّهِ وَحْدَهُ.",
+      "translation": "Pengecualian (istitsna) dari peniadaan adalah penetapan, dan dari penetapan adalah peniadaan. Maka ucapan 'Tiada tuhan selain Allah' adalah penetapan ketuhanan hanya bagi Allah semata."
+    },
+    {
+      "title": "Kaidah Mudhaf dan Mudhaf Ilaih",
+      "titleArabic": "الْإِضَافَةُ وَأَحْكَامُهَا",
+      "arabic": "الْإِضَافَةُ تَقْتَضِي الِاخْتِصَاصَ. فَمَنْ أَضَافَ مَالًا إِلَى غَيْرِهِ 'مَالُ زَيْدٍ' لَمْ يَجُزْ لَهُ التَّصَرُّفُ فِيهِ إِلَّا بِإِذْنِهِ.",
+      "translation": "Idhafah (penyandaran kata) menuntut pengkhususan. Barangsiapa menyandarkan harta kepada orang lain, seperti 'Harta Zaid', maka tidak boleh baginya mentasharrufkan harta tersebut kecuali dengan izin Zaid."
+    },
+    {
+      "title": "Kaidah Ammar (Perintah) dan Maknanya",
+      "titleArabic": "صِيغَةُ الْأَمْرِ وَالْوُجُوبِ",
+      "arabic": "الْأَمْرُ لِلْوُجُوبِ مَا لَمْ تَصْرِفْهُ قَرِينَةٌ. وَالنَّهْيُ لِلتَّحْرِيمِ وَيَقْتَضِي الْفَسَادَ عِنْدَ الشَّافِعِيِّ.",
+      "translation": "Kalimat perintah (amr) bermakna wajib selama tidak ada indikasi lain yang memalingkannya. Dan larangan (nahyu) bermakna haram serta menuntut rusaknya (batalnya) suatu akad menurut Imam Syafi'i."
+    },
+    {
+      "title": "Penutup Kitab",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ",
+      "arabic": "هَذَا مَا تَيَسَّرَ جَمْعُهُ مِنْ قَوَاعِدِ الْعَرَبِيَّةِ وَتَنْزِيلِ الْفُرُوعِ عَلَيْهَا، وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ.",
+      "translation": "Inilah yang dimudahkan untuk dikumpulkan dari kaidah-kaidah bahasa Arab serta penerapan cabang-cabang fiqh di atasnya. Segala puji bagi Allah, Tuhan semesta alam."
+    }
+  ]
+}
