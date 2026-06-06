@@ -1,0 +1,194 @@
+{
+  "profile": {
+    "name": "Al-Kifayah fi 'Ilm al-Riwayah",
+    "originalTitle": "الكِفَايَةُ فِي عِلْمِ الرِّوَايَةِ",
+    "author": "Al-Hafiz Abu Bakr Ahmad bin 'Ali bin Thabit al-Khatib al-Baghdadi",
+    "field": "Musthalah al-Hadith (Ilmu Hadis)",
+    "about": "Kitab Al-Kifayah merupakan salah satu karya paling monumental dan otoritatif dalam sejarah kodifikasi ilmu hadis. Penulisnya, Al-Khatib al-Baghdadi, adalah ulama abad ke-5 Hijriah yang dijuluki sebagai bapak pembaharu ilmu riwayah, di mana setiap ahli hadis setelahnya dianggap 'berhutang budi' kepada karya-karyanya. Kitab ini secara khusus membahas kaidah-kaidah periwayatan, syarat-syarat perawi, metodologi penerimaan hadis (tahammul), serta etika dalam menyampaikan (ada') hadis. Pembahasannya mencakup perdebatan metodologis antara ahli hadis dan ahli fiqih (fuqaha). Al-Kifayah menjadi rujukan utama bagi penyusunan standar akurasi dalam transmisi hadis di dunia Islam.",
+    "authorBorn": "392 H (Baghdad, Irak)",
+    "authorDied": "463 H (Baghdad, Irak)",
+    "authorCentury": "Abad ke-5 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah Kitab",
+      "titleArabic": "مُقَدِّمَةُ الْكِتَابِ",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي بَدَأَ خَلْقَ الْإِنْسَانِ، وَأَلْهَمَهُ مَعْرِفَةَ الْبَيَانِ، وَهَدَاهُ لِلدِّينِ وَالْإِيمَانِ. أَمَّا بَعْدُ: فَإِنَّ أَشْرَفَ الْعُلُومِ مَا كَانَ لِلشَّرِيعَةِ رَسْمًا، وَلِأُمُورِ الدِّينِ حِفْظًا، وَذَلِكَ عِلْمُ حَدِيثِ رَسُولِ اللَّهِ ﷺ.",
+      "translation": "Segala puji bagi Allah yang memulai penciptaan manusia, mengilhaminya kemampuan menjelaskan, dan memberinya hidayah kepada agama dan iman. Adapun setelah itu: Sesungguhnya ilmu yang paling mulia adalah yang menjadi dasar bagi syariat dan penjaga bagi urusan agama, yaitu ilmu hadis Rasulullah ﷺ."
+    },
+    {
+      "title": "Bab Perintah Memelihara Sunnah",
+      "titleArabic": "بَابُ الْحَثِّ عَلَى حِفْظِ السُّنَّةِ",
+      "arabic": "قَالَ اللَّهُ تَعَالَى: {وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا}. فَالْحَدِيثُ هُوَ مِفْتَاحُ الْقُرْآنِ وَبَيَانُهُ، وَبِهِ يُعْرَفُ الْمَنْسُوخُ مِنَ النَّاسِخِ.",
+      "translation": "Allah Ta'ala berfirman: 'Apa yang diberikan Rasul kepadamu maka terimalah, dan apa yang dilarangnya bagimu maka tinggalkanlah'. Maka hadis adalah kunci Al-Qur'an dan penjelasnya, dan dengannya diketahui mana yang mansukh (dihapus) dari yang nasikh (menghapus)."
+    },
+    {
+      "title": "Bab Sifat Khabar (Berita) dan Pembagiannya",
+      "titleArabic": "بَابُ ذِكْرِ أَخْبَارِ الرَّسُولِ ﷺ وَصِفَاتِهَا",
+      "arabic": "الْأَخْبَارُ تَنْقَسِمُ إِلَى مَاتَوَاتَرَ وَإِلَى مَا كَانَ آحَادًا. فَالْمُتَوَاتِرُ مَا نَقَلَهُ جَمَاعَةٌ عَنْ جَمَاعَةٍ يُؤْمَنُ تَوَاطُؤُهُمْ عَلَى الْكَذِبِ.",
+      "translation": "Berita-berita itu terbagi menjadi apa yang mutawatir dan apa yang ahad. Maka mutawatir adalah apa yang diriwayatkan oleh sekelompok orang dari sekelompok orang lainnya yang mustahil bagi mereka untuk bersepakat dalam kebohongan."
+    },
+    {
+      "title": "Bab Kewajiban Menerima Berita Ahad",
+      "titleArabic": "بَابُ وُجُوبِ الْقَبُولِ لِخَبَرِ الْوَاحِدِ",
+      "arabic": "إِنَّ خَبَرَ الْوَاحِدِ الْعَدْلِ مَقْبُولٌ فِي الشَّرِيعَةِ، وَيَجِبُ الْعَمَلُ بِهِ إِذَا اتَّصَلَ سَنَدُهُ، وَثَبَتَتْ عَدَالَةُ نَاقِلِهِ.",
+      "translation": "Sesungguhnya berita dari satu orang (ahad) yang adil itu diterima dalam syariat, dan wajib diamalkan apabila sanadnya bersambung serta telah tetap keadilan pembawanya."
+    },
+    {
+      "title": "Bab Sifat Perawi yang Diterima Riwayatnya",
+      "titleArabic": "بَابُ صِفَةِ مَنْ تُقْبَلُ رِوَايَتُهُ",
+      "arabic": "لَا يُقْبَلُ الْحَدِيثُ إِلَّا مِمَّنْ كَانَ ثِقَةً فِي دِينِهِ، صَادِقًا فِي لَهْجَتِهِ، مَأْمُونًا فِي رِوَايَتِهِ، عَالِمًا بِمَا يُحِيلُ الْمَعَانِي.",
+      "translation": "Hadis tidak diterima kecuali dari orang yang terpercaya (tsiqah) dalam agamanya, jujur dalam ucapannya, amanah dalam riwayatnya, serta mengetahui hal-hal yang dapat mengubah makna hadis."
+    },
+    {
+      "title": "Bab Keadilan (Al-Adalah) Para Sahabat",
+      "titleArabic": "بَابُ ذِكْرِ عَدَالَةِ الصَّحَابَةِ",
+      "arabic": "كُلُّ الصَّحَابَةِ عُدُولٌ بِنَصِّ الْقُرْآنِ وَالسُّنَّةِ، فَلَا يَحْتَاجُونَ إِلَى تَزْكِيَةٍ مِنْ أَحَدٍ مِنَ الْخَلْقِ.",
+      "translation": "Seluruh Sahabat Nabi adalah adil (memiliki kredibilitas moral tinggi) berdasarkan nash Al-Qur'an dan Sunnah, sehingga mereka tidak membutuhkan rekomendasi (tazkiyah) dari siapapun di antara makhluk."
+    },
+    {
+      "title": "Bab Jarh wa Ta'dil (Kecaman dan Rekomendasi)",
+      "titleArabic": "بَابُ الْجَرْحِ وَالتَّعْدِيلِ",
+      "arabic": "الْجَرْحُ وَالتَّعْدِيلُ هُوَ الْمِيزَانُ الَّذِي يُعْرَفُ بِهِ صِحَّةُ النَّقْلِ، وَلَا يَجُوزُ الْكَلَامُ فِي الرُّوَاةِ إِلَّا لِمَنْ كَانَ عَالِمًا بِأَسْبَابِ الْجَرْحِ.",
+      "translation": "Al-Jarh wa al-Ta'dil adalah timbangan yang dengannya diketahui kebenaran sebuah nukilan, dan tidak boleh membicarakan (cacat) perawi kecuali bagi orang yang mengetahui sebab-sebab kecaman."
+    },
+    {
+      "title": "Bab Berapa Orang yang Dibutuhkan untuk Ta'dil",
+      "titleArabic": "بَابُ عَدَدِ مَنْ يُحْتَاجُ إِلَيْهِ فِي التَّعْدِيلِ",
+      "arabic": "اخْتَلَفُوا فِي التَّعْدِيلِ، فَمِنْهُمْ مَنْ قَالَ: لَا يُقْبَلُ إِلَّا بِاثْنَيْنِ، وَالصَّحِيحُ أَنَّهُ يُقْبَلُ بِوَاحِدٍ فِي الرِّوَايَةِ.",
+      "translation": "Para ulama berbeda pendapat dalam hal ta'dil (memberi rekomendasi adil), sebagian mereka berkata: 'Tidak diterima kecuali dengan kesaksian dua orang', namun yang shahih adalah ia diterima dengan pernyataan satu orang dalam hal riwayat."
+    },
+    {
+      "title": "Bab Riwayat dari Orang yang Melakukan Bid'ah",
+      "titleArabic": "بَابُ الرِّوَايَةِ عَنْ أَهْلِ الْأَهْوَاءِ وَالْبِدَعِ",
+      "arabic": "تُقْبَلُ رِوَايَةُ الْمُبْتَدِعِ إِذَا كَانَ صَادِقًا وَلَمْ يَكُنْ دَاعِيَةً إِلَى بِدْعَتِهِ، وَلَا يَكُونُ مِمَّنْ يَسْتَحِلُّ الْكَذِبَ نُصْرَةً لِمَذْهَبِهِ.",
+      "translation": "Riwayat pelaku bid'ah dapat diterima jika ia jujur dan bukan merupakan penyeru (da'i) kepada bid'ahnya, serta bukan termasuk orang yang menghalalkan dusta demi membela mazhabnya."
+    },
+    {
+      "title": "Bab Riwayat dari Anak Kecil dan Orang Kafir",
+      "titleArabic": "بَابُ رِوَايَةِ الصَّغِيرِ وَالْكَافِرِ",
+      "arabic": "لَا تُقْبَلُ رِوَايَةُ الْكَافِرِ حَالَ كُفْرِهِ، وَلَا الصَّغِيرِ حَالَ صِغَرِهِ، لَكِنْ إِذَا تَحَمَّلَا فِي تِلْكَ الْحَالِ ثُمَّ أَدَّيَا بَعْدَ الْإِسْلَامِ وَالْبُلُوغِ قُبِلَتْ.",
+      "translation": "Riwayat orang kafir tidak diterima saat kekafirannya, begitu pula anak kecil saat masa kecilnya. Namun, jika mereka menerima hadis (tahammul) dalam kondisi tersebut lalu menyampaikannya (ada') setelah masuk Islam dan baligh, maka riwayatnya diterima."
+    },
+    {
+      "title": "Bab Perbedaan Antara Kesaksian dan Periwayatan",
+      "titleArabic": "بَابُ الْفَرْقِ بَيْنَ الشَّهَادَةِ وَالرِّوَايَةِ",
+      "arabic": "الرِّوَايَةُ أَفْسَحُ مِنَ الشَّهَادَةِ، فَإِنَّ الشَّهَادَةَ يُشْتَرَطُ فِيهَا الْحُرِّيَّةُ وَالْعَدَدُ وَالذُّكُورِيَّةُ فِي مَوَاضِعَ، بِخِلَافِ الرِّوَايَةِ.",
+      "translation": "Periwayatan lebih luas cakupannya daripada kesaksian (syahadah). Sebab kesaksian mensyaratkan status merdeka, jumlah orang, dan jenis kelamin laki-laki dalam beberapa hal, berbeda dengan periwayatan."
+    },
+    {
+      "title": "Bab Riwayat Secara Makna",
+      "titleArabic": "بَابُ الرِّوَايَةِ عَلَى الْمَعْنَى",
+      "arabic": "تَجُوزُ الرِّوَايَةُ بِالْمَعْنَى لِمَنْ كَانَ عَالِمًا بِالْأَلْفَاظِ وَمَقَاصِدِهَا، بَصِيرًا بِمَا يُحِيلُ مَعَانِيهَا.",
+      "translation": "Diperbolehkan meriwayatkan hadis secara makna bagi orang yang mengetahui lafaz-lafaz serta maksud-maksudnya, serta jeli terhadap hal-hal yang dapat mengubah maknanya."
+    },
+    {
+      "title": "Bab Menulis Hadis dan Perintah Membetulkannya",
+      "titleArabic": "بَابُ كِتَابَةِ الْحَدِيثِ وَالْأَمْرِ بِتَصْحِيحِهِ",
+      "arabic": "يَنْبَغِي لِلطَّالِبِ أَنْ يَكْتُبَ الْحَدِيثَ وَيُقَيِّدَهُ بِالْحُرُوفِ، وَيَجْتَهِدَ فِي ضَبْطِ الْمُشْكِلِ مِنْهُ وَإِعْجَامِهِ.",
+      "translation": "Sepantasnya bagi penuntut ilmu untuk menulis hadis dan mengikatnya dengan huruf-huruf, serta bersungguh-sungguh dalam memberi harakat pada kata yang sulit dan titik pada hurufnya."
+    },
+    {
+      "title": "Bab Menghadiri Majelis Hadis (Sima')",
+      "titleArabic": "بَابُ صِفَةِ السَّمَاعِ وَمَا يَتَعَلَّقُ بِهِ",
+      "arabic": "أَعْلَى وُجُوهِ التَّحَمُّلِ هُوَ سَمَاعُ لَفْظِ الشَّيْخِ، ثُمَّ الْقِرَاءَةُ عَلَيْهِ، ثُمَّ الْإِجَازَةُ.",
+      "translation": "Tingkatan tertinggi dalam penerimaan hadis (tahammul) adalah mendengar langsung lafaz dari Syaikh (guru), kemudian membacakan di hadapannya (qira'ah), kemudian ijazah."
+    },
+    {
+      "title": "Bab Tentang Ijazah",
+      "titleArabic": "بَابُ الْقَوْلِ فِي الْإِجَازَةِ",
+      "arabic": "الْإِجَازَةُ جَائِزَةٌ عِنْدَ جَمَاهِيرِ أَهْلِ الْعِلْمِ، وَهِيَ أَنْ يَقُولَ الشَّيْخُ: أَجَزْتُ لَكَ أَنْ تَرْوِيَ عَنِّي مَسْمُوعَاتِي.",
+      "translation": "Ijazah diperbolehkan menurut mayoritas ahli ilmu, yaitu seorang Syaikh berkata: 'Aku mengizinkanmu untuk meriwayatkan dariku apa yang telah aku dengar'."
+    },
+    {
+      "title": "Bab Tentang Munawalah (Pemberian Kitab)",
+      "titleArabic": "بَابُ الْمُنَاوَلَةِ",
+      "arabic": "الْمُنَاوَلَةُ أَنْ يُنَاوِلَ الشَّيْخُ الطَّالِبَ أَصْلَ سَمَاعِهِ أَوْ فَرْعًا مُقَابَلًا بِهِ وَيَقُولَ: هَذَا رِوَايَتِي فَتَحَمَّلْهُ عَنِّي.",
+      "translation": "Munawalah adalah seorang Syaikh menyerahkan kepada murid naskah asli pendengarannya atau salinan yang telah dicocokkan, lalu berkata: 'Ini adalah riwayatku, maka ambillah dariku'."
+    },
+    {
+      "title": "Bab Tentang Mukatabah (Korespondensi)",
+      "titleArabic": "بَابُ الْمُكَاتَبَةِ",
+      "arabic": "الْمُكَاتَبَةُ هِيَ أَنْ يَكْتُبَ الشَّيْخُ إِلَى الْغَائِبِ بِحَدِيثِهِ لِيَرْوِيَهُ عَنْهُ، وَهِيَ مَعْمُولٌ بِهَا عِنْدَ أَهْلِ الْعِلْمِ.",
+      "translation": "Mukatabah adalah seorang Syaikh menuliskan hadisnya kepada murid yang tidak hadir agar ia meriwayatkannya, dan ini diamalkan di kalangan ahli ilmu."
+    },
+    {
+      "title": "Bab Riwayat Secara Wijadah",
+      "titleArabic": "بَابُ الْوِجَادَةِ",
+      "arabic": "الْوِجَادَةُ أَنْ يَجِدَ الطَّالِبُ أَحَادِيثَ بِخَطِّ شَيْخٍ يَعْرِفُهُ وَلَمْ يَسْمَعْهَا مِنْهُ، فَيَقُولُ: وَجَدْتُ بِخَطِّ فُلَانٍ.",
+      "translation": "Wijadah adalah seorang murid menemukan hadis-hadis dalam tulisan tangan seorang Syaikh yang ia kenal namun ia tidak mendengarnya langsung, maka ia berkata: 'Aku menemukan dalam tulisan si fulan'."
+    },
+    {
+      "title": "Bab Etika Mencari Hadis (Talab)",
+      "titleArabic": "بَابُ آدَابِ طَلَبِ الْحَدِيثِ",
+      "arabic": "يَنْبَغِي لِلطَّالِبِ أَنْ يُخْلِصَ نِيَّتَهُ لِلَّهِ، وَأَنْ يَبْدَأَ بِالْأَهَمِّ فَالْأَهَمِّ، وَيَحْتَرِمَ مَشَايِخَهُ وَيُوَقِّرَهُمْ.",
+      "translation": "Sepantasnya bagi penuntut ilmu untuk mengikhlaskan niatnya karena Allah, memulai dari yang paling penting, serta menghormati dan mengagungkan guru-gurunya."
+    },
+    {
+      "title": "Bab Etika Menyampaikan Hadis (Ada')",
+      "titleArabic": "بَابُ آدَابِ الْمُحَدِّثِ عِنْدَ التَّحْدِيثِ",
+      "arabic": "عَلَى الْمُحَدِّثِ أَنْ لَا يُحَدِّثَ بِحَضْرَةِ مَنْ هُوَ أَوْلَى مِنْهُ، وَأَنْ يَتَطَهَّرَ وَيَجْلِسَ بِوَقَارٍ وَسَكِينَةٍ.",
+      "translation": "Wajib bagi seorang ahli hadis untuk tidak mengajar di hadapan orang yang lebih utama darinya, dan hendaknya ia bersuci serta duduk dengan tenang dan penuh wibawa."
+    },
+    {
+      "title": "Bab Riwayat dari yang Lebih Muda (Riwayat al-Akabir 'an al-Asaghir)",
+      "titleArabic": "بَابُ رِوَايَةِ الْأَكَابِرِ عَنِ الْأَصَاغِرِ",
+      "arabic": "قَدْ رَوَى الصَّحَابَةُ عَنِ التَّابِعِينَ، وَالْأَئِمَّةُ عَنْ تَلَامِيذِهِمْ لِفَضْلِ الْعِلْمِ وَبَرَكَتِهِ.",
+      "translation": "Sungguh para Sahabat telah meriwayatkan dari para Tabi'in, dan para Imam meriwayatkan dari murid-murid mereka karena keutamaan ilmu dan keberkahannya."
+    },
+    {
+      "title": "Bab Riwayat yang Bersifat Musalsal",
+      "titleArabic": "بَابُ الْمُسَلْسَلِ مِنَ الْأَحَادِيثِ",
+      "arabic": "الْمُسَلْسَلُ مَا تَتَابَعَ رُوَاتُهُ عَلَى صِفَةٍ وَاحِدَةٍ فِي النَّقْلِ، كَقَوْلِ كُلِّ وَاحِدٍ: أَشْهَدُ بِاللَّهِ.",
+      "translation": "Musalsal adalah hadis yang para perawinya secara berurutan mengikuti satu keadaan/sifat yang sama dalam penukilan, seperti setiap perawi berkata: 'Aku bersaksi demi Allah'."
+    },
+    {
+      "title": "Bab Nama-nama yang Mirip (Al-Muttafiq wa al-Muftariq)",
+      "titleArabic": "بَابُ الْمُتَّفِقِ وَالْمُفْتَرِقِ",
+      "arabic": "هُوَ مَا اتَّفَقَ اسْمُهُ وَاسْمُ أَبِيهِ نِطْقًا وَخَطًّا، وَافْتَرَقَتْ أَشْخَاصُهُمْ، وَهُوَ مَزَلَّةُ قَدَمٍ لِلْجَاهِلِ.",
+      "translation": "Yaitu perawi yang nama dan nama ayahnya sama secara ucapan dan tulisan, namun orangnya berbeda. Ini adalah tempat tergelincirnya bagi orang yang bodoh."
+    },
+    {
+      "title": "Bab Nama yang Mirip Tulisan Beda Ucapan (Al-Mu'talif wa al-Mukhtalif)",
+      "titleArabic": "بَابُ الْمُؤْتَلِفِ وَالْمُخْتَلِفِ",
+      "arabic": "هُوَ مَا اتَّفَقَ خَطُّهُ وَاخْتَلَفَ لَفْظُهُ، وَهُوَ مِنْ أَهَمِّ أَنْوَاعِ عِلْمِ الْحَدِيثِ لِتَجَنُّبِ التَّصْحِيفِ.",
+      "translation": "Yaitu nama yang tulisannya sama namun ucapannya berbeda. Ini termasuk jenis ilmu hadis paling penting untuk menghindari kesalahan baca (tashif)."
+    },
+    {
+      "title": "Bab Hadis Mudraj (Sisipan)",
+      "titleArabic": "بَابُ الْمُدْرَجِ فِي الْحَدِيثِ",
+      "arabic": "الْمُدْرَجُ هُوَ مَا أُدْخِلَ فِي السَّنَدِ أَوْ فِي الْمَتْنِ مِنْ كَلَامِ بَعْضِ الرُّوَاةِ وَلَيْسَ مِنْ حَدِيثِ النَّبِيِّ ﷺ.",
+      "translation": "Mudraj adalah sesuatu yang dimasukkan ke dalam sanad atau matan yang berasal dari ucapan sebagian perawi dan bukan merupakan hadis Nabi ﷺ."
+    },
+    {
+      "title": "Bab Hadis Maqlub (Terbalik)",
+      "titleArabic": "بَابُ الْمَقْلُوبِ",
+      "arabic": "الْمَقْلُوبُ مَا أُبْدِلَ فِيهِ رَاوٍ بِرَاوٍ، أَوْ لَفْظٌ بِلَفْظٍ فِي الْمَتْنِ عَلَى وَجْهِ الْخَطَأِ أَوْ الِاخْتِبَارِ.",
+      "translation": "Maqlub adalah hadis yang di dalamnya tertukar seorang perawi dengan perawi lain, atau satu lafaz dengan lafaz lain dalam matan, baik karena kesalahan atau untuk ujian."
+    },
+    {
+      "title": "Bab Gharib dan 'Aziz",
+      "titleArabic": "بَابُ الْغَرِيبِ وَالْعَزِيزِ",
+      "arabic": "الْغَرِيبُ مَا انْفَرَدَ بِهِ رَاوٍ وَاحِدٌ فِي أَيِّ مَوْضِعٍ مِنَ السَّنَدِ، وَالْعَزِيزُ مَا رَوَاهُ اثْنَانِ.",
+      "translation": "Gharib adalah hadis yang hanya diriwayatkan oleh satu orang perawi di posisi manapun dalam sanad, sedangkan Aziz adalah apa yang diriwayatkan oleh dua orang."
+    },
+    {
+      "title": "Bab Hadis Mursal",
+      "titleArabic": "بَابُ الْمُرْسَلِ وَحُكْمِهِ",
+      "arabic": "الْمُرْسَلُ مَا رَفَعَهُ التَّابِعِيُّ إِلَى النَّبِيِّ ﷺ، وَاخْتَلَفَ الْفُقَهَاءُ فِي الِاحْتِجَاجِ بِهِ.",
+      "translation": "Mursal adalah hadis yang diangkat oleh seorang Tabi'in langsung kepada Nabi ﷺ, dan para ahli fiqih berbeda pendapat mengenai pengamalannya sebagai hujah."
+    },
+    {
+      "title": "Bab Hadis Munqati' dan Mu'dal",
+      "titleArabic": "بَابُ الْمُنْقَطِعِ وَالْمُعْضَلِ",
+      "arabic": "الْمُنْقَطِعُ مَا سَقَطَ مِنْ سَنَدِهِ رَاوٍ وَاحِدٌ، وَالْمُعْضَلُ مَا سَقَطَ مِنْهُ اثْنَانِ فَصَاعِدًا عَلَى التَّوَالِي.",
+      "translation": "Munqati' adalah hadis yang gugur dari sanadnya satu orang perawi, sedangkan Mu'dal adalah yang gugur darinya dua orang atau lebih secara berturut-turut."
+    },
+    {
+      "title": "Khatimah (Penutup)",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ",
+      "arabic": "هَذَا مَا تَيَسَّرَ جَمْعُهُ فِي هَذَا الْكِتَابِ مِنْ قَوَانِينِ الرِّوَايَةِ، وَنَسْأَلُ اللَّهَ أَنْ يَنْفَعَ بِهِ وَيَجْعَلَهُ خَالِصًا لِوَجْهِهِ الْكَرِيمِ.",
+      "translation": "Inilah apa yang dimudahkan untuk dikumpulkan dalam kitab ini mengenai aturan-aturan periwayatan, kami memohon kepada Allah agar menjadikannya bermanfaat dan ikhlas karena Wajah-Nya yang Mulia."
+    }
+  ]
+}
