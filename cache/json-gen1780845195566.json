@@ -1,0 +1,11 @@
+{
+  "question": "Dalam ilmu Tajwid, terdapat hukum Mad yang dianggap sebagai 'akar' atau 'dasar' karena panjangnya tidak boleh lebih atau kurang dari dua harakat (satu alif). Apakah nama hukum Mad tersebut dan apa syarat terjadinya?",
+  "options": [
+    "Mad Far'i; jika ada Hamzah setelah huruf Mad",
+    "Mad Thabi'i; jika huruf Wawu sukun didahului dhommah, Ya' sukun didahului kasroh, atau Alif didahului fathah",
+    "Mad Layyin; jika ada huruf Lin (Wawu/Ya sukun) didahului fathah",
+    "Mad Aridh Lissukun; jika Mad Thabi'i berada di akhir ayat atau waqaf"
+  ],
+  "correctIndex": 1,
+  "explanation": "Mad Thabi'i (atau Mad Asli) disebut dasar karena ia tidak bergantung pada sebab luar seperti Hamzah atau Sukun. Aturannya sangat spesifik pada keselarasan harakat dengan huruf mad-nya: Alif didahului Fathah, Ya mati didahului Kasrah, dan Wawu mati didahului Dhammah dengan durasi tepat 2 harakat."
+}
