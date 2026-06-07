@@ -1,0 +1,344 @@
+{
+  "profile": {
+    "name": "Al-Munir fi al-Aqidah wa al-Syariah wa al-Manhaj",
+    "originalTitle": "اَلتَّفْسِيْرُ الْمُنِيْرُ فِي الْعَقِيْدَةِ وَالشَّرِيْعَةِ وَالْمَنْهَجِ",
+    "author": "Prof. Dr. Wahbah bin Mustafa al-Zuhayli",
+    "field": "Tafsir (Modern-Analitis)",
+    "about": "Kitab ini merupakan karya monumental kontemporer yang menggabungkan metodologi tafsir bil-ma'tsur dan bil-ra'yi dengan sistematika modern. Wahbah al-Zuhayli menyusunnya dengan membagi setiap pembahasan ayat ke dalam aspek kebahasaan, sebab nuzul, tafsir mendalam, serta intisari dalam bidang Aqidah, Syariah, dan Manhaj. Kitab ini sangat populer di kalangan akademisi dan pesantren karena pendekatannya yang moderat (wasathiyah) dan relevan dengan problematika zaman. Penulis berusaha menjembatani warisan intelektual klasik dengan tuntutan realitas sosial masa kini.",
+    "authorBorn": "Deir Atiyah, Damaskus, Suriah (1932)",
+    "authorDied": "6 Maret 2015",
+    "authorCentury": "Abad 14-15 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah Penulis",
+      "titleArabic": "خُطْبَةُ الْكِتَابِ",
+      "arabic": "اَلْحَمْدُ لِلّٰهِ الَّذِيْ أَنْزَلَ عَلَى عَبْدِهِ الْكِتَابَ وَلَمْ يَجْعَلْ لَهُ عِوَجًا. اَمَّا بَعْدُ، فَهَذَا تَفْسِيْرٌ جَامِعٌ بَيْنَ الْأَصَالَةِ وَالْمُعَاصَرَةِ.",
+      "translation": "Segala puji bagi Allah yang telah menurunkan Al-Kitab kepada hamba-Nya dan tidak menjadikannya bengkok. Adapun setelah itu, ini adalah tafsir yang menghimpun antara orisinalitas turath dan kemodernan."
+    },
+    {
+      "title": "Metodologi Penulisan Tafsir",
+      "titleArabic": "مَنْهَجُ الْكِتَابِ فِي التَّفْسِيْرِ",
+      "arabic": "تَقْسِيْمُ الْآيَاتِ إِلَى مَجْمُوْعَاتٍ، ثُمَّ بَيَانُ الْمُفْرَدَاتِ، ثُمَّ سَبَبُ النُّزُوْلِ، ثُمَّ التَّفْسِيْرُ وَالْبَيَانُ، ثُمَّ فِقْهُ الْحَيَاةِ أَوِ الْأَحْكَامُ.",
+      "translation": "Pembagian ayat ke dalam kelompok-kelompok, kemudian penjelasan kosa kata, sebab nuzul, tafsir dan penjelasan, kemudian fiqh kehidupan atau hukum-hukum."
+    },
+    {
+      "title": "Keutamaan Mempelajari Al-Qur'an",
+      "titleArabic": "فَضْلُ تَعَلُّمِ الْقُرْآنِ وَتَعْلِيْمِهِ",
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ. وَالْقُرْآنُ هُوَ الدُّسْتُوْرُ الْخَالِدُ لِلْأُمَّةِ الْإِسْلَامِيَّةِ.",
+      "translation": "Sebaik-baik kalian adalah yang mempelajari Al-Qur'an dan mengajarkannya. Al-Qur'an adalah konstitusi abadi bagi umat Islam."
+    },
+    {
+      "title": "Tafsir Surah Al-Fatihah: Ummul Kitab",
+      "titleArabic": "سُوْرَةُ الْفَاتِحَةِ: أُمُّ الْكِتَابِ",
+      "arabic": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ. اَلْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ. اَلرَّحْمٰنِ الرَّحِيْمِ. مَالِكِ يَوْمِ الدِّيْنِ.",
+      "translation": "Dengan menyebut nama Allah yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah Tuhan semesta alam. Maha Pengasih lagi Maha Penyayang. Pemilik hari pembalasan."
+    },
+    {
+      "title": "Al-Fatihah: Segi Aqidah",
+      "titleArabic": "الْفَاتِحَةُ: فِي الْعَقِيْدَةِ",
+      "arabic": "إِثْبَاتُ تَوْحِيْدِ الرُّبُوْبِيَّةِ وَالْأُلُوْهِيَّةِ وَالْإِيْمَانُ بِالْيَوْمِ الْآخِرِ.",
+      "translation": "Penetapan Tauhid Rububiyah, Uluhiyah, dan iman kepada hari akhir."
+    },
+    {
+      "title": "Al-Fatihah: Segi Syariah",
+      "titleArabic": "الْفَاتِحَةُ: فِي الشَّرِيْعَةِ",
+      "arabic": "وُجُوْبُ إِفْرَادِ اللّٰهِ بِالْعِبَادَةِ وَالِاسْتِعَانَةِ وَطَلَبِ الْهِدَايَةِ.",
+      "translation": "Wajibnya mengesakan Allah dalam ibadah, meminta pertolongan, dan memohon hidayah."
+    },
+    {
+      "title": "Al-Fatihah: Segi Manhaj",
+      "titleArabic": "الْفَاتِحَةُ: فِي الْمَنْهَجِ",
+      "arabic": "اِلْتِزَامُ الصِّرَاطِ الْمُسْتَقِيْمِ وَالِابْتِعَادُ عَنْ طَرِيْقِ الْمَغْضُوْبِ عَلَيْهِمْ وَالضَّالِّيْنَ.",
+      "translation": "Komitmen pada jalan yang lurus dan menjauh dari jalan mereka yang dimurkai dan mereka yang sesat."
+    },
+    {
+      "title": "Surah Al-Baqarah: Karakteristik Golongan Beriman",
+      "titleArabic": "صِفَاتُ الْمُؤْمِنِيْنَ فِي مَطْلَعِ سُوْرَةِ الْبَقَرَةِ",
+      "arabic": "الَّذِيْنَ يُؤْمِنُوْنَ بِالْغَيْبِ وَيُقِيْمُوْنَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُوْنَ.",
+      "translation": "Orang-orang yang beriman kepada yang ghaib, mendirikan shalat, dan menginfakkan sebagian rezeki yang Kami berikan."
+    },
+    {
+      "title": "Al-Baqarah: Sifat Orang Kafir",
+      "titleArabic": "صِفَاتُ الْكَافِرِيْنَ",
+      "arabic": "إِنَّ الَّذِيْنَ كَفَرُوْا سَوَاءٌ عَلَيْهِمْ أَأَنْذَرْتَهُمْ أَمْ لَمْ تُنْذِرْهُمْ لَا يُؤْمِنُوْنَ.",
+      "translation": "Sesungguhnya orang-orang kafir itu sama saja bagi mereka, engkau beri peringatan atau tidak, mereka tidak akan beriman."
+    },
+    {
+      "title": "Al-Baqarah: Sifat Orang Munafik",
+      "titleArabic": "صِفَاتُ الْمُنَافِقِيْنَ",
+      "arabic": "وَمِنَ النَّاسِ مَنْ يَقُوْلُ اٰمَنَّا بِاللّٰهِ وَبِالْيَوْمِ الْآخِرِ وَمَا هُمْ بِمُؤْمِنِيْنَ.",
+      "translation": "Dan di antara manusia ada yang berkata 'Kami beriman kepada Allah dan hari akhir', padahal mereka bukan orang beriman."
+    },
+    {
+      "title": "Kisah Penciptaan Nabi Adam",
+      "titleArabic": "قِصَّةُ خَلْقِ آدَمَ عَلَيْهِ السَّلَامُ",
+      "arabic": "وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيْفَةً.",
+      "translation": "Dan ingatlah ketika Tuhanmu berfirman kepada malaikat: Sesungguhnya Aku akan menjadikan khalifah di bumi."
+    },
+    {
+      "title": "Aqidah: Kekuasaan Allah dalam Penciptaan",
+      "titleArabic": "الْعَقِيْدَةُ: قُدْرَةُ اللّٰهِ فِي الْخَلْقِ",
+      "arabic": "اللّٰهُ خَالِقُ كُلِّ شَيْءٍ وَقَدَرُهُ هُوَ النَّافِذُ فِي الْكَونِ.",
+      "translation": "Allah adalah pencipta segala sesuatu dan takdir-Nya berlaku di alam semesta."
+    },
+    {
+      "title": "Syariah: Kewajiban Taat kepada Perintah Allah",
+      "titleArabic": "الشَّرِيْعَةُ: وُجُوْبُ الطَّاعَةِ لِأَمْرِ اللّٰهِ",
+      "arabic": "الِامْتِثَالُ لِأَوَامِرِ اللّٰهِ كَمَا فَعَلَتِ الْمَلَائِكَةُ وَالْحَذَرُ مِنَ الْكِبْرِ كَمَا فَعَلَ إِبْلِيْسُ.",
+      "translation": "Kepatuhan pada perintah Allah sebagaimana yang dilakukan malaikat dan waspada terhadap kesombongan sebagaimana Iblis."
+    },
+    {
+      "title": "Manhaj: Peran Manusia sebagai Khalifah",
+      "titleArabic": "الْمَنْهَجُ: دَوْرُ الْإِنْسَانِ فِي الْخِلَافَةِ",
+      "arabic": "عِمَارَةُ الْأَرْضِ بِالْعَدْلِ وَالْعِلْمِ وَتَنْفِيْذِ شَرْعِ اللّٰهِ.",
+      "translation": "Memakmurkan bumi dengan keadilan dan ilmu serta menjalankan syariat Allah."
+    },
+    {
+      "title": "Seruan kepada Bani Israil",
+      "titleArabic": "نِدَاءُ بَنِي إِسْرَائِيْلَ",
+      "arabic": "يَا بَنِي إِسْرَائِيْلَ اذْكُرُوْا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ.",
+      "translation": "Wahai Bani Israil, ingatlah nikmat-Ku yang telah Aku berikan kepadamu."
+    },
+    {
+      "title": "Aqidah: Syukur atas Nikmat Allah",
+      "titleArabic": "الْعَقِيْدَةُ: الشُّكْرُ عَلَى النِّعَمِ",
+      "arabic": "الشُّكْرُ وَاجِبٌ عَقْلِيٌّ وَشَرْعِيٌّ لِلْمُنْعِمِ سُبْحَانَهُ وَتَعَالَى.",
+      "translation": "Syukur adalah kewajiban rasional dan syar'i kepada Sang Pemberi Nikmat."
+    },
+    {
+      "title": "Syariah: Pengharaman Menukar Ayat Allah",
+      "titleArabic": "الشَّرِيْعَةُ: تَحْرِيْمُ اشْتِرَاءِ الثَّمَنِ الْقَلِيْلِ بِآيَاتِ اللّٰهِ",
+      "arabic": "نَهْيُ الْعُلَمَاءِ عَنْ كِتْمَانِ الْحَقِّ أَوْ تَحْرِيْفِهِ لِأَجْلِ مَصَالِحَ دُنْيَوِيَّةٍ.",
+      "translation": "Larangan bagi ulama untuk menyembunyikan kebenaran atau mengubahnya demi kepentingan duniawi."
+    },
+    {
+      "title": "Manhaj: Integritas Ilmu dan Amal",
+      "titleArabic": "الْمَنْهَجُ: الِاسْتِقَامَةُ بَيْنَ الْعِلْمِ وَالْعَمَلِ",
+      "arabic": "لَا يَجُوْزُ أَنْ يَأْمُرَ النَّاسَ بِالْبِرِّ وَيَنْسَى نَفْسَهُ.",
+      "translation": "Tidak boleh memerintahkan manusia pada kebaikan sementara melupakan diri sendiri."
+    },
+    {
+      "title": "Kewajiban Shalat dan Zakat",
+      "titleArabic": "إِقَامَةُ الصَّلَاةِ وَإِيْتَاءُ الزَّكَاةِ",
+      "arabic": "وَأَقِيْمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَارْكَعُوْا مَعَ الرَّاكِعِيْنَ.",
+      "translation": "Dan dirikanlah shalat, tunaikanlah zakat, dan ruku'lah bersama orang-orang yang ruku'."
+    },
+    {
+      "title": "Memohon Pertolongan dengan Sabar dan Shalat",
+      "titleArabic": "الِاسْتِعَانَةُ بِالصَّبْرِ وَالصَّلَاةِ",
+      "arabic": "وَاسْتَعِيْنُوْا بِالصَّبْرِ وَالصَّلَاةِ وَإِنَّهَا لَكَبِيْرَةٌ إِلَّا عَلَى الْخَاشِعِيْنَ.",
+      "translation": "Dan mohonlah pertolongan dengan sabar dan shalat, sesungguhnya itu berat kecuali bagi orang yang khusyu'."
+    },
+    {
+      "title": "Hukum Kiblat: Perubahan Arah",
+      "titleArabic": "تَحْوِيْلُ الْقِبْلَةِ",
+      "arabic": "قَدْ نَرَى تَقَلُّبَ وَجْهِكَ فِي السَّمَاءِ فَلَنُوَلِّيَنَّكَ قِبْلَةً تَرْضَاهَا.",
+      "translation": "Sungguh Kami melihat wajahmu menengadah ke langit, maka Kami akan memalingkanmu ke kiblat yang kamu sukai."
+    },
+    {
+      "title": "Aqidah: Ketaatan Mutlak pada Wahyu",
+      "titleArabic": "الْعَقِيْدَةُ: التَّسْلِيْمُ الْمُطْلَقُ لِلْوَحْيِ",
+      "arabic": "الْإِيْمَانُ بِأَنَّ الْأَمْرَ لِلّٰهِ مِنْ قَبْلُ وَمِنْ بَعْدُ فِي تَشْرِيْعِ الْأَحْكَامِ.",
+      "translation": "Iman bahwa urusan itu milik Allah sebelum dan sesudah dalam penetapan hukum."
+    },
+    {
+      "title": "Syariah: Menghadap Masjidil Haram",
+      "titleArabic": "الشَّرِيْعَةُ: اسْتِقْبَالُ الْمَسْجِدِ الْحَرَامِ",
+      "arabic": "وُجُوْبُ التَّوَجُّهِ إِلَى الْكَعْبَةِ فِي الصَّلَاةِ لِمَنْ كَانَ دَاخِلَ الْمَسْجِدِ أَوْ خَارِجَهُ.",
+      "translation": "Wajibnya menghadap Ka'bah dalam shalat bagi yang berada di dalam masjid maupun di luarnya."
+    },
+    {
+      "title": "Manhaj: Persatuan Umat Islam",
+      "titleArabic": "الْمَنْهَجُ: وَحْدَةُ الْأُمَّةِ الْإِسْلَامِيَّةِ",
+      "arabic": "جَعْلُ الْقِبْلَةِ وَاحِدَةً رَمْزٌ لِوَحْدَةِ الْقَصْدِ وَالْفِكْرِ وَالتَّوَجُّهِ.",
+      "translation": "Menjadikan kiblat yang satu sebagai simbol kesatuan maksud, pemikiran, dan orientasi."
+    },
+    {
+      "title": "Hukum Safa dan Marwah",
+      "titleArabic": "أَحْكَامُ الصَّفَا وَالْمَرْوَةِ",
+      "arabic": "إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللّٰهِ.",
+      "translation": "Sesungguhnya Safa dan Marwah adalah sebagian dari syiar-syiar Allah."
+    },
+    {
+      "title": "Aqidah: Mengagungkan Syiar Allah",
+      "titleArabic": "الْعَقِيْدَةُ: تَعْظِيْمُ شَعَائِرِ اللّٰهِ",
+      "arabic": "تَعْظِيْمُ الْأَمَاكِنِ الْمُقَدَّسَةِ جُزْءٌ مِنَ التَّقْوَى.",
+      "translation": "Mengagungkan tempat-tempat suci adalah bagian dari takwa."
+    },
+    {
+      "title": "Syariah: Pensyariatan Sa'i",
+      "titleArabic": "الشَّرِيْعَةُ: مَشْرُوْعِيَّةُ السَّعْيِ",
+      "arabic": "وُجُوْبُ السَّعْيِ بَيْنَ الصَّفَا وَالْمَرْوَةِ فِي الْحَجِّ وَالْعُمْرَةِ.",
+      "translation": "Wajibnya sa'i antara Safa dan Marwah dalam haji dan umrah."
+    },
+    {
+      "title": "Manhaj: Menghilangkan Keraguan dalam Ibadah",
+      "titleArabic": "الْمَنْهَجُ: رَفْعُ الْحَرَجِ فِي الدِّيْنِ",
+      "arabic": "جَوَازُ السَّعْيِ لِمَنْ خَافَ الْإِثْمَ بِسَبَبِ مَا كَانَ فِي الْجَاهِلِيَّةِ.",
+      "translation": "Bolehnya sa'i bagi yang takut berdosa karena apa yang terjadi pada masa jahiliyah."
+    },
+    {
+      "title": "Hukum Makanan yang Haram",
+      "titleArabic": "تَحْرِيْمُ بَعْضِ الْأَطْعِمَةِ",
+      "arabic": "إِنَّمَا حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنْزِيْرِ.",
+      "translation": "Sesungguhnya Allah hanya mengharamkan atasmu bangkai, darah, dan daging babi."
+    },
+    {
+      "title": "Aqidah: Allah Sang Pemberi Rezeki yang Halal",
+      "titleArabic": "الْعَقِيْدَةُ: اللّٰهُ هُوَ الرَّزَّاقُ لِلْحَلَالِ",
+      "arabic": "الْأَصْلُ فِي الْأَشْيَاءِ الْإِبَاحَةُ إِلَّا مَا وَرَدَ الدَّلِيْلُ عَلَى تَحْرِيْمِهِ.",
+      "translation": "Asal dari segala sesuatu adalah mubah kecuali yang ada dalil atas keharamannya."
+    },
+    {
+      "title": "Syariah: Pengecualian dalam Kondisi Darurat",
+      "titleArabic": "الشَّرِيْعَةُ: الِاسْتِثْنَاءُ فِي حَالَةِ الضَّرُوْرَةِ",
+      "arabic": "فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَلَا إِثْمَ عَلَيْهِ.",
+      "translation": "Barangsiapa dalam keadaan darurat dengan tidak sengaja dan tidak melampaui batas, maka tidak ada dosa baginya."
+    },
+    {
+      "title": "Manhaj: Kemudahan dalam Syariat Islam",
+      "titleArabic": "الْمَنْهَجُ: الْيُسْرُ فِي التَّشْرِيْعِ",
+      "arabic": "تَطْبِيْقُ قَاعِدَةِ: الضَّرُوْرَاتُ تُبِيْحُ الْمَحْظُوْرَاتِ.",
+      "translation": "Penerapan kaidah: Keadaan darurat membolehkan hal-hal yang dilarang."
+    },
+    {
+      "title": "Hukum Qishash dalam Pembunuhan",
+      "titleArabic": "أَحْكَامُ الْقِصَاصِ",
+      "arabic": "يَا أَيُّهَا الَّذِيْنَ اٰمَنُوْا كُتِبَ عَلَيْكُمُ الْقِصَاصُ فِي الْقَتْلَى.",
+      "translation": "Wahai orang-orang yang beriman, diwajibkan atasmu qishash dalam perkara pembunuhan."
+    },
+    {
+      "title": "Aqidah: Keadilan Mutlak Allah",
+      "titleArabic": "الْعَقِيْدَةُ: عَدْلُ اللّٰهِ الْمُطْلَقُ",
+      "arabic": "الْقِصَاصُ مَبْنِيٌّ عَلَى الْعَدْلِ لِحِفْظِ حَيَاةِ الْمُجْتَمَعِ.",
+      "translation": "Qishash dibangun atas keadilan untuk menjaga kehidupan masyarakat."
+    },
+    {
+      "title": "Syariah: Syarat-syarat Pelaksanaan Qishash",
+      "titleArabic": "الشَّرِيْعَةُ: شُرُوْطُ إِقَامَةِ الْقِصَاصِ",
+      "arabic": "الْحُرُّ بِالْحُرِّ وَالْعَبْدُ بِالْعَبْدِ وَالْأُنْثَى بِالْأُنْثَى.",
+      "translation": "Orang merdeka dengan orang merdeka, hamba dengan hamba, dan wanita dengan wanita."
+    },
+    {
+      "title": "Manhaj: Hikmah di Balik Hukum Qishash",
+      "titleArabic": "الْمَنْهَجُ: الْحِكْمَةُ مِنَ الْقِصَاصِ",
+      "arabic": "وَلَكُمْ فِي الْقِصَاصِ حَيَاةٌ يَا أُولِي الْأَلْبَابِ لَعَلَّكُمْ تَتَّقُوْنَ.",
+      "translation": "Dan dalam qishash itu ada (jaminan) kehidupan bagimu, wahai orang-orang yang berakal agar kamu bertakwa."
+    },
+    {
+      "title": "Hukum Wasiat",
+      "titleArabic": "أَحْكَامُ الْوَصِيَّةِ",
+      "arabic": "كُتِبَ عَلَيْكُمْ إِذَا حَضَرَ أَحَدَكُمُ الْمَوْتُ إِنْ تَرَكَ خَيْرًا الْوَصِيَّةُ.",
+      "translation": "Diwajibkan atasmu apabila salah seorang di antara kamu kedatangan tanda-tanda maut, jika ia meninggalkan harta, berwasiatlah."
+    },
+    {
+      "title": "Hukum Puasa Ramadhan",
+      "titleArabic": "أَحْكَامُ الصِّيَامِ",
+      "arabic": "يَا أَيُّهَا الَّذِيْنَ اٰمَنُوْا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِيْنَ مِنْ قَبْلِكُمْ.",
+      "translation": "Wahai orang-orang yang beriman, diwajibkan atasmu berpuasa sebagaimana diwajibkan atas orang sebelummu."
+    },
+    {
+      "title": "Aqidah: Puasa sebagai Sarana Takwa",
+      "titleArabic": "الْعَقِيْدَةُ: الصَّوْمُ وَصِلَتُهُ بِالتَّقْوَى",
+      "arabic": "لَعَلَّكُمْ تَتَّقُوْنَ: الْغَايَةُ الْكُبْرَى مِنَ الصِّيَامِ هِيَ تَزْكِيَةُ النَّفْسِ.",
+      "translation": "Agar kamu bertakwa: Tujuan utama dari puasa adalah penyucian jiwa."
+    },
+    {
+      "title": "Syariah: Ketentuan Hari Puasa",
+      "titleArabic": "الشَّرِيْعَةُ: أَيَّامًا مَعْدُوْدَاتٍ",
+      "arabic": "بَيَانُ رُخَصِ الْإِفْطَارِ لِلْمَرِيْضِ وَالْمُسَافِرِ وَفِدْيَةِ مَنْ لَا يُطِيْقُهُ.",
+      "translation": "Penjelasan rukhshah berbuka bagi orang sakit, musafir, dan fidyah bagi yang tidak sanggup."
+    },
+    {
+      "title": "Manhaj: Al-Qur'an dan Bulan Ramadhan",
+      "titleArabic": "الْمَنْهَجُ: شَهْرُ رَمَضَانَ الَّذِي أُنْزِلَ فِيْهِ الْقُرْآنُ",
+      "arabic": "الِارْتِبَاطُ الْوَثِيْقُ بَيْنَ الْقُرْآنِ وَالصَّوْمِ فِي بِناءِ الشَّخْصِيَّةِ الْإِسْلَامِيَّةِ.",
+      "translation": "Hubungan erat antara Al-Qur'an dan puasa dalam membangun kepribadian Islam."
+    },
+    {
+      "title": "Hukum Doa dan Kedekatan Allah",
+      "titleArabic": "أَحْكَامُ الدُّعَاءِ",
+      "arabic": "وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيْبٌ أُجِيْبُ دَعْوَةَ الدَّاعِ.",
+      "translation": "Dan apabila hamba-hamba-Ku bertanya kepadamu tentang Aku, maka sesungguhnya Aku dekat, Aku mengabulkan doa orang yang berdoa."
+    },
+    {
+      "title": "Hukum Jihad dan Perang dalam Islam",
+      "titleArabic": "أَحْكَامُ الْجِهَادِ وَالْقِتَالِ",
+      "arabic": "وَقَاتِلُوْا فِي سَبِيْلِ اللّٰهِ الَّذِيْنَ يُقَاتِلُوْنَكُمْ وَلَا تَعْتَدُوْا.",
+      "translation": "Dan perangilah di jalan Allah orang-orang yang memerangimu, tetapi jangan melampaui batas."
+    },
+    {
+      "title": "Aqidah: Jihad untuk Membela Kebenaran",
+      "titleArabic": "الْعَقِيْدَةُ: الْجِهَادُ لِإِعْلَاءِ كَلِمَةِ اللّٰهِ",
+      "arabic": "الْإِيْمَانُ بِأَنَّ النَّصْرَ مِنَ اللّٰهِ وَأَنَّ الْقِتَالَ لِدَفْعِ الظُّلْمِ.",
+      "translation": "Iman bahwa kemenangan dari Allah dan bahwa peperangan adalah untuk menolak kezaliman."
+    },
+    {
+      "title": "Syariah: Larangan Melampaui Batas dalam Perang",
+      "titleArabic": "الشَّرِيْعَةُ: تَحْرِيْمُ الِاعْتِدَاءِ فِي الْحَرْبِ",
+      "arabic": "نَهْيُ قَتْلِ النِّسَاءِ وَالْأَطْفَالِ وَالشُّيُوْخِ وَتَخْرِيْبِ الْبِيْئَةِ.",
+      "translation": "Larangan membunuh wanita, anak-anak, orang tua, dan merusak lingkungan."
+    },
+    {
+      "title": "Manhaj: Perdamaian sebagai Prinsip Utama",
+      "titleArabic": "الْمَنْهَجُ: السَّلَامُ هُوَ الْأَصْلُ",
+      "arabic": "الْإِسْلَامُ دِيْنُ السَّلَامِ، وَالْقِتَالُ اسْتِثْنَاءٌ لِلضَّرُوْرَةِ.",
+      "translation": "Islam adalah agama damai, dan peperangan adalah pengecualian karena darurat."
+    },
+    {
+      "title": "Hukum Haji dan Umrah",
+      "titleArabic": "أَحْكَامُ الْحَجِّ وَالْعُمْرَةِ",
+      "arabic": "وَأَتِمُّوا الْحَجَّ وَالْعُمْرَةَ لِلّٰهِ.",
+      "translation": "Dan sempurnakanlah ibadah haji dan umrah karena Allah."
+    },
+    {
+      "title": "Hukum Khamr dan Judi",
+      "titleArabic": "أَحْكَامُ الْخَمْرِ وَالْمَيْسِرِ",
+      "arabic": "يَسْأَلُوْنَكَ عَنِ الْخَمْرِ وَالْمَيْسِرِ قُلْ فِيْهِمَا إِثْمٌ كَبِيْرٌ.",
+      "translation": "Mereka bertanya kepadamu tentang khamr dan judi. Katakanlah: Pada keduanya terdapat dosa besar."
+    },
+    {
+      "title": "Hukum Nafkah dan Anak Yatim",
+      "titleArabic": "أَحْكَامُ النَّفَقَةِ وَالْيَتَامَى",
+      "arabic": "وَيَسْأَلُوْنَكَ مَاذَا يُنْفِقُوْنَ قُلِ الْعَفْوَ.",
+      "translation": "Dan mereka bertanya kepadamu apa yang mereka nafkahkan. Katakanlah: Yang lebih dari kebutuhan."
+    },
+    {
+      "title": "Hukum Pernikahan dan Thalaq",
+      "titleArabic": "أَحْكَامُ النِّكَاحِ وَالطَّلَاقِ",
+      "arabic": "وَلَا تَنْكِحُوا الْمُشْرِكَاتِ حَتَّى يُؤْمِنَّ. اَلطَّلَاقُ مَرَّتَانِ فَإِمْسَاكٌ بِمَعْرُوْفٍ.",
+      "translation": "Dan janganlah kamu menikahi wanita musyrik hingga mereka beriman. Thalaq itu dua kali, maka setelah itu rujuk dengan baik."
+    },
+    {
+      "title": "Ayat Kursi: Puncak Aqidah",
+      "titleArabic": "آيَةُ الْكُرْسِيِّ: ذِرْوَةُ الْعَقِيْدَةِ",
+      "arabic": "اَللّٰهُ لَا إِلٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّوْمُ.",
+      "translation": "Allah, tidak ada Tuhan selain Dia, yang Maha Hidup lagi terus menerus mengurus makhluk-Nya."
+    },
+    {
+      "title": "Hukum Riba",
+      "titleArabic": "أَحْكَامُ الرِّبَا",
+      "arabic": "الَّذِيْنَ يَأْكُلُوْنَ الرِّبَا لَا يَقُوْمُوْنَ إِلَّا كَمَا يَقُوْمُ الَّذِي يَتَخَبَّطُهُ الشَّيْطَانُ.",
+      "translation": "Orang-orang yang memakan riba tidak dapat berdiri melainkan seperti berdirinya orang yang kemasukan setan."
+    },
+    {
+      "title": "Hukum Hutang Piutang (Ayat Mudayanah)",
+      "titleArabic": "أَحْكَامُ الدَّيْنِ (آيَةُ الْمُدَايَنَةِ)",
+      "arabic": "يَا أَيُّهَا الَّذِيْنَ اٰمَنُوْا إِذَا تَدَايَنْتُمْ بِدَيْنٍ إِلَى أَجَلٍ مُسَمًّى فَاكْتُبُوْهُ.",
+      "translation": "Wahai orang-orang yang beriman, apabila kamu bermuamalah tidak secara tunai untuk waktu yang ditentukan, hendaklah kamu menuliskannya."
+    },
+    {
+      "title": "Aqidah: Penutup Surah Al-Baqarah",
+      "titleArabic": "خَوَاتِيْمُ سُوْرَةِ الْبَقَرَةِ",
+      "arabic": "اٰمَنَ الرَّسُوْلُ بِمَا أُنْزِلَ إِلَيْهِ مِنْ رَبِّهِ وَالْمُؤْمِنُوْنَ.",
+      "translation": "Rasul telah beriman kepada Al-Qur'an yang diturunkan kepadanya dari Tuhannya, demikian pula orang-orang yang beriman."
+    },
+    {
+      "title": "Khatimah (Penutup Kitab)",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ",
+      "arabic": "نَسْأَلُ اللّٰهَ أَنْ يَنْفَعَ بِهَذَا الْعَمَلِ الْإِسْلَامَ وَالْمُسْلِمِيْنَ.",
+      "translation": "Kami memohon kepada Allah agar memberikan manfaat dengan amal ini bagi Islam dan kaum muslimin."
+    }
+  ]
+}
