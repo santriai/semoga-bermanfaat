@@ -1,0 +1,308 @@
+{
+  "profile": {
+    "name": "Alfiyah Al-Iraqi",
+    "originalTitle": "أَلْفِيَّةُ الْحَافِظِ الْعِرَاقِي (التَّبْصِرَةُ وَالتَّذْكِرَةُ)",
+    "author": "Al-Imam Al-Hafiz Zainuddin Abu al-Fadl Abdurrahim bin al-Husain al-Iraqi",
+    "field": "Musthalah al-Hadith (Ilmu Hadits)",
+    "about": "Kitab Alfiyah Al-Iraqi, yang juga dikenal sebagai 'Al-Tabshirah wa al-Tadhkirah', adalah salah satu mahakarya paling monumental dalam disiplin ilmu Musthalah Al-Hadith. Disusun dalam bentuk nadham (syair) sebanyak 1.002 bait, kitab ini merangkum seluruh isi kitab 'Muqaddimah Ibn al-Salah' dengan berbagai tambahan dan koreksi dari pengarangnya sendiri. Kitab ini menjadi rujukan utama para santri dan ulama hadits tingkat tinggi untuk menghafal kaidah-kaidah klasifikasi hadits, metode periwayatan, hingga biografi perawi. Struktur kitab ini membagi ilmu hadits menjadi 65 jenis cabang ilmu yang sangat mendetail dan sistematis.",
+    "authorBorn": "725 H (Mesir)",
+    "authorDied": "806 H (Mesir)",
+    "authorCentury": "Abad ke-8 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah (Pendahuluan)",
+      "titleArabic": "الْمُقَدِّمَةُ",
+      "arabic": "يَقُولُ رَاجِي رَبِّهِ الْمُقْتَدِرِ * عَبْدُ الرَّحِيمِ بْنُ الْحُسَيْنِ الْعِرَاقِي * أَحْمَدُ رَبِّي أَحْسَنَ التَّعْلِيمِ * وَأَفْضَلَ الصَّلَاةِ وَالتَّسْلِيمِ * عَلَى نَبِيِّهِ وَآلِهِ وَمَنْ * سَارَ عَلَى نَهْجِ الْهُدَى وَمَنْ زَمَنْ",
+      "translation": "Berkata orang yang mengharap Tuhannya Yang Maha Berkuasa, Abdurrahim bin Al-Husain Al-Iraqi: Aku memuji Tuhanku dengan sebaik-baik pengajaran, dan shalawat serta salam yang paling utama atas Nabi-Nya, keluarganya, dan siapa saja yang berjalan di atas jalan petunjuk selamanya."
+    },
+    {
+      "title": "Definisi Hadits Shahih",
+      "titleArabic": "أَقْسَامُ الْحَدِيثِ: الصَّحِيحُ",
+      "arabic": "أَهْلُ الْحَدِيثِ قَسَّمُوا السُّنَنَ * إِلَى صَحِيحٍ وَضَعِيفٍ وَحَسَنْ * فَالْأَوَّلُ: الْمُتَّصِلُ الْإِسْنَادِ * بِنَقْلِ عَدْلٍ ضَابِطِ الْفُؤَادِ * عَنْ مِثْلِهِ مِنْ غَيْرِ مَا شُذُوذِ * وَلَا عِلَّةٍ قَادِحَةٍ تَبُوذِي",
+      "translation": "Ahli hadits membagi sunnah-sunnah menjadi: Shahih, Dha'if, dan Hasan. Yang pertama (Shahih) adalah: yang sanadnya bersambung dengan nukilan perawi yang adil, dhabit (kuat hafalannya), dari perawi yang semisal dengannya tanpa ada kejanggalan (syadz) dan tanpa cacat ('illat) yang merusak."
+    },
+    {
+      "title": "Hadits Hasan",
+      "titleArabic": "الْحَدِيثُ الْحَسَنُ",
+      "arabic": "وَالْحَسَنُ: الْمَعْرُوفُ مَخْرَجًا وَقَدْ * اشْتُهِرَتْ رِجَالُهُ وَقِيلَ: مَا * قَصُرَ عَنْ رُتْبَةِ الصَّحِيحِ وَهْوُ * فِي حُجَّةٍ كَالصَّحِيحِ لَيْسَ يَخْبُو",
+      "translation": "Hasan adalah: hadits yang diketahui tempat keluarnya dan perawinya telah masyhur. Dikatakan juga: hadits yang tingkatannya berada di bawah Shahih, namun dalam sisi kehujjahan tetap seperti Shahih, tidak padam kekuatannya."
+    },
+    {
+      "title": "Hadits Dha'if (Lemah)",
+      "titleArabic": "الْحَدِيثُ الضَّعِيفُ",
+      "arabic": "وَكُلُّ مَا عَنْ رُتْبَةِ الْحُسْنِ قَصُرْ * فَهْوَ الضَّعِيفُ وَهْوَ أَقْسَامًا كَثُرْ",
+      "translation": "Dan setiap hadits yang tingkatannya kurang dari standar Hasan, maka ia adalah Dha'if, dan ia terbagi menjadi banyak macam."
+    },
+    {
+      "title": "Hadits Musnad",
+      "titleArabic": "الْمُسْنَدُ",
+      "arabic": "وَالْمُسْنَدُ: الْمَوْصُولُ قَدْ أُسْنِدَ مِنْ * رَاوِيهِ حَتَّى الْمُصْطَفَى وَلَمْ يَبِنْ",
+      "translation": "Musnad adalah: hadits yang bersambung sanadnya dari perawinya hingga Al-Musthafa (Nabi saw) dan tidak terputus."
+    },
+    {
+      "title": "Hadits Muttasil (Bersambung)",
+      "titleArabic": "الْمُتَّصِلُ",
+      "arabic": "وَمَا بِسَمْعٍ كُلِّ رَاوٍ يَتَّصِلْ * إِسْنَادُهُ لِلْمُنْتَهَى فَالْمُتَّصِلْ",
+      "translation": "Hadits yang dengan pendengaran setiap perawinya saling bersambung sanadnya sampai akhir, maka itu disebut Muttasil."
+    },
+    {
+      "title": "Hadits Marfu' (Disandarkan ke Nabi)",
+      "titleArabic": "الْمَرْفُوعُ",
+      "arabic": "وَمَا أُضِيفَ لِلنَّبِيِّ مَرْفُوعُ * سَوَاءً الِاتِّصَالُ أَوْ مَقْطُوعُ",
+      "translation": "Apa yang disandarkan kepada Nabi disebut Marfu', baik sanadnya bersambung atau terputus."
+    },
+    {
+      "title": "Hadits Mawquf (Disandarkan ke Sahabat)",
+      "titleArabic": "الْمَوْقُوفُ",
+      "arabic": "وَمَا أُضِيفَ لِلصَّحَابِيِّ اسْمُهُ * مَوْقُوفٌ أَوْ أَقْصِرْ عَلَيْهِ حُكْمُهُ",
+      "translation": "Apa yang disandarkan kepada Sahabat namanya adalah Mawquf, atau hukumnya dibatasi hanya pada mereka."
+    },
+    {
+      "title": "Hadits Maqtu' (Disandarkan ke Tabi'in)",
+      "titleArabic": "الْمَقْطُوعُ",
+      "arabic": "وَمَا لِتَابِعٍ بِمَقْطُوعٍ عُزِي * وَهْوَ غَيْرُ الْمُنْقَطِعِ الَّذِي اعْتُزِي",
+      "translation": "Apa yang disandarkan kepada Tabi'in dinisbatkan sebagai Maqtu', dan ia berbeda dengan Munqati' yang disebutkan sebelumnya."
+    },
+    {
+      "title": "Hadits Mursal",
+      "titleArabic": "الْمُرْسَلُ",
+      "arabic": "وَمُرْسَلٌ: مَا سَقَطَ الصَّحَابِيُّ * مِنْهُ كَقَوْلِ التَّابِعِي: (قَالَ النَّبِيُّ)",
+      "translation": "Mursal adalah: hadits yang gugur sahabat di dalamnya, seperti ucapan Tabi'in: 'Nabi bersabda'."
+    },
+    {
+      "title": "Hadits Munqati' (Terputus)",
+      "titleArabic": "الْمُنْقَطِعُ",
+      "arabic": "وَمَا بِهِ سُقُوطٌ أَوْ كَمُبْهَمِ * إِسْنَادُهُ مُنْقَطِعٌ عِنْدَ الْهَمِي",
+      "translation": "Hadits yang padanya terdapat pengguguran perawi atau terdapat perawi yang mubham (tidak jelas), maka sanadnya disebut Munqati' menurut para ahli."
+    },
+    {
+      "title": "Hadits Mu'dal",
+      "titleArabic": "الْمُعْضَلُ",
+      "arabic": "وَالْمُعْضَلُ: السَّاقِطُ مِنْهُ اثْنَانِ * فَصَاعِدًا وَاحِدًا بِالِاقْتِرَانِ",
+      "translation": "Mu'dal adalah: hadits yang gugur darinya dua perawi atau lebih secara berturut-turut dalam satu rangkaian."
+    },
+    {
+      "title": "Hadits Tadlis (Manipulasi Sanad)",
+      "titleArabic": "التَّدْلِيسُ",
+      "arabic": "التَّدْلِيسُ نَوْعَانِ: فَتَدْلِيسُ السَّنَدْ * أَنْ يَرْوِيَ عَمَّنْ لَقِي مَا لَمْ يَرِدْ",
+      "translation": "Tadlis ada dua jenis: Tadlis Isnad adalah perawi meriwayatkan dari orang yang ia temui namun hadits tersebut tidak ia dengar langsung darinya."
+    },
+    {
+      "title": "Hadits Syadz (Ganjil)",
+      "titleArabic": "الشَّاذُّ",
+      "arabic": "ذُو الشُّذُوذِ: مَا رَوَى الْمَقْبُولُ * مُخَالِفًا لِمَنْ هُوَ الْأَوْلَى فِيهِ قِيلُ",
+      "translation": "Syadz adalah: hadits yang diriwayatkan oleh perawi yang makbul (diterima) namun menyelisihi perawi yang lebih utama (lebih tsiqah)."
+    },
+    {
+      "title": "Hadits Munkar",
+      "titleArabic": "الْمُنْكَرُ",
+      "arabic": "وَالْمُنْكَرُ: الْفَرْدُ بِهِ مَنْ لَمْ يُعَدِّلِ * أَوْ خَالَفَ الثِّقَاتِ مَنْ لَمْ يُقْبَلِ",
+      "translation": "Munkar adalah: hadits yang diriwayatkan sendirian oleh perawi yang tidak dianggap adil, atau perawi lemah yang menyelisihi para perawi tsiqah."
+    },
+    {
+      "title": "Hadits Mu'allal (Cacat)",
+      "titleArabic": "الْمُعَلَّلُ",
+      "arabic": "وَالْمُعَلَّلُ: مَا فِيهِ عِلَّةٌ خَفِيَّةْ * قَادِحَةٌ مَعَ ظَاهِرِ السَّلَامِيَّةْ",
+      "translation": "Mu'allal adalah: hadits yang mengandung cacat tersembunyi yang merusak, meskipun secara lahiriyah nampak selamat (benar)."
+    },
+    {
+      "title": "Hadits Mudraj (Sisipan)",
+      "titleArabic": "الْمُدْرَجُ",
+      "arabic": "الْمُدْرَجُ: مَا أُلْحِقَ بِالْحَدِيثِ مِنْ * كَلَامِ رَاوٍ مِثْلَ أَنْ يُبَيِّنَ",
+      "translation": "Mudraj adalah: apa yang digabung ke dalam hadits dari ucapan perawi seperti untuk memberikan penjelasan."
+    },
+    {
+      "title": "Hadits Maqlub (Terbalik)",
+      "titleArabic": "الْمَقْلُوبُ",
+      "arabic": "وَالْمَقْلُوبُ: أَنْ يُبَدَّلَ رَاوٍ بِرَاوِ * أَوْ تَنْقَلِبَ مَتْنٌ لِقَصْدِ الْغَاوِي",
+      "translation": "Maqlub adalah: tertukarnya satu perawi dengan perawi lain, atau matan yang terbalik karena maksud dari orang yang keliru."
+    },
+    {
+      "title": "Hadits Mudhtarib (Guncang)",
+      "titleArabic": "الْمُضْطَرِبُ",
+      "arabic": "وَالْمُضْطَرِبُ: مَا اخْتَلَفَتْ فِيهِ الرُّوَاةْ * بِحَيْثُ لَا يُمْكِنُ فِيهِ الِاثْبَاتْ",
+      "translation": "Mudhtarib adalah: hadits yang diperselisihkan oleh para perawi dalam riwayatnya sekira tidak memungkinkan untuk dikuatkan salah satunya."
+    },
+    {
+      "title": "Hadits Musahhaf & Muharraf (Salah Tulis/Baca)",
+      "titleArabic": "الْمُصَحَّفُ وَالْمُحَرَّفُ",
+      "arabic": "تَصْحِيفُهُمْ فِي النُّقَطِ وَالْمُحَرَّفُ * فِي الشَّكْلِ مِمَّا بِالْكِتَابِ يُعْرَفُ",
+      "translation": "Tashif adalah kesalahan pada titik huruf, sedangkan Muharraf adalah kesalahan pada harakat (syakal), yang keduanya diketahui dari tulisan."
+    },
+    {
+      "title": "Hadits Mawdu' (Palsu)",
+      "titleArabic": "الْمَوْضُوعُ",
+      "arabic": "وَشَرُّهَا الْمَوْضُوعُ وَالْمُخْتَلَقُ * عَلَى النَّبِيِّ وَالْكَذُوبُ يُلْحَقُ",
+      "translation": "Dan jenis hadits yang paling buruk adalah Mawdu' (palsu) yang diada-adakan atas nama Nabi, dan perawi pendusta disematkan padanya."
+    },
+    {
+      "title": "Ziyadat al-Thiqat (Tambahan Perawi Terpercaya)",
+      "titleArabic": "زِيَادَةُ الثِّقَاتِ",
+      "arabic": "وَاحْكُمْ لِزِيَادَةِ رَاوٍ ثِقَةِ * مَا لَمْ تُخَالِفْ لِلْمَلَا فِي الْهَيْئَةِ",
+      "translation": "Hukumlah dengan menerima tambahan dari perawi tsiqah selama tidak menyelisihi jamaah (perawi lain) dalam bentuknya."
+    },
+    {
+      "title": "Al-I'tibar, Mutaba'ah, dan Syahid",
+      "titleArabic": "الِاعْتِبَارُ وَالْمُتَابَعَاتُ وَالشَّوَاهِدُ",
+      "arabic": "وَالِاعْتِبَارُ طَلَبُ الْمُتَابِعِ * لِلْفَرْدِ وَالشَّاهِدُ لِلْمُجَامِعِ",
+      "translation": "I'tibar adalah mencari penguat (mutabi') bagi hadits tunggal, dan Syahid adalah penguat bagi makna yang serupa."
+    },
+    {
+      "title": "Sifat Perawi yang Diterima dan Ditolak",
+      "titleArabic": "صِفَةُ مَنْ تُقْبَلُ رِوَايَتُهُ وَمَنْ تُرَدُّ",
+      "arabic": "أَجْمَعَ جُمْهُورُهُمُ لِلرَّاوِي * عَدْلًا وَضَابِطًا بِلَا تَهَاوِي",
+      "translation": "Mayoritas ulama bersepakat bahwa perawi haruslah adil dan dhabit (kuat hafalan) tanpa ada kelalaian."
+    },
+    {
+      "title": "Metode Menerima Hadits (Sima', Qira'ah, Ijazah)",
+      "titleArabic": "كَيْفِيَّةُ سَمَاعِ الْحَدِيثِ وَتَحَمُّلِهِ",
+      "arabic": "أَرْفَعُهَا سَمَاعُ لَفْظِ الشَّيْخِ * ثُمَّ الْقِرَاءَةُ بِغَيْرِ نَسْخِ",
+      "translation": "Tingkatan tertinggi adalah mendengar lafadz Syaikh, kemudian membacakan di hadapan Syaikh tanpa menghapus (merubah)."
+    },
+    {
+      "title": "Penulisan dan Penandaan Hadits",
+      "titleArabic": "كِتَابَةُ الْحَدِيثِ وَضَبْطُهُ",
+      "arabic": "وَلْيُعْنَ بِالْكِتَابِ وَالتَّصْحِيحِ * وَالضَّبْطِ لِلْمُشْكِلِ وَالتَّوْضِيحِ",
+      "translation": "Hendaknya memperhatikan penulisan, pentashihan, ketetapan pada lafadz yang sulit, dan kejelasan."
+    },
+    {
+      "title": "Etika Ahli Hadits (Adab al-Muhaddith)",
+      "titleArabic": "آدَابُ الْمُحَدِّثِ",
+      "arabic": "وَلْيُخْلِصِ النِّيَّةَ فِي الْقِيَامِ * بِطَلَبِ الْحَدِيثِ وَالْإِفْهَامِ",
+      "translation": "Hendaknya mengikhlaskan niat dalam melaksanakan pencarian hadits dan pemahamannya."
+    },
+    {
+      "title": "Etika Penuntut Hadits (Adab al-Thalib)",
+      "titleArabic": "آدَابُ طَالِبِ الْحَدِيثِ",
+      "arabic": "وَلْيَبْدَأِ الطَّالِبُ بِالْعَوَالِي * وَيَحْذَرِ التَّكْبِيرَ وَالْمَلَالِ",
+      "translation": "Hendaknya penuntut ilmu memulai dengan sanad yang tinggi (Ali) dan menjauhi sifat sombong serta rasa bosan."
+    },
+    {
+      "title": "Mengenal Sanad Tinggi dan Rendah ('Ali & Nazil)",
+      "titleArabic": "مَعْرِفَةُ الْعَالِي وَالنَّازِلِ",
+      "arabic": "وَالْعُلُوُّ: قُرْبٌ مِنَ النَّبِيِّ * أَوْ إِمَامٍ ثَابِتٍ ذَكِيِّ",
+      "translation": "Ketinggian sanad (Uluw) adalah kedekatan jarak perawi kepada Nabi atau kepada Imam yang tsabit (kokoh) lagi cerdas."
+    },
+    {
+      "title": "Hadits Mashhur, Aziz, dan Gharib",
+      "titleArabic": "الْمَشْهُورُ وَالْعَزِيزُ وَالْغَرِيبُ",
+      "arabic": "مَشْهُورُهَا: مَا رَوَى فَوْقَ الثَّلَاثَةِ * عَزِيزُهَا: اثْنَانِ فِي كُلِّ حَالَةِ",
+      "translation": "Mashhur adalah hadits yang diriwayatkan lebih dari tiga orang; Aziz adalah yang diriwayatkan oleh dua orang pada setiap tingkatan."
+    },
+    {
+      "title": "Hadits Musalsal (Berantai)",
+      "titleArabic": "الْمُسَلْسَلُ",
+      "arabic": "مَا اتَّفَقَ الرُّوَاةُ فِي أَحْوَالِ * قَوْلٍ أَوْ فِعْلٍ أَوِ الِاتِّصَالِ",
+      "translation": "Hadits yang para perawinya bersepakat dalam keadaan ucapan, perbuatan, atau cara ketersambungan."
+    },
+    {
+      "title": "Hadits Nasikh dan Mansukh",
+      "titleArabic": "النَّاسِخُ وَالْمَنْسُوخُ",
+      "arabic": "وَنَاسِخُ الْحَدِيثِ مَا يَتَأَخَّرُ * عَنْ آخِرٍ وَالْحُكْمُ فِيهِ يُذْكَرُ",
+      "translation": "Nasikh hadits adalah riwayat yang datang belakangan dari riwayat lain, dan hukum di dalamnya disebutkan (sebagai penghapus)."
+    },
+    {
+      "title": "Hadits Mushkil (Sukar Dipahami)",
+      "titleArabic": "مُخْتَلِفُ الْحَدِيثِ وَمُشْكِلُهُ",
+      "arabic": "وَإِنْ تُخَالِفْ جَمَعَ التَّوْفِيقُ * أَوْ رُجِّحَ الصَّحِيحُ وَالتَّحْقِيقُ",
+      "translation": "Jika terjadi pertentangan, maka dikumpulkan dengan jalan kompromi (taufiq) atau dikuatkan yang lebih shahih dan tahqiq."
+    },
+    {
+      "title": "Mengenal Para Sahabat Nabi",
+      "titleArabic": "مَعْرِفَةُ الصَّحَابَةِ",
+      "arabic": "صَحَابِيٌّ: مَنْ لَقِيَ النَّبِيَّا * مُؤْمِنًا بِهِ وَمَاتَ عَلَى ذَيَّا",
+      "translation": "Sahabat adalah: orang yang bertemu Nabi dalam keadaan beriman kepadanya dan mati di atas keadaan tersebut."
+    },
+    {
+      "title": "Mengenal Para Tabi'in",
+      "titleArabic": "مَعْرِفَةُ التَّابِعِينَ",
+      "arabic": "تَابِعُهُمْ: مَنْ صَحِبَ الصَّحَابِيَا * وَفَضْلُهُمْ مُرَتَّبٌ جَلِيَّا",
+      "translation": "Tabi'in adalah: orang yang menyertai sahabat, dan keutamaan mereka bertingkat-tingkat secara jelas."
+    },
+    {
+      "title": "Mengenal Riwayat Saudara (Ikhwah & Akhawat)",
+      "titleArabic": "مَعْرِفَةُ الْإِخْوَةِ وَالْأَخَوَاتِ",
+      "arabic": "وَعُنِيَ بِالْإِخْوَةِ وَالْأَخَوَاتِ * فِي نَقْلِهِمْ مَنَاقِبُ الثِّقَاتِ",
+      "translation": "Dan diperhatikan pula hubungan saudara laki-laki dan perempuan dalam nukilan mereka tentang keutamaan perawi tsiqah."
+    },
+    {
+      "title": "Riwayat Akabir 'an Ashaghir",
+      "titleArabic": "رِوَايَةُ الْأَكَابِرِ عَنِ الْأَصَاغِرِ",
+      "arabic": "وَرُبَّمَا رَوَى الْكَبِيرُ عَنْ صَغِيرْ * فَذَاكَ لِلْإِتْقَانِ وَالْعِلْمِ الْغَزِيرْ",
+      "translation": "Terkadang orang yang besar (secara usia/ilmu) meriwayatkan dari yang lebih kecil, hal itu menunjukkan ketelitian dan ilmu yang melimpah."
+    },
+    {
+      "title": "Riwayat Mudabbaj",
+      "titleArabic": "الْمُدَبَّجُ وَرِوَايَةُ الْأَقْرَانِ",
+      "arabic": "إِنْ رَوَى كُلٌّ مِنْهُمَا عَنْ صَاحِبِهْ * فَمُدَبَّجٌ يَدْعُونَهُ فِي مَذَاهِبِهْ",
+      "translation": "Jika masing-masing dari dua perawi yang sebaya meriwayatkan dari temannya, maka mereka menyebutnya Mudabbaj dalam istilah mereka."
+    },
+    {
+      "title": "Mengenal Perawi Mudallis",
+      "titleArabic": "مَعْرِفَةُ مَنْ ذُكِرَ بِالتَّدْلِيسِ",
+      "arabic": "وَالْحُكْمُ فِيهِ رَدُّ مَا عَنْعَنَهُ * إِلَّا الَّذِي يُصَرِّحُ بِمَا عَنَهُ",
+      "translation": "Hukum perawi mudallis adalah ditolak riwayatnya yang menggunakan 'an'anah (dari...), kecuali yang menjelaskan dengan tegas (sharih) pendengarannya."
+    },
+    {
+      "title": "Mengenal Nama, Kunyah, dan Gelar",
+      "titleArabic": "مَعْرِفَةُ الْأَسْمَاءِ وَالْكُنَى وَالْأَلْقَابِ",
+      "arabic": "وَعِلْمُهُمْ بِالِاسْمِ وَالْكُنَاهُ * وَاللَّقَبِ الَّذِي لَهُ مَعْنَاهُ",
+      "translation": "Dan ilmu mereka mencakup pengetahuan tentang nama, nama julukan (kunyah), dan gelar yang memiliki makna."
+    },
+    {
+      "title": "Mengenal Perawi yang Memiliki Nama Sama (Muttafiq & Muftariq)",
+      "titleArabic": "الْمُتَّفِقُ وَالْمُفْتَرِقُ",
+      "arabic": "مَا اتَّفَقَ اسْمًا وَاسْمَ أَبٍ كَأَحْمَدِ * وَافْتَرَقَ الشَّخْصُ كَمِثْلِ مُحَمَّدِ",
+      "translation": "Apa yang sama secara nama dan nama ayahnya seperti Ahmad, namun orangnya berbeda seperti halnya nama Muhammad."
+    },
+    {
+      "title": "Mutasyabih (Nama yang Mirip)",
+      "titleArabic": "الْمُتَشَابِه",
+      "arabic": "وَالْمُتَشَابِهُ: اتِّفَاقُ الْخَطِّ فِي * أَسْمَائِهِمْ وَالنُّطْقُ فِيهِ يَخْتَفِي",
+      "translation": "Mutasyabih adalah: kesamaan dalam tulisan pada nama-nama mereka, namun pelafalannya berbeda (tersembunyi)."
+    },
+    {
+      "title": "Mengenal Negeri dan Tanah Air Perawi",
+      "titleArabic": "مَعْرِفَةُ أَوْطَانِ الرُّوَاةِ وَبُلْدَانِهِمْ",
+      "arabic": "وَلْيُعْرَفِ الْبَلَدُ وَانْتِسَابُهُمْ * لِلْقَرْيَةِ الَّتِي لَهَا ذِهَابُهُمْ",
+      "translation": "Hendaknya diketahui negeri dan penisbatan mereka kepada desa tempat mereka berasal/pergi."
+    },
+    {
+      "title": "Mengenal Perawi Tsiqah dan Dha'if",
+      "titleArabic": "مَعْرِفَةُ الثِّقَاتِ وَالضُّعَفَاءِ",
+      "arabic": "وَاعْرِفْ مَنِ الثِّقَةُ وَالضَّعِيفُ * وَكُلُّ مَنْ فِي نَقْلِهِ تَطْفِيفُ",
+      "translation": "Kenalilah siapa yang tsiqah (terpercaya) dan yang dha'if (lemah), serta setiap orang yang dalam nukilannya terdapat kekurangan."
+    },
+    {
+      "title": "Mengenal Perawi yang Mengalami Ikhtilath",
+      "titleArabic": "مَعْرِفَةُ مَنِ اخْتَلَطَ مِنْهُمْ",
+      "arabic": "وَمَنِ اخْتَلَطَ فِي آخِرِ الْعُمُرْ * فَمَا رَوَى قَبْلَ ذَاكَ لَا يُذَرْ",
+      "translation": "Dan perawi yang mengalami ikhtilath (kacau hafalan) di akhir umurnya, maka apa yang diriwayatkan sebelum itu tidak ditinggalkan."
+    },
+    {
+      "title": "Mengenal Thabaqat (Tingkatan) Ulama",
+      "titleArabic": "مَعْرِفَةُ طَبَقَاتِ الْعُلَمَاءِ",
+      "arabic": "وَالطَّبَقَاتُ: قَوْمٌ تَقَارَبُوا * فِي السِّنِّ وَالْإِسْنَادِ إِذْ تَنَاسَبُوا",
+      "translation": "Thabaqat adalah: sekelompok orang yang berdekatan dalam usia dan sanad karena adanya kesesuaian."
+    },
+    {
+      "title": "Mengenal Perawi Mawali",
+      "titleArabic": "مَعْرِفَةُ الْمَوَالِي مِنَ الرُّوَاةِ",
+      "arabic": "وَمَنْ يَكُنْ مَوْلًى لِقَوْمٍ عُزِيَا * إِلَيْهِمُ حَقًّا كَمَا قَدْ رُوِيَا",
+      "translation": "Dan barangsiapa yang menjadi mantan budak (mawla) bagi suatu kaum, maka ia dinisbatkan kepada mereka secara benar sebagaimana yang diriwayatkan."
+    },
+    {
+      "title": "Gharib Al-Hadith (Lafadz Asing)",
+      "titleArabic": "غَرِيبُ الْحَدِيثِ",
+      "arabic": "وَاحْرِصْ عَلَى غَرِيبِهِ وَفَهْمِهِ * وَخُذْهُ مِنْ أَهْلِ التُّقَى وَعِلْمِهِ",
+      "translation": "Bersungguh-sungguhlah pada lafadz asing (gharib) dan memahaminya, serta ambillah hal itu dari ahli takwa dan ilmunya."
+    },
+    {
+      "title": "Khatimah (Penutup Kitab)",
+      "titleArabic": "خَاتِمَةُ الْأَلْفِيَّةِ",
+      "arabic": "تَمَّتْ بِحَمْدِ اللَّهِ نَظْمًا جَيِّدَا * يَهْدِي لِمَنْ أَرَادَ أَنْ يُجَوِّدَا * وَصَلِّ يَا رَبِّ عَلَى النَّبِيِّ * وَآلِهِ وَصَحْبِهِ الصَّفِيِّ",
+      "translation": "Telah selesai dengan memuji Allah nazham yang baik ini, yang memberi petunjuk bagi siapa yang ingin membaguskan ilmu hadits. Dan bershalawatlah wahai Tuhanku kepada Nabi, keluarga, dan sahabatnya yang pilihan."
+    }
+  ]
+}
