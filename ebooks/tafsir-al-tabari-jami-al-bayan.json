@@ -1,0 +1,356 @@
+{
+  "profile": {
+    "name": "Tafsir al-Tabari (Jami' al-Bayan)",
+    "originalTitle": "جَامِعُ الْبَيَانِ عَنْ تَأْوِيلِ آيِ الْقُرْآنِ",
+    "author": "Al-Imam Abu Ja'far Muhammad bin Jarir al-Tabari (الإِمَامُ أَبُو جَعْفَرٍ مُحَمَّدُ بْنُ جَرِيرٍ الطَّبَرِيُّ)",
+    "field": "Tafsir bi al-Ma'thur (Ushul al-Tafsir)",
+    "about": "Tafsir al-Tabari merupakan rujukan utama dalam bidang tafsir bi al-ma'thur (berdasarkan riwayat) yang paling komprehensif dan otoritatif. Kitab ini tidak hanya menyajikan penafsiran ayat, tetapi juga mencakup studi linguistik (lughah), qira'at, analisis hukum (istinbat), dan sejarah. Imam al-Tabari menyusunnya dengan menyebutkan sanad dari para Sahabat dan Tabi'in, kemudian memberikan tarjih (penguatan) terhadap pendapat yang dianggap paling kuat secara nalar dan bahasa. Kitab ini dianggap sebagai 'Umm al-Tafasir' (Induk dari segala kitab Tafsir) bagi seluruh ulama setelahnya.",
+    "authorBorn": "224 H / 839 M (Amol, Tabaristan)",
+    "authorDied": "310 H / 923 M (Baghdad, Irak)",
+    "authorCentury": "Abad ke-3 Hijriyah (Masa Keemasan Kodifikasi Ilmu)"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah: Penjelasan Mengenai Al-Qur'an",
+      "titleArabic": "الْقَوْلُ فِي الْبَيَانِ عَنْ وُجُوهِ الَّتِي مِنْ قِبَلِهَا يُوصَلُ إِلَى مَعْرِفَةِ تَأْوِيلِ الْقُرْآنِ",
+      "arabic": "الْقَوْلُ فِي الْبَيَانِ عَنْ وُجُوهِ الَّتِي مِنْ قِبَلِهَا يُوصَلُ إِلَى مَعْرِفَةِ تَأْوِيلِ الْقُرْآنِ. إِنَّ اللَّهَ تَعَالَى ذِكْرُهُ جَعَلَ الْقُرْآنَ نُورًا، وَجَعَلَهُ هُدًى لِلْمُتَّقِينَ.",
+      "translation": "Pembahasan mengenai penjelasan tentang aspek-aspek yang melaluinya seseorang dapat mencapai pemahaman tentang takwil (penafsiran) Al-Qur'an. Sesungguhnya Allah—Semoga sebutan-Nya ditinggikan—telah menjadikan Al-Qur'an sebagai cahaya dan petunjuk bagi orang-orang yang bertaqwa."
+    },
+    {
+      "title": "Bahasa Al-Qur'an Adalah Bahasa Arab",
+      "titleArabic": "الْقَوْلُ فِي الْبَيَانِ عَنْ أَنَّ الْقُرْآنَ أُنْزِلَ بِلِسَانِ الْعَرَبِ",
+      "arabic": "الْقَوْلُ فِي الْبَيَانِ عَنْ أَنَّ الْقُرْآنَ أُنْزِلَ بِلِسَانِ الْعَرَبِ دُونَ غَيْرِهَا مِنْ أَلْسُنِ الْأُمَمِ.",
+      "translation": "Penjelasan bahwa Al-Qur'an diturunkan dengan lisan (bahasa) Arab, bukan dengan bahasa umat lainnya."
+    },
+    {
+      "title": "Kesesuaian Antara Bahasa Arab dan Al-Qur'an",
+      "titleArabic": "بَيَانُ أَنَّ مَا فِيهِ مِنَ الْأَعْجَمِيِّ هُوَ مِمَّا اتَّفَقَ فِيهِ لِسَانُ الْعَرَبِ وَأَلْسِنَةُ أُمَمٍ أُخْرَى",
+      "arabic": "الْبَيَانُ عَنْ أَنَّ مَا فِيهِ مِمَّا يُظَنُّ أَنَّهُ أَعْجَمِيٌّ إِنَّمَا هُوَ لُغَةٌ لِلْعَرَبِ وَافَقَتْ فِيهَا غَيْرَهَا.",
+      "translation": "Penjelasan bahwa apa yang disangka sebagai bahasa non-Arab (A'jami) di dalam Al-Qur'an sebenarnya adalah bahasa Arab yang memiliki kesamaan dengan bahasa umat lainnya."
+    },
+    {
+      "title": "Hadits Mengenai Penurunan Al-Qur'an dalam Tujuh Huruf",
+      "titleArabic": "الْخَبَرُ عَنِ الْأَحْرُفِ السَّبْعَةِ الَّتِي نَزَلَ بِهَا الْقُرْآنُ",
+      "arabic": "ذِكْرُ مَا رُوِيَ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ قَالَ: أُنْزِلَ الْقُرْآنُ عَلَى سَبْعَةِ أَحْرُفٍ.",
+      "translation": "Penyebutan riwayat dari Nabi shallallahu 'alaihi wa sallam bahwa beliau bersabda: Al-Qur'an diturunkan dalam tujuh huruf (dialek/cara baca)."
+    },
+    {
+      "title": "Makna Tujuh Huruf (Sab'atu Ahruf)",
+      "titleArabic": "الْقَوْلُ فِي مَعْنَى الْأَحْرُفِ السَّبْعَةِ الَّتِي نَزَلَ بِهَا الْقُرْآنُ",
+      "arabic": "وَهَذِهِ الْأَحْرُفُ السَّبْعَةُ هِيَ لُغَاتٌ مِنْ لُغَاتِ الْعَرَبِ، لَيْسَتْ خَارِجَةً عَنْ لِسَانِهِمْ.",
+      "translation": "Pembahasan mengenai makna tujuh huruf yang menjadi dasar turunnya Al-Qur'an, yang mana semuanya merupakan dialek-dialek Arab dan tidak keluar dari bahasa mereka."
+    },
+    {
+      "title": "Larangan Menafsirkan Al-Qur'an dengan Logika Semata",
+      "titleArabic": "النَّهْيُ عَنْ تَفْسِيرِ الْقُرْآنِ بِالرَّأْيِ",
+      "arabic": "ذِكْرُ مَنْ قَالَ: لا يَجُوزُ تَفْسِيرُ الْقُرْآنِ إِلا بِالْخَبَرِ وَالْأَثَرِ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ.",
+      "translation": "Penyebutan pendapat ulama yang menyatakan bahwa tidak boleh menafsirkan Al-Qur'an kecuali dengan riwayat dan atsar dari Rasulullah shallallahu 'alaihi wa sallam."
+    },
+    {
+      "title": "Pembagian Tafsir: Apa yang Diketahui Manusia dan Tidak",
+      "titleArabic": "الْبَيَانُ عَنْ وُجُوهِ تَفْسِيرِ الْقُرْآنِ",
+      "arabic": "تَفْسِيرٌ لَا يَعْلَمُهُ إِلَّا اللَّهُ، وَتَفْسِيرٌ يَعْلَمُهُ الْعَرَبُ بِأَلْسِنَتِهَا، وَتَفْسِيرٌ يَعْلَمُهُ الْعُلَمَاءُ.",
+      "translation": "Penjelasan mengenai aspek tafsir Al-Qur'an: Tafsir yang hanya diketahui oleh Allah, tafsir yang diketahui orang Arab melalui bahasa mereka, dan tafsir yang diketahui oleh para ulama."
+    },
+    {
+      "title": "Penamaan Surah-Surah Al-Qur'an",
+      "titleArabic": "ذِكْرُ أَسْمَاءِ الْقُرْآنِ وَسُوَرِهِ وَآيِهِ",
+      "arabic": "بَيَانُ مَا جَاءَ فِي أَسْمَاءِ السُّوَرِ وَالْفَرْقِ بَيْنَ السُّورَةِ وَالْآيَةِ.",
+      "translation": "Penyebutan nama-nama Al-Qur'an, surah-surahnya, serta perbedaan antara definisi Surah dan Ayat."
+    },
+    {
+      "title": "Takwil Isti'adzah (Meminta Perlindungan)",
+      "titleArabic": "الْقَوْلُ فِي تَأْوِيلِ الِاسْتِعَاذَةِ",
+      "arabic": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ. مَعْنَى الِاسْتِعَاذَةِ هُوَ الِاسْتِجَارَةُ بِاللَّهِ.",
+      "translation": "Pembahasan mengenai takwil Isti'adzah (Aku berlindung kepada Allah dari setan yang terkutuk). Makna Isti'adzah adalah meminta perlindungan kepada Allah."
+    },
+    {
+      "title": "Tafsir Surah Al-Fatihah: Basmalah",
+      "titleArabic": "تَفْسِيرُ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
+      "arabic": "الْقَوْلُ فِي تَأْوِيلِ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ. إِنَّ اللَّهَ تَعَالَى ذِكْرُهُ أَدَّبَ نَبِيَّهُ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِتَقْدِيمِ اسْمِهِ.",
+      "translation": "Pembahasan mengenai takwil Bismillahir Rahmanir Rahim. Sesungguhnya Allah mendidik Nabi-Nya dengan mendahulukan penyebutan nama-Nya sebelum melakukan segala sesuatu."
+    },
+    {
+      "title": "Tafsir Surah Al-Fatihah: Hamdalah",
+      "titleArabic": "تَفْسِيرُ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "arabic": "مَعْنَى الْحَمْدُ لِلَّهِ هُوَ الشُّكْرُ الْخَالِصُ لِلَّهِ دُونَ سَائِرِ مَا يُعْبَدُ مِنْ دُونِهِ.",
+      "translation": "Makna Alhamdu lillah adalah syukur yang murni kepada Allah semata, bukan kepada sesembahan selain-Nya."
+    },
+    {
+      "title": "Tafsir Surah Al-Fatihah: Ar-Rahman Ar-Rahim",
+      "titleArabic": "تَفْسِيرُ الرَّحْمَنِ الرَّحِيمِ",
+      "arabic": "الرَّحْمَنُ وَالرَّحِيمُ اسْمَانِ مُشْتَقَّانِ مِنَ الرَّحْمَةِ، وَالرَّحْمَنُ أَشَدُّ مُبَالَغَةً مِنَ الرَّحِيمِ.",
+      "translation": "Ar-Rahman dan Ar-Rahim adalah dua nama yang diambil dari kata rahmat, dan Ar-Rahman mengandung makna kasih sayang yang lebih luas/mendalam daripada Ar-Rahim."
+    },
+    {
+      "title": "Tafsir Surah Al-Fatihah: Maliki Yawm al-Din",
+      "titleArabic": "تَفْسِيرُ مَالِكِ يَوْمِ الدِّينِ",
+      "arabic": "تَأْوِيلُ مَالِكِ يَوْمِ الدِّينِ أَيْ مَالِكِ يَوْمِ الْجَزَاءِ وَالْحِسَابِ.",
+      "translation": "Takwil Maliki Yawmid Din adalah Pemilik/Penguasa hari pembalasan dan perhitungan amal."
+    },
+    {
+      "title": "Tafsir Surah Al-Fatihah: Iyyaka Na'budu",
+      "titleArabic": "تَفْسِيرُ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+      "arabic": "أَيْ لَكَ يَا رَبَّنَا نَخْضَعُ وَنَذِلُّ، وَمِنْكَ نَطْلُبُ الْمَعُونَةَ عَلَى طَاعَتِكَ.",
+      "translation": "Yaitu: Hanya kepada-Mu ya Tuhan kami, kami tunduk dan merendahkan diri, dan hanya dari-Mu kami memohon pertolongan untuk taat kepada-Mu."
+    },
+    {
+      "title": "Tafsir Surah Al-Fatihah: Al-Shirath al-Mustaqim",
+      "titleArabic": "تَفْسِيرُ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+      "arabic": "الْقَوْلُ فِي تَأْوِيلِ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ. الصِّرَاطُ هُوَ الطَّرِيقُ الْوَاضِحُ الَّذِي لَا اعْوِجَاجَ فِيهِ.",
+      "translation": "Pembahasan takwil Ihdinas Shirathal Mustaqim. Shirath adalah jalan yang terang/jelas yang tidak memiliki kebengkokan."
+    },
+    {
+      "title": "Tafsir Surah Al-Fatihah: Al-Maghdhubi 'alaihim wa al- الضالين",
+      "titleArabic": "تَفْسِيرُ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+      "arabic": "الْمَغْضُوبُ عَلَيْهِمْ هُمُ الْيَهُودُ، وَالضَّالُّونَ هُمُ النَّصَارَى.",
+      "translation": "Mereka yang dimurkai adalah kaum Yahudi, dan mereka yang sesat adalah kaum Nasrani."
+    },
+    {
+      "title": "Awal Surah Al-Baqarah: Huruf Muqatta'ah",
+      "titleArabic": "تَفْسِيرُ الم",
+      "arabic": "اخْتَلَفَ أَهْلُ التَّأْوِيلِ فِي مَعْنَى (الم)، فَقَالَ بَعْضُهُمْ: هُوَ اسْمٌ مِنْ أَسْمَاءِ الْقُرْآنِ.",
+      "translation": "Para ahli takwil berbeda pendapat mengenai makna Alif Lam Mim. Sebagian berkata: Itu adalah salah satu nama dari nama-nama Al-Qur'an."
+    },
+    {
+      "title": "Al-Baqarah Ayat 2: Kitab Tanpa Keraguan",
+      "titleArabic": "تَفْسِيرُ ذَلِكَ الْكِتَابُ لا رَيْبَ فِيهِ",
+      "arabic": "ذَلِكَ الْكِتَابُ يَعْنِي هَذَا الْكِتَابَ الَّذِي أَنْزَلْتُهُ إِلَيْكَ يَا مُحَمَّدُ.",
+      "translation": "Dzalikal Kitab bermakna Kitab ini yang telah Aku turunkan kepadamu wahai Muhammad."
+    },
+    {
+      "title": "Karakteristik Orang Bertaqwa",
+      "titleArabic": "تَفْسِيرُ هُدًى لِلْمُتَّقِينَ الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ",
+      "arabic": "الْمُتَّقُونَ هُمُ الَّذِينَ اتَّقَوُا اللَّهَ بِأَدَاءِ فَرَائِضِهِ وَاجْتِنَابِ مَعَاصِيهِ.",
+      "translation": "Orang bertaqwa adalah mereka yang menjaga diri kepada Allah dengan menunaikan kewajiban-kewajiban-Nya dan menjauhi maksiat kepada-Nya."
+    },
+    {
+      "title": "Penjelasan Mengenai Orang Kafir",
+      "titleArabic": "تَفْسِيرُ قَوْلِهِ تَعَالَى: إِنَّ الَّذِينَ كَفَرُوا سَوَاءٌ عَلَيْهِمْ",
+      "arabic": "الْكَافِرُ هُوَ الَّذِي غَطَّى عَلَى الْحَقِّ وَجَحَدَهُ بَعْدَ عِلْمِهِ.",
+      "translation": "Kafir adalah orang yang menutup-nutupi kebenaran dan mengingkarinya setelah mengetahuinya."
+    },
+    {
+      "title": "Sifat-Sifat Orang Munafik",
+      "titleArabic": "تَفْسِيرُ صِفَاتِ الْمُنَافِقِينَ",
+      "arabic": "وَمِنَ النَّاسِ مَنْ يَقُولُ آمَنَّا بِاللَّهِ وَبِالْيَوْمِ الآخِرِ وَمَا هُمْ بِمُؤْمِنِينَ.",
+      "translation": "Dan di antara manusia ada yang berkata 'Kami beriman kepada Allah dan hari akhir', padahal mereka bukanlah orang-orang yang beriman."
+    },
+    {
+      "title": "Perumpamaan Cahaya dan Gelap bagi Munafik",
+      "titleArabic": "تَفْسِيرُ مَثَلُهُمْ كَمَثَلِ الَّذِي اسْتَوْقَدَ نَارًا",
+      "arabic": "ضَرَبَ اللَّهُ لِلْمُنَافِقِينَ مَثَلًا بِالَّذِي اسْتَوْقَدَ نَارًا فِي لَيْلَةٍ مُظْلِمَةٍ.",
+      "translation": "Allah membuat perumpamaan bagi orang munafik seperti orang yang menyalakan api di malam yang gelap gulita."
+    },
+    {
+      "title": "Tantangan Membuat Surah yang Semisal",
+      "titleArabic": "تَفْسِيرُ وَإِنْ كُنْتُمْ فِي رَيْبٍ مِمَّا نَزَّلْنَا عَلَى عَبْدِنَا",
+      "arabic": "تَحَدَّى اللَّهُ الْمُشْرِكِينَ أَنْ يَأْتُوا بِسُورَةٍ مِنْ مِثْلِ هَذَا الْقُرْآنِ.",
+      "translation": "Allah menantang kaum musyrikin untuk mendatangkan satu surah yang semisal dengan Al-Qur'an ini."
+    },
+    {
+      "title": "Berita Gembira bagi Orang Beriman",
+      "titleArabic": "تَفْسِيرُ وَبَشِّرِ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ",
+      "arabic": "الْبُشْرَى هِيَ الْخَبَرُ السَّارُّ الَّذِي يَظْهَرُ أَثَرُهُ عَلَى بَشَرَةِ الْوَجْهِ.",
+      "translation": "Al-Busyra (Kabar Gembira) adalah berita menyenangkan yang pengaruhnya tampak pada kulit wajah (ekspresi)."
+    },
+    {
+      "title": "Perumpamaan Nyamuk dalam Al-Qur'an",
+      "titleArabic": "تَفْسِيرُ إِنَّ اللَّهَ لا يَسْتَحْيِي أَنْ يَضْرِبَ مَثَلًا مَا بَعُوضَةً",
+      "arabic": "إِنَّ اللَّهَ لَا يَتْرُكُ ضَرْبَ الْمَثَلِ بِالصَّغِيرِ مِنَ الْخَلْقِ كَمَا لَا يَتْرُكُهُ بِالْكَبِيرِ.",
+      "translation": "Sesungguhnya Allah tidak meninggalkan pembuatan perumpamaan dengan makhluk yang kecil sebagaimana Dia tidak meninggalkannya dengan yang besar."
+    },
+    {
+      "title": "Penciptaan Adam as dan Khilafah",
+      "titleArabic": "تَفْسِيرُ وَإِذْ قَالَ رَبُّكَ لِلْمَلائِكَةِ إِنِّي جَاعِلٌ فِي الأَرْضِ خَلِيفَةً",
+      "arabic": "الْخَلِيفَةُ هُوَ الَّذِي يَخْلُفُ غَيْرَهُ، وَكَانَ آدَمُ خَلِيفَةَ اللَّهِ فِي أَرْضِهِ.",
+      "translation": "Khalifah adalah orang yang menggantikan yang lain, dan Adam adalah khalifah Allah di bumi-Nya."
+    },
+    {
+      "title": "Pengajaran Nama-Nama kepada Adam",
+      "titleArabic": "تَفْسِيرُ وَعَلَّمَ آدَمَ الأَسْمَاءَ كُلَّهَا",
+      "arabic": "عَلَّمَهُ أَسْمَاءَ الذُّرِّيَّةِ وَالْمَلَائِكَةِ وَجَمِيعِ الْأَجْنَاسِ.",
+      "translation": "Allah mengajarkan kepadanya nama-nama keturunannya, malaikat, dan seluruh jenis makhluk."
+    },
+    {
+      "title": "Perintah Sujud kepada Adam dan Pembangkangan Iblis",
+      "titleArabic": "تَفْسِيرُ وَإِذْ قُلْنَا لِلْمَلائِكَةِ اسْجُدُوا لآدَمَ",
+      "arabic": "كَانَ سُجُودُهُمْ لِآدَمَ طَاعَةً لِلَّهِ وَتَكْرِيمًا لِآدَمَ، وَأَبَى إِبْلِيسُ اسْتِكْبَارًا.",
+      "translation": "Sujudnya malaikat kepada Adam adalah bentuk ketaatan kepada Allah dan penghormatan bagi Adam, namun Iblis enggan karena sombong."
+    },
+    {
+      "title": "Adam di Surga dan Larangan Mendekati Pohon",
+      "titleArabic": "تَفْسِيرُ وَقُلْنَا يَا آدَمُ اسْكُنْ أَنْتَ وَزَوْجُكَ الْجَنَّةَ",
+      "arabic": "الشَّجَرَةُ الَّتِي نُهِيَ عَنْهَا آدَمُ اخْتُلِفَ فِيهَا، فَقِيلَ: هِيَ السُّنْبُلَةُ، وَقِيلَ: الْكَرْمُ.",
+      "translation": "Pohon yang dilarang bagi Adam diperselisihkan; ada yang mengatakan bulir gandum, ada pula yang mengatakan pohon anggur."
+    },
+    {
+      "title": "Seruan kepada Bani Israil",
+      "titleArabic": "تَفْسِيرُ يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ",
+      "arabic": "إِسْرَائِيلُ هُوَ يَعْقُوبُ بْنُ إِسْحَاقَ بْنِ إِبْرَاهِيمَ عَلَيْهِمُ السَّلَامُ.",
+      "translation": "Israil adalah Ya'qub bin Ishaq bin Ibrahim 'alaihimus salam."
+    },
+    {
+      "title": "Kisah Penyelamatan dari Fir'aun",
+      "titleArabic": "تَفْسِيرُ وَإِذْ نَجَّيْنَاكُمْ مِنْ آلِ فِرْعَوْنَ",
+      "arabic": "آلُ فِرْعَوْنَ هُمْ أَتْبَاعُهُ عَلَى دِينِهِ وَأَهْلُ مَمْلَكَتِهِ.",
+      "translation": "Keluarga Fir'aun adalah para pengikut agamanya dan orang-orang di kerajaannya."
+    },
+    {
+      "title": "Kisah Sapi Betina (Al-Baqarah)",
+      "titleArabic": "تَفْسِيرُ قِصَّةِ الْبَقَرَةِ",
+      "arabic": "وَإِذْ قَالَ مُوسَى لِقَوْمِهِ إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تَذْبَحُوا بَقَرَةً.",
+      "translation": "Dan ketika Musa berkata kepada kaumnya: Sesungguhnya Allah memerintahkan kalian menyembelih seekor sapi betina."
+    },
+    {
+      "title": "Kekerasan Hati Bani Israil",
+      "titleArabic": "تَفْسِيرُ ثُمَّ قَسَتْ قُلُوبُكُمْ مِنْ بَعْدِ ذَلِكَ",
+      "arabic": "قَسْوَةُ الْقَلْبِ هِيَ يُبُوسَتُهُ وَغِلَظُهُ عَنِ الْإِنَابَةِ وَالْخُشُوعِ.",
+      "translation": "Kerasnya hati adalah kering dan kasarnya hati dari rasa kembali (inabah) dan khusyuk kepada Allah."
+    },
+    {
+      "title": "Sifat-Sifat Yahudi Madinah",
+      "titleArabic": "تَفْسِيرُ أَفَتَطْمَعُونَ أَنْ يُؤْمِنُوا لَكُمْ",
+      "arabic": "خَاطَبَ اللَّهُ الْمُؤْمِنِينَ بِقَطْعِ الرَّجَاءِ مِنْ إِيمَانِ الْيَهُودِ بِسَبَبِ عِنَادِهِمْ.",
+      "translation": "Allah menyapa kaum mukmin untuk memutus harapan akan keimanan Yahudi dikarenakan keras kepalanya mereka."
+    },
+    {
+      "title": "Hukum Sihir dan Harut Marut",
+      "titleArabic": "تَفْسِيرُ وَاتَّبَعُوا مَا تَتْلُو الشَّيَاطِينُ عَلَى مُلْكِ سُلَيْمَانَ",
+      "arabic": "تَأْوِيلُ قِصَّةِ هَارُوتَ وَمَارُوتَ وَمَا أُنْزِلَ عَلَيْهِمَا مِنَ السِّحْرِ بِبَابِلَ.",
+      "translation": "Takwil kisah Harut dan Marut serta apa yang diturunkan kepada keduanya berupa sihir di negeri Babilonia."
+    },
+    {
+      "title": "Nasakh (Penghapusan Hukum)",
+      "titleArabic": "تَفْسِيرُ مَا نَنْسَخْ مِنْ آيَةٍ أَوْ نُنْسِهَا",
+      "arabic": "النَّسْخُ هُوَ نَقْلُ الْعِبَادِ مِنْ حُكْمٍ إِلَى حُكْمٍ، وَرَفْعُ الْحُكْمِ الْأَوَّلِ.",
+      "translation": "Nasakh adalah memindahkan hamba dari satu hukum ke hukum lain, dan mengangkat (menghapus) hukum yang pertama."
+    },
+    {
+      "title": "Membangun Ka'bah (Ibrahim dan Ismail)",
+      "titleArabic": "تَفْسِيرُ وَإِذْ يَرْفَعُ إِبْرَاهِيمُ الْقَوَاعِدَ مِنَ الْبَيْتِ",
+      "arabic": "الْقَوَاعِدُ هِيَ أُسُسُ الْبَيْتِ الَّتِي يَقُومُ عَلَيْهَا.",
+      "translation": "Al-Qawa'id adalah fondasi Baitullah yang menjadi tumpuan bangunan di atasnya."
+    },
+    {
+      "title": "Pemindahan Qiblat",
+      "titleArabic": "تَفْسِيرُ سَيَقُولُ السُّفَهَاءُ مِنَ النَّاسِ مَا وَلَّاهُمْ",
+      "arabic": "السُّفَهَاءُ هُمُ الْجُهَّالُ مِنَ الْيَهُودِ وَالْمُشْرِكِينَ الَّذِينَ أَنْكَرُوا تَحْوِيلَ الْقِبْلَةِ.",
+      "translation": "Orang-orang bodoh (as-sufaha) adalah mereka yang jahil dari kalangan Yahudi dan musyrikin yang mengingkari perpindahan qiblat."
+    },
+    {
+      "title": "Safa dan Marwah sebagai Syi'ar Allah",
+      "titleArabic": "تَفْسِيرُ إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ",
+      "arabic": "الشَّعَائِرُ هِيَ الْمَعَالِمُ الَّتِي جَعَلَهَا اللَّهُ أَعْلَامًا لِطَاعَتِهِ.",
+      "translation": "Syi'ar adalah tanda-tanda yang dijadikan Allah sebagai simbol ketaatan kepada-Nya."
+    },
+    {
+      "title": "Hukum Qishash",
+      "titleArabic": "تَفْسِيرُ يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الْقِصَاصُ",
+      "arabic": "الْقِصَاصُ هُوَ أَنْ يُفْعَلَ بِالْقَاتِلِ مِثْلُ مَا فَعَلَ بِالْمَقْتُولِ.",
+      "translation": "Qishash adalah diberlakukannya kepada pembunuh hal yang serupa dengan apa yang ia lakukan kepada korban."
+    },
+    {
+      "title": "Wajibnya Puasa Ramadhan",
+      "titleArabic": "تَفْسِيرُ كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِنْ قَبْلِكُمْ",
+      "arabic": "الصِّيَامُ فِي اللُّغَةِ هُوَ الْإِمْسَاكُ عَنِ الشَّيْءِ.",
+      "translation": "Puasa secara bahasa adalah menahan diri dari sesuatu."
+    },
+    {
+      "title": "Kedekatan Allah kepada Hamba yang Berdoa",
+      "titleArabic": "تَفْسِيرُ وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ",
+      "arabic": "نَزَلَتْ هَذِهِ الْآيَةُ حِينَ سَأَلَ بَعْضُ الصَّحَابَةِ: أَقَرِيبٌ رَبُّنَا فَنُنَاجِيَهُ؟",
+      "translation": "Ayat ini turun ketika sebagian Sahabat bertanya: Apakah Tuhan kita dekat sehingga kita bisa berbisik (berdoa pelan) kepada-Nya?"
+    },
+    {
+      "title": "Ayat al-Kursi (Kekuasaan Allah)",
+      "titleArabic": "تَفْسِيرُ آيَةِ الْكُرْسِيِّ",
+      "arabic": "اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ. الْكُرْسِيُّ هُوَ مَوْضِعُ الْقَدَمَيْنِ عِنْدَ الْعَرَبِ.",
+      "translation": "Allah, tidak ada Tuhan selain Dia, Yang Maha Hidup lagi Terus-menerus mengurus makhluk-Nya. Al-Kursi (dalam satu riwayat) adalah tempat kedua telapak kaki menurut lisan Arab."
+    },
+    {
+      "title": "Tidak Ada Paksaan dalam Agama",
+      "titleArabic": "تَفْسِيرُ لا إِكْرَاهَ فِي الدِّينِ",
+      "arabic": "قِيلَ نَزَلَتْ فِي الْأَنْصَارِ الَّذِينَ كَانَ لَهُمْ أَوْلَادٌ تَهَوَّدُوا أَوْ تَنَصَّرُوا.",
+      "translation": "Dikatakan bahwa ayat ini turun mengenai kaum Anshar yang memiliki anak-anak yang telah memeluk Yahudi atau Nasrani."
+    },
+    {
+      "title": "Kisah Namrud dan Ibrahim",
+      "titleArabic": "تَفْسِيرُ أَلَمْ تَرَ إِلَى الَّذِي حَاجَّ إِبْرَاهِيمَ فِي رَبِّهِ",
+      "arabic": "هُوَ نُمْرُودُ بْنُ كَنْعَانَ، وَكَانَ أَوَّلَ مَنْ تَجَبَّرَ فِي الْأَرْضِ.",
+      "translation": "Dia adalah Namrud bin Kan'an, orang pertama yang bertindak sewenang-wenang di muka bumi."
+    },
+    {
+      "title": "Anjuran Bersedekah",
+      "titleArabic": "تَفْسِيرُ مَثَلُ الَّذِينَ يُنْفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ",
+      "arabic": "شَبَّهَ اللَّهُ النَّفَقَةَ فِي سَبِيلِهِ بِالْحَبَّةِ الَّتِي تَنْبُتُ سَبْعَ سَنَابِلَ.",
+      "translation": "Allah menyerupakan nafkah di jalan-Nya dengan sebutir benih yang menumbuhkan tujuh bulir."
+    },
+    {
+      "title": "Larangan Riba",
+      "titleArabic": "تَفْسِيرُ الَّذِينَ يَأْكُلُونَ الرِّبَا لا يَقُومُونَ",
+      "arabic": "الرِّبَا هُوَ الزِّيَادَةُ عَلَى رَأْسِ الْمَالِ بِسَبَبِ الْأَجَلِ.",
+      "translation": "Riba adalah tambahan atas modal pokok karena penangguhan waktu bayar."
+    },
+    {
+      "title": "Hukum Hutang Piutang (Ayat al-Mudayanah)",
+      "titleArabic": "تَفْسِيرُ آيَةِ الدَّيْنِ",
+      "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا تَدَايَنْتُمْ بِدَيْنٍ إِلَى أَجَلٍ مُسَمًّى فَاكْتُبُوهُ.",
+      "translation": "Wahai orang-orang yang beriman, apabila kalian berhutang piutang untuk waktu yang ditentukan, maka hendaklah kalian mencatatnya."
+    },
+    {
+      "title": "Penutup Surah Al-Baqarah",
+      "titleArabic": "تَفْسِيرُ آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ",
+      "arabic": "هَذِهِ الْآيَةُ تَشْمَلُ جَمِيعَ أَرْكَانِ الْإِيمَانِ وَدُعَاءَ الْمُؤْمِنِينَ.",
+      "translation": "Ayat ini mencakup seluruh rukun iman dan doa-doa kaum mukminin."
+    },
+    {
+      "title": "Awal Surah Ali Imran: Ayat Muhkam dan Mutasyabih",
+      "titleArabic": "تَفْسِيرُ آيَاتٍ مُحْكَمَاتٌ وَأُخَرُ مُتَشَابِهَاتٌ",
+      "arabic": "الْمُحْكَمُ هُوَ مَا اتَّضَحَ مَعْنَاهُ، وَالْمُتَشَابِهُ مَا احْتَمَلَ أَوْجُهًا كَثِيرَةً.",
+      "translation": "Muhkam adalah ayat yang maknanya jelas, sedangkan Mutasyabih adalah ayat yang mengandung banyak kemungkinan makna."
+    },
+    {
+      "title": "Surah An-Nisa: Hukum Waris",
+      "titleArabic": "تَفْسِيرُ يُوصِيكُمُ اللَّهُ فِي أَوْلادِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ الأُنْثَيَيْنِ",
+      "arabic": "بَيَانُ مَقَادِيرِ الْمَوَارِيثِ كَمَا شَرَعَهَا اللَّهُ تَعَالَى.",
+      "translation": "Penjelasan mengenai kadar-kadar warisan sebagaimana yang disyariatkan Allah Ta'ala."
+    },
+    {
+      "title": "Surah Al-Ma'idah: Sempurnanya Agama",
+      "titleArabic": "تَفْسِيرُ الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ",
+      "arabic": "نَزَلَتْ يَوْمَ عَرَفَةَ فِي حَجَّةِ الْوَدَاعِ، وَلَمْ يَنْزِلْ بَعْدَهَا حَلَالٌ وَلَا حَرَامٌ.",
+      "translation": "Ayat ini turun pada hari Arafah saat Haji Wada', dan tidak ada lagi hukum halal maupun haram yang turun setelahnya."
+    },
+    {
+      "title": "Surah Al-An'am: Penciptaan dari Tanah",
+      "titleArabic": "تَفْسِيرُ هُوَ الَّذِي خَلَقَكُمْ مِنْ طِينٍ",
+      "arabic": "بَدَأَ خَلْقَ آدَمَ مِنْ طِينٍ، ثُمَّ كَانَ التَّنَاسُلُ.",
+      "translation": "Allah memulai penciptaan Adam dari tanah, kemudian terjadilah proses keturunan."
+    },
+    {
+      "title": "Surah Al-A'raf: Kisah Ashabul A'raf",
+      "titleArabic": "تَفْسِيرُ وَعَلَى الأَعْرَافِ رِجَالٌ",
+      "arabic": "الْأَعْرَافُ هُوَ سُورٌ بَيْنَ الْجَنَّةِ وَالنَّارِ.",
+      "translation": "Al-A'raf adalah pagar/tembok pembatas antara Surga dan Neraka."
+    },
+    {
+      "title": "Tafsir Juz 'Amma: Surah An-Naba'",
+      "titleArabic": "تَفْسِيرُ عَمَّ يَتَسَاءَلُونَ",
+      "arabic": "عَنِ النَّبَأِ الْعَظِيمِ هُوَ الْقُرْآنُ أَوْ يَوْمُ الْقِيَامَةِ.",
+      "translation": "Tentang berita yang besar; ada yang menafsirkan itu Al-Qur'an, ada pula yang menyebut Hari Kiamat."
+    },
+    {
+      "title": "Tafsir Juz 'Amma: Surah Al-Ikhlas",
+      "titleArabic": "تَفْسِيرُ قُلْ هُوَ اللَّهُ أَحَدٌ",
+      "arabic": "تَعْدِلُ ثُلُثَ الْقُرْآنِ لِمَا فِيهَا مِنْ تَوْحِيدِ اللَّهِ صَمَدِيَّتِهِ.",
+      "translation": "Surah ini setara dengan sepertiga Al-Qur'an karena mengandung tauhid dan kemandirian Allah (As-Samadiyyah)."
+    },
+    {
+      "title": "Khatimah: Doa dan Penutup Kitab",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ وَالدُّعَاءُ",
+      "arabic": "تَمَّ تَفْسِيرُ الْقُرْآنِ بِحَمْدِ اللَّهِ وَمَنِّهِ، وَنَسْأَلُهُ النَّفْعَ بِهِ.",
+      "translation": "Telah selesai tafsir Al-Qur'an dengan memuji Allah dan karunia-Nya, kami memohon kepada-Nya kemanfaatan melalui kitab ini."
+    }
+  ]
+}
