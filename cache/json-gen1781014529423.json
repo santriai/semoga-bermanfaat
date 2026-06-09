@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Fath al-Bari Sharh Sahih al-Bukhari",
+    "author": "Ibn Hajar al-Asqalani",
+    "desc": "Kitab syarah Sahih al-Bukhari yang paling otoritatif dan lengkap dalam ilmu hadits."
+  },
+  {
+    "name": "Al-Minhaj Sharh Sahih Muslim",
+    "author": "Imam al-Nawawi",
+    "desc": "Syarah paling populer untuk Sahih Muslim yang menjelaskan aspek fiqih dan bahasa."
+  },
+  {
+    "name": "Al-Mustadrak 'ala al-Sahihayn",
+    "author": "Al-Hakim al-Nisaburi",
+    "desc": "Koleksi hadits yang memenuhi syarat Bukhari dan Muslim namun tidak dicantumkan oleh keduanya."
+  },
+  {
+    "name": "Sunan al-Bayhaqi al-Kubra",
+    "author": "Al-Bayhaqi",
+    "desc": "Ensiklopedi hadits hukum yang disusun berdasarkan bab-bab fiqih mazhab Syafi'i."
+  },
+  {
+    "name": "Sunan al-Darimi",
+    "author": "Al-Darimi",
+    "desc": "Salah satu kitab hadits tertua yang memiliki kedudukan tinggi di samping Kutubus Sittah."
+  },
+  {
+    "name": "Bulugh al-Maram min Adillat al-Ahkam",
+    "author": "Ibn Hajar al-Asqalani",
+    "desc": "Kitab ringkas yang menghimpun hadits-hadits pokok terkait hukum syariat."
+  },
+  {
+    "name": "Riyad al-Salihin",
+    "author": "Imam al-Nawawi",
+    "desc": "Kumpulan hadits tentang akhlak, tazkiyatun nufus, dan adab kehidupan sehari-hari."
+  },
+  {
+    "name": "Mishkat al-Masabih",
+    "author": "Al-Khatib al-Tibrizi",
+    "desc": "Penyempurnaan kitab Masabih al-Sunnah yang mengklasifikasikan derajat hadits."
+  },
+  {
+    "name": "Mafatih al-Ghayb (Tafsir al-Kabir)",
+    "author": "Fakhruddin al-Razi",
+    "desc": "Tafsir bercorak rasional-filosofis yang sangat luas pembahasannya dalam berbagai ilmu."
+  },
+  {
+    "name": "Al-Kashshaf",
+    "author": "Al-Zamakhshari",
+    "desc": "Tafsir yang menitikberatkan pada keindahan sastra (balaghah) dan mukjizat bahasa Al-Qur'an."
+  },
+  {
+    "name": "Ruh al-Ma'ani",
+    "author": "Al-Alusi",
+    "desc": "Tafsir komprehensif yang menggabungkan pendekatan riwayat, rasio, dan isyarat tasawuf."
+  },
+  {
+    "name": "Al-Bahr al-Muhit",
+    "author": "Abu Hayyan al-Andalusi",
+    "desc": "Tafsir yang menjadi rujukan utama dalam aspek I'rab dan struktur tata bahasa Arab."
+  },
+  {
+    "name": "Ahkam al-Qur'an",
+    "author": "Al-Jassas",
+    "desc": "Tafsir ayat-ayat hukum yang disusun berdasarkan metodologi fiqih mazhab Hanafi."
+  },
+  {
+    "name": "Ahkam al-Qur'an",
+    "author": "Ibn al-Arabi",
+    "desc": "Analisis hukum dari ayat Al-Qur'an berdasarkan perspektif mazhab Maliki."
+  },
+  {
+    "name": "Zad al-Masir fi 'Ilm al-Tafsir",
+    "author": "Ibn al-Jawzi",
+    "desc": "Tafsir ringkas namun padat yang merangkum berbagai pendapat ulama salaf."
+  },
+  {
+    "name": "Minhaj al-Talibin",
+    "author": "Imam al-Nawawi",
+    "desc": "Kitab rujukan utama (al-umdah) dalam fatwa mazhab Syafi'i muta'akhirin."
+  },
+  {
+    "name": "Fath al-Wahhab bi Sharh Manhaj al-Tullab",
+    "author": "Zakariyya al-Ansari",
+    "desc": "Syarah dari ringkasan Minhaj al-Talibin yang sangat populer di pesantren."
+  },
+  {
+    "name": "Tuhfat al-Muhtaj bi Sharh al-Minhaj",
+    "author": "Ibn Hajar al-Haytami",
+    "desc": "Kitab otoritas tertinggi dalam mazhab Syafi'i untuk wilayah Hijaz dan sekitarnya."
+  },
+  {
+    "name": "Nihayat al-Muhtaj ila Sharh al-Minhaj",
+    "author": "Syamsuddin al-Ramli",
+    "desc": "Kitab otoritas utama dalam mazhab Syafi'i yang sering dipadankan dengan Tuhfat al-Muhtaj."
+  },
+  {
+    "name": "Al-Hidayah fi Sharh Bidayat al-Mubtadi",
+    "author": "Al-Marghinani",
+    "desc": "Kitab fiqih Hanafi paling berpengaruh yang menggabungkan teks hukum dengan dalil rasional."
+  },
+  {
+    "name": "Radd al-Muhtar 'ala al-Durr al-Mukhtar",
+    "author": "Ibn Abidin",
+    "desc": "Hasyiyah paling lengkap dan menjadi rujukan akhir bagi fatwa dalam mazhab Hanafi."
+  },
+  {
+    "name": "Al-Mudawwanah al-Kubra",
+    "author": "Imam Sahnun",
+    "desc": "Kumpulan riwayat hukum dari Imam Malik yang menjadi fondasi utama mazhab Maliki."
+  },
+  {
+    "name": "Mukhtasar Khalil",
+    "author": "Khalil bin Ishaq",
+    "desc": "Ringkasan hukum paling padat yang menjadi standar pengajaran fiqih Maliki."
+  },
+  {
+    "name": "Al-Rawd al-Murbi'",
+    "author": "Mansur al-Buhuti",
+    "desc": "Syarah atas Zad al-Mustaqni' yang menjadi rujukan utama fiqih Hanbali di masa kini."
+  },
+  {
+    "name": "Al-Bidayah wa al-Nihayah",
+    "author": "Ibn Kathir",
+    "desc": "Ensiklopedi sejarah mulai dari penciptaan alam hingga peristiwa akhir zaman."
+  },
+  {
+    "name": "Siyar A'lam al-Nubala",
+    "author": "Imam al-Dhahabi",
+    "desc": "Kitab biografi tokoh-tokoh besar Islam yang disusun secara kronologis sejarah."
+  },
+  {
+    "name": "Al-Kamil fi al-Tarikh",
+    "author": "Ibn al-Athir",
+    "desc": "Kitab sejarah umum yang mencakup peristiwa dunia Islam dengan sangat detail."
+  },
+  {
+    "name": "Tarikh al-Rusul wa al-Muluk",
+    "author": "Ibnu Jarir al-Tabari",
+    "desc": "Induk dari segala kitab sejarah Islam yang menjadi sumber utama sejarawan setelahnya."
+  },
+  {
+    "name": "Al-Isti'ab fi Ma'rifat al-Ashab",
+    "author": "Ibn Abdil Barr",
+    "desc": "Kitab rujukan untuk mengenal biografi dan jasa para sahabat Nabi Muhammad SAW."
+  },
+  {
+    "name": "Usd al-Ghabah fi Ma'rifat al-Sahabah",
+    "author": "Ibn al-Athir",
+    "desc": "Kamus biografi sahabat Nabi yang sangat luas dan mencakup ribuan nama."
+  },
+  {
+    "name": "Al-Isabah fi Tamyiz al-Sahabah",
+    "author": "Ibn Hajar al-Asqalani",
+    "desc": "Kitab biografi sahabat yang paling komprehensif dan kritis dalam meneliti riwayat."
+  },
+  {
+    "name": "Ihya Ulum al-Din",
+    "author": "Imam al-Ghazali",
+    "desc": "Mahakarya yang memadukan ilmu fiqih, akhlak, dan tasawuf untuk menghidupkan hati."
+  },
+  {
+    "name": "Al-Muwafaqat",
+    "author": "Imam al-Shatibi",
+    "desc": "Kitab monumental yang membahas tentang filsafat hukum Islam dan Maqasid al-Shari'ah."
+  },
+  {
+    "name": "Al-Burhan fi Ushul al-Fiqh",
+    "author": "Imam al-Juwayni",
+    "desc": "Kitab ushul fiqih yang mendalam dan menjadi dasar pengembangan ilmu ushul."
+  },
+  {
+    "name": "Jam' al-Jawami'",
+    "author": "Tajuddin al-Subki",
+    "desc": "Ringkasan ilmu ushul fiqih yang menghimpun ratusan masalah hukum dari berbagai mazhab."
+  },
+  {
+    "name": "Al-Ashbah wa al-Naza'ir",
+    "author": "Jalaluddin al-Suyuti",
+    "desc": "Kitab yang membahas kaidah-kaidah fiqih universal dalam mazhab Syafi'i."
+  },
+  {
+    "name": "Nayl al-Awtar",
+    "author": "Imam al-Shawkani",
+    "desc": "Syarah kitab Muntaqa al-Akhbar yang mengulas dalil-dalil hukum secara kritis."
+  },
+  {
+    "name": "Subul al-Salam",
+    "author": "Muhammad bin Ismail al-San'ani",
+    "desc": "Syarah kitab Bulugh al-Maram yang sangat populer di kalangan penuntut ilmu hadits."
+  },
+  {
+    "name": "Al-Adab al-Mufrad",
+    "author": "Imam al-Bukhari",
+    "desc": "Kumpulan hadits khusus mengenai adab dan etika kesopanan seorang Muslim."
+  },
+  {
+    "name": "Al-Shifa bi Ta'rif Huquq al-Mustafa",
+    "author": "Qadi Ayyad",
+    "desc": "Kitab terbaik yang membahas tentang keagungan pribadi dan hak-hak Rasulullah SAW."
+  },
+  {
+    "name": "Al-Aqidah al-Tahawiyyah",
+    "author": "Imam al-Tahawi",
+    "desc": "Teks ringkas yang merangkum poin-poin pokok akidah Ahlussunnah wal Jama'ah."
+  },
+  {
+    "name": "Al-I'tisam",
+    "author": "Imam al-Shatibi",
+    "desc": "Kitab utama yang membahas definisi bid'ah dan pentingnya berpegang pada sunnah."
+  },
+  {
+    "name": "Zad al-Ma'ad fi Hadyi Khayr al-'Ibad",
+    "author": "Ibn al-Qayyim al-Jauziyyah",
+    "desc": "Kajian komprehensif tentang sirah nabawiyah dari sudut pandang hukum dan ibadah."
+  },
+  {
+    "name": "I'lam al-Muwaqqi'in",
+    "author": "Ibn al-Qayyim al-Jauziyyah",
+    "desc": "Kitab ushul fiqih yang membahas tentang metodologi fatwa dan perubahan hukum."
+  },
+  {
+    "name": "Madarij al-Salikin",
+    "author": "Ibn al-Qayyim al-Jauziyyah",
+    "desc": "Syarah kitab Manazil al-Sa'irin yang menjadi rujukan tinggi dalam ilmu tazkiyatun nufus."
+  },
+  {
+    "name": "Majmu' al-Fatawa",
+    "author": "Ibn Taymiyyah",
+    "desc": "Koleksi fatwa raksasa yang mencakup akidah, fiqih, tasawuf, dan bantahan pemikiran."
+  },
+  {
+    "name": "Al-Tamhid",
+    "author": "Ibn Abdil Barr",
+    "desc": "Syarah kitab al-Muwatta' yang disusun berdasarkan urutan nama guru Imam Malik."
+  },
+  {
+    "name": "Al-Istidhkar",
+    "author": "Ibn Abdil Barr",
+    "desc": "Syarah al-Muwatta' yang disusun berdasarkan bab fiqih dan perbandingan mazhab."
+  },
+  {
+    "name": "Al-Luma' fi Ushul al-Fiqh",
+    "author": "Abu Ishaq al-Syirazi",
+    "desc": "Kitab dasar ushul fiqih mazhab Syafi'i yang sangat populer bagi pemula dan menengah."
+  },
+  {
+    "name": "Al-Khasa'is al-Kubra",
+    "author": "Jalaluddin al-Suyuti",
+    "desc": "Kitab yang menghimpun keistimewaan dan mukjizat Rasulullah SAW yang luar biasa."
+  }
+]
