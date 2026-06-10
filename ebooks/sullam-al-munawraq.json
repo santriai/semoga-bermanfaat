@@ -1,0 +1,194 @@
+{
+  "profile": {
+    "name": "Sullam al-Munawraq",
+    "originalTitle": "السُّلَّمُ الْمُنَوْرَقُ فِي عِلْمِ الْمَنْطِقِ",
+    "author": "Al-Imam Abu Zayd Abdurrahman bin Muhammad al-Akhdhari",
+    "field": "Ilmu Mantiq (Logika Formal)",
+    "about": "Sullam al-Munawraq adalah kitab matan berbentuk nadhom (bait syair) yang menjadi standar kurikulum di dunia pesantren dan Al-Azhar untuk mempelajari dasar-dasar Ilmu Mantiq atau logika formal. Kitab ini merupakan ringkasan dari kitab al-Isaghuji karya Al-Abhari namun dengan penambahan kaidah-kaidah penting yang disesuaikan dengan akidah Islam. Isi kitab ini mencakup pembahasan tentang konsepsi (tasawwurat), hukum proposisi (tasdiqat), silogisme (qiyas), hingga kesalahan berpikir (mughalathah). Melalui kitab ini, penuntut ilmu diajarkan untuk menjaga akal dari kesalahan berpikir dalam merumuskan dalil-dalil keagamaan dan filosofis. Sistematikanya yang rapi menjadikannya tangga pertama bagi siapa saja yang ingin mendalami ilmu hikmah dan turath.",
+    "authorBorn": "918 H (Biskra, Aljazair)",
+    "authorDied": "983 H (Aljazair)",
+    "authorCentury": "Abad ke-10 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah - Pujian kepada Allah",
+      "titleArabic": "الْمُقَدِّمَةُ - حَمْدُ اللهِ",
+      "arabic": "اَلْحَمْدُ للهِ الَّذِي قَدْ أَخْرَجَا * نَتَائِحَ الْفِكْرِ لِأَرْبَابِ الْحِجَا. وَحَطَّ عَنْهُمْ مِنْ سَمَاءِ الْعَقْلِ * كُلَّ حِجَابٍ مِنْ سَحَابِ الْجَهْلِ",
+      "translation": "Segala puji bagi Allah yang telah mengeluarkan buah pemikiran bagi pemilik akal. Dan Dia telah menyingkirkan dari langit akal mereka segala penghalang dari awan kebodohan."
+    },
+    {
+      "title": "Tujuan Penulisan Kitab",
+      "titleArabic": "خُطْبَةُ الْكِتَابِ",
+      "arabic": "وَبَعْدُ فَالْمَنْطِقُ لِلْجَنَانِ * نِسْبَتُهُ كَالنَّحْوِ لِلِّسَانِ. فَيَعْصِمُ الأَفْكَارَ عَنْ غَيِّ الْخَطَا * وَعَنْ دَقِيقِ الْفَهْمِ يَكْشِفُ الْغِطَا",
+      "translation": "Dan setelah itu, maka kedudukan Ilmu Mantiq bagi hati (akal) adalah seperti ilmu Nahwu bagi lisan. Ia menjaga pikiran dari kesesatan kesalahan dan menyingkap penutup dari pemahaman yang mendalam."
+    },
+    {
+      "title": "Hukum Mempelajari Ilmu Mantiq",
+      "titleArabic": "جَوَازُ الِاشْتِغَالِ بِهِ",
+      "arabic": "وَالْخُلْفُ فِي جَوَازِ الِاشْتِغَالِ * بِهِ عَلَى ثَلَاثَةٍ أَقْوَالِ. فَابْنُ الصَّلَاحِ وَالنَّوَاوِي حَرَّمَا * وَقَالَ قَوْمٌ يَنْبَغِي أَنْ يُعْلَمَا. وَالْقَوْلَةُ الْمَشْهُورَةُ الصَّحِيحَةُ * جَوَازُهُ لِكَامِلِ الْقَرِيحَةِ",
+      "translation": "Perbedaan pendapat dalam kebolehan menyibukkan diri dengan Mantiq terbagi atas tiga pendapat. Ibnu Shalah dan An-Nawawi mengharamkannya, sebagian kaum berkata hendaknya dipelajari. Dan pendapat yang masyhur lagi shahih adalah boleh bagi orang yang sempurna akalnya (yang menguasai Al-Qur'an dan Sunnah)."
+    },
+    {
+      "title": "Jenis-jenis Ilmu Baru (Al-Hadits)",
+      "titleArabic": "أَنْوَاعُ الْعِلْمِ الْحَادِثِ",
+      "arabic": "إِدْرَاكُ مُفْرَدٍ تَصَوُّراً عُلِمْ * وَدَرْكُ نِسْبَةٍ بِتَصْدِيقٍ وُسِمْ. وَقَدِّمِ الأَوَّلَ عِنْدَ الْوَضْعِ * لِأَنَّهُ مُقَدَّمٌ بِالطَّبْعِ",
+      "translation": "Memahami kata tunggal disebut Tasawwur, dan memahami hubungan (hukum) disebut Tasdiq. Dahulukanlah yang pertama (Tasawwur) dalam penyusunan karena secara alami ia memang lebih dahulu (daripada Tasdiq)."
+    },
+    {
+      "title": "Ilmu Dharuri dan Nazhari",
+      "titleArabic": "الْعِلْمُ الضَّرُورِيُّ وَالنَّظَرِيُّ",
+      "arabic": "وَالنَّظَرِي مَا احْتَاجَ لِلتَّأَمُّلِ * وَعَكْسُهُ هُوَ الضَّرُورِيُّ الْجَلِي. وَمَا بِهِ إِلَى تَصَوُّرٍ وُصِلْ * يُدْعَى بِقَوْلٍ شَارِحٍ فَلْتَبْتَهِلْ",
+      "translation": "Ilmu Nazhari adalah yang membutuhkan pemikiran mendalam, dan kebalikannya adalah Ilmu Dharuri yang sudah jelas. Apa yang menjadi perantara menuju Tasawwur disebut Qaul Syarih (Definisi), maka bersungguh-sungguhlah."
+    },
+    {
+      "title": "Macam-macam Penunjukan Kata (Dalalah)",
+      "titleArabic": "أَنْوَاعُ الدَّلَالَةِ الْوَضْعِيَّةِ",
+      "arabic": "دَلَالَةُ اللَّفْظِ عَلَى مَا وَافَقَهْ * بَعْضُهُ مُطَابَقَةٌ وَافِقَهْ. وَجُزْئِهِ تَضَمُّنٌ وَمَا لَزِمْ * فَهْوَ الْتِزَامٌ إِنْ بِعَقْلٍ الْتُزِمْ",
+      "translation": "Penunjukan lafadz pada makna yang sesuai secara utuh disebut Mutabaqah. Penunjukan pada sebagian maknanya disebut Tadammun. Penunjukan pada kelaziman maknanya disebut Iltizam, jika secara akal itu lazim."
+    },
+    {
+      "title": "Pembahasan Lafadz (Mabahits al-Alfazh)",
+      "titleArabic": "مَبَاحِثُ الأَلْفَاظِ",
+      "arabic": "مُسْتَعْمَلُ الأَلْفَاظِ حَيْثُ يُوجَدُ * إِمَّا مُرَكَّبٌ وَإِمَّا مُفْرَدُ. فَأَوَّلٌ مَا دَلَّ جُزْؤُهُ عَلَى * جُزْءِ مُسَمَّاهُ بِعَكْسِ مَا تَلَا",
+      "translation": "Lafadz yang digunakan terbagi menjadi Murakkab (tersusun) atau Mufrad (tunggal). Yang pertama (Murakkab) adalah yang bagian lafadznya menunjukkan bagian maknanya, berbeda dengan yang setelahnya (Mufrad)."
+    },
+    {
+      "title": "Pembagian Mufrad (Kulli dan Juz'i)",
+      "titleArabic": "أَقْسَامُ اللَّفْظِ الْمُفْرَدِ",
+      "arabic": "وَهْوَ إِلَى كُلِّيٍّ وَجُزْئِيٍّ انْقَسَمْ * حَيْثُ اشْتِرَاكٌ فِي مَعَانِيهِ ارْتَسَمْ. وَطَمَّ نَكْسٌ فَهُوَ جُزْئِيٌّ فَقَدْ * وَالْكُلُّ مَا لَيْسَ لِوَاحِدٍ يُرَدْ",
+      "translation": "Mufrad terbagi menjadi Kulli dan Juz'i. Di mana persekutuan maknanya tergambar (Kulli). Jika tidak bisa dipersekutukan maka itu Juz'i. Kulli adalah yang maknanya tidak terbatas pada satu satuan saja."
+    },
+    {
+      "title": "Lima Universal (Al-Kulliyyat al-Khams)",
+      "titleArabic": "الْكُلِّيَّاتُ الْخَمْسَةُ",
+      "arabic": "اَلْكُلِّيَّاتُ خَمْسَةٌ جَلِيَّةْ * جِنْسٌ وَنَوْعٌ ثُمَّ فَصْلٌ خَاصَّةْ. وَعَرَضٌ عَامٌّ فَأَوَّلٌ ثَلَاثْ * ذَاتِيَّةٌ وَالْبَاقِي خَارِجٌ نَبَاثْ",
+      "translation": "Kulliyyat (universal) ada lima yang jelas: Jenis, Nau' (spesies), Fasl (pembeda), Khassah (sifat khusus), dan 'Aradh 'Aam (sifat umum). Tiga yang pertama bersifat Dzati (esensial), dan sisanya bersifat Kharij (aksidental)."
+    },
+    {
+      "title": "Definisi (Al-Qaul al-Syarih)",
+      "titleArabic": "الْقَوْلُ الشَّارِحُ (الْمُعَرِّفَات)",
+      "arabic": "مَعْرِفٌ لِذِي التَّصَوُّراتِ * بِالْحَدِّ وَالرَّسْمِ لَهُ أَقْسَامُ. فَالْحَدُّ بِالْجِنْسِ وَبِالْفَصْلِ اقْتَرَنْ * وَالرَّسْمُ بِالْجِنْسِ وَخَاصَّةٍ زُكِنْ",
+      "translation": "Definisi untuk mencapai Tasawwurat memiliki bagian berupa Al-Hadd dan Al-Rasm. Al-Hadd adalah gabungan Jenis dan Fasl. Sedangkan Al-Rasm dikenal dengan gabungan Jenis dan Khassah."
+    },
+    {
+      "title": "Syarat-syarat Definisi",
+      "titleArabic": "شُرُوطُ الْمُعَرِّفِ",
+      "arabic": "وَشَرْطُ كُلٍّ أَنْ يَكُونَ مُطَّرِدْ * مُنْعَكِسًا وَظَاهِرًا لَا أَنْ يَرِدْ. أَبْعَدَ أَوْ مُسَاوِيًا أَوْ بِالْخَفَا * وَلَا بِمَا يُدْرَى بِمَا بِهِ عَفَا",
+      "translation": "Syarat setiap definisi adalah harus muttharid (setiap ada definisi ada yang didefinisikan) dan mun'akis (setiap ada yang didefinisikan ada definisi), jelas, tidak lebih jauh (sulit), tidak sama tingkatannya, tidak samar, dan tidak menggunakan kata yang didefinisikan itu sendiri."
+    },
+    {
+      "title": "Proposisi (Al-Qadhaya)",
+      "titleArabic": "الْقَضَايَا وَأَحْكَامُهَا",
+      "arabic": "جُمْلَةٌ خَبَرِيَّةٌ تُسَمَّى * قَضِيَّةً لَدَى النُّحَاةِ تُسْمَى. ثُمَّ الْقَضَايَا عِنْدَهُمْ قِسْمَانِ * شَرْطِيَّةٌ حَمْلِيَّةٌ ثَانِي",
+      "translation": "Kalimat berita disebut sebagai Qadhaya (Proposisi) menurut ahli mantiq. Kemudian proposisi menurut mereka ada dua macam: Syartiyyah (kondisional) dan Hamliyyah (kategoris)."
+    },
+    {
+      "title": "Bagian Proposisi Hamliyyah",
+      "titleArabic": "أَقْسَامُ الْحَمْلِيَّةِ",
+      "arabic": "فَكُلُّ مَا أَوْجَبْتَ أَوْ سَلَبْتَهْ * فِي جُمْلَةٍ حَمْلِيَّةٍ عَرَفْتَهْ. فَمَوْضُوعٌ هُوَ الْأَوَّلُ وَالثَّانِي * مَحْمُولٌ لَهَا وَالْحُكْمُ رَبْطٌ ثَانِ",
+      "translation": "Setiap yang kau tetapkan (positif) atau kau nafikan (negatif) dalam kalimat Hamliyyah telah kau ketahui. Bagian pertama disebut Maudhu' (Subjek) dan yang kedua disebut Mahmul (Predikat), dan hukumnya disebut hubungan (Rabitah)."
+    },
+    {
+      "title": "Pembagian Hamliyyah Berdasarkan Kuantitas",
+      "titleArabic": "أَقْسَامُ الْحَمْلِيَّةِ بِاعْتِبَارِ السُّورِ",
+      "arabic": "وَالسُّورُ كُلِّيًّا وَجُزْئِيًّا يُرَى * أَرْبَعَةٌ أَقْسَامُهُ إِذْ ذُكِرَا. كُلٌّ وَبَعْضٌ وَلَا شَيْءَ وَلَيْسَ * بَعْضُ هِيَ الأَلْفَاظُ حَيْثُ تُقْتَبَسْ",
+      "translation": "Sur (Kuantor) terlihat secara Kulli dan Juz'i, bagiannya ada empat saat disebutkan. 'Setiap' (Kullu), 'Sebagian' (Ba'du), 'Tidak satupun' (La Syai'a), dan 'Tidak sebagian' (Laisa Ba'du) adalah lafadz-lafadz yang digunakan."
+    },
+    {
+      "title": "Proposisi Syartiyyah (Kondisional)",
+      "titleArabic": "الْقَضِيَّةُ الشَّرْطِيَّةُ",
+      "arabic": "وَإِنْ عَلَى تَعْلِيقِ أَمْرٍ أَوْجَبَتْ * فَشَرْطِيَّةٌ مُتَّصِلَةٌ قَدْ وُصِفَتْ. وَذَاتُ الِانْفِصَالِ قَسِّمْهَا إِلَى * ثَلَاثَةٍ مَانِعِ جَمْعٍ أَوْ خَلَا",
+      "translation": "Jika proposisi menetapkan penggantungan suatu perkara, maka disebut Syartiyyah Muttashilah (kondisional kontinu). Dan yang memiliki pemisahan (Munfashilah) terbagi tiga: Mani' Jam'in (tidak bisa kumpul), Mani' Khuluwin (tidak bisa kosong), atau keduanya."
+    },
+    {
+      "title": "Kontradiksi (Al-Tanaqudh)",
+      "titleArabic": "التَّنَاقُضُ",
+      "arabic": "تَنَاقُضٌ خُلْفُ الْقَضِيَّتَيْنِ فِي * كَيْفٍ وَإِيجَابُ هُوَ السَّلْبُ يَفِي. وَحَيْثُ أَوْجَبْتَ فَصِدْقُ الْوَاحِدَهْ * يُوجِبُ أَنْ تَكُونَ أُخْرَى فَاسِدَهْ",
+      "translation": "Tanaqudh (kontradiksi) adalah perselisihan dua proposisi dalam kualitas (positif/negatif). Di mana jika kau menetapkan kebenaran salah satunya, maka hal itu mewajibkan salah satunya lagi menjadi salah."
+    },
+    {
+      "title": "Syarat-syarat Kontradiksi",
+      "titleArabic": "شُرُوطُ التَّنَاقُضِ",
+      "arabic": "فِي الِاتِّفَاقِ فِي كَمٍّ وَجَهَةْ * وَالْكَيْفُ وَالْمَحْمُولِ ثُمَّ الْأَزْمِنَةْ. وَالْمَوْضُوعِ وَالْمَكَانِ وَالْإِضَافَةْ * وَالْقُوَّةِ وَالْفِعْلِ هِيَ الْمُضَافَةْ",
+      "translation": "Harus ada kesamaan dalam kuantitas, arah, kualitas, predikat, waktu, subjek, tempat, korelasi, serta antara potensi dan aksi."
+    },
+    {
+      "title": "Konversi (Al-'Aks al-Mustawi)",
+      "titleArabic": "الْعَكْسُ الْمُسْتَوِي",
+      "arabic": "اَلْعَكْسُ قَلْبُ جُزْأَيِ الْقَضِيَّةْ * مَعَ بَقَاءِ الْكَيْفِ وَالتَّصْدِيقِ. لَكِنْ إِذَا كَانَتْ هِيَ الْكُلِّيَّةْ * تَنْعَكِسُ الْجُزْئِيَّةَ الْمَرْضِيَّةْ",
+      "translation": "Al-'Aks adalah membalik dua bagian proposisi dengan tetap menjaga kualitas dan kebenarannya. Namun jika proposisinya adalah Kulli Mujabah, maka dikonversi menjadi Juz'i Mujabah."
+    },
+    {
+      "title": "Silogisme (Al-Qiyas)",
+      "titleArabic": "الْقِيَاسُ",
+      "arabic": "إِنَّ الْقِيَاسَ مِنْ قَضَايَا صُوِّرَا * يَسْتَلْزِمُ الذَّاتُ قَوْلًا آخَرَا. ثُمَّ الْقِيَاسُ عِنْدَهُمْ قِسْمَانِ * فَمِنْهُ مَا يُدْعَى بِالِاقْتِرَانِي",
+      "translation": "Silogisme (Qiyas) dibentuk dari beberapa proposisi yang secara zatnya mengharuskan adanya pernyataan lain (kesimpulan). Kemudian Qiyas menurut mereka ada dua: salah satunya disebut Iqtirani (silogisme kategoris)."
+    },
+    {
+      "title": "Bentuk-bentuk Silogisme (Al-Asykal)",
+      "titleArabic": "أَشْكَالُ الْقِيَاسِ",
+      "arabic": "وَالْمُنْتِجُ لِلأَشْكَالِ فِي التَّصْدِيقِ * أَرْبَعَةٌ لَدَى ذَوِي التَّحْقِيقِ. بِحَسَبِ الْحَدِّ الْأَوْسَطِ الْمُجَرَّدِ * عَنْ سُورِهِ فِي النَّظْمِ لَا فِي الْمَوْرِدِ",
+      "translation": "Bentuk-bentuk (Syakl) yang menghasilkan pembenaran ada empat menurut para peneliti akurat. Hal ini berdasarkan posisi Had Al-Ausath (term penengah) dalam susunannya."
+    },
+    {
+      "title": "Syarat Produksi Silogisme Bentuk Pertama",
+      "titleArabic": "الشَّكْلُ الْأَوَّلُ",
+      "arabic": "فَمُوجَبٌ صُغْرَاهُ مَعْ كُلِّيَّةِ * كُبْرَاهُ لِلأَوَّلِ ذِي الْإِنْتَاجِ. وَإِنْ تُرِدْ فَثَانِهِ فَالِاخْتِلَافْ * فِي الْكَيْفِ مَعْ كُلِّيَّةٍ كَمَا انْكَشَفْ",
+      "translation": "Maka Syakl pertama akan menghasilkan (valid) jika premis minornya positif dan premis mayornya universal (kulli). Jika kau ingin Syakl kedua, maka syaratnya adalah berbeda dalam kualitas (satu positif satu negatif) beserta mayor universal."
+    },
+    {
+      "title": "Bentuk Ketiga dan Keempat",
+      "titleArabic": "الشَّكْلُ الثَّالِثُ وَالرَّابِعُ",
+      "arabic": "ثَالِثُهَا إِيجَابُ صُغْرَاهُ وَأَنْ * تَكُونَ مَعْهَا أَيُّ جُزْئِيٍّ زُكِنْ. رَابِعُهَا فَعَكْسُ لِلأَوَّلِ جَلِي * تَمَّتْ بِهِ الأَشْكَالُ كُلُّ الْعَمَلِ",
+      "translation": "Syakl ketiga syaratnya adalah premis minornya positif dan salah satunya harus universal. Syakl keempat adalah kebalikan dari Syakl pertama, dengannya sempurnalah segala bentuk operasi logis."
+    },
+    {
+      "title": "Silogisme Istitsna'i (Conditional Syllogism)",
+      "titleArabic": "الْقِيَاسُ الِاسْتِثْنَائِي",
+      "arabic": "وَمِنْهُ مَا يُدْعَى بِالِاسْتِثْنَائِي * وَيُعْرَفُ بِالشَّرْطِي فِي الأَنْبَاءِ. فَإِنْ يَكُ الشَّرْطِيُّ ذَا اتِّصَالِ * فَاسْتَثْنِ عَيْنَ مَا مَضَى لِلتَّالِي",
+      "translation": "Di antara Qiyas ada yang disebut Istitsna'i, dan dikenal sebagai Qiyas Syartiy dalam penjelasan. Jika syartiyyah-nya kontinu (muttashilah), maka mengecualikan anteseden akan menghasilkan konsekuen."
+    },
+    {
+      "title": "Lampiran Qiyas (Lawahiq al-Qiyas)",
+      "titleArabic": "لَوَاحِقُ الْقِيَاسِ",
+      "arabic": "وَمِنْهُ مَا يُدْعَى قِيَاسَ الْخُلْفِ * وَهُوَ الَّذِي يَنْتِجُ عَيْنَ الْحَقِّ. أَوْ هُوَ تَرْكِيبُ قِيَاسَاتٍ تَلِي * كَمَا بَدَا فِي الْقَوْلِ أَوْ فِي الْعَمَلِ",
+      "translation": "Di antaranya ada yang disebut Qiyas al-Khulf (pembuktian lewat kontradiksi), yang menghasilkan kebenaran itu sendiri. Atau ia merupakan susunan dari beberapa qiyas yang berurutan."
+    },
+    {
+      "title": "Induksi (Istiqra') dan Analogy (Tamtsil)",
+      "titleArabic": "الِاسْتِقْرَاءُ وَالتَّمْثِيلُ",
+      "arabic": "وَإِنْ بِجُزْئِيٍّ عَلَى كُلِّيٍّ اسْتُدِلْ * فَذَاكَ بِالِاسْتِقْرَاءِ عِنْدَهُمْ عُقِلْ. وَعَكْسُهُ الْقِيَاسُ وَالتَّمْثِيلُ * هُوَ اسْتِدْلَالٌ بِجُزْئٍ فَلْتَنِيلُ",
+      "translation": "Jika menggunakan bagian (juz'i) untuk menyimpulkan keseluruhan (kulli), maka itu disebut Istiqra' (Induksi). Kebalikannya adalah Qiyas, dan Tamtsil (Analogi) adalah berdalil dengan satu bagian atas bagian lainnya."
+    },
+    {
+      "title": "Materi Argumentasi (Aqsam al-Hujjah)",
+      "titleArabic": "أَقْسَامُ الْحُجَّةِ (الْمَادَّةُ)",
+      "arabic": "وَحُجَّةٌ نَقْلِيَّةٌ عَقْلِيَّةْ * أَقْسَامُ هَذِي خَمْسَةٌ جَلِيَّةْ. بُرْهَانٌ اَوْ جَدَلٌ اَوْ خَطَابَةْ * وَشِعْرٌ اَوْ سَفْسَطَةٌ مُسْتَطَابَةْ",
+      "translation": "Argumentasi (Hujjah) ada yang bersifat Naqli (teks) dan 'Aqli (akal). Bagian yang 'Aqli ada lima: Burhan (Demonstrasi), Jadal (Dialektika), Khathabah (Retorika), Syi'ir (Puisi), dan Safsathah (Sofisme)."
+    },
+    {
+      "title": "Burhan (Bukti Nyata)",
+      "titleArabic": "الْبُرْهَانُ",
+      "arabic": "أَجَلُّهَا الْبُرْهَانُ مَا تَاَلَّفَا * مِنْ مُقَدِّمَاتٍ بِالْيَقِينِ تُصْطَفَى. مِنْ أَوَّلِيَّاتٍ وَمُشَاهَدَاتِ * وَمُجَرَّبَاتٍ ثُمَّ مُتَوَاتِرَاتِ",
+      "translation": "Yang paling mulia adalah Burhan, yaitu yang tersusun dari premis-premis yang dipilih dengan keyakinan (Yaqin). Berasal dari aksioma, observasi, eksperimen, dan mutawatir."
+    },
+    {
+      "title": "Kesalahan dalam Burhan",
+      "titleArabic": "الْخَطَأُ فِي الْبُرْهَانِ",
+      "arabic": "اَلْخَطَأُ فِي الْبُرْهَانِ قَدْ يُصَابُ * مِنْ جِهَةِ اللَّفْظِ أَوِ الْمَعْنَى يُجَابُ. فَاشْتِرَاكُ اللَّفْظِ مِمَّا قَدْ خَفَا * وَكَالْتِبَاسِ فِيهِ مَا قَدْ وُصِفَا",
+      "translation": "Kesalahan dalam Burhan terkadang terjadi dari sisi lafadz atau makna. Seperti ambiguitas lafadz yang tersembunyi atau kerancuan dalam deskripsi."
+    },
+    {
+      "title": "Penutup - Syukur dan Shalawat",
+      "titleArabic": "الْخَاتِمَةُ",
+      "arabic": "هَذَا تَمَامُ الْغَرَضِ الْمَقْصُودِ * مِنْ نَظْمِ هَذَا السُّلَّمِ الْمُنَوْرَقِ. اَلْحَمْدُ لِلَّهِ عَلَى التَّمَامِ * ثُمَّ الصَّلَاةُ بَعْدُ وَالسَّلَامُ",
+      "translation": "Inilah kesempurnaan dari tujuan yang dimaksud dalam menggubah Sullam al-Munawraq ini. Segala puji bagi Allah atas selesainya kitab ini, kemudian shalawat serta salam."
+    },
+    {
+      "title": "Doa untuk Pengarang",
+      "titleArabic": "الدُّعَاءُ لِلْمُؤَلِّفِ",
+      "arabic": "عَلَى النَّبِيِّ الْمُصْطَفَى وَآلِهِ * وَصَحْبِهِ الأَكْرَمِ فِي أَحْوَالِهِ. مَا سَحَّتِ السُّحْبُ بِمَاءٍ مَطَرِ * وَمَا جَرَى فَوْقَ الْبَسِيطِ مِنْ نَهَرِ",
+      "translation": "Semoga tercurah kepada Nabi yang terpilih, keluarga, dan para sahabatnya yang mulia. Selama awan masih menurunkan hujan dan selama sungai masih mengalir di atas bumi."
+    }
+  ]
+}
