@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Al-Burhan",
+    "author": "Al-Farabi",
+    "desc": "Membahas teori demonstrasi dan pembuktian logis yang ketat sesuai tradisi Aristotelian."
+  },
+  {
+    "name": "Al-Madkhal",
+    "author": "Al-Farabi",
+    "desc": "Pengantar awal (Isaghuji) ke dalam kategori-kategori dasar dalam ilmu logika."
+  },
+  {
+    "name": "Al-Ibarah",
+    "author": "Al-Farabi",
+    "desc": "Penjelasan mengenai proposisi (Hermeneutics) dan struktur kalimat dalam logika."
+  },
+  {
+    "name": "Kitab al-Qiyas",
+    "author": "Al-Farabi",
+    "desc": "Membahas tentang silogisme dan mekanisme penyimpulan formal secara mendalam."
+  },
+  {
+    "name": "Al-Mantiq (Min al-Shifa)",
+    "author": "Ibn Sina",
+    "desc": "Bagian logika dari ensiklopedia Al-Shifa yang merupakan karya logika paling luas di dunia Islam."
+  },
+  {
+    "name": "Al-Najat",
+    "author": "Ibn Sina",
+    "desc": "Ringkasan kaidah logika yang mencakup konsepsi (Tasawwur) dan asersi (Tasdiq)."
+  },
+  {
+    "name": "Al-Isharat wa al-Tanbihat",
+    "author": "Ibn Sina",
+    "desc": "Karya akhir Ibn Sina yang menyajikan logika secara lebih intuitif dan sistematis."
+  },
+  {
+    "name": "Al-Mantiq al-Mashriqiyyin",
+    "author": "Ibn Sina",
+    "desc": "Representasi 'Logika Timur' yang dikembangkan Ibn Sina sebagai alternatif logika Peripatetik."
+  },
+  {
+    "name": "Sharh al-Matali'",
+    "author": "Qutb al-Din al-Razi",
+    "desc": "Komentar mendalam (Syarah) atas kitab Matali' al-Anwar yang menjadi standar logika tinggi."
+  },
+  {
+    "name": "Matali' al-Anwar",
+    "author": "Siraj al-Din al-Urmawi",
+    "desc": "Teks otoritatif yang menggabungkan logika dengan kerangka filosofis Islam klasik."
+  },
+  {
+    "name": "Lawami' al-Asrar",
+    "author": "Qutb al-Din al-Razi",
+    "desc": "Syarah atas Matali' al-Anwar yang sangat populer di kalangan cendekiawan mantiq."
+  },
+  {
+    "name": "Bayan al-Haqq",
+    "author": "Abu al-Abbas al-Lawkari",
+    "desc": "Penjelasan sistematis mengenai prinsip-prinsip logika Peripatetik dari murid Ibn Sina."
+  },
+  {
+    "name": "Al-Taqrib li Hadd al-Mantiq",
+    "author": "Ibn Hazm al-Andalusi",
+    "desc": "Pendekatan logika Aristotelian menggunakan terminologi hukum Islam dan bahasa yang mudah."
+  },
+  {
+    "name": "Sharh Matn al-Isaghuji",
+    "author": "Syaikh al-Islam Zakariyya al-Ansari",
+    "desc": "Penjelasan ringkas namun padat terhadap teks dasar Isaghuji bagi pemula."
+  },
+  {
+    "name": "Al-Mantiq al-Kabir",
+    "author": "Fakhr al-Din al-Razi",
+    "desc": "Karya besar yang mengkaji dan mengkritik berbagai persoalan pelik dalam ilmu logika."
+  },
+  {
+    "name": "Mulakhkhas fi al-Mantiq",
+    "author": "Fakhr al-Din al-Razi",
+    "desc": "Ringkasan kaidah-kaidah logika yang ditulis secara lugas untuk pelajar tingkat menengah."
+  },
+  {
+    "name": "Asas al-Iqtibas",
+    "author": "Nasir al-Din al-Tusi",
+    "desc": "Karya monumental tentang logika formal yang mencakup sembilan bagian organon Aristoteles."
+  },
+  {
+    "name": "Tajrid al-Mantiq",
+    "author": "Nasir al-Din al-Tusi",
+    "desc": "Teks ringkas yang memurnikan kaidah-kaidah logika dari unsur di luar disiplin tersebut."
+  },
+  {
+    "name": "Al-Risalah al-Walidiyyah",
+    "author": "Muhammad al-Sajakli",
+    "desc": "Fokus pada logika debat (Adab al-Bahth) dan metodologi argumentasi yang benar."
+  },
+  {
+    "name": "Al-Mir'at",
+    "author": "Molla Khusraw",
+    "desc": "Kitab yang membahas cermin logika dalam hubungannya dengan ushul fiqh."
+  },
+  {
+    "name": "Sharh Isaghuji (Al-Kati)",
+    "author": "Hussam al-Din al-Kati",
+    "desc": "Syarah paling populer atas Isaghuji yang dipelajari di madrasah dan pesantren."
+  },
+  {
+    "name": "Taqrib al-Maram",
+    "author": "Ibn al-Mutahhar al-Hilli",
+    "desc": "Penjelasan sistematis tentang kaidah-kaidah mantiq dalam tradisi teologi."
+  },
+  {
+    "name": "Al-Jawhar al-Nadhid",
+    "author": "Ibn al-Mutahhar al-Hilli",
+    "desc": "Syarah atas Tajrid al-Mantiq karya Al-Tusi yang sangat detail dan filosofis."
+  },
+  {
+    "name": "Hikmat al-Ishraq (Qism al-Mantiq)",
+    "author": "Shihab al-Din al-Suhrawardi",
+    "desc": "Bagian logika dalam filsafat Iluminasi yang menawarkan kritik atas definisi Aristotelian."
+  },
+  {
+    "name": "Al-Mutarihat",
+    "author": "Shihab al-Din al-Suhrawardi",
+    "desc": "Berisi diskusi panjang dan mendalam mengenai berbagai problematika dalam logika formal."
+  },
+  {
+    "name": "Sharh Hikmat al-Ishraq",
+    "author": "Qutb al-Din al-Shirazi",
+    "desc": "Komentar luas atas logika Isyraqiyah yang sangat berpengaruh dalam filsafat Islam."
+  },
+  {
+    "name": "Al-Muntaha",
+    "author": "Saif al-Din al-Amidi",
+    "desc": "Karya yang mengintegrasikan logika dengan prinsip-prinsip dialektika teologis."
+  },
+  {
+    "name": "Dawabit al-Ma'rifah",
+    "author": "Abd al-Rahman al-Maydani",
+    "desc": "Rumusan kontemporer yang merapikan kaidah logika klasik agar mudah dipahami zaman sekarang."
+  },
+  {
+    "name": "Qawa'id al-Mantiq",
+    "author": "Nasir al-Din al-Tusi",
+    "desc": "Paparan aturan-aturan dasar dalam berpikir logis secara ringkas dan sistematis."
+  },
+  {
+    "name": "Risalah fi al-Mantiq",
+    "author": "Ibn al-Muqaffa",
+    "desc": "Salah satu upaya awal penerjemahan dan adaptasi logika Aristoteles ke dalam bahasa Arab."
+  },
+  {
+    "name": "Al-Mu'tabar fi al-Hikmah",
+    "author": "Abu al-Barakat al-Baghdadi",
+    "desc": "Mengandung kritik orisinal terhadap beberapa postulat logika Aristotelian yang mapan."
+  },
+  {
+    "name": "Al-Durrah al-Fakhirah",
+    "author": "Nur al-Din al-Jami",
+    "desc": "Risalah yang membahas masalah wujud dan esensi menggunakan pisau analisis logika."
+  },
+  {
+    "name": "Hashiyah al-Qutb",
+    "author": "Al-Sayyid al-Sharif al-Jurjani",
+    "desc": "Catatan pinggir otoritatif atas Syarah al-Shamsiyyah yang menjadi rujukan utama madrasah."
+  },
+  {
+    "name": "Al-Kafi fi al-Mantiq",
+    "author": "Muhammad al-Samarqandi",
+    "desc": "Teks pengantar yang mencukupi untuk memahami dasar-dasar ilmu mantiq bagi pelajar."
+  },
+  {
+    "name": "Qustas al-Afkar",
+    "author": "Shams al-Din al-Samarqandi",
+    "desc": "Karya mendalam mengenai logika dan teknik berargumen dalam perdebatan ilmiah."
+  },
+  {
+    "name": "Al-Mu'jaz",
+    "author": "Ibn al-Nafis",
+    "desc": "Ringkasan ilmu logika yang disusun secara efisien oleh sang penemu sirkulasi darah paru-paru."
+  },
+  {
+    "name": "Taysir al-Mantiq",
+    "author": "Abdul Karim al-Mudarris",
+    "desc": "Kitab modern dari tanah Kurdi yang memudahkan pemahaman mantiq bagi para santri."
+  },
+  {
+    "name": "Al-Manhaj al-Aqwam",
+    "author": "Al-Ujayli",
+    "desc": "Penjelasan sistematis mengenai metode-metode penalaran logis dalam tradisi Islam."
+  },
+  {
+    "name": "Hashiyah Mir Zahid",
+    "author": "Mir Zahid al-Harawi",
+    "desc": "Komentar kritis atas penjelasan Qutb al-Din al-Razi dalam masalah logika."
+  },
+  {
+    "name": "Talkhis al-Burhan",
+    "author": "Ibn Rushd",
+    "desc": "Ringkasan (Epitome) atas kitab Analitika Posterior Aristoteles mengenai teori pembuktian."
+  },
+  {
+    "name": "Talkhis Kitab al-Maqulat",
+    "author": "Ibn Rushd",
+    "desc": "Ringkasan tajam atas sepuluh kategori Aristoteles yang menjadi dasar klasifikasi logika."
+  },
+  {
+    "name": "Talkhis Kitab al-Ibarah",
+    "author": "Ibn Rushd",
+    "desc": "Penjelasan ringkas mengenai proposisi, subjek, dan predikat dalam analisis mantiq."
+  },
+  {
+    "name": "Talkhis Kitab al-Qiyas",
+    "author": "Ibn Rushd",
+    "desc": "Ringkasan mendalam mengenai mekanisme silogisme dan validitas kesimpulan."
+  },
+  {
+    "name": "Al-Tanqih",
+    "author": "Shihab al-Din al-Suhrawardi",
+    "desc": "Karya yang merevisi dan menyederhanakan beberapa aspek dalam logika formal klasik."
+  },
+  {
+    "name": "Al-Tabsirah al-Nuriyyah",
+    "author": "Umar bin Sahlan al-Sawi",
+    "desc": "Karya yang menyederhanakan logika Ibn Sina tanpa menghilangkan kedalaman maknanya."
+  },
+  {
+    "name": "Al-Basa'ir al-Nasiriyyah",
+    "author": "Zain al-Din al-Sawi",
+    "desc": "Teks logika yang sangat berpengaruh dan menjadi jembatan antara logika kuno dan modern."
+  },
+  {
+    "name": "Ghayat al-Tahdhib",
+    "author": "Baha' al-Din al-Amuli",
+    "desc": "Syarah atau pengembangan atas teks Tahdhib dalam tradisi keilmuwan Islam."
+  },
+  {
+    "name": "Al-Maqulat al-Ashr",
+    "author": "Berbagai Pengarang",
+    "desc": "Kumpulan risalah yang khusus membahas sepuluh kategori (kategori Aristotelian) secara mandiri."
+  },
+  {
+    "name": "Sharh al-Fawa'id al-Fannariyyah",
+    "author": "Muhammad bin Hamzah al-Fannari",
+    "desc": "Syarah atas Isaghuji yang sangat populer dalam sistem pendidikan Ottoman."
+  },
+  {
+    "name": "Hashiyah al-Siyalkuti",
+    "author": "Abdul Hakim al-Siyalkuti",
+    "desc": "Catatan kritis dan mendalam atas berbagai teks logika standar yang digunakan di India dan Persia."
+  }
+]
