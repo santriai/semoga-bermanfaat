@@ -1,0 +1,734 @@
+{
+  "profile": {
+    "name": "Al-Bahr al-Madid fi Tafsir al-Qur'an al-Majid",
+    "originalTitle": "البَحْرُ المَدِيدُ فِي تَفْسِيرِ القُرْآنِ المَجِيدِ",
+    "author": "Ahmad bin Muhammad bin al-Mahdi bin Ajiba al-Hasani (أَحْمَدُ بنُ مُحَمَّدِ بنِ عَجِيبَةَ الحَسَنِيُّ)",
+    "field": "Tafsir (Ishari & Zahir)",
+    "about": "Al-Bahr al-Madid merupakan karya monumental Ahmad bin Ajiba yang memadukan tafsir zhahir (eksoteris) dan isyari (esoteris/sufistik) secara harmonis. Kitab ini sangat unik karena setiap ayatnya dijelaskan dari sisi kebahasaan, hukum, kemudian disusul dengan kedalaman makna ruhani bagi para salik. Pendekatan ini bertujuan untuk menyeimbangkan antara syariat dan hakikat. Kitab ini sering menjadi rujukan utama dalam tradisi Tarekat Shadhiliyah. Penulisannya dilakukan dengan gaya bahasa yang tinggi namun tetap sistematis.",
+    "authorBorn": "1160 H / 1747 M di Maroko",
+    "authorDied": "1224 H / 1809 M",
+    "authorCentury": "Abad ke-12 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah Penulis",
+      "titleArabic": "مُقَدِّمَةُ المُؤَلِّفِ",
+      "arabic": "الْحَمْدُ للهِ الَّذِي جَعَلَ القُرْآنَ بَحْرًا مَدِيدًا، وَفَتَحَ فِيهِ لِلْعَارِفِينَ مَسْلَكًا سَدِيدًا، وَأَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، وَأَشْهَدُ أَنَّ سَيِّدَنَا مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ. أَمَّا بَعْدُ: فَقَدْ كُنْتُ أَرُومُ أَنْ أَجْمَعَ تَفْسِيرًا يَجْمَعُ بَيْنَ الظَّاهِرِ وَالبَاطِنِ، وَبَيْنَ العِبَارَةِ وَالإِشَارَةِ.",
+      "translation": "Segala puji bagi Allah yang menjadikan Al-Qur'an sebagai laut yang membentang luas (Bahran Madidan), dan membuka di dalamnya jalan yang lurus bagi kaum arifin. Aku bersaksi tiada Tuhan selain Allah dan Muhammad adalah utusan-Nya. Adapun setelah itu: Sungguh aku berkeinginan menghimpun sebuah tafsir yang mengumpulkan antara makna lahiriah dan batiniah, antara penjelasan harfiah dan isyarat ruhani."
+    },
+    {
+      "title": "Hukum Mempelajari Ilmu Tafsir",
+      "titleArabic": "حُكْمُ تَعَلُّمِ عِلْمِ التَّفْسِيرِ",
+      "arabic": "عِلْمُ التَّفْسِيرِ هُوَ أَجَلُّ العُلُومِ قَدْرًا، وَأَعْظَمُهَا أَجْرًا، وَهُوَ فَرْضُ كِفَايَةٍ عَلَى الأُمَّةِ إِذَا قَامَ بِهِ بَعْضُهُمْ سَقَطَ عَنِ البَاقِينَ.",
+      "translation": "Ilmu Tafsir adalah ilmu yang paling mulia derajatnya dan paling besar pahalanya. Hukum mempelajarinya adalah fardu kifayah atas umat; jika sebagian telah melaksanakannya, maka gugurlah kewajiban dari yang lain."
+    },
+    {
+      "title": "Kaidah Tafsir Ishari (Sufistik)",
+      "titleArabic": "قَاعِدَةٌ فِي التَّفْسِيرِ الإِشَارِيِّ",
+      "arabic": "التَّفْسِيرُ الإِشَارِيُّ لَا يُرَادُ بِهِ إِبْطَالُ الظَّاهِرِ، بَلْ هُوَ فَهْمٌ فَتَحَهُ اللهُ لِأَهْلِ الصَّفَاءِ بَعْدَ تَحْقِيقِ الظَّاهِرِ.",
+      "translation": "Tafsir Ishari tidaklah dimaksudkan untuk membatalkan makna lahiriah, melainkan ia adalah pemahaman yang Allah bukakan bagi ahli shafa (kaum sufi yang suci hatinya) setelah mereka mengukuhkan makna lahiriahnya."
+    },
+    {
+      "title": "Penjelasan Isti'adzah",
+      "titleArabic": "بَيَانُ الِاسْتِعَاذَةِ",
+      "arabic": "مَعْنَى (أَعُوذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيمِ): أَيْ أَلْتَجِئُ وَأَتَحَصَّنُ بِاللهِ القَوِيِّ القَادِرِ مِنَ الشَّيْطَانِ المَطْرُودِ. وَإِشَارَتُهَا: الِالتِجَاءُ مِنَ النَّفْسِ وَهَوَاهَا.",
+      "translation": "Makna 'Aku berlindung kepada Allah dari setan yang terkutuk': Yakni aku bersandar dan membentengi diri dengan Allah Yang Maha Kuat lagi Kuasa dari gangguan setan. Adapun isyaratnya: adalah berlindung dari hawa nafsu diri sendiri."
+    },
+    {
+      "title": "Penjelasan Basmalah",
+      "titleArabic": "بَيَانُ البَسْمَلَةِ",
+      "arabic": "بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ: البَاءُ لِلْمُلَابَسَةِ أَوْ لِلِاسْتِعَانَةِ. وَالِاسْمُ مُشْتَقٌّ مِنَ السُّمُوِّ. وَإِشَارَتُهَا: ظُهُورُ الوُجُودِ بِالحَقِّ.",
+      "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang: Huruf Ba' menunjukkan penyertaan atau permohonan pertolongan. Kata 'Ism' diambil dari kata sumu (ketinggian). Isyaratnya adalah penampakan wujud alam melalui Sang Kebenaran (Al-Haq)."
+    },
+    {
+      "title": "Surah Al-Fatihah",
+      "titleArabic": "سُورَةُ الفَاتِحَةِ",
+      "arabic": "تُسَمَّى أُمُّ القُرْآنِ وَالسَّبْعُ المَثَانِي. وَإِشَارَتُهَا فِي بَيَانِ مَقَامَاتِ السَّيْرِ إِلَى اللهِ مِنْ تَوْحِيدِ الرُّبُوبِيَّةِ وَالأُلُوهِيَّةِ.",
+      "translation": "Dinamakan Ummul Qur'an dan As-Sab'ul Mathani. Isyaratnya dalam menjelaskan tingkatan perjalanan menuju Allah mulai dari tauhid rububiyah hingga uluhiyah."
+    },
+    {
+      "title": "Surah Al-Baqarah",
+      "titleArabic": "سُورَةُ البَقَرَةِ",
+      "arabic": "هِيَ سَنَامُ القُرْآنِ. مَقْصُودُهَا تَقْرِيرُ مَقَامِ العُبُودِيَّةِ وَبَيَانُ الشَّرِيعَةِ لِتَصْفِيَةِ البَاطِنِ.",
+      "translation": "Surah Al-Baqarah adalah puncak Al-Qur'an. Tujuannya adalah menetapkan maqam penghambaan dan menjelaskan syariat demi mensucikan batin."
+    },
+    {
+      "title": "Surah Ali 'Imran",
+      "titleArabic": "سُورَةُ آلِ عِمْرَانَ",
+      "arabic": "تَضَمَّنَتْ إِثْبَاتَ الوَحْدَانِيَّةِ وَرَدَّ الشُّبُهَاتِ، وَإِشَارَتُهَا فِي تَجْرِيدِ القَلْبِ مِمَّا سِوَى اللهِ.",
+      "translation": "Mencakup pembuktian keesaan Allah dan penolakan syubhat. Isyaratnya dalam mengosongkan hati dari segala sesuatu selain Allah."
+    },
+    {
+      "title": "Surah An-Nisa'",
+      "titleArabic": "سُورَةُ النِّسَاءِ",
+      "arabic": "مَدَارُهَا عَلَى تَنْظِيمِ الحُقُوقِ الاِجْتِمَاعِيَّةِ. وَإِشَارَتُهَا فِي حُقُوقِ النَّفْسِ وَتَهْذِيبِ صِفَاتِهَا.",
+      "translation": "Berfokus pada pengaturan hak-hak sosial. Isyaratnya mengenai hak-hak jiwa dan pembinaan sifat-sifatnya."
+    },
+    {
+      "title": "Surah Al-Ma'idah",
+      "titleArabic": "سُورَةُ المَائِدَةِ",
+      "arabic": "آخِرُ مَا نَزَلَ مِنَ الحَلَالِ وَالحَرَامِ. وَإِشَارَتُهَا فِي مَائِدَةِ القَلْبِ بِالمَعَارِفِ اللَّدُنِّيَّةِ.",
+      "translation": "Surah terakhir yang turun mengenai halal dan haram. Isyaratnya mengenai hidangan hati dengan ilmu-ilmu laduni."
+    },
+    {
+      "title": "Surah Al-An'am",
+      "titleArabic": "سُورَةُ الأَنْعَامِ",
+      "arabic": "سُورَةُ التَّوْحِيدِ وَالقُدْرَةِ. وَإِشَارَتُهَا فِي مُشَاهَدَةِ الحَقِّ فِي مَظَاهِرِ الخَلْقِ.",
+      "translation": "Surah tentang Tauhid dan Kekuasaan. Isyaratnya dalam penyaksian Al-Haq pada setiap fenomena makhluk."
+    },
+    {
+      "title": "Surah Al-A'raf",
+      "titleArabic": "سُورَةُ الأَعْرَافِ",
+      "arabic": "تَفْصِيلُ قِصَصِ الأَنْبِيَاءِ. وَإِشَارَتُهَا فِي تَفَاوُتِ مَقَامَاتِ السَّالِكِينَ عَلَى الأَعْرَافِ.",
+      "translation": "Perincian kisah para nabi. Isyaratnya pada perbedaan tingkatan para salik di atas Al-A'raf (tempat yang tinggi)."
+    },
+    {
+      "title": "Surah Al-Anfal",
+      "titleArabic": "سُورَةُ الأَنْفَالِ",
+      "arabic": "فِي الجِهَادِ وَالغَنَائِمِ. وَإِشَارَتُهَا فِي جِهَادِ النَّفْسِ وَغَنَائِمِ المَوَاهِبِ الرَّحْمَانِيَّةِ.",
+      "translation": "Tentang jihad dan rampasan perang. Isyaratnya tentang jihad melawan nafsu dan anugerah pemberian Tuhan."
+    },
+    {
+      "title": "Surah At-Taubah",
+      "titleArabic": "سُورَةُ التَّوْبَةِ",
+      "arabic": "البَرَاءَةُ مِنَ الكُفْرِ. وَإِشَارَتُهَا فِي بَرَاءَةِ القَلْبِ مِنْ كُلِّ حِجَابٍ يَمْنَعُ عَنِ اللهِ.",
+      "translation": "Lepas diri dari kekufuran. Isyaratnya tentang berlepas dirinya hati dari setiap hijab yang menghalangi menuju Allah."
+    },
+    {
+      "title": "Surah Yunus",
+      "titleArabic": "سُورَةُ يُونُسَ",
+      "arabic": "فِي الإِيمَانِ وَالقَضَاءِ. وَإِشَارَتُهَا فِي الِاضْطِرَارِ إِلَى اللهِ عِنْدَ الضِّيقِ.",
+      "translation": "Tentang iman dan qadha. Isyaratnya tentang rasa butuh yang mendalam kepada Allah saat mengalami kesempitan."
+    },
+    {
+      "title": "Surah Hud",
+      "titleArabic": "سُورَةُ هُودٍ",
+      "arabic": "فِيهَا الِاسْتِقَامَةُ. وَإِشَارَتُهَا: (فَاسْتَقِمْ كَمَا أُمِرْتَ) أَيْ بِالفَنَاءِ فِي المَأْمُورِ بِهِ.",
+      "translation": "Di dalamnya terdapat perintah istiqamah. Isyaratnya: 'Istiqamahlah sebagaimana diperintahkan' yakni dengan fana (leburnya diri) pada apa yang diperintahkan."
+    },
+    {
+      "title": "Surah Yusuf",
+      "titleArabic": "سُورَةُ يُوسُفَ",
+      "arabic": "أَحْسَنُ القَصَصِ. وَإِشَارَتُهَا فِي مَقَامِ المَحَبَّةِ وَالجَمَالِ وَتَرَقِّي الرُّوحِ.",
+      "translation": "Kisah terbaik. Isyaratnya mengenai maqam cinta (mahabbah), keindahan, dan peningkatan derajat ruhani."
+    },
+    {
+      "title": "Surah Ar-Ra'd",
+      "titleArabic": "سُورَةُ الرَّعْدِ",
+      "arabic": "تَسْبِيحُ الكَوْنِ. وَإِشَارَتُهَا فِي زَجْرِ القَلْبِ بِرُعُودِ المَوَاعِظِ لِيَحْيَا بِمَطَرِ العِلْمِ.",
+      "translation": "Tasbih alam semesta. Isyaratnya dalam teguran hati melalui guntur nasihat agar ia hidup dengan hujan ilmu."
+    },
+    {
+      "title": "Surah Ibrahim",
+      "titleArabic": "سُورَةُ إِبْرَاهِيمَ",
+      "arabic": "إِخْرَاجُ النَّاسِ مِنَ الظُّلُمَاتِ إِلَى النُّورِ. وَإِشَارَتُهَا فِي خُرُوجِ السَّالِكِ عَنْ رُسُومِ طَبْعِهِ.",
+      "translation": "Mengeluarkan manusia dari kegelapan menuju cahaya. Isyaratnya dalam keluarnya seorang salik dari kebiasaan watak kemanusiaannya."
+    },
+    {
+      "title": "Surah Al-Hijr",
+      "titleArabic": "سُورَةُ الحِجْرِ",
+      "arabic": "فِي الحِفْظِ الإِلَهِيِّ. وَإِشَارَتُهَا فِي حِفْظِ سِرِّ العَارِفِينَ مِنْ نَظَرَاتِ الأَغْيَارِ.",
+      "translation": "Tentang penjagaan ilahi. Isyaratnya dalam penjagaan rahasia (sirr) para arifin dari pandangan orang-orang asing (selain Allah)."
+    },
+    {
+      "title": "Surah An-Nahl",
+      "titleArabic": "سُورَةُ النَّحْلِ",
+      "arabic": "سُورَةُ النِّعَمِ. وَإِشَارَتُهَا فِي شُكْرِ المُنْعِمِ بِالفَنَاءِ عَنِ النِّعْمَةِ فِي شُهُودِ المُنْعِمِ.",
+      "translation": "Surah tentang nikmat. Isyaratnya dalam mensyukuri Pemberi nikmat dengan fana dari nikmat itu sendiri menuju penyaksian Sang Pemberi nikmat."
+    },
+    {
+      "title": "Surah Al-Isra'",
+      "titleArabic": "سُورَةُ الإِسْرَاءِ",
+      "arabic": "تَسْبِيحٌ وَتَنْزِيهٌ. وَإِشَارَتُهَا فِي إِسْرَاءِ القَلْبِ إِلَى حَضْرَةِ القُرْبِ.",
+      "translation": "Tasbih dan pensucian. Isyaratnya tentang perjalanan malam (isra') hati menuju kehadiran yang dekat dengan Allah."
+    },
+    {
+      "title": "Surah Al-Kahf",
+      "titleArabic": "سُورَةُ الكَهْفِ",
+      "arabic": "فِي العِصْمَةِ وَالنُّورِ. وَإِشَارَتُهَا فِي كَهْفِ الحَقِيقَةِ الَّذِي يَأْوِي إِلَيْهِ الفَارُّونَ بِدِينِهِمْ.",
+      "translation": "Tentang perlindungan dan cahaya. Isyaratnya tentang gua hakikat tempat bernaungnya orang-orang yang lari membawa agama mereka."
+    },
+    {
+      "title": "Surah Maryam",
+      "titleArabic": "سُورَةُ مَرْيَمَ",
+      "arabic": "رَحْمَةٌ وَعَطَاءٌ. وَإِشَارَتُهَا فِي وِلَادَةِ المَعْرِفَةِ مِنْ صِدْقِ التَّوَجُّهِ.",
+      "translation": "Rahmat dan pemberian. Isyaratnya dalam kelahiran makrifat dari kesungguhan dalam bertawajjuh (menghadap Allah)."
+    },
+    {
+      "title": "Surah Taha",
+      "titleArabic": "سُورَةُ طه",
+      "arabic": "فِي المُنَاجَاةِ وَالمَحَبَّةِ. وَإِشَارَتُهَا: (مَا أَنْزَلْنَا عَلَيْكَ القُرْآنَ لِتَشْقَى) بَلْ لِتَسْعَدَ بِالمُشَاهَدَةِ.",
+      "translation": "Tentang munajat dan cinta. Isyaratnya: 'Kami tidak menurunkan Al-Qur'an kepadamu agar kamu celaka', melainkan agar kamu bahagia dengan musyahadah."
+    },
+    {
+      "title": "Surah Al-Anbiya'",
+      "titleArabic": "سُورَةُ الأَنْبِيَاءِ",
+      "arabic": "فِي ذِكْرِ الأَصْفِيَاءِ. وَإِشَارَتُهَا فِي تَحَمُّلِ البَلَاءِ لِنَيْلِ الِاصْطِفَاءِ.",
+      "translation": "Tentang penyebutan orang-orang pilihan. Isyaratnya dalam menanggung ujian demi meraih derajat pilihan Allah."
+    },
+    {
+      "title": "Surah Al-Hajj",
+      "titleArabic": "سُورَةُ الحَجِّ",
+      "arabic": "تَعْظِيمُ شَعَائِرِ اللهِ. وَإِشَارَتُهَا فِي حَجِّ القُلُوبِ إِلَى بَيْتِ العِزَّةِ.",
+      "translation": "Mengagungkan syiar-syiar Allah. Isyaratnya tentang hajinya hati menuju Rumah Keagungan (Baitul Izzah)."
+    },
+    {
+      "title": "Surah Al-Mu'minun",
+      "titleArabic": "سُورَةُ المُؤْمِنُونَ",
+      "arabic": "فِي صِفَاتِ الفَلَاحِ. وَإِشَارَتُهَا فِي خُشُوعِ الأَسْرَارِ عِنْدَ جَرَيَانِ الأَقْدَارِ.",
+      "translation": "Tentang sifat-sifat keberuntungan. Isyaratnya dalam khusyuknya rahasia hati saat berjalannya takdir."
+    },
+    {
+      "title": "Surah An-Nur",
+      "titleArabic": "سُورَةُ النُّورِ",
+      "arabic": "آيَةُ النُّورِ وَالآدَابِ. وَإِشَارَتُهَا فِي تَنْوِيرِ القُلُوبِ بِنُورِ المَعْرِفَةِ.",
+      "translation": "Ayat cahaya dan adab. Isyaratnya dalam menerangi hati dengan cahaya makrifat."
+    },
+    {
+      "title": "Surah Al-Furqan",
+      "titleArabic": "سُورَةُ الفُرْقَانِ",
+      "arabic": "التَّمْيِيزُ بَيْنَ الحَقِّ وَالبَاطِلِ. وَإِشَارَتُهَا فِي فُرْقَانِ القَلْبِ الَّذِي يَفْصِلُ بِهِ بَيْنَ الخَوَاطِرِ.",
+      "translation": "Pembeda antara yang hak dan batil. Isyaratnya dalam 'furqan' hati yang dengannya ia memisahkan berbagai lintasan pikiran."
+    },
+    {
+      "title": "Surah Ash-Shu'ara'",
+      "titleArabic": "سُورَةُ الشُّعَرَاءِ",
+      "arabic": "بَيَانُ صِدْقِ الوَحْيِ. وَإِشَارَتُهَا فِي شُعَرَاءِ الحَقِيقَةِ الَّذِينَ يَهِيمُونَ فِي أَوْدِيَةِ الجَلَالِ.",
+      "translation": "Penjelasan kebenaran wahyu. Isyaratnya mengenai para penyair hakikat yang berkelana di lembah-lembah keagungan ilahi."
+    },
+    {
+      "title": "Surah An-Naml",
+      "titleArabic": "سُورَةُ النَّمْلِ",
+      "arabic": "فِي المُلكِ وَالهِدَايَةِ. وَإِشَارَتُهَا فِي سُلْطَانِ الرُّوحِ عَلَى جُنُودِ النَّفْسِ.",
+      "translation": "Tentang kerajaan dan petunjuk. Isyaratnya mengenai kekuasaan ruh atas bala tentara nafsu."
+    },
+    {
+      "title": "Surah Al-Qasas",
+      "titleArabic": "سُورَةُ القَصَصِ",
+      "arabic": "فِي النَّصْرِ بَعْدَ الِاسْتِضْعَافِ. وَإِشَارَتُهَا فِي نَصْرِ سِرِّ القَلْبِ عَلَى فِرْعَوْنِ الهَوَى.",
+      "translation": "Tentang kemenangan setelah tertindas. Isyaratnya mengenai kemenangan rahasia hati atas Fir'aun hawa nafsu."
+    },
+    {
+      "title": "Surah Al-'Ankabut",
+      "titleArabic": "سُورَةُ العَنْكَبُوتِ",
+      "arabic": "فِي الفِتْنَةِ وَالِابْتِلَاءِ. وَإِشَارَتُهَا فِي وَهَنِ دَارِ الدُّنْيَا وَتَعَلُّقِ القَلْبِ بِالعُرْوَةِ الوُثْقَى.",
+      "translation": "Tentang fitnah dan ujian. Isyaratnya mengenai rapuhnya rumah dunia dan keterikatan hati pada pegangan yang kuat."
+    },
+    {
+      "title": "Surah Ar-Rum",
+      "titleArabic": "سُورَةُ الرُّومِ",
+      "arabic": "فِي غَلَبَةِ الحَقِّ. وَإِشَارَتُهَا فِي تَرَقُّبِ الفَتْحِ بَعْدَ الحَصْرِ.",
+      "translation": "Tentang kemenangan yang hak. Isyaratnya dalam menantikan keterbukaan ruhani (al-fath) setelah masa penyempitan."
+    },
+    {
+      "title": "Surah Luqman",
+      "titleArabic": "سُورَةُ لُقْمَانَ",
+      "arabic": "فِي الحِكْمَةِ وَالشُّكْرِ. وَإِشَارَتُهَا فِي تَلْقِينِ الحِكْمَةِ لِأَبْنَاءِ الطَّرِيقِ.",
+      "translation": "Tentang hikmah dan syukur. Isyaratnya dalam menanamkan hikmah kepada para penempuh jalan (abna' at-thariq)."
+    },
+    {
+      "title": "Surah As-Sajdah",
+      "titleArabic": "سُورَةُ السَّجْدَةِ",
+      "arabic": "فِي الخُضُوعِ وَالإِيقَانِ. وَإِشَارَتُهَا فِي سُجُودِ الرُّوحِ تَحْتَ عَرْشِ المَعْرِفَةِ.",
+      "translation": "Tentang ketundukan dan keyakinan. Isyaratnya dalam sujudnya ruh di bawah Arsy Makrifat."
+    },
+    {
+      "title": "Surah Al-Ahzab",
+      "titleArabic": "سُورَةُ الأَحْزَابِ",
+      "arabic": "فِي الِاتِّبَاعِ وَتَطْهِيرِ البَيْتِ. وَإِشَارَتُهَا فِي طَهَارَةِ بَيْتِ القَلْبِ مِنَ الأَخْلَاقِ الذَّمِيمَةِ.",
+      "translation": "Tentang kepatuhan dan penyucian rumah. Isyaratnya dalam sucinya rumah hati dari akhlak yang tercela."
+    },
+    {
+      "title": "Surah Saba'",
+      "titleArabic": "سُورَةُ سَبَإٍ",
+      "arabic": "فِي الشُّكْرِ وَالقُدْرَةِ. وَإِشَارَتُهَا فِي مَمْلَكَةِ القَلْبِ وَسُلَيْمَانِ العَقْلِ.",
+      "translation": "Tentang syukur dan kekuasaan. Isyaratnya mengenai kerajaan hati dan Sulaiman akal budi."
+    },
+    {
+      "title": "Surah Fatir",
+      "titleArabic": "سُورَةُ فَاطِرٍ",
+      "arabic": "فِي الإِبْدَاعِ وَتَفْطِيرِ الخَلْقِ. وَإِشَارَتُهَا فِي فَتْحِ خَزَائِنِ المَوَاهِبِ.",
+      "translation": "Tentang penciptaan dan pengadaan makhluk. Isyaratnya dalam pembukaan gudang-gudang bakat ruhani."
+    },
+    {
+      "title": "Surah Yasin",
+      "titleArabic": "سُورَةُ يس",
+      "arabic": "قَلْبُ القُرْآنِ. وَإِشَارَتُهَا فِي سِرِّ النُّبُوَّةِ وَإِحْيَاءِ مَوْتَى القُلُوبِ.",
+      "translation": "Jantung Al-Qur'an. Isyaratnya dalam rahasia kenabian dan menghidupkan hati yang telah mati."
+    },
+    {
+      "title": "Surah As-Saffat",
+      "titleArabic": "سُورَةُ الصَّافَّاتِ",
+      "arabic": "فِي تَنْزِيهِ المَلِكِ العَلَّامِ. وَإِشَارَتُهَا فِي صَفِّ الجَوَارِحِ لِلْخِدْمَةِ وَالقُلُوبِ لِلْقُرْبَةِ.",
+      "translation": "Tentang mensucikan Sang Raja Yang Maha Mengetahui. Isyaratnya dalam barisan anggota badan untuk berkhidmat dan hati untuk bertaqarrub."
+    },
+    {
+      "title": "Surah Sad",
+      "titleArabic": "سُورَةُ ص",
+      "arabic": "فِي الإِنَابَةِ وَالتَّوْبَةِ. وَإِشَارَتُهَا فِي صَفَاءِ الأَسْرَارِ مِنَ الأَكْدَارِ.",
+      "translation": "Tentang kembali (inabah) dan taubat. Isyaratnya dalam beningnya rahasia batin dari segala kekeruhan."
+    },
+    {
+      "title": "Surah Az-Zumar",
+      "titleArabic": "سُورَةُ الزُّمَرِ",
+      "arabic": "فِي الإِخْلَاصِ وَالتَّوْحِيدِ. وَإِشَارَتُهَا فِي سَوْقِ المُرِيدِينَ إِلَى حَضْرَةِ التَّمْكِينِ.",
+      "translation": "Tentang ikhlas dan tauhid. Isyaratnya dalam penggiringan para murid menuju kehadiran yang menetap (tamkin)."
+    },
+    {
+      "title": "Surah Ghafir",
+      "titleArabic": "سُورَةُ غَافِرٍ",
+      "arabic": "فِي سِعَةِ المَغْفِرَةِ. وَإِشَارَتُهَا فِي سَتْرِ العُيُوبِ بِجَمَالِ المَحْبُوبِ.",
+      "translation": "Tentang luasnya ampunan. Isyaratnya dalam menutupi aib dengan keindahan Sang Kekasih (Allah)."
+    },
+    {
+      "title": "Surah Fussilat",
+      "titleArabic": "سُورَةُ فُصِّلَتْ",
+      "arabic": "فِي بَيَانِ الآيَاتِ الآفَاقِيَّةِ وَالأَنْفُسِيَّةِ. وَإِشَارَتُهَا فِي تَفْصِيلِ مَرَاتِبِ التَّجَلِّي.",
+      "translation": "Tentang penjelasan ayat-ayat di ufuk dan di dalam diri. Isyaratnya dalam perincian tingkatan tajalli (penampakan Tuhan)."
+    },
+    {
+      "title": "Surah Ash-Shura",
+      "titleArabic": "سُورَةُ الشُّورَى",
+      "arabic": "فِي الوَحْيِ وَالوِلَايَةِ. وَإِشَارَتُهَا فِي اسْتِشَارَةِ القَلْبِ لِلرُّوحِ فِي أُمُورِ السَّيْرِ.",
+      "translation": "Tentang wahyu dan kewalian. Isyaratnya dalam konsultasi hati kepada ruh mengenai perkara perjalanan spiritual."
+    },
+    {
+      "title": "Surah Az-Zukhruf",
+      "titleArabic": "سُورَةُ الزُّخْرُفِ",
+      "arabic": "فِي الزُّهْدِ فِي زِينَةِ الدُّنْيَا. وَإِشَارَتُهَا فِي تَزْيِينِ البَاطِنِ بِحِلَى المَعَارِفِ.",
+      "translation": "Tentang zuhud terhadap perhiasan dunia. Isyaratnya dalam menghiasi batin dengan perhiasan makrifat."
+    },
+    {
+      "title": "Surah Ad-Dukhan",
+      "titleArabic": "سُورَةُ الدُّخَانِ",
+      "arabic": "فِي الهَيْبَةِ وَالوَعِيدِ. وَإِشَارَتُهَا فِي تَدْخِينِ النَّفْسِ بِنِيرَانِ المُجَاهَدَةِ.",
+      "translation": "Tentang kehebatan dan ancaman. Isyaratnya dalam pengasapan nafsu dengan api mujahadah."
+    },
+    {
+      "title": "Surah Al-Jathiyah",
+      "titleArabic": "سُورَةُ الجَاثِيَةِ",
+      "arabic": "فِي التَّوَاضُعِ وَالجُثُوِّ. وَإِشَارَتُهَا فِي جُثُوِّ العَقْلِ بَيْنَ يَدَيِ النُّورِ.",
+      "translation": "Tentang kerendahan hati dan berlutut. Isyaratnya dalam berlututnya akal di hadapan cahaya ilahi."
+    },
+    {
+      "title": "Surah Al-Ahqaf",
+      "titleArabic": "سُورَةُ الأَحْقَافِ",
+      "arabic": "فِي تَحْقِيقِ الوَعْدِ. وَإِشَارَتُهَا فِي انْتِهَاءِ سَيْرِ النَّفْسِ إِلَى كُثْبَانِ الحَقِيقَةِ.",
+      "translation": "Tentang pembuktian janji. Isyaratnya dalam berakhirnya perjalanan nafsu menuju bukit-bukit pasir hakikat."
+    },
+    {
+      "title": "Surah Muhammad",
+      "titleArabic": "سُورَةُ مُحَمَّدٍ",
+      "arabic": "سُورَةُ القِتَالِ. وَإِشَارَتُهَا فِي مَحْوِ صِفَاتِ البَشَرِيَّةِ بِظُهُورِ المَحْمَدَةِ.",
+      "translation": "Surah Peperangan. Isyaratnya dalam menghapus sifat-sifat kemanusiaan dengan tampaknya sifat terpuji (mahmadah)."
+    },
+    {
+      "title": "Surah Al-Fath",
+      "titleArabic": "سُورَةُ الفَتْحِ",
+      "arabic": "فِي الفَتْحِ المَبِينِ. وَإِشَارَتُهَا فِي فَتْحِ العَيْنِ لِشُهُودِ الغَيْبِ.",
+      "translation": "Tentang kemenangan yang nyata. Isyaratnya dalam terbukanya mata (hati) untuk menyaksikan yang gaib."
+    },
+    {
+      "title": "Surah Al-Hujurat",
+      "titleArabic": "سُورَةُ الحُجُرَاتِ",
+      "arabic": "سُورَةُ الآدَابِ. وَإِشَارَتُهَا فِي أَدَبِ المُرِيدِ مَعَ الشَّيْخِ وَالحَضْرَةِ.",
+      "translation": "Surah Adab. Isyaratnya dalam adab seorang murid bersama Syaikh dan di dalam Hadirat Tuhan."
+    },
+    {
+      "title": "Surah Qaf",
+      "titleArabic": "سُورَةُ ق",
+      "arabic": "فِي عَظَمَةِ الخَلْقِ وَالبَعْثِ. وَإِشَارَتُهَا فِي قَافِ القَلْبِ المُحِيطِ بِعَوَالِمِ الغَيْبِ.",
+      "translation": "Tentang keagungan ciptaan dan kebangkitan. Isyaratnya dalam 'Qaf' hati yang meliputi alam-alam gaib."
+    },
+    {
+      "title": "Surah Adh-Dhariyat",
+      "titleArabic": "سُورَةُ الذَّارِيَاتِ",
+      "arabic": "فِي الرِّزْقِ وَالذَّرْوِ. وَإِشَارَتُهَا فِي تَذْرِيَةِ غُبَارِ الكَوْنِ عَنْ وَجْهِ اليَقِينِ.",
+      "translation": "Tentang rezeki dan penerbangan. Isyaratnya dalam menerbangkan debu-debu alam dari wajah keyakinan."
+    },
+    {
+      "title": "Surah At-Tur",
+      "titleArabic": "سُورَةُ الطُّورِ",
+      "arabic": "فِي تَجَلِّي الكَلَامِ. وَإِشَارَتُهَا فِي طُورِ القَلْبِ الَّذِي نُودِيَ فِيهِ مُوسَى السِّرِّ.",
+      "translation": "Tentang tajalli firman. Isyaratnya dalam bukit Tursina hati tempat dipanggilnya Musa Rahasia."
+    },
+    {
+      "title": "Surah An-Najm",
+      "titleArabic": "سُورَةُ النَّجْمِ",
+      "arabic": "فِي القُرْبِ وَتَدَلِّي الرُّوحِ. وَإِشَارَتُهَا فِي تَرَقِّي المُرِيدِ إِلَى سِدْرَةِ المُنْتَهَى.",
+      "translation": "Tentang kedekatan dan turunnya ruh. Isyaratnya dalam naiknya derajat murid menuju Sidratul Muntaha."
+    },
+    {
+      "title": "Surah Al-Qamar",
+      "titleArabic": "سُورَةُ القَمَرِ",
+      "arabic": "فِي انْشِقَاقِ الظَّاهِرِ لِبُرُوزِ البَاطِنِ. وَإِشَارَتُهَا فِي قَمَرِ التَّوْحِيدِ.",
+      "translation": "Tentang terbelahnya yang lahir untuk menampakkan yang batin. Isyaratnya mengenai rembulan tauhid."
+    },
+    {
+      "title": "Surah Ar-Rahman",
+      "titleArabic": "سُورَةُ الرَّحْمَنِ",
+      "arabic": "عَرُوسُ القُرْآنِ. وَإِشَارَتُهَا فِي تَعْدَادِ النِّعَمِ البَاطِنَةِ وَجَمَالِ الحَضْرَةِ.",
+      "translation": "Pengantin Al-Qur'an. Isyaratnya dalam menghitung nikmat-nikmat batin dan keindahan Hadirat Tuhan."
+    },
+    {
+      "title": "Surah Al-Waqi'ah",
+      "titleArabic": "سُورَةُ الوَاقِعَةِ",
+      "arabic": "فِي القِيَامَةِ وَأَصْحَابِ اليَمِينِ. وَإِشَارَتُهَا فِي وُقُوعِ الفَنَاءِ وَبَقَاءِ السَّابِقِينَ.",
+      "translation": "Tentang hari kiamat dan golongan kanan. Isyaratnya tentang terjadinya fana dan kekekalan orang-orang yang terdahulu (as-sabiqun)."
+    },
+    {
+      "title": "Surah Al-Hadid",
+      "titleArabic": "سُورَةُ الحَدِيدِ",
+      "arabic": "فِي القُوَّةِ وَالنُّورِ. وَإِشَارَتُهَا فِي لِينِ القُلُوبِ بَعْدَ قَسَاوَةِ الحَدِيدِ.",
+      "translation": "Tentang kekuatan dan cahaya. Isyaratnya dalam lembutnya hati setelah kerasnya besi."
+    },
+    {
+      "title": "Surah Al-Mujadilah",
+      "titleArabic": "سُورَةُ المُجَادِلَةِ",
+      "arabic": "فِي سَمْعِ النَّجْوَى. وَإِشَارَتُهَا فِي مُنَاجَاةِ العَبْدِ لِرَبِّهِ فِي خَلَوَاتِهِ.",
+      "translation": "Tentang pendengaran bisikan rahasia. Isyaratnya dalam munajat seorang hamba kepada Tuhannya di saat khalwat (sendirian)."
+    },
+    {
+      "title": "Surah Al-Hashr",
+      "titleArabic": "سُورَةُ الحَشْرِ",
+      "arabic": "فِي الجَلَاءِ وَالقُدْرَةِ. وَإِشَارَتُهَا فِي حَشْرِ الهُمُومِ إِلَى هَمٍّ وَاحِدٍ.",
+      "translation": "Tentang pengusiran dan kuasa. Isyaratnya dalam mengumpulkan segala keinginan menjadi satu keinginan saja (yakni Allah)."
+    },
+    {
+      "title": "Surah Al-Mumtahanah",
+      "titleArabic": "سُورَةُ المُمْتَحَنَةِ",
+      "arabic": "فِي الِامْتِحَانِ وَالمَوَدَّةِ. وَإِشَارَتُهَا فِي امْتِحَانِ صِدْقِ المُرِيدِ فِي مَحَبَّتِهِ.",
+      "translation": "Tentang ujian dan kasih sayang. Isyaratnya dalam menguji kejujuran seorang murid dalam cintanya."
+    },
+    {
+      "title": "Surah As-Saff",
+      "titleArabic": "سُورَةُ الصَّفِّ",
+      "arabic": "فِي الجِهَادِ وَنَصْرِ اللهِ. وَإِشَارَتُهَا فِي صَفِّ العَزَائِمِ لِدَفْعِ العَوَائِقِ.",
+      "translation": "Tentang jihad dan pertolongan Allah. Isyaratnya dalam membariskan tekad untuk mengusir rintangan spiritual."
+    },
+    {
+      "title": "Surah Al-Jumu'ah",
+      "titleArabic": "سُورَةُ جُمُعَة",
+      "arabic": "فِي الذِّكْرِ وَالِاجْتِمَاعِ. وَإِشَارَتُهَا فِي جَمْعِ القَلْبِ عَلَى اللهِ تَعَالَى.",
+      "translation": "Tentang dzikir dan perkumpulan. Isyaratnya dalam menyatukan fokus hati hanya kepada Allah Ta'ala."
+    },
+    {
+      "title": "Surah Al-Munafiqun",
+      "titleArabic": "سُورَةُ المُنَافِقُونَ",
+      "arabic": "فِي التَّحْذِيرِ مِنَ الرِّيَاءِ. وَإِشَارَتُهَا فِي تَطْهِيرِ البَاطِنِ مِنْ شَوَائِبِ التَّصَنُّعِ.",
+      "translation": "Tentang peringatan dari riya. Isyaratnya dalam mensucikan batin dari kotoran kepura-puraan."
+    },
+    {
+      "title": "Surah At-Taghabun",
+      "titleArabic": "سُورَةُ التَّغَابُنِ",
+      "arabic": "فِي الغَبْنِ وَالخُسْرَانِ. وَإِشَارَتُهَا فِي خُسْرَانِ مَنْ بَاعَ البَاقِيَ بِالفَانِي.",
+      "translation": "Tentang kerugian. Isyaratnya tentang kerugian orang yang menjual sesuatu yang abadi demi sesuatu yang fana."
+    },
+    {
+      "title": "Surah At-Talaq",
+      "titleArabic": "سُورَةُ الطَّلَاقِ",
+      "arabic": "فِي الفِرَاقِ وَالرِّزْقِ. وَإِشَارَتُهَا فِي طَلَاقِ الدُّنْيَا لِحُصُولِ التَّقْوَى.",
+      "translation": "Tentang perceraian dan rezeki. Isyaratnya tentang menceraikan dunia demi meraih ketakwaan."
+    },
+    {
+      "title": "Surah At-Tahrim",
+      "titleArabic": "سُورَةُ التَّحْرِيمِ",
+      "arabic": "فِي التَّوْبَةِ النَّصُوحِ. وَإِشَارَتُهَا فِي تَحْرِيمِ الرَّاحَةِ عَلَى النَّفْسِ حَتَّى تَصِلَ.",
+      "translation": "Tentang taubat nasuha. Isyaratnya dalam mengharamkan istirahat bagi nafsu sampai ia sampai ke tujuan."
+    },
+    {
+      "title": "Surah Al-Mulk",
+      "titleArabic": "سُورَةُ المُلْكِ",
+      "arabic": "فِي المُلْكِ وَالمَلَكُوتِ. وَإِشَارَتُهَا فِي الِاعْتِبَارِ بِمَلَكُوتِ السَّمَاوَاتِ وَالأَرْضِ.",
+      "translation": "Tentang kerajaan fisik dan metafisik. Isyaratnya dalam mengambil pelajaran dari kerajaan langit dan bumi."
+    },
+    {
+      "title": "Surah Al-Qalam",
+      "titleArabic": "سُورَةُ القَلَمِ",
+      "arabic": "فِي نُونِ المَدَدِ وَقَلَمِ القَدَرِ. وَإِشَارَتُهَا فِي كِتَابَةِ العُلُومِ فِي أَلْوَاحِ القُلُوبِ.",
+      "translation": "Tentang huruf Nun pembawa madad dan pena takdir. Isyaratnya dalam penulisan ilmu di atas luh (papan) hati."
+    },
+    {
+      "title": "Surah Al-Haqqah",
+      "titleArabic": "سُورَةُ الحَاقَّةِ",
+      "arabic": "فِي الحَقِيقَةِ الوَاقِعَةِ. وَإِشَارَتُهَا فِي حَقِيقَةِ المَوْتِ عَنْ نَصِيبِ النَّفْسِ.",
+      "translation": "Tentang kebenaran yang terjadi. Isyaratnya tentang hakikat kematian dari bagian-bagian nafsu."
+    },
+    {
+      "title": "Surah Al-Ma'arij",
+      "titleArabic": "سُورَةُ المَعَارِجِ",
+      "arabic": "فِي مَعَارِجِ الرُّوحِ. وَإِشَارَتُهَا فِي عُرُوجِ الهِمَمِ إِلَى أَعْلَى عِلِّيِّينَ.",
+      "translation": "Tentang tangga-tangga ruh. Isyaratnya dalam naiknya tekad menuju tempat yang paling tinggi (Illiyyin)."
+    },
+    {
+      "title": "Surah Nuh",
+      "titleArabic": "سُورَةُ نُوحٍ",
+      "arabic": "فِي الدَّعْوَةِ وَالصَّبْرِ. وَإِشَارَتُهَا فِي سَفِينَةِ النَّجَاةِ مِنَ الطُّوفَانِ المَادِّيِّ.",
+      "translation": "Tentang dakwah dan kesabaran. Isyaratnya mengenai perahu keselamatan dari banjir materialisme."
+    },
+    {
+      "title": "Surah Al-Jinn",
+      "titleArabic": "سُورَةُ الجِنِّ",
+      "arabic": "فِي اسْتِمَاعِ الحَقِّ. وَإِشَارَتُهَا فِي إِسْلَامِ جِنِّ النَّفْسِ وَقُوَاهَا لِلرُّوحِ.",
+      "translation": "Tentang mendengarkan kebenaran. Isyaratnya dalam tunduknya jin nafsu dan kekuatannya kepada ruh."
+    },
+    {
+      "title": "Surah Al-Muzzammil",
+      "titleArabic": "سُورَةُ المُزَّمِّلِ",
+      "arabic": "فِي قِيَامِ اللَّيْلِ. وَإِشَارَتُهَا فِي نَفْضِ ثِيَابِ الغَفْلَةِ وَالتَّزَمُّلِ بِالذِّكْرِ.",
+      "translation": "Tentang bangun malam. Isyaratnya dalam mengibaskan pakaian kelalaian dan berselimut dengan dzikir."
+    },
+    {
+      "title": "Surah Al-Muddaththir",
+      "titleArabic": "سُورَةُ المُدَّثِّرِ",
+      "arabic": "فِي القِيَامِ بِالنِّذَارَةِ. وَإِشَارَتُهَا فِي طَهَارَةِ الثِّيَابِ المَعْنَوِيَّةِ.",
+      "translation": "Tentang melaksanakan peringatan. Isyaratnya dalam kesucian pakaian maknawi (jiwa)."
+    },
+    {
+      "title": "Surah Al-Qiyamah",
+      "titleArabic": "سُورَةُ القِيَامَةِ",
+      "arabic": "فِي النَّفْسِ اللَّوَّامَةِ. وَإِشَارَتُهَا فِي قِيَامَةِ القَلْبِ بِمُشَاهَدَةِ الرَّبِّ.",
+      "translation": "Tentang nafsu lawwamah. Isyaratnya dalam kebangkitan hati dengan menyaksikan Sang Tuhan."
+    },
+    {
+      "title": "Surah Al-Insan",
+      "titleArabic": "سُورَةُ الإِنْسَانِ",
+      "arabic": "فِي كَمَالِ الإِنْسَانِ. وَإِشَارَتُهَا فِي شُرْبِ كَأْسِ المَحَبَّةِ كَافُورًا وَزَنْجَبِيلًا.",
+      "translation": "Tentang kesempurnaan manusia. Isyaratnya dalam meminum cawan cinta yang terasa sejuk (kafur) dan hangat (jahe)."
+    },
+    {
+      "title": "Surah Al-Mursalat",
+      "titleArabic": "سُورَةُ المُرْسَلَاتِ",
+      "arabic": "فِي رِيَاحِ المَدَدِ. وَإِشَارَتُهَا فِي تَعَاقُبِ الوَارِدَاتِ عَلَى القُلُوبِ.",
+      "translation": "Tentang angin pertolongan. Isyaratnya dalam silih bergantinya warid (ilham ilahi) yang datang ke hati."
+    },
+    {
+      "title": "Surah An-Naba'",
+      "titleArabic": "سُورَةُ النَّبَإِ",
+      "arabic": "فِي الخَبَرِ العَظِيمِ. وَإِشَارَتُهَا فِي نَبَإِ التَّوْحِيدِ الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ.",
+      "translation": "Tentang berita besar. Isyaratnya dalam berita Tauhid yang sering diperselisihkan manusia."
+    },
+    {
+      "title": "Surah An-Nazi'at",
+      "titleArabic": "سُورَةُ النَّازِعَاتِ",
+      "arabic": "فِي نَزْعِ الأَرْوَاحِ. وَإِشَارَتُهَا فِي نَزْعِ حُبِّ الدُّنْيَا مِنَ العُرُوقِ.",
+      "translation": "Tentang pencabutan nyawa. Isyaratnya dalam mencabut cinta dunia dari akar-akarnya."
+    },
+    {
+      "title": "Surah 'Abasa",
+      "titleArabic": "سُورَةُ عَبَسَ",
+      "arabic": "فِي التَّوَجُّهِ لِلْفُقَرَاءِ. وَإِشَارَتُهَا فِي إِقْبَالِ الحَقِّ عَلَى مَنْ أَقْبَلَ عَلَيْهِ بِكُلِّيَّتِهِ.",
+      "translation": "Tentang berpaling kepada fakir miskin. Isyaratnya tentang penerimaan Allah kepada siapa pun yang menghadap-Nya dengan seluruh jiwanya."
+    },
+    {
+      "title": "Surah At-Takwir",
+      "titleArabic": "سُورَةُ التَّكْوِيرِ",
+      "arabic": "فِي كَوْرِ الظَّلَامِ وَانْكِدَارِ النُّجُومِ. وَإِشَارَتُهَا فِي اضْمِحْلَالِ الرُّسُومِ عِنْدَ طُلُوعِ شَمْسِ الذَّاتِ.",
+      "translation": "Tentang penggulungan kegelapan dan redupnya bintang. Isyaratnya dalam hilangnya eksistensi makhluk saat terbitnya matahari Dzat Allah."
+    },
+    {
+      "title": "Surah Al-Infitar",
+      "titleArabic": "سُورَةُ الِانْفِطَارِ",
+      "arabic": "فِي انْشِقَاقِ السَّمَاءِ. وَإِشَارَتُهَا فِي انْفِطَارِ سَمَاءِ القَلْبِ لِنُزُولِ الوَحْيِ الإِشَارِيِّ.",
+      "translation": "Tentang terbelahnya langit. Isyaratnya dalam terbelahnya langit hati untuk menerima wahyu isyari."
+    },
+    {
+      "title": "Surah Al-Mutaffifin",
+      "titleArabic": "سُورَةُ المُطَفِّفِينَ",
+      "arabic": "فِي التَّطْفِيفِ. وَإِشَارَتُهَا فِي تَوْفِيَةِ حُقُوقِ اللهِ وَعَدَمِ بَخْسِهَا.",
+      "translation": "Tentang kecurangan dalam timbangan. Isyaratnya dalam memenuhi hak-hak Allah secara sempurna tanpa menguranginya."
+    },
+    {
+      "title": "Surah Al-Inshiqaq",
+      "titleArabic": "سُورَةُ الِانْشِقَاقِ",
+      "arabic": "فِي الخُضُوعِ لِلرَّبِّ. وَإِشَارَتُهَا فِي انْشِقَاقِ بَرِيدِ العَمَلِ بِبُشْرَى القَبُولِ.",
+      "translation": "Tentang ketundukan kepada Tuhan. Isyaratnya dalam terbelahnya catatan amal dengan berita gembira penerimaan."
+    },
+    {
+      "title": "Surah Al-Buruj",
+      "titleArabic": "سُورَةُ البُرُوجِ",
+      "arabic": "فِي حِفْظِ الإِيمَانِ. وَإِشَارَتُهَا فِي بُرُوجِ القَلْبِ الَّتِي فِيهَا نُجُومُ اليَقِينِ.",
+      "translation": "Tentang penjagaan iman. Isyaratnya dalam benteng-benteng hati yang di dalamnya terdapat bintang-bintang keyakinan."
+    },
+    {
+      "title": "Surah At-Tariq",
+      "titleArabic": "سُورَةُ الطَّارِقِ",
+      "arabic": "فِي النَّجْمِ الثَّاقِبِ. وَإِشَارَتُهَا فِي طَارِقِ الخَاطِرِ الرَّحْمَانِيِّ.",
+      "translation": "Tentang bintang yang menembus. Isyaratnya dalam lintasan pikiran rabbani yang datang tiba-tiba ke hati."
+    },
+    {
+      "title": "Surah Al-A'la",
+      "titleArabic": "سُورَةُ الأَعْلَى",
+      "arabic": "تَسْبِيحُ الأَعْلَى. وَإِشَارَتُهَا فِي تَزْكِيَةِ النَّفْسِ لِلْفَلَاحِ.",
+      "translation": "Tasbih kepada Yang Maha Tinggi. Isyaratnya dalam penyucian jiwa demi meraih keberuntungan abadi."
+    },
+    {
+      "title": "Surah Al-Ghashiyah",
+      "titleArabic": "سُورَةُ الغَاشِيَةِ",
+      "arabic": "فِي الغِطَاءِ وَالهَوْلِ. وَإِشَارَتُهَا فِي غَاشِيَةِ الحَقِيقَةِ الَّتِي تَغْشَى مَنْ لَيْسَ لَهَا بِأَهْلٍ.",
+      "translation": "Tentang penutup dan kengerian. Isyaratnya dalam selubung hakikat yang menutupi mereka yang bukan ahlinya."
+    },
+    {
+      "title": "Surah Al-Fajr",
+      "titleArabic": "سُورَةُ الفَجْرِ",
+      "arabic": "فِي فَجْرِ المَعْرِفَةِ. وَإِشَارَتُهَا فِي النَّفْسِ المُطْمَئِنَّةِ الرَّاضِيَةِ المَرْضِيَّةِ.",
+      "translation": "Tentang fajar makrifat. Isyaratnya dalam jiwa yang tenang (muthmainnah), ridha, dan diridhai."
+    },
+    {
+      "title": "Surah Al-Balad",
+      "titleArabic": "سُورَةُ البَلَدِ",
+      "arabic": "فِي حُرْمَةِ المَكَانِ وَالإِنْسَانِ. وَإِشَارَتُهَا فِي بَلَدِ القَلْبِ الحَرَامِ.",
+      "translation": "Tentang kehormatan negeri dan manusia. Isyaratnya mengenai negeri hati yang suci (haram)."
+    },
+    {
+      "title": "Surah Ash-Shams",
+      "titleArabic": "سُورَةُ الشَّمْسِ",
+      "arabic": "فِي قَسَمِ الآفَاقِ. وَإِشَارَتُهَا فِي شَمْسِ الرُّوحِ وَقَمَرِ العَقْلِ.",
+      "translation": "Tentang sumpah fenomena ufuk. Isyaratnya mengenai matahari ruh dan rembulan akal."
+    },
+    {
+      "title": "Surah Al-Layl",
+      "titleArabic": "سُورَةُ اللَّيْلِ",
+      "arabic": "فِي السَّعْيِ المُخْتَلِفِ. وَإِشَارَتُهَا فِي لَيْلِ النَّفْسِ وَنَهَارِ القَلْبِ.",
+      "translation": "Tentang usaha yang berbeda-beda. Isyaratnya dalam malamnya nafsu dan siangnya hati."
+    },
+    {
+      "title": "Surah Ad-Duha",
+      "titleArabic": "سُورَةُ الضُّحَى",
+      "arabic": "فِي الإِينَاسِ وَالعَطَاءِ. وَإِشَارَتُهَا فِي شُرُوقِ أَنْوَارِ الوَصْلِ بَعْدَ ظُلْمَةِ الفَصْلِ.",
+      "translation": "Tentang keramahan dan pemberian Allah. Isyaratnya dalam terbitnya cahaya perjumpaan (washl) setelah kegelapan perpisahan (fashl)."
+    },
+    {
+      "title": "Surah Ash-Sharh",
+      "titleArabic": "سُورَةُ الشَّرْحِ",
+      "arabic": "فِي انْشِرَاحِ الصَّدْرِ. وَإِشَارَتُهَا فِي وَضْعِ وِزْرِ الأَنَانِيَّةِ.",
+      "translation": "Tentang kelapangan dada. Isyaratnya dalam peletakan beban keakuan (ego)."
+    },
+    {
+      "title": "Surah At-Tin",
+      "titleArabic": "سُورَةُ التِّينِ",
+      "arabic": "فِي تَقْوِيمِ الإِنْسَانِ. وَإِشَارَتُهَا فِي عَوْدَةِ العَبْدِ إِلَى أَحْسَنِ تَقْوِيمٍ بِالمَعْرِفَةِ.",
+      "translation": "Tentang penciptaan manusia. Isyaratnya dalam kembalinya hamba ke bentuk terbaik melalui makrifat."
+    },
+    {
+      "title": "Surah Al-'Alaq",
+      "titleArabic": "سُورَةُ العَلَقِ",
+      "arabic": "فِي القِرَاءَةِ وَالعِلْمِ. وَإِشَارَتُهَا فِي تَعَلُّقِ الرُّوحِ بِبَارِئِهَا.",
+      "translation": "Tentang bacaan dan ilmu. Isyaratnya dalam bergantungnya ruh kepada Penciptanya."
+    },
+    {
+      "title": "Surah Al-Qadr",
+      "titleArabic": "سُورَةُ القَدْرِ",
+      "arabic": "فِي لَيْلَةِ التَّجَلِّي. وَإِشَارَتُهَا فِي قَدْرِ العَارِفِ عِنْدَ رَبِّهِ.",
+      "translation": "Tentang malam tajalli. Isyaratnya dalam kedudukan (qadar) seorang arif di sisi Tuhannya."
+    },
+    {
+      "title": "Surah Al-Bayyinah",
+      "titleArabic": "سُورَةُ البَيِّنَةِ",
+      "arabic": "فِي ظُهُورِ الحَقِيقَةِ. وَإِشَارَتُهَا فِي إِخْلَاصِ الدِّينِ لِلَّهِ حُنَفَاءَ.",
+      "translation": "Tentang tampaknya hakikat. Isyaratnya dalam memurnikan agama bagi Allah dengan lurus."
+    },
+    {
+      "title": "Surah Az-Zalzalah",
+      "titleArabic": "سُورَةُ الزَّلْزَلَةِ",
+      "arabic": "فِي زَلْزَلَةِ النُّفُوسِ. وَإِشَارَتُهَا فِي إِخْرَاجِ القَلْبِ لِأَثْقَالِهِ مِنَ الأَغْيَارِ.",
+      "translation": "Tentang guncangan jiwa. Isyaratnya dalam pengeluaran beban-beban selain Allah dari dalam hati."
+    },
+    {
+      "title": "Surah Al-'Adiyat",
+      "titleArabic": "سُIFرَةُ العَادِيَاتِ",
+      "arabic": "فِي جِهَادِ النَّفْسِ. وَإِشَارَتُهَا فِي خَيْلِ الهِمَمِ الَّتِي تَعْدُو إِلَى مَيَادِينِ القُدْسِ.",
+      "translation": "Tentang jihad nafsu. Isyaratnya mengenai kuda-kuda tekad yang berlari kencang menuju medan kesucian."
+    },
+    {
+      "title": "Surah Al-Qari'ah",
+      "titleArabic": "سُورَةُ القَارِعَةِ",
+      "arabic": "فِي قَرْعِ القُلُوبِ. وَإِشَارَتُهَا فِي ثِقَلِ مَوَازِينِ المَحَبَّةِ.",
+      "translation": "Tentang ketukan pada hati. Isyaratnya dalam beratnya timbangan cinta."
+    },
+    {
+      "title": "Surah At-Takathur",
+      "titleArabic": "سُورَةُ التَّكَاثُرِ",
+      "arabic": "فِي ذَمِّ الغَفْلَةِ. وَإِشَارَتُهَا فِي التَّكَاثُرِ بِالأَحْوَالِ دُونَ المَقَامَاتِ.",
+      "translation": "Tentang celaan atas kelalaian. Isyaratnya dalam berbanyak-banyak 'hal' (kondisi sesaat) tanpa mencapai 'maqam' (kedudukan tetap)."
+    },
+    {
+      "title": "Surah Al-'Asr",
+      "titleArabic": "سُورَةُ العَصْرِ",
+      "arabic": "فِي قِيمَةِ الزَّمَانِ. وَإِشَارَتُهَا فِي عَصْرِ القَلْبِ لِيَخْرُجَ مِنْهُ صَفْوُ المَعْرِفَةِ.",
+      "translation": "Tentang nilai waktu. Isyaratnya dalam memeras (ashr) hati agar keluar darinya saripati makrifat."
+    },
+    {
+      "title": "Surah Al-Humazah",
+      "titleArabic": "سُورَةُ الهُمَزَةِ",
+      "arabic": "فِي ذَمِّ التَّكَبُّرِ. وَإِشَارَتُهَا فِي حُطَمَةِ القَلْبِ الَّتِي تَحْطِمُ صَنَمَ الأَنَانِيَّةِ.",
+      "translation": "Tentang celaan kesombongan. Isyaratnya dalam api hati (huthamah) yang menghancurkan berhala ego."
+    },
+    {
+      "title": "Surah Al-Fil",
+      "titleArabic": "سُورَةُ الفِيلِ",
+      "arabic": "فِي حِمَايَةِ الحِمَى. وَإِشَارَتُهَا فِي هَلَاكِ كُلِّ مَنْ أَرَادَ سُوءًا بِبَيْتِ القَلْبِ.",
+      "translation": "Tentang perlindungan tempat suci. Isyaratnya dalam hancurnya siapa saja yang menginginkan keburukan bagi rumah hati."
+    },
+    {
+      "title": "Surah Quraish",
+      "titleArabic": "سُورَةُ قُرَيْشٍ",
+      "arabic": "فِي الإِيلَافِ وَالأَمْنِ. وَإِشَارَتُهَا فِي إِيلَافِ الرُّوحِ بِحَضْرَةِ القُدْسِ.",
+      "translation": "Tentang kebiasaan dan keamanan. Isyaratnya dalam kebiasaan ruh berada di hadirat kesucian."
+    },
+    {
+      "title": "Surah Al-Ma'un",
+      "titleArabic": "سُورَةُ المَاعُونِ",
+      "arabic": "فِي حَقِّ المِسْكِينِ. وَإِشَارَتُهَا فِي بَذْلِ فَضْلِ المَعَارِفِ لِلسَّالِكِينَ.",
+      "translation": "Tentang hak orang miskin. Isyaratnya dalam memberikan kelebihan makrifat kepada para salik."
+    },
+    {
+      "title": "Surah Al-Kautsar",
+      "titleArabic": "سُورَةُ الكَوْثَرِ",
+      "arabic": "فِي الخَيْرِ الكَثِيرِ. وَإِشَارَتُهَا فِي نَهْرِ الوَصْلِ الَّذِي لَا يَنْقَطِعُ.",
+      "translation": "Tentang kebaikan yang melimpah. Isyaratnya dalam sungai hubungan (washl) yang tak pernah putus."
+    },
+    {
+      "title": "Surah Al-Kafirun",
+      "titleArabic": "سُورَةُ الكَافِرُونَ",
+      "arabic": "فِي البَرَاءَةِ مِنَ الشِّرْكِ. وَإِشَارَتُهَا فِي بَرَاءَةِ العَارِفِ مِنْ رُؤْيَةِ السِّوَى.",
+      "translation": "Tentang berlepas diri dari syirik. Isyaratnya tentang berlepas dirinya seorang arif dari melihat selain Allah."
+    },
+    {
+      "title": "Surah An-Nasr",
+      "titleArabic": "سُورَةُ النَّصْرِ",
+      "arabic": "فِي فَتْحِ مَكَّةِ القَلْبِ. وَإِشَارَتُهَا فِي التَّسْبِيحِ عِنْدَ تَمَامِ الرِّحْلَةِ.",
+      "translation": "Tentang penaklukan Makkah hati. Isyaratnya dalam bertasbih saat selesainya perjalanan spiritual."
+    },
+    {
+      "title": "Surah Al-Masad",
+      "titleArabic": "سُورَةُ المَسَدِ",
+      "arabic": "فِي خُسْرَانِ مَنْ عادى الحَقَّ. وَإِشَارَتُهَا فِي قَطْعِ حَبْلِ التَّعَلُّقِ بِالدُّنْيَا.",
+      "translation": "Tentang kerugian memusuhi Al-Haq. Isyaratnya dalam memutus tali keterikatan dengan dunia."
+    },
+    {
+      "title": "Surah Al-Ikhlas",
+      "titleArabic": "سُورَةُ الإِخْلَاصِ",
+      "arabic": "فِي التَّوْحِيدِ الصَّمَدِيِّ. وَإِشَارَتُهَا فِي غَيْبَةِ العَبْدِ عَنْ كُلِّ كَثْرَةٍ.",
+      "translation": "Tentang tauhid yang bergantung pada Allah semata. Isyaratnya dalam sirnanya hamba dari segala bentuk keragaman/multiplisitas."
+    },
+    {
+      "title": "Surah Al-Falaq",
+      "titleArabic": "سُورَةُ الفَلَقِ",
+      "arabic": "فِي الِاسْتِعَاذَةِ مِنَ الشَّرِّ. وَإِشَارَتُهَا فِي فَلَقِ فَجْرِ المَعْرِفَةِ مِنْ لَيْلِ البَشَرِيَّةِ.",
+      "translation": "Tentang perlindungan dari kejahatan. Isyaratnya dalam terbelahnya fajar makrifat dari malam kemanusiaan."
+    },
+    {
+      "title": "Surah An-Nas",
+      "titleArabic": "سُورَةُ النَّاسِ",
+      "arabic": "فِي الِاعْتِصَامِ بِرَبِّ النَّاسِ. وَإِشَارَتُهَا فِي الِاحْتِمَاءِ بِالحَقِّ مِنْ وَسَاوِسِ نَفْسٍ خَنَّاسَةٍ.",
+      "translation": "Tentang berpegang teguh pada Tuhan manusia. Isyaratnya dalam berlindung kepada Al-Haq dari was-was nafsu yang bersembunyi."
+    },
+    {
+      "title": "Khatimah Kitab",
+      "titleArabic": "خَاتِمَةُ الكِتَابِ",
+      "arabic": "هَذَا آخِرُ مَا يَسَّرَهُ اللهُ فِي هَذَا التَّفْسِيرِ الَّذِي جَمَعَ بَيْنَ الشَّرِيعَةِ وَالحَقِيقَةِ. فَالْحَمْدُ للهِ عَلَى التَّمَامِ وَالصَّلَاةُ عَلَى خَيْرِ الأَنَامِ.",
+      "translation": "Inilah akhir dari apa yang Allah mudahkan dalam tafsir yang mengumpulkan antara syariat dan hakikat. Segala puji bagi Allah atas sempurnanya kitab ini, dan shalawat atas sebaik-baik manusia."
+    }
+  ]
+}
