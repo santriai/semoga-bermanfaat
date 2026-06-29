@@ -1,164 +1,158 @@
 {
   "profile": {
     "name": "Sirrul Asrar",
-    "originalTitle": "سِرُّ الأَسْرَارِ وَمَظْهَرُ الأَنْوَارِ فِيمَا يَحْتَاجُ إِلَيْهِ الأَبْرَارُ",
-    "author": "Syekh Abdul Qadir al-Jilani (Sulthanul Auliya)",
-    "field": "Tasawuf & Haqaiq",
-    "about": "Kitab Sirrul Asrar merupakan karya agung Syekh Abdul Qadir al-Jilani yang mengupas tuntas perjalanan ruhani seorang hamba menuju Sang Pencipta. Kitab ini menjelaskan keterkaitan erat antara syariat, tarekat, hakikat, dan makrifat sebagai satu kesatuan yang tidak terpisahkan. Di dalamnya, Syekh Abdul Qadir membedah lapisan-lapisan jiwa manusia, mulai dari nafsu yang paling rendah hingga mencapai tingkatan ruh al-qudsi. Pembahasan mencakup dimensi batiniah dari ibadah-ibadah formal seperti shalat, puasa, dan haji. Kitab ini dianggap sebagai panduan esensial bagi para salik yang ingin mencapai derajat makrifatullah yang sejati. Penjelasannya yang sistematis menjadikannya rujukan utama dalam disiplin ilmu tasawuf di seluruh dunia Islam.",
-    "authorBorn": "470 H / 1077 M (Nif, Jailan, Iran)",
-    "authorDied": "561 H / 1166 M (Baghdad, Irak)",
-    "authorCentury": "Abad ke-5 & ke-6 Hijriyah"
+    "originalTitle": "سِرُّ الْأَسْرَارِ وَمَظْهَرُ الْأَنْوَارِ فِيمَا يَحْتَاجُ إِلَيْهِ الْأَبْرَارُ",
+    "author": "Asy-Syaikh al-Imam al-Quthb al-A'zham Abdul Qadir al-Jilani Al-Hasani wal-Husaini",
+    "field": "Tasawwuf (Sufisme)",
+    "about": "Kitab Sirrul Asrar merupakan salah satu mahakarya agung Syekh Abdul Qadir al-Jilani yang mengupas tuntas tentang hakikat penciptaan dan perjalanan ruh menuju pencipta-Nya. Kitab ini dianggap sebagai panduan esoteris yang menjembatani antara syariat, thariqat, hakikat, dan ma'rifat secara harmonis. Di dalamnya dijelaskan rahasia-rahasia ibadah lahiriah yang memiliki dimensi batiniah yang mendalam bagi para salik. Penulis menekankan pentingnya pensucian jiwa (tazkiyatun nafs) untuk mencapai cahaya ilahiyah. Kitab ini menjadi rujukan utama dalam berbagai tarekat muktabarah di dunia Islam, khususnya Tarekat Qadiriyah.",
+    "authorBorn": "470 H / 1077 M di Jailan",
+    "authorDied": "561 H / 1166 M di Baghdad",
+    "authorCentury": "Abad ke-12 Masehi (Abad ke-5-6 Hijriah)"
   },
   "chapters": [
     {
-      "title": "Muqaddimah: Hakikat Penciptaan Ruh Muhammad",
-      "titleArabic": "المُقَدِّمَةُ فِي بَيَانِ بَدْءِ الخَلْقِ",
-      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي هُوَ أَوَّلُ قَبْلَ كُلِّ شَيْءٍ، وَالْآخِرُ بَعْدَ كُلِّ شَيْءٍ. اعْلَمْ أَنَّ اللَّهَ تَعَالَى خَلَقَ رُوحَ مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنْ نُورِ جَمَالِهِ، كَمَا قَالَ اللَّهُ تَعَالَى فِي حَدِيثِهِ الْقُدْسِيِّ: خَلَقْتُ رُوحَ مُحَمَّدٍ مِنْ نُورِ وَجْهِي.",
-      "translation": "Segala puji bagi Allah yang Dia adalah Yang Awal sebelum segala sesuatu, dan Yang Akhir setelah segala sesuatu. Ketahuilah bahwa Allah Ta'ala menciptakan ruh Muhammad SAW dari cahaya keindahan-Nya, sebagaimana Allah Ta'ala berfirman dalam Hadits Qudsi: Aku menciptakan ruh Muhammad dari cahaya wajah-Ku."
+      "title": "Pendahuluan (Muqaddimah)",
+      "titleArabic": "الْمُقَدِّمَةُ",
+      "arabic": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ. اَلْحَمْدُ لِلّٰهِ الَّذِي خَلَقَ الْأَشْيَاءَ كُلَّهَا لِأَجْلِ الْإِنْسَانِ، وَخَلَقَ الْإِنْسَانَ لِأَجْلِ الْمَعْرِفَةِ. وَالصَّلَاةُ وَالسَّلَامُ عَلَى سَيِّدِنَا مُحَمَّدٍ الَّذِي هُوَ أَوَّلُ الْمَخْلُوقَاتِ وَأَكْرَمُ الْمَوْجُودَاتِ. أَمَّا بَعْدُ: فَهَذَا كِتَابٌ فِي بَيَانِ أَسْرَارِ الطَّرِيقِ وَأَحْوَالِ التَّحْقِيقِ لِيَكُونَ عَوْنًا لِلْمُرِيدِيْنَ.",
+      "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah yang telah menciptakan segala sesuatu demi manusia, dan menciptakan manusia demi mengenal-Nya (ma'rifat). Selawat dan salam semoga tercurah kepada junjungan kita Nabi Muhammad, yang merupakan makhluk pertama dan paling mulia di alam semesta. Adapun setelah itu, maka ini adalah kitab yang menjelaskan rahasia-rahasia jalan (thariqah) dan keadaan pencapaian kebenaran (tahqiq) agar menjadi pembantu bagi para pencari (murid)."
     },
     {
-      "title": "Fasal 1: Kembalinya Manusia ke Tanah Air Asal",
-      "titleArabic": "الفَصْلُ الأَوَّلُ: فِي رُجُوعِ الإِنْسَانِ إِلَى وَطَنِهِ الأَصْلِيِّ",
-      "arabic": "اعْلَمْ أَنَّ الْإِنْسَانَ إِذَا أَرَادَ الرُّجُوعَ إِلَى وَطَنِهِ الْأَصْلِيِّ، فَعَلَيْهِ أَنْ يَتْرُكَ مَأْلُوفَاتِ النَّفْسِ وَلَذَّاتِهَا، وَيَطْلُبَ الْعِلْمَ الْبَاطِنَ الَّذِي هُوَ مِفْتَاحُ الأَسْرَارِ. فَإِنَّ الْإِنْسَانَ خُلِقَ فِي أَحْسَنِ تَقْوِيمٍ ثُمَّ رُدَّ إِلَى أَسْفَلِ سَافِلِينَ.",
-      "translation": "Ketahuilah bahwa manusia apabila ingin kembali ke tanah air asalnya, maka ia wajib meninggalkan kebiasaan-kebiasaan nafsu dan kelezatannya, serta mencari ilmu batin yang merupakan kunci rahasia-rahasia. Karena sesungguhnya manusia diciptakan dalam bentuk yang sebaik-baiknya kemudian dikembalikan ke tempat yang serendah-rendahnya."
+      "title": "Bab 1: Permulaan Penciptaan",
+      "titleArabic": "الْفَصْلُ الْأَوَّلُ: فِي مَبْدَأِ الْخَلْقِ",
+      "arabic": "اِعْلَمْ أَنَّ أَوَّلَ مَا خَلَقَ اللّٰهُ تَعَالَى رُوحَ مُحَمَّدٍ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ مِنْ نُورِ جَمَالِهِ، كَمَا قَالَ اللّٰهُ تَعَالَى فِي حَدِيثِهِ الْقُدْسِيِّ: خَلَقْتُ رُوحَ مُحَمَّدٍ مِنْ نُورِي. وَهَذَا الرُّوحُ هُوَ الْحَقِيقَةُ الْمُحَمَّدِيَّةُ الَّتِي هِيَ أَصْلُ جَمِيعِ الْمَوْجُودَاتِ.",
+      "translation": "Ketahuilah bahwa sesuatu yang pertama kali Allah Ta'ala ciptakan adalah Ruh Muhammad SAW dari cahaya keindahan-Nya, sebagaimana Allah berfirman dalam Hadits Qudsi: 'Aku ciptakan ruh Muhammad dari cahaya-Ku'. Dan ruh ini adalah Hakikat Muhammadiyah yang menjadi asal mula bagi segala yang ada."
     },
     {
-      "title": "Fasal 2: Turunnya Manusia ke Alam yang Paling Rendah",
-      "titleArabic": "الفَصْلُ الثَّانِي: فِي هُبُوطِ الإِنْسَانِ إِلَى أَسْفَلِ سَافِلِينَ",
-      "arabic": "لَمَّا خَلَقَ اللَّهُ تَعَالَى الرُّوحَ فِي عَالَمِ اللَّاهُوتِ، أَرَادَ أَنْ يُنْزِلَهَا إِلَى عَالَمِ النَّاسُوتِ لِتَحْصِيلِ المَعْرِفَةِ وَالقُرْبِ. فَأُنْزِلَتْ إِلَى عَالَمِ المَلَكُوتِ ثُمَّ إِلَى عَالَمِ المُلْكِ حَتَّى تَعَلَّقَتْ بِهَذَا الجَسَدِ الكَثِيفِ.",
-      "translation": "Tatkala Allah Ta'ala menciptakan ruh di alam Lahut, Dia berkehendak untuk menurunkannya ke alam Nasut (kemanusiaan) guna memperoleh makrifat dan kedekatan. Maka ruh diturunkan ke alam Malakut, kemudian ke alam Mulki, hingga akhirnya terikat dengan jasad yang kasar ini."
+      "title": "Bab 2: Kembalinya Manusia ke Kampung Halamannya",
+      "titleArabic": "الْفَصْلُ الثَّانِي: فِي رُجُوعِ الْإِنْسَانِ إِلَى وَطَنِهِ الْأَصْلِيِّ",
+      "arabic": "اَلْإِنْسَانُ لَا يَصِلُ إِلَى وَطَنِهِ الْأَصْلِيِّ إِلَّا بِتَرْكِ الدُّنْيَا وَالْآخِرَةِ، كَمَا قِيلَ: الدُّنْيَا حَرَامٌ عَلَى أَهْلِ الْآخِرَةِ، وَالْآخِرَةُ حَرَامٌ عَلَى أَهْلِ الدُّنْيَا، وَهُمَا حَرَامَانِ عَلَى أَهْلِ اللّٰهِ. فَالرُّجُوعُ يَكُونُ بِالسَّيْرِ إِلَى حَضْرَةِ الْقُرْبِ.",
+      "translation": "Manusia tidak akan sampai ke kampung halaman aslinya kecuali dengan meninggalkan dunia dan akhirat, sebagaimana dikatakan: Dunia haram bagi ahli akhirat, akhirat haram bagi ahli dunia, dan keduanya haram bagi ahli Allah. Maka kepulangan itu terjadi dengan melakukan perjalanan menuju hadirat kedekatan dengan Allah."
     },
     {
-      "title": "Fasal 3: Tempat Kedudukan Ruh dalam Jasad",
-      "titleArabic": "الفَصْلُ الثَّالِثُ: فِي بَيَانِ مَقَرِّ الأَرْوَاحِ فِي الجَسَدِ",
-      "arabic": "اعْلَمْ أَنَّ مَقَرَّ الرُّوحِ فِي الجَسَدِ يَخْتَلِفُ بِحَسَبِ مَقَامَاتِهَا. فَمَقَرُّ الرُّوحِ الحَيَوَانِيَّةِ فِي القَلْبِ الصَّنَوْبَرِيِّ، وَمَقَرُّ الرُّوحِ الإِنْسَانِيَّةِ فِي الفُؤَادِ، وَمَقَرُّ الرُّوحِ السُّلْطَانِيَّةِ فِي مَرْكَزِ القَلْبِ.",
-      "translation": "Ketahuilah bahwa tempat kedudukan ruh di dalam jasad berbeda-beda sesuai dengan tingkatannya. Tempat ruh hewani ada pada jantung yang berbentuk seperti buah pinus, tempat ruh insani ada pada Fuad (lubuk hati), dan tempat ruh sulthani ada pada pusat hati."
+      "title": "Bab 3: Penurunan Manusia ke Alam yang Paling Rendah",
+      "titleArabic": "الْفَصْلُ الثَّالِثُ: فِي هُبُوطِ الْإِنْسَانِ إِلَى أَسْفَلِ السَّافِلِينَ",
+      "arabic": "نَزَلَ الرُّوحُ مِنَ الْعَالَمِ الْأَعْلَى إِلَى عَالَمِ الْأَجْسَادِ لِيَكْتَسِبَ مَعْرِفَةَ الْأَسْمَاءِ وَالصِّفَاتِ، فَإِذَا نَسِيَ عَهْدَهُ الْأَوَّلَ بَقِيَ فِي سِجْنِ الطَّبِيعَةِ وَأَسْفَلِ السَّافِلِينَ.",
+      "translation": "Ruh turun dari alam tertinggi ke alam jasad untuk memperoleh pengetahuan tentang Nama-Nama dan Sifat-Sifat Allah. Namun jika ia melupakan perjanjian awalnya, maka ia akan tetap berada dalam penjara tabiat jasmaniah dan tingkatan yang paling rendah."
     },
     {
-      "title": "Fasal 4: Penjelasan Tentang Ilmu dan Makrifat",
-      "titleArabic": "الفَصْلُ الرَّابِعُ: فِي عِلْمِ الشَّرِيعَةِ وَالطَّرِيقَةِ وَالمَعْرِفَةِ وَالحَقِيقَةِ",
-      "arabic": "قَالَ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: الشَّرِيعَةُ شَجَرَةٌ، وَالطَّرِيقَةُ أَغْصَانُهَا، وَالمَعْرِفَةُ أَوْرَاقُهَا، وَالحَقِيقَةُ ثَمَرَتُهَا. فَلَا تَتِمُّ الثَّمَرَةُ إِلَّا بِالشَّجَرَةِ وَالأَغْصَانِ وَالأَوْرَاقِ.",
-      "translation": "Rasulullah SAW bersabda: Syariat itu laksana pohon, Tarekat laksana dahan-dahannya, Makrifat laksana daun-daunnya, dan Hakikat laksana buahnya. Maka buah tidak akan sempurna kecuali dengan adanya pohon, dahan, dan daun."
+      "title": "Bab 4: Tempat-tempat Ruh di dalam Jasad",
+      "titleArabic": "الْفَصْلُ الرَّابِعُ: فِي أَمْكِنَةِ الْأَرْوَاحِ فِي الْجَسَدِ",
+      "arabic": "الرُّوحُ لَهُ مَقَامَاتٌ فِي الْبَدَنِ؛ فَالصَّدْرُ مَقَامُ الْإِسْلَامِ، وَالْقَلْبُ مَقَامُ الْإِيمَانِ، وَالْفُؤَادُ مَقَامُ الْمَعْرِفَةِ، وَالسِّرُّ مَقَامُ التَّوْحِيدِ وَالْمُشَاهَدَةِ.",
+      "translation": "Ruh memiliki kedudukan-kedudukan di dalam tubuh; Dada adalah maqam (tempat) Islam, Hati adalah maqam Iman, Fuad (jantung hati) adalah maqam Ma'rifat, dan Sirr (rahasia terdalam) adalah maqam Tauhid dan Mushahadah (penyaksian)."
     },
     {
-      "title": "Fasal 5: Taubat dan Talqin Dzikir",
-      "titleArabic": "الفَصْلُ الخَامِسُ: فِي التَّوْبَةِ وَالتَّلْقِينِ",
-      "arabic": "التَّوْبَةُ هِيَ الرُّجُوعُ عَمَّا كَانَ مَذْمُومًا فِي الشَّرْعِ إِلَى مَا هُوَ مَحْمُودٌ. وَتَلْقِينُ الذِّكْرِ مِنَ الشَّيْخِ المُرْشِدِ ضَرُورِيٌّ لِتَنْوِيرِ القَلْبِ وَتَصْفِيَتِهِ.",
-      "translation": "Taubat adalah kembali dari segala hal yang dicela oleh syara' menuju hal yang terpuji. Dan talqin dzikir dari seorang Syekh Mursyid sangatlah penting untuk menerangi hati dan menyucikannya."
+      "title": "Bab 5: Tentang Ilmu dan Ma'rifat",
+      "titleArabic": "الْفَصْلُ الْخَامِسُ: فِي الْعُلُومِ وَالْمَعَارِفِ",
+      "arabic": "الْعِلْمُ عِلْمَانِ: عِلْمٌ ظَاهِرٌ وَعِلْمٌ بَاطِنٌ. الظَّاهِرُ هُوَ الشَّرِيعَةُ، وَالْبَاطِنُ هُوَ الْمَعْرِفَةُ. وَلَا يَصِحُّ الْبَاطِنُ إِلَّا بِإِقَامَةِ الظَّاهِرِ، فَهُمَا كَالشَّجَرِ وَالثَّمَرِ.",
+      "translation": "Ilmu itu ada dua: Ilmu Lahir dan Ilmu Batin. Ilmu Lahir adalah Syariat, dan Ilmu Batin adalah Ma'rifat. Tidak akan benar batin seseorang kecuali dengan menegakkan lahiriyah, keduanya bagaikan pohon dan buahnya."
     },
     {
-      "title": "Fasal 6: Tentang Ahli Tasawuf (Sufi)",
-      "titleArabic": "الفَصْلُ السَّادِسُ: فِي بَيَانِ أَهْلِ التَّصَوُّفِ",
-      "arabic": "الصُّوفِيُّ هُوَ الَّذِي صَفَا قَلْبُهُ مِنَ الكُدُورَاتِ البَشَرِيَّةِ، وَتَزَكَّى نَفْسُهُ مِنَ الأَخْلَاقِ الرَّدِيئَةِ، وَتَحَلَّى بِالأَوْصَافِ المَلَكِيَّةِ.",
-      "translation": "Sufi adalah orang yang hatinya bersih dari kekeruhan sifat manusiawi, jiwanya tersucikan dari akhlak yang buruk, dan berhias dengan sifat-sifat malaikat."
+      "title": "Bab 6: Tentang Taubat dan Talqin",
+      "titleArabic": "الْفَصْلُ السَّادِسُ: فِي التَّوْبَةِ وَالتَّلْقِينِ",
+      "arabic": "التَّوْبَةُ هِيَ الرُّجُوعُ عَنِ الْمَذْمُومِ إِلَى الْمَحْمُودِ. وَالتَّلْقِينُ مِنَ الشَّيْخِ لِلْمُرِيدِ ضَرُورِيٌّ لِإِحْيَاءِ الْقَلْبِ، لِأَنَّ الْقَلْبَ كَالْأَرْضِ وَالذِّكْرَ كَالْبَذْرِ وَالتَّلْقِيْنَ كَالْمَاءِ.",
+      "translation": "Taubat adalah kembali dari hal-hal yang tercela menuju hal-hal yang terpuji. Adapun talqin (pemberian dzikir) dari seorang Syekh kepada murid sangatlah penting untuk menghidupkan hati, karena hati bagaikan tanah, dzikir bagaikan benih, dan talqin bagaikan air."
     },
     {
-      "title": "Fasal 7: Penjelasan Mengenai Dzikir",
-      "titleArabic": "الفَصْلُ السَّابِعُ: فِي بَيَانِ الذِّكْرِ",
-      "arabic": "الذِّكْرُ هُوَ نَفْيُ الغَفْلَةِ عَنِ القَلْبِ. وَهُوَ عَلَى أَنْوَاعٍ: ذِكْرُ اللِّسَانِ، وَذِكْرُ النَّفْسِ، وَذِكْرُ القَلْبِ، وَذِكْرُ الرُّوحِ، وَذِكْرُ السِّرِّ، وَذِكْرُ الخَفِيِّ، وَذِكْرُ أَخْفَى الخَفِيِّ.",
-      "translation": "Dzikir adalah menghilangkan kelalaian dari hati. Dzikir terbagi menjadi beberapa jenis: dzikir lisan, dzikir nafsu, dzikir hati, dzikir ruh, dzikir sirr (rahasia), dzikir khafi (tersembunyi), dan dzikir akhfa al-khafi (paling tersembunyi)."
+      "title": "Bab 7: Tentang Ahli Dzikir",
+      "titleArabic": "الْفَصْلُ السَّابِعُ: فِي أَهْلِ الذِّكْرِ",
+      "arabic": "أَهْلُ الذِّكْرِ هُمُ الَّذِيْنَ ذَكَرُوا اللّٰهَ بِقُلُوبِهِمْ وَسِرِّهِمْ، لَا بِأَلْسِنَتِهِمْ فَقَطْ. فَإِذَا صَارَ الذِّكْرُ جِبِلِّيًّا فِي الْقَلْبِ، اِنْفَتَحَتْ لَهُ أَبْوَابُ الْمَلَكُوتِ.",
+      "translation": "Ahli Dzikir adalah mereka yang mengingat Allah dengan hati dan rahasia batin mereka, bukan hanya dengan lisan semata. Apabila dzikir telah mendarah daging di dalam hati, maka pintu-pintu alam malakut akan terbuka baginya."
     },
     {
-      "title": "Fasal 8: Syarat-syarat Dzikir",
-      "titleArabic": "الفَصْلُ الثَّامِنُ: فِي شَرَائِطِ الذِّكْرِ",
-      "arabic": "لِلذِّكْرِ شُرُوطٌ، مِنْهَا: الطَّهَارَةُ، وَاسْتِقْبَالُ القِبْلَةِ، وَتَعْظِيمُ الذِّكْرِ، وَحُضُورُ القَلْبِ مَعَ المَذْكُورِ، وَانْقِطَاعُ الفِكْرِ عَمَّا سِوَى اللَّهِ تَعَالَى.",
-      "translation": "Dzikir memiliki syarat-syarat, di antaranya: suci (dari hadats), menghadap kiblat, mengagungkan dzikir, hadirnya hati bersama Dzat yang diingat, dan terputusnya pikiran dari selain Allah Ta'ala."
+      "title": "Bab 8: Syarat-syarat Menjalankan Dzikir",
+      "titleArabic": "الْفَصْلُ الثَّامِنُ: فِي شُرُوطِ الذِّكْرِ",
+      "arabic": "شُرُوطُ الذِّكْرِ اثْنَا عَشَرَ: سِتَّةٌ قَبْلَهُ، وَثَلَاثَةٌ فِيهِ، وَثَلَاثَةٌ بَعْدَهُ. فَمَا قَبْلَهُ: التَّوْبَةُ، الْقَنَاعَةُ، الزُّهْدُ، الطَّهَارَةُ، الصَّمْتُ، وَالْإِخْلَاصُ.",
+      "translation": "Syarat-syarat dzikir ada dua belas: enam sebelum dzikir, tiga saat dzikir, dan tiga setelah dzikir. Adapun yang sebelum dzikir adalah: Taubat, Qana'ah, Zuhud, Thaharah, Diam (tidak bicara sia-sia), dan Ikhlas."
     },
     {
-      "title": "Fasal 9: Penyaksian Allah (Ru'yatullah)",
-      "titleArabic": "الفَصْلُ التَّاسِعُ: فِي بَيَانِ رُؤْيَةِ اللَّهِ تَعَالَى",
-      "arabic": "رُؤْيَةُ اللَّهِ تَعَالَى فِي الدُّنْيَا تَكُونُ بِعَيْنِ القَلْبِ، وَفِي الآخِرَةِ تَكُونُ بِعَيْنِ الرَّأْسِ بِلَا كَيْفٍ وَلَا مِثَالٍ.",
-      "translation": "Melihat Allah Ta'ala di dunia adalah dengan mata hati, sedangkan di akhirat adalah dengan mata kepala tanpa kaifiyah (cara tertentu) dan tanpa perumpamaan."
+      "title": "Bab 9: Tentang Melihat Allah (Ru'yatullah)",
+      "titleArabic": "الْفَصْلُ التَّاسِعُ: فِي رُؤْيَةِ اللّٰهِ تَعَالَى",
+      "arabic": "رُؤْيَةُ اللّٰهِ فِي الدُّنْيَا تَكُونُ بِبَصِيرَةِ الْقَلْبِ، وَفِي الْآخِرَةِ بِبَصَرِ الرَّأْسِ بِلَا كَيْفٍ وَلَا مِثَالٍ، كَمَا قَالَ تَعَالَى: وُجُوهٌ يَوْمَئِذٍ نَاضِرَةٌ إِلَى رَبِّهَا نَاظِرَةٌ.",
+      "translation": "Melihat Allah di dunia terjadi dengan mata batin (bashirah), dan di akhirat dengan mata kepala tanpa kaifiyat (cara tertentu) dan tanpa permisalan, sebagaimana firman Allah: 'Wajah-wajah pada hari itu berseri-seri, kepada Tuhannya mereka melihat'."
     },
     {
-      "title": "Fasal 10: Hijab (Penghalang) Cahaya dan Kegelapan",
-      "titleArabic": "الفَصْلُ العَاشِرُ: فِي حُجُبِ الظُّلْمَةِ وَالنُّورِ",
-      "arabic": "الحُجُبُ سَبْعُونَ أَلْفَ حِجَابٍ، بَعْضُهَا ظُلْمَانِيَّةٌ وَهِيَ تَعَلُّقَاتُ الدُّنْيَا، وَبَعْضُهَا نُورَانِيَّةٌ وَهِيَ تَعَلُّقَاتُ الأَعْمَالِ الصَّالِحَةِ وَالمَقَامَاتِ.",
-      "translation": "Hijab (penghalang) itu ada tujuh puluh ribu. Sebagian bersifat gelap yaitu keterikatan dengan dunia, dan sebagian bersifat cahaya yaitu keterikatan dengan amal shalih dan maqamat (kedudukan ruhani)."
+      "title": "Bab 10: Tentang Hijab (Penghalang) Gelap dan Cahaya",
+      "titleArabic": "الْفَصْلُ الْعَاشِرُ: فِي حُجُبِ الظُّلْمَةِ وَالنُّورِ",
+      "arabic": "الْحِجَابُ سَبْعُونَ أَلْفًا: بَعْضُهَا مِنْ نُورٍ وَبَعْضُهَا مِنْ ظُلْمَةٍ. حُجُبُ الظُّلْمَةِ هِيَ الرَّذَائِلُ النَّفْسَانِيَّةُ، وَحُجُبُ النُّورِ هِيَ الْمَقَامَاتُ الرُّوحَانِيَّةُ الَّتِي يَقِفُ عِنْدَهَا السَّالِكُ.",
+      "translation": "Hijab (penghalang) itu ada tujuh puluh ribu: sebagian dari cahaya dan sebagian dari kegelapan. Hijab kegelapan adalah sifat-sifat jiwa yang rendah, sedangkan hijab cahaya adalah maqam-maqam spiritual yang membuat seorang salik terhenti padanya (merasa sudah sampai)."
     },
     {
-      "title": "Fasal 11: Hakikat Kebahagiaan dan Kecelakaan",
-      "titleArabic": "الفَصْلُ الحَادِي عَشَرَ: فِي بَيَانِ السَّعَادَةِ وَالشَّقَاوَةِ",
-      "arabic": "السَّعَادَةُ هِيَ مَعْرِفَةُ اللَّهِ وَطَاعَتُهُ، وَالشَّقَاوَةُ هِيَ الجَهْلُ بِاللَّهِ وَمَعْصِيَتُهُ. وَالسَّعِيدُ مَنْ سَعِدَ فِي بَطْنِ أُمِّهِ.",
-      "translation": "Kebahagiaan adalah mengenal Allah dan ketaatan kepada-Nya, sedangkan kecelakaan adalah bodoh terhadap Allah dan kemaksiatan kepada-Nya. Orang yang bahagia adalah yang telah ditetapkan bahagia sejak dalam perut ibunya."
+      "title": "Bab 11: Tentang Kebahagiaan dan Kesengsaraan",
+      "titleArabic": "الْفَصْلُ الْحَادِي عَشَرَ: فِي السَّعَادَةِ وَالشَّقَاوَةِ",
+      "arabic": "السَّعَادَةُ هِيَ لُزُومُ الطَّاعَةِ وَالتَّوْفِيقُ لِلْخَيْرِ، وَالشَّقَاوَةُ هِيَ مُتَابَعَةُ الْهَوَى وَالْبُعْدُ عَنِ الْحَقِّ. وَكُلُّ ذَلِكَ مَكْتُوبٌ فِي الْأَزَلِ لَكِنَّ الْعَبْدَ مُطَالَبٌ بِالِاجْتِهَادِ.",
+      "translation": "Kebahagiaan adalah konsisten dalam ketaatan dan mendapat taufiq untuk kebaikan, sedangkan kesengsaraan adalah mengikuti hawa nafsu dan menjauh dari kebenaran. Semua itu telah tertulis di azali, namun hamba dituntut untuk bersungguh-sungguh."
     },
     {
-      "title": "Fasal 12: Derajat Para Fakir (Fuqara)",
-      "titleArabic": "الفَصْلُ الثَّانِي عَشَرَ: فِي دَرَجَاتِ الفُقَرَاءِ",
-      "arabic": "الفَقْرُ الحَقِيقِيُّ هُوَ الفَقْرُ إِلَى اللَّهِ وَالِاسْتِغْنَاءُ بِهِ عَمَّا سِوَاهُ. وَقَالَ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: الفَقْرُ فَخْرِي وَبِهِ أَفْتَخِرُ.",
-      "translation": "Kefakiran yang hakiki adalah merasa butuh hanya kepada Allah dan merasa cukup dengan-Nya dari selain-Nya. Rasulullah SAW bersabda: Kefakiran adalah kebanggaanku dan dengannya aku merasa bangga."
+      "title": "Bab 12: Tentang Kaum Faqir (Dervish)",
+      "titleArabic": "الْفَصْلُ الثَّانِي عَشَرَ: فِي الْفُقَرَاءِ",
+      "arabic": "الْفَقْرُ لَيْسَ عَدَمَ الْمَالِ، بَلِ الْفَقْرُ هُوَ الْفَقْرُ إِلَى اللّٰهِ تَعَالَى وَالْغِنَى عَمَّا سِوَاهُ. كَمَا قَالَ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ: الْفَقْرُ فَخْرِي وَبِهِ أَفْتَخِرُ.",
+      "translation": "Kefakiran bukanlah ketiadaan harta, melainkan kefakiran (kebutuhan mutlak) kepada Allah Ta'ala dan merasa cukup dari selain-Nya. Sebagaimana sabda Nabi SAW: 'Kefakiran adalah kebanggaanku dan dengan itu aku berbangga'."
     },
     {
-      "title": "Fasal 13: Thaharah Syariat dan Tarekat",
-      "titleArabic": "الفَصْلُ الثَّالِثُ عَشَرَ: فِي الطَّهَارَةِ الشَّرْعِيَّةِ وَالطَّرِيقِيَّةِ",
-      "arabic": "الطَّهَارَةُ الشَّرْعِيَّةُ بِالمَاءِ، وَالطَّهَارَةُ الطَّرِيقِيَّةُ بِتَزْكِيَةِ النَّفْسِ عَنِ الأَخْلَاقِ الذَّمِيمَةِ بِمَاءِ التَّوْبَةِ وَالِاسْتِغْفَارِ.",
-      "translation": "Bersuci menurut syariat adalah dengan air, sedangkan bersuci menurut tarekat adalah dengan menyucikan jiwa dari akhlak tercela menggunakan air taubat dan istighfar."
+      "title": "Bab 13: Tentang Thaharah (Bersuci) Spiritual",
+      "titleArabic": "الْفَصْلُ الثَّالِثُ عَشَرَ: فِي الطَّهَارَةِ",
+      "arabic": "الطَّهَارَةُ طَهَارَتَانِ: طَهَارَةُ الظَّاهِرِ بِالْمَاءِ، وَطَهَارَةُ الْبَاطِنِ بِالتَّوْبَةِ وَتَرْكِ الذُّنُوبِ وَتَصْفِيَةِ الْقَلْبِ مِنَ الْأَغْيَارِ.",
+      "translation": "Bersuci itu ada dua: bersuci lahir dengan air, dan bersuci batin dengan taubat, meninggalkan dosa, serta membersihkan hati dari segala sesuatu selain Allah."
     },
     {
-      "title": "Fasal 14: Shalat Syariat dan Tarekat",
-      "titleArabic": "الفَصْلُ الرَّابِعُ عَشَرَ: فِي الصَّلَاةِ الشَّرْعِيَّةِ وَالطَّرِيقِيَّةِ",
-      "arabic": "صَلَاةُ الشَّرِيعَةِ هِيَ الرُّكُوعُ وَالسُّجُودُ الظَّاهِرُ، وَصَلَاةُ الطَّرِيقَةِ هِيَ صَلَاةُ القَلْبِ الدَّائِمَةِ، كَمَا قَالَ: الَّذِينَ هُمْ عَلَى صَلَاتِهِمْ دَائِمُونَ.",
-      "translation": "Shalat syariat adalah ruku' dan sujud yang lahiriah, sedangkan shalat tarekat adalah shalat hati yang terus-menerus, sebagaimana firman-Nya: Orang-orang yang tetap setia melaksanakan shalatnya."
+      "title": "Bab 14: Tentang Shalat Syariat dan Hakikat",
+      "titleArabic": "الْفَصْلُ الرَّابِعُ عَشَرَ: فِي الصَّلَاةِ",
+      "arabic": "صَلَاةُ الشَّرِيعَةِ هِيَ الْقِيَامُ وَالرُّكُوعُ وَالسُّجُودُ، وَصَلَاةُ الْحَقِيقَةِ هِيَ حُضُورُ الْقَلْبِ مَعَ اللّٰهِ دَائِمًا، فَهِيَ صَلَاةٌ لَا انْقِطَاعَ لَهَا.",
+      "translation": "Shalat syariat adalah berdiri, ruku', dan sujud. Sedangkan shalat hakikat adalah hadirnya hati bersama Allah secara terus-menerus, maka ia adalah shalat yang tidak pernah terputus."
     },
     {
-      "title": "Fasal 15: Puasa Syariat dan Tarekat",
-      "titleArabic": "الفَصْلُ الخَامِسُ عَشَرَ: فِي الصَّوْمِ الشَّرْعِيِّ وَالطَّرِيقِيِّ",
-      "arabic": "صَوْمُ الشَّرِيعَةِ هُوَ الإِمْسَاكُ عَنِ الأَكْلِ وَالشُّرْبِ، وَصَوْمُ الطَّرِيقَةِ هُوَ الإِمْسَاكُ عَنِ السِّوَى وَحِفْظُ الحَوَاسِّ عَمَّا لَا يَعْنِي.",
-      "translation": "Puasa syariat adalah menahan diri dari makan dan minum, sedangkan puasa tarekat adalah menahan diri dari selain Allah dan menjaga panca indera dari hal-hal yang tidak berguna."
+      "title": "Bab 15: Tentang Zakat Syariat dan Hakikat",
+      "titleArabic": "الْفَصْلُ الْخَامِسُ عَشَرَ: فِي الزَّكَاةِ",
+      "arabic": "زَكَاةُ الشَّرِيعَةِ إِخْرَاجُ جُزْءٍ مِنَ الْمَالِ، وَزَكَاةُ الطَّرِيقَةِ بَذْلُ النَّفْسِ وَالرُّوحِ فِي سَبِيلِ اللّٰهِ وَالتَّصَدُّقُ بِالْأَخْلَاقِ الْحَسَنَةِ.",
+      "translation": "Zakat syariat adalah mengeluarkan sebagian harta, sedangkan zakat thariqah adalah menyerahkan jiwa dan ruh di jalan Allah serta bersedekah dengan akhlak yang baik."
     },
     {
-      "title": "Fasal 16: Haji Syariat dan Tarekat",
-      "titleArabic": "الفَصْلُ السَّادِسُ عَشَرَ: فِي الحَجِّ الشَّرْعِيِّ وَالطَّرِيقِيِّ",
-      "arabic": "حَجُّ الشَّرِيعَةِ زِيَارَةُ البَيْتِ المَبْنِيِّ، وَحَجُّ الطَّرِيقَةِ زِيَارَةُ قَلْبِ المُؤْمِنِ الَّذِي هُوَ عَرْشُ اللَّهِ وَبَيْتُهُ المَعْنَوِيُّ.",
-      "translation": "Haji syariat adalah mengunjungi Baitullah yang dibangun, sedangkan haji tarekat adalah mengunjungi hati orang mukmin yang merupakan Arasy Allah dan rumah-Nya secara maknawi."
+      "title": "Bab 16: Tentang Puasa Syariat dan Hakikat",
+      "titleArabic": "الْفَصْلُ السَّادِسُ عَشَرَ: فِي الصَّوْمِ",
+      "arabic": "صَوْمُ الشَّرِيعَةِ كَفُّ الْبَطْنِ وَالْفَرْجِ، وَصَوْمُ الْحَقِيقَةِ كَفُّ الْقَلْبِ عَنْ مُرَادَاتِ النَّفْسِ وَحِفْظُ السِّرِّ عَنْ مُشَاهَدَةِ مَا سِوَى اللّٰهِ.",
+      "translation": "Puasa syariat adalah menahan perut dan kemaluan, sedangkan puasa hakikat adalah menahan hati dari keinginan-keinginan nafsu dan menjaga rahasia batin dari menyaksikan selain Allah."
     },
     {
-      "title": "Fasal 17: Penyaksian Ruhani (Musyahadah)",
-      "titleArabic": "الفَصْلُ السَّابِعُ عَشَرَ: فِي بَيَانِ الرُّؤْيَةِ وَالمُشَاهَدَةِ",
-      "arabic": "المُشَاهَدَةُ هِيَ حُضُورُ القَلْبِ مَعَ اللَّهِ تَعَالَى عِنْدَ تَجَلِّي صِفَاتِهِ وَأَسْمَائِهِ فِي مِرْآةِ القَلْبِ.",
-      "translation": "Musyahadah (penyaksian) adalah hadirnya hati bersama Allah Ta'ala ketika tajalli (penampakan) sifat-sifat dan nama-nama-Nya muncul di cermin hati."
+      "title": "Bab 17: Tentang Haji Syariat dan Hakikat",
+      "titleArabic": "الْفَصْلُ السَّابِعُ عَشَرَ: فِي الْحَجِّ",
+      "arabic": "حَجُّ الشَّرِيعَةِ قَصْدُ الْبَيْتِ الْمُحَرَّمِ، وَحَجُّ الْحَقِيقَةِ قَصْدُ الْحَضْرَةِ الْإِلَهِيَّةِ وَالطَّوَافُ حَوْلَ عَرْشِ الْقَلْبِ بِنُورِ الذِّكْرِ.",
+      "translation": "Haji syariat adalah menuju Baitullah yang suci, sedangkan haji hakikat adalah menuju hadirat Ilahiyah dan thawaf di sekeliling 'Arsy hati dengan cahaya dzikir."
     },
     {
-      "title": "Fasal 18: Khalwat dan Uzlah",
-      "titleArabic": "الفَصْلُ الثَّامِنُ عَشَرَ: فِي الخَلْوَةِ وَالعُزْلَةِ",
-      "arabic": "الخَلْوَةُ هِيَ الِانْفِرَادُ عَنِ النَّاسِ لِتَفْرِيغِ القَلْبِ لِلَّهِ. وَهِيَ ضَرُورِيَّةٌ لِلمُرِيدِ فِي بِدَايَةِ سُلُوكِهِ.",
-      "translation": "Khalwat adalah menyendiri dari manusia untuk mengosongkan hati bagi Allah. Hal ini sangat penting bagi seorang murid pada awal perjalanannya."
+      "title": "Bab 18: Tentang Mushahadah (Penyaksian)",
+      "titleArabic": "الْفَصْلُ الثَّامِنُ عَشَرَ: فِي الْمُشَاهَدَةِ",
+      "arabic": "الْمُشَاهَدَةُ هِيَ غَيْبَةُ الْخَلْقِ فِي حُضُورِ الْحَقِّ، فَلَا يَرَى فِي الْوُجُودِ إِلَّا اللّٰهَ بِعَيْنِ الْيَقِينِ.",
+      "translation": "Mushahadah adalah sirnanya makhluk dalam kehadiran Al-Haq (Allah), sehingga ia tidak melihat dalam wujud ini kecuali Allah dengan mata keyakinan (ainul yaqin)."
     },
     {
-      "title": "Fasal 19: Adab-adab Khalwat",
-      "titleArabic": "الفَصْلُ التَّاسِعُ عَشَرَ: فِي آدَابِ الخَلْوَةِ",
-      "arabic": "مِنْ آدَابِ الخَلْوَةِ: دَوَامُ الوُضُوءِ، وَدَوَامُ الصَّمْتِ، وَتَقْلِيلُ الطَّعَامِ وَالمَنَامِ، وَذِكْرُ اللَّهِ بِالقَلْبِ وَاللِّسَانِ.",
-      "translation": "Di antara adab khalwat: senantiasa dalam keadaan wudhu, senantiasa diam, menyedikitkan makan dan tidur, serta berdzikir kepada Allah dengan hati dan lisan."
+      "title": "Bab 19: Tentang Khalwah (Menyendiri) dan Uzlah",
+      "titleArabic": "الْفَصْلُ التَّاسِعُ عَشَرَ: فِي الْخَلْوَةِ",
+      "arabic": "الْخَلْوَةُ هِيَ تَرْكُ مُخَالَطَةِ الْأَبْنَاءِ وَالْأَقْرَانِ لِتَصْفِيَةِ الْبَاطِنِ. وَالْخَلْوَةُ الْحَقِيقِيَّةُ هِيَ خَلْوَةُ السِّرِّ عَمَّا سِوَى اللّٰهِ وَلَوْ كَانَ بَيْنَ النَّاسِ.",
+      "translation": "Khalwah adalah meninggalkan interaksi dengan orang lain untuk membersihkan batin. Namun khalwah yang hakiki adalah kosongnya rahasia batin dari selain Allah meskipun ia berada di tengah-tengah manusia."
     },
     {
-      "title": "Fasal 20: Wirid dan Puasa Sunnah",
-      "titleArabic": "الفَصْلُ العِشْرُونَ: فِي الأَوْرَادِ وَالأَذْكَارِ",
-      "arabic": "يَنْبَغِي لِلسَّالِكِ أَنْ يَكُونَ لَهُ وِرْدٌ مِنَ القُرْآنِ وَالدُّعَاءِ وَالِاسْتِغْفَارِ، وَأَنْ يَصُومَ الأَيَّامَ المَنْدُوبَةَ تَقَرُّبًا إِلَى اللَّهِ.",
-      "translation": "Seyogyanya bagi seorang salik (penempuh jalan ruhani) untuk memiliki wirid dari Al-Qur'an, doa, dan istighfar, serta berpuasa pada hari-hari yang disunnahkan untuk mendekatkan diri kepada Allah."
+      "title": "Bab 20: Tentang Wirid dan Dzikir dalam Khalwah",
+      "titleArabic": "الْفَصْلُ الْعِشْرُونَ: فِي الْأَوْرَادِ وَالْأَذْكَارِ",
+      "arabic": "لِكُلِّ سَالِكٍ وِرْدٌ يُنَاسِبُ حَالَهُ، وَالْمُدَاوَمَةُ عَلَى الْأَوْرَادِ تُورِثُ الْأَنْوَارَ وَالْكَشْفَ.",
+      "translation": "Bagi setiap salik ada wirid yang sesuai dengan keadaannya, dan melazimkan wirid-wirid tersebut akan membuahkan cahaya-cahaya (anwar) dan tersingkapnya tabir (kasyaf)."
     },
     {
-      "title": "Fasal 21: Penjelasan Tentang Mimpi-mimpi",
-      "titleArabic": "الفَصْلُ الحَادِي وَالعِشْرُونَ: فِي رُؤْيَةِ المَنَامِ",
-      "arabic": "المَنَامُ عَلَى أَنْوَاعٍ: رُؤْيَا صَادِقَةٌ مِنَ اللَّهِ، وَأَضْغَاثُ أَحْلَامٍ مِنَ الشَّيْطَانِ. وَرُؤْيَا المُؤْمِنِ جُزْءٌ مِنْ سِتَّةٍ وَأَرْبَعِينَ جُزْءًا مِنَ النُّبُوَّةِ.",
-      "translation": "Mimpi itu ada beberapa jenis: mimpi yang benar dari Allah, dan mimpi buruk dari setan. Mimpi seorang mukmin adalah satu bagian dari empat puluh enam bagian kenabian."
+      "title": "Bab 21: Tentang Mimpi (Ru'ya)",
+      "titleArabic": "الْفَصْلُ الْحَادِي وَالْعِشْرُونَ: فِي الرُّؤْيَا",
+      "arabic": "الرُّؤْيَا ثَلَاثَةٌ: رُؤْيَا مِنَ اللّٰهِ، وَرُؤْيَا مِنَ النَّفْسِ، وَرُؤْيَا مِنَ الشَّيْطَانِ. وَرُؤْيَا الْمُؤْمِنِ جُزْءٌ مِنْ سِتَّةٍ وَأَرْبَعِينَ جُزْءًا مِنَ النُّبُوَّةِ.",
+      "translation": "Mimpi itu ada tiga: mimpi dari Allah, mimpi dari nafsu, dan mimpi dari setan. Mimpi seorang mukmin adalah satu bagian dari empat puluh enam bagian kenabian."
     },
     {
-      "title": "Fasal 22: Kelompok Pencinta Allah",
-      "titleArabic": "الفَصْلُ الثَّانِي وَالعِشْرُونَ: فِي مَقَامِ المَحَبَّةِ",
-      "arabic": "المَحَبَّةُ هِيَ مَيْلُ القَلْبِ إِلَى المَحْبُوبِ بِالكُلِّيَّةِ. وَأَعْلَى المَحَبَّةِ أَنْ تُحِبَّ اللَّهَ لِذَاتِهِ لَا لِطَمَعٍ فِي جَنَّةٍ وَلَا خَوْفٍ مِنْ نَارٍ.",
-      "translation": "Mahabbah (cinta) adalah kecenderungan hati kepada Sang Kekasih secara totalitas. Tingkatan cinta tertinggi adalah engkau mencintai Allah karena Dzat-Nya, bukan karena mengharap surga atau takut neraka."
+      "title": "Bab 22: Tentang Akhlak Sufi",
+      "titleArabic": "الْفَصْلُ الثَّانِي وَالْعِشْرُونَ: فِي أَخْلَاقِ الصُّوفِيَّةِ",
+      "arabic": "التَّصَوُّفُ هُوَ الصَّفَاءُ مِنَ الْكَدَرِ، وَأَصْلُهُ التَّخَلُّقُ بِأَخْلَاقِ اللّٰهِ وَالتَّوَاضُعُ وَالصَّبْرُ وَالرِّضَا.",
+      "translation": "Tasawwuf adalah kejernihan dari kekeruhan jiwa, dan asalnya adalah berakhlak dengan akhlak Allah, tawadhu' (rendah hati), sabar, dan ridha."
     },
     {
-      "title": "Fasal 23: Tingkatan-tingkatan Nafsu",
-      "titleArabic": "الفَصْلُ الثَّالِثُ وَالعِشْرُونَ: فِي مَقَامَاتِ النَّفْسِ",
-      "arabic": "النَّفْسُ تَتَرَقَّى مِنْ أَمَّارَةٍ إِلَى لَوَّامَةٍ، ثُمَّ مُلْهِمَةٍ، ثُمَّ مُطْمَئِنَّةٍ، ثُمَّ رَاضِيَةٍ، ثُمَّ مَرْضِيَّةٍ، ثُمَّ كَامِلَةٍ.",
-      "translation": "Nafsu itu naik tingkatannya dari nafsu Ammarah ke Lawwamah, kemudian Mulhimah, kemudian Muthmainnah, kemudian Radhiyah, kemudian Mardhiyah, hingga akhirnya Kamilah (sempurna)."
-    },
-    {
-      "title": "Khatimah: Doa dan Penutup Kitab",
-      "titleArabic": "الخَاتِمَةُ فِي الدُّعَاءِ وَخَتْمِ الكِتَابِ",
-      "arabic": "نَسْأَلُ اللَّهَ تَعَالَى أَنْ يَرْزُقَنَا صِدْقَ الإِخْلَاصِ وَحَقِيقَةَ المَعْرِفَةِ. وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَآلِهِ وَصَحْبِهِ وَسَلَّمَ. تَمَّ الكِتَابُ بِعَوْنِ المَلِكِ الوَهَّابِ.",
-      "translation": "Kami memohon kepada Allah Ta'ala agar menganugerahkan kami keikhlasan yang jujur dan hakikat makrifat. Semoga shalawat serta salam tercurah kepada junjungan kami Nabi Muhammad, keluarga, dan para sahabatnya. Selesailah kitab ini dengan pertolongan Allah Sang Raja Yang Maha Pemberi."
+      "title": "Bab 23: Penutup (Khatimah)",
+      "titleArabic": "الْخَاتِمَةُ",
+      "arabic": "يَا أَيُّهَا الْمُرِيدُ، عَلَيْكَ بِالْإِخْلَاصِ وَالْمُتَابَعَةِ لِلشَّرْعِ وَلُزُومِ صُحْبَةِ الصَّالِحِينَ. وَنَسْأَلُ اللّٰهَ أَنْ يَخْتِمَ لَنَا بِالْحُسْنَى. تَمَّ الْكِتَابُ بِعَوْنِ الْمَلِكِ الْوَهَّابِ.",
+      "translation": "Wahai murid, hendaknya engkau ikhlas, mengikuti syariat, dan melazimkan bergaul dengan orang-orang saleh. Kami memohon kepada Allah agar mengakhiri hidup kita dengan husnul khatimah. Kitab ini selesai dengan pertolongan Allah Sang Raja Yang Maha Pemberi."
     }
   ]
 }
