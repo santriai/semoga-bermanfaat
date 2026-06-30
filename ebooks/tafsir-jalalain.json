@@ -1,0 +1,710 @@
+{
+  "profile": {
+    "name": "Tafsir Jalalain",
+    "originalTitle": "تَفْسِيرُ الْجَلَالَيْنِ",
+    "author": "Jalaluddin al-Mahalli (w. 864 H) & Jalaluddin as-Suyuthi (w. 911 H)",
+    "field": "Tafsir Al-Qur'an",
+    "about": "Tafsir Jalalain adalah kitab tafsir legendaris yang dikenal karena keringkasannya namun sangat padat akan makna dan penjelasan aspek kebahasaan (i'rab). Kitab ini ditulis oleh dua ulama besar bernama Jalaluddin; diawali oleh Al-Mahalli yang menulis dari Surah Al-Kahf hingga An-Nas ditambah Al-Fatihah, kemudian disempurnakan oleh As-Suyuthi dari Al-Baqarah hingga Al-Isra'. Metodologi yang digunakan adalah menyebutkan makna kata per kata, menjelaskan dhamir, serta menentukan hukum fiqih yang kuat dari ayat tersebut. Kitab ini menjadi kurikulum wajib di hampir seluruh Pesantren di Indonesia dan madrasah di dunia Islam. Keunggulannya terletak pada kemampuannya memberikan pemahaman dasar Al-Qur'an secara cepat bagi penuntut ilmu tingkat menengah.",
+    "authorBorn": "Mesir (Al-Mahalli: 791 H, As-Suyuthi: 849 H)",
+    "authorDied": "Kairo, Mesir",
+    "authorCentury": "Abad ke-9 & ke-10 Hijriyah"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah Kitab",
+      "titleArabic": "مُقَدِّمَةُ الْكِتَابِ",
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ. الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ، وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَآلِهِ وَصَحْبِهِ أَجْمَعِينَ. هَذَا مَا اشْتَدَّتْ إِلَيْهِ حَاجَةُ الرَّاغِبِينَ فِي تَكْمِلَةِ تَفْسِيرِ الْقُرْآنِ الْكَرِيمِ الَّذِي أَلَّفَهُ الْإِمَامُ الْعَالِمُ الْمُحَقِّقُ جَلَالُ الدِّينِ الْمَحَلِّيُّ.",
+      "translation": "Dengan menyebut nama Allah yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah Tuhan semesta alam, shalawat serta salam atas junjungan kita Nabi Muhammad, keluarga, dan para sahabatnya. Ini adalah kitab yang sangat dibutuhkan oleh mereka yang ingin menyempurnakan tafsir Al-Qur'an Al-Karim yang telah disusun oleh Imam Al-Alim Al-Muhaqqiq Jalaluddin al-Mahalli."
+    },
+    {
+      "title": "Surah Al-Fatihah (Tafsir Al-Mahalli)",
+      "titleArabic": "سُورَةُ الْفَاتِحَةِ",
+      "arabic": "{بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ} هُوَ مِنْ الْقُرْآنِ. {الْحَمْدُ لِلَّهِ} جُمْلَةٌ خَبَرِيَّةٌ قُصِدَ بِهَا الثَّنَاءُ عَلَى اللَّهِ بِمَضْمُونِهَا. {رَبِّ الْعَالَمِينَ} أَيْ مَالِكِ جَمِيعِ الْخَلْقِ. {الرَّحْمَنِ الرَّحِيمِ} أَيْ ذِي الرَّحْمَةِ. {مَالِكِ يَوْمِ الدِّينِ} أَيْ يَوْمِ الْجَزَاءِ. {إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ} أَيْ نَخُصُّكَ بِالْعِبَادَةِ وَالطَّلَبِ. {اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ} أَيْ أَرْشِدْنَا إِلَيْهِ. {صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ} بِالْهِدَايَةِ. {غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ} وَهُمُ الْيَهُودُ. {وَلَا الضَّالِّينَ} وَهُمُ النَّصَارَى.",
+      "translation": "(Dengan menyebut nama Allah yang Maha Pengasih lagi Maha Penyayang) itu adalah bagian dari Al-Qur'an. (Segala puji bagi Allah) kalimat berita yang dimaksudkan untuk memuji Allah atas kandungannya. (Tuhan semesta alam) yaitu pemilik seluruh makhluk. (Maha Pengasih lagi Maha Penyayang) yaitu yang memiliki rahmat. (Pemilik hari pembalasan) yaitu hari kiamat. (Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan) yaitu kami mengkhususkan-Mu dalam ibadah dan permintaan. (Tunjukkanlah kami jalan yang lurus) yaitu bimbinglah kami ke sana. (Yaitu jalan orang-orang yang telah Engkau beri nikmat) dengan hidayah. (Bukan jalan mereka yang dimurkai) mereka adalah kaum Yahudi. (Dan bukan pula jalan mereka yang sesat) mereka adalah kaum Nasrani."
+    },
+    {
+      "title": "Surah Al-Baqarah (Awal Tafsir As-Suyuthi)",
+      "titleArabic": "سُورَةُ الْبَقَرَةِ",
+      "arabic": "{الم} اللَّهُ أَعْلَمُ بِمُرَادِهِ بِذَلِكَ. {ذَلِكَ الْكِتَابُ} الَّذِي يَقْرَؤُهُ مُحَمَّدٌ. {لَا رَيْبَ} لَا شَكَّ {فِيهِ} أَنَّهُ مِنْ عِنْدِ اللَّهِ. {هُدًى} خَبَرٌ، أَيْ هَادٍ {لِلْمُتَّقِينَ} الصَّائِرِينَ إِلَى التَّقْوَى بِامْتِثَالِ الْأَوامِرِ وَاجْتِنَابِ النَّوَاهِي.",
+      "translation": "(Alif Lam Mim) Allah lebih mengetahui maksudnya. (Kitab ini) yang dibaca oleh Muhammad. (Tidak ada keraguan) tidak ada syak (di dalamnya) bahwa ia datang dari sisi Allah. (Petunjuk) sebagai khabar, yaitu pemberi hidayah (bagi orang-orang yang bertakwa) yaitu mereka yang menuju ketakwaan dengan melaksanakan perintah dan menjauhi larangan."
+    },
+    {
+      "title": "Surah Ali 'Imran",
+      "titleArabic": "سُورَةُ آلِ عِمْرَانَ",
+      "arabic": "{الم اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ} نَزَلَتْ لَمَّا قَدِمَ وَفْدُ نَجْرَانَ وَنَاظَرُوا النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي أَمْرِ عِيسَى عَلَيْهِ السَّلَامُ.",
+      "translation": "(Alif Lam Mim. Allah, tidak ada Tuhan selain Dia, Yang Maha Hidup lagi Maha Berdiri Sendiri) ayat ini turun ketika utusan Najran datang dan mendebat Nabi SAW tentang urusan Isa AS."
+    },
+    {
+      "title": "Surah An-Nisa'",
+      "titleArabic": "سُورَةُ النِّسَاءِ",
+      "arabic": "{يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمُ} خَافُوا عِقَابَهُ بِأَنْ تُطِيعُوهُ. {الَّذِي خَلَقَكُمْ مِنْ نَفْسٍ وَاحِدَةٍ} هُوَ آدَمُ.",
+      "translation": "(Wahai manusia, bertakwalah kepada Tuhanmu) takutlah akan siksa-Nya dengan cara menaati-Nya. (Yang telah menciptakanmu dari diri yang satu) yaitu Adam."
+    },
+    {
+      "title": "Surah Al-Ma'idah",
+      "titleArabic": "سُورَةُ الْمَائِدَةِ",
+      "arabic": "{يَا أَيُّهَا الَّذِينَ آمَنُوا أَوْفُوا بِالْعُقُودِ} الْعُهُودِ الْمُؤَكَّدَةِ بَيْنَكُمْ وَبَيْنَ اللَّهِ أَوْ بَيْنَكُمْ وَبَيْنَ النَّاسِ.",
+      "translation": "(Wahai orang-orang yang beriman, penuhilah janji-janji itu) yakni akad-akad yang dikuatkan antara kalian dengan Allah atau antara kalian dengan manusia."
+    },
+    {
+      "title": "Surah Al-An'am",
+      "titleArabic": "سُورَةُ الْأَنْعَامِ",
+      "arabic": "{الْحَمْدُ لِلَّهِ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ} نَزَلَتْ رَدًّا عَلَى الدَّهْرِيَّةِ الْقَائِلِينَ بِقِدَمِ الْعَالَمِ.",
+      "translation": "(Segala puji bagi Allah yang telah menciptakan langit dan bumi) turun sebagai bantahan terhadap kaum Dahriyyah yang berpendapat bahwa alam itu qadim (kekal tanpa pencipta)."
+    },
+    {
+      "title": "Surah Al-A'raf",
+      "titleArabic": "سُورَةُ الْأَعْرَافِ",
+      "arabic": "{المص} اللَّهُ أَعْلَمُ بِمُرَادِهِ بِهِ. {كِتَابٌ} أَيْ هَذَا الْقُرْآنُ {أُنْزِلَ إِلَيْكَ}.",
+      "translation": "(Alif Lam Mim Shad) Allah lebih tahu maksudnya. (Sebuah Kitab) yaitu Al-Qur'an ini (yang diturunkan kepadamu)."
+    },
+    {
+      "title": "Surah Al-Anfal",
+      "titleArabic": "سُورَةُ الْأَنْفَالِ",
+      "arabic": "{يَسْأَلُونَكَ} يَا مُحَمَّدُ {عَنِ الْأَنْفَالِ} الْغَنَائِمِ لِمَنْ هِيَ؟ {قُلِ الْأَنْفَالُ لِلَّهِ وَالرَّسُولِ}.",
+      "translation": "(Mereka bertanya kepadamu) wahai Muhammad (tentang Anfal) yaitu harta rampasan perang, untuk siapakah itu? (Katakanlah: Harta rampasan perang itu milik Allah dan Rasul)."
+    },
+    {
+      "title": "Surah At-Tawbah",
+      "titleArabic": "سُورَةُ التَّوْبَةِ",
+      "arabic": "{بَرَاءَةٌ مِنَ اللَّهِ وَرَسُولِهِ} أَيْ هَذِهِ بَرَاءَةٌ وَاصِلَةٌ {إِلَى الَّذِينَ عَاهَدْتُمْ مِنَ الْمُشْرِكِينَ}.",
+      "translation": "(Pernyataan pemutusan hubungan dari Allah dan Rasul-Nya) maksudnya ini adalah pemutusan hubungan yang sampai (kepada orang-orang musyrik yang kamu telah mengadakan perjanjian dengan mereka)."
+    },
+    {
+      "title": "Surah Yunus",
+      "titleArabic": "سُورَةُ يُونُسَ",
+      "arabic": "{الر تِلْكَ} هَذِهِ {آيَاتُ الْكِتَابِ} الْقُرْآنِ {الْحَكِيمِ} ذِي الْحِكْمَةِ.",
+      "translation": "(Alif Lam Ra. Itu) ini adalah (ayat-ayat Kitab) Al-Qur'an (yang bijaksana) yang mengandung hikmah."
+    },
+    {
+      "title": "Surah Hud",
+      "titleArabic": "سُورَةُ هُودٍ",
+      "arabic": "{الر كِتَابٌ أُحْكِمَتْ آيَاتُهُ} بِالنَّظْمِ الْبَدِيعِ {ثُمَّ فُصِّلَتْ} بِالْأَحْكَامِ وَالْمَوَاعِظِ.",
+      "translation": "(Alif Lam Ra. Sebuah Kitab yang ayat-ayatnya disusun dengan rapi) dengan susunan yang indah (kemudian dijelaskan secara terperinci) dengan hukum-hukum dan nasihat."
+    },
+    {
+      "title": "Surah Yusuf",
+      "titleArabic": "سُورَةُ يُوسُفَ",
+      "arabic": "{الر تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ} الظَّاهِرِ، نَزَلَتْ لَمَّا طَلَبَ الْيَهُودُ مِنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ يُخْبِرَهُمْ بِقِصَّةِ يُوسُفَ.",
+      "translation": "(Alif Lam Ra. Itu adalah ayat-ayat Kitab yang jelas) yang nyata, turun ketika kaum Yahudi meminta Nabi SAW menceritakan kisah Yusuf."
+    },
+    {
+      "title": "Surah Ar-Ra'd",
+      "titleArabic": "سُورَةُ الرَّعْدِ",
+      "arabic": "{المر تِلْكَ آيَاتُ الْكِتَابِ} أَيْ الْقُرْآنِ {وَالَّذِي أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ الْحَقُّ}.",
+      "translation": "(Alif Lam Mim Ra. Itu adalah ayat-ayat Kitab) yaitu Al-Qur'an (dan apa yang diturunkan kepadamu dari Tuhanmu adalah benar)."
+    },
+    {
+      "title": "Surah Ibrahim",
+      "titleArabic": "سُورَةُ إِبْرَاهِيمَ",
+      "arabic": "{الر كِتَابٌ أَنْزَلْنَاهُ إِلَيْكَ لِتُخْرِجَ النَّاسَ مِنَ الظُّلُمَاتِ إِلَى النُّورِ} أَيْ مِنَ الْكُفْرِ إِلَى الْإِيمَانِ.",
+      "translation": "(Alif Lam Ra. Sebuah Kitab yang Kami turunkan kepadamu agar kamu mengeluarkan manusia dari kegelapan menuju cahaya) yaitu dari kekafiran menuju keimanan."
+    },
+    {
+      "title": "Surah Al-Hijr",
+      "titleArabic": "سُورَةُ الْحِجْرِ",
+      "arabic": "{الر تِلْكَ آيَاتُ الْكِتَابِ وَقُرْآنٍ مُبِينٍ} صِفَةٌ كَاشِفَةٌ لِلْكِتَابِ.",
+      "translation": "(Alif Lam Ra. Itu adalah ayat-ayat Kitab dan Al-Qur'an yang jelas) ini adalah sifat yang menjelaskan tentang Al-Kitab."
+    },
+    {
+      "title": "Surah An-Nahl",
+      "titleArabic": "سُورَةُ النَّحْلِ",
+      "arabic": "{أَتَى أَمْرُ اللَّهِ} أَيْ الْقِيَامَةُ، عَبَّرَ عَنْهَا بِالْمَاضِي لِتَحَقُّقِ وُقُوعِهَا {فَلَا تَسْتَعْجِلُوهُ}.",
+      "translation": "(Telah datang ketetapan Allah) yaitu kiamat, diungkapkan dengan bentuk lampau karena kepastian terjadinya (maka janganlah kamu meminta agar disegerakan)."
+    },
+    {
+      "title": "Surah Al-Isra' (Akhir Bagian As-Suyuthi)",
+      "titleArabic": "سُورَةُ الْإِسْرَاءِ",
+      "arabic": "{سُبْحَانَ الَّذِي أَسْرَى بِعَبْدِهِ} مُحَمَّدٍ {لَيْلًا} مَفْعُولٌ فِيهِ {مِنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى}.",
+      "translation": "(Maha Suci Allah yang telah memperjalankan hamba-Nya) Muhammad (pada malam hari) sebagai maf'ul fih (dari Masjidil Haram ke Masjidil Aqsa)."
+    },
+    {
+      "title": "Surah Al-Kahf (Awal Bagian Al-Mahalli)",
+      "titleArabic": "سُورَةُ الْكَهْفِ",
+      "arabic": "{الْحَمْدُ لِلَّهِ الَّذِي أَنْزَلَ عَلَى عَبْدِهِ الْكِتَابَ} الْقُرْآنَ {وَلَمْ يَجْعَلْ لَهُ عِوَجًا} أَيْ اخْتِلَافًا وَلَا تَنَاقُضًا.",
+      "translation": "(Segala puji bagi Allah yang telah menurunkan kepada hamba-Nya Al-Kitab) Al-Qur'an (dan Dia tidak menjadikan padanya kebengkokan) yaitu perselisihan maupun kontradiksi."
+    },
+    {
+      "title": "Surah Maryam",
+      "titleArabic": "سُورَةُ مَرْيَمَ",
+      "arabic": "{كهيعص} اللَّهُ أَعْلَمُ بِمُرَادِهِ بِذَلِكَ. {ذِكْرُ رَحْمَتِ رَبِّكَ عَبْدَهُ زَكَرِيَّا}.",
+      "translation": "(Kaf Ha Ya 'Ain Shad) Allah lebih tahu maksudnya. (Penjelasan tentang rahmat Tuhanmu kepada hamba-Nya Zakaria)."
+    },
+    {
+      "title": "Surah Thaha",
+      "titleArabic": "سُورَةُ طه",
+      "arabic": "{طه} اللَّهُ أَعْلَمُ بِمُرَادِهِ بِذَلِكَ. {مَا أَنْزَلْنَا عَلَيْكَ الْقُرْآنَ لِتَشْقَى} لِتَتْعَبَ.",
+      "translation": "(Tha Ha) Allah lebih tahu maksudnya. (Kami tidak menurunkan Al-Qur'an kepadamu agar kamu menjadi susah) agar kamu merasa lelah/payah."
+    },
+    {
+      "title": "Surah Al-Anbiya'",
+      "titleArabic": "سُورَةُ الْأَنْبِيَاءِ",
+      "arabic": "{اقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ} يَوْمُ الْقِيَامَةِ {وَهُمْ فِي غَفْلَةٍ مُعْرِضُونَ} عَنْ التَّأَهُّبِ لَهُ.",
+      "translation": "(Telah dekat bagi manusia waktu penghisaban mereka) hari kiamat (sedangkan mereka dalam kelalaian lagi berpaling) dari persiapan menghadapinya."
+    },
+    {
+      "title": "Surah Al-Hajj",
+      "titleArabic": "سُورَةُ الْحَجِّ",
+      "arabic": "{يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمْ إِنَّ زَلْزَلَةَ السَّاعَةِ شَيْءٌ عَظِيمٌ}.",
+      "translation": "(Wahai manusia bertakwalah kepada Tuhanmu, sesungguhnya guncangan hari kiamat itu adalah sesuatu yang sangat besar)."
+    },
+    {
+      "title": "Surah Al-Mu'minun",
+      "titleArabic": "سُورَةُ الْمُؤْمِنُونَ",
+      "arabic": "{قَدْ أَفْلَحَ الْمُؤْمِنُونَ} فَازُوا بِدُخُولِ الْجَنَّةِ.",
+      "translation": "(Sungguh beruntunglah orang-orang yang beriman) mereka menang dengan masuk ke dalam surga."
+    },
+    {
+      "title": "Surah An-Nur",
+      "titleArabic": "سُورَةُ النُّورِ",
+      "arabic": "{سُورَةٌ أَنْزَلْنَاهَا وَفَرَضْنَاهَا} أَيْ بَيَّنَّا فِيهَا الْأَحْكَامَ الْمَفْرُوضَةَ.",
+      "translation": "(Ini adalah suatu surah yang Kami turunkan dan Kami wajibkan) yaitu Kami jelaskan di dalamnya hukum-hukum yang diwajibkan."
+    },
+    {
+      "title": "Surah Al-Furqan",
+      "titleArabic": "سُورَةُ الْفُرْقَانِ",
+      "arabic": "{تَبَارَكَ} تَعَالَى {الَّذِي نَزَّلَ الْفُرْقَانَ} الْقُرْآنَ {عَلَى عَبْدِهِ} مُحَمَّدٍ.",
+      "translation": "(Maha Suci) Maha Tinggi (Dzat yang telah menurunkan Al-Furqan) Al-Qur'an (kepada hamba-Nya) Muhammad."
+    },
+    {
+      "title": "Surah Asy-Syu'ara'",
+      "titleArabic": "سُورَةُ الشُّعَرَاءِ",
+      "arabic": "{طسم} اللَّهُ أَعْلَمُ بِمُرَادِهِ بِهِ. {تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ}.",
+      "translation": "(Tha Sin Mim) Allah lebih tahu maksudnya. (Itu adalah ayat-ayat Kitab yang jelas)."
+    },
+    {
+      "title": "Surah An-Naml",
+      "titleArabic": "سُورَةُ النَّمْلِ",
+      "arabic": "{طس تِلْكَ آيَاتُ الْقُرْآنِ وَكِتَابٍ مُبِينٍ} عَطْفُ صِفَةٍ.",
+      "translation": "(Tha Sin. Itu adalah ayat-ayat Al-Qur'an dan Kitab yang jelas) penyambungan sifat."
+    },
+    {
+      "title": "Surah Al-Qashash",
+      "titleArabic": "سُورَةُ الْقَصَصِ",
+      "arabic": "{طسم تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ} الْجَامِعِ لِقِصَصِ الْأَنْبِيَاءِ.",
+      "translation": "(Tha Sin Mim. Itu adalah ayat-ayat Kitab yang jelas) yang menghimpun kisah-kisah para Nabi."
+    },
+    {
+      "title": "Surah Al-'Ankabut",
+      "titleArabic": "سُورَةُ الْعَنْكَبُوتِ",
+      "arabic": "{الم أَحَسِبَ النَّاسُ أَنْ يُتْرَكُوا أَنْ يَقُولُوا آمَنَّا وَهُمْ لَا يُفْتَنُونَ} لَا يُبْتَلُونَ بِمَا يَظْهَرُ حَقِيقَةُ إِيمَانِهِمْ.",
+      "translation": "(Alif Lam Mim. Apakah manusia itu mengira bahwa mereka dibiarkan saja mengatakan: Kami telah beriman, sedang mereka tidak diuji?) tidak dicoba dengan sesuatu yang menampakkan hakikat iman mereka."
+    },
+    {
+      "title": "Surah Ar-Rum",
+      "titleArabic": "سُورَةُ الرُّومِ",
+      "arabic": "{الم غُلِبَتِ الرُّومُ} غَلَبَتْهَا فَارِسُ.",
+      "translation": "(Alif Lam Mim. Bangsa Romawi telah dikalahkan) mereka dikalahkan oleh bangsa Persia."
+    },
+    {
+      "title": "Surah Luqman",
+      "titleArabic": "سُورَةُ لُقْمَانَ",
+      "arabic": "{الم تِلْكَ آيَاتُ الْكِتَابِ الْحَكِيمِ} ذِي الْحِكْمَةِ.",
+      "translation": "(Alif Lam Mim. Itu adalah ayat-ayat Kitab yang bijaksana) yang mengandung hikmah."
+    },
+    {
+      "title": "Surah As-Sajdah",
+      "titleArabic": "سُورَةُ السَّجْدَةِ",
+      "arabic": "{الم تَنْزِيلُ الْكِتَابِ لَا رَيْبَ فِيهِ مِنْ رَبِّ الْعَالَمِينَ}.",
+      "translation": "(Alif Lam Mim. Penurunan Al-Kitab itu tidak ada keraguan di dalamnya, dari Tuhan semesta alam)."
+    },
+    {
+      "title": "Surah Al-Ahzab",
+      "titleArabic": "سُورَةُ الْأَحْزَابِ",
+      "arabic": "{يَا أَيُّهَا النَّبِيُّ اتَّقِ اللَّهَ} أَيْ دُمْ عَلَى تَقْوَاهُ {وَلَا تُطِعِ الْكَافِرِينَ وَالْمُنَافِقِينَ}.",
+      "translation": "(Wahai Nabi, bertakwalah kepada Allah) yaitu teruslah dalam ketakwaan kepada-Nya (dan janganlah kamu menuruti orang-orang kafir dan orang-orang munafik)."
+    },
+    {
+      "title": "Surah Saba'",
+      "titleArabic": "سُورَةُ سَبَإٍ",
+      "arabic": "{الْحَمْدُ لِلَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ}.",
+      "translation": "(Segala puji bagi Allah yang milik-Nya apa yang ada di langit dan apa yang ada di bumi)."
+    },
+    {
+      "title": "Surah Fathir",
+      "titleArabic": "سُورَةُ فَاطِرٍ",
+      "arabic": "{الْحَمْدُ لِلَّهِ فَاطِرِ السَّمَاوَاتِ وَالْأَرْضِ} مُبْدِعِهِمَا.",
+      "translation": "(Segala puji bagi Allah Pencipta langit dan bumi) yang memulai penciptaan keduanya."
+    },
+    {
+      "title": "Surah Yasin",
+      "titleArabic": "سُورَةُ يس",
+      "arabic": "{يس} اللَّهُ أَعْلَمُ بِمُرَادِهِ بِهِ. {وَالْقُرْآنِ الْحَكِيمِ} الْمُحْكَمِ.",
+      "translation": "(Ya Sin) Allah lebih tahu maksudnya. (Demi Al-Qur'an yang penuh hikmah) yang kokoh."
+    },
+    {
+      "title": "Surah Ash-Shaffat",
+      "titleArabic": "سُورَةُ الصَّافَّاتِ",
+      "arabic": "{وَالصَّافَّاتِ صَفًّا} هِيَ الْمَلَائِكَةُ تَصُفُّ فِي الْعِبَادَةِ.",
+      "translation": "(Demi yang berbaris-baris dengan rapi) mereka adalah para malaikat yang berbaris dalam ibadah."
+    },
+    {
+      "title": "Surah Shad",
+      "titleArabic": "سُورَةُ ص",
+      "arabic": "{ص} اللَّهُ أَعْلَمُ بِمُرَادِهِ بِهِ. {وَالْقُرْآنِ ذِي الذِّكْرِ} الشَّرَفِ.",
+      "translation": "(Shad) Allah lebih tahu maksudnya. (Demi Al-Qur'an yang mempunyai kemuliaan)."
+    },
+    {
+      "title": "Surah Az-Zumar",
+      "titleArabic": "سُورَةُ الزُّمَرِ",
+      "arabic": "{تَنْزِيلُ الْكِتَابِ مِنَ اللَّهِ الْعَزِيزِ الْحَكِيمِ}.",
+      "translation": "(Penurunan Kitab ini dari Allah Yang Maha Perkasa lagi Maha Bijaksana)."
+    },
+    {
+      "title": "Surah Ghafir",
+      "titleArabic": "سُورَةُ غَافِرٍ",
+      "arabic": "{حم تَنْزِيلُ الْكِتَابِ مِنَ اللَّهِ الْعَزِيزِ الْعَلِيمِ}.",
+      "translation": "(Ha Mim. Penurunan Kitab ini dari Allah Yang Maha Perkasa lagi Maha Mengetahui)."
+    },
+    {
+      "title": "Surah Fussilat",
+      "titleArabic": "سُورَةُ فُصِّلَتْ",
+      "arabic": "{حم تَنْزِيلٌ مِنَ الرَّحْمَنِ الرَّحِيمِ كِتَابٌ فُصِّلَتْ آيَاتُهُ}.",
+      "translation": "(Ha Mim. Diturunkan dari Tuhan Yang Maha Pengasih lagi Maha Penyayang. Sebuah Kitab yang dijelaskan ayat-ayatnya)."
+    },
+    {
+      "title": "Surah Asy-Syura",
+      "titleArabic": "سُورَةُ الشُّورَى",
+      "arabic": "{حم عسق كَذَلِكَ يُوحِي إِلَيْكَ وَإِلَى الَّذِينَ مِنْ قَبْلِكَ اللَّهُ}.",
+      "translation": "(Ha Mim 'Ain Sin Qaf. Demikianlah Allah mewahyukan kepadamu dan kepada orang-orang sebelummu)."
+    },
+    {
+      "title": "Surah Az-Zukhruf",
+      "titleArabic": "سُورَةُ الزُّخْرُفِ",
+      "arabic": "{حم وَالْكِتَابِ الْمُبِينِ إِنَّا جَعَلْنَاهُ قُرْآنًا عَرَبِيًّا}.",
+      "translation": "(Ha Mim. Demi Kitab yang jelas, sesungguhnya Kami menjadikannya Al-Qur'an dalam bahasa Arab)."
+    },
+    {
+      "title": "Surah Ad-Dukhan",
+      "titleArabic": "سُورَةُ الدُّخَانِ",
+      "arabic": "{حم وَالْكِتَابِ الْمُبِينِ إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةٍ مُبَارَكَةٍ} لَيْلَةِ الْقَدْرِ.",
+      "translation": "(Ha Mim. Demi Kitab yang jelas, sesungguhnya Kami menurunkannya pada malam yang diberkahi) yaitu Lailatul Qadr."
+    },
+    {
+      "title": "Surah Al-Jathiyah",
+      "titleArabic": "سُورَةُ الْجَاثِيَةِ",
+      "arabic": "{حم تَنْزِيلُ الْكِتَابِ مِنَ اللَّهِ الْعَزِيزِ الْحَكِيمِ}.",
+      "translation": "(Ha Mim. Penurunan Kitab ini dari Allah Yang Maha Perkasa lagi Maha Bijaksana)."
+    },
+    {
+      "title": "Surah Al-Ahqaf",
+      "titleArabic": "سُورَةُ الْأَحْقَافِ",
+      "arabic": "{حم تَنْزِيلُ الْكِتَابِ مِنَ اللَّهِ الْعَزِيزِ الْحَكِيمِ}.",
+      "translation": "(Ha Mim. Penurunan Kitab ini dari Allah Yang Maha Perkasa lagi Maha Bijaksana)."
+    },
+    {
+      "title": "Surah Muhammad",
+      "titleArabic": "سُورَةُ مُحَمَّدٍ",
+      "arabic": "{الَّذِينَ كَفَرُوا وَصَدُّوا عَنْ سَبِيلِ اللَّهِ أَضَلَّ أَعْمَالَهُمْ}.",
+      "translation": "(Orang-orang yang kafir dan menghalang-halangi dari jalan Allah, Allah menghapus amal-amal mereka)."
+    },
+    {
+      "title": "Surah Al-Fath",
+      "titleArabic": "سُورَةُ الْفَتْحِ",
+      "arabic": "{إِنَّا فَتَحْنَا لَكَ فَتْحًا مُبِينًا} هُوَ صُلْحُ الْحُدَيْبِيَةِ.",
+      "translation": "(Sesungguhnya Kami telah memberikan kepadamu kemenangan yang nyata) yaitu perdamaian Hudaibiyah."
+    },
+    {
+      "title": "Surah Al-Hujurat",
+      "titleArabic": "سُورَةُ الْحُجُرَاتِ",
+      "arabic": "{يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُقَدِّمُوا بَيْنَ يَدَيِ اللَّهِ وَرَسُولِهِ}.",
+      "translation": "(Wahai orang-orang yang beriman, janganlah kamu mendahului Allah dan Rasul-Nya)."
+    },
+    {
+      "title": "Surah Qaf",
+      "titleArabic": "سُورَةُ ق",
+      "arabic": "{ق وَالْقُرْآنِ الْمَجِيدِ} الشَّرِيفِ.",
+      "translation": "(Qaf. Demi Al-Qur'an yang mulia)."
+    },
+    {
+      "title": "Surah Adh-Dhariyat",
+      "titleArabic": "سُورَةُ الذَّارِيَاتِ",
+      "arabic": "{وَالذَّارِيَاتِ ذَرْوًا} هِيَ الرِّيَاحُ تَذْرُو التُّرَابَ.",
+      "translation": "(Demi angin yang menerbangkan debu dengan kuat)."
+    },
+    {
+      "title": "Surah At-Tur",
+      "titleArabic": "سُورَةُ الطُّورِ",
+      "arabic": "{وَالطُّورِ} الْجَبَلِ الَّذِي كَلَّمَ اللَّهُ عَلَيْهِ مُوسَى.",
+      "translation": "(Demi Gunung Thur) gunung tempat Allah berbicara kepada Musa."
+    },
+    {
+      "title": "Surah An-Najm",
+      "titleArabic": "سُورَةُ النَّجْمِ",
+      "arabic": "{وَالنَّجْمِ إِذَا هَوَى} غَابَ.",
+      "translation": "(Demi bintang ketika terbenam)."
+    },
+    {
+      "title": "Surah Al-Qamar",
+      "titleArabic": "سُورَةُ الْقَمَرِ",
+      "arabic": "{اقْتَرَبَتِ السَّاعَةُ وَانْشَقَّ الْقَمَرُ}.",
+      "translation": "(Hari kiamat telah dekat dan bulan telah terbelah)."
+    },
+    {
+      "title": "Surah Ar-Rahman",
+      "titleArabic": "سُورَةُ الرَّحْمَنِ",
+      "arabic": "{الرَّحْمَنُ عَلَّمَ الْقُرْآنَ خَلَقَ الْإِنْسَانَ عَلَّمَهُ الْبَيَانَ}.",
+      "translation": "(Tuhan Yang Maha Pengasih. Yang telah mengajarkan Al-Qur'an. Dia menciptakan manusia. Mengajarnya pandai berbicara)."
+    },
+    {
+      "title": "Surah Al-Waqi'ah",
+      "titleArabic": "سُورَةُ الْوَاقِعَةِ",
+      "arabic": "{إِذَا وَقَعَتِ الْوَاقِعَةُ} قَامَتِ الْقِيَامَةُ.",
+      "translation": "(Apabila terjadi hari kiamat) kiamat telah tegak."
+    },
+    {
+      "title": "Surah Al-Hadid",
+      "titleArabic": "سُورَةُ الْحَدِيدِ",
+      "arabic": "{سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ}.",
+      "translation": "(Semua yang ada di langit dan di bumi bertasbih kepada Allah. Dan Dialah Yang Maha Perkasa lagi Maha Bijaksana)."
+    },
+    {
+      "title": "Surah Al-Mujadilah",
+      "titleArabic": "سُورَةُ الْمُجَادِلَةِ",
+      "arabic": "{قَدْ سَمِعَ اللَّهُ قَوْلَ الَّتِي تُجَادِلُكَ فِي زَوْجِهَا} هِيَ خَوْلَةُ بِنْتُ ثَعْلَبَةَ.",
+      "translation": "(Sungguh Allah telah mendengar ucapan wanita yang mengajukan gugatan kepadamu tentang suaminya) ia adalah Khaulah binti Tsa'labah."
+    },
+    {
+      "title": "Surah Al-Hasyr",
+      "titleArabic": "سُورَةُ الْحَشْرِ",
+      "arabic": "{سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ}.",
+      "translation": "(Bertasbih kepada Allah apa yang ada di langit dan apa yang ada di bumi; dan Dialah Yang Maha Perkasa lagi Maha Bijaksana)."
+    },
+    {
+      "title": "Surah Al-Mumtahanah",
+      "titleArabic": "سُورَةُ الْمُمْتَحَنَةِ",
+      "arabic": "{يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا عَدُوِّي وَعَدُوَّكُمْ أَوْلِيَاءَ}.",
+      "translation": "(Wahai orang-orang yang beriman, janganlah kamu menjadikan musuh-Ku dan musuhmu sebagai teman-teman setia)."
+    },
+    {
+      "title": "Surah Ash-Shaff",
+      "titleArabic": "سُورَةُ الصَّفِّ",
+      "arabic": "{سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ}.",
+      "translation": "(Telah bertasbih kepada Allah apa yang ada di langit dan apa yang ada di bumi)."
+    },
+    {
+      "title": "Surah Al-Jumu'ah",
+      "titleArabic": "سُورَةُ الْجُمُعَةِ",
+      "arabic": "{يُسَبِّحُ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ الْمَلِكِ الْقُدُّوسِ}.",
+      "translation": "(Senantiasa bertasbih kepada Allah apa yang ada di langit dan apa yang ada di bumi. Raja Yang Maha Suci)."
+    },
+    {
+      "title": "Surah Al-Munafiqun",
+      "titleArabic": "سُورَةُ الْمُنَافِقُونَ",
+      "arabic": "{إِذَا جَاءَكَ الْمُنَافِقُونَ قَالُوا نَشْهَدُ إِنَّكَ لَرَسُولُ اللَّهِ}.",
+      "translation": "(Apabila orang-orang munafik datang kepadamu, mereka berkata: Kami mengakui bahwa sesungguhnya engkau benar-benar Rasul Allah)."
+    },
+    {
+      "title": "Surah At-Taghabun",
+      "titleArabic": "سُورَةُ التَّغَابُنِ",
+      "arabic": "{يُسَبِّحُ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ}.",
+      "translation": "(Bertasbih kepada Allah apa yang ada di langit dan apa yang ada di bumi; milik-Nyalah segala kerajaan dan milik-Nyalah segala puji)."
+    },
+    {
+      "title": "Surah At-Talaq",
+      "titleArabic": "سُورَةُ الطَّلَاقِ",
+      "arabic": "{يَا أَيُّهَا النَّبِيُّ إِذَا طَلَّقْتُمُ النِّسَاءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ}.",
+      "translation": "(Wahai Nabi, apabila kamu menceraikan istri-istrimu maka hendaklah kamu ceraikan mereka pada waktu mereka dapat (menghadapi) iddahnya)."
+    },
+    {
+      "title": "Surah At-Tahrim",
+      "titleArabic": "سُورَةُ التَّحْرِيمِ",
+      "arabic": "{يَا أَيُّهَا النَّبِيُّ لِمَ تُحَرِّمُ مَا أَحَلَّ اللَّهُ لَكَ تَبْتَغِي مَرْضَاتَ أَزْوَاجِكَ}.",
+      "translation": "(Wahai Nabi, mengapa kamu mengharamkan apa yang Allah halalkan bagimu; kamu mencari kesenangan hati istri-istrimu?)."
+    },
+    {
+      "title": "Surah Al-Mulk",
+      "titleArabic": "سُورَةُ الْمُلْكِ",
+      "arabic": "{تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ}.",
+      "translation": "(Maha Suci Allah yang di tangan-Nyalah segala kerajaan, dan Dia Maha Kuasa atas segala sesuatu)."
+    },
+    {
+      "title": "Surah Al-Qalam",
+      "titleArabic": "سُورَةُ الْقَلَمِ",
+      "arabic": "{ن وَالْقَلَمِ وَمَا يَسْطُرُونَ} مَا يَكْتُبُهُ الْمَلَائِكَةُ.",
+      "translation": "(Nun. Demi kalam dan apa yang mereka tulis) apa yang ditulis oleh para malaikat."
+    },
+    {
+      "title": "Surah Al-Haqqah",
+      "titleArabic": "سُورَةُ الْحَاقَّةِ",
+      "arabic": "{الْحَاقَّةُ مَا الْحَاقَّةُ} يَوْمُ الْقِيَامَةِ.",
+      "translation": "(Hari kiamat, apakah hari kiamat itu?)."
+    },
+    {
+      "title": "Surah Al-Ma'arij",
+      "titleArabic": "سُورَةُ الْمَعَارِجِ",
+      "arabic": "{سَأَلَ سَائِلٌ بِعَذَابٍ وَاقِعٍ}.",
+      "translation": "(Seseorang peminta telah meminta azab yang pasti terjadi)."
+    },
+    {
+      "title": "Surah Nuh",
+      "titleArabic": "سُورَةُ نُوحٍ",
+      "arabic": "{إِنَّا أَرْسَلْنَا نُوحًا إِلَى قَوْمِهِ أَنْ أَنْذِرْ قَوْمَكَ}.",
+      "translation": "(Sesungguhnya Kami telah mengutus Nuh kepada kaumnya: Berilah peringatan kepada kaummu)."
+    },
+    {
+      "title": "Surah Al-Jinn",
+      "titleArabic": "سُورَةُ الْجِنِّ",
+      "arabic": "{قُلْ أُوحِيَ إِلَيَّ أَنَّهُ اسْتَمَعَ نَفَرٌ مِنَ الْجِنِّ}.",
+      "translation": "(Katakanlah: Telah diwahyukan kepadamu bahwasanya sekelompok jin telah mendengarkan)."
+    },
+    {
+      "title": "Surah Al-Muzzammil",
+      "titleArabic": "سُورَةُ الْمُزَّمِّلِ",
+      "arabic": "{يَا أَيُّهَا الْمُزَّمِّلُ} الْمُتَلَفِّفُ بِثِيَابِهِ.",
+      "translation": "(Wahai orang yang berselimut) yang melilitkan pakaiannya."
+    },
+    {
+      "title": "Surah Al-Muddaththir",
+      "titleArabic": "سُورَةُ الْمُدَّثِّرِ",
+      "arabic": "{يَا أَيُّهَا الْمُدَّثِّرُ قُمْ فَأَنْذِرْ}.",
+      "translation": "(Wahai orang yang berkemul, bangunlah lalu berilah peringatan!)."
+    },
+    {
+      "title": "Surah Al-Qiyamah",
+      "titleArabic": "سُورَةُ الْقِيَامَةِ",
+      "arabic": "{لَا أُقْسِمُ بِيَوْمِ الْقِيَامَةِ}.",
+      "translation": "(Aku bersumpah demi hari kiamat)."
+    },
+    {
+      "title": "Surah Al-Insan",
+      "titleArabic": "سُورَةُ الْإِنْسَانِ",
+      "arabic": "{هَلْ أَتَى عَلَى الْإِنْسَانِ حِينٌ مِنَ الدَّهْرِ لَمْ يَكُنْ شَيْئًا مَذْكُورًا}.",
+      "translation": "(Bukankah telah datang atas manusia satu waktu dari masa, sedang ia ketika itu belum merupakan sesuatu yang dapat disebut?)."
+    },
+    {
+      "title": "Surah Al-Mursalat",
+      "titleArabic": "سُورَةُ الْمُرْسَلَاتِ",
+      "arabic": "{وَالْمُرْسَلَاتِ عُرْفًا}.",
+      "translation": "(Demi malaikat-malaikat yang diutus untuk membawa kebaikan)."
+    },
+    {
+      "title": "Surah An-Naba'",
+      "titleArabic": "سُورَةُ النَّبَإِ",
+      "arabic": "{عَمَّ يَتَسَاءَلُونَ عَنِ النَّبَإِ الْعَظِيمِ} يَوْمِ الْقِيَامَةِ.",
+      "translation": "(Tentang apakah mereka saling bertanya-tanya? Tentang berita yang besar) yaitu hari kiamat."
+    },
+    {
+      "title": "Surah An-Nazi'at",
+      "titleArabic": "سُورَةُ النَّازِعَاتِ",
+      "arabic": "{وَالنَّازِعَاتِ غَرْقًا} الْمَلَائِكَةُ تَنْزِعُ أَرْوَاحَ الْكُفَّارِ.",
+      "translation": "(Demi malaikat-malaikat yang mencabut nyawa dengan keras) para malaikat mencabut nyawa orang kafir."
+    },
+    {
+      "title": "Surah 'Abasa",
+      "titleArabic": "سُورَةُ عَبَسَ",
+      "arabic": "{عَبَسَ وَتَوَلَّى أَنْ جَاءَهُ الْأَعْمَى} ابْنُ أُمِّ مَكْتُومٍ.",
+      "translation": "(Dia bermuka masam dan berpaling, karena telah datang kepadanya seorang buta) Ibnu Ummi Maktum."
+    },
+    {
+      "title": "Surah At-Takwir",
+      "titleArabic": "سُورَةُ التَّكْوِيرِ",
+      "arabic": "{إِذَا الشَّمْسُ كُوِّرَتْ} لُفَّتْ وَذَهَبَ ضَوْؤُهَا.",
+      "translation": "(Apabila matahari digulung) dililit dan hilang cahayanya."
+    },
+    {
+      "title": "Surah Al-Infitar",
+      "titleArabic": "سُورَةُ الِانْفِطَارِ",
+      "arabic": "{إِذَا السَّمَاءُ انْفَطَرَتْ} انْشَقَّتْ.",
+      "translation": "(Apabila langit terbelah)."
+    },
+    {
+      "title": "Surah Al-Mutaffifin",
+      "titleArabic": "سُورَةُ الْمُطَفِّفِينَ",
+      "arabic": "{وَيْلٌ لِلْمُطَفِّفِينَ} الَّذِينَ يَنْقُصُونَ الْمِكْيَالَ وَالْمِيزَانَ.",
+      "translation": "(Celakalah bagi orang-orang yang curang) yang mengurangi takaran dan timbangan."
+    },
+    {
+      "title": "Surah Al-Inshiqaq",
+      "titleArabic": "سُورَةُ الِانْشِقَاقِ",
+      "arabic": "{إِذَا السَّمَاءُ انْشَقَّتْ وَأَذِنَتْ لِرَبِّهَا} اسْتَمَعَتْ لَهُ.",
+      "translation": "(Apabila langit terbelah, dan patuh kepada Tuhannya) mendengarkan perintah-Nya."
+    },
+    {
+      "title": "Surah Al-Buruj",
+      "titleArabic": "سُورَةُ الْبُرُوجِ",
+      "arabic": "{وَالسَّمَاءِ ذَاتِ الْبُرُوجِ} مَنَازِلِ الْكَوَاكِبِ.",
+      "translation": "(Demi langit yang mempunyai gugusan bintang) tempat beredarnya bintang-bintang."
+    },
+    {
+      "title": "Surah At-Tariq",
+      "titleArabic": "سُورَةُ الطَّارِقِ",
+      "arabic": "{وَالسَّمَاءِ وَالطَّارِقِ} النَّجْمِ الَّذِي يَطْلُقُ لَيْلًا.",
+      "translation": "(Demi langit dan yang datang di malam hari) bintang yang muncul di malam hari."
+    },
+    {
+      "title": "Surah Al-A'la",
+      "titleArabic": "سُورَةُ الْأَعْلَى",
+      "arabic": "{سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى الَّذِي خَلَقَ فَسَوَّى}.",
+      "translation": "(Suciakanlah nama Tuhanmu Yang Maha Tinggi, Yang menciptakan dan menyempurnakan)."
+    },
+    {
+      "title": "Surah Al-Ghashiyah",
+      "titleArabic": "سُورَةُ الْغَاشِيَةِ",
+      "arabic": "{هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ} الْقِيَامَةِ.",
+      "translation": "(Sudahkah datang kepadamu berita tentang hari kiamat?)."
+    },
+    {
+      "title": "Surah Al-Fajr",
+      "titleArabic": "سُورَةُ الْفَجْرِ",
+      "arabic": "{وَالْفَجْرِ وَلَيَالٍ عَشْرٍ} عَشْرِ ذِي الْحِجَّةِ.",
+      "translation": "(Demi fajar, dan malam yang sepuluh) yaitu sepuluh hari pertama bulan Dzulhijjah."
+    },
+    {
+      "title": "Surah Al-Balad",
+      "titleArabic": "سُورَةُ الْبَلَدِ",
+      "arabic": "{لَا أُقْسِمُ بِهَذَا الْبَلَدِ} مَكَّةَ.",
+      "translation": "(Aku bersumpah dengan negeri ini) yaitu Makkah."
+    },
+    {
+      "title": "Surah Ash-Shams",
+      "titleArabic": "سُورَةُ الشَّمْسِ",
+      "arabic": "{وَالشَّمْسِ وَضُحَاهَا وَالْقَمَرِ إِذَا تَلَاهَا}.",
+      "translation": "(Demi matahari dan cahayanya di pagi hari, dan bulan apabila mengiringinya)."
+    },
+    {
+      "title": "Surah Al-Layl",
+      "titleArabic": "سُورَةُ اللَّيْلِ",
+      "arabic": "{وَاللَّيْلِ إِذَا يَغْشَى وَالنَّهَارِ إِذَا تَجَلَّى}.",
+      "translation": "(Demi malam apabila menutupi, dan siang apabila terang benderang)."
+    },
+    {
+      "title": "Surah Ad-Duha",
+      "titleArabic": "سُورَةُ الضُّحَى",
+      "arabic": "{وَالضُّحَى وَاللَّيْلِ إِذَا سَجَى} نَزَلَتْ بَعْدَ فَتْرَةِ الْوَحْيِ.",
+      "translation": "(Demi waktu dhuha, dan demi malam apabila telah sunyi) turun setelah terputusnya wahyu sementara."
+    },
+    {
+      "title": "Surah Al-Inshirah",
+      "titleArabic": "سُورَةُ الشَّرْحِ",
+      "arabic": "{أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ} بِالْهِدَايَةِ.",
+      "translation": "(Bukankah Kami telah melapangkan untukmu dadamu) dengan hidayah."
+    },
+    {
+      "title": "Surah At-Tin",
+      "titleArabic": "سُورَةُ التِّينِ",
+      "arabic": "{وَالتِّينِ وَالزَّيْتُونِ وَطُورِ سِينِينَ}.",
+      "translation": "(Demi buah Tin dan buah Zaitun, dan demi gunung Sinai)."
+    },
+    {
+      "title": "Surah Al-'Alaq",
+      "titleArabic": "سُورَةُ الْعَلَقِ",
+      "arabic": "{اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ} هِيَ أَوَّلُ مَا نَزَلَ.",
+      "translation": "(Bacalah dengan menyebut nama Tuhanmu Yang menciptakan) ini adalah ayat pertama yang turun."
+    },
+    {
+      "title": "Surah Al-Qadr",
+      "titleArabic": "سُورَةُ الْقَدْرِ",
+      "arabic": "{إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ} أَيْ الْقُرْآنَ جُمْلَةً وَاحِدَةً مِنَ اللَّوْحِ الْمَحْفُوظِ.",
+      "translation": "(Sesungguhnya Kami telah menurunkannya pada malam kemuliaan) yaitu Al-Qur'an diturunkan sekaligus dari Lauhul Mahfuz."
+    },
+    {
+      "title": "Surah Al-Bayyinah",
+      "titleArabic": "سُورَةُ الْبَيِّنَةِ",
+      "arabic": "{لَمْ يَكُنِ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ مُنْفَكِّينَ حَتَّى تَأْتِيَهُمُ الْبَيِّنَةُ}.",
+      "translation": "(Orang-orang kafir yakni ahli Kitab dan orang-orang musyrik tidak akan meninggalkan (agamanya) sebelum datang kepada mereka bukti yang nyata)."
+    },
+    {
+      "title": "Surah Az-Zalzalah",
+      "titleArabic": "سُورَةُ الزَّلْزَلَةِ",
+      "arabic": "{إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا} الْمُقَدَّرَ لَهَا.",
+      "translation": "(Apabila bumi diguncangkan dengan guncangan yang dahsyat) yang telah ditetapkan baginya."
+    },
+    {
+      "title": "Surah Al-'Adiyat",
+      "titleArabic": "سُورَةُ الْعَادِيَاتِ",
+      "arabic": "{وَالْعَادِيَاتِ ضَبْحًا} خَيْلِ الْغُزَاةِ.",
+      "translation": "(Demi kuda perang yang berlari kencang dengan terengah-engah)."
+    },
+    {
+      "title": "Surah Al-Qari'ah",
+      "titleArabic": "سُورَةُ الْقَارِعَةِ",
+      "arabic": "{الْقَارِعَةُ مَا الْقَارِعَةُ} يَوْمُ الْقِيَامَةِ.",
+      "translation": "(Hari kiamat, apakah hari kiamat itu?)."
+    },
+    {
+      "title": "Surah At-Takathur",
+      "titleArabic": "سُورَةُ التَّكَاثُرِ",
+      "arabic": "{أَلْهَاكُمُ التَّكَاثُرُ} بِالْمَالِ وَالْأَوْلَادِ.",
+      "translation": "(Bermegah-megahan telah melalaikan kamu) dalam harta dan anak-anak."
+    },
+    {
+      "title": "Surah Al-'Asr",
+      "titleArabic": "سُورَةُ الْعَصْرِ",
+      "arabic": "{وَالْعَصْرِ} الزَّمَانِ {إِنَّ الْإِنْسَانَ لَفِي خُسْرٍ}.",
+      "translation": "(Demi masa. Sesungguhnya manusia itu benar-benar dalam kerugian)."
+    },
+    {
+      "title": "Surah Al-Humazah",
+      "titleArabic": "سُورَةُ الْهُمَزَةِ",
+      "arabic": "{وَيْلٌ لِكُلِّ هُمَزَةٍ لُمَزَةٍ} يَعِيبُ النَّاسَ.",
+      "translation": "(Celakalah bagi setiap pengumpat lagi pencela) yang mencela manusia."
+    },
+    {
+      "title": "Surah Al-Fil",
+      "titleArabic": "سُورَةُ الْفِيلِ",
+      "arabic": "{أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ} أَبْرَهَةَ وَجَيْشِهِ.",
+      "translation": "(Tidakkah kamu perhatikan bagaimana Tuhanmu telah bertindak terhadap tentara bergajah?) Abrahah dan pasukannya."
+    },
+    {
+      "title": "Surah Quraysh",
+      "titleArabic": "سُورَةُ قُرَيْشٍ",
+      "arabic": "{لِإِيلَافِ قُرَيْشٍ إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ}.",
+      "translation": "(Karena kebiasaan orang-orang Quraisy, (yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas)."
+    },
+    {
+      "title": "Surah Al-Ma'un",
+      "titleArabic": "سُورَةُ الْمَاعُونِ",
+      "arabic": "{أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ} بِالْجَزَاءِ.",
+      "translation": "(Tahukah kamu orang yang mendustakan agama?) yaitu mendustakan pembalasan."
+    },
+    {
+      "title": "Surah Al-Kawthar",
+      "titleArabic": "سُورَةُ الْكَوْثَرِ",
+      "arabic": "{إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ} نَهْرٌ فِي الْجَنَّةِ.",
+      "translation": "(Sesungguhnya Kami telah memberikan kepadamu telaga Al-Kautsar) sebuah sungai di surga."
+    },
+    {
+      "title": "Surah Al-Kafirun",
+      "titleArabic": "سُورَةُ الْكَافِرُونَ",
+      "arabic": "{قُلْ يَا أَيُّهَا الْكَافِرُونَ لَا أَعْبُدُ مَا تَعْبُدُونَ}.",
+      "translation": "(Katakanlah: Wahai orang-orang kafir, aku tidak akan menyembah apa yang kamu sembah)."
+    },
+    {
+      "title": "Surah An-Nasr",
+      "titleArabic": "سُورَةُ النَّصْرِ",
+      "arabic": "{إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ} فَتْحُ مَكَّةَ.",
+      "translation": "(Apabila telah datang pertolongan Allah dan kemenangan) yaitu penaklukan Makkah."
+    },
+    {
+      "title": "Surah Al-Masad",
+      "titleArabic": "سُورَةُ الْمَسَدِ",
+      "arabic": "{تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ} خَسِرَتْ.",
+      "translation": "(Binasalah kedua tangan Abu Lahab dan sesungguhnya dia akan binasa) merugi."
+    },
+    {
+      "title": "Surah Al-Ikhlas",
+      "titleArabic": "سُورَةُ الْإِخْلَاصِ",
+      "arabic": "{قُلْ هُوَ اللَّهُ أَحَدٌ} تَعْدِلُ ثُلُثَ الْقُرْآنِ.",
+      "translation": "(Katakanlah: Dialah Allah, Yang Maha Esa) ayat ini sebanding dengan sepertiga Al-Qur'an."
+    },
+    {
+      "title": "Surah Al-Falaq",
+      "titleArabic": "سُورَةُ الْفَلَقِ",
+      "arabic": "{قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ} الصُّبْحِ.",
+      "translation": "(Katakanlah: Aku berlindung kepada Tuhan yang menguasai subuh)."
+    },
+    {
+      "title": "Surah An-Nas",
+      "titleArabic": "سُورَةُ النَّاسِ",
+      "arabic": "{قُلْ أَعُوذُ بِرَبِّ النَّاسِ مَلِكِ النَّاسِ إِلَهِ النَّاسِ}.",
+      "translation": "(Katakanlah: Aku berlindung kepada Tuhan manusia. Raja manusia. Sembahan manusia)."
+    },
+    {
+      "title": "Khatimah (Penutup)",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ",
+      "arabic": "تَمَّ تَفْسِيرُ الْجَلَالَيْنِ بِحَمْدِ اللَّهِ وَعَوْنِهِ عَلَى يَدِ جَلَالِ الدِّينِ السُّيُوطِيِّ بَعْدَ وَفَاةِ جَلَالِ الدِّينِ الْمَحَلِّيِّ. نَسْأَلُ اللَّهَ أَنْ يَنْفَعَ بِهِ الْمُسْلِمِينَ.",
+      "translation": "Telah selesai Tafsir Jalalain dengan puji Allah dan pertolongan-Nya di tangan Jalaluddin as-Suyuthi setelah wafatnya Jalaluddin al-Mahalli. Kami memohon kepada Allah agar memberikan manfaat dengan kitab ini bagi kaum muslimin."
+    }
+  ]
+}
