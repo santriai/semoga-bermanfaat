@@ -1,0 +1,224 @@
+{
+  "profile": {
+    "name": "Mi'yar al-Ilm",
+    "originalTitle": "مِعْيَارُ الْعِلْمِ فِي فَنِّ الْمَنْطِقِ",
+    "author": "Al-Imam Abu Hamid Muhammad bin Muhammad al-Ghazali ath-Thusi (Hujjatul Islam)",
+    "field": "Mantiq (Logika) & Epistemologi",
+    "about": "Kitab Mi'yar al-Ilm merupakan karya monumental Al-Ghazali yang disusun sebagai pengantar epistemologis untuk memahami ilmu-ilmu Islam, khususnya Ushul Fiqh. Kitab ini ditulis tak lama setelah Tahafut al-Falasifa untuk membuktikan bahwa logika adalah alat yang netral dan krusial bagi akal manusia. Al-Ghazali mengadaptasi logika Aristotelian ke dalam terminologi yang akrab bagi para fuqaha agar dapat diterima di lingkungan madrasah. Kitab ini mencakup pembahasan mendalam tentang definisi (al-hudud), proposisi (al-qadhaya), dan silogisme (al-qiyas). Keberadaan kitab ini menandai integrasi logika ke dalam kurikulum pendidikan Islam Sunni secara formal.",
+    "authorBorn": "450 H (Thous, Iran)",
+    "authorDied": "505 H (Thous, Iran)",
+    "authorCentury": "Abad ke-5 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah Kitab",
+      "titleArabic": "مُقَدِّمَةُ الْكِتَابِ",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي تَمَيَّزَ بِالْجَلَالِ وَالْكَمَالِ... أَمَّا بَعْدُ، فَإِنَّ الْمَقْصُودَ مِنْ هَذَا الْكِتَابِ بَيَانُ طُرُقِ النَّظَرِ وَالِاسْتِدْلَالِ وَمَوَازِينِ الْعَقْلِ فِي الِاعْتِبَارِ.",
+      "translation": "Segala puji bagi Allah yang istimewa dengan keagungan dan kesempurnaan... Amma ba'du, sesungguhnya tujuan dari kitab ini adalah menjelaskan metode berpikir, pengambilan dalil, dan timbangan akal dalam melakukan pertimbangan."
+    },
+    {
+      "title": "Pentingnya Logika dalam Ilmu Agama",
+      "titleArabic": "فَضِيلَةُ الْمَنْطِقِ وَنِسْبَتُهُ إِلَى الْعُلُومِ",
+      "arabic": "اعْلَمْ أَنَّ النِّسْبَةَ بَيْنَ الْمَنْطِقِ وَالْعَقْلِ كَالنِّسْبَةِ بَيْنَ النَّحْوِ وَاللِّسَانِ، أَوْ كَالْعَرُوضِ وَالشِّعْرِ.",
+      "translation": "Ketahuilah bahwa hubungan antara logika dan akal seperti hubungan antara nahwu dan lisan, atau seperti arudh dan syair."
+    },
+    {
+      "title": "Kitab Pertama: Tentang Kata (Lafadz) - Signifikasi",
+      "titleArabic": "الْكِتَابُ الْأَوَّلُ فِي الْأَلْفَاظِ وَالدَّلَالَاتِ",
+      "arabic": "أَنْوَاعُ الدَّلَالَةِ ثَلَاثَةٌ: دَلَالَةُ الْمُطَابَقَةِ، وَدَلَالَةُ التَّضَمُّنِ، وَدَلَالَةُ الِالْتِزَامِ.",
+      "translation": "Macam-macam penunjukan (dalalah) ada tiga: Dalalah Mutabaqah (identitas), Dalalah Tadhammun (cakupan), dan Dalalah Iltizam (konsekuensi)."
+    },
+    {
+      "title": "Pembagian Kata: Mufrad dan Murakkab",
+      "titleArabic": "الْقَوْلُ فِي الْمُفْرَدِ وَالْمُرَكَّبِ",
+      "arabic": "اللَّفْظُ إِمَّا مُفْرَدٌ وَهُوَ الَّذِي لَا يَدُلُّ جُزْؤُهُ عَلَى جُزْءِ مَعْنَاهُ، وَإِمَّا مُؤَلَّفٌ وَهُوَ بِخِلَافِهِ.",
+      "translation": "Lafadz ada kalanya tunggal (mufrad) yaitu yang bagian katanya tidak menunjukkan bagian maknanya, dan ada kalanya tersusun (muallaf/murakkab) yang merupakan kebalikannya."
+    },
+    {
+      "title": "Konsep Universal (Kulli) dan Partikular (Juz'i)",
+      "titleArabic": "الْكُلِّيُّ وَالْجُزْئِيُّ",
+      "arabic": "الْكُلِّيُّ هُوَ الَّذِي لَا يَمْنَعُ نَفْسُ تَصَوُّرِ مَعْنَاهُ مِنْ وُقُوعِ الشَّرِكَةِ فِيهِ.",
+      "translation": "Kulli (universal) adalah sesuatu yang sekadar membayangkan maknanya tidak mencegah adanya persekutuan (banyak individu) di dalamnya."
+    },
+    {
+      "title": "Lima Universal (Al-Kulliyat al-Khams): Jenis",
+      "titleArabic": "الْكُلِّيَّاتُ الْخَمْسُ: الْجِنْسُ",
+      "arabic": "الْجِنْسُ: هُوَ الْكُلِّيُّ الْمَقُولُ عَلَى كَثِيرِينَ مُخْتَلِفِينَ بِالْحَقَائِقِ فِي جَوَابِ مَا هُوَ.",
+      "translation": "Jenis adalah konsep universal yang dikatakan kepada banyak hal yang berbeda hakikatnya dalam menjawab pertanyaan 'apa ini?'."
+    },
+    {
+      "title": "Lima Universal: Spesies (Nau')",
+      "titleArabic": "الْكُلِّيَّاتُ الْخَمْسُ: النَّوْعُ",
+      "arabic": "النَّوْعُ: هُوَ الْكُلِّيُّ الْمَقُولُ عَلَى كَثِيرِينَ لَا يَخْتَلِفُونَ إِلَّا بِالْعَدَدِ فِي جَوَابِ مَا هُوَ.",
+      "translation": "Nau' (Spesies) adalah konsep universal yang dikatakan kepada banyak hal yang tidak berbeda hakikatnya (hanya berbeda jumlah/individu) dalam menjawab pertanyaan 'apa ini?'."
+    },
+    {
+      "title": "Lima Universal: Diferensia (Fasl)",
+      "titleArabic": "الْكُلِّيَّاتُ الْخَمْسُ: الْفَصْلُ",
+      "arabic": "الْفَصْلُ: هُوَ الْكُلِّيُّ الَّذِي بِهِ تَمَيُّزُ الذَّاتِ عَنْ غَيْرِهَا فِي الْجِنْسِ.",
+      "translation": "Fasl (Diferensia) adalah konsep universal yang dengannya suatu dzat terbedakan dari yang lainnya dalam satu jenis."
+    },
+    {
+      "title": "Lima Universal: Sifat Khusus (Khassah)",
+      "titleArabic": "الْكُلِّيَّاتُ الْخَمْسُ: الْخَاصَّةُ",
+      "arabic": "الْخَاصَّةُ: هِيَ الْكُلِّيُّ الْخَارِجُ عَنِ الذَّاتِ الْمُخْتَصُّ بِهَا.",
+      "translation": "Khassah (Propertia) adalah konsep universal yang di luar hakikat dzat namun khusus dimiliki oleh dzat tersebut."
+    },
+    {
+      "title": "Lima Universal: Sifat Umum ('Aradh 'Am)",
+      "titleArabic": "الْكُلِّيَّاتُ الْخَمْسُ: الْعَرَضُ الْعَامُّ",
+      "arabic": "الْعَرَضُ الْعَامُّ: هُوَ الْكُلِّيُّ الْخَارِجُ عَنِ الذَّاتِ الَّذِي لَا يَخْتَصُّ بِهَا بَلْ يُوجَدُ فِيهَا وَفِي غَيْرِهَا.",
+      "translation": "Aradh 'Am (Aksidensi Umum) adalah konsep universal di luar hakikat dzat yang tidak khusus baginya, melainkan terdapat pada dzat tersebut dan lainnya."
+    },
+    {
+      "title": "Definisi Hakiki (Al-Hadd al-Haqiqi)",
+      "titleArabic": "الْقَوْلُ فِي الْحَدِّ الْحَقِيقِيِّ",
+      "arabic": "الْحَدُّ الْحَقِيقِيُّ هُوَ الْجَامِعُ لِذَاتِيَّاتِ الشَّيْءِ مِنْ جِنْسِهِ وَفَصْلِهِ.",
+      "translation": "Definisi hakiki (Hadd) adalah ungkapan yang menghimpun sifat-sifat esensial (dzatiyat) sesuatu yang terdiri dari Jenis dan Fasl-nya."
+    },
+    {
+      "title": "Definisi Deskriptif (Al-Rasm)",
+      "titleArabic": "الْقَوْلُ فِي الرَّسْمِ",
+      "arabic": "الرَّسْمُ هُوَ الَّذِي يُعَرِّفُ الشَّيْءَ بِخَوَاصِّهِ وَأَعْرَاضِهِ.",
+      "translation": "Rasm (Deskripsi) adalah ungkapan yang mengenalkan sesuatu melalui sifat-sifat khusus dan aksidensinya."
+    },
+    {
+      "title": "Syarat-Syarat Definisi yang Benar",
+      "titleArabic": "شُرُوطُ الصِّحَّةِ فِي الْحُدُودِ",
+      "arabic": "شَرْطُ الْحَدِّ أَنْ يَكُونَ مَانِعًا جَامِعًا، مُطَرِدًا مُنْعَكِسًا.",
+      "translation": "Syarat definisi adalah harus mencegah (mani') masuknya yang lain dan menghimpun (jami') seluruh satuannya, konsisten dan dapat dibalik."
+    },
+    {
+      "title": "Kesalahan-Kesalahan dalam Pendefinisian",
+      "titleArabic": "مَزَالُّ الْأَقْدَامِ فِي الْحُدُودِ",
+      "arabic": "مِنْهَا تَعْرِيفُ الشَّيْءِ بِمَا هُوَ أَخْفَى مِنْهُ، أَوْ بِمَا هُوَ مِثْلُهُ فِي الْخَفَاءِ.",
+      "translation": "Di antaranya adalah mendefinisikan sesuatu dengan hal yang lebih samar darinya, atau dengan hal yang sama kesamarannya."
+    },
+    {
+      "title": "Kitab Kedua: Tentang Proposisi (Qadhaya)",
+      "titleArabic": "الْكِتَابُ الثَّانِي فِي الْقَضَايَا وَأَحْكَامِهَا",
+      "arabic": "الْقَضِيَّةُ هِيَ كُلُّ قَوْلٍ يَحْتَمِلُ الصِّدْقَ وَالْكَذِبَ.",
+      "translation": "Proposisi (Qadhiyah) adalah setiap perkataan yang mengandung kemungkinan benar atau dusta."
+    },
+    {
+      "title": "Proposisi Kategoris (Hamliyah)",
+      "titleArabic": "الْقَضِيَّةُ الْحَمْلِيَّةُ",
+      "arabic": "الْحَمْلِيَّةُ هِيَ الَّتِي يُحْكَمُ فِيهَا بِوُجُودِ صِفَةٍ لِمَوْصُوفٍ أَوْ نَفْيِهَا عَنْهُ.",
+      "translation": "Hamliyah adalah proposisi yang menghukumi adanya suatu sifat bagi subjek atau meniadakannya darinya."
+    },
+    {
+      "title": "Proposisi Hipotetis (Syartiyah)",
+      "titleArabic": "الْقَضِيَّةُ الشَّرْطِيَّةُ",
+      "arabic": "وَهِيَ قِسْمَانِ: مُتَّصِلَةٌ وَمُنْفَصِلَةٌ.",
+      "translation": "Proposisi hipotetis terbagi dua: Muttasilah (konektif) dan Munfasilah (disjungtif)."
+    },
+    {
+      "title": "Kuantitas Proposisi: Universal dan Partikular",
+      "titleArabic": "الْكُلِّيَّةُ وَالْجُزْئِيَّةُ فِي الْقَضَايَا",
+      "arabic": "الْقَضِيَّةُ إِمَّا مَحْصُورَةٌ كُلِّيَّةً أَوْ جُزْئِيَّةً، وَإِمَّا مُهْمَلَةً.",
+      "translation": "Proposisi adakalanya terbatasi secara universal (kulliyah), partikular (juz'iyyah), atau diabaikan (muhmalah)."
+    },
+    {
+      "title": "Kontradiksi Proposisi (Tanaqudh)",
+      "titleArabic": "التَّنَاقُضُ فِي الْقَضَايَا",
+      "arabic": "التَّنَاقُضُ هُوَ اخْتِلَافُ الْقَضِيَّتَيْنِ فِي الْإِيجَابِ وَالسَّلْبِ بِحَيْثُ يَقْتَضِي صِدْقَ إِحْدَاهُمَا كَذِبَ الْأُخْرَى.",
+      "translation": "Kontradiksi (Tanaqudh) adalah perbedaan dua proposisi dalam hal afirmatif (positif) dan negatif sedemikian rupa sehingga benarnya salah satu mengharuskan dustanya yang lain."
+    },
+    {
+      "title": "Konversi Proposisi ('Aks المستوي)",
+      "titleArabic": "الْعَكْسُ الْمُسْتَوِي",
+      "arabic": "الْعَكْسُ هُوَ جَعْلُ الْمَوْضُوعِ مَحْمُولًا وَالْمَحْمُولِ مَوْضُوعًا مَعَ بَقَاءِ الصِّدْقِ وَالْكَيْفِ.",
+      "translation": "Konversi ('Aks) adalah menjadikan subjek sebagai predikat dan predikat sebagai subjek dengan tetap menjaga kebenaran dan kualitasnya."
+    },
+    {
+      "title": "Kitab Ketiga: Silogisme (Qiyas)",
+      "titleArabic": "الْكِتَابُ الثَّالِثُ فِي الْقِيَاسِ",
+      "arabic": "الْقِيَاسُ قَوْلٌ مُؤَلَّفٌ مِنْ أَقْوَالٍ إِذَا سُلِّمَتْ لَزِمَ عَنْهَا لِذَاتِهَا قَوْلٌ آخَرُ.",
+      "translation": "Silogisme (Qiyas) adalah perkataan yang tersusun dari beberapa pernyataan yang jika diterima, maka akan mengharuskan adanya pernyataan lain secara esensial."
+    },
+    {
+      "title": "Struktur Silogisme: Premis dan Term",
+      "titleArabic": "أَرْكَانُ الْقِيَاسِ: الْمُقَدِّمَاتُ وَالْحُدُودُ",
+      "arabic": "يَتَرَكَّبُ الْقِيَاسُ مِنْ مُقَدِّمَتَيْنِ تَشْتَرِكَانِ فِي حَدٍّ أَوْسَطَ.",
+      "translation": "Silogisme tersusun dari dua premis yang bersekutu dalam satu Term Tengah (hadd ausath)."
+    },
+    {
+      "title": "Silogisme Kategoris Bentuk Pertama",
+      "titleArabic": "الشَّكْلُ الْأَوَّلُ مِنَ الْقِيَاسِ",
+      "arabic": "هُوَ الَّذِي يَكُونُ الْحَدُّ الْأَوْسَطُ فِيهِ مَحْمُولًا فِي الصُّغْرَى مَوْضُوعًا فِي الْكُبْرَى.",
+      "translation": "Yaitu silogisme yang Term Tengah-nya menjadi predikat pada premis minor dan menjadi subjek pada premis mayor."
+    },
+    {
+      "title": "Silogisme Kategoris Bentuk Kedua",
+      "titleArabic": "الشَّكْلُ الثَّانِي مِنَ الْقِيَاسِ",
+      "arabic": "هُوَ الَّذِي يَكُونُ الْحَدُّ الْأَوْسَطُ فِيهِ مَحْمُولًا فِي الْمُقَدِّمَتَيْنِ مَعًا.",
+      "translation": "Yaitu silogisme yang Term Tengah-nya menjadi predikat pada kedua premis sekaligus."
+    },
+    {
+      "title": "Silogisme Kategoris Bentuk Ketiga",
+      "titleArabic": "الشَّكْلُ الثَّالِثُ مِنَ الْقِيَاسِ",
+      "arabic": "هُوَ الَّذِي يَكُونُ الْحَدُّ الْأَوْسَطُ فِيهِ مَوْضُوعًا فِي الْمُقَدِّمَتَيْنِ مَعًا.",
+      "translation": "Yaitu silogisme yang Term Tengah-nya menjadi subjek pada kedua premis sekaligus."
+    },
+    {
+      "title": "Silogisme Hipotetis (Qiyas Istithna'i)",
+      "titleArabic": "الْقِيَاسُ الِاسْتِثْنَائِيُّ",
+      "arabic": "هُوَ مَا صُرِّحَ فِي مُقَدِّمَاتِهِ بِعَيْنِ النَّتِيجَةِ أَوْ بِنَقِيضِهَا.",
+      "translation": "Yaitu silogisme yang dalam premis-premisnya disebutkan secara jelas substansi kesimpulan atau kontradiksinya."
+    },
+    {
+      "title": "Induksi (Istiqra')",
+      "titleArabic": "الْقَوْلُ فِي الِاسْتِقْرَاءِ",
+      "arabic": "الِاسْتِقْرَاءُ هُوَ الْحُكْمُ عَلَى كُلِّيٍّ لِوُجُودِ ذَلِكَ الْحُكْمِ فِي جُزْئِيَّاتِهِ.",
+      "translation": "Induksi adalah menghukumi sesuatu yang universal karena adanya hukum tersebut pada bagian-bagian partikularnya."
+    },
+    {
+      "title": "Analogi (Tamthil) dalam Pandangan Logika",
+      "titleArabic": "الْقَوْلُ فِي التَّمْثِيلِ (الْقِيَاسُ الْفِقْهِيُّ)",
+      "arabic": "الْتَمْثِيلُ هُوَ رَدُّ جُزْئِيٍّ إِلَى جُزْئِيٍّ آخَرَ لِعِلَّةٍ جَامِعَةٍ.",
+      "translation": "Analogi (Tamthil/Qiyas Fiqh) adalah mengembalikan hukum suatu partikular ke partikular lain karena adanya alasan ('illat) yang menghimpun keduanya."
+    },
+    {
+      "title": "Lima Seni (Al-Sina'at al-Khams): Demonstrasi (Burhan)",
+      "titleArabic": "الصِّنَاعَاتُ الْخَمْسُ: الْبُرْهَانُ",
+      "arabic": "الْبُرْهَانُ هُوَ الْقِيَاسُ الْمُؤَلَّفُ مِنْ يَقِينِيَّاتٍ لِإِنْتَاجِ الْيَقِينِ.",
+      "translation": "Burhan (Demonstrasi) adalah silogisme yang tersusun dari premis-premis yang meyakinkan untuk menghasilkan kesimpulan yang pasti (yakin)."
+    },
+    {
+      "title": "Lima Seni: Dialektika (Jadal)",
+      "titleArabic": "الصِّنَاعَاتُ الْخَمْسُ: الْجَدَلُ",
+      "arabic": "الْجَدَلُ هُوَ الْقِيَاسُ الْمُؤَلَّفُ مِنْ مَشْهُورَاتٍ وَمُسَلَّمَاتٍ.",
+      "translation": "Jadal (Dialektika) adalah silogisme yang tersusun dari hal-hal yang populer (masyhurat) dan yang diterima oleh lawan bicara (musallamat)."
+    },
+    {
+      "title": "Lima Seni: Retorika (Khatabah)",
+      "titleArabic": "الصِّنَاعَاتُ الْخَمْسُ: الْخَطَابَةُ",
+      "arabic": "الْخَطَابَةُ هِيَ الْقِيَاسُ الْمُؤَلَّفُ مِنْ مَقْبُولَاتٍ أَوْ مَظْنُونَاتٍ لِإِقْنَاعِ الْجُمْهُورِ.",
+      "translation": "Khatabah (Retorika) adalah silogisme yang tersusun dari hal-hal yang diterima begitu saja atau prasangka untuk meyakinkan khalayak umum."
+    },
+    {
+      "title": "Lima Seni: Puisi (Syi'r)",
+      "titleArabic": "الصِّنَاعَاتُ الْخَمْسُ: الشِّعْرُ",
+      "arabic": "الشِّعْرُ هُوَ قِيَاسٌ مُؤَلَّفٌ مِنْ مُخَيَّلَاتٍ تَنْبَسِطُ مِنْهَا النَّفْسُ أَوْ تَنْقَبِضُ.",
+      "translation": "Syi'r (Puisi/Imajinasi) adalah silogisme yang tersusun dari hal-hal imajinatif yang membuat jiwa merasa senang atau sesak."
+    },
+    {
+      "title": "Lima Seni: Sofistri (Maghalitah)",
+      "titleArabic": "الصِّنَاعَاتُ الْخَمْسُ: السَّفْسَطَةُ أَوِ الْمُغَالَطَةُ",
+      "arabic": "الْمُغَالَطَةُ هِيَ الْقِيَاسُ الَّذِي يَكُونُ بَاطِلًا فِي مَادَّتِهِ أَوْ صُورَتِهِ مَعَ شَبَهِهِ بِالْحَقِّ.",
+      "translation": "Maghalitah (Sofistri) adalah silogisme yang batil baik dalam materinya maupun bentuknya, namun menyerupai kebenaran."
+    },
+    {
+      "title": "Sumber Pengetahuan yang Yakini (Al-Yaqiniyat)",
+      "titleArabic": "أَقْسَامُ الْمُقَدِّمَاتِ الْيَقِينِيَّةِ",
+      "arabic": "هِيَ الْأَوَّلِيَّاتُ، وَالْمُشَاهَدَاتُ الْبَاطِنَةُ، وَالْحِسِّيَّاتُ، وَالْمُتَوَاتِرَاتُ، وَالتَّجْرِبِيَّاتُ، وَالْوَهْمِيَّاتُ.",
+      "translation": "Ialah: Awwaliyat (aksioma), Musyahadat (intuisi batin), Mahsusat (panca indera), Mutawatirat (laporan massa), Tajribiyat (eksperimen), dan Wahmiyat (estimasi)."
+    },
+    {
+      "title": "Penutup: Buah dari Ilmu Logika",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ فِي ثَمَرَةِ هَذَا الْعِلْمِ",
+      "arabic": "وَهَذَا الْعِلْمُ هُوَ الْمِعْيَارُ لِكُلِّ عِلْمٍ، وَكُلُّ مَا لَا يُوزَنُ بِهِ لَا يُوثَقُ بِتَحْصِيلِهِ.",
+      "translation": "Ilmu ini adalah kriteria (mi'yar) bagi setiap ilmu, dan segala hal yang tidak ditimbang dengannya tidak dapat dipercaya hasilnya."
+    }
+  ]
+}
