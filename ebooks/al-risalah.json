@@ -1,0 +1,134 @@
+{
+  "profile": {
+    "name": "Al-Risalah",
+    "originalTitle": "الرِّسَالَةُ",
+    "author": "Al-Imam Muhammad bin Idris al-Syafi'i (Imam Syafi'i)",
+    "field": "Ushul al-Fiqh (Metodologi Hukum Islam)",
+    "about": "Kitab Al-Risalah merupakan karya monumental Imam al-Syafi'i yang diakui sebagai kitab pertama yang menyusun metodologi hukum Islam secara sistematis. Kitab ini meletakkan fondasi bagi ilmu Ushul al-Fiqh, membahas interaksi antara Al-Qur'an dan As-Sunnah serta batasan-batasan ijtihad. Di dalamnya, Imam Syafi'i merumuskan konsep 'Al-Bayan' sebagai kunci memahami wahyu. Kitab ini juga mengukuhkan kedudukan Khabar al-Wahid (hadits ahad) sebagai sumber hukum yang sah. Al-Risalah menjadi rujukan utama bagi seluruh mazhab hukum Islam dalam memahami mekanisme pengambilan hukum (istinbath al-ahkam).",
+    "authorBorn": "150 H / 767 M (Gaza, Palestina)",
+    "authorDied": "204 H / 820 M (Fustat, Mesir)",
+    "authorCentury": "Abad ke-2 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah (Pembukaan)",
+      "titleArabic": "الْمُقَدِّمَةُ (خُطْبَةُ الْكِتَابِ)",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَجَعَلَ الظُّلُمَاتِ وَالنُّورَ، ثُمَّ الَّذِينَ كَفَرُوا بِرَبِّهِمْ يَعْدِلُونَ. وَالْحَمْدُ لِلَّهِ الَّذِي لَا يُؤَدَّى شُكْرُ نِعْمَةٍ مِنْ نِعَمِهِ إلَّا بِنِعْمَةٍ مِنْهُ تُوجِبُ عَلَى مُؤَدِّي مَاضِي نِعَمِهِ بِشُكْرِهَا نِعْمَةً جَدِيدَةً.",
+      "translation": "Segala puji bagi Allah yang telah menciptakan langit dan bumi, serta menjadikan kegelapan dan cahaya, namun orang-orang kafir itu mempersekutukan Tuhan mereka. Segala puji bagi Allah, yang mana syukur atas suatu nikmat-Nya tidaklah dapat ditunaikan melainkan dengan nikmat dari-Nya pula, yang mewajibkan bagi orang yang menunaikan syukur atas nikmat terdahulu untuk mensyukuri nikmat yang baru tersebut."
+    },
+    {
+      "title": "Kitab Al-Bayan (Penjelasan)",
+      "titleArabic": "كِتَابُ الْبَيَانِ",
+      "arabic": "قَالَ الشَّافِعِيُّ: الْبَيَانُ اسْمٌ جَامِعٌ لِمَعَانٍ مُجْتَمِعَةِ الْأُصُولِ، مُتَشَعِّبَةِ الْفُرُوعِ. فَأَقَلُّ مَا فِي تِلْكَ الْمَعَانِي الْمُجْتَمِعَةِ الْمُتَشَعِّبَةِ أَنَّهَا بَيَانٌ لِمَنْ خُوطِبَ بِهَا مِمَّنْ نَزَلَ الْقُرْآنُ بِلِسَانِهِ.",
+      "translation": "Al-Syafi'i berkata: Al-Bayan adalah istilah yang mencakup berbagai makna yang prinsip-prinsipnya bersatu namun cabang-cabangnya beragam. Sekurang-kurangnya makna yang bersatu namun bercabang itu adalah bahwa ia merupakan penjelasan bagi orang yang menjadi objek khithab (komunikasi), yaitu mereka yang Al-Qur'an turun dengan bahasa mereka."
+    },
+    {
+      "title": "Wajah-Wajah Al-Bayan (Kategori Penjelasan)",
+      "titleArabic": "وُجُوهُ الْبَيَانِ",
+      "arabic": "فَوَجَدْتُ الْبَيَانَ فِي كِتَابِ اللَّهِ مِنْ وُجُوهٍ: مِنْهَا مَا أَبَانَ اللَّهُ لِخَلْقِهِ فِي نَصِّ كِتَابِهِ مِمَّا أَنْزَلَ مِنْ فَرَائِضِهِ. وَمِنْهَا مَا أَنْزَلَ جُمْلَةً فَأَبَانَ عَلَى لِسَانِ نَبِيِّهِ كَيْفَ عَمَلُهُ.",
+      "translation": "Maka aku mendapati Bayan dalam Kitab Allah terdiri dari beberapa wajah (aspek): Di antaranya adalah apa yang Allah jelaskan kepada makhluk-Nya melalui nash (teks) Kitab-Nya mengenai kewajiban-kewajiban yang diturunkan-Nya. Dan di antaranya adalah apa yang diturunkan secara global (umum), lalu dijelaskan melalui lisan Nabi-Nya tentang tata cara pelaksanaannya."
+    },
+    {
+      "title": "Al-Qur'an: Am (Umum) yang Dimaksudkan Am",
+      "titleArabic": "بَابُ مَا نَزَلَ مِنَ الْقُرْآنِ عَامًّا يُرَادُ بِهِ الْعُمُومُ",
+      "arabic": "قَالَ اللَّهُ تَبَارَكَ وَتَعَالَى: (اللَّهُ خَالِقُ كُلِّ شَيْءٍ وَهُوَ عَلَى كُلِّ شَيْءٍ وَكِيلٌ). فَكَانَ هَذَا ظَاهِرًا عَامًّا، لَا خُصُوصَ فِيهِ.",
+      "translation": "Allah Tabaraka wa Ta'ala berfirman: (Allah adalah Pencipta segala sesuatu dan Dia Maha Pemelihara atas segala sesuatu). Maka ayat ini secara lahiriah bersifat umum, tidak mengandung pengkhususan di dalamnya."
+    },
+    {
+      "title": "Al-Qur'an: Am (Umum) yang Dimaksudkan Khusus",
+      "titleArabic": "بَابُ مَا نَزَلَ عَامًّا يُرَادُ بِهِ الْخُصُوصُ",
+      "arabic": "وَمِنْهُ قَوْلُ اللَّهِ تَعَالَى: (الَّذِينَ قَالَ لَهُمُ النَّاسُ إنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ). فَإِذَا كَانَ مَنْ قَالَ لَهُمْ (النَّاسُ) غَيْرَ مَنْ جَمَعَ لَهُمْ (النَّاسُ)، كَانَ هَذَا عَامًّا يُرَادُ بِهِ الْخُصُوصُ.",
+      "translation": "Di antaranya adalah firman Allah Ta'ala: (Orang-orang yang ada orang-orang lain mengatakan kepada mereka, 'Sesungguhnya orang-orang telah mengumpulkan pasukan untuk menyerang kamu, maka takutlah kepada mereka'). Karena orang yang berkata kepada mereka (segelintir orang) berbeda dengan orang yang mengumpulkan pasukan (sekelompok orang), maka ini adalah lafaz umum yang dimaksudkan untuk makna khusus."
+    },
+    {
+      "title": "Al-Qur'an: Am yang Dimasuki Khusus",
+      "titleArabic": "بَابُ مَا نَزَلَ عَامًّا دَخَلَهُ الْخُصُوصُ",
+      "arabic": "مِثْلُ قَوْلِهِ تَعَالَى: (وَمَا مِنْ دَابَّةٍ فِي الْأَرْضِ إلَّا عَلَى اللَّهِ رِزْقُهَا). فَهَذَا عَامٌّ، وَقَدْ خَصَّ اللَّهُ مِنْهُ مَا شَاءَ بِقَدَرِهِ.",
+      "translation": "Seperti firman-Nya: (Dan tidak ada satu binatang melata pun di bumi melainkan Allah-lah yang memberi rezekinya). Ini bersifat umum, dan Allah telah mengkhususkan darinya apa yang Dia kehendaki dengan takdir-Nya."
+    },
+    {
+      "title": "Kewajiban-Kewajiban dalam Al-Qur'an (Al-Fara'id)",
+      "titleArabic": "بَابُ الْفَرَائِضِ الْمَنْصُوصَةِ",
+      "arabic": "فَكُلُّ مَا أَنْزَلَ اللَّهُ فِي كِتَابِهِ مِنْ فَرْضٍ، فَهُوَ بَيَانٌ لِمَا أَرَادَ اللَّهُ مِنْ عِبَادِهِ، مِثْلُ الطَّهَارَةِ وَالصَّلَاةِ وَالزَّكَاةِ وَالْحَجِّ وَالصَّوْمِ.",
+      "translation": "Setiap kewajiban yang Allah turunkan dalam Kitab-Nya adalah penjelasan tentang apa yang Allah kehendaki dari hamba-hamba-Nya, seperti thaharah (bersuci), shalat, zakat, haji, dan puasa."
+    },
+    {
+      "title": "Nasikh dan Mansukh",
+      "titleArabic": "بَابُ النَّاسِخِ وَالْمَنْسُوخِ",
+      "arabic": "قَالَ اللَّهُ تَعَالَى: (مَا نَنْسَخْ مِنْ آيَةٍ أَوْ نُنْسِهَا نَأْتِ بِخَيْرٍ مِنْهَا أَوْ مِثْلِهَا). فَبَيَّنَ اللَّهُ أَنَّ نَسْخَ الْقُرْآنِ لَا يَكُونُ إلَّا بِقُرْآنٍ مِثْلِهِ.",
+      "translation": "Allah Ta'ala berfirman: (Ayat mana saja yang Kami nasakhkan, atau Kami jadikan lupa kepadanya, Kami datangkan yang lebih baik darinya atau yang sebanding dengannya). Maka Allah menjelaskan bahwa penghapusan (nasakh) Al-Qur'an hanya bisa dilakukan dengan Al-Qur'an yang sepadan."
+    },
+    {
+      "title": "Kewajiban Shalat dan Nasakhnya",
+      "titleArabic": "بَابُ فَرْضِ الصَّلَاةِ وَمَا نَسَخَ مِنْهَا",
+      "arabic": "أَنْزَلَ اللَّهُ الصَّلَاةَ فِي مَكَّةَ، ثُمَّ نَسَخَ بِصَلَوَاتِ الْخَمْسِ مَا كَانَ قَبْلَهَا مِنْ زِيَادَةٍ أَوْ نُقْصَانٍ.",
+      "translation": "Allah menurunkan perintah shalat di Makkah, kemudian menghapus (nasakh) ketentuan shalat sebelumnya dengan shalat lima waktu, baik itu yang bersifat tambahan maupun pengurangan."
+    },
+    {
+      "title": "Kedudukan As-Sunnah terhadap Al-Qur'an",
+      "titleArabic": "بَابُ مَنْزِلَةِ السُّنَّةِ مِنَ الْقُرْآنِ",
+      "arabic": "فَلَا يَجُوزُ أَنْ تُقْبَلَ عَنْ رَسُولِ اللَّهِ سُنَّةٌ إلَّا وَهِيَ مُوَافِقَةٌ لِكِتَابِ اللَّهِ، أَوْ مُبَيِّنَةٌ عَنْهُ، أَوْ فَرْضٌ مُبْتَدَأٌ مِمَّا لَيْسَ فِي الْكِتَابِ نَصٌّ فِيهِ.",
+      "translation": "Tidak diperbolehkan menerima sebuah sunnah dari Rasulullah melainkan ia selaras dengan Kitab Allah, atau memberi penjelasan atasnya, atau merupakan kewajiban baru yang teksnya tidak terdapat secara spesifik dalam Kitab Allah."
+    },
+    {
+      "title": "Kewajiban Mentaati Rasulullah",
+      "titleArabic": "بَابُ فَرْضِ طَاعَةِ رَسُولِ اللَّهِ",
+      "arabic": "قَرَنَ اللَّهُ طَاعَةَ رَسُولِهِ بِطَاعَتِهِ، فَقَالَ: (مَنْ يُطِعِ الرَّسُولَ فَقَدْ أَطَاعَ اللَّهَ).",
+      "translation": "Allah menggandengkan ketaatan kepada Rasul-Nya dengan ketaatan kepada-Nya, maka Dia berfirman: (Barangsiapa yang menaati Rasul itu, sesungguhnya ia telah menaati Allah)."
+    },
+    {
+      "title": "Sunnah yang Menjelaskan Globalitas Al-Qur'an",
+      "titleArabic": "بَابُ السُّنَّةِ الْمُبَيِّنَةِ لِمُجْمَلِ الْقُرْآنِ",
+      "arabic": "أَنْزَلَ اللَّهُ الْحَجَّ مُجْمَلًا، فَقَالَ: (وَلِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ). فَسَنَّ رَسُولُ اللَّهِ كَيْفَ الْحَجُّ وَمَنَاسِكُهُ.",
+      "translation": "Allah menurunkan perintah haji secara global (mujmal), Dia berfirman: (Mengerjakan haji adalah kewajiban manusia terhadap Allah). Lalu Rasulullah mensunnahkan bagaimana tata cara haji dan manasiknya."
+    },
+    {
+      "title": "Larangan dalam Al-Qur'an",
+      "titleArabic": "بَابُ النَّهْيِ فِي الْقُرْآنِ",
+      "arabic": "كُلُّ نَهْيٍ عَنْ رَسُولِ اللَّهِ فَهُوَ عَلَى التَّحْرِيمِ حَتَّى تَأْتِيَ دَلَالَةٌ عَنْهُ أَنَّهُ أَرَادَ بِهِ غَيْرَ التَّحْرِيمِ.",
+      "translation": "Setiap larangan dari Rasulullah hukum dasarnya adalah haram, sampai datang dalil darinya yang menunjukkan bahwa yang beliau maksudkan bukanlah keharaman (tetapi makruh)."
+    },
+    {
+      "title": "Khabar al-Wahid (Hadits Ahad)",
+      "titleArabic": "بَابُ قَبُولِ خَبَرِ الْوَاحِدِ",
+      "arabic": "إذَا كَانَ الْمُخْبِرُ صَادِقًا حَافِظًا عَمَّنْ حَدَّثَهُ، كَانَ حُجَّةً عَلَى مَنْ بَلَغَهُ.",
+      "translation": "Apabila informan (perawi) itu jujur dan hafal (dhabith) dari orang yang menceritakannya, maka berita itu menjadi hujjah bagi orang yang menerimanya."
+    },
+    {
+      "title": "Al-Ijma' (Konsensus)",
+      "titleArabic": "بَابُ الْإِجْمَاعِ",
+      "arabic": "لَسْتُ أَقُولُ: إنَّ جَمَاعَةَ الْمُسْلِمِينَ لَا تَجْتَمِعُ عَلَى خَطَأٍ، وَلَكِنِّي أَقُولُ: إنَّ مَا اجْتَمَعُوا عَلَيْهِ فَهُوَ حَقٌّ.",
+      "translation": "Aku tidak mengatakan bahwa sekumpulan orang Islam tidak akan bersepakat atas kesalahan (secara mutlak), tetapi aku katakan bahwa apa yang telah mereka sepakati bersama maka itulah kebenaran."
+    },
+    {
+      "title": "Al-Qiyas (Analogi)",
+      "titleArabic": "بَابُ الْقِيَاسِ",
+      "arabic": "الْقِيَاسُ مَا طُلِبَ بِالدَّلَائِلِ عَلَى الْمَوَاضِعِ الْوَسْمِ بِالْقِيَاسِ عَلَى الْكِتَابِ أَوْ السُّنَّةِ.",
+      "translation": "Al-Qiyas adalah apa yang dicari dengan petunjuk-petunjuk (dalil) atas suatu kasus dengan cara menganalogikannya kepada Kitab (Al-Qur'an) atau Sunnah."
+    },
+    {
+      "title": "Al-Ijtihad",
+      "titleArabic": "بَابُ الِاجْتِهَادِ",
+      "arabic": "الِاجْتِهَادُ وَالْقِيَاسُ اسْمَانِ لِمَعْنًى وَاحِدٍ، وَهُمَا طَلَبُ الْحَقِّ بِالدَّلَائِلِ.",
+      "translation": "Ijtihad dan Qiyas adalah dua nama untuk satu makna, yaitu upaya mencari kebenaran melalui dalil-dalil."
+    },
+    {
+      "title": "Pembatalan Al-Istihsan",
+      "titleArabic": "بَابُ إبْطَالِ الِاسْتِحْسَانِ",
+      "arabic": "مَنِ اسْتَحْسَنَ فَقَدْ شَرَّعَ. لَا يَجُوزُ لِأَحَدٍ أَنْ يَقُولَ بِالِاسْتِحْسَانِ إذَا خَالَفَ الْخَبَرَ.",
+      "translation": "Barangsiapa melakukan istihsan, maka ia telah menetapkan syariat sendiri. Tidak boleh bagi siapapun berkata dengan istihsan jika itu menyelisihi hadits (khabar)."
+    },
+    {
+      "title": "Al-Ikhtilaf (Perbedaan Pendapat)",
+      "titleArabic": "بَابُ الِاخْتِلَافِ",
+      "arabic": "الِاخْتِلَافُ مِنْ جِهَتَيْنِ: أَحَدُهُمَا مُحَرَّمٌ وَهُوَ مَا قَامَتْ فِيهِ الْحُجَّةُ، وَالْآخَرُ مَا يَسُوغُ فِيهِ الِاجْتِهَادُ.",
+      "translation": "Perbedaan pendapat terbagi dua: yang pertama diharamkan, yaitu pada hal yang hujjahnya telah jelas; dan yang kedua adalah apa yang ijtihad diperbolehkan di dalamnya."
+    },
+    {
+      "title": "Penutup Kitab",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ",
+      "arabic": "فَقَدْ أَتَيْتُ عَلَى جُمَلٍ مِمَّا شَرَطْتُ فِي كِتَابِي هَذَا، وَبَيَّنْتُ مَا فِيهِ الْبَيَانُ لِلنَّاسِ. وَنَسْأَلُ اللَّهَ التَّوْفِيقَ وَالسَّدَادَ.",
+      "translation": "Maka aku telah menyampaikan secara global apa yang aku syaratkan dalam kitabku ini, dan aku telah menjelaskan apa yang menjadi penjelasan bagi manusia. Dan kami memohon kepada Allah taufik dan ketetapan yang benar."
+    }
+  ]
+}
