@@ -2,367 +2,457 @@
   "profile": {
     "name": "Tarikh al-Khulafa",
     "originalTitle": "تَارِيخُ الْخُلَفَاءِ",
-    "author": "Imam Jalaluddin al-Suyuti (جَلَالُ الدِّينِ السُّيُوطِيُّ)",
+    "author": "Imam Jalaluddin Abu al-Fadl Abd al-Rahman bin Abi Bakr al-Suyuti",
     "field": "Tarikh (Sejarah Islam)",
-    "about": "Kitab ini merupakan salah satu referensi sejarah Islam paling otoritatif yang disusun oleh Imam al-Suyuti. Ia mencatat biografi para pemimpin umat Islam mulai dari masa Khulafaur Rasyidin hingga masa kekhalifahan Bani Abbasiyah di Mesir pada masa hidup penulis. Berbeda dengan kitab sejarah umum, al-Suyuti memfokuskan narasinya pada figur khalifah, stabilitas politik, serta perkembangan keilmuan dan sosial di bawah kepemimpinan mereka. Kitab ini dikenal karena metodenya yang menyertakan hadis-hadis keutamaan para sahabat dan penguasa, serta kritik terhadap penyimpangan yang terjadi. Karya ini menjadi standar akademik di pesantren dan madrasah untuk memahami silsilah dan legalitas kepemimpinan dalam Islam.",
-    "authorBorn": "849 H (1445 M), Kairo, Mesir",
-    "authorDied": "911 H (1505 M), Kairo, Mesir",
-    "authorCentury": "Abad ke-9 dan ke-10 Hijriah"
+    "about": "Kitab ini merupakan karya monumental Imam al-Suyuti yang menyajikan sejarah para pemimpin umat Islam mulai dari era Khulafaur Rasyidin hingga periode Abbasiyah di Mesir. Penulis tidak hanya mencatat peristiwa politik, tetapi juga menonjolkan sisi biografi, akhlak, serta peristiwa-peristiwa besar yang terjadi pada masa pemerintahan masing-masing khalifah. Karya ini disusun dengan metode riwayat yang kritis dan sering kali menyertakan bait-bait syair serta penilaian ulama sezaman. Tarikh al-Khulafa menjadi rujukan utama dalam memahami genealogi kepemimpinan Islam dan pengaruhnya terhadap peradaban. Kitab ini mencerminkan dedikasi al-Suyuti dalam menjaga warisan intelektual dan sejarah kaum Muslimin melalui narasi yang sistematis dan otoritatif.",
+    "authorBorn": "849 H (Kairo, Mesir)",
+    "authorDied": "911 H (Kairo, Mesir)",
+    "authorCentury": "Abad ke-9 & 10 Hijriah"
   },
   "chapters": [
     {
       "title": "Muqaddimah (Pendahuluan Penulis)",
-      "titleArabic": "مُقَدِّمَةُ الْمُؤَلِّفِ",
-      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي وَفَّى لِعِبَادِهِ بِوَعْدِهِ، وَأَعَزَّ مَنْ طَاعَهُ بِصِدْقِ عَهْدِهِ... أَمَّا بَعْدُ، فَهَذَا تَارِيخٌ لَطِيفٌ لِلْخُلَفَاءِ الَّذِينَ قَامُوا بِأَمْرِ الْأُمَّةِ مِنْ عَهْدِ أَبِي بَكْرٍ الصِّدِّيقِ رَضِيَ اللَّهُ عَنْهُ إِلَى زَمَانِنَا هَذَا.",
-      "translation": "Segala puji bagi Allah yang menepati janji bagi hamba-Nya, dan memuliakan orang yang taat pada-Nya dengan kejujuran janjinya... Adapun setelah itu, ini adalah sejarah ringkas tentang para khalifah yang memegang urusan umat sejak masa Abu Bakar al-Siddiq radhiyallahu 'anhu hingga masa kita sekarang ini."
+      "titleArabic": "مُقَدِّمَةُ الْمُؤَلِّفِ",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي وَفَّقَ مَنْ شَاءَ مِنْ عِبَادِهِ لِطَاعَتِهِ، وَبَعْدُ: فَهَذَا تَرْجَمَةٌ لَطِيفَةٌ، وَتَارِيخٌ جَامِعٌ لِأَحْوَالِ الْخُلَفَاءِ أُمَرَاءِ الْمُؤْمِنِينَ الْقَائِمِينَ بِأَمْرِ الْأُمَّةِ مِنْ عَهْدِ أَبِي بَكْرٍ الصِّدِّيقِ رَضِيَ اللَّهُ عَنْهُ إِلَى هَذَا الْوَقْتِ.",
+      "translation": "Segala puji bagi Allah yang memberikan taufik kepada siapa yang Dia kehendaki dari hamba-Nya untuk taat kepada-Nya. Amma ba'du: Ini adalah biografi yang ringkas namun padat, serta sejarah yang menghimpun keadaan para Khalifah, Pemimpin Orang-orang Beriman yang menegakkan urusan umat, mulai dari masa Abu Bakar al-Siddiq Radhiyallahu 'Anhu hingga waktu ini."
     },
     {
-      "title": "Khalifah Pertama: Abu Bakar al-Siddiq",
+      "title": "Khalifah Abu Bakr al-Siddiq",
       "titleArabic": "أَبُو بَكْرٍ الصِّدِّيقُ رَضِيَ اللَّهُ عَنْهُ",
-      "arabic": "هُوَ عَبْدُ اللَّهِ بْنُ أَبِي قُحَافَةَ عُثْمَانَ بْنِ عَامِرٍ الْقُرَشِيُّ التَّيْمِيُّ... وُلِدَ بَعْدَ الْفِيلِ بِسَنَتَيْنِ وَأَشْهُرٍ، وَكَانَ أَوَّلَ مَنْ أَسْلَمَ مِنَ الرِّجَالِ.",
-      "translation": "Beliau adalah Abdullah bin Abi Quhafah Utsman bin Amir al-Qurasyi al-Taimi... Lahir dua tahun beberapa bulan setelah Tahun Gajah, dan merupakan laki-laki pertama yang memeluk Islam."
+      "arabic": "هُوَ عَبْدُ اللَّهِ بْنُ أَبِي قُحَافَةَ، أَوَّلُ مَنْ أَسْلَمَ مِنَ الرِّجَالِ، وَأَوَّلُ الْخُلَفَاءِ الرَّاشِدِينَ. بويِعَ لَهُ بِالْخِلَافَةِ يَوْمَ وَفَاةِ النَّبِيِّ ﷺ فِي سَقِيفَةِ بَنِي سَاعِدَةَ.",
+      "translation": "Beliau adalah Abdullah bin Abi Quhafah, orang laki-laki pertama yang masuk Islam, dan merupakan Khalifah Rasyidin yang pertama. Beliau dibaiat sebagai khalifah pada hari wafatnya Nabi ﷺ di Saqifah Bani Sa'idah."
     },
     {
-      "title": "Khalifah Kedua: Umar bin al-Khattab",
+      "title": "Khalifah Umar ibn al-Khattab",
       "titleArabic": "عُمَرُ بْنُ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ",
-      "arabic": "أَبُو حَفْصٍ عُمَرُ بْنُ الْخَطَّابِ بْنِ نُفَيْلٍ الْقُرَشِيُّ الْعَدَوِيُّ، لُقِّبَ بِالْفَارُوقِ... أَسْلَمَ فِي ذِي الْحِجَّةِ مِنَ السَّنَةِ السَّادِسَةِ مِنَ النُّبُوَّةِ.",
-      "translation": "Abu Hafsh Umar bin al-Khattab bin Nufail al-Qurasyi al-Adawi, dijuluki al-Faruq... Masuk Islam pada bulan Dzulhijjah tahun keenam kenabian."
+      "arabic": "أَبُو حَفْصٍ، الْفَارُوقُ، الَّذِي أَعَزَّ اللَّهُ بِهِ الْإِسْلَامَ. وُلِيَ الْخِلَافَةَ بِعَهْدٍ مِنْ أَبِي بَكْرٍ فِي جُمَادَى الْآخِرَةِ سَنَةَ ثَلَاثَ عَشْرَةَ مِنَ الْهِجْرَةِ.",
+      "translation": "Abu Hafsh, al-Faruq, sosok yang melaluinya Allah memuliakan Islam. Beliau menjabat sebagai khalifah melalui wasiat dari Abu Bakar pada bulan Jumadil Akhir tahun 13 Hijriah."
     },
     {
-      "title": "Khalifah Ketiga: Utsman bin Affan",
+      "title": "Khalifah Uthman ibn Affan",
       "titleArabic": "عُثْمَانُ بْنُ عَفَّانَ رَضِيَ اللَّهُ عَنْهُ",
-      "arabic": "أَبُو عَمْرٍو ذُو النُّورَيْنِ عُثْمَانُ بْنُ عَفَّانَ بْنِ أَبِي الْعَاصِ الْقُرَشِيُّ الْأُمَوِيُّ... هَاجَرَ الْهِجْرَتَيْنِ، وَتَزَوَّجَ بِابْنَتَيِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ.",
-      "translation": "Abu Amr Dzu al-Nurain Utsman bin Affan bin Abi al-Ash al-Qurasyi al-Umawi... Beliau berhijrah dua kali dan menikahi dua putri Nabi SAW."
+      "arabic": "أَبُو عَمْرٍو، ذُو النُّورَيْنِ، بويِعَ لَهُ بَعْدَ مَوْتِ عُمَرَ بْنِ الْخَطَّابِ، وَافْتَتَحَ فِي أَيَّامِهِ فُتُوحَاتٍ عَظِيمَةً وَجُمِعَ الْقُرْآنُ فِي مُصْحَفٍ وَاحِدٍ.",
+      "translation": "Abu Amr, Dzu al-Nurayn, dibaiat setelah wafatnya Umar bin al-Khattab. Di masa beliaulah terjadi penaklukan-penaklukan besar dan pengumpulan Al-Qur'an ke dalam satu mushaf."
     },
     {
-      "title": "Khalifah Keempat: Ali bin Abi Thalib",
+      "title": "Khalifah Ali ibn Abi Talib",
       "titleArabic": "عَلِيُّ بْنُ أَبِي طَالِبٍ رَضِيَ اللَّهُ عَنْهُ",
-      "arabic": "أَبُو الْحَسَنِ وَأَبُو تُرَابٍ عَلِيُّ بْنُ أَبِي طَالِبِ بْنِ عَبْدِ الْمُطَّلِبِ الْقُرَشِيُّ الْهَاشِمِيُّ... ابْنُ عَمِّ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَصِهْرُهُ.",
-      "translation": "Abu al-Hasan dan Abu Turab, Ali bin Abi Thalib bin Abdul Muthalib al-Qurasyi al-Hasyimi... Sepupu Rasulullah SAW dan menantu beliau."
+      "arabic": "أَبُو الْحَسَنِ، ابْنُ عَمِّ رَسُولِ اللَّهِ ﷺ وَصِهْرُهُ. بويِعَ لَهُ بَعْدَ قَتْلِ عُثْمَانَ، وَكَانَ رَأْسَ الزُّهَّادِ وَأَخْطَبَ الْبُلَغَاءِ.",
+      "translation": "Abu al-Hasan, putra paman Rasulullah ﷺ sekaligus menantu beliau. Beliau dibaiat setelah terbunuhnya Uthman, beliau adalah pemimpin kaum zuhud dan orator paling fasih."
     },
     {
-      "title": "Al-Hasan bin Ali",
-      "titleArabic": "الْحَسَنُ بْنُ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُمَا",
-      "arabic": "هُوَ سَيِّدُ شَبَابِ أَهْلِ الْجَنَّةِ، بَايَعَهُ أَهْلُ الْكُوفَةِ بَعْدَ مَقْتَلِ أَبِيهِ... ثُمَّ تَنَازَلَ عَنِ الْخِلَافَةِ لِمُعَاوِيَةَ حَقْنًا لِدِمَاءِ الْمُسْلِمِينَ.",
-      "translation": "Beliau adalah pemuka pemuda ahli surga, penduduk Kufah membaiatnya setelah pembunuhan ayahnya... kemudian beliau menyerahkan kekhalifahan kepada Muawiyah demi menjaga darah kaum muslimin."
+      "title": "Khalifah Al-Hasan ibn Ali",
+      "titleArabic": "الْحَسَنُ بْنُ عَلِيِّ بْنِ أَبِي طَالِبٍ رَضِيَ اللَّهُ عَنْهُمَا",
+      "arabic": "بويِعَ لَهُ بَعْدَ أَبِيهِ، ثُمَّ سَلَّمَ الْأَمْرَ إِلَى مُعَاوِيَةَ حَقْنًا لِدِمَاءِ الْمُسْلِمِينَ، وَبِذَلِكَ ظَهَرَتْ مُعْجِزَةُ النَّبِيِّ ﷺ فِيهِ.",
+      "translation": "Beliau dibaiat setelah ayahnya, kemudian menyerahkan urusan (kepemimpinan) kepada Muawiyah demi menjaga darah kaum Muslimin, dan dengan itu nampaklah mukjizat Nabi ﷺ pada dirinya."
     },
     {
-      "title": "Muawiyah bin Abi Sufyan",
+      "title": "Khalifah Muawiyah ibn Abi Sufyan",
       "titleArabic": "مُعَاوِيَةُ بْنُ أَبِي سُفْيَانَ",
-      "arabic": "أَوَّلُ مُلُوكِ الْإِسْلَامِ، أَسْلَمَ عَامَ الْفَتْحِ وَكَانَ مِنْ كُتَّابِ الْوَحْيِ.",
-      "translation": "Raja pertama dalam Islam, masuk Islam pada tahun Fathu Makkah dan termasuk di antara para penulis wahyu."
+      "arabic": "أَوَّلُ مُلُوكِ الْإِسْلَامِ، وَكَانَ كَاتِبًا لِلْوَحْيِ. وُلِيَ الْخِلَافَةَ بَعْدَ تَنَازُلِ الْحَسَنِ، وَاسْتَمَرَّتْ دَوْلَتُهُ عِشْرِينَ سَنَةً.",
+      "translation": "Raja pertama dalam Islam, dan beliau adalah penulis wahyu. Beliau menjabat khalifah setelah pengunduran diri al-Hasan, dan kekuasaannya berlangsung selama dua puluh tahun."
     },
     {
-      "title": "Yazid bin Muawiyah",
+      "title": "Khalifah Yazid ibn Muawiyah",
       "titleArabic": "يَزِيدُ بْنُ مُعَاوِيَةَ",
-      "arabic": "بُويِعَ لَهُ بِالْعَهْدِ فِي حَيَاةِ أَبِيهِ، وَفِي زَمَانِهِ كَانَتْ وَقْعَةُ كَرْبَلَاءَ وَاسْتِشْهَادُ الْحُسَيْنِ.",
-      "translation": "Dibaiat sebagai putra mahkota pada masa hidup ayahnya, dan di zamannya terjadi peristiwa Karbala dan syahidnya al-Husain."
+      "arabic": "وُلِيَ بَعْدَ أَبِيهِ، وَفِي أَيَّامِهِ كَانَتْ مَقْتَلُ الْحُسَيْنِ رَضِيَ اللَّهُ عَنْهُ وَوَقْعَةُ الْحَرَّةِ.",
+      "translation": "Beliau menjabat setelah ayahnya, dan di masa pemerintahannya terjadi peristiwa terbunuhnya al-Husain Radhiyallahu 'Anhu serta peristiwa al-Harrah."
     },
     {
-      "title": "Muawiyah bin Yazid",
+      "title": "Khalifah Muawiyah ibn Yazid",
       "titleArabic": "مُعَاوِيَةُ بْنُ يَزِيدَ",
-      "arabic": "وَلِيَ الْخِلَافَةَ بَعْدَ مَوْتِ أَبِيهِ بِعَهْدٍ مِنْهُ، وَلَمْ تَلُ طُولُ مُدَّتِهِ.",
-      "translation": "Memegang jabatan khalifah setelah wafat ayahnya berdasarkan wasiatnya, dan masa jabatannya tidak lama."
+      "arabic": "وُلِيَ بَعْدَ أَبِيهِ وَكَانَ شَابًّا صَالِحًا، لَمْ تطلْ مُدَّتُهُ حَيْثُ خَلَعَ نَفْسَهُ بَعْدَ شُهُورٍ يَسِيرَةٍ.",
+      "translation": "Beliau menjabat setelah ayahnya dan merupakan pemuda yang saleh, masanya tidak lama karena beliau mengundurkan diri setelah beberapa bulan saja."
     },
     {
-      "title": "Abdullah bin al-Zubair",
+      "title": "Khalifah Abdullah ibn al-Zubayr",
       "titleArabic": "عَبْدُ اللَّهِ بْنُ الزُّبَيْرِ",
-      "arabic": "بُويِعَ بِالْخِلَافَةِ بَعْدَ مَوْتِ يَزِيدَ، وَاسْتَحْوَذَ عَلَى الْحِجَازِ وَالْعِرَاقِ وَالشَّامِ إِلَّا يَسِيرًا.",
-      "translation": "Dibaiat sebagai khalifah setelah wafatnya Yazid, dan ia menguasai Hijaz, Irak, dan Syam kecuali sebagian kecil."
+      "arabic": "بويِعَ لَهُ بِالْحِجَازِ وَمِصْرَ وَالْعِرَاقِ وَالشَّامِ إِلَّا قَلِيلًا بَعْدَ مَوْتِ يَزِيدَ، وَاسْتَمَرَّتْ خِلَافَتُهُ تِسْعَ سِنِينَ.",
+      "translation": "Beliau dibaiat di Hijaz, Mesir, Irak, dan sebagian besar Syam setelah wafatnya Yazid, dan kekhalifahannya berlangsung selama sembilan tahun."
     },
     {
-      "title": "Marwan bin al-Hakam",
+      "title": "Khalifah Marwan ibn al-Hakam",
       "titleArabic": "مَرْوَانُ بْنُ الْحَكَمِ",
-      "arabic": "بُويِعَ لَهُ بِالشَّامِ بَعْدَ خَلْعِ مُعَاوِيَةَ بْنِ يَزِيدَ لِنَفْسِهِ.",
-      "translation": "Dibaiat di Syam setelah Muawiyah bin Yazid melengserkan dirinya sendiri."
+      "arabic": "وُلِيَ بَعْدَ مُعَاوِيَةَ بْنِ يَزِيدَ، وَقَامَ بِالشَّامِ وَلَمْ تطلْ مُدَّتُهُ أَيْضًا.",
+      "translation": "Beliau menjabat setelah Muawiyah bin Yazid, memimpin di Syam dan masanya juga tidak lama."
     },
     {
-      "title": "Abdul Malik bin Marwan",
+      "title": "Khalifah Abd al-Malik ibn Marwan",
       "titleArabic": "عَبْدُ الْمَلِكِ بْنُ مَرْوَانَ",
-      "arabic": "كَانَ مِنْ فُقَهَاءِ الْمَدِينَةِ قَبْلَ الْخِلَافَةِ، وَهُوَ الَّذِي ضَرَبَ الدَّنَانِيرَ الْإِسْلَامِيَّةَ.",
-      "translation": "Ia termasuk fuqaha Madinah sebelum menjabat khalifah, dan dialah yang mencetak mata uang dinar Islam."
+      "arabic": "كَانَ عَالِمًا فَقِيهًا قَبْلَ الْخِلَافَةِ، وَهُوَ الَّذِي جَمَعَ النَّاسَ بَعْدَ ابْنِ الزُّبَيْرِ وَضَرَبَ الدَّنَانِيرَ الْإِسْلَامِيَّةَ.",
+      "translation": "Beliau adalah seorang alim dan faqih sebelum menjabat khalifah. Beliaulah yang menyatukan manusia setelah Ibnu al-Zubair dan mencetak dinar Islam."
     },
     {
-      "title": "Al-Walid bin Abdul Malik",
+      "title": "Khalifah Al-Walid ibn Abd al-Malik",
       "titleArabic": "الْوَلِيدُ بْنُ عَبْدِ الْمَلِكِ",
-      "arabic": "فِي زَمَانِهِ فُتِحَتِ الْأَنْدَلُسُ وَبَنَى الْجَامِعَ الْأُمَوِيَّ بِدِمَشْقَ.",
-      "translation": "Di zamannya Andalusia ditaklukkan dan ia membangun Masjid Umayyah di Damaskus."
+      "arabic": "فِي أَيَّامِهِ فُتِحَتِ الْأَنْدَلُسُ وَبُنِيَ الْجَامِعُ الْأُمَوِيُّ بِدِمَشْقَ.",
+      "translation": "Di masanya Andalusia ditaklukkan dan Masjid Umawi di Damaskus dibangun."
     },
     {
-      "title": "Sulaiman bin Abdul Malik",
+      "title": "Khalifah Sulayman ibn Abd al-Malik",
       "titleArabic": "سُلَيْمَانُ بْنُ عَبْدِ الْمَلِكِ",
-      "arabic": "كَانَ مِفْتَاحًا لِلْخَيْرِ، وَهُوَ الَّذِي عَهِدَ بِالْخِلَافَةِ لِعُمَرَ بْنِ عَبْدِ الْعَزِيزِ.",
-      "translation": "Ia adalah pembuka kebaikan, dan dialah yang mewasiatkan kekhalifahan kepada Umar bin Abdul Aziz."
+      "arabic": "كَانَ مِفْتَاحًا لِلْخَيْرِ، وَهُوَ الَّذِي عَهَدَ بِالْخِلَافَةِ لِعُمَرَ بْنِ عَبْدِ الْعَزِيزِ.",
+      "translation": "Beliau adalah kunci kebaikan, dan beliaulah yang mewasiatkan kekhalifahan kepada Umar bin Abdul Aziz."
     },
     {
-      "title": "Umar bin Abdul Aziz",
-      "titleArabic": "عُمَرُ بْنُ عَبْدِ الْعَزِيزِ رَضِيَ اللَّهُ عَنْهُ",
-      "arabic": "الْخَلِيفَةُ الرَّاشِدُ الْخَامِسُ، مَلَأَ الْأَرْضَ عَدْلًا بَعْدَمَا مُلِئَتْ جَوْرًا.",
-      "translation": "Khalifah Rasyidin kelima, ia memenuhi bumi dengan keadilan setelah sebelumnya dipenuhi dengan kezaliman."
+      "title": "Khalifah Umar ibn Abd al-Aziz",
+      "titleArabic": "عُمَرُ بْنُ عَبْدِ الْعَزِيزِ",
+      "arabic": "الْخَلِيفَةُ الصَّالِحُ، أَحَدُ الْخُلَفَاءِ الرَّاشِدِينَ بِمَعْنَى الِاقْتِدَاءِ، مَلَأَ الْأَرْضَ عَدْلًا.",
+      "translation": "Khalifah yang saleh, salah satu dari Khulafaur Rasyidin dalam arti keteladanan, beliau memenuhi bumi dengan keadilan."
     },
     {
-      "title": "Yazid bin Abdul Malik",
+      "title": "Khalifah Yazid ibn Abd al-Malik",
       "titleArabic": "يَزِيدُ بْنُ عَبْدِ الْمَلِكِ",
-      "arabic": "وَلِيَ بِعَهْدِ أَخِيهِ سُلَيْمَانَ، وَاشْتَهَرَ بِشَغَفِهِ بِحَبَابَةَ وَسَلَّامَةَ.",
-      "translation": "Menjabat melalui wasiat saudaranya Sulaiman, dan terkenal karena kegemarannya pada Hababah dan Salamah (biduan)."
+      "arabic": "وُلِيَ بَعْدَ عُمَرَ بْنِ عَبْدِ الْعَزِيزِ، وَكَانَ يُلَقَّبُ بِالْفَتَى.",
+      "translation": "Beliau menjabat setelah Umar bin Abdul Aziz, dan dijuluki sebagai sang pemuda."
     },
     {
-      "title": "Hisham bin Abdul Malik",
+      "title": "Khalifah Hisham ibn Abd al-Malik",
       "titleArabic": "هِشَامُ بْنُ عَبْدِ الْمَلِكِ",
-      "arabic": "كَانَ حَازِمًا رَزِينًا، جَمَعَ الْأَمْوَالَ وَنَظَّمَ الدَّوَاوِينَ.",
-      "translation": "Ia seorang yang tegas dan tenang, ia mengumpulkan harta dan menertibkan administrasi negara (diwan)."
+      "arabic": "كَانَ حَازِمًا مُدَبِّرًا، وَاسْتَمَرَّتْ خِلَافَتُهُ نَحْوَ عِشْرِينَ سَنَةً.",
+      "translation": "Beliau adalah pemimpin yang tegas dan pandai mengatur, kekhalifahannya berlangsung sekitar dua puluh tahun."
     },
     {
-      "title": "Al-Walid bin Yazid",
+      "title": "Khalifah Al-Walid ibn Yazid",
       "titleArabic": "الْوَلِيدُ بْنُ يَزِيدَ",
-      "arabic": "اشْتُهِرَ بِالْفِسْقِ وَالتَّهَاوُنِ بِالدِّينِ حَتَّى قُتِلَ.",
-      "translation": "Terkenal dengan kefasikan dan meremehkan agama hingga ia terbunuh."
+      "arabic": "كَانَ مَشْهُورًا بِاللَّهْوِ وَالْمُجُونِ، وَقُتِلَ فِي أَيَّامِهِ.",
+      "translation": "Beliau terkenal dengan hiburan dan kefasikan, dan beliau terbunuh di masa pemerintahannya."
     },
     {
-      "title": "Yazid bin al-Walid (Al-Naqis)",
+      "title": "Khalifah Yazid ibn al-Walid (Al-Naqis)",
       "titleArabic": "يَزِيدُ بْنُ الْوَلِيدِ (النَّاقِصُ)",
-      "arabic": "سُمِّيَ النَّاقِصَ لِأَنَّهُ نَقَصَ مَقَادِيرَ الْعَطَاءِ الَّتِي زَادَهَا الْوَلِيدُ.",
-      "translation": "Disebut Al-Naqis karena ia mengurangi jumlah pemberian yang sebelumnya ditambah oleh Al-Walid."
+      "arabic": "لُقِّبَ بِالنَّاقِصِ لِأَنَّهُ نَقَصَ زِيَادَةَ الْجُنْدِ، وَكَانَ مَحْمُودَ السِّيرَةِ.",
+      "translation": "Dijuluki Al-Naqis (yang mengurangi) karena beliau mengurangi tunjangan tambahan bagi tentara, namun beliau memiliki perilaku yang terpuji."
     },
     {
-      "title": "Ibrahim bin al-Walid",
+      "title": "Khalifah Ibrahim ibn al-Walid",
       "titleArabic": "إِبْرَاهِيمُ بْنُ الْوَلِيدِ",
-      "arabic": "وَلِيَ بَعْدَ أَخِيهِ يَزِيدَ وَلَمْ يَتِمَّ لَهُ الْأَمْرُ حَتَّى خُلِعَ.",
-      "translation": "Menjabat setelah saudaranya Yazid, namun urusannya tidak sempurna hingga ia dilengserkan."
+      "arabic": "لَمْ يَتِمَّ لَهُ الْأَمْرُ، وَخَلَعَهُ مَرْوَانُ الْحِمَارُ.",
+      "translation": "Urusannya tidak sempurna (tidak stabil), dan beliau digulingkan oleh Marwan al-Himar."
     },
     {
-      "title": "Marwan bin Muhammad (Al-Himar)",
+      "title": "Khalifah Marwan ibn Muhammad (Al-Himar)",
       "titleArabic": "مَرْوَانُ بْنُ مُحَمَّدٍ (الْحِمَارُ)",
-      "arabic": "آخِرُ خُلَفَاءِ بَنِي أُمَيَّةَ بِالشَّامِ، قُتِلَ بِبُوصِيرَ بِمِصْرَ.",
-      "translation": "Khalifah Bani Umayyah terakhir di Syam, terbunuh di Bushir, Mesir."
+      "arabic": "آخِرُ خُلَفَاءِ بَنِي أُمَيَّةَ بِالشَّامِ، وَقُتِلَ بِمِصْرَ عِنْدَ زَوَالِ دَوْلَتِهِمْ.",
+      "translation": "Khalifah terakhir Bani Umayyah di Syam, beliau terbunuh di Mesir saat berakhirnya dinasti mereka."
     },
     {
-      "title": "Awal Daulah Abbasiyah: Abu al-Abbas al-Saffah",
+      "title": "Khalifah Abu al-Abbas al-Saffah",
       "titleArabic": "أَبُو الْعَبَّاسِ السَّفَّاحُ",
-      "arabic": "أَوَّلُ خُلَفَاءِ بَنِي الْعَبَّاسِ، وَلِيَ فِي الْكُوفَةِ سَنَةَ ثِنْتَيْنِ وَثَلَاثِينَ وَمِائَةٍ.",
-      "translation": "Khalifah pertama Bani Abbasiyah, menjabat di Kufah pada tahun 132 H."
+      "arabic": "أَوَّلُ خُلَفَاءِ بَنِي الْعَبَّاسِ، وُلِيَ سَنَةَ ثِنْتَيْنِ وَثَلَاثِينَ وَمِائَةٍ.",
+      "translation": "Khalifah pertama Bani Abbasiyah, menjabat pada tahun 132 Hijriah."
     },
     {
-      "title": "Abu Ja'far al-Mansur",
+      "title": "Khalifah Abu Ja'far al-Mansur",
       "titleArabic": "أَبُو جَعْفَرٍ الْمَنْصُورُ",
-      "arabic": "بَانِي مَدِينَةِ بَغْدَادَ، وَهُوَ الَّذِي أَرْسَى قَوَاعِدَ الدَّوْلَةِ الْعَبَّاسِيَّةِ.",
-      "translation": "Pembangun kota Baghdad, dan dialah yang meletakkan dasar-dasar negara Abbasiyah."
+      "arabic": "بَانِي مَدِينَةِ بَغْدَادَ، وَكَانَ جَبَّارًا، عَالِمًا، بَخِيلًا.",
+      "translation": "Pembangun kota Baghdad, beliau adalah pemimpin yang perkasa, berilmu, namun dikenal kikir."
     },
     {
-      "title": "Al-Mahdi bin al-Mansur",
+      "title": "Khalifah Al-Mahdi ibn al-Mansur",
       "titleArabic": "الْمَهْدِيُّ بْنُ الْمَنْصُورِ",
-      "arabic": "كَانَ جَوَادًا مَمْدُوحًا، تَتَبَّعَ الزَّنَادِقَةَ وَأَبَادَهُمْ.",
-      "translation": "Ia seorang yang dermawan dan terpuji, ia mengejar kaum zindiq dan memusnahkan mereka."
+      "arabic": "كَانَ جَوَادًا، مَحْبُوبًا لَدَى الرَّعِيَّةِ، قَامَ بِتَتَبُّعِ الزَّنَادِقَةِ.",
+      "translation": "Beliau adalah orang yang dermawan, dicintai rakyat, dan gigih mengejar kaum zindiq."
     },
     {
-      "title": "Al-Hadi bin al-Mahdi",
+      "title": "Khalifah Al-Hadi ibn al-Mahdi",
       "titleArabic": "الْهَادِي بْنُ الْمَهْدِيُّ",
-      "arabic": "وَلِيَ بَعْدَ أَبِيهِ، وَكَانَ شَدِيدَ الْبَطْشِ خَافَهُ النَّاسُ.",
-      "translation": "Menjabat setelah ayahnya, ia sangat keras dalam tindakan sehingga orang-orang takut kepadanya."
+      "arabic": "وُلِيَ بَعْدَ أَبِيهِ، وَلَمْ تطلْ مُدَّتُهُ إِلَّا سَنَةً وَأَشْهُرًا.",
+      "translation": "Menjabat setelah ayahnya, masanya tidak lama kecuali hanya satu tahun dan beberapa bulan."
     },
     {
-      "title": "Harun al-Rashid",
+      "title": "Khalifah Harun al-Rashid",
       "titleArabic": "هَارُونُ الرَّشِيدُ",
-      "arabic": "أَشْهَرُ خُلَفَاءِ بَنِي الْعَبَّاسِ، كَانَ يَحُجُّ عَامًا وَيَغْزُو عَامًا.",
-      "translation": "Khalifah Bani Abbasiyah yang paling masyhur, ia berhaji satu tahun dan berperang di tahun berikutnya."
+      "arabic": "أَشْهَرُ خُلَفَاءِ بَنِي الْعَبَّاسِ، كَانَ يَحِجُّ عَامًا وَيَغْزُو عَامًا.",
+      "translation": "Khalifah Bani Abbasiyah yang paling masyhur, beliau berhaji satu tahun dan berperang (jihad) di tahun berikutnya secara bergantian."
     },
     {
-      "title": "Al-Amin bin al-Rashid",
+      "title": "Khalifah Al-Amin ibn al-Rashid",
       "titleArabic": "الْأَمِينُ بْنُ الرَّشِيدِ",
-      "arabic": "وَلِيَ بَعْدَ أَبِيهِ وَكَانَ فِيهِ ضَعْفٌ، وَقُتِلَ فِي الْفِتْنَةِ مَعَ أَخِيهِ الْمَأْمُونِ.",
-      "translation": "Menjabat setelah ayahnya namun memiliki kelemahan, dan ia terbunuh dalam fitnah dengan saudaranya Al-Ma'mun."
+      "arabic": "بويِعَ لَهُ بَعْدَ أَبِيهِ، وَجَرَتْ بَيْنَهُ وَبَيْنَ أَخِيهِ الْمَأْمُونِ حُرُوبٌ حَتَّى قُتِلَ.",
+      "translation": "Dibaiat setelah ayahnya, terjadi perang antara dirinya dan saudaranya al-Ma'mun hingga beliau terbunuh."
     },
     {
-      "title": "Al-Ma'mun bin al-Rashid",
+      "title": "Khalifah Al-Ma'mun ibn al-Rashid",
       "titleArabic": "الْمَأْمُونُ بْنُ الرَّشِيدِ",
-      "arabic": "كَانَ عَارِفًا بِالْعُلُومِ، وَفِي زَمَانِهِ ظَهَرَتْ فِتْنَةُ خَلْقِ الْقُرْآنِ.",
-      "translation": "Ia sangat memahami ilmu pengetahuan, dan di zamannya muncul fitnah Khalq al-Qur'an (Al-Qur'an makhluk)."
+      "arabic": "كَانَ عَالِمًا بِالْفَلْسَفَةِ وَالْكَلَامِ، وَفِي أَيَّامِهِ ظَهَرَتْ فِتْنَةُ خَلْقِ الْقُرْآنِ.",
+      "translation": "Beliau ahli dalam filsafat dan ilmu kalam, di masanya muncul fitnah Khalqul Qur'an (keyakinan Al-Qur'an adalah makhluk)."
     },
     {
-      "title": "Al-Mu'tashim Billah",
+      "title": "Khalifah Al-Mu'tasim Billah",
       "titleArabic": "الْمُعْتَصِمُ بِاللَّهِ",
-      "arabic": "بَنَى مَدِينَةَ سَامَرَّاءَ، وَكَانَ قَوِيَّ الْبَدَنِ شُجَاعًا.",
-      "translation": "Membangun kota Samarra, ia memiliki fisik yang kuat dan pemberani."
+      "arabic": "كَانَ شُجَاعًا، وَهُوَ الَّذِي بَنَى مَدِينَةَ سَامَرَّاءَ.",
+      "translation": "Beliau sangat pemberani, dan beliaulah yang membangun kota Samarra."
     },
     {
-      "title": "Al-Wathiq Billah",
+      "title": "Khalifah Al-Wathiq Billah",
       "titleArabic": "الْوَاثِقُ بِاللَّهِ",
-      "arabic": "وَلِيَ بَعْدَ أَبِيهِ الْمُعْتَصِمِ، وَسَارَ عَلَى نَهْجِ الْمَأْمُونِ فِي الْقَوْلِ بِخَلْقِ الْقُرْآنِ.",
-      "translation": "Menjabat setelah ayahnya Al-Mu'tashim, dan mengikuti manhaj Al-Ma'mun dalam pendapat Al-Qur'an makhluk."
+      "arabic": "كَانَ عَلَى مَذْهَبِ أَخِيهِ وَأَبِيهِ فِي الِاعْتِزَالِ، وَكَانَ جَوَادًا.",
+      "translation": "Beliau mengikuti mazhab saudara dan ayahnya dalam hal I'tizal (Mu'tazilah), dan beliau adalah seorang yang dermawan."
     },
     {
-      "title": "Al-Mutawakkil 'Alallahi",
+      "title": "Khalifah Al-Mutawakkil ala Allah",
       "titleArabic": "الْمُتَوَكِّلُ عَلَى اللَّهِ",
-      "arabic": "أَحْيَا السُّنَّةَ وَأَمَاتَ الْبِدْعَةَ، وَرَفَعَ الْمِحْنَةَ عَنِ النَّاسِ.",
-      "translation": "Menghidupkan sunnah dan mematikan bid'ah, serta mengangkat penderitaan (mihnah) dari masyarakat."
+      "arabic": "أَظْهَرَ السُّنَّةَ وَأَمَاتَ الْبِدْعَةَ، وَنَصَرَ أَهْلَ الْحَدِيثِ.",
+      "translation": "Beliau menampakkan Sunnah dan mematikan bid'ah, serta menolong para ahli hadis."
     },
     {
-      "title": "Al-Muntashir Billah",
+      "title": "Khalifah Al-Muntasir Billah",
       "titleArabic": "الْمُنْتَصِرُ بِاللَّهِ",
-      "arabic": "وَلِيَ بَعْدَ قَتْلِ أَبِيهِ، وَلَمْ تَطُلْ خِلَافَتُهُ إِلَّا شُهُورًا.",
-      "translation": "Menjabat setelah pembunuhan ayahnya, kekhalifahannya hanya berlangsung beberapa bulan."
+      "arabic": "بويِعَ بَعْدَ قَتْلِ أَبِيهِ، وَكَانَ مَحْمُودَ السِّيرَةِ لَكِنْ لَمْ يَطُلْ عُمْرُهُ.",
+      "translation": "Dibaiat setelah terbunuhnya ayahnya, perilakunya terpuji namun usianya tidak panjang."
     },
     {
-      "title": "Al-Musta'in Billah",
+      "title": "Khalifah Al-Musta'in Billah",
       "titleArabic": "الْمُسْتَعِينُ بِاللَّهِ",
-      "arabic": "بُويِعَ لَهُ بَعْدَ مَوْتِ الْمُنْتَصِرِ بِاتِّفَاقِ الْقَادَةِ الْأَتْرَاكِ.",
-      "translation": "Dibaiat setelah wafatnya Al-Muntashir atas kesepakatan para panglima Turki."
+      "arabic": "وُلِيَ فِي أَيَّامِ غَلَبَةِ الْأَتْرَاكِ عَلَى الدَّوْلَةِ.",
+      "translation": "Beliau menjabat pada masa dominasi orang-orang Turki atas pemerintahan."
     },
     {
-      "title": "Al-Mu'tazz Billah",
+      "title": "Khalifah Al-Mu'tazz Billah",
       "titleArabic": "الْمُعْتَزُّ بِاللَّهِ",
-      "arabic": "كَانَ جَمِيلَ الصُّورَةِ، خُلِعَ ثُمَّ قُتِلَ.",
-      "translation": "Ia berwajah tampan, dilengserkan kemudian dibunuh."
+      "arabic": "كَانَ جَمِيلَ الصُّورَةِ، وَقَدْ خُلِعَ وَمَاتَ فِي السِّجْنِ.",
+      "translation": "Beliau memiliki paras yang tampan, namun digulingkan dan wafat di dalam penjara."
     },
     {
-      "title": "Al-Muhtadi Billah",
+      "title": "Khalifah Al-Muhtadi Billah",
       "titleArabic": "الْمُهْتَدِي بِاللَّهِ",
-      "arabic": "كَانَ صَالِحًا عَابِدًا يُشَبَّهُ بِعُمَرَ بْنِ عَبْدِ الْعَزِيزِ فِي زُهْدِهِ.",
-      "translation": "Ia orang saleh dan ahli ibadah, disamakan dengan Umar bin Abdul Aziz dalam kezuhudannya."
+      "arabic": "كَانَ كَعُمَرَ بْنِ عَبْدِ الْعَزِيزِ فِي الزُّهْدِ وَالْعِبَادَةِ.",
+      "translation": "Beliau seperti Umar bin Abdul Aziz dalam hal zuhud dan ibadah."
     },
     {
-      "title": "Al-Mu'tamid 'Alallahi",
+      "title": "Khalifah Al-Mu'tamid ala Allah",
       "titleArabic": "الْمُعْتَمِدُ عَلَى اللَّهِ",
-      "arabic": "فِي زَمَانِهِ كَانَتْ ثَوْرَةُ الزَّنْجِ وَخُرُوجُ الصَّفَّارِ.",
-      "translation": "Di zamannya terjadi pemberontakan Zanj dan munculnya Dinasti Saffariyah."
+      "arabic": "فِي أَيَّامِهِ ظَهَرَتْ دَوْلَةُ بَنِي طُولُونَ بِمِصْرَ.",
+      "translation": "Di masanya muncul Dinasti Thuluniyah di Mesir."
     },
     {
-      "title": "Al-Mu'tadhid Billah",
+      "title": "Khalifah Al-Mu'tadid Billah",
       "titleArabic": "الْمُعْتَضِدُ بِاللَّهِ",
-      "arabic": "لُقِّبَ بِالسَّفَّاحِ الثَّانِي، أَعَادَ لِلْخِلَافَةِ هَيْبَتَهَا.",
-      "translation": "Dijuluki As-Saffah kedua, ia mengembalikan wibawa kekhalifahan."
+      "arabic": "كَانَ شَدِيدَ الْهَيْبَةِ، لُقِّبَ بِالسَّفَّاحِ الثَّانِي لِقُوَّتِهِ.",
+      "translation": "Beliau sangat berwibawa, dijuluki al-Saffah kedua karena kekuatannya."
     },
     {
-      "title": "Al-Muktafi Billah",
+      "title": "Khalifah Al-Muktafi Billah",
       "titleArabic": "الْمُكْتَفِي بِاللَّهِ",
-      "arabic": "فَتَحَ جَزِيرَةَ قُبْرُصَ وَانْتَزَعَ مِصْرَ مِنَ الطُّولُونِيِّينَ.",
-      "translation": "Menaklukkan pulau Siprus dan merebut Mesir dari Dinasti Thuluniyah."
+      "arabic": "اسْتَعَادَ مِصْرَ مِنْ بَنِي طُولُونَ، وَكَانَ مَحْبُوبًا.",
+      "translation": "Beliau merebut kembali Mesir dari Bani Thulun, dan beliau adalah sosok yang dicintai."
     },
     {
-      "title": "Al-Muqtadir Billah",
+      "title": "Khalifah Al-Muqtadir Billah",
       "titleArabic": "الْمُقْتَدِرُ بِاللَّهِ",
-      "arabic": "وَلِيَ وَهُوَ صَبِيٌّ صَغِيرٌ، وَكَانَ لِلنِّسَاءِ وَالْخَدَمِ نُفُوذٌ فِي دَوْلَتِهِ.",
-      "translation": "Menjabat saat masih kecil, dan kaum wanita serta pelayan memiliki pengaruh besar dalam negaranya."
+      "arabic": "وُلِيَ وَهُوَ صَبِيٌّ، وَكَانَتِ الدَّوْلَةُ فِي ضَعْفٍ لِتَحَكُّمِ النِّسَاءِ وَالْخَدَمِ.",
+      "translation": "Beliau menjabat saat masih kecil, pemerintahan menjadi lemah karena dominasi kaum wanita dan pelayan."
     },
     {
-      "title": "Al-Qahir Billah",
+      "title": "Khalifah Al-Qahir Billah",
       "titleArabic": "الْقَاهِرُ بِاللَّهِ",
       "arabic": "كَانَ سَفَّاكًا لِلدِّمَاءِ، خُلِعَ وَسُمِلَتْ عَيْنَاهُ.",
-      "translation": "Ia seorang penumpah darah, dilengserkan dan kedua matanya dicungkil."
+      "translation": "Beliau adalah seorang penumpah darah, beliau digulingkan dan matanya dibutakan."
     },
     {
-      "title": "Al-Radhi Billah",
+      "title": "Khalifah Al-Radi Billah",
       "titleArabic": "الرَّاضِي بِاللَّهِ",
-      "arabic": "كَانَ آخِرَ خَلِيفَةٍ لَهُ خُطْبَةٌ وَشِعْرٌ وَجَلِيسٌ.",
-      "translation": "Ia khalifah terakhir yang memiliki khutbah, syair, dan teman bicara (nadim)."
+      "arabic": "كَانَ آخِرَ خَلِيفَةٍ لَهُ شِعْرٌ وَآخِرَ مَنْ خَطَبَ يَوْمَ الْجُمُعَةِ.",
+      "translation": "Beliau adalah khalifah terakhir yang memiliki karya syair dan terakhir yang berkhutbah pada hari Jumat."
     },
     {
-      "title": "Al-Muttaqi Lillah",
+      "title": "Khalifah Al-Muttaqi Lillah",
       "titleArabic": "الْمُتَّقِي لِلَّهِ",
-      "arabic": "وَلِيَ بَعْدَ أَخِيهِ الرَّاضِي، وَسُمِلَتْ عَيْنَاهُ أَيْضًا بَعْدَ خَلْعِهِ.",
-      "translation": "Menjabat setelah saudaranya Al-Radhi, dan matanya juga dicungkil setelah dilengserkan."
+      "arabic": "خُلِعَ وَسُمِلَتْ عَيْنَاهُ كَمَا فُعِلَ بِالْقَاهِرِ.",
+      "translation": "Beliau digulingkan dan matanya dibutakan sebagaimana yang dilakukan pada al-Qahir."
     },
     {
-      "title": "Al-Mustakfi Billah",
+      "title": "Khalifah Al-Mustakfi Billah",
       "titleArabic": "الْمُسْتَكْفِي بِاللَّهِ",
-      "arabic": "فِي عَهْدِهِ دَخَلَ بَنُو بُوَيْه بَغْدَادَ وَاسْتَحْوَذُوا عَلَى السَّلْطَنَةِ.",
-      "translation": "Di masanya Bani Buyaih masuk ke Baghdad dan menguasai kesultanan."
+      "arabic": "فِي أَيَّامِهِ دَخَلَ بَنُو بُوَيْهِ بَغْدَادَ وَاسْتَوْلَوْا عَلَى الْأَمْرِ.",
+      "translation": "Di masanya Bani Buwaihi memasuki Baghdad dan menguasai urusan pemerintahan."
     },
     {
-      "title": "Al-Muthi' Lillah",
+      "title": "Khalifah Al-Muti' Lillah",
       "titleArabic": "الْمُطِيعُ لِلَّهِ",
-      "arabic": "كَانَ ضَعِيفًا فِي يَدِ الْبُوَيْهِيِّينَ، وَفِي زَمَانِهِ انْتَزَعَ الْقَرَامِطَةُ الْحَجَرَ الْأَسْوَدَ.",
-      "translation": "Ia lemah di tangan Bani Buyaih, dan di zamannya kaum Qaramithah mencabut Hajar Aswad."
+      "arabic": "دَامَتْ خِلَافَتُهُ تِسْعًا وَعِشْرِينَ سَنَةً وَهُوَ فِي ضَعْفٍ مَعَ بَنِي بُوَيْهِ.",
+      "translation": "Kekhalifahannya berlangsung selama 29 tahun dalam kondisi lemah di bawah kekuasaan Bani Buwaihi."
     },
     {
-      "title": "Al-Thai' Lillah",
+      "title": "Khalifah Al-Ta'i' Lillah",
       "titleArabic": "الطَّائِعُ لِلَّهِ",
-      "arabic": "وَلِيَ بَعْدَ أَبِيهِ الْمُطِيعِ، وَاسْتَمَرَّتْ خِلَافَتُهُ نَحْوَ سَبْعَ عَشْرَةَ سَنَةً.",
-      "translation": "Menjabat setelah ayahnya Al-Muthi', kekhalifahannya berlangsung sekitar tujuh belas tahun."
+      "arabic": "خُلِعَ سَنَةَ إِحْدَى وَثَمَانِينَ وَثَلَاثِمِائَةٍ.",
+      "translation": "Beliau digulingkan pada tahun 381 Hijriah."
     },
     {
-      "title": "Al-Qadir Billah",
+      "title": "Khalifah Al-Qadir Billah",
       "titleArabic": "الْقَادِرُ بِاللَّهِ",
-      "arabic": "كَانَ صَالِحًا، وَطَالَتْ مُدَّتُهُ حَتَّى بَلَغَتْ إِحْدَى وَأَرْبَعِينَ سَنَةً.",
-      "translation": "Ia orang saleh, dan masa jabatannya lama hingga mencapai empat puluh satu tahun."
+      "arabic": "كَانَ صَالِحًا دَيِّنًا، دَامَتْ خِلَافَتُهُ إِحْدَى وَأَرْبَعِينَ سَنَةً.",
+      "translation": "Beliau adalah orang yang saleh dan religius, kekhalifahannya berlangsung selama 41 tahun."
     },
     {
-      "title": "Al-Qa'im Bi-Amrillah",
+      "title": "Khalifah Al-Qa'im Bi-Amrillah",
       "titleArabic": "الْقَائِمُ بِأَمْرِ اللَّهِ",
-      "arabic": "فِي زَمَانِهِ انْتَهَتْ دَوْلَةُ بَنِي بُوَيْه وَدَخَلَ السَّلَاجِقَةُ بَغْدَادَ.",
-      "translation": "Di zamannya berakhirlah kekuasaan Bani Buyaih dan kaum Seljuk masuk ke Baghdad."
+      "arabic": "فِي أَيَّامِهِ ظَهَرَتْ دَوْلَةُ السَّلَاجِقَةِ وَزَالَتْ دَوْلَةُ بَنِي بُوَيْهِ.",
+      "translation": "Di masanya muncul Dinasti Saljuk dan berakhirlah kekuasaan Bani Buwaihi."
     },
     {
-      "title": "Al-Muqtadi Bi-Amrillah",
+      "title": "Khalifah Al-Muqtadi Bi-Amrillah",
       "titleArabic": "الْمُقْتَدِي بِأَمْرِ اللَّهِ",
-      "arabic": "بُويِعَ بَعْدَ مَوْتِ جَدِّهِ الْقَائِمِ، وَكَانَ قَوِيَّ النَّفْسِ.",
-      "translation": "Dibaiat setelah kematian kakeknya Al-Qa'im, dan ia memiliki jiwa yang kuat."
+      "arabic": "كَانَ قَوِيَّ النَّفْسِ، مَحْمُودَ السِّيرَةِ.",
+      "translation": "Beliau berjiwa kuat dan memiliki perilaku yang terpuji."
     },
     {
-      "title": "Al-Mustazhir Billah",
+      "title": "Khalifah Al-Mustazhir Billah",
       "titleArabic": "الْمُسْتَظْهِرُ بِاللَّهِ",
-      "arabic": "فِي عَهْدِهِ كَانَتِ الْحُرُوبُ الصَّلِيبِيَّةُ وَسُقُوطُ الْقُدْسِ.",
-      "translation": "Di masanya terjadi Perang Salib dan jatuhnya Yerusalem."
+      "arabic": "فِي أَيَّامِهِ مَلَكَ الْإِفْرَنْجُ بَيْتَ الْمَقْدِسِ (الْحُرُوبُ الصَّلِيبِيَّةُ).",
+      "translation": "Di masanya bangsa Frank (Salib) menguasai Baitul Maqdis (Perang Salib)."
     },
     {
-      "title": "Al-Mustarsyid Billah",
+      "title": "Khalifah Al-Mustarshid Billah",
       "titleArabic": "الْمُسْتَرْشِدُ بِاللَّهِ",
-      "arabic": "كَانَ شُجَاعًا فَصِيحًا، خَرَجَ لِلْقِتَالِ بِنَفْسِهِ حَتَّى قُتِلَ.",
-      "translation": "Ia pemberani dan fasih, terjun langsung ke medan perang hingga terbunuh."
+      "arabic": "كَانَ شُجَاعًا، خَرَجَ لِلْقِتَالِ بِنَفْسِهِ وَقُتِلَ شَهِيدًا.",
+      "translation": "Beliau sangat berani, keluar untuk berperang secara langsung dan wafat sebagai syahid."
     },
     {
-      "title": "Al-Rasyid Billah",
+      "title": "Khalifah Al-Rashid Billah",
       "titleArabic": "الرَّاشِدُ بِاللَّهِ",
-      "arabic": "وَلِيَ بَعْدَ أَبِيهِ الْمُسْتَرْشِدِ، وَخُلِعَ بَعْدَ مُدَّةٍ يَسِيرَةٍ.",
-      "translation": "Menjabat setelah ayahnya Al-Mustarsyid, dan dilengserkan setelah waktu yang singkat."
+      "arabic": "خَلَعَهُ السُّلْطَانُ مَسْعُودُ السَّلْجُوقِيُّ.",
+      "translation": "Beliau digulingkan oleh Sultan Mas'ud al-Saljuqi."
     },
     {
-      "title": "Al-Muqtafi Li-Amrillah",
+      "title": "Khalifah Al-Muqtafi Li-Amrillah",
       "titleArabic": "الْمُقْتَفِي لِأَمْرِ اللَّهِ",
-      "arabic": "أَعَادَ لِلْخِلَافَةِ اسْتِقْلَالَهَا عَنِ السَّلَاجِقَةِ فِي بَغْدَادَ.",
-      "translation": "Mengembalikan kemandirian kekhalifahan dari pengaruh Seljuk di Baghdad."
+      "arabic": "أَعَادَ هَيْبَةَ الْخِلَافَةِ وَاسْتَقَلَّ بِالْعِرَاقِ عَنِ السَّلَاجِقَةِ.",
+      "translation": "Beliau mengembalikan kewibawaan kekhalifahan dan membebaskan Irak dari pengaruh Saljuk."
     },
     {
-      "title": "Al-Mustanjid Billah",
+      "title": "Khalifah Al-Mustanjid Billah",
       "titleArabic": "الْمُسْتَنْجِدُ بِاللَّهِ",
-      "arabic": "كَانَ عَادِلًا صَارِمًا مَعَ الْمُفْسِدِينَ.",
-      "translation": "Ia adil dan tegas terhadap orang-orang yang berbuat kerusakan."
+      "arabic": "كَانَ مَوْصُوفًا بِالْعَدْلِ وَالْعِلْمِ.",
+      "translation": "Beliau disifati dengan keadilan dan ilmu pengetahuan."
     },
     {
-      "title": "Al-Mustadhi' Bi-Amrillah",
+      "title": "Khalifah Al-Mustadi' Bi-Amrillah",
       "titleArabic": "الْمُسْتَضِيءُ بِأَمْرِ اللَّهِ",
-      "arabic": "فِي زَمَانِهِ أَقَامَ صَلَاحُ الدِّينِ الْأَيُّوبِيُّ الْخُطْبَةَ لِلْعَبَّاسِيِّينَ بِمِصْرَ.",
-      "translation": "Di zamannya, Shalahuddin al-Ayyubi menegakkan khutbah untuk Bani Abbasiyah di Mesir."
+      "arabic": "فِي أَيَّامِهِ فُتِحَتْ مِصْرُ عَلَى يَدِ صَلَاحِ الدِّينِ الْأَيُّوبِيِّ وَخُطِبَ لَهُ بِهَا.",
+      "translation": "Di masanya Mesir ditaklukkan oleh Shalahuddin al-Ayyubi dan khutbah dibacakan atas namanya di sana."
     },
     {
-      "title": "Al-Nashir Li-Dinillah",
+      "title": "Khalifah Al-Nasir Li-Dinillah",
       "titleArabic": "النَّاصِرُ لِدِينِ اللَّهِ",
-      "arabic": "طَالَتْ مُدَّتُهُ جِدًّا، وَكَانَ لَهُ جَوَاسِيسُ فِي كُلِّ مَكَانٍ.",
-      "translation": "Masa jabatannya sangat lama, dan ia memiliki mata-mata di setiap tempat."
+      "arabic": "أَطْوَلُ الْخُلَفَاءِ مُدَّةً، بَقِيَ فِي الْخِلَافَةِ سَبْعًا وَأَرْبَعِينَ سَنَةً.",
+      "translation": "Khalifah dengan masa jabatan terlama, menetap dalam kekhalifahan selama 47 tahun."
     },
     {
-      "title": "Al-Zahir Bi-Amrillah",
+      "title": "Khalifah Al-Zahir Bi-Amrillah",
       "titleArabic": "الظَّاهِرُ بِأَمْرِ اللَّهِ",
-      "arabic": "وَلِيَ تِسْعَةَ أَشْهُرٍ، وَكَانَ يُشَبَّهُ بِعُمَرَ بْنِ عَبْدِ الْعَزِيزِ فِي عَدْلِهِ.",
-      "translation": "Menjabat selama sembilan bulan, dan disamakan dengan Umar bin Abdul Aziz dalam keadilannya."
+      "arabic": "كَانَ خَيْرًا، أَعَادَ الْمَظَالِمَ وَلَمْ تطلْ مُدَّتُهُ.",
+      "translation": "Beliau adalah orang yang baik, mengembalikan hak-hak yang dizalimi namun masanya tidak lama."
     },
     {
-      "title": "Al-Mustansir Billah",
+      "title": "Khalifah Al-Mustansir Billah",
       "titleArabic": "الْمُسْتَنْصِرُ بِاللَّهِ",
-      "arabic": "بَنَى الْمَدْرَسَةَ الْمُسْتَنْصِرِيَّةَ بِبَغْدَادَ.",
-      "translation": "Membangun Madrasah al-Mustansiriyah di Baghdad."
+      "arabic": "بَانِي الْمَدْرَسَةِ الْمُسْتَنْصِرِيَّةِ بِبَغْدَادَ.",
+      "translation": "Pembangun Madrasah al-Mustansiriyah di Baghdad."
     },
     {
-      "title": "Al-Musta'shim Billah (Khalifah Terakhir Baghdad)",
+      "title": "Khalifah Al-Musta'sim Billah",
       "titleArabic": "الْمُسْتَعْصِمُ بِاللَّهِ",
-      "arabic": "آخِرُ خُلَفَاءِ بَغْدَادَ، فِي زَمَانِهِ اجْتَاحَ التَّتَارُ بَغْدَادَ وَقَتَلُوهُ.",
-      "translation": "Khalifah terakhir di Baghdad, di zamannya tentara Tatar (Mongol) menyerbu Baghdad dan membunuhnya."
+      "arabic": "آخِرُ خُلَفَاءِ بَغْدَادَ، فِي أَيَّامِهِ دَخَلَ التَّتَارُ بَغْدَادَ وَقَتَلُوهُ، وَزَالَتْ دَوْلَةُ بَنِي الْعَبَّاسِ هُنَاكَ.",
+      "translation": "Khalifah terakhir di Baghdad, di masanya bangsa Tatar (Mongol) memasuki Baghdad dan membunuhnya, serta berakhirnya Dinasti Abbasiyah di sana."
     },
     {
-      "title": "Khatimah: Ringkasan Khalifah Abbasiyah di Mesir",
-      "titleArabic": "خَاتِمَةٌ فِي خُلَفَاءِ مِصْرَ",
-      "arabic": "انْتَقَلَتِ الْخِلَافَةُ إِلَى الدِّيَارِ الْمِصْرِيَّةِ بَعْدَ وَقْعَةِ التَّتَارِ، وَأَوَّلُهُمُ الْمُسْتَنْصِرُ بِاللَّهِ الثَّانِي.",
-      "translation": "Kekhalifahan berpindah ke negeri Mesir setelah serangan Tatar, dan yang pertama dari mereka adalah Al-Mustansir Billah II."
+      "title": "Khalifah Abbasiyah di Mesir (Al-Mustansir Billah II)",
+      "titleArabic": "الْمُسْتَنْصِرُ بِاللَّهِ (الْقَاهِرِيُّ)",
+      "arabic": "أَوَّلُ مَنْ أُقِيمَ مِنَ الْخُلَفَاءِ بِالْقَاهِرَةِ بَعْدَ وَقْعَةِ بَغْدَادَ.",
+      "translation": "Orang pertama yang diangkat sebagai khalifah di Kairo setelah tragedi Baghdad."
+    },
+    {
+      "title": "Khalifah Al-Hakim Bi-Amrillah I",
+      "titleArabic": "الْحَاكِمُ بِأَمْرِ اللَّهِ الْأَوَّلُ",
+      "arabic": "اسْتَمَرَّتْ خِلَافَتُهُ بِالْقَاهِرَةِ زَمَانًا طَوِيلًا.",
+      "translation": "Kekhalifahannya berlangsung di Kairo dalam waktu yang lama."
+    },
+    {
+      "title": "Khalifah Al-Mustakfi Billah (Kairo)",
+      "titleArabic": "الْمُسْتَكْفِي بِاللَّهِ (الْقَاهِرِيُّ)",
+      "arabic": "وُلِيَ بَعْدَ أَبِيهِ فِي دَوْلَةِ الْمَمَالِيكِ.",
+      "translation": "Menjabat setelah ayahnya di bawah naungan Kesultanan Mamluk."
+    },
+    {
+      "title": "Khalifah Al-Wathiq Billah (Kairo)",
+      "titleArabic": "الْوَاثِقُ بِاللَّهِ",
+      "arabic": "بويِعَ لَهُ بَعْدَ خَلْعِ الْمُسْتَكْفِي.",
+      "translation": "Dibaiat setelah penggulingan al-Mustakfi."
+    },
+    {
+      "title": "Khalifah Al-Hakim Bi-Amrillah II",
+      "titleArabic": "الْحَاكِمُ بِأَمْرِ اللَّهِ الثَّانِي",
+      "arabic": "كَانَ عَالِمًا، مُتَوَاضِعًا، مَحْبُوبًا.",
+      "translation": "Beliau adalah seorang yang alim, rendah hati, dan dicintai."
+    },
+    {
+      "title": "Khalifah Al-Mu'tadid Billah II",
+      "titleArabic": "الْمُعْتَضِدُ بِاللَّهِ الثَّانِي",
+      "arabic": "وُلِيَ الْخِلَافَةَ فِي أَيَّامِ السُّلْطَانِ حَسَنٍ.",
+      "translation": "Menjabat khalifah pada masa Sultan Hasan."
+    },
+    {
+      "title": "Khalifah Al-Mutawakkil ala Allah (Kairo)",
+      "titleArabic": "الْمُتَوَكِّلُ عَلَى اللَّهِ (الْقَاهِرِيُّ)",
+      "arabic": "عَظُمَ شَأْنُهُ، وَكَانَ لَهُ صِيتٌ وَاسِعٌ فِي الْبِلَادِ.",
+      "translation": "Kedudukannya menjadi agung, dan beliau memiliki reputasi yang luas di berbagai negeri."
+    },
+    {
+      "title": "Khalifah Al-Wathiq Billah III",
+      "titleArabic": "الْوَاثِقُ بِاللَّهِ",
+      "arabic": "وُلِيَ لِمُدَّةٍ قَصِيرَةٍ ثُمَّ عُزِلَ.",
+      "translation": "Menjabat untuk waktu yang singkat kemudian diberhentikan."
+    },
+    {
+      "title": "Khalifah Al-Musta'sim Billah (Kairo)",
+      "titleArabic": "الْمُسْتَعْصِمُ بِاللَّهِ",
+      "arabic": "وُلِيَ بَعْدَ الْوَاثِقِ.",
+      "translation": "Menjabat setelah al-Wathiq."
+    },
+    {
+      "title": "Khalifah Al-Musta'in Billah (Kairo)",
+      "titleArabic": "الْمُسْتَعِينُ بِاللَّهِ",
+      "arabic": "وُلِيَ الْخِلَافَةَ وَالسَّلْطَنَةَ مَعًا، وَهَذَا لَمْ يَحْدُثْ لِغَيْرِهِ بِمِصْرَ.",
+      "translation": "Menjabat sebagai khalifah sekaligus sultan secara bersamaan, dan ini tidak terjadi pada selain beliau di Mesir."
+    },
+    {
+      "title": "Khalifah Al-Mu'tadid Billah III",
+      "titleArabic": "الْمُعْتَضِدُ بِاللَّهِ الثَّالِثُ",
+      "arabic": "كَانَ مَحْمُودَ السِّيرَةِ، بَقِيَ حَتَّى مَاتَ.",
+      "translation": "Perilakunya terpuji, menjabat hingga wafat."
+    },
+    {
+      "title": "Khalifah Al-Mustakfi Billah III",
+      "titleArabic": "الْمُسْتَكْفِي بِاللَّهِ الثَّالِثُ",
+      "arabic": "وُلِيَ بَعْدَ أَخِيهِ الْمُعْتَضِدِ.",
+      "translation": "Menjabat setelah saudaranya al-Mu'tadid."
+    },
+    {
+      "title": "Khalifah Al-Qa'im Bi-Amrillah (Kairo)",
+      "titleArabic": "الْقَائِمُ بِأَمْرِ اللَّهِ",
+      "arabic": "وُلِيَ فِي أَيَّامِ السُّلْطَانِ إِنَالٍ.",
+      "translation": "Menjabat pada masa Sultan Inal."
+    },
+    {
+      "title": "Khalifah Al-Mustanjid Billah (Kairo)",
+      "titleArabic": "الْمُسْتَنْجِدُ بِاللَّهِ",
+      "arabic": "بويِعَ بَعْدَ خَلْعِ أَخِيهِ الْقَائِمِ.",
+      "translation": "Dibaiat setelah penggulingan saudaranya al-Qa'im."
+    },
+    {
+      "title": "Khalifah Al-Mutawakkil ala Allah II",
+      "titleArabic": "الْمُتَوَكِّلُ عَلَى اللَّهِ الثَّانِي",
+      "arabic": "وُلِيَ بَعْدَ عَمِّهِ، وَهُوَ الَّذِي كَانَ فِي زَمَانِ الْمُؤَلِّفِ.",
+      "translation": "Menjabat setelah pamannya, dan beliaulah yang ada pada zaman penulis (Imam al-Suyuti)."
+    },
+    {
+      "title": "Khatimah (Penutup)",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ",
+      "arabic": "هَذَا مَا تَيَسَّرَ جَمْعُهُ مِنْ أَخْبَارِ الْخُلَفَاءِ، وَنَسْأَلُ اللَّهَ أَنْ يَنْفَعَ بِهِ، وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ.",
+      "translation": "Inilah apa yang dimudahkan untuk dikumpulkan dari berita-berita para khalifah, dan kami memohon kepada Allah agar memberikan manfaat dengannya. Segala puji bagi Allah, Tuhan semesta alam."
     }
   ]
 }
