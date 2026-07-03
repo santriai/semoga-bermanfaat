@@ -1,0 +1,158 @@
+{
+  "profile": {
+    "name": "Ghayat al-Wusul",
+    "originalTitle": "غَايَةُ الْوُصُوْلِ إِلَى شَرْحِ لُبِّ الْأُصُوْلِ",
+    "author": "Syaikhul Islam Abu Yahya Zakariyya bin Muhammad bin Ahmad bin Zakariyya al-Ansari",
+    "field": "Ushul al-Fiqh",
+    "about": "Kitab Ghayat al-Wusul merupakan syarah (penjelasan) mendalam atas kitab Lubb al-Ushul, yang merupakan ringkasan dari kitab Jam'u al-Jawami' karya Tajuddin as-Subki. Kitab ini dianggap sebagai salah satu rujukan otoritatif paling tinggi dalam madzhab Syafi'i di bidang Ushul Fiqh. Di dalamnya, Syaikhul Islam Zakariyya al-Ansari menyederhanakan ibarat yang rumit, memberikan batasan (taqyid) pada masalah yang mutlak, serta memperjelas dalil-dalil hukum. Kitab ini menjadi kurikulum wajib di berbagai lembaga pendidikan Islam klasik dan pesantren tingkat tinggi (Ma'had Aly) karena kedalamannya dalam membahas metodologi pengambilan hukum Islam.",
+    "authorBorn": "823 H / 1420 M di Sunaika, Mesir",
+    "authorDied": "926 H / 1520 M di Kairo, Mesir",
+    "authorCentury": "Abad ke-9 dan ke-10 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah: Definisi Ushul Fiqh",
+      "titleArabic": "مُقَدِّمَةُ الْكِتَابِ فِي تَعْرِيْفِ أُصُوْلِ الْفِقْهِ",
+      "arabic": "أُصُوْلُ الْفِقْهِ: طُرُقُهُ عَلَى سَبِيْلِ الْإِجْمَالِ، وَكَيْفِيَّةُ الِاسْتِدْلَالِ بِهَا، وَحَالُ الْمُسْتَدِلِّ. وَالْفِقْهُ: عِلْمٌ بِالْأَحْكَامِ الشَّرْعِيَّةِ الْعَمَلِيَّةِ الْمُكْتَسَبُ مِنْ أَدِلَّتِهَا التَّفْصِيْلِيَّةِ.",
+      "translation": "Ushul Fiqh adalah dalil-dalil fiqh secara global, cara pengambilan dalil darinya, dan kriteria orang yang mengambil dalil (Mujtahid). Sedangkan Fiqh adalah ilmu tentang hukum-hukum syara' yang bersifat amaliyah yang digali dari dalil-dalilnya yang terperinci."
+    },
+    {
+      "title": "Hukum Syara', Hakim, dan Mahkum 'Alaih",
+      "titleArabic": "فَصْلٌ فِي الْحُكْمِ وَالْحَاكِمِ وَالْمَحْكُوْمِ عَلَيْهِ",
+      "arabic": "الْحُكْمُ: خِطَابُ اللهِ الْمُتَعَلِّقُ بِأَفْعَالِ الْمُكَلَّفِيْنَ بِالِاقْتِضَاءِ أَوْ التَّخْيِيْرِ أَوْ الْوَضْعِ. وَالْحَاكِمُ هُوَ اللهُ تَعَالَى، وَالْمَحْكُوْمُ عَلَيْهِ هُوَ الْمُكَلَّفُ.",
+      "translation": "Hukum adalah kalam Allah yang berkaitan dengan perbuatan mukallaf, baik berupa tuntutan (perintah/larangan), pilihan (mubāh), maupun ketetapan (wadh'i). Sang Pembuat Hukum adalah Allah Ta'ala, dan subjek hukum adalah Mukallaf."
+    },
+    {
+      "title": "Al-Kitab (Al-Qur'an)",
+      "titleArabic": "الْكِتَابُ (الْقُرْآنُ الْكَرِيْمُ)",
+      "arabic": "الْكِتَابُ: هُوَ الْقُرْآنُ، وَهُوَ اللَّفْظُ الْمُنَزَّلُ عَلَى مُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ لِلْإِعْجَازِ بِسُوْرَةٍ مِنْهُ.",
+      "translation": "Al-Kitab adalah Al-Qur'an, yaitu lafadz yang diturunkan kepada Nabi Muhammad SAW sebagai mukjizat dengan satu surat darinya."
+    },
+    {
+      "title": "Bahasa Arab dalam Al-Qur'an",
+      "titleArabic": "اللُّغَةُ فِي الْقُرْآنِ",
+      "arabic": "وَالْقُرْآنُ اشْتَمَلَ عَلَى غَيْرِ الْعَرَبِيِّ بِالتَّعْرِيْبِ، وَلَا يَجُوْزُ قِرَاءَتُهُ بِالْمَعْنَى وَلَا بِغَيْرِ الْعَرَبِيَّةِ.",
+      "translation": "Al-Qur'an mencakup kata non-Arab yang telah diarabisasi (ta'rib), dan tidak diperbolehkan membacanya dengan maknanya saja atau dengan selain bahasa Arab."
+    },
+    {
+      "title": "Hakekat dan Majaz",
+      "titleArabic": "فَصْلٌ فِي الْحَقِيْقَةِ وَالْمَجَازِ",
+      "arabic": "الْحَقِيْقَةُ: لَفْظٌ مُسْتَعْمَلٌ فِيْمَا وُضِعَ لَهُ. وَالْمَجَازُ: لَفْظٌ مُسْتَعْمَلٌ فِي غَيْرِ مَا وُضِعَ لَهُ لِعَلَاقَةٍ مَعَ قَرِيْنَةٍ مَانِعَةٍ مِنْ إِرَادَةِ الْأَصْلِ.",
+      "translation": "Hakikat adalah lafadz yang digunakan sesuai dengan makna asalnya. Majaz adalah lafadz yang digunakan bukan pada makna asalnya karena adanya hubungan (alaqah) disertai tanda (qarinah) yang mencegah maksud makna asli."
+    },
+    {
+      "title": "Perintah (Al-Amr)",
+      "titleArabic": "الْأَمْرُ",
+      "arabic": "الْأَمْرُ: اسْتِدْعَاءُ الْفِعْلِ بِالْقَوْلِ عَلَى وَجْهِ الِاسْتِعْلَاءِ، وَصِيْغَتُهُ لِلْوُجُوْبِ حَقِيْقَةً.",
+      "translation": "Perintah (Al-Amr) adalah menuntut perbuatan dengan ucapan dari pihak yang lebih tinggi, dan bentuk perintah (shighat) secara hakiki menunjukkan kewajiban."
+    },
+    {
+      "title": "Larangan (Al-Nahyu)",
+      "titleArabic": "النَّهْيُ",
+      "arabic": "النَّهْيُ: طَلَبُ الْكَفِّ عَنِ الْفِعْلِ بِالْقَوْلِ عَلَى وَجْهِ الِاسْتِعْلَاءِ، وَيَقْتَضِي التَّحْرِيْمَ وَالْفَسَادَ فِي الْعِبَادَاتِ.",
+      "translation": "Larangan (Al-Nahyu) adalah menuntut untuk menahan diri dari perbuatan dengan ucapan dari pihak yang lebih tinggi, dan konsekuensinya adalah keharaman serta kerusakan (batal) pada ibadah."
+    },
+    {
+      "title": "Lafadz Umum (Al-'Amm)",
+      "titleArabic": "الْعَامُّ",
+      "arabic": "الْعَامُّ: لَفْظٌ يَسْتَغْرِقُ جَمِيْعَ مَا يَصْلُحُ لَهُ بِدُفْعَةٍ وَاحِدَةٍ.",
+      "translation": "Lafadz Umum adalah lafadz yang mencakup semua satuan yang pantas baginya dalam satu waktu sekaligus."
+    },
+    {
+      "title": "Pengkhususan (Al-Takhshish)",
+      "titleArabic": "التَّخْصِيْصُ",
+      "arabic": "التَّخْصِيْصُ: قَصْرُ الْعَامِّ عَلَى بَعْضِ أَفْرَادِهِ بِمُخَصِّصٍ مُتَّصِلٍ أَوْ مُنْفَصِلٍ.",
+      "translation": "Takhshish adalah membatasi lafadz umum pada sebagian satuannya saja dengan menggunakan mukhashshish yang menyambung (muttashil) atau terpisah (munfashil)."
+    },
+    {
+      "title": "Lafadz Mutlaq dan Muqayyad",
+      "titleArabic": "الْمُطْلَقُ وَالْمُقَيَّدُ",
+      "arabic": "الْمُطْلَقُ: مَا دَلَّ عَلَى شَائِعٍ فِي جِنْسِهِ. وَالْمُقَيَّدُ: مَا دَلَّ عَلَى مَوْصُوْفٍ بِوَصْفٍ زَائِدٍ عَلَى حَقِيْقَةِ الْجِنْسِ.",
+      "translation": "Mutlaq adalah lafadz yang menunjukkan satuan yang tidak ditentukan dalam jenisnya. Muqayyad adalah lafadz yang menunjukkan satuan yang diberi sifat tambahan melebihi hakikat jenisnya."
+    },
+    {
+      "title": "Lafadz Mujmal dan Mubayyan",
+      "titleArabic": "الْمُجْمَلُ وَالْمُبَيَّنُ",
+      "arabic": "الْمُجْمَلُ: مَا لَمْ تَتَّضِحْ دَلَالَتُهُ. وَالْمُبَيَّنُ: مَا اتَّضَحَتْ دَلَالَتُهُ بِأَصْلِ الْوَضْعِ أَوْ بَعْدَ التَّبْيِيْنِ.",
+      "translation": "Mujmal adalah lafadz yang belum jelas penunjukannya. Mubayyan adalah lafadz yang sudah jelas penunjukannya baik sejak asal peletakan bahasanya atau setelah adanya penjelasan."
+    },
+    {
+      "title": "Abrogasi (Al-Naskh)",
+      "titleArabic": "النَّسْخُ",
+      "arabic": "النَّسْخُ: رَفْعُ حُكْمٍ شَرْعِيٍّ بِدَلِيْلٍ شَرْعِيٍّ مُتَرَاخٍ عَنْهُ.",
+      "translation": "Naskh adalah penghapusan hukum syara' dengan dalil syara' yang datang kemudian."
+    },
+    {
+      "title": "Sunnah (Tradisi Kenabian)",
+      "titleArabic": "السُّنَّةُ",
+      "arabic": "السُّنَّةُ: قَوْلُ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَفِعْلُهُ وَتَقْرِيْرُهُ.",
+      "translation": "Sunnah adalah perkataan, perbuatan, dan ketetapan (diamnya) Nabi SAW."
+    },
+    {
+      "title": "Konsensus (Al-Ijma')",
+      "titleArabic": "الْإِجْمَاعُ",
+      "arabic": "الْإِجْمَاعُ: اتِّفَاقُ مُجْتَهِدِي الْأُمَّةِ بَعْدَ وَفَاةِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِي عَصْرٍ عَلَى أَمْرٍ دِيْنِيٍّ.",
+      "translation": "Ijma' adalah kesepakatan para mujtahid dari umat (Nabi Muhammad) setelah wafatnya beliau pada suatu masa terhadap suatu perkara agama."
+    },
+    {
+      "title": "Analogi (Al-Qiyas)",
+      "titleArabic": "الْقِيَاسُ",
+      "arabic": "الْقِيَاسُ: رَدُّ فَرْعٍ إِلَى أَصْلٍ لِعِلَّةٍ جَامِعَةٍ بَيْنَهُمَا فِي الْحُكْمِ.",
+      "translation": "Qiyas adalah menyamakan suatu perkara cabang kepada perkara pokok karena adanya kesamaan alasan hukum ('illat) di antara keduanya."
+    },
+    {
+      "title": "Rukun Qiyas",
+      "titleArabic": "أَرْكَانُ الْقِيَاسِ",
+      "arabic": "أَرْكَانُهُ أَرْبَعَةٌ: أَصْلٌ، وَفَرْعٌ، وَحُكْمُ الْأَصْلِ، وَعِلَّةٌ.",
+      "translation": "Rukun-rukun Qiyas ada empat: Ashal (perkara pokok), Far'u (cabang), Hukum Ashal, dan 'Illat (alasan hukum)."
+    },
+    {
+      "title": "Syarat 'Illat",
+      "titleArabic": "شُرُوْطُ الْعِلَّةِ",
+      "arabic": "شُرُوْطُ الْعِلَّةِ: أَنْ تَكُوْنَ مُؤَثِّرَةً، مُطَّرِدَةً، مُنْعَكِسَةً، ظَاهِرَةً، مُنْضَبِطَةً.",
+      "translation": "Syarat-syarat 'Illat adalah: harus berpengaruh (muatstsirah), konsisten dalam keberadaannya (mutharidah), konsisten dalam ketiadaannya (mun'akisah), tampak jelas (zhahirah), dan terukur (mundhabithah)."
+    },
+    {
+      "title": "Metode Menemukan 'Illat (Masalikul 'Illat)",
+      "titleArabic": "مَسَالِكُ الْعِلَّةِ",
+      "arabic": "مَسَالِكُ الْعِلَّةِ: النَّصُّ، وَالْإِجْمَاعُ، وَالْإِيْمَاءُ، وَالسَّبْرُ وَالتَّقْسِيْمُ، وَالْمُنَاسَبَةُ، وَالشَّبَهُ.",
+      "translation": "Metode menemukan 'illat meliputi: Nash, Ijma', Isyarat (Ima'), Seleksi dan Pembagian (Sabr wa Taqsim), Kelayakan (Munasabah), dan Kemiripan (Syabah)."
+    },
+    {
+      "title": "Dalil Lain (Al-Istidlal)",
+      "titleArabic": "الِاسْتِدْلَالُ",
+      "arabic": "الِاسْتِدْلَالُ: مِنْهُ اسْتِصْحَابُ الْحَالِ، وَشَرْعُ مَنْ قَبْلَنَا، وَقَوْلُ الصَّحَابِيِّ، وَالْمَصَالِحُ الْمُرْسَلَةُ.",
+      "translation": "Istidlal (penggunaan dalil tambahan) mencakup: Istishab (melestarikan hukum asal), Syariat sebelum kita, perkataan Sahabat, dan Mashalih Mursalah."
+    },
+    {
+      "title": "Kontradiksi Dalil (Al-Ta'arudh)",
+      "titleArabic": "التَّعَارُضُ وَالتَّرْجِيْحُ",
+      "arabic": "إِذَا تَعَارَضَ نَصَّانِ فَالْجَمْعُ، فَإِنْ لَمْ يُمْكِنْ فَالنَّسْخُ، فَإِنْ لَمْ يُمْكِنْ فَالتَّرْجِيْحُ.",
+      "translation": "Apabila terjadi pertentangan antara dua nash, maka dilakukan penggabungan (al-jam'u). Jika tidak mungkin, maka naskh. Jika tidak mungkin, maka dilakukan tarjih (penguatan salah satu)."
+    },
+    {
+      "title": "Ijtihad",
+      "titleArabic": "الِاجْتِهَادُ",
+      "arabic": "الِاجْتِهَادُ: بَذْلُ الْوُسْعِ فِي نَيْلِ حُكْمٍ شَرْعِيٍّ.",
+      "translation": "Ijtihad adalah mencurahkan segenap kemampuan untuk mendapatkan hukum syara'."
+    },
+    {
+      "title": "Syarat Mujtahid",
+      "titleArabic": "شُرُوْطُ الْمُجْتَهِدِ",
+      "arabic": "شُرُوْطُهُ: الْعِلْمُ بِالْقُرْآنِ، وَالسُّنَّةِ، وَمَوَاقِعِ الْإِجْمَاعِ، وَالْقِيَاسِ، وَاللُّغَةِ الْعَرَبِيَّةِ، وَأُصُوْلِ الْفِقْهِ.",
+      "translation": "Syarat mujtahid adalah: Mengetahui Al-Qur'an, Sunnah, poin-poin Ijma', Qiyas, Bahasa Arab, dan Ushul Fiqh."
+    },
+    {
+      "title": "Taqlid",
+      "titleArabic": "التَّقْلِيْدُ",
+      "arabic": "التَّقْلِيْدُ: قَبُوْلُ قَوْلِ الْغَيْرِ مِنْ غَيْرِ مَعْرِفَةِ دَلِيْلِهِ.",
+      "translation": "Taqlid adalah menerima pendapat orang lain tanpa mengetahui dalilnya."
+    },
+    {
+      "title": "Khatimah (Penutup)",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ",
+      "arabic": "خَاتِمَةٌ: نَسْأَلُ اللهَ أَنْ يَنْفَعَ بِهَذَا الْكِتَابِ، وَأَنْ يَجْعَلَهُ خَالِصًا لِوَجْهِهِ الْكَرِيْمِ.",
+      "translation": "Penutup: Kami memohon kepada Allah agar kitab ini bermanfaat dan menjadikannya murni hanya karena mengharap ridha-Nya yang Mulia."
+    }
+  ]
+}
