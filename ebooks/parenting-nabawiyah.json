@@ -1,344 +1,314 @@
 {
   "profile": {
     "name": "Parenting Nabawiyah",
-    "originalTitle": "التَّرْبِيَةُ النَّبَوِيَّةُ",
-    "author": "Ustadz Budi Ashari, Lc",
-    "field": "Tarbiyah Islamiyah / Sirah Nabawiyah",
-    "about": "Kitab ini merupakan panduan komprehensif mengenai pendidikan anak yang bersumber dari metodologi Rasulullah SAW dan para sahabat. Penulis mengontekstualisasikan teks-teks klasik (turath) dan sirah nabawiyah ke dalam problematika pengasuhan modern. Materi di dalamnya mencakup fase pra-nikah, masa kehamilan, hingga detail pendidikan di usia remaja. Fokus utamanya adalah membangun peradaban melalui institusi keluarga dengan visi yang kokoh. Kitab ini menjadi rujukan penting di lingkungan pesantren dan aktivis dakwah dalam memahami konsep 'insan kamil' sejak dini.",
-    "authorBorn": "Jakarta, 1974",
-    "authorDied": "Masih Hidup (Hafizhahullah)",
-    "authorCentury": "Abad ke-21 / Abad ke-15 Hijriyah"
+    "originalTitle": "التربية النبوية في ضوء السيرة والقرآن",
+    "author": "Budi Ashari, Lc.",
+    "field": "Tarbiyah (Pendidikan Islam) & Sirah Nabawiyah",
+    "about": "Kitab ini merupakan panduan komprehensif pola asuh anak yang disusun berdasarkan metodologi Al-Quran, Sunnah, dan sejarah peradaban Islam yang gemilang. Penulis menyajikan narasi pendidikan yang tidak hanya berfokus pada teknik psikologi modern, melainkan mengembalikan akar pendidikan pada visi besar melahirkan generasi 'Ibadurrahman' dan pemimpin masa depan. Di dalamnya dibahas fase-fase pertumbuhan manusia mulai dari pemilihan jodoh, masa kehamilan, hingga anak mencapai usia baligh dan siap memikul tanggung jawab peradaban. Kitab ini menjadi rujukan utama di Indonesia dalam menyelaraskan antara teks wahyu dengan realitas pengasuhan kontemporer. Penekanan utamanya adalah bahwa parenting bukan sekadar mengasuh, melainkan proyek besar membangun peradaban melalui keluarga.",
+    "authorBorn": "Bojonegoro, 1974",
+    "authorDied": "Masih Hidup",
+    "authorCentury": "Abad 15 Hijriah / 21 Masehi"
   },
   "chapters": [
     {
-      "title": "Muqaddimah: Visi Besar Keluarga",
-      "titleArabic": "الْمُقَدِّمَةُ: الرُّؤْيَةُ الْكُبْرَى لِلْأُسْرَةِ",
-      "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا قُوا أَنْفُسَكُمْ وَأَهْلِيكُمْ نَارًا وَقُودُهَا النَّاسُ وَالْحِجَارَةُ",
-      "translation": "Wahai orang-orang yang beriman, jagalah dirimu dan keluargamu dari api neraka yang bahan bakarnya adalah manusia dan batu."
+      "title": "Muqaddimah: Urgensi Pendidikan Berbasis Kenabian",
+      "titleArabic": "المقدمة: أهمية التربية النبوية",
+      "arabic": "إِنَّمَا بُعِثْتُ لِأُتَمِّمَ صَالِحَ الْأَخْلَاقِ. فَالرَّحْمَةُ بِالصِّغَارِ وَتَوْقِيرُ الْكِبَارِ مِنْ أَسَاسِ هَذَا الدِّينِ.",
+      "translation": "Sesungguhnya aku diutus hanya untuk menyempurnakan kemuliaan akhlak. Maka menyayangi anak kecil dan menghormati orang dewasa adalah bagian dari pondasi agama ini."
     },
     {
-      "title": "Kriteria Calon Ayah dan Ibu",
-      "titleArabic": "اخْتِيَارُ الزَّوْجَيْنِ",
-      "arabic": "تُنْكَحُ الْمَرْأَةُ لِأَرْبَعٍ: لِمَالِهَا وَلِحَسَبِهَا وَلِجَمَالِهَا وَلِدِينِهَا، فَاظْفَرْ بِذَاتِ الدِّينِ تَرِبَتْ يَدَاكَ",
-      "translation": "Wanita dinikahi karena empat perkara: hartanya, keturunannya, kecantikannya, dan agamanya. Maka pilihlah yang memiliki agama, niscaya engkau akan beruntung."
+      "title": "Visi Besar: Menjadi Imam bagi Orang Bertakwa",
+      "titleArabic": "الرؤية الكبرى: وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+      "arabic": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+      "translation": "Ya Tuhan kami, anugerahkanlah kepada kami pasangan kami dan keturunan kami sebagai penyenang hati (kami), dan jadikanlah kami pemimpin bagi orang-orang yang bertakwa."
     },
     {
-      "title": "Pentingnya Menjaga Nasab",
-      "titleArabic": "أَهَمِّيَّةُ النَّسَبِ",
-      "arabic": "تَخَيَّرُوا لِنُطَفِكُمْ ، وَانْكِحُوا الْأَكْفَاءَ ، وَأَنْكِحُوا إِلَيْهِمْ",
-      "translation": "Pilihlah tempat yang baik untuk sperma kalian, nikahilah orang-orang yang sekufu, dan nikahkanlah anak-anakmu kepada mereka."
+      "title": "Memilih Ibu: Langkah Awal Pendidikan Anak",
+      "titleArabic": "اخْتِيَارُ الزَّوْجَةِ: الْخُطْوَةُ الأُولَى لِلتَّرْبِيَةِ",
+      "arabic": "تُنْكَحُ الْمَرْأَةُ لِأَرْبَعٍ: لِمَالِهَا وَلِحَسَبِهَا وَلِجَمَالِهَا وَلِدِينِهَا، فَاظْفَرْ بِذَاتِ الدِّينِ تَرِبَتْ يَدَاكَ",
+      "translation": "Wanita dinikahi karena empat hal: hartanya, keturunannya, kecantikannya, dan agamanya. Maka pilihlah yang memiliki agama, niscaya engkau akan beruntung."
     },
     {
-      "title": "Adab Berhubungan Suami Istri (Doa)",
-      "titleArabic": "آدَابُ الْجِمَاعِ",
-      "arabic": "بِاسْمِ اللَّهِ، اللَّهُمَّ جَنِّبْنَا الشَّيْطَانَ، وَجَنِّبِ الشَّيْطَانَ مَا رَزَقْتَنَا",
-      "translation": "Dengan nama Allah, ya Allah, jauhkanlah kami dari setan dan jauhkanlah setan dari apa yang Engkau rezekikan kepada kami."
+      "title": "Adab Sebelum Pembuahan (Jima')",
+      "titleArabic": "آدَابُ الْجِمَاعِ قَبْلَ التَّخَلُّقِ",
+      "arabic": "بِسْمِ اللَّهِ ، اللَّهُمَّ جَنِّبْنَا الشَّيْطَانَ ، وَجَنِّبْ الشَّيْطَانَ مَا رَزَقْتَنَا",
+      "translation": "Dengan nama Allah, Ya Allah jauhkanlah kami dari setan, dan jauhkanlah setan dari apa yang Engkau rezekikan kepada kami."
     },
     {
-      "title": "Masa Kehamilan dan Kekuatan Ruhani",
-      "titleArabic": "فَتْرَةُ الْحَمْلِ وَالْقُوَّةُ الرُّوحِيَّةُ",
-      "arabic": "هُوَ الَّذِي خَلَقَكُمْ مِنْ نَفْسٍ وَاحِدَةٍ وَجَعَلَ مِنْهَا زَوْجَهَا لِيَسْكُنَ إِلَيْهَا ۖ فَلَمَّا تَغَشَّاهَا حَمَلَتْ حَمْلًا خَفِيفًا فَمَرَّتْ بِهِ",
-      "translation": "Dialah yang menciptakan kamu dari jiwa yang satu dan darinya Dia menciptakan istrinya, agar dia merasa tenang kepadanya. Maka setelah dia mencampurinya, istrinya itu mengandung kandungan yang ringan, dan teruslah dia merasa ringan."
+      "title": "Masa Kehamilan: Kedekatan Spiritual Ibu dan Janin",
+      "titleArabic": "فَتْرَةُ الْحَمْلِ: الارْتِبَاطُ الرُّوحِيُّ",
+      "arabic": "هُنَالِكَ دَعَا زَكَرِيَّا رَبَّهُ قَالَ رَبِّ هَبْ لِي مِنْ لَدُنْكَ ذُرِّيَّةً طَيِّبَةً إِنَّكَ سَمِيعُ الدُّعَاءِ",
+      "translation": "Di sanalah Zakaria berdoa kepada Tuhannya. Dia berkata: 'Ya Tuhanku, berilah aku keturunan yang baik dari sisi-Mu, sesungguhnya Engkau Maha Mendengar doa'."
     },
     {
-      "title": "Kabar Gembira Kelahiran",
-      "titleArabic": "الْبِشَارَةُ بِالْمَوْلُودِ",
-      "arabic": "فَنَادَتْهُ الْمَلَائِكَةُ وَهُوَ قَائِمٌ يُصَلِّي فِي الْمِحْرَابِ أَنَّ اللَّهَ يُبَشِّرُكَ بِيَحْيَىٰ",
-      "translation": "Kemudian para malaikat memanggilnya, ketika dia berdiri melaksanakan shalat di mihrab, 'Sesungguhnya Allah menyampaikan kabar gembira kepadamu dengan (kelahiran) Yahya'."
+      "title": "Kegembiraan Menyambut Kelahiran",
+      "titleArabic": "الْبُشْرَى عِنْدَ الْوِلَادَةِ",
+      "arabic": "فَبَشَّرْنَاهُ بِغُلَامٍ حَلِيمٍ",
+      "translation": "Maka Kami beri kabar gembira kepadanya dengan (kelahiran) seorang anak yang sangat sabar (Ismail)."
     },
     {
-      "title": "Adzan dan Iqamah pada Bayi",
-      "titleArabic": "الْأَذَانُ فِي أُذُنِ الْمَوْلُودِ",
-      "arabic": "أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَذَّنَ فِي أُذُنِ الْحَسَنِ بْنِ عَلِيٍّ حِينَ وَلَدَتْهُ فَاطِمَةُ بِالصَّلَاةِ",
-      "translation": "Bahwa Nabi SAW mengumandangkan adzan di telinga Hasan bin Ali saat Fatimah melahirkannya, seperti adzan untuk shalat."
+      "title": "Adab Kelahiran: Mengadzani Bayi",
+      "titleArabic": "آدَابُ الْمَوْلُودِ: الْأَذَانُ فِي الْأُذُنِ",
+      "arabic": "رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَذَّنَ فِي أُذُنِ الْحَسَنِ بْنِ عَلِيٍّ حِينَ وَلَدَتْهُ فَاطِمَةُ بِالصَّلَاةِ",
+      "translation": "Aku melihat Rasulullah SAW mengumandangkan adzan di telinga Hasan bin Ali saat dilahirkan oleh Fatimah, seperti adzan shalat."
     },
     {
-      "title": "Praktek Tahnik",
-      "titleArabic": "التَّحْنِيكُ",
-      "arabic": "ذَهَبْتُ بِعَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ... فَمَضَغَ تَمْرَةً ثُمَّ فَرَقَ بِهَا فَاهُ",
-      "translation": "Aku membawa Abdullah bin Abi Thalhah kepada Rasulullah SAW... lalu beliau mengunyah kurma dan mengoleskannya ke mulut bayi itu."
+      "title": "Tahnik: Mendoakan Berkah bagi Bayi",
+      "titleArabic": "التَّحْنِيكُ وَالدُّعَاءُ لِلْمَوْلُودِ",
+      "arabic": "كَانَ يُؤْتَى بِالصِّبْيَانِ فَيُبَرِّكُ عَلَيْهِمْ وَيُحَنِّكُهُمْ",
+      "translation": "Anak-anak (yang baru lahir) didatangkan kepada Nabi, lalu beliau mendoakan keberkahan bagi mereka dan mentahnik mereka."
     },
     {
-      "title": "Waktu Pelaksanaan Aqiqah",
-      "titleArabic": "وَقْتُ الْعَقِيقَةِ",
-      "arabic": "كُلُّ غُلَامٍ رَهِينَةٌ بِعَقِيقَتِهِ تُذْبَحُ عَنْهُ يَوْمَ سَابِعِهِ",
-      "translation": "Setiap anak tergadai dengan aqiqahnya, yang disembelih untuknya pada hari ketujuh kelahirannya."
+      "title": "Pemberian Nama yang Baik (Tasmiyah)",
+      "titleArabic": "تَسْمِيَةُ الْمَوْلُودِ بِالْأَسْمَاءِ الْحَسَنَةِ",
+      "arabic": "تَسَمَّوْا بِأَسْمَاءِ الْأَنْبِيَاءِ، وَأَحَبُّ الْأَسْمَاءِ إِلَى اللَّهِ عَبْدُ اللَّهِ وَعَبْدُ الرَّحْمَنِ",
+      "translation": "Berilah nama dengan nama-nama para Nabi, dan nama yang paling dicintai Allah adalah Abdullah dan Abdurrahman."
     },
     {
-      "title": "Mencukur Rambut dan Sedekah",
-      "titleArabic": "حَلْقُ الرَّأْسِ وَالصَّدَقَةُ",
-      "arabic": "احْلِقِي رَأْسَهُ وَتَصَدَّقِي بِزِنَةِ شَعْرِهِ فِضَّةً عَلَى الْمَسَاكِينِ",
-      "translation": "Cukurlah rambutnya dan bersedekahlah dengan perak seberat timbangan rambutnya kepada orang-orang miskin."
+      "title": "Aqiqah dan Mencukur Rambut",
+      "titleArabic": "الْعَقِيقَةُ وَحَلْقُ الرَّأْسِ",
+      "arabic": "كُلُّ غُلَامٍ رَهِينَةٌ بِعَقِيقَتِهِ، تُذْبَحُ عَنْهُ يَوْمَ سَابِعِهِ، وَيُسَمَّى فِيهِ، وَيُحْلَقُ رَأْسُهُ",
+      "translation": "Setiap anak tergadai dengan aqiqahnya, disembelihkan untuknya pada hari ketujuh, diberi nama, dan dicukur rambut kepalanya."
     },
     {
-      "title": "Pemberian Nama yang Baik",
-      "titleArabic": "تَسْمِيَةُ الْمَوْلُودِ",
-      "arabic": "إِنَّكُمْ تُدْعَوْنَ يَوْمَ الْقِيَامَةِ بِأَسْمَائِكُمْ وَأَسْمَاءِ آبَائِكُمْ ، فَأَحْسِنُوا أَسْمَاءَكُمْ",
-      "translation": "Sesungguhnya kalian akan dipanggil pada hari kiamat dengan nama-nama kalian dan nama-nama ayah kalian, maka perbaguslah nama-nama kalian."
+      "title": "Pentingnya Menyusui (Radha'ah)",
+      "titleArabic": "أَهَمِّيَّةُ الرَّضَاعَةِ حَوْلَيْنِ كَامِلَيْنِ",
+      "arabic": "Para ibu hendaklah menyusukan anak-anaknya selama dua tahun penuh, yaitu bagi yang ingin menyempurnakan penyusuan.",
+      "translation": "Para ibu hendaklah menyusukan anak-anaknya selama dua tahun penuh, bagi yang ingin menyempurnakan penyusuan."
     },
     {
-      "title": "Nama yang Paling Dicintai Allah",
-      "titleArabic": "أَحَبُّ الْأَسْمَاءِ إِلَى اللَّهِ",
-      "arabic": "أَحَبُّ الْأَسْمَاءِ إِلَى اللَّهِ عَبْدُ اللَّهِ وَعَبْدُ الرَّحْمَنِ",
-      "translation": "Nama yang paling dicintai Allah adalah Abdullah dan Abdurrahman."
+      "title": "Fase Usia 0-7 Tahun: Masa Bermain dan Kasih Sayang",
+      "titleArabic": "مَرْحَلَةُ السَّبْعِ الْأُولَى: اللَّعِبُ وَالرَّحْمَةُ",
+      "arabic": "مَنْ كَانَ لَهُ صَبِيٌّ فَلْيَتَصَابَ لَهُ",
+      "translation": "Barangsiapa yang memiliki anak kecil, maka hendaknya ia berlagak seperti anak kecil (bermain dengannya)."
     },
     {
-      "title": "Pelaksanaan Khitan",
-      "titleArabic": "الْخِتَانُ",
-      "arabic": "الْفِطْرَةُ خَمْسٌ: الْخِتَانُ، وَالِاسْتِحْدَادُ، وَقَصُّ الشَّارِبِ، وَتَقْلِيمُ الْأَظْفَارِ، وَنَتْفُ الْإِبِطِ",
-      "translation": "Fitrah itu ada lima: khitan, mencukur bulu kemaluan, memotong kumis, memotong kuku, dan mencabut bulu ketiak."
+      "title": "Menanamkan Tauhid Sejak Dini",
+      "titleArabic": "تَلْقِينُ التَّوْحِيدِ مُنْذُ الصِّغَرِ",
+      "arabic": "يَا غُلَامُ إِنِّي أُعَلِّمُكَ كَلِمَاتٍ: احْفَظِ اللَّهَ يَحْفَظْكَ",
+      "translation": "Wahai anak muda, sesungguhnya aku akan mengajarkanmu beberapa kalimat: Jagalah Allah, niscaya Allah akan menjagamu."
     },
     {
-      "title": "Kewajiban Menyusui Dua Tahun",
-      "titleArabic": "الرَّضَاعَةُ لِحَوْلَيْنِ كَامِلَيْنِ",
-      "arabic": "وَالْوَالِدَاتُ يُرْضِعْنَ أَوْلَادَهُنَّ حَوْلَيْنِ كَامِلَيْنِ ۖ لِمَنْ أَرَادَ أَنْ يُتِمَّ الرَّضَاعَةَ",
-      "translation": "Dan ibu-ibu hendaklah menyusui anak-anaknya selama dua tahun penuh, bagi yang ingin menyempurnakan penyusuan."
+      "title": "Pentingnya Doa Orang Tua untuk Anak",
+      "titleArabic": "دُعَاءُ الْوَالِدَيْنِ لِلْأَوْلَادِ",
+      "arabic": "ثَلَاثُ دَعَوَاتٍ مُسْتَجَابَاتٌ لَا شَكَّ فِيهِنَّ: دَعْوَةُ الْمَظْلُومِ، وَدَعْوَةُ الْمُسَافِرِ، وَدَعْوَةُ الْوَالِدِ عَلَى وَلَدِهِ",
+      "translation": "Ada tiga doa yang mustajab tanpa ragu lagi: doa orang yang terzalimi, doa musafir, dan doa orang tua untuk anaknya."
     },
     {
-      "title": "Adab Menyapih Anak",
-      "titleArabic": "الْفِطَامُ",
-      "arabic": "فَإِنْ أَرَادَا فِصَالًا عَنْ تَرَاضٍ مِنْهُمَا وَتَشَاوُرٍ فَلَا جُنَاحَ عَلَيْهِمَا",
-      "translation": "Apabila keduanya ingin menyapih dengan persetujuan dan musyawarah antara keduanya, maka tidak ada dosa atas keduanya."
-    },
-    {
-      "title": "Pendidikan Tauhid Pertama",
-      "titleArabic": "تَلْقِينُ التَّوْحِيدِ",
-      "arabic": "يَا بُنَيَّ لَا تُشْرِكْ بِاللَّهِ ۖ إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ",
-      "translation": "Wahai anakku, janganlah engkau mempersekutukan Allah, sesungguhnya syirik itu adalah kezaliman yang besar."
-    },
-    {
-      "title": "Menanamkan Cinta kepada Rasul",
-      "titleArabic": "غَرْسُ مَحَبَّةِ الرَّسُولِ",
-      "arabic": "لَا يُؤْمِنُ أَحَدُكُمْ حَتَّى أَكُونَ أَحَبَّ إِلَيْهِ مِنْ وَالِدِهِ وَوَلَدِهِ وَالنَّاسِ أَجْمَعِينَ",
-      "translation": "Tidak beriman salah seorang di antara kalian hingga aku lebih dicintainya daripada orang tuanya, anaknya, dan seluruh manusia."
-    },
-    {
-      "title": "Keteladanan Orang Tua (Qudwah)",
-      "titleArabic": "الْقُدْوَةُ الْحَسَنَةُ",
-      "arabic": "لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ",
+      "title": "Keteladanan Orang Tua (Uswah Hasanah)",
+      "titleArabic": "الْقُدْوَةُ الْحَسَنَةُ مِنَ الْوَالِدَيْنِ",
+      "arabic": "لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ",
       "translation": "Sungguh telah ada pada diri Rasulullah itu suri teladan yang baik bagimu."
     },
     {
-      "title": "Memerintah Shalat pada Usia Tujuh Tahun",
-      "titleArabic": "الْأَمْرُ بِالصَّلَاةِ لِسَبْعِ سِنِينَ",
-      "arabic": "مُرُوا أَوْلَادَكُمْ بِالصَّلَاةِ وَهُمْ أَبْنَاءُ سَبْعِ سِنِينَ",
-      "translation": "Perintahkanlah anak-anakmu melaksanakan shalat ketika mereka berusia tujuh tahun."
+      "title": "Fase Usia 7-10 Tahun: Perintah Shalat dan Kedisiplinan",
+      "titleArabic": "مَرْحَلَةُ التَّأْدِيبِ: الصَّلَاةُ فِي السَّابِعَةِ",
+      "arabic": "مُرُوا أَوْلَادَكُمْ بِالصَّلَاةِ وَهُمْ أَبْنَاءُ سَبْعِ سِنِينَ",
+      "translation": "Perintahkanlah anak-anakmu untuk melaksanakan shalat ketika mereka berumur tujuh tahun."
     },
     {
-      "title": "Ketegasan Shalat pada Usia Sepuluh Tahun",
-      "titleArabic": "الضَّرْبُ عَلَى الصَّلَاةِ لِعَشْرِ سِنِينَ",
-      "arabic": "وَاضْرِبُوهُمْ عَلَيْهَا وَهُمْ أَبْنَاءُ عَشْرِ سِنِينَ",
-      "translation": "Dan pukullah mereka (jika meninggalkan shalat) ketika mereka berusia sepuluh tahun."
+      "title": "Memisahkan Tempat Tidur Anak",
+      "titleArabic": "التَّفْرِيقُ بَيْنَ الْمَضَاجِعِ",
+      "arabic": "وَفَرِّقُوا بَيْنَهُمْ فِي الْمَضَاجِعِ",
+      "translation": "Dan pisahkanlah mereka (anak-anak) dalam tempat tidurnya (saat usia sepuluh tahun)."
     },
     {
-      "title": "Memisahkan Tempat Tidur",
-      "titleArabic": "التَّفْرِيقُ فِي الْمَضَاجِعِ",
-      "arabic": "وَفَرِّقُوا بَيْنَهُمْ فِي الْمَضَاجِعِ",
-      "translation": "Dan pisahkanlah di antara mereka dalam tempat tidurnya."
+      "title": "Hukuman yang Mendidik",
+      "titleArabic": "الضَّرْبُ الْمُؤَدِّبُ غَيْرُ الْمُبَرِّحِ",
+      "arabic": "وَاضْرِبُوهُمْ عَلَيْهَا وَهُمْ أَبْنَاءُ عَشْرٍ",
+      "translation": "Dan pukullah mereka (karena meninggalkan shalat) ketika mereka berumur sepuluh tahun (dengan pukulan yang tidak menyakiti/mendidik)."
     },
     {
-      "title": "Pendidikan Kejujuran",
-      "titleArabic": "التَّرْبِيَةُ عَلَى الصِّدْقِ",
-      "arabic": "عَلَيْكُمْ بِالصِّدْقِ فَإِنَّ الصِّدْقَ يَهْدِي إِلَى الْبِرِّ",
-      "translation": "Hendaklah kalian jujur, karena kejujuran membawa kepada kebaikan."
+      "title": "Adab Masuk Kamar Orang Tua",
+      "titleArabic": "آدَابُ الِاسْتِئْذَانِ لِلْأَطْفَالِ",
+      "arabic": "لِيَسْتَأْذِنْكُمُ الَّذِينَ مَلَكَتْ أَيْمَانُكُمْ وَالَّذِينَ لَمْ يَبْلُغُوا الْحُلُمَ مِنْكُمْ ثَلَاثَ مَرَّاتٍ",
+      "translation": "Hendaklah orang-orang yang kamu miliki dan anak-anak yang belum baligh di antara kamu, meminta izin kepadamu tiga kali (dalam sehari)."
     },
     {
-      "title": "Larangan Berbohong kepada Anak",
-      "titleArabic": "النَّهْيُ عَنِ الْكَذِبِ مَعَ الصِّغَارِ",
-      "arabic": "مَنْ قَالَ لِصَبِيٍّ تَعَالَ هَاكَ ، ثُمَّ لَمْ يُعْطِهِ ، فَهِيَ كَذِبَةٌ",
-      "translation": "Barangsiapa berkata kepada anak kecil 'kemarilah ini (pemberian)', lalu ia tidak memberinya, maka itu adalah kedustaan."
-    },
-    {
-      "title": "Keadilan Terhadap Anak",
-      "titleArabic": "الْعَدْلُ بَيْنَ الْأَوْلَادِ",
-      "arabic": "اتَّقُوا اللَّهَ وَاعْدِلُوا بَيْنَ أَوْلَادِكُمْ",
-      "translation": "Bertakwalah kepada Allah dan berlakulah adil di antara anak-anakmu."
-    },
-    {
-      "title": "Larangan Pilih Kasih",
-      "titleArabic": "النَّهْيُ عَنِ التَّفْضِيلِ",
-      "arabic": "أَيَسُرُّكَ أَنْ يَكُونُوا إِلَيْكَ فِي الْبِرِّ سَوَاءً ؟ قَالَ : بَلَى . قَالَ : فَلَا إِذًا",
-      "translation": "Apakah engkau senang jika mereka semua berbakti kepadamu dengan sama? Ia menjawab: Ya. Nabi bersabda: Jika demikian, janganlah (pilih kasih)."
-    },
-    {
-      "title": "Membangun Kedekatan Emosional",
-      "titleArabic": "بِنَاءُ الْمَوَدَّةِ",
-      "arabic": "إِنَّ اللَّهَ رَفِيقٌ يُحِبُّ الرِّفْقَ فِي الْأَمْرِ كُلِّهِ",
-      "translation": "Sesungguhnya Allah Maha Lembut dan mencintai kelembutan dalam segala urusan."
-    },
-    {
-      "title": "Bermain dengan Anak",
-      "titleArabic": "مُلَاعَبَةُ الصِّبْيَانِ",
-      "arabic": "مَنْ كَانَ لَهُ صَبِيٌّ فَلْيَتَصَابَ لَهُ",
-      "translation": "Barangsiapa memiliki anak kecil, hendaklah ia berlagak seperti anak kecil (bermain bersama mereka)."
-    },
-    {
-      "title": "Membentuk Mentalitas Pemimpin",
-      "titleArabic": "تَرْبِيَةُ رُوحِ الْقِيَادَةِ",
-      "arabic": "كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ",
+      "title": "Membangun Mental Pemimpin",
+      "titleArabic": "بِنَاءُ شَخْصِيَّةِ الْقَائِدِ",
+      "arabic": "كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ",
       "translation": "Setiap kalian adalah pemimpin dan setiap kalian akan dimintai pertanggungjawaban atas kepemimpinannya."
     },
     {
-      "title": "Wasiat kepada Anak (Kisah Ibnu Abbas)",
-      "titleArabic": "وَصِيَّةٌ لِلْغُلَامِ",
-      "arabic": "يَا غُلَامُ إِنِّي أُعَلِّمُكَ كَلِمَاتٍ احْفَظِ اللَّهَ يَحْفَظْكَ",
-      "translation": "Wahai anak, aku ajarkan kepadamu beberapa kalimat: Jagalah Allah niscaya Dia menjagamu."
+      "title": "Mengajarkan Keberanian (Syaja'ah)",
+      "titleArabic": "تَعْلِيمُ الشَّجَاعَةِ فِي النُّفُوسِ",
+      "arabic": "قَالَ رَجُلَانِ مِنَ الَّذِينَ يَخَافُونَ أَنْعَمَ اللَّهُ عَلَيْهِمَا ادْخُلُوا عَلَيْهِمُ الْبَابَ",
+      "translation": "Berkatalah dua orang di antara orang-orang yang takut (kepada Allah) yang Allah telah memberi nikmat atas keduanya: 'Serbulah mereka melalui pintu gerbang itu'."
     },
     {
-      "title": "Melatih Tanggung Jawab",
-      "titleArabic": "التَّدْرِيبُ عَلَى الْمَسْئُولِيَّةِ",
-      "arabic": "مُرُوا الصَّبِيَّ بِالصَّلَاةِ إِذَا بَلَغَ سَبْعَ سِنِينَ",
-      "translation": "Perintahkanlah anak shalat jika mencapai usia tujuh tahun (sebagai bentuk latihan tanggung jawab)."
+      "title": "Kisah-Kisah Al-Quran Sebagai Media Didik",
+      "titleArabic": "الْقَصَصُ الْقُرْآنِيُّ كَوَسِيلَةٍ تَرْبَوِيَّةٍ",
+      "arabic": "نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ الْقَصَصِ بِمَا أَوْحَيْنَا إِلَيْكَ هَذَا الْقُرْآنَ",
+      "translation": "Kami menceritakan kepadamu kisah yang paling baik dengan mewahyukan Al-Quran ini kepadamu."
     },
     {
-      "title": "Adab Meminta Izin (Isti'dzan)",
-      "titleArabic": "الِاسْتِئْذَانُ",
-      "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لِيَسْتَأْذِنْكُمُ الَّذِينَ مَلَكَتْ أَيْمَانُكُمْ وَالَّذِينَ لَمْ يَبْلُغُوا الْحُلُمَ مِنْكُمْ ثَلَاثَ مَرَّاتٍ",
-      "translation": "Wahai orang-orang yang beriman, hendaklah budak-budakmu dan orang-orang yang belum baligh di antara kamu, meminta izin kepada kamu tiga kali."
+      "title": "Membiasakan Makan dengan Tangan Kanan",
+      "titleArabic": "آدَابُ الطَّعَامِ: الْأَكْلُ بِالْيَمِينِ",
+      "arabic": "يَا غُلَامُ، سَمِّ اللَّهَ، وَكُلْ بِيَمِينِكَ، وَكُلْ مِمَّا يَلِيكَ",
+      "translation": "Wahai anak muda, sebutlah nama Allah (Basmalah), makanlah dengan tangan kananmu, dan makanlah dari apa yang ada di dekatmu."
     },
     {
-      "title": "Menghormati Privasi Orang Tua",
-      "titleArabic": "حُرْمَةُ الْبُيُوتِ",
-      "arabic": "إِنَّمَا جُعِلَ الِاسْتِئْذَانُ مِنْ أَجْلِ الْبَصَرِ",
-      "translation": "Sesungguhnya meminta izin itu diwajibkan demi menjaga pandangan."
+      "title": "Menghormati Orang yang Lebih Tua",
+      "titleArabic": "تَوْقِيرُ الْكِبَارِ وَاحْتِرَامُهُمْ",
+      "arabic": "لَيْسَ مِنَّا مَنْ لَمْ يَرْحَمْ صَغِيرَنَا وَيَعْرِفْ شَرَفَ كَبِيرِنَا",
+      "translation": "Bukanlah termasuk golongan kami orang yang tidak menyayangi yang kecil dan tidak mengetahui kemuliaan yang besar (tua)."
     },
     {
-      "title": "Pendidikan Keberanian",
-      "titleArabic": "التَّرْبِيَةُ عَلَى الشَّجَاعَةِ",
-      "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْجُبْنِ",
-      "translation": "Ya Allah, aku berlindung kepada-Mu dari sifat pengecut."
+      "title": "Mendidik Anak Perempuan (Fadhilah Tarbiyatul Banat)",
+      "titleArabic": "فَضْلُ تَرْبِيَةِ الْبَنَاتِ",
+      "arabic": "مَنْ عَالَ جَارِيَتَيْنِ حَتَّى تَبْلُغَا، جَاءَ يَوْمَ الْقِيَامَةِ أَنَا وَهُوَ وَضَمَّ أَصَابِعَهُ",
+      "translation": "Barangsiapa mengasuh dua anak perempuan hingga mereka baligh, maka ia akan datang pada hari kiamat bersamaku (seperti ini), beliau merapatkan jari-jarinya."
     },
     {
-      "title": "Menumbuhkan Jiwa Ksatria",
-      "titleArabic": "بِنَاءُ الْفُرُوسِيَّةِ",
-      "arabic": "عَلِّمُوا أَوْلَادَكُمُ السِّبَاحَةَ وَالرِّمَايَةَ وَرُكُوبَ الْخَيْلِ",
-      "translation": "Ajarkanlah anak-anakmu berenang, memanah, dan berkuda."
+      "title": "Larangan Berbohong pada Anak",
+      "titleArabic": "النَّهْيُ عَنِ الْكَذِبِ عَلَى الْأَطْفَالِ",
+      "arabic": "مَنْ قَالَ لِصَبِيٍّ تَعَالَ هَاكَ ثُمَّ لَمْ يُعْطِهِ فَهِيَ كَذْبَةٌ",
+      "translation": "Barangsiapa berkata kepada seorang anak kecil: 'Kemarilah, ini ambil', kemudian ia tidak memberinya apa-apa, maka itu adalah sebuah kebohongan."
     },
     {
-      "title": "Larangan Mencela Anak",
-      "titleArabic": "النَّهْيُ عَنْ سَبِّ الْأَوْلَادِ",
-      "arabic": "لَا تَدْعُوا عَلَى أَنْفُسِكُمْ وَلَا تَدْعُوا عَلَى أَوْلَادِكُمْ",
-      "translation": "Janganlah kalian mendoakan keburukan bagi dirimu dan jangan mendoakan keburukan bagi anak-anakmu."
+      "title": "Keadilan di Antara Anak-Anak",
+      "titleArabic": "الْعَدْلُ بَيْنَ الْأَوْلَادِ",
+      "arabic": "اتَّقُوا اللَّهَ وَاعْدِلُوا بَيْنَ أَوْلَادِكُمْ",
+      "translation": "Bertakwalah kepada Allah dan berlakulah adil di antara anak-anakmu."
     },
     {
-      "title": "Kekuatan Doa Orang Tua",
-      "titleArabic": "دَعْوَةُ الْوَالِدِ",
-      "arabic": "ثَلَاثُ دَعَوَاتٍ مُسْتَجَابَاتٌ لَا شَكَّ فِيهِنَّ: دَعْوَةُ الْمَظْلُومِ... وَدَعْوَةُ الْوَالِدِ عَلَى وَلَدِهِ",
-      "translation": "Tiga doa yang dikabulkan tanpa keraguan: doa orang terzalimi... dan doa orang tua untuk anaknya."
+      "title": "Mengenalkan Jihad dan Perjuangan",
+      "titleArabic": "تَعْلِيمُ الْجِهَادِ وَالْمَقَاصِدِ الْعُلْيَا",
+      "arabic": "عَلِّمُوا أَوْلَادَكُمُ السِّبَاحَةَ وَالرِّمَايَةَ وَرُكُوبَ الْخَيْلِ",
+      "translation": "Ajarkanlah anak-anakmu berenang, memanah, dan menunggang kuda."
     },
     {
-      "title": "Mengatasi Sifat Kikir pada Anak",
-      "titleArabic": "عِلَاجُ الْبُخْلِ",
-      "arabic": "الْوَلَدُ مَبْخَلَةٌ مَجْبَنَةٌ مَحْزَنَةٌ",
-      "translation": "Anak itu bisa menyebabkan sifat kikir, penakut, dan kesedihan."
-    },
-    {
-      "title": "Pendidikan Sosial (Bergaul)",
-      "titleArabic": "التَّرْبِيَةُ الِاجْتِمَاعِيَّةُ",
-      "arabic": "الْمُؤْمِنُ الَّذِي يُخَالِطُ النَّاسَ وَيَصْبِرُ عَلَى أَذَاهُمْ خَيْرٌ",
-      "translation": "Seorang mukmin yang bergaul dengan manusia dan bersabar atas gangguan mereka adalah lebih baik."
-    },
-    {
-      "title": "Memilih Teman Sebaya",
-      "titleArabic": "اخْتِيَارُ الْجَلِيسِ",
-      "arabic": "الْمَرْءُ عَلَى دِينِ خَلِيلِهِ فَلْيَنْظُرْ أَحَدُكُمْ مَنْ يُخَالِلُ",
-      "translation": "Seseorang itu tergantung pada agama teman dekatnya, maka perhatikanlah siapa yang kalian jadikan teman."
-    },
-    {
-      "title": "Adab Makan dan Minum",
-      "titleArabic": "آدَابُ الطَّعَامِ",
-      "arabic": "يَا غُلَامُ سَمِّ اللَّهَ وَكُلْ بِيَمِينِكَ وَكُلْ مِمَّا يَلِيكَ",
-      "translation": "Wahai anak, sebutlah nama Allah, makanlah dengan tangan kananmu, dan makanlah apa yang ada di dekatmu."
-    },
-    {
-      "title": "Menghargai Pemberian",
-      "titleArabic": "تَقْدِيرُ النِّعْمَةِ",
-      "arabic": "مَا عَابَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ طَعَامًا قَطُّ",
-      "translation": "Nabi SAW tidak pernah mencela makanan sekalipun."
-    },
-    {
-      "title": "Membangun Komunikasi (Hiwar)",
-      "titleArabic": "أُسْلُوبُ الْحِوَارِ",
-      "arabic": "قَالَ يَا بُنَيَّ إِنِّي أَرَىٰ فِي الْمَنَامِ أَنِّي أَذْبَحُكَ فَانْظُرْ مَاذَا تَرَىٰ",
-      "translation": "Dia berkata: Wahai anakku, sesungguhnya aku melihat dalam mimpi bahwa aku menyembelihmu, maka pikirkanlah apa pendapatmu."
-    },
-    {
-      "title": "Menghukum dengan Adil",
-      "titleArabic": "التَّأْدِيبُ بِالْعَدْلِ",
-      "arabic": "إِذَا ضَرَبَ أَحَدُكُمْ فَلْيَجْتَنِبِ الْوَجْهَ",
-      "translation": "Jika salah seorang di antara kalian memukul, maka jauhilah wajah."
-    },
-    {
-      "title": "Mendidik Rasa Malu",
-      "titleArabic": "تَرْبِيَةُ الْحَيَاءِ",
-      "arabic": "الْحَيَاءُ لَا يَأْتِي إِلَّا بِخَيْرٍ",
+      "title": "Membangun Rasa Malu (Haya')",
+      "titleArabic": "غَرْسُ خُلُقِ الْحَيَاءِ",
+      "arabic": "الْحَيَاءُ لَا يَأْتِي إِلَّا بِخَيْرٍ",
       "translation": "Rasa malu itu tidaklah mendatangkan kecuali kebaikan."
     },
     {
-      "title": "Menjaga Pandangan (Ghadhul Bashar)",
-      "titleArabic": "غَضُّ الْبَصَرِ",
-      "arabic": "قُلْ لِلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ",
-      "translation": "Katakanlah kepada laki-laki yang beriman, hendaklah mereka menahan pandangannya."
+      "title": "Mendidik Lisan dan Menjaga Ucapan",
+      "titleArabic": "تَرْبِيَةُ اللِّسَانِ وَحِفْظُ الْجَوَارِحِ",
+      "arabic": "مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ",
+      "translation": "Barangsiapa beriman kepada Allah dan hari akhir, hendaklah ia berkata baik atau diam."
+    },
+    {
+      "title": "Fase Remaja (Baligh): Masa Pertanggungjawaban",
+      "titleArabic": "مَرْحَلَةُ الْبُلُوغِ وَالتَّكْلِيفِ",
+      "arabic": "رُفِعَ الْقَلَمُ عَنْ ثَلَاثَةٍ: عَنِ النَّائِمِ حَتَّى يَسْتَيْقِظَ، وَعَنِ الصَّبِيِّ حَتَّى يَحْتَلِمَ",
+      "translation": "Pena (catatan amal) diangkat dari tiga orang: dari orang yang tidur sampai bangun, dan dari anak kecil sampai ia bermimpi (baligh)."
+    },
+    {
+      "title": "Mendidik Kecintaan kepada Rasulullah",
+      "titleArabic": "غَرْسُ حُبِّ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+      "arabic": "أَدِّبُوا أَوْلَادَكُمْ عَلَى ثَلَاثِ خِصَالٍ: حُبِّ نَبِيِّكُمْ، وَحُبِّ أَهْلِ بَيْتِهِ، وَقِرَاءَةِ الْقُرْآنِ",
+      "translation": "Didiklah anak-anakmu atas tiga perkara: mencintai Nabimu, mencintai ahli baitnya, dan membaca Al-Quran."
+    },
+    {
+      "title": "Cara Menegur Kesalahan Anak",
+      "titleArabic": "أُسْلُوبُ التَّوْجِيهِ عِنْدَ الْخَطَأِ",
+      "arabic": "مَا بَالُ أَقْوَامٍ يَفْعَلُونَ كَذَا وَكَذَا",
+      "translation": "Mengapa ada kaum yang melakukan demikian dan demikian (cara Nabi menegur secara umum tanpa mempermalukan personal)."
+    },
+    {
+      "title": "Pentingnya Lingkungan Shalih (Biah Shalihah)",
+      "titleArabic": "أَهَمِّيَّةُ الْبِيئَةِ الصَّالِحَةِ",
+      "arabic": "مَثَلُ الْجَلِيسِ الصَّالِحِ وَالْجَلِيسِ السَّوْءِ كَمَثَلِ صَاحِبِ الْمِسْكِ وَكِيرِ الْحَدَّادِ",
+      "translation": "Perumpamaan teman yang baik dan teman yang buruk adalah seperti penjual minyak wangi dan tukang pandai besi."
+    },
+    {
+      "title": "Mengenalkan Batasan Halal dan Haram",
+      "titleArabic": "تَعْرِيفُ الْحَلَالِ وَالْحَرَامِ",
+      "arabic": "الْحَلَالُ بَيِّنٌ وَالْحَرَامُ بَيِّنٌ وَبَيْنَهُمَا مُشْتَبِهَاتٌ",
+      "translation": "Yang halal itu jelas dan yang haram itu jelas, dan di antara keduanya terdapat perkara syubhat."
+    },
+    {
+      "title": "Kemandirian Ekonomi Sejak Dini",
+      "titleArabic": "الِاسْتِقْلَالُ الْمَالِيُّ وَالْكَسْبُ الْحَلَالُ",
+      "arabic": "مَا أَكَلَ أَحَدٌ طَعَامًا قَطُّ خَيْرًا مِنْ أَنْ يَأْكُلَ مِنْ عَمَلِ يَدِهِ",
+      "translation": "Tidaklah seseorang memakan makanan yang lebih baik daripada hasil usahanya sendiri."
+    },
+    {
+      "title": "Adab Bertamu dan Meminta Izin",
+      "titleArabic": "آدَابُ الزِّيَارَةِ وَالِاسْتِئْذَانِ",
+      "arabic": "الِاسْتِئْذَانُ ثَلَاثٌ، فَإِنْ أُذِنَ لَكَ وَإِلَّا فَارْجِعْ",
+      "translation": "Meminta izin itu tiga kali, jika diizinkan (masuklah) jika tidak maka pulanglah."
+    },
+    {
+      "title": "Menghargai Bakat Unik Setiap Anak",
+      "titleArabic": "مُرَاعَاةُ الْفُرُوقِ الْفَرْدِيَّةِ",
+      "arabic": "أَرْحَمُ أُمَّتِي بِأُمَّتِي أَبُو بَكْرٍ، وَأَشَدُّهُمْ فِي دِينِ اللَّهِ عُمَرُ، وَأَصْدَقُهُمْ حَيَاءً عُثْمَانُ",
+      "translation": "Umatku yang paling penyayang adalah Abu Bakar, yang paling tegas adalah Umar, yang paling pemalu adalah Utsman (Nabi mengenal keunggulan setiap sahabat)."
+    },
+    {
+      "title": "Mendidik Ketegasan dan Wibawa",
+      "titleArabic": "تَرْبِيَةُ الْعِزَّةِ وَالْهَيْبَةِ",
+      "arabic": "وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ وَلِلْمُؤْمِنِينَ",
+      "translation": "Padahal kekuatan/kemuliaan itu hanyalah bagi Allah, bagi Rasul-Nya dan bagi orang-orang mukmin."
+    },
+    {
+      "title": "Seni Berdialog dengan Anak",
+      "titleArabic": "فَنُّ الْحِوَارِ مَعَ الْأَوْلَادِ",
+      "arabic": "يَا بُنَيَّ إِنَّهَا إِنْ تَكُ مِثْقَالَ حَبَّةٍ مِنْ خَرْدَلٍ فَتَكُنْ فِي صَخْرَةٍ",
+      "translation": "Wahai anakku, sesungguhnya jika ada (suatu perbuatan) seberat biji sawi, dan berada dalam batu..."
+    },
+    {
+      "title": "Mengajarkan Syukur atas Nikmat",
+      "titleArabic": "تَعْلِيمُ الشُّكْرِ عَلَى النِّعَمِ",
+      "arabic": "لَئِنْ شَكَرْتُمْ لَأَزِيدَنَّكُمْ",
+      "translation": "Sesungguhnya jika kamu bersyukur, niscaya Aku akan menambah (nikmat) kepadamu."
+    },
+    {
+      "title": "Mendidik Sabar dalam Kesulitan",
+      "titleArabic": "تَرْبِيَةُ الصَّبْرِ عِنْدَ الشَّدَائِدِ",
+      "arabic": "وَاصْبِرْ عَلَى مَا أَصَابَكَ إِنَّ ذَلِكَ مِنْ عَزْمِ الْأُمُورِ",
+      "translation": "Dan bersabarlah terhadap apa yang menimpamu. Sesungguhnya yang demikian itu termasuk hal-hal yang diutamakan."
+    },
+    {
+      "title": "Menghindari Sifat Manja yang Berlebihan",
+      "titleArabic": "التَّحْذِيرُ مِنَ التَّدَلُّلِ الْمُفْرِطِ",
+      "arabic": "اخْشَوْشِنُوا فَإِنَّ النِّعْمَةَ لَا تَدُومُ",
+      "translation": "Hiduplah dengan sederhana/keras, karena sesungguhnya kenikmatan itu tidak kekal."
+    },
+    {
+      "title": "Peran Ayah Sebagai Pemimpin Pendidikan",
+      "titleArabic": "دَوْرُ الْأَبِ كَقَائِدٍ تَرْبَوِيٍّ",
+      "arabic": "قُوا أَنْفُسَكُمْ وَأَهْلِيكُمْ نَارًا",
+      "translation": "Jagalah dirimu dan keluargamu dari api neraka."
+    },
+    {
+      "title": "Peran Ibu Sebagai Sekolah Pertama (Madrasatul Ula)",
+      "titleArabic": "دَوْرُ الْأُمِّ كَمَدْرَسَةٍ أُولَى",
+      "arabic": "الْأُمُّ مَدْرَسَةٌ إِذَا أَعْدَدْتَهَا .. أَعْدَدْتَ شَعْباً طَيِّبَ الْأَعْرَاقِ",
+      "translation": "Ibu adalah sekolah, jika engkau mempersiapkannya dengan baik, maka engkau telah mempersiapkan bangsa yang baik keturunannya."
     },
     {
       "title": "Menanamkan Cinta Al-Quran",
-      "titleArabic": "حُبُّ الْقُرْآنِ",
-      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
-      "translation": "Sebaik-baik kalian adalah yang mempelajari Al-Quran dan mengajarkannya."
+      "titleArabic": "غَرْسُ حُبِّ الْقُرْآنِ الْكَرِيمِ",
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "translation": "Sebaik-baik kalian adalah orang yang belajar Al-Quran dan mengajarkannya."
     },
     {
-      "title": "Meneladani Generasi Sahabat Kecil",
-      "titleArabic": "الِاقْتِدَاءُ بِصِغَارِ الصَّحَابَةِ",
-      "arabic": "لَقَدْ كَانَ فِيهِمْ عَبْدُ اللَّهِ بْنُ عَبَّاسٍ وَمُعَاذُ بْنُ جَبَلٍ",
-      "translation": "Sungguh pada diri mereka ada Abdullah bin Abbas dan Muadz bin Jabal (sebagai teladan pemuda)."
-    },
-    {
-      "title": "Menyiapkan Mentalitas Mujahid",
-      "titleArabic": "رُوحُ الْجِهَادِ",
-      "arabic": "وَإِذَا اسْتُنْفِرْتُمْ فَانْفِرُوا",
-      "translation": "Dan jika kalian diminta untuk berangkat (berjuang), maka berangkatlah."
-    },
-    {
-      "title": "Menghadapi Masa Pubertas",
-      "titleArabic": "مَرْحَلَةُ الْمُرَاهَقَةِ",
-      "arabic": "وَإِذَا بَلَغَ الْأَطْفَالُ مِنْكُمُ الْحُلُمَ فَلْيَسْتَأْذِنُوا",
-      "translation": "Dan apabila anak-anakmu telah mencapai usia baligh, maka hendaklah mereka meminta izin."
-    },
-    {
-      "title": "Membiasakan Shalat Berjamaah",
-      "titleArabic": "تَعْوِيدُ صَلَاةِ الْجَمَاعَةِ",
-      "arabic": "صَلَاةُ الْجَمَاعَةِ أَفْضَلُ مِنْ صَلَاةِ الْفَذِّ بِسَبْعٍ وَعِشْرِينَ دَرَجَةً",
+      "title": "Mendidik Anak Menjaga Shalat Berjamaah",
+      "titleArabic": "التَّعْوِيدُ عَلَى صَلَاةِ الْجَمَاعَةِ",
+      "arabic": "صَلَاةُ الْجَمَاعَةِ تَفْضُلُ صَلَاةَ الْفَذِّ بِسَبْعٍ وَعِشْرِينَ دَرَجَةً",
       "translation": "Shalat berjamaah lebih utama daripada shalat sendirian sebanyak dua puluh tujuh derajat."
     },
     {
-      "title": "Melatih Puasa Sejak Dini",
-      "titleArabic": "تَدْرِيبُ الصِّيَامِ",
-      "arabic": "كُنَّا نُصَوِّمُ صِبْيَانَنَا فَإِذَا بَكَى أَحَدُهُمْ عَلَى الطَّعَامِ أَعْطَيْنَاهُ اللُّعْبَةَ",
-      "translation": "Kami dahulu melatih anak-anak kami berpuasa, jika salah satu menangis minta makan, kami beri mainan."
+      "title": "Kisah Anak-Anak di Sekitar Nabi",
+      "titleArabic": "قِصَصُ الصِّبْيَانِ حَوْلَ الرَّسُولِ",
+      "arabic": "كُنْتُ خَلْفَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَوْمًا فَقَالَ: يَا غُلَامُ...",
+      "translation": "Suatu hari aku berada di belakang Nabi SAW, lalu beliau bersabda: 'Wahai anak muda...'"
     },
     {
-      "title": "Pendidikan Ekonomi (Kemandirian)",
-      "titleArabic": "الِاسْتِقْلَالُ الْمَالِيُّ",
-      "arabic": "الْيَدُ الْعُلْيَا خَيْرٌ مِنَ الْيَدِ السُّفْلَى",
-      "translation": "Tangan di atas lebih baik daripada tangan di bawah."
-    },
-    {
-      "title": "Mengajarkan Adab Bertamu",
-      "titleArabic": "آدَابُ الزِّيَارَةِ",
-      "arabic": "الِاسْتِئْذَانُ ثَلَاثٌ، فَإِنْ أُذِنَ لَكَ وَإِلَّا فَارْجِعْ",
-      "translation": "Meminta izin itu tiga kali, jika diizinkan (masuklah), jika tidak maka pulanglah."
-    },
-    {
-      "title": "Menanamkan Rasa Percaya Diri",
-      "titleArabic": "الثِّقَةُ بِالنَّفْسِ",
-      "arabic": "الْمُؤْمِنُ الْقَوِيُّ خَيْرٌ وَأَحَبُّ إِلَى اللَّهِ مِنَ الْمُؤْمِنِ الضَّعِيفِ",
+      "title": "Pentingnya Olahraga dan Kesehatan Fisik",
+      "titleArabic": "أَهَمِّيَّةُ الرِّيَاضَةِ وَالصِّحَّةِ الْبَدَنِيَّةِ",
+      "arabic": "الْمُؤْمِنُ الْقَوِيُّ خَيْرٌ وَأَحَبُّ إِلَى اللَّهِ مِنَ الْمُؤْمِنِ الضَّعِيفِ",
       "translation": "Mukmin yang kuat lebih baik dan lebih dicintai Allah daripada mukmin yang lemah."
     },
     {
-      "title": "Khatimah: Doa Keberkahan Keturunan",
-      "titleArabic": "الْخَاتِمَةُ: دُعَاءُ الْبَرَكَةِ",
-      "arabic": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
-      "translation": "Ya Tuhan kami, anugerahkanlah kepada kami istri-istri kami dan keturunan kami sebagai penyenang hati (kami), dan jadikanlah kami imam bagi orang-orang yang bertakwa."
+      "title": "Khatimah: Doa Keistiqomahan dalam Mendidik",
+      "titleArabic": "الخَاتِمَةُ: دُعَاءُ الِاسْتِقَامَةِ فِي التَّرْبِيَةِ",
+      "arabic": "رَبِّ اجْعَلْنِي مُقِيمَ الصَّلَاةِ وَمِنْ ذُرِّيَّتِي رَبَّنَا وَتَقَبَّلْ دُعَاءِ",
+      "translation": "Ya Tuhanku, jadikanlah aku dan anak cucuku orang-orang yang tetap mendirikan shalat, ya Tuhan kami, perkenankanlah doaku."
     }
   ]
 }
