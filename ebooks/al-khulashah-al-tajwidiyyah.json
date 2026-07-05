@@ -1,0 +1,350 @@
+{
+  "profile": {
+    "name": "Al-Khulashah al-Tajwidiyyah",
+    "originalTitle": "الخُلَاصَةُ التَّجْوِيدِيَّةُ",
+    "author": "Asy-Syaikh Ibrahim bin Ahmad al-Marghani al-Tunisi",
+    "field": "Ilmu Tajwid",
+    "about": "Kitab Al-Khulashah al-Tajwidiyyah merupakan ringkasan sistematis mengenai kaidah-kaidah ilmu tajwid yang disusun oleh ulama besar Tunisia, Ibrahim al-Marghani. Kitab ini menjadi rujukan populer di pesantren karena pembahasannya yang padat, akurat, dan mencakup dasar-dasar penting mulai dari hukum nun sukun hingga sifat-sifat huruf. Penulis mengemas materi tajwid secara bertahap sehingga memudahkan para pelajar untuk memahami cara membaca Al-Qur'an sesuai dengan kaidah tartil. Kitab ini sering dianggap sebagai jembatan sebelum mempelajari kitab tajwid yang lebih luas seperti Hidayatul Mustafid atau Matan al-Jazariyyah. Di dalamnya, muallif menyajikan definisi, pembagian hukum, serta contoh yang sangat aplikatif.",
+    "authorBorn": "Tunisia, 1281 H",
+    "authorDied": "Tunisia, 1349 H",
+    "authorCentury": "Abad ke-14 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah (Pendahuluan)",
+      "titleArabic": "المُقَدِّمَةُ",
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ. الْحَمْدُ لِلَّهِ الَّذِي أَنْزَلَ الْقُرْآنَ بِالتَّرْتِيلِ، وَالصَّلَاةُ وَالسَّلَامُ عَلَى سَيِّدِنَا مُحَمَّدٍ خَيْرِ مَنْ نَطَقَ بِالضَّادِ، وَعَلَى آلِهِ وَصَحْبِهِ أَهْلِ الْإِرْشَادِ. أَمَّا بَعْدُ: فَهَذِهِ خُلَاصَةٌ فِي عِلْمِ التَّجْوِيدِ لِلْمُبْتَدِئِينَ.",
+      "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah yang telah menurunkan Al-Qur'an dengan tartil. Shalawat dan salam semoga tercurah kepada junjungan kita Nabi Muhammad, sebaik-baik orang yang melafazkan huruf Dhad, juga kepada keluarga dan para sahabatnya yang ahli petunjuk. Amma ba'du: Ini adalah ringkasan dalam ilmu tajwid bagi para pemula."
+    },
+    {
+      "title": "Mabadi' (Sepuluh Dasar) Ilmu Tajwid",
+      "titleArabic": "مَبَادِئُ عِلْمِ التَّجْوِيدِ",
+      "arabic": "مَبَادِئُ عِلْمِ التَّجْوِيدِ عَشَرَةٌ: حَدُّهُ، مَوْضُوعُهُ، ثَمَرَتُهُ، وَفَضْلُهُ، وَنِسْبَتُهُ، وَوَاضِعُهُ، وَالاِسْمُ، وَالاِسْتِمْدَادُ، حُكْمُ الشَّارِعِ، مَسَائِلُهُ.",
+      "translation": "Dasar-dasar ilmu tajwid ada sepuluh: Definisi, Objek pembahasan, Buah/Manfaatnya, Keutamaannya, Nisbat (keterkaitannya dengan ilmu lain), Peletak dasarnya, Namanya, Sumber pengambilannya, Hukum syari'atnya, dan Masalah-masalah di dalamnya."
+    },
+    {
+      "title": "Hukum Isti'adzah dan Basmalah",
+      "titleArabic": "أَحْكَامُ الاِسْتِعَاذَةِ وَالْبَسْمَلَةِ",
+      "arabic": "تُسْتَحَبُّ الاِسْتِعَاذَةُ عِنْدَ الشُّرُوعِ فِي الْقِرَاءَةِ. وَأَمَّا الْبَسْمَلَةُ فَهِيَ وَاجِبَةٌ فِي أَوَّلِ كُلِّ سُورَةٍ إِلَّا سُورَةَ بَرَاءَةَ.",
+      "translation": "Disunnahkan membaca Isti'adzah saat memulai bacaan. Adapun Basmalah, hukumnya wajib (menurut standar tertentu dalam tartil) di setiap awal surah kecuali Surah Bara'ah (At-Taubah)."
+    },
+    {
+      "title": "Hukum Nun Sakinah dan Tanwin",
+      "titleArabic": "أَحْكَامُ النُّونِ السَّاكِنَةِ وَالتَّنْوِينِ",
+      "arabic": "لِلنُّونِ السَّاكِنَةِ وَالتَّنْوِينِ أَرْبَعَةُ أَحْكَامٍ: الإِظْهَارُ، وَالإِدْغَامُ، وَالإِقْلَابُ، وَالإِخْفَاءُ.",
+      "translation": "Bagi Nun Sukun dan Tanwin terdapat empat hukum: Izhar, Idgham, Iqlab, dan Ikhfa'."
+    },
+    {
+      "title": "Hukum Izhar Halqi",
+      "titleArabic": "الإِظْهَارُ الْحَلْقِيُّ",
+      "arabic": "فَالاِظْهَارُ هُوَ إِخْرَاجُ كُلِّ حَرْفٍ مِنْ مَخْرَجِهِ مِنْ غَيْرِ غُنَّةٍ، وَحُرُوفُهُ سِتَّةٌ: هِيَ الْهَمْزَةُ وَالْهَاءُ وَالْعَيْنُ وَالْحَاءُ وَالْغَيْنُ وَالْخَاءُ.",
+      "translation": "Izhar adalah mengeluarkan setiap huruf dari makhrajnya tanpa disertai dengung (ghunnah). Hurufnya ada enam: Hamzah, Ha', 'Ain, Ha', Ghain, dan Kha'."
+    },
+    {
+      "title": "Hukum Idgham Bighunnah",
+      "titleArabic": "الإِدْغَامُ بِغُنَّةٍ",
+      "arabic": "وَالإِدْغَامُ بِغُنَّةٍ يَكُونُ فِي أَرْبَعَةِ أَحْرُفٍ مَجْمُوعَةٍ فِي لَفْظِ: يَنْمُو. وَهُوَ إِدْخَالُ حَرْفٍ سَاكِنٍ فِي حَرْفٍ مُتَحَرِّكٍ.",
+      "translation": "Idgham Bighunnah terjadi pada empat huruf yang terkumpul dalam lafadz: Yanmu (Ya, Nun, Mim, Wawu). Ia adalah memasukkan huruf mati ke dalam huruf yang berharakat."
+    },
+    {
+      "title": "Hukum Idgham Bila Ghunnah",
+      "titleArabic": "الإِدْغَامُ بِغَيْرِ غُنَّةٍ",
+      "arabic": "وَالإِدْغَامُ بِغَيْرِ غُنَّةٍ يَكُونُ فِي اللَّامِ وَالرَّاءِ.",
+      "translation": "Idgham Bila Ghunnah terjadi pada huruf Lam dan Ra'."
+    },
+    {
+      "title": "Hukum Iqlab",
+      "titleArabic": "حُكْمُ الإِقْلَابِ",
+      "arabic": "وَالإِقْلَابُ هُوَ قَلْبُ النُّونِ السَّاكِنَةِ أَوِ التَّنْوِينِ مِيمًا عِنْدَ الْبَاءِ مَعَ مُرَاعَاةِ الْغُنَّةِ.",
+      "translation": "Iqlab adalah mengubah Nun Sukun atau Tanwin menjadi Mim ketika bertemu huruf Ba' dengan tetap menjaga dengung."
+    },
+    {
+      "title": "Hukum Ikhfa' Haqiqi",
+      "titleArabic": "الإِخْفَاءُ الْحَقِيقِيُّ",
+      "arabic": "وَالإِخْفَاءُ هُوَ النُّطْقُ بِالْحَرْفِ بِحَالَةٍ بَيْنَ الإِظْهَارِ وَالإِدْغَامِ مَعَ بَقَاءِ الْغُنَّةِ، وَحُرُوفُهُ خَمْسَةَ عَشَرَ حَرْفًا.",
+      "translation": "Ikhfa' adalah melafazkan huruf dengan kondisi antara Izhar dan Idgham disertai dengung yang menetap. Hurufnya ada lima belas huruf."
+    },
+    {
+      "title": "Hukum Mim Sakinah",
+      "titleArabic": "أَحْكَامُ الْمِيمِ السَّاكِنَةِ",
+      "arabic": "لِلْمِيمِ السَّاكِنَةِ ثَلَاثَةُ أَحْكَامٍ: الإِخْفَاءُ الشَّفَوِيُّ، وَإِدْغَامُ الْمِثْلَيْنِ الصَّغِيرِ، وَالإِظْهَارُ الشَّفَوِيُّ.",
+      "translation": "Bagi Mim Sukun terdapat tiga hukum: Ikhfa' Syafawi, Idgham Mithlayn Saghir, dan Izhar Syafawi."
+    },
+    {
+      "title": "Ikhfa' Syafawi",
+      "titleArabic": "الإِخْفَاءُ الشَّفَوِيُّ",
+      "arabic": "فَالاِخْفَاءُ الشَّفَوِيُّ يَكُونُ عِنْدَ الْبَاءِ فَقَطْ.",
+      "translation": "Ikhfa' Syafawi terjadi hanya ketika Mim Sukun bertemu dengan huruf Ba'."
+    },
+    {
+      "title": "Idgham Mithlayn Saghir",
+      "titleArabic": "إِدْغَامُ الْمِثْلَيْنِ الصَّغِيرِ",
+      "arabic": "وَإِدْغَامُ الْمِثْلَيْنِ يَكُونُ عِنْدَ مِثْلِهَا (الْمِيمُ).",
+      "translation": "Idgham Mithlayn terjadi ketika Mim Sukun bertemu dengan sesamanya (huruf Mim)."
+    },
+    {
+      "title": "Izhar Syafawi",
+      "titleArabic": "الإِظْهَارُ الشَّفَوِيُّ",
+      "arabic": "وَالإِظْهَارُ الشَّفَوِيُّ يَكُونُ عِنْدَ بَقِيَّةِ الْحُرُوفِ، وَأَشَدُّ مَا يَكُونُ إِظْهَارًا عِنْدَ الْوَاوِ وَالْفَاءِ.",
+      "translation": "Izhar Syafawi terjadi pada sisa huruf lainnya, dan yang paling kuat ke-izhar-annya adalah ketika bertemu huruf Wawu dan Fa'."
+    },
+    {
+      "title": "Hukum Mim dan Nun yang Bertasydid",
+      "titleArabic": "حُكْمُ النُّونِ وَالْمِيمِ الْمُشَدَّدَتَيْنِ",
+      "arabic": "وَغُنَّ مِيمًا ثُمَّ نُونًا شُدِّدَا، وَسَمِّ كُلاًّ حَرْفَ غُنَّةٍ بَدَا.",
+      "translation": "Dengungkanlah Mim dan Nun yang bertasydid, dan namakanlah masing-masing sebagai huruf ghunnah."
+    },
+    {
+      "title": "Hukum Lam al-Ta'rif (Alif Lam)",
+      "titleArabic": "أَحْكَامُ لَامِ أَلْ",
+      "arabic": "لِلَامِ أَلْ حَالَتَانِ: الإِظْهَارُ الْقَمَرِيُّ، وَالإِدْغَامُ الشَّمْسِيُّ.",
+      "translation": "Bagi Lam al-Ta'rif terdapat dua keadaan: Izhar Qamariyah dan Idgham Syamsiyah."
+    },
+    {
+      "title": "Lam Qamariyah",
+      "titleArabic": "اللَّامُ الْقَمَرِيَّةُ",
+      "arabic": "تُظْهَرُ اللَّامُ قَبْلَ أَرْبَعَةَ عَشَرَ حَرْفًا مَجْمُوعَةٍ فِي قَوْلِكَ: ابْغِ حَجَّكَ وَخَفْ عَقِيمَهُ.",
+      "translation": "Lam dibaca Izhar (jelas) sebelum empat belas huruf yang terkumpul dalam kalimat: Ibghi Hajjaka wa Khaf 'Aqimahu."
+    },
+    {
+      "title": "Lam Syamsiyah",
+      "titleArabic": "اللَّامُ الشَّمْسِيَّةُ",
+      "arabic": "تُدْغَمُ اللَّامُ فِي أَرْبَعَةَ عَشَرَ حَرْفًا أُخْرَى، وَهِيَ مَا عَدَا حُرُوفَ الْقَمَرِيَّةِ.",
+      "translation": "Lam di-idgham-kan pada empat belas huruf lainnya, yaitu huruf-huruf selain huruf Qamariyah."
+    },
+    {
+      "title": "Hukum Lam Fi'il",
+      "titleArabic": "لَامُ الْفِعْلِ",
+      "arabic": "وَأَظْهِرَنَّ لَامَ فِعْلٍ مُطْلَقًا، نَحْوُ: قُلْ نَعَمْ، وَالْتَقَى.",
+      "translation": "Dan jelaskanlah (Izhar) Lam Fi'il secara mutlak, contohnya: Qul na'am, dan Iltaqa."
+    },
+    {
+      "title": "Idgham Mutamathilayn",
+      "titleArabic": "الْمُتَمَاثِلَانِ",
+      "arabic": "الْمُتَمَاثِلَانِ: هُمَا الْحَرْفَانِ اللَّذَانِ اتَّحَدَا مَخْرَجًا وَصِفَةً.",
+      "translation": "Mutamathilayn adalah dua huruf yang sama makhraj dan sifatnya."
+    },
+    {
+      "title": "Idgham Mutajanisayn",
+      "titleArabic": "الْمُتَجَانِسَانِ",
+      "arabic": "الْمُتَجَانِسَانِ: هُمَا الْحَرْفَانِ اللَّذَانِ اتَّحَدَا مَخْرَجًا وَاخْتَلَفَا صِفَةً.",
+      "translation": "Mutajanisayn adalah dua huruf yang sama makhrajnya namun berbeda sifatnya."
+    },
+    {
+      "title": "Idgham Mutaqaribayn",
+      "titleArabic": "الْمُتَقَارِبَانِ",
+      "arabic": "الْمُتَقَارِبَانِ: هُمَا الْحَرْفَانِ اللَّذَانِ تَقَارَبَا مَخْرَجًا وَصِفَةً.",
+      "translation": "Mutaqaribayn adalah dua huruf yang berdekatan makhraj dan sifatnya."
+    },
+    {
+      "title": "Pembagian Madd",
+      "titleArabic": "أَقْسَامُ الْمَدِّ",
+      "arabic": "الْمَدُّ قِسْمَانِ: أَصْلِيٌّ وَهُوَ الطَّبِيعِيُّ، وَفَرْعِيٌّ وَهُوَ الْمَوْقُوفُ عَلَى سَبَبٍ.",
+      "translation": "Madd terbagi dua: Ashli (yaitu Madd Tab'i) dan Far'i (yaitu yang bergantung pada sebab)."
+    },
+    {
+      "title": "Madd Tab'i",
+      "titleArabic": "الْمَدُّ الطَّبِيعِيُّ",
+      "arabic": "هُوَ الَّذِي لَا يَتَوَقَّفُ عَلَى سَبَبٍ مِنْ هَمْزٍ أَوْ سُكُونٍ، وَيُمَدُّ حَرَكَتَيْنِ.",
+      "translation": "Adalah madd yang tidak bergantung pada sebab berupa hamzah atau sukun, dan panjangnya dua harakat."
+    },
+    {
+      "title": "Madd Wajib Muttasil",
+      "titleArabic": "الْمَدُّ الْوَاجِبُ الْمُتَّصِلُ",
+      "arabic": "هُوَ أَنْ يَجْتَمِعَ الْمَدُّ وَالْهَمْزَةُ فِي كَلِمَةٍ وَاحِدَةٍ.",
+      "translation": "Adalah berkumpulnya huruf madd dan hamzah dalam satu kata."
+    },
+    {
+      "title": "Madd Ja'iz Munfasil",
+      "titleArabic": "الْمَدُّ الْجَائِزُ الْمُنْفَصِلُ",
+      "arabic": "هُوَ أَنْ يَكُونَ حَرْفُ الْمَدِّ فِي آخِرِ كَلِمَةٍ وَالْهَمْزَةُ فِي أَوَّلِ الْأُخْرَى.",
+      "translation": "Adalah huruf madd berada di akhir kata dan hamzah di awal kata berikutnya."
+    },
+    {
+      "title": "Madd 'Arid Lissukun",
+      "titleArabic": "الْمَدُّ الْعَارِضُ لِلسُّكُونِ",
+      "arabic": "هُوَ أَنْ يَقَعَ بَعْدَ حَرْفِ الْمَدِّ سُكُونٌ عَارِضٌ لِأَجْلِ الْوَقْفِ.",
+      "translation": "Adalah jatuhnya sukun yang baru (mendatang) setelah huruf madd karena sebab waqaf (berhenti)."
+    },
+    {
+      "title": "Madd Lazim Kalimi",
+      "titleArabic": "الْمَدُّ اللَّازِمُ الْكَلِمِيُّ",
+      "arabic": "يَنْقَسِمُ إِلَى مُثَقَّلٍ إِنْ كَانَ فِيهِ إِدْغَامٌ، وَمُخَفَّفٍ إِنْ لَمْ يَكُنْ.",
+      "translation": "Terbagi menjadi Muthaqqal jika terdapat idgham, dan Mukhaffaf jika tidak ada."
+    },
+    {
+      "title": "Madd Lazim Harfi",
+      "titleArabic": "الْمَدُّ اللَّازِمُ الْحَرْفِيُّ",
+      "arabic": "يُوجَدُ فِي فَرَاتِحِ السُّوَرِ، وَيَنْقَسِمُ أَيْضًا إِلَى مُثَقَّلٍ وَمُخَفَّفٍ.",
+      "translation": "Terdapat pada pembuka surah-surah (Fawatih al-Suwar), dan terbagi juga menjadi Muthaqqal dan Mukhaffaf."
+    },
+    {
+      "title": "Madd Lin",
+      "titleArabic": "مَدُّ اللِّينِ",
+      "arabic": "هُوَ مَدُّ الْوَاوِ وَالْيَاءِ السَّاكِنَتَيْنِ الْمَفْتُوحِ مَا قَبْلَهُمَا عِنْدَ الْوَقْفِ.",
+      "translation": "Adalah memanjangkan Wawu dan Ya' mati yang didahului harakat fathah ketika waqaf."
+    },
+    {
+      "title": "Madd 'Iwad",
+      "titleArabic": "مَدُّ الْعِوَضِ",
+      "arabic": "هُوَ التَّعْوِيضُ عَنِ التَّنْوِينِ الْمَنْصُوبِ بِأَلِفٍ عِنْدَ الْوَقْفِ.",
+      "translation": "Adalah penggantian tanwin fathatain menjadi alif ketika berhenti (waqaf)."
+    },
+    {
+      "title": "Madd Badhal",
+      "titleArabic": "مَدُّ الْبَدَلِ",
+      "arabic": "هُوَ أَنْ يَتَقَدَّمَ الْهَمْزُ عَلَى حَرْفِ الْمَدِّ.",
+      "translation": "Adalah keadaan di mana hamzah mendahului huruf madd."
+    },
+    {
+      "title": "Madd Silah Sughra & Kubra",
+      "titleArabic": "مَدُّ الصِّلَةِ",
+      "arabic": "الصِّلَةُ هِيَ مَدُّ هَاءِ الضَّمِيرِ، وَتَكُونُ كُبْرَى إِذَا جَاءَ بَعْدَهَا هَمْزٌ.",
+      "translation": "Silah adalah memanjangkan Ha' dhamir, dan menjadi Kubra jika setelahnya terdapat hamzah."
+    },
+    {
+      "title": "Makharij al-Huruf (Tempat Keluar Huruf)",
+      "titleArabic": "مَخَارِجُ الْحُرُوفِ",
+      "arabic": "مَخَارِجُ الْحُرُوفِ سَبْعَةَ عَشَرَ عَلَى الْمُخْتَارِ.",
+      "translation": "Makharij huruf ada tujuh belas menurut pendapat yang terpilih."
+    },
+    {
+      "title": "Makhraj Al-Jauf",
+      "titleArabic": "مَخْرَجُ الْجَوْفِ",
+      "arabic": "فَأَلِفُ الْجَوْفِ وَأُخْتَاهَا وَهِيَ حُرُوفُ مَدٍّ لِلْهَوَاءِ تَنْتَهِي.",
+      "translation": "Alif jauf dan saudaranya (Wawu dan Ya' madd) keluar dari rongga mulut dan berakhir di udara."
+    },
+    {
+      "title": "Makhraj Al-Halq (Tenggorokan)",
+      "titleArabic": "مَخْرَجُ الْحَلْقِ",
+      "arabic": "ثُمَّ لِأَقْصَى الْحَلْقِ هَمْزٌ هَاءُ، وَثُمَّ لِوَسَطِهِ فَعَيْنٌ حَاءُ، أَدْنَاهُ غَيْنٌ خَاؤُهَا.",
+      "translation": "Pangkal tenggorokan untuk Hamzah dan Ha', tengahnya untuk 'Ain dan Ha', dan ujungnya untuk Ghain dan Kha'."
+    },
+    {
+      "title": "Makhraj Al-Lisan (Lidah) - Bagian 1",
+      "titleArabic": "مَخْرَجُ اللِّسَانِ - القَافُ وَالكَافُ",
+      "arabic": "وَالْقَافُ أَقْصَى اللِّسَانِ فَوْقُ، ثُمَّ الْكَافُ أَسْفَلُ.",
+      "translation": "Qaf berada di pangkal lidah bagian atas, kemudian Kaf di bawahnya."
+    },
+    {
+      "title": "Makhraj Al-Lisan - Tengah Lidah",
+      "titleArabic": "وَسَطُ اللِّسَانِ",
+      "arabic": "وَالْوَسَطُ فَجِيمُ الشِّينُ يَا.",
+      "translation": "Tengah lidah untuk huruf Jim, Syin, dan Ya'."
+    },
+    {
+      "title": "Makhraj Al-Lisan - Sisi Lidah (Dhad)",
+      "titleArabic": "حَافَةُ اللِّسَانِ - الضَّادُ",
+      "arabic": "وَالضَّادُ مِنْ حَافَتِهِ إِذْ وَلِيَا لِلاضْرَاسِ مِنْ أَيْسَرَ أَوْ يُمْنَاهَا.",
+      "translation": "Dhad dari sisi lidah ketika bersentuhan dengan geraham atas bagian kiri atau kanan."
+    },
+    {
+      "title": "Makhraj Al-Lisan - Huruf Lam, Nun, Ra",
+      "titleArabic": "اللَّامُ وَالنُّونُ وَالرَّاءُ",
+      "arabic": "وَاللَّامُ أَدْنَاهَا لِمُنْتَهَاهَا، وَالنُّونُ مِنْ طَرَفِهِ تَحْتُ اجْعَلُوا، وَالرَّاءُ يُدَانِيهِ لِظَهْرٍ أَدْخَلُوا.",
+      "translation": "Lam dari ujung sisi lidah, Nun dari ujung lidah sedikit di bawahnya, dan Ra' mendekati makhraj Nun namun lebih masuk ke punggung lidah."
+    },
+    {
+      "title": "Makhraj Al-Lisan - Huruf Tho, Dal, Ta",
+      "titleArabic": "الطَّاءُ وَالدَّالُ وَالتَّاءُ",
+      "arabic": "وَالطَّاءُ وَالدَّالُ وَتَا مِنْهُ وَمِنْ عُلْيَا الثَّنَايَا.",
+      "translation": "Tho, Dal, dan Ta' dari ujung lidah bersentuhan dengan pangkal gigi seri atas."
+    },
+    {
+      "title": "Makhraj Al-Lisan - Huruf Shod, Sin, Zay",
+      "titleArabic": "الصَّادُ وَالسِّينُ وَالزَّايُ",
+      "arabic": "وَالصَّفِيرُ مُسْتَكِنٌّ مِنْهُ وَمِنْ فَوْقِ الثَّنَايَا السُّفْلَى.",
+      "translation": "Huruf shofir (Shod, Sin, Zay) dari ujung lidah di atas gigi seri bawah."
+    },
+    {
+      "title": "Makhraj Al-Lisan - Huruf Dzo, Tsa, Dzal",
+      "titleArabic": "الظَّاءُ وَالذَّالُ وَالثَّاءُ",
+      "arabic": "وَالظَّاءُ وَالذَّالُ وَثَا لِلْعُلْيَا مِنْ طَرَفَيْهِمَا.",
+      "translation": "Dzo, Dzal, dan Tsa' dari ujung lidah bersentuhan dengan ujung gigi seri atas."
+    },
+    {
+      "title": "Makhraj Al-Shafatayn (Dua Bibir)",
+      "titleArabic": "مَخْرَجُ الشَّفَتَيْنِ",
+      "arabic": "وَمِنْ بَطْنِ الشَّفَةِ فَالْفَا مَعَ أَطْرَافِ الثَّنَايَا الْمُشْرِفَةِ. لِلشَّفَتَيْنِ الْوَاوُ بَاءٌ مِيمُ.",
+      "translation": "Dari perut bibir bawah untuk Fa' bersama ujung gigi seri atas. Untuk kedua bibir adalah Wawu, Ba', dan Mim."
+    },
+    {
+      "title": "Makhraj Al-Khaisyum (Hidung)",
+      "titleArabic": "مَخْرَجُ الْخَيْشُومِ",
+      "arabic": "وَغُنَّةٌ مَخْرَجُهَا الْخَيْشُومُ.",
+      "translation": "Dengung (Ghunnah) tempat keluarnya adalah al-Khaisyum (pangkal hidung)."
+    },
+    {
+      "title": "Sifat-Sifat Huruf",
+      "titleArabic": "صِفَاتُ الْحُرُوفِ",
+      "arabic": "صِفَاتُهَا جَهْرٌ وَرِخْوٌ مُسْتَفِلْ، مُنْفَتِحٌ مُصْمَتَةٌ وَالضِّدَّ قُلْ.",
+      "translation": "Sifat-sifatnya adalah Jahr, Rakhawah, Istifal, Infitah, Ismat, dan sebutkanlah lawan-lawannya."
+    },
+    {
+      "title": "Sifat Hams dan Lawannya (Jahr)",
+      "titleArabic": "الْهَمْسُ وَالْجَهْرُ",
+      "arabic": "مَهْمُوسُهَا (فَحَثَّهُ شَخْصٌ سَكَتْ)، وَمَا سِوَاهَا مَجْهُورٌ.",
+      "translation": "Huruf Hams adalah 'Fahatstsahu syakhshun sakat', selainnya adalah Jahr."
+    },
+    {
+      "title": "Sifat Syiddah, Tawassut, dan Rakhawah",
+      "titleArabic": "الشِّدَّةُ وَالتَّوَسُّطُ وَالرِّخَاوَةُ",
+      "arabic": "شَدِيدُهَا لَفْظُ (أَجِدْ قَطٍ بَكَتْ)، وَبَيْنَ رِخْوٍ وَالشَّدِيدِ (لِنْ عُمَرْ).",
+      "translation": "Huruf Syiddah adalah 'Ajid qathin bakat', dan di antara Rakhawah dan Syiddah (Tawassut) adalah 'Lin 'umar'."
+    },
+    {
+      "title": "Sifat Isti'la dan Istifal",
+      "titleArabic": "الاِسْتِعْلَاءُ وَالاِسْتِفَالُ",
+      "arabic": "وَسَبْعُ عُلْوٍ (خُصَّ ضَغْطٍ قِظْ) حَصَرْ، وَمَا سِوَاهَا مُسْتَفِلٌ.",
+      "translation": "Tujuh huruf Isti'la adalah 'Khushsha dhagthin qizh', selainnya adalah Istifal."
+    },
+    {
+      "title": "Sifat Itbaq dan Infitah",
+      "titleArabic": "الإِطْبَاقُ وَالإِنْفِتَاحُ",
+      "arabic": "وَالصَّادُ ضَادٌ طَاءُ ظَاءٌ مُطْبَقَةٌ، وَمَا سِوَاهَا مُنْفَتِحَةٌ.",
+      "translation": "Shod, Dhad, Tho, dan Dzo adalah Itbaq, selainnya adalah Infitah."
+    },
+    {
+      "title": "Sifat Idhlaq dan Ismat",
+      "titleArabic": "الإِذْلَاقُ وَالإِصْمَاتُ",
+      "arabic": "وَ(فِرَّ مِنْ لُبِّ) حُرُوفُ الْمُذْلَقَةِ، وَمَا سِوَاهَا مُصْمَتَةٌ.",
+      "translation": "Huruf Idhlaq adalah 'Firra min lubbin', selainnya adalah Ismat."
+    },
+    {
+      "title": "Sifat Qalqalah",
+      "titleArabic": "صِفَةُ الْقَلْقَلَةِ",
+      "arabic": "قَلْقَلَةٌ (قُطْبُ جَدٍّ).",
+      "translation": "Huruf Qalqalah terkumpul dalam kalimat 'Quthbu jaddin'."
+    },
+    {
+      "title": "Sifat Shofir, Lin, Inhiraf, dan Takrir",
+      "titleArabic": "الصَّفِيرُ وَاللِّينُ وَالاِنْحِرَافُ وَالتَّكْرِيرُ",
+      "arabic": "صَفِيرُهَا صَادٌ وَزَايٌ سِينُ، لِينٌ وَاوٌ وَيَاءٌ سُكِّنَا، وَالاِنْحِرَافُ فِي اللَّامِ وَالرَّا، وَبِتَكْرِيرٍ جُعِلَ لِلرَّاءِ.",
+      "translation": "Shofir adalah Shod, Zay, Sin. Lin adalah Wawu dan Ya' sukun. Inhiraf ada pada Lam dan Ra'. Takrir khusus untuk huruf Ra'."
+    },
+    {
+      "title": "Sifat Tafasysyi dan Istitalah",
+      "titleArabic": "التَّفَشِّي وَالاِسْتِطَالَةُ",
+      "arabic": "وَلِلتَّفَشِّي الشِّينُ، ضَادًا اسْتُطِلْ.",
+      "translation": "Untuk Tafasysyi adalah Syin, dan Dhad bersifat Istitalah."
+    },
+    {
+      "title": "Hukum Ra' (Tafkhim dan Tarqiq)",
+      "titleArabic": "أَحْكَامُ الرَّاءِ",
+      "arabic": "تُفَخَّمُ الرَّاءُ إِذَا فُتِحَتْ أَوْ ضُمَّتْ، وَتُرَقَّقُ إِذَا كُسِرَتْ.",
+      "translation": "Ra' dibaca tebal (Tafkhim) jika berharakat fathah atau dhammah, dan dibaca tipis (Tarqiq) jika berharakat kasrah."
+    },
+    {
+      "title": "Hukum Waqaf dan Ibtida'",
+      "titleArabic": "أَحْكَامُ الْوَقْفِ وَالاِبْتِدَاءِ",
+      "arabic": "وَبَعْدَ تَجْوِيدِكَ لِلْحُرُوفِ لَا بُدَّ مِنْ مَعْرِفَةِ الْوُقُوفِ.",
+      "translation": "Setelah mentajwidkan huruf-huruf, maka wajib bagimu mengetahui perihal waqaf (tempat berhenti)."
+    },
+    {
+      "title": "Khatimah (Penutup)",
+      "titleArabic": "الْخَاتِمَةُ",
+      "arabic": "تَمَّتِ الْخُلَاصَةُ بِحَمْدِ اللَّهِ وَمَنِّهِ، رَاجِيًا مِنَ اللَّهِ النَّفْعَ بِهَا لِلْجَمِيعِ. وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَآلِهِ وَصَحْبِهِ وَسَلَّمَ.",
+      "translation": "Telah selesailah kitab Al-Khulashah ini dengan puji bagi Allah dan karunia-Nya, seraya mengharap manfaat kepada Allah dengannya bagi semua orang. Semoga Allah melimpahkan shalawat dan salam atas junjungan kita Nabi Muhammad, keluarga, serta para sahabatnya."
+    }
+  ]
+}
