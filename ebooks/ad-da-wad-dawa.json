@@ -1,224 +1,356 @@
 {
   "profile": {
     "name": "Ad-Da' wad Dawa'",
-    "originalTitle": "الدَّاءُ وَالدَّوَاءُ (الْجَوَابُ الْكَافِي لِمَنْ سَأَلَ عَنِ الدَّوَاءِ الشَّافِي)",
-    "author": "Al-Imam Syamsuddin Abu Abdillah Muhammad bin Abi Bakr (Ibnu Qayyim al-Jauziyyah)",
-    "field": "Tazkiyatun Nufus (Penyucian Jiwa) & Akhlak",
-    "about": "Kitab ini merupakan salah satu karya monumental Ibnu Qayyim al-Jauziyyah yang bermula dari sebuah pertanyaan seorang mustafti (peminta fatwa) mengenai penyakit hati yang kronis. Penulis memberikan jawaban mendalam yang mencakup hakikat doa, dampak buruk dosa terhadap individu dan masyarakat, hingga rincian jenis-jenis maksiat. Kitab ini secara sistematis menguraikan bahwa setiap penyakit ada obatnya, dan Al-Qur'an adalah syifa' (penawar) yang sempurna bagi hati yang tulus. Pembahasannya mencakup psikologi Islam, aqidah, dan bimbingan praktis untuk membersihkan jiwa dari belenggu nafsu dan setan. Kitab ini menjadi rujukan utama dalam disiplin ilmu Akhlak dan Tazkiyatun Nufus di seluruh dunia Islam.",
-    "authorBorn": "691 H / 1292 M (Damaskus, Suriah)",
-    "authorDied": "751 H / 1350 M (Damaskus, Suriah)",
-    "authorCentury": "Abad ke-8 Hijriyah"
+    "originalTitle": "الدَّاءُ وَالدَّوَاءُ (الْجَوَابُ الْكَافِي لِمَنْ سَأَلَ عَنِ الدَّوَاءِ الشَّافِي)",
+    "author": "Al-Imam Syamsuddin Muhammad bin Abi Bakr bin Ayyub bin Sa'ad az-Zura'i (Ibnu Qayyim al-Jauziyyah)",
+    "field": "Tazkiyatun Nafs / Akhlak / Kedokteran Hati",
+    "about": "Kitab ini merupakan salah satu mahakarya dalam bidang penyucian jiwa yang ditulis sebagai jawaban atas pertanyaan seseorang yang merasa terjebak dalam penyakit hati yang merusak. Ibnu Qayyim menjelaskan secara mendalam tentang hakikat doa, kekuatan tawakal, serta dampak-dampak destruktif dari kemaksiatan terhadap hati dan kehidupan seseorang. Pembahasan di dalamnya mencakup diagnosa penyakit ruhani dan resep pengobatannya berdasarkan Al-Qur'an dan Sunnah. Penulis juga menguraikan tentang tingkatan-tingkatan dosa, mulai dari syirik hingga penyakit syahwat dan cinta yang berlebihan. Kitab ini menjadi rujukan utama bagi para pencari hidayah dalam memperbaiki hubungan mereka dengan Allah SWT melalui pembersihan batin.",
+    "authorBorn": "691 H / 1292 M (Damaskus)",
+    "authorDied": "751 H / 1350 M (Damaskus)",
+    "authorCentury": "Abad ke-8 Hijriah"
   },
   "chapters": [
     {
       "title": "Muqaddimah: Pertanyaan Sang Penanya",
-      "titleArabic": "الْمُقَدِّمَةُ وَسُؤَالُ السَّائِلِ",
-      "arabic": "مَا تَقُولُ السَّادَةُ الْعُلَمَاءُ أئِمَّةُ الدِّينِ رَضِيَ اللَّهُ عَنْهُمْ أَجْمَعِينَ فِي رَجُلٍ ابْتُلِيَ بِبَلِيَّةٍ وَعَلِمَ أَنَّهَا إنْ اسْتَمَرَّتْ بِهِ أَفْسَدَتْ عَلَيْهِ دُنْيَاهُ وَآخِرَتَهُ؟",
-      "translation": "Apa pendapat para ulama imam agama—semoga Allah meridhai mereka semua—mengenai seorang pria yang ditimpa suatu musibah (penyakit hati) dan ia menyadari jika hal itu terus berlanjut, maka akan merusak dunia dan akhiratnya?"
+      "titleArabic": "مُقَدِّمَةٌ: سُؤَالُ السَّائِلِ",
+      "arabic": "مَا تَقُولُ السَّادَةُ الْعُلَمَاءُ أئِمَّةُ الدِّينِ رَضِيَ اللهُ عَنْهُمْ أَجْمَعِينَ فِي رَجُلٍ ابْتُلِيَ بِبَلِيَّةٍ وَعَلِمَ أَنَّهَا إِنِ اسْتَمَرَّتْ بِهِ أَفْسَدَتْ عَلَيْهِ دُنْيَاهُ وَآخِرَتَهُ؟",
+      "translation": "Apa pendapat para ulama, imam-imam agama—semoga Allah meridhai mereka semua—mengenai seorang laki-laki yang diuji dengan suatu musibah/penyakit, dan ia tahu bahwa jika itu terus berlanjut, maka akan merusak dunia dan akhiratnya?"
     },
     {
-      "title": "Setiap Penyakit Pasti Ada Obatnya",
-      "titleArabic": "لِكُلِّ دَاءٍ دَوَاءٌ",
-      "arabic": "فَثَبَتَ فِي صَحِيحِ الْبُخَارِيِّ مِنْ حَدِيثِ أَبِي هُرَيْرَةَ - رَضِيَ اللَّهُ عَنْهُ - عَنِ النَّبِيِّ - صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ - أَنَّهُ قَالَ: مَا أَنْزَلَ اللَّهُ دَاءً إِلَّا أَنْزَلَ لَهُ شِفَاءً.",
-      "translation": "Telah tsabit dalam Shahih Al-Bukhari dari hadits Abu Hurairah r.a., dari Nabi SAW, beliau bersabda: Tidaklah Allah menurunkan suatu penyakit, melainkan Dia juga menurunkan obatnya."
+      "title": "Setiap Penyakit Ada Obatnya",
+      "titleArabic": "لِكُلِّ دَاءٍ دَوَاءٌ",
+      "arabic": "قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: مَا أَنْزَلَ اللهُ دَاءً إِلَّا أَنْزَلَ لَهُ شِفَاءً.",
+      "translation": "Rasulullah SAW bersabda: Tidaklah Allah menurunkan suatu penyakit kecuali Dia menurunkan pula obat penawarnya."
     },
     {
-      "title": "Al-Qur'an Sebagai Obat yang Sempurna",
-      "titleArabic": "الْقُرْآنُ هُوَ الشِّفَاءُ التَّامُّ",
-      "arabic": "فَالْقُرْآنُ هُوَ الشِّفَاءُ التَّامُّ مِنْ جَمِيعِ الْأَدْوَاءِ الْقَلْبِيَّةِ وَالْبَدَنِيَّةِ، وَأَدْوَاءِ الدُّنْيَا وَالْآخِرَةِ.",
-      "translation": "Al-Qur'an adalah penyembuh yang sempurna dari segala penyakit, baik penyakit hati maupun badan, serta penyakit dunia dan akhirat."
+      "title": "Al-Qur'an Sebagai Syifa' (Penyembuh)",
+      "titleArabic": "الْقُرْآنُ شِفَاءٌ",
+      "arabic": "وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِلْمُؤْمِنِينَ.",
+      "translation": "Dan Kami turunkan dari Al-Qur'an suatu yang menjadi penawar (syifa) dan rahmat bagi orang-orang yang beriman."
     },
     {
-      "title": "Doa: Senjata dan Penolak Bala",
-      "titleArabic": "الدُّعَاءُ مِنْ أَنْفَعِ الْأَدْوِيَةِ",
-      "arabic": "وَالدُّعَاءُ مِنْ أَنْفَعِ الْأَدْوِيَةِ، وَهُوَ عَدُوُّ الْبَلَاءِ، يَدْفَعُهُ، وَيُعَالِجُهُ، وَيَمْنَعُ نُزُولَهُ، وَيَرْفَعُهُ أَوْ يُخَفِّفُهُ إِذَا نَزَلَ.",
-      "translation": "Doa adalah termasuk obat yang paling bermanfaat. Ia adalah musuh bagi bala (musibah); ia menolaknya, mengobatinya, mencegah turunnya, serta mengangkat atau meringankannya jika sudah turun."
+      "title": "Doa: Senjata Paling Ampuh",
+      "titleArabic": "الدُّعَاءُ مِنْ أَنْفَعِ الْأَدْوِيَةِ",
+      "arabic": "الدُّعَاءُ مِنْ أَنْفَعِ الْأَدْوِيَةِ، وَهُوَ عَدُوُّ الْبَلَاءِ، يَدْفَعُهُ، وَيُعَالِجُهُ، وَيَمْنَعُ نُزُولَهُ.",
+      "translation": "Doa adalah termasuk obat yang paling bermanfaat, ia adalah musuh bagi bencana, ia menolaknya, mengobatinya, dan menghalangi turunnya bencana tersebut."
     },
     {
-      "title": "Hubungan Doa dengan Takdir",
-      "titleArabic": "مَقَامُ الدُّعَاءِ مَعَ الْقَدَرِ",
-      "arabic": "وَهَاهُنَا مَسْأَلَةٌ مَشْهُورَةٌ، وَهِيَ أَنَّ الْمَقْدُورَ إِنْ كَانَ قَدْ قُدِّرَ، فَلَا بُدَّ مِنْ وُقُوعِهِ، دَعَا الْعَبْدُ أَوْ لَمْ يَدْعُ.",
-      "translation": "Di sini ada masalah masyhur: yaitu bahwa perkara yang telah ditentukan (takdir), jika memang sudah ditakdirkan, pasti akan terjadi, baik hamba itu berdoa maupun tidak."
+      "title": "Tiga Keadaan Doa Terhadap Musibah",
+      "titleArabic": "أَنْوَاعُ عِلَاقَةِ الدُّعَاءِ بِالْبَلَاءِ",
+      "arabic": "الدُّعَاءُ مَعَ الْبَلَاءِ لَهُ ثَلَاثُ مَقَامَاتٍ: أَحَدُهَا: أَنْ يَكُونَ أَقْوَى مِنَ الْبَلَاءِ فَيَدْفَعُهُ. الثَّانِي: أَنْ يَكُونَ أَضْعَفَ مِنَ الْبَلَاءِ فَيَقْوَى عَلَيْهِ الْبَلَاءُ. الثَّالِثُ: أَنْ يَتَقَاوَمَا وَيَمْنَعَ كُلُّ وَاحِدٍ مِنْهُمَا صَاحِبَهُ.",
+      "translation": "Doa bersama musibah memiliki tiga kedudukan: Pertama, ia lebih kuat dari musibah sehingga ia menolaknya. Kedua, ia lebih lemah dari musibah sehingga musibah mengalahkannya. Ketiga, keduanya saling bertarung dan saling menghalangi satu sama lain."
     },
     {
-      "title": "Kesalahan dalam Memahami Takdir",
-      "titleArabic": "الْغَلَطُ فِي مَسْأَلَةِ الْقَدَرِ",
-      "arabic": "وَمِنْ هَاهُنَا غَلِطَ مَنْ غَلِطَ فِي تَرْكِ الدُّعَاءِ بِنَاءً عَلَى أَنَّ الْمَقْدُورَ كَائِنٌ لَا مَحَالَةَ.",
-      "translation": "Dari sinilah salah orang yang bersalah dalam meninggalkan doa, dengan bersandar pada anggapan bahwa apa yang ditakdirkan pasti terjadi."
+      "title": "Urgensi Kehadiran Hati dalam Berdoa",
+      "titleArabic": "إِحْضَارُ الْقَلْبِ فِي الدُّعَاءِ",
+      "arabic": "اعْلَمْ أَنَّ الدُّعَاءَ مِنَ الْأَدْوِيَةِ النَّافِعَةِ، وَلَكِنَّ غَفْلَةَ الْقَلْبِ عَنِ اللهِ تُبْطِلُ قُوَّتَهُ.",
+      "translation": "Ketahuilah bahwa doa termasuk obat yang bermanfaat, namun kelalaian hati dari Allah akan membatalkan kekuatannya."
     },
     {
-      "title": "Sebab Terhalangnya Doa: Makanan Haram",
-      "titleArabic": "أَكْلُ الْحَرَامِ يَمْنَعُ قَبُولَ الدُّعَاءِ",
-      "arabic": "وَمِنْ مَوَانِعِ تَرَتُّبِ أَثَرِ الدُّعَاءِ عَلَيْهِ: أَكْلُ الْحَرَامِ، كَمَا فِي صَحِيحِ مُسْلِمٍ عَنْ أَبِي هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللَّهِ - صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ -: أَيُّهَا النَّاسُ إِنَّ اللَّهَ طَيِّبٌ لَا يَقْبَلُ إِلَّا طَيِّبًا.",
-      "translation": "Di antara penghalang terkabulnya pengaruh doa adalah memakan harta haram, sebagaimana dalam Shahih Muslim dari Abu Hurairah r.a. bahwa Rasulullah SAW bersabda: Wahai manusia, sesungguhnya Allah itu Maha Baik dan tidak menerima kecuali yang baik."
-    },
-    {
-      "title": "Urgensi Mengulang-ulang Doa (Al-Ilhah)",
-      "titleArabic": "الْإِلْحَاحُ فِي الدُّعَاءِ",
-      "arabic": "وَمِنْ أَنْفَعِ الْأَدْوِيَةِ: الْإِلْحَاحُ فِي الدُّعَاءِ.",
-      "translation": "Di antara obat yang paling bermanfaat adalah terus-menerus dan bersungguh-sungguh (merengek) dalam berdoa."
-    },
-    {
-      "title": "Sebab Terhalangnya Terkabulnya Doa: Ketergesaan",
-      "titleArabic": "الِاسْتِعْجَالُ يَمْنَعُ الْإِجَابَةَ",
-      "arabic": "وَمِنْ آفَاتِ الدُّعَاءِ الَّتِي تَمْنَعُ أَثَرَهُ: أَنْ يَسْتَعْجِلَ الْعَبْدُ، وَيَسْتَبْطِئَ الْإِجَابَةَ، فَيَحْسَرَ وَيَدَعَ الدُّعَاءَ.",
-      "translation": "Di antara penyakit doa yang menghalangi pengaruhnya adalah seorang hamba tergesa-gesa dan menganggap jawaban doa itu lambat, sehingga ia merasa letih lalu meninggalkan doa tersebut."
+      "title": "Sebab Terhalangnya Doa: Makanan yang Haram",
+      "titleArabic": "مَوَانِعُ إِجَابَةِ الدُّعَاءِ",
+      "arabic": "وَمِنْ مَوَانِعِ الْإِجَابَةِ: أَكْلُ الْحَرَامِ، وَالظُّلْمُ، وَرَانُ الذُّنُوبِ عَلَى الْقَلْبِ.",
+      "translation": "Di antara penghalang terkabulnya doa adalah memakan harta haram, perbuatan zalim, dan karat dosa yang menumpuk di hati."
     },
     {
       "title": "Waktu-Waktu Mustajab dalam Berdoa",
       "titleArabic": "أَوْقَاتُ الْإِجَابَةِ",
-      "arabic": "وَإِذَا جَمَعَ مَعَ الدُّعَاءِ حُضُورَ الْقَلْبِ وَجَمْعِيَّتَهُ بِكُلِّيَّتِهِ عَلَى الْمَطْلُوبِ، وَصَادَفَ وَقْتًا مِنْ أَوْقَاتِ الْإِجَابَةِ السِّتَّةِ.",
-      "translation": "Apabila doa disertai dengan hadirnya hati, konsentrasi penuh pada permohonan, dan bertepatan dengan salah satu dari enam waktu mustajab."
+      "arabic": "فَإِذَا جَمَعَ الدُّعَاءُ حُضُورَ الْقَلْبِ، وَصَادَفَ وَقْتًا مِنْ أَوْقَاتِ الْإِجَابَةِ كَالثُّلُثِ الْآخِرِ مِنَ اللَّيْلِ.",
+      "translation": "Maka apabila doa disertai dengan kehadiran hati, dan bertepatan dengan waktu-waktu terkabulnya doa seperti sepertiga malam yang terakhir."
     },
     {
-      "title": "Rahasia Nama Allah yang Paling Agung",
-      "titleArabic": "اسْمُ اللَّهِ الْأَعْظَمُ",
-      "arabic": "وَإِذَا انْضَمَّ إِلَى ذَلِكَ دُعَاءُ اللَّهِ بِأَسْمَائِهِ الْحُسْنَى وَصِفَاتِهِ الْعُلَا، أَوْ بِاسْمِهِ الْأَعْظَمِ.",
-      "translation": "Dan jika hal itu dibarengi dengan berdoa kepada Allah menggunakan Asma'ul Husna dan Sifat-sifat-Nya yang luhur, atau dengan Nama-Nya yang paling Agung."
+      "title": "Kekuatan Ismullah al-A'dzam",
+      "titleArabic": "التَّوَسُّلُ بِأَسْمَاءِ اللهِ",
+      "arabic": "مِنْ أَعْظَمِ أَسْبَابِ الْإِجَابَةِ التَّوَسُّلُ إِلَيْهِ بِأَسْمَائِهِ وَصِفَاتِهِ وَاسْمِهِ الْأَعْظَمِ.",
+      "translation": "Di antara sebab terbesar terkabulnya doa adalah bertawassul kepada-Nya dengan nama-nama-Nya, sifat-sifat-Nya, dan Ismullah al-A'dzam (Nama Allah yang Paling Agung)."
     },
     {
-      "title": "Hubungan Prasangka Baik dengan Amal",
-      "titleArabic": "حُسْنُ الظَّنِّ بِاللَّهِ وَالْعَمَلُ",
-      "arabic": "وَكُلَّمَا كَانَ الْعَبْدُ حَسَنَ الظَّنِّ بِاللَّهِ، كَانَ حَسَنَ الْعَمَلِ.",
-      "translation": "Setiap kali seorang hamba memiliki prasangka yang baik kepada Allah, maka ia akan memiliki amal yang baik pula."
+      "title": "Bahaya Terburu-buru dalam Berdoa",
+      "titleArabic": "الِاسْتِعْجَالُ فِي الدُّعَاءِ",
+      "arabic": "وَمِنَ الْآفَاتِ الَّتِي تَمْنَعُ تَرَتُّبَ أَثَرِ الدُّعَاءِ أَنْ يَسْتَعْجِلَ الْعَبْدُ وَيَسْتَبْطِئَ الْإِجَابَةَ فَيَتْرُكَ الدُّعَاءَ.",
+      "translation": "Di antara penyakit yang menghalangi pengaruh doa adalah seorang hamba terburu-buru dan merasa lambat dikabulkan, lalu ia meninggalkan doa tersebut."
     },
     {
-      "title": "Bahaya Tipuan Diri (Al-Ightirar)",
-      "titleArabic": "الِاغْتِرَارُ بِسَعَةِ رَحْمَةِ اللَّهِ",
-      "arabic": "وَكَثِيرٌ مِنَ الْجُهَّالِ اعْتَمَدُوا عَلَى رَحْمَةِ اللَّهِ وَعَفْوِهِ وَكَرَمِهِ، وَضَيَّعُوا أَمْرَهُ وَنَهْيَهُ.",
-      "translation": "Banyak orang bodoh yang hanya bersandar pada rahmat Allah, ampunan-Nya, dan kemurahan-Nya, namun mereka melalaikan perintah dan larangan-Nya."
+      "title": "Husnudzan (Prasangka Baik) kepada Allah",
+      "titleArabic": "حُسْنُ الظَّنِّ بِاللهِ",
+      "arabic": "إِنَّ اللهَ عَزَّ وَجَلَّ عِنْدَ ظَنِّ عَبْدِهِ بِهِ، فَلْيَظُنَّ بِي مَا شَاءَ.",
+      "translation": "Sesungguhnya Allah Azza wa Jalla berada pada persangkaan hamba-Nya, maka hendaklah ia berprasangka kepada-Ku sesukanya."
     },
     {
-      "title": "Dampak Buruk Kemaksiatan Secara Umum",
-      "titleArabic": "آثَارُ الْمَعَاصِي وَالذُّنُوبِ",
-      "arabic": "وَلِلْمَعَاصِي مِنَ الْآثَارِ الْقَبِيحَةِ الْمَذْمُومَةِ، الْمُضِرَّةِ بِالْقَلْبِ وَالْبَدَنِ فِي الدُّنْيَا وَالْآخِرَةِ مَا لَا يَعْلَمُهُ إِلَّا اللَّهُ.",
-      "translation": "Kemaksiatan memiliki dampak-dampak buruk yang tercela dan membahayakan bagi hati dan badan, di dunia maupun akhirat, yang tidak ada yang mengetahuinya kecuali Allah."
+      "title": "Perbedaan Antara Husnudzan dan Ghurur (Tertipu)",
+      "titleArabic": "الْفَرْقُ بَيْنَ حُسْنِ الظَّنِّ وَالِاغْتِرَارِ",
+      "arabic": "الْفَرْقُ بَيْنَهُمَا أَنَّ حُسْنَ الظَّنِّ يَحْمِلُ عَلَى الْعَمَلِ، وَالِاغْتِرَارُ يَحْمِلُ عَلَى الْبَطَالَةِ وَالْمَعَاصِي.",
+      "translation": "Perbedaan antara keduanya adalah bahwa husnudzan mendorong untuk beramal, sedangkan ghurur (tertipu oleh angan-angan) mendorong pada pengangguran dan kemaksiatan."
     },
     {
-      "title": "Dampak Pertama: Terhalang dari Ilmu",
-      "titleArabic": "الْمَعْصِيَةُ تَمْنَعُ الْعِلْمَ",
-      "arabic": "فَمِنْهَا: حِرْمَانُ الْعِلْمِ، فَإِنَّ الْعِلْمَ نُورٌ يَقْذِفُهُ اللَّهُ فِي الْقَلْبِ، وَالْمَعْصِيَةُ تُطْفِئُ ذَلِكَ النُّورَ.",
-      "translation": "Di antaranya: Terhalang dari ilmu. Karena ilmu adalah cahaya yang Allah pancarkan ke dalam hati, sedangkan kemaksiatan memadamkan cahaya tersebut."
+      "title": "Dampak Maksiat: Terhalangnya Ilmu",
+      "titleArabic": "شُؤْمُ الْمَعْصِيَةِ: حِرْمَانُ الْعِلْمِ",
+      "arabic": "الْعِلْمُ نُورٌ يَقْذِفُهُ اللهُ فِي الْقَلْبِ، وَالْمَعْصِيَةُ تُطْفِئُ ذَلِكَ النُّورَ.",
+      "translation": "Ilmu adalah cahaya yang Allah pancarkan ke dalam hati, dan kemaksiatan akan memadamkan cahaya tersebut."
     },
     {
-      "title": "Dampak Kedua: Terhalang dari Rezeki",
-      "titleArabic": "الْمَعْصِيَةُ تَمْنَعُ الرِّزْقَ",
-      "arabic": "وَمِنْهَا: حِرْمَانُ الرِّزْقِ، وَفِي الْمُسْنَدِ: إِنَّ الْعَبْدَ لَيُحْرَمُ الرِّزْقَ بِالذَّنْبِ يُصِيبُهُ.",
-      "translation": "Di antaranya: Terhalang dari rezeki. Dalam kitab Musnad disebutkan: Sesungguhnya seorang hamba benar-benar terhalang dari rezekinya karena dosa yang dilakukannya."
+      "title": "Dampak Maksiat: Terhalangnya Rezeki",
+      "titleArabic": "حِرْمَانُ الرِّزْقِ",
+      "arabic": "إِنَّ الْعَبْدَ لَيُحْرَمُ الرِّزْقَ بِالذَّنْبِ يُصِيبُهُ.",
+      "translation": "Sesungguhnya seorang hamba benar-benar terhalang dari rezeki karena dosa yang dilakukannya."
     },
     {
-      "title": "Dampak Ketiga: Rasa Asing (Wahsyah) di dalam Hati",
+      "title": "Dampak Maksiat: Kegelisahan dalam Hati",
       "titleArabic": "الْوَحْشَةُ فِي الْقَلْبِ",
-      "arabic": "وَمِنْهَا: وَحْشَةٌ يَجِدُهَا الْعَاصِي فِي قَلْبِهِ بَيْنَهُ وَبَيْنَ اللَّهِ لَا تُوازِنُهَا وَلَا تَقُومُ لَهَا لَذَّةٌ أَصْلًا.",
-      "translation": "Di antaranya: Rasa asing (kegelisahan) yang ditemukan oleh pelaku maksiat dalam hatinya antara dirinya dengan Allah, yang tidak dapat ditandingi oleh kelezatan apa pun sama sekali."
+      "arabic": "وَحْشَةٌ يَجِدُهَا الْعَاصِي فِي قَلْبِهِ بَيْنَهُ وَبَيْنَ اللهِ لَا تُوَازِنُهَا لَذَّةٌ.",
+      "translation": "Kegelisahan/keterasingan yang dirasakan oleh pelaku maksiat dalam hatinya antara dia dan Allah, yang tidak dapat ditandingi oleh kelezatan manapun."
     },
     {
-      "title": "Dampak Keempat: Kegelapan di Wajah dan Hati",
-      "titleArabic": "ظُلْمَةُ الْقَلْبِ وَالْوَجْهِ",
-      "arabic": "وَمِنْهَا: الظُّلْمَةُ الَّتِي يَجِدُهَا فِي قَلْبِهِ حَقِيقَةً يَحِسُّ بِهَا كَمَا يَحِسُّ بِظُلْمَةِ اللَّيْلِ.",
-      "translation": "Di antaranya: Kegelapan yang ia temukan di dalam hatinya secara nyata, yang ia rasakan sebagaimana ia merasakan kegelapan malam."
+      "title": "Dampak Maksiat: Keterasingan dari Manusia",
+      "titleArabic": "الْوَحْشَةُ بَيْنَهُ وَبَيْنَ النَّاسِ",
+      "arabic": "وَحْشَةٌ تَحْصُلُ لَهُ بَيْنَهُ وَبَيْنَ النَّاسِ، وَلَا سِيَّمَا أَهْلُ الْخَيْرِ مِنْهُمْ.",
+      "translation": "Keterasingan yang terjadi antara dia dengan manusia, terutama dengan orang-orang baik di antara mereka."
     },
     {
-      "title": "Dampak Kelima: Melemahnya Keinginan untuk Taat",
-      "titleArabic": "تُوهِنُ الْقَلْبَ وَالْبَدَنَ",
-      "arabic": "وَمِنْهَا: أَنَّ الْمَعَاصِي تُوهِنُ الْقَلْبَ وَالْبَدَنَ.",
-      "translation": "Di antaranya: Bahwa kemaksiatan itu melemahkan hati dan badan."
+      "title": "Dampak Maksiat: Kesulitan dalam Segala Urusan",
+      "titleArabic": "تَعْسِيرُ الْأُمُورِ",
+      "arabic": "مَا تَوَجَّهَ لِأَمْرٍ إِلَّا وَجَدَهُ مَسْدُودًا دُونَهُ أَوْ مُتَعَسِّرًا عَلَيْهِ.",
+      "translation": "Tidaklah ia menuju suatu urusan melainkan ia mendapatinya tertutup baginya atau sulit baginya."
     },
     {
-      "title": "Dampak Keenam: Memperpendek Umur dan Keberkahan",
-      "titleArabic": "تَمْحَقُ بَرَكَةَ الْعُمُرِ",
-      "arabic": "وَمِنْهَا: حِرْمَانُ الطَّاعَةِ، فَلَوْ لَمْ يَكُنْ لِلذَّنْبِ عُقُوبَةٌ إِلَّا أَنْ يَصُدَّ عَنْ طَاعَةٍ تَكُونُ بَدَلَهُ.",
-      "translation": "Di antaranya: Terhalang dari ketaatan. Seandainya dosa tidak memiliki hukuman kecuali ia menghalangi dari ketaatan sebagai gantinya, maka itu sudah cukup."
+      "title": "Dampak Maksiat: Gelapnya Hati yang Nyata",
+      "titleArabic": "ظُلْمَةُ الْقَلْبِ",
+      "arabic": "ظُلْمَةٌ يَجِدُهَا فِي قَلْبِهِ حَقِيقَةً يَحُسُّ بِهَا كَمَا يَحُسُّ بِظُلْمَةِ اللَّيْلِ.",
+      "translation": "Kegelapan yang benar-benar ia rasakan dalam hatinya sebagaimana ia merasakan kegelapan malam."
     },
     {
-      "title": "Dosa Melahirkan Dosa Lainnya",
-      "titleArabic": "الذَّنْبُ يَجُرُّ الذَّنْبَ",
-      "arabic": "أَنَّ الْمَعَاصِيَ تَزْرَعُ أَمْثَالَهَا، وَيُوَلِّدُ بَعْضُهَا بَعْضًا، حَتَّى يَعِزَّ عَلَى الْعَبْدِ مُفَارَقَتُهَا وَالْخُرُوجُ مِنْهَا.",
-      "translation": "Bahwa kemaksiatan itu menanamkan sesamanya, dan sebagian melahirkan sebagian lainnya, hingga sulit bagi seorang hamba untuk berpisah darinya dan keluar darinya."
+      "title": "Dampak Maksiat: Melemahkan Hati dan Badan",
+      "titleArabic": "وَهْنُ الْقَلْبِ وَالْبَدَنِ",
+      "arabic": "إِنَّ الْمَعْصِيَةَ تُوهِنُ الْقَلْبَ وَالْبَدَنَ، أَمَّا وَهْنُهَا لِلْقَلْبِ فَظَاهِرٌ، وَأَمَّا لِلْبَدَنِ فَإِنَّ قُوَّةَ الْمُؤْمِنِ مِنْ قَلْبِهِ.",
+      "translation": "Sesungguhnya maksiat melemahkan hati dan badan; adapun lemahnya hati sudah jelas, sedangkan lemahnya badan karena kekuatan mukmin berasal dari hatinya."
     },
     {
-      "title": "Dosa Mematikan Rasa Cemburu (Ghirah)",
-      "titleArabic": "ذَهَابُ الْغَيْرَةِ مِنَ الْقَلْبِ",
-      "arabic": "وَمِنْهَا: أَنَّهَا تُطْفِئُ مِنَ الْقَلْبِ نَارَ الْغَيْرَةِ الَّتِي هِيَ حَيَاتُهُ وَحِمَايَتُهُ.",
-      "translation": "Di antaranya: Ia memadamkan api cemburu (terhadap kehormatan) dari dalam hati, padahal cemburu adalah kehidupan dan perlindungan bagi hati."
+      "title": "Dampak Maksiat: Terhalang dari Ketaatan",
+      "titleArabic": "حِرْمَانُ الطَّاعَةِ",
+      "arabic": "لَوْ لَمْ يَكُنْ لِلذَّنْبِ عُقُوبَةٌ إِلَّا أَنْ يَصُدَّ عَنْ طَاعَةٍ تَكُونُ بَدَلَهُ.",
+      "translation": "Sekiranya dosa tidak memiliki hukuman kecuali ia menghalangi ketaatan yang seharusnya dilakukan sebagai gantinya, maka itu sudah cukup."
     },
     {
-      "title": "Dosa Menghilangkan Rasa Malu",
+      "title": "Dampak Maksiat: Memperpendek Umur",
+      "titleArabic": "تَقْصِيرُ الْعُمُرِ",
+      "arabic": "الْمَعْصِيَةُ تَمْحَقُ بَرَكَةَ الْعُمُرِ وَبَرَكَةَ الرِّزْقِ.",
+      "translation": "Maksiat melenyapkan berkah umur dan berkah rezeki."
+    },
+    {
+      "title": "Dampak Maksiat: Dosa Melahirkan Dosa Baru",
+      "titleArabic": "الذُّنُوبُ تَزْرَعُ أَمْثَالَهَا",
+      "arabic": "إِنَّ الْمَعَاصِيَ تَزْرَعُ أَمْثَالَهَا وَيُولِدُ بَعْضُهَا بَعْضًا حَتَّى يَعِزَّ عَلَى الْعَبْدِ مُفَارَقَتُهَا.",
+      "translation": "Sesungguhnya kemaksiatan menanamkan kemiripan dengannya dan saling melahirkan satu sama lain hingga hamba sulit untuk meninggalkannya."
+    },
+    {
+      "title": "Dampak Maksiat: Melemahkan Keinginan untuk Taubat",
+      "titleArabic": "إِضْعَافُ إِرَادَةِ التَّوْبَةِ",
+      "arabic": "تُضْعِفُ الْقَلْبَ عَنْ إِرَادَتِهِ فَتَقْوَى إِرَادَةُ الْمَعْصِيَةِ وَتَضْعُفُ إِرَادَةُ التَّوْبَةِ شَيْئًا فَشَيْئًا.",
+      "translation": "Maksiat melemahkan keinginan hati sehingga keinginan maksiat menguat dan keinginan bertaubat melemah sedikit demi sedikit."
+    },
+    {
+      "title": "Dampak Maksiat: Hilangnya Rasa Jijik terhadap Dosa",
+      "titleArabic": "ذَهَابُ قُبْحِ الْمَعَاصِي مِنَ الْقَلْبِ",
+      "arabic": "انْسِلَاخُ الْقَلْبِ مِنْ اسْتِقْبَاحِهَا، فَتَصِيرُ لَهُ عَادَةً، فَلَا يَسْتَقْبِحُ مِنْ نَفْسِهِ رُؤْيَةَ النَّاسِ لَهُ.",
+      "translation": "Tercabutnya rasa jijik hati terhadap dosa, sehingga dosa menjadi kebiasaan baginya, dan ia tidak merasa malu lagi dilihat orang saat bermaksiat."
+    },
+    {
+      "title": "Dampak Maksiat: Menjadi Sebab Kehinaan di Sisi Allah",
+      "titleArabic": "الْمَعْصِيَةُ سَبَبُ الْهَوَانِ",
+      "arabic": "أَنَّ كُلَّ مَعْصِيَةٍ مِنَ الْمَعَاصِي فَهِيَ مِيرَاثٌ عَنْ أُمَّةٍ مِنَ الْأُمَمِ الَّتِي أَهْلَكَهَا اللهُ.",
+      "translation": "Bahwa setiap maksiat adalah warisan dari umat-umat terdahulu yang telah Allah binasakan."
+    },
+    {
+      "title": "Dampak Maksiat: Merusak Akal",
+      "titleArabic": "تَفْسِدُ الْعَقْلَ",
+      "arabic": "إِنَّ لِلْعَقْلِ نُورًا، وَالْمَعْصِيَةُ تُطْفِئُ نُورَ الْعَقْلِ.",
+      "translation": "Sesungguhnya akal memiliki cahaya, dan maksiat memadamkan cahaya akal tersebut."
+    },
+    {
+      "title": "Dampak Maksiat: Menutup Hati (Ar-Ran)",
+      "titleArabic": "الطَّبْعُ عَلَى الْقَلْبِ",
+      "arabic": "إِذَا تَكَاثَرَتِ الذُّنُوبُ طُبِعَ عَلَى قَلْبِ صَاحِبِهَا فَكَانَ مِنَ الْغَافِلِينَ.",
+      "translation": "Apabila dosa telah banyak, maka hati pemiliknya akan tertutup sehingga ia termasuk orang-orang yang lalai."
+    },
+    {
+      "title": "Dampak Maksiat: Masuk dalam Laknat Rasulullah",
+      "titleArabic": "الدُّخُولُ فِي لَعْنَةِ الرَّسُولِ",
+      "arabic": "لَعَنَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَنْوَاعًا مِنَ الْعُصَاةِ.",
+      "translation": "Rasulullah SAW melaknat berbagai jenis pelaku maksiat."
+    },
+    {
+      "title": "Dampak Maksiat: Terhalang dari Doa Rasul dan Malaikat",
+      "titleArabic": "حِرْمَانُ دَعْوَةِ الرَّسُولِ وَالْمَلَائِكَةِ",
+      "arabic": "حِرْمَانُ دَعْوَةِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَدَعْوَةِ الْمَلَائِكَةِ.",
+      "translation": "Terhalang dari doa Rasulullah SAW dan doa para malaikat."
+    },
+    {
+      "title": "Dampak Maksiat: Menghilangkan Rasa Malu",
       "titleArabic": "ذَهَابُ الْحَيَاءِ",
-      "arabic": "وَمِنْهَا: ذَهَابُ الْحَيَاءِ الَّذِي هُوَ مَادَّةُ حَيَاةِ الْقَلْبِ، وَهُوَ أَصْلُ كُلِّ خَيْرٍ.",
-      "translation": "Di antaranya: Hilangnya rasa malu, padahal malu adalah bahan bagi kehidupan hati dan merupakan pangkal dari segala kebaikan."
+      "arabic": "الْمَعَاصِي تُضْعِفُ فِي الْقَلْبِ خُلُقَ الْحَيَاءِ الَّذِي هُوَ مَادَّةُ حَيَاةِ الْقَلْبِ.",
+      "translation": "Maksiat melemahkan sifat malu di hati, padahal malu adalah bahan pokok kehidupan hati."
     },
     {
-      "title": "Dosa Membuat Allah Melupakan Hamba-Nya",
-      "titleArabic": "نِسْيَانُ اللَّهِ لِلْعَبْدِ",
-      "arabic": "وَمِنْهَا: أَنَّهَا تُنْسِي الْعَبْدَ نَفْسَهُ، فَإِذَا نَسِيَ نَفْسَهُ أَهْمَلَهَا وَأَفْسَدَهَا وَأَهْلَكَهَا.",
-      "translation": "Di antaranya: Bahwa kemaksiatan membuat seorang hamba melupakan dirinya sendiri. Jika ia melupakan dirinya, ia akan menelantarkannya, merusaknya, dan membinasakannya."
+      "title": "Dampak Maksiat: Melemahkan Pengagungan kepada Allah",
+      "titleArabic": "تُضْعِفُ سُلْطَانَ الْقَدْرِ",
+      "arabic": "تُضْعِفُ فِي الْقَلْبِ تَعْظِيمَ الرَّبِّ جَلَّ جَلَالُهُ، وَتُضْعِفُ وَقَارَهُ فِي قَلْبِ الْعَبْدِ.",
+      "translation": "Maksiat melemahkan pengagungan kepada Rabb Jalla Jalaluhu di hati, dan mengurangi kewibawaan-Nya di hati hamba."
     },
     {
-      "title": "Pembagian Kemaksiatan: Tingkatan Dosa",
-      "titleArabic": "انْقِسَامُ الذُّنُوبِ إِلَى كَبَائِرَ وَصَغَائِرَ",
-      "arabic": "وَالذُّنُوبُ تَنْقَسِمُ إِلَى كَبَائِرَ وَصَغَائِرَ، وَقَدْ دَلَّ الْقُرْآنُ وَالسُّنَّةُ وَإِجْمَاعُ السَّلَفِ عَلَى ذَلِكَ.",
-      "translation": "Dosa terbagi menjadi dosa besar dan dosa kecil; Al-Qur'an, Sunnah, dan kesepakatan Salaf telah menunjukkan hal tersebut."
+      "title": "Dampak Maksiat: Allah Melupakan Hamba Tersebut",
+      "titleArabic": "نِسْيَانُ اللهِ لِلْعَبْدِ",
+      "arabic": "أَنَّ اللهَ يَنْسَاهُ وَيَتْرُكُهُ وَنَفْسَهُ وَشَيْطَانَهُ، وَهُنَالِكَ الْهَلَاكُ الَّذِي لَا يُرْجَى مَعَهُ فَلَاحٌ.",
+      "translation": "Bahwa Allah melupakannya dan membiarkannya bersama nafsunya dan syaitannya, dan di sanalah kehancuran yang tidak bisa diharapkan lagi keberuntungannya."
     },
     {
-      "title": "Kesyirikan: Dosa yang Paling Besar",
-      "titleArabic": "الشِّرْكُ بِاللَّهِ",
-      "arabic": "فَأَعْظَمُ الذُّنُوبِ عِنْدَ اللَّهِ الشِّرْكُ بِهِ، وَهُوَ أَنْ يَجْعَلَ لِلَّهِ نِدًّا وَهُوَ خَلَقَهُ.",
-      "translation": "Dosa yang paling besar di sisi Allah adalah menyekutukan-Nya (syirik), yaitu menjadikan tandingan bagi Allah padahal Dialah yang menciptakannya."
+      "title": "Dampak Maksiat: Mengeluarkan Hamba dari Lingkaran Ihsan",
+      "titleArabic": "الْخُرُوجُ مِنْ دَائِرَةِ الْإِحْسَانِ",
+      "arabic": "تُخْرِجُ الْعَبْدَ مِنْ دَائِرَةِ الْإِحْسَانِ، وَتَمْنَعُهُ ثَوَابَ الْمُحْسِنِينَ.",
+      "translation": "Maksiat mengeluarkan hamba dari lingkaran ihsan dan menghalanginya dari pahala orang-orang yang berbuat baik."
     },
     {
-      "title": "Dosa Berbicara Atas Nama Allah Tanpa Ilmu",
-      "titleArabic": "الْقَوْلُ عَلَى اللَّهِ بِغَيْرِ عِلْمٍ",
-      "arabic": "وَهُوَ أَشَدُّ تَحْرِيمًا مِنَ الشِّرْكِ، لِأَنَّهُ يَتَضَمَّنُ الْكِذْبَ عَلَى اللَّهِ وَتَغْيِيرَ دِينِهِ.",
-      "translation": "Hal ini (berbicara tanpa ilmu) lebih berat keharamannya daripada syirik dalam satu sisi, karena ia mengandung kedustaan atas nama Allah dan mengubah agama-Nya."
+      "title": "Dampak Maksiat: Melemahkan Perjalanan Menuju Allah",
+      "titleArabic": "تُضْعِفُ سَيْرَ الْقَلْبِ",
+      "arabic": "تُضْعِفُ سَيْرَ الْقَلْبِ إِلَى اللهِ وَالدَّارِ الْآخِرَةِ، أَوْ تَعُوقُهُ أَوْ تَقْطَعُهُ.",
+      "translation": "Maksiat melemahkan perjalanan hati menuju Allah dan negeri akhirat, atau menghambatnya atau memutusnya."
     },
     {
-      "title": "Bahaya Dosa Zina",
-      "titleArabic": "مَفْسَدَةُ الزِّنَا",
-      "arabic": "وَمَفْسَدَةُ الزِّنَا تَنَاقُضُ صَلَاحِ الْعَالَمِ، فَإِنَّ فِيهِ اخْتِلَاطَ الْأَنْسَابِ، وَفَسَادَ الْعِفَّةِ.",
-      "translation": "Kerusakan zina bertentangan dengan kebaikan tatanan dunia, karena di dalamnya terdapat percampuran nasab dan rusaknya kehormatan diri."
+      "title": "Dampak Maksiat: Menghilangkan Nikmat dan Mendatangkan Bencana",
+      "titleArabic": "زَوَالُ النِّعَمِ",
+      "arabic": "مَا زَالَتْ عَنِ الْعَبْدِ نِعْمَةٌ إِلَّا بِذَنْبٍ، وَلَا نَزَلَتْ بِهِ نِقْمَةٌ إِلَّا بِذَنْبٍ.",
+      "translation": "Tidaklah suatu nikmat hilang dari seorang hamba kecuali karena dosa, dan tidaklah bencana turun kepadanya kecuali karena dosa."
     },
     {
-      "title": "Bahaya Dosa Sodomi (Liwath)",
-      "titleArabic": "جَرِيمَةُ اللِّوَاطِ",
-      "arabic": "وَلَمَّا كَانَتْ مَفْسَدَةُ اللِّوَاطِ مِنْ أَعْظَمِ الْمَفَاسِدِ، كَانَتْ عُقُوبَتُهُ فِي الدُّنْيَا وَالْآخِرَةِ مِنْ أَعْظَمِ الْعُقُوبَاتِ.",
-      "translation": "Mengingat kerusakan liwath (sodomi) termasuk kerusakan terbesar, maka hukumannya di dunia dan akhirat termasuk hukuman yang paling berat."
+      "title": "Dampak Maksiat: Menimbulkan Rasa Takut di Hati",
+      "titleArabic": "إِلْقَاءُ الرُّعْبِ فِي الْقَلْبِ",
+      "arabic": "تُلْقِي الرُّعْبَ وَالْخَوْفَ فِي قَلْبِ الْعَاصِي، فَلَا تَرَاهُ إِلَّا خَائِفًا مَرْعُوبًا.",
+      "translation": "Maksiat melemparkan rasa gentar dan takut ke dalam hati pelaku maksiat, sehingga engkau tidak melihatnya melainkan dalam keadaan takut dan gemetar."
     },
     {
-      "title": "Hakikat Cinta (Mahabbah) kepada Allah",
-      "titleArabic": "أَصْلُ الْعِبَادَةِ مَحَبَّةُ اللَّهِ",
-      "arabic": "أَصْلُ الدِّينِ مَحَبَّةُ اللَّهِ وَحْدَهُ، وَأَنْ يَكُونَ اللَّهُ أَحَبَّ إِلَى الْعَبْدِ مِنْ كُلِّ مَا سِوَاهُ.",
-      "translation": "Pangkal agama adalah mencintai Allah semata, dan hendaknya Allah lebih dicintai oleh seorang hamba daripada segala sesuatu selain-Nya."
+      "title": "Dampak Maksiat: Membuat Hati Sakit atau Mati",
+      "titleArabic": "مَوْتُ الْقَلْبِ",
+      "arabic": "رَأَيْتُ الذُّنُوبَ تُمِيتُ الْقُلُوبَ *** وَقَدْ يُورِثُ الذُّلَّ إِدْمَانُهَا.",
+      "translation": "Aku melihat dosa-dosa mematikan hati, dan kecanduan padanya mewariskan kehinaan."
     },
     {
-      "title": "Penyakit 'Isyq (Cinta Buta) dan Obatnya",
-      "titleArabic": "دَاءُ الْعِشْقِ وَدَوَاؤُهُ",
-      "arabic": "وَالْعِشْقُ هُوَ دَاءٌ مِنْ أَدْوَاءِ الْقَلْبِ، فَإِذَا تَمَكَّنَ مِنْهُ عَزَّ عَلَى الْأَطِبَّاءِ عِلَاجُهُ.",
-      "translation": "'Isyq (cinta buta/berlebihan) adalah salah satu penyakit hati. Jika ia telah menguasai hati, maka para dokter pun akan kesulitan mengobatinya."
+      "title": "Dampak Maksiat: Mempersempit Hati",
+      "titleArabic": "ضِيقُ الصَّدْرِ",
+      "arabic": "أَنَّ الْمَعْصِيَةَ تَجْعَلُ الصَّدْرَ ضَيِّقًا حَرَجًا كَأَنَّمَا يَصَّعَّدُ فِي السَّمَاءِ.",
+      "translation": "Sesungguhnya maksiat membuat dada sempit dan sesak seolah-olah ia sedang mendaki ke langit."
     },
     {
-      "title": "Obat Pertama 'Isyq: Tauhid",
-      "titleArabic": "الْإِخْلَاصُ هُوَ دَوَاءُ الْعِشْقِ",
-      "arabic": "فَدَوَاءُ هَذَا الدَّاءِ الِاسْتِعَانَةُ بِاللَّهِ، وَإِخْلَاصُ الدِّينِ لَهُ، وَصِدْقُ اللَّجَإِ إِلَيْهِ.",
-      "translation": "Obat bagi penyakit ini adalah memohon pertolongan kepada Allah, mengikhlaskan agama hanya bagi-Nya, dan bersungguh-sungguh dalam bersandar kepada-Nya."
+      "title": "Dampak Maksiat: Menghilangkan Kewibawaan",
+      "titleArabic": "سُقُوطُ الْجَاهِ",
+      "arabic": "تَسْلُبُ صَاحِبَهَا اسْمَ الْبِرِّ وَالْإِيمَانِ وَتُعْطِيهِ اسْمَ الْفُجُورِ وَالْعِصْيَانِ.",
+      "translation": "Maksiat merampas nama kebajikan dan iman dari pemiliknya, dan memberinya julukan kefasikan dan kedurhakaan."
     },
     {
-      "title": "Muraqabah (Merasa Diawasi Allah)",
-      "titleArabic": "الْمُرَاقَبَةُ لِلَّهِ",
-      "arabic": "وَأَنْ يَعْلَمَ الْعَبْدُ أَنَّ اللَّهَ سُبْحَانَهُ مُطَّلِعٌ عَلَى قَلْبِهِ، عَالِمٌ بِسِرِّهِ وَنَجْوَاهُ.",
-      "translation": "Hendaknya seorang hamba menyadari bahwa Allah Subhanahu wa Ta'ala melihat hatinya, mengetahui rahasianya, dan bisikannya."
+      "title": "Dampak Maksiat: Menghilangkan Keberkahan",
+      "titleArabic": "مَحْقُ الْبَرَكَةِ",
+      "arabic": "تَمْحَقُ بَرَكَةَ الدِّينِ وَالدُّنْيَا.",
+      "translation": "Maksiat melenyapkan keberkahan agama dan dunia."
     },
     {
-      "title": "Perang Melawan Bisikan Setan (Khatharat)",
-      "titleArabic": "مُدَافَعَةُ الْخَطَرَاتِ",
-      "arabic": "فَإِنَّ الْخَطَرَاتِ مَبْدَأُ الْإِرَادَةِ وَالْفِعْلِ، فَإِذَا دَفَعَهَا الْعَبْدُ اسْتَرَاحَ مِمَّا بَعْدَهَا.",
-      "translation": "Sesungguhnya lintasan pikiran (khatharat) adalah awal dari keinginan dan perbuatan. Jika seorang hamba menolaknya, maka ia akan selamat dari hal-hal setelahnya."
+      "title": "Dampak Maksiat: Merendahkan Derajat Hamba",
+      "titleArabic": "سُقُوطُ الْمَنْزِلَةِ",
+      "arabic": "تَحُطُّ الْعَبْدَ مِنْ مَحَلِّ الشَّرَفِ إِلَى مَحَلِّ الْإِهَانَةِ.",
+      "translation": "Maksiat menurunkan hamba dari tempat kemuliaan ke tempat kehinaan."
     },
     {
-      "title": "Khatimah: Kembali kepada Allah",
-      "titleArabic": "الْخَاتِمَةُ: الرُّجُوعُ إِلَى اللَّهِ",
-      "arabic": "فَالْقَلْبُ لَا يَصْلُحُ وَلَا يُفْلِحُ وَلَا يَلْتَذُّ إِلَّا بِأَنْ يَكُونَ اللَّهُ وَحْدَهُ إِلَهَهُ وَفَاطِرَهُ وَمَعْبُودَهُ.",
-      "translation": "Maka hati tidak akan baik, beruntung, dan tidak akan merasakan lezatnya kehidupan, kecuali jika hanya Allah satu-satunya Ilah, Pencipta, dan Sesembahannya."
+      "title": "Dampak Maksiat: Menjadi Budak Syaitan",
+      "titleArabic": "الْعُبُودِيَّةُ لِلشَّيْطَانِ",
+      "arabic": "تَجْعَلُ الْعَبْدَ أَسِيرًا لِشَيْطَانِهِ، مَسْجُونًا فِي سِجْنِ شَهَوَاتِهِ.",
+      "translation": "Maksiat membuat hamba menjadi tawanan syaitannya, terpenjara dalam penjara hawa nafsunya."
+    },
+    {
+      "title": "Hakikat Dosa dan Pembagiannya",
+      "titleArabic": "أَقْسَامُ الذُّنُوبِ",
+      "arabic": "الذُّنُوبُ تَنْقَسِمُ إِلَى مَلَكِيَّةٍ، وَشَيْطَانِيَّةٍ، وَسَبُعِيَّةٍ، وَبَهِيمِيَّةٍ.",
+      "translation": "Dosa terbagi menjadi dosa sifat ketuhanan (melampaui batas), sifat syaitan (hasad), sifat binatang buas (zalim), dan sifat binatang ternak (syahwat)."
+    },
+    {
+      "title": "Dosa Besar: Syirik kepada Allah",
+      "titleArabic": "الشِّرْكُ بِاللهِ",
+      "arabic": "أَعْظَمُ الذُّنُوبِ عِنْدَ اللهِ الشِّرْكُ بِهِ، وَهُوَ نَوْعَانِ: شِرْكٌ أَكْبَرُ وَشِرْكٌ أَصْغَرُ.",
+      "translation": "Dosa yang paling besar di sisi Allah adalah syirik kepada-Nya, dan ia ada dua jenis: syirik besar dan syirik kecil."
+    },
+    {
+      "title": "Dosa Besar: Berbicara Tentang Allah Tanpa Ilmu",
+      "titleArabic": "الْقَوْلُ عَلَى اللهِ بِغَيْرِ عِلْمٍ",
+      "arabic": "الْقَوْلُ عَلَى اللهِ بِغَيْرِ عِلْمٍ فِي أَسْمَائِهِ وَصِفَاتِهِ وَأَفْعَالِهِ.",
+      "translation": "Berbicara tentang Allah tanpa ilmu mengenai nama-nama-Nya, sifat-sifat-Nya, dan perbuatan-perbuatan-Nya."
+    },
+    {
+      "title": "Dosa Besar: Membunuh Jiwa",
+      "titleArabic": "قَتْلُ النَّفْسِ",
+      "arabic": "قَتْلُ النَّفْسِ الَّتِي حَرَّمَ اللهُ إِلَّا بِالْحَقِّ.",
+      "translation": "Membunuh jiwa yang diharamkan Allah kecuali dengan alasan yang benar."
+    },
+    {
+      "title": "Dosa Besar: Zina dan Bahayanya",
+      "titleArabic": "جَرِيمَةُ الزِّنَا",
+      "arabic": "الزِّنَا يَجْمَعُ خِلَالَ الشَّرِّ كُلِّهَا، مِنْ قِلَّةِ الدِّينِ، وَذَهَابِ الْوَرَعِ، وَفَسَادِ الْمُرُوءَةِ.",
+      "translation": "Zina menghimpun seluruh sifat buruk, mulai dari kurangnya agama, hilangnya sifat wara', dan rusaknya kehormatan diri."
+    },
+    {
+      "title": "Penyakit 'Isyq (Cinta Berlebihan/Bucin)",
+      "titleArabic": "دَاءُ الْعِشْقِ",
+      "arabic": "الْعِشْقُ هُوَ مَرَضٌ نَفْسَانِيٌّ، وَمَبْدَأُهُ اسْتِحْسَانُ الصُّورَةِ ثُمَّ يَقْوَى حَتَّى يَصِيرَ عِشْقًا.",
+      "translation": "Al-'Isyq (cinta buta) adalah penyakit jiwa, bermula dari menganggap baik suatu rupa kemudian menguat hingga menjadi cinta yang menghamba."
+    },
+    {
+      "title": "Obat Bagi Penyakit 'Isyq",
+      "titleArabic": "عِلَاجُ الْعِشْقِ",
+      "arabic": "عِلَاجُهُ بِالْإِخْلَاصِ لِلَّهِ، وَالِاشْتِغَالِ بِمَحَبَّتِهِ عَنْ مَحَبَّةِ مَا سِوَاهُ.",
+      "translation": "Obatnya adalah dengan ikhlas kepada Allah dan menyibukkan diri dengan mencintai-Nya daripada mencintai selain-Nya."
+    },
+    {
+      "title": "Bahaya Memandang yang Haram",
+      "titleArabic": "فِتْنَةُ النَّظَرِ",
+      "arabic": "النَّظَرُ سَهْمٌ مَسْمُومٌ مِنْ سِهَامِ إِبْلِيسَ.",
+      "translation": "Pandangan adalah anak panah beracun dari anak panah iblis."
+    },
+    {
+      "title": "Keutamaan Menundukkan Pandangan",
+      "titleArabic": "غَضُّ الْبَصَرِ",
+      "arabic": "غَضُّ الْبَصَرِ يُورِثُ نُورًا فِي الْقَلْبِ، وَفَرَاسَةً صَادِقَةً.",
+      "translation": "Menundukkan pandangan mewariskan cahaya di dalam hati dan firasat yang jujur."
+    },
+    {
+      "title": "Hakikat Mahabbah (Cinta) kepada Allah",
+      "titleArabic": "مَحَبَّةُ اللهِ",
+      "arabic": "أَصْلُ كُلِّ دِينٍ هُوَ الْمَحَبَّةُ، وَأَعْلَى أَنْوَاعِهَا مَحَبَّةُ اللهِ وَحْدَهُ.",
+      "translation": "Asal dari setiap agama adalah cinta, dan jenis cinta yang paling tinggi adalah mencintai Allah semata."
+    },
+    {
+      "title": "Perbedaan Antara Cinta Karena Allah dan Syirik dalam Cinta",
+      "titleArabic": "الْحُبُّ فِي اللهِ وَالْحُبُّ مَعَ اللهِ",
+      "arabic": "الْفَرْقُ بَيْنَ أَنْ تُحِبَّ لِلَّهِ وَأَنْ تُحِبَّ مَعَ اللهِ، فَالْأَوَّلُ إِيمَانٌ وَالثَّانِي شِرْكٌ.",
+      "translation": "Perbedaan antara mencintai karena Allah dan mencintai bersama Allah (tandingan); yang pertama adalah iman dan yang kedua adalah syirik."
+    },
+    {
+      "title": "Pentingnya Sabar dalam Menghadapi Syahwat",
+      "titleArabic": "الصَّبْرُ عَلَى الشَّهَوَاتِ",
+      "arabic": "الصَّبْرُ عَنِ الْمَعْصِيَةِ أَيْسَرُ مِنَ الصَّبْرِ عَلَى عَذَابِ اللهِ.",
+      "translation": "Sabar meninggalkan maksiat lebih ringan daripada sabar menanggung azab Allah."
+    },
+    {
+      "title": "Tipu Daya Syaitan dalam Menghiasi Dosa",
+      "titleArabic": "تَزْيِينُ الشَّيْطَانِ",
+      "arabic": "يُزَيِّنُ الشَّيْطَانُ لِلْعَبْدِ الْمَعْصِيَةَ حَتَّى يَرَاهَا حَسَنَةً.",
+      "translation": "Syaitan menghiasi maksiat bagi hamba hingga ia melihatnya sebagai sesuatu yang baik."
+    },
+    {
+      "title": "Langkah-Langkah Syaitan Merusak Manusia",
+      "titleArabic": "خُطُوَاتُ الشَّيْطَانِ",
+      "arabic": "يَبْدَأُ بِالْخَاطِرَةِ، ثُمَّ الْفِكْرَةِ، ثُمَّ الْعَزِيمَةِ، ثُمَّ الْفِعْلِ.",
+      "translation": "Dia bermula dengan lintasan hati, kemudian pikiran, kemudian tekad, lalu perbuatan."
+    },
+    {
+      "title": "Penutup: Pentingnya Menjaga Hati",
+      "titleArabic": "خَاتِمَةٌ فِي حِفْظِ الْقَلْبِ",
+      "arabic": "فَالْقَلْبُ هُوَ الْمَلِكُ، وَالْجَوَارِحُ جُنُودُهُ، فَإِذَا طَابَ الْمَلِكُ طَابَتْ جُنُودُهُ.",
+      "translation": "Hati adalah raja, dan anggota badan adalah tentaranya. Jika rajanya baik, maka baik pula tentaranya."
     }
   ]
 }
