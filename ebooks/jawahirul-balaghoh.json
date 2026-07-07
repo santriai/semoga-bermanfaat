@@ -1,0 +1,194 @@
+{
+  "profile": {
+    "name": "Jawahirul Balaghah",
+    "originalTitle": "جَوَاهِرُ الْبَلَاغَةِ فِي الْمَعَانِي وَالْبَيَانِ وَالْبَدِيعِ",
+    "author": "As-Sayyid Ahmad al-Hasyimi (السيد أحمد الهاشمي)",
+    "field": "Balaghah (Retorika Bahasa Arab)",
+    "about": "Kitab Jawahirul Balaghah merupakan mahakarya dalam disiplin ilmu Balaghah yang menghimpun tiga pilar utama: Ma'ani, Bayan, dan Badi'. Kitab ini disusun secara sistematis dengan metodologi yang memudahkan pelajar tingkat menengah dan atas untuk memahami rahasia keindahan bahasa Arab (I'jaz al-Qur'an). Penulis menyajikan definisi yang padat, pembagian yang logis, serta contoh-contoh yang diambil dari ayat Al-Qur'an, Hadits, dan syair-syair Arab klasik. Kitab ini menjadi referensi wajib di berbagai lembaga pendidikan Islam dan Pesantren karena kelengkapannya dalam merangkum kaidah-kaidah retorika yang sebelumnya tersebar di berbagai kitab klasik seperti karya Al-Jurjani dan Al-Qazwini. Keunggulannya terletak pada penyajiannya yang lebih modern dan tertata rapi tanpa menghilangkan esensi turath.",
+    "authorBorn": "Kairo, Mesir (1295 H / 1878 M)",
+    "authorDied": "Kairo, Mesir (1362 H / 1943 M)",
+    "authorCentury": "Abad ke-14 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Pendahuluan: Definisi Al-Fashahah",
+      "titleArabic": "المقدمة: الفصاحة",
+      "arabic": "الفَصَاحَةُ فِي اللُّغَةِ: الظُّهُورُ وَالْبَيَانُ. وَفِي الِاصْطِلَاحِ: عِبَارَةٌ عَنِ الْأَلْفَاظِ الْبَيِّنَةِ الظَّاهِرَةِ، الْمُتَبَادِرَةِ إِلَى الْفَهْمِ، وَالْمَأْنُوسَةِ الِاسْتِعْمَالِ بَيْنَ الْكُتَّابِ وَالشُّعَرَاءِ.",
+      "translation": "Fashahah secara bahasa berarti terang dan jelas. Secara istilah, Fashahah adalah ungkapan tentang kata-kata yang jelas maknanya, mudah dipahami, serta akrab digunakan di kalangan penulis dan penyair."
+    },
+    {
+      "title": "Fashahah dalam Kata (Mufrad)",
+      "titleArabic": "فَصَاحَةُ الْكَلِمَةِ الْمُفْرَدَةِ",
+      "arabic": "فَصَاحَةُ الْكَلِمَةِ: خُلُوصُهَا مِنْ تَنَافُرِ الْحُرُوفِ، وَغَرَابَةِ الِاسْتِعْمَالِ، وَمُخَالَفَةِ الْقِيَاسِ الصَّرْفِيِّ.",
+      "translation": "Kefasihan kata mufrad adalah terbebasnya kata tersebut dari tanafur al-huruf (susunan huruf yang berat diucapkan), garabatul isti'mal (keanehan penggunaan), dan menyalahi qiyas sharaf (kaidah morfologi)."
+    },
+    {
+      "title": "Fashahah dalam Kalam (Kalimat)",
+      "titleArabic": "فَصَاحَةُ الْكَلَامِ",
+      "arabic": "فَصَاحَةُ الْكَلَامِ: سَلَامَتُهُ مِنْ تَنَافُرِ الْكَلِمَاتِ مُجْتَمِعَةً، وَضَعْفِ التَّأْلِيفِ، وَالتَّعْقِيدِ اللَّفْظِيِّ وَالْمَعْنَوِيِّ.",
+      "translation": "Kefasihan kalam (kalimat) adalah selamatnya kalimat tersebut dari tanafur al-kalimat (susunan kata yang berat diucapkan secara berangkaian), dha'fut ta'lif (lemahnya susunan kaidah nahwu), serta ta'qid lafdzi dan ma'nawi (kerumitan redaksi maupun makna)."
+    },
+    {
+      "title": "Definisi Al-Balaghah",
+      "titleArabic": "تَعْرِيفُ الْبَلَاغَةِ",
+      "arabic": "الْبَلَاغَةُ فِي اللُّغَةِ: الْوُصُولُ وَالِانْتِهَاءُ. وَفِي الِاصْطِلَاحِ: مُطَابَقَةُ الْكَلَامِ الْفَصِيحِ لِمُقْتَضَى الْحَالِ.",
+      "translation": "Balaghah secara bahasa berarti sampai dan berakhir. Secara istilah, Balaghah adalah kesesuaian kalam yang fasih dengan tuntutan situasi dan kondisi (muqtadha al-hal)."
+    },
+    {
+      "title": "Seni Ma'ani: Pengantar",
+      "titleArabic": "الْفَنُّ الْأَوَّلُ: عِلْمُ الْمَعَانِي",
+      "arabic": "عِلْمُ الْمَعَانِي: هُوَ عِلْمٌ يُعْرَفُ بِهِ أَحْوَالُ اللَّفْظِ الْعَرَبِيِّ الَّتِي بِهَا يُطَابِقُ مُقْتَضَى الْحَالِ.",
+      "translation": "Ilmu Ma'ani adalah ilmu yang mempelajari kondisi-kondisi lafadz bahasa Arab yang dengannya lafadz tersebut sesuai dengan tuntutan situasi (konteks)."
+    },
+    {
+      "title": "Kalam Khabar dan Insya'",
+      "titleArabic": "الْخَبَرُ وَالْإِنْشَاءُ",
+      "arabic": "الْكَلَامُ إِمَّا خَبَرٌ وَإِمَّا إِنْشَاءٌ. فَالْخَبَرُ: مَا يَحْتَمِلُ الصِّدْقَ وَالْكَذِبَ لِذَاتِهِ. وَالْإِنْشَاءُ: مَا لَا يَحْتَمِلُ الصِّدْقَ وَالْكَذِبَ.",
+      "translation": "Kalam terbagi dua: Khabar dan Insya'. Khabar adalah kalimat yang mengandung kemungkinan benar atau dusta secara zatnya. Insya' adalah kalimat yang tidak mengandung kemungkinan benar atau dusta."
+    },
+    {
+      "title": "Tujuan Kalam Khabar",
+      "titleArabic": "أَغْرَاضُ الْخَبَرِ",
+      "arabic": "الْأَصْلُ فِي الْخَبَرِ أَنْ يُلْقَى لِإِفَادَةِ الْمُخَاطَبِ: فَائِدَةَ الْحُكْمِ، أَوْ لَازِمَ الْفَائِدَةِ.",
+      "translation": "Tujuan asal penyampaian berita adalah memberikan faedah kepada lawan bicara berupa: Faidah al-Hukm (isi berita itu sendiri) atau Lazim al-Faidah (memberitahu bahwa pembicara mengetahui hal tersebut)."
+    },
+    {
+      "title": "Macam-macam Tingkatan Khabar",
+      "titleArabic": "أَضْرُبُ الْخَبَرِ",
+      "arabic": "أَضْرُبُ الْخَبَرِ ثَلَاثَةٌ: ابْتِدَائِيٌّ، وَطَلَبِيٌّ، وَإِنْكَارِيٌّ.",
+      "translation": "Macam-macam tingkatan penyampaian berita ada tiga: Ibtida'i (untuk orang netral), Thalabi (untuk yang ragu), dan Inkari (untuk yang mengingkari)."
+    },
+    {
+      "title": "Insya' Thalabi: Al-Amr (Perintah)",
+      "titleArabic": "الْإِنْشَاءُ الطَّلَبِيُّ: الْأَمْرُ",
+      "arabic": "الْأَمْرُ: هُوَ طَلَبُ الْفِعْلِ عَلَى وَجْهِ الِاسْتِعْلَاءِ وَالْإِلْزَامِ. وَلَهُ أَرْبَعُ صِيَغٍ: فِعْلُ الْأَمْرِ، الْمُضَارِعُ الْمَقْرُونُ بِلَامِ الْأَمْرِ، اسْمُ فِعْلِ الْأَمْرِ، وَالْمَصْدَرُ النَّائِبُ عَنْ فِعْلِ الْأَمْرِ.",
+      "translation": "Al-Amr (Perintah) adalah menuntut dikerjakannya suatu perbuatan dengan kedudukan lebih tinggi dan bersifat mengharuskan. Memiliki empat bentuk: Fi'il Amr, Fi'il Mudhari' dengan Lam Amr, Isim Fi'il Amr, dan Mashdar pengganti Fi'il Amr."
+    },
+    {
+      "title": "An-Nahyu (Larangan)",
+      "titleArabic": "النَّهْيُ",
+      "arabic": "النَّهْيُ: هُوَ طَلَبُ الْكَفِّ عَنِ الْفِعْلِ عَلَى وَجْهِ الِاسْتِعْلَاءِ وَالْإِلْزَامِ. وَلَهُ صِيغَةٌ وَاحِدَةٌ: الْمُضَارِعُ مَعَ لَا النَّاهِيَةِ.",
+      "translation": "An-Nahyu (Larangan) adalah tuntutan untuk menahan diri dari suatu perbuatan dengan kedudukan lebih tinggi dan bersifat mengharuskan. Hanya memiliki satu bentuk: Fi'il Mudhari' disertai Laa Nahiyah."
+    },
+    {
+      "title": "Al-Istifham (Pertanyaan)",
+      "titleArabic": "الِاسْتِفْهَامُ",
+      "arabic": "الِاسْتِفْهَامُ: هُوَ طَلَبُ الْعِلْمِ بِشَيْءٍ لَمْ يَكُنْ مَعْلُومًا مِنْ قَبْلُ. وَأَدَوَاتُهُ: الْهَمْزَةُ، هَلْ، مَا، مَنْ، مَتَى، أَيَّانَ، كَيْفَ، أَيْنَ، أَنَّى، كَمْ، وَأَيُّ.",
+      "translation": "Istifham adalah menuntut pengetahuan tentang sesuatu yang belum diketahui sebelumnya. Alat-alatnya adalah: Hamzah, Hal, Maa, Man, Mataa, Ayyaana, Kaifa, Ayna, Annaa, Kam, dan Ayu."
+    },
+    {
+      "title": "At-Tamanni (Pengandaian)",
+      "titleArabic": "التَّمَنِّي",
+      "arabic": "التَّمَنِّي: هُوَ طَلَبُ شَيْءٍ مَحْبُوبٍ لَا يُرْجَى حُصُولُهُ، إِمَّا لِكَوْنِهِ مُسْتَحِيلًا وَإِمَّا لِكَوْنِهِ مُمْكِنًا غَيْرَ مَطْمُوعٍ فِي نَيْلِهِ.",
+      "translation": "At-Tamanni adalah mengharapkan sesuatu yang disukai namun tidak mungkin tercapai, baik karena mustahil terjadi atau karena mungkin terjadi namun tidak diharapkan dapat diraih."
+    },
+    {
+      "title": "An-Nida' (Panggilan)",
+      "titleArabic": "النِّدَاءُ",
+      "arabic": "النِّدَاءُ: هُوَ طَلَبُ الْإِقْبَالِ بِحَرْفٍ نَائِبٍ مَنَابَ (أَدْعُو). وَأَدَوَاتُهُ ثَمَانٍ: الْهَمْزَةُ، وَأَيْ، وَيَا، وَآ، وَآي، وَأَيَا، وَهَيَا، وَوَا.",
+      "translation": "An-Nida' adalah menuntut kehadiran atau perhatian dengan huruf yang menggantikan posisi kata 'Ad'u' (aku memanggil). Alatnya ada delapan: Hamzah, Ay, Ya, Aa, Aay, Ayaa, Hayaa, dan Waa."
+    },
+    {
+      "title": "Al-Qashr (Pembatasan)",
+      "titleArabic": "الْقَصْرُ",
+      "arabic": "الْقَصْرُ: تَخْصِيصُ أَمْرٍ بِآخَرَ بِطَرِيقٍ مَخْصُوصٍ. وَطُرُقُهُ الْمَشْهُورَةُ أَرْبَعَةٌ: النَّفْيُ وَالِاسْتِثْنَاءُ، إِنَّمَا، الْعَطْفُ بِلَا أَوْ بَلْ أَوْ لَكِنْ، وَتَقْدِيمُ مَا حَقُّهُ التَّأْخِيرُ.",
+      "translation": "Al-Qashr adalah mengkhususkan suatu perkara pada perkara lain dengan cara tertentu. Cara populernya ada empat: Nafi dan Istitsna', Innama, Athaf dengan (Laa, Bal, atau Lakin), dan mendahulukan lafadz yang seharusnya di akhir."
+    },
+    {
+      "title": "Al-Insha' Ghayr at-Thalabi",
+      "titleArabic": "الْإِنْشَاءُ غَيْرُ الطَّلَبِيِّ",
+      "arabic": "الْإِنْشَاءُ غَيْرُ الطَّلَبِيِّ: هُوَ مَا لَا يَسْتَدْعِي مَطْلُوبًا غَيْرَ حَاصِلٍ وَقْتَ الطَّلَبِ. وَأَنْوَاعُهُ: التَّعَجُّبُ، وَمَدْحٌ وَذَمٌّ، وَقَسَمٌ، وَأَفْعَالُ الرَّجَاءِ، وَعُقُودٌ.",
+      "translation": "Insya' Ghayr Thalabi adalah kalimat yang tidak menuntut sesuatu yang belum terjadi saat diucapkan. Jenisnya antara lain: Ta'ajjub (kekaguman), Madah wa Dzamm (pujian/celaan), Qasam (sumpah), Af'al ar-Raja' (pengharapan), dan Shighat akad."
+    },
+    {
+      "title": "Al-I'jaz, Al-Ithnab, dan Al-Musawah",
+      "titleArabic": "الْإِيجَازُ وَالْإِطْنَابُ وَالْمُسَاوَاةُ",
+      "arabic": "الْمُسَاوَاةُ: أَنْ يَكُونَ اللَّفْظُ قَدْرَ الْمَعْنَى. الْإِيجَازُ: جَمْعُ الْمَعَانِي الْمُتَكَاثِرَةِ تَحْتَ اللَّفْظِ الْقَلِيلِ. الْإِطْنَابُ: زِيَادَةُ اللَّفْظِ عَلَى الْمَعْنَى لِفَائِدَةٍ.",
+      "translation": "Al-Musawah: Lafadz sama panjang dengan maknanya. Al-I'jaz: Mengumpulkan makna yang banyak dalam lafadz yang sedikit. Al-Ithnab: Menambahkan lafadz melebihi maknanya untuk suatu tujuan/faedah tertentu."
+    },
+    {
+      "title": "Seni Bayan: Pengantar",
+      "titleArabic": "الْفَنُّ الثَّانِي: عِلْمُ الْبَيَانِ",
+      "arabic": "عِلْمُ الْبَيَانِ: هُوَ عِلْمٌ يُعْرَفُ بِهِ إِيرَادُ الْمَعْنَى الْوَاحِدِ بِطُرُقٍ مُخْتَلِفَةٍ فِي وُضُوحِ الدَّلَالَةِ عَلَيْهِ.",
+      "translation": "Ilmu Bayan adalah ilmu untuk mengetahui cara menyampaikan satu makna dengan berbagai macam cara/redaksi dalam menjelaskan kejelasan maknanya."
+    },
+    {
+      "title": "At-Tasybih (Penyerupaan)",
+      "titleArabic": "التَّشْبِيهُ",
+      "arabic": "التَّشْبِيهُ: هُوَ الدَّلَالَةُ عَلَى مُشَارَكَةِ أَمْرٍ لِأَمْرٍ آخَرَ فِي صِفَةٍ وَاحِدَةٍ أَوْ أَكْثَرَ بِأَدَاةٍ مَذْكُورَةٍ أَوْ مَلْحُوظَةٍ.",
+      "translation": "Tasybih adalah menunjukkan persekutuan suatu perkara dengan perkara lain dalam satu sifat atau lebih dengan menggunakan alat (huruf tasybih) yang disebutkan atau tersirat."
+    },
+    {
+      "title": "Rukun Tasybih",
+      "titleArabic": "أَرْكَانُ التَّشْبِيهِ",
+      "arabic": "أَرْكَانُ التَّشْبِيهِ أَرْبَعَةٌ: الْمُشَبَّهُ، وَالْمُشَبَّهُ بِهِ (وَيُسَمَّيَانِ طَرَفَيِ التَّشْبِيهِ)، وَوَجْهُ الشَّبَهِ، وَأَدَاةُ التَّشْبِيهِ.",
+      "translation": "Rukun Tasybih ada empat: Mushabbah (yang diserupakan), Mushabbah bih (sesuatu yang diserupai), Wajhu Syabah (titik persamaan), dan Adat Tasybih (alat penyerupaan)."
+    },
+    {
+      "title": "Al-Majaz (Metafora)",
+      "titleArabic": "الْمَجَازُ",
+      "arabic": "الْمَجَازُ: هُوَ اللَّفْظُ الْمُسْتَعْمَلُ فِي غَيْرِ مَا وُضِعَ لَهُ فِي اصْطِلَاحِ التَّخَاطُبِ لِعَلَاقَةٍ مَعَ قَرِينَةٍ مَانِعَةٍ مِنْ إِرَادَةِ الْمَعْنَى الْحَقِيقِيِّ.",
+      "translation": "Majaz adalah lafadz yang digunakan bukan pada makna aslinya karena adanya keterkaitan (alaqah) serta petunjuk (qarinah) yang menghalangi pemahaman makna asli."
+    },
+    {
+      "title": "Al-Isti'arah",
+      "titleArabic": "الِاسْتِعَارَةُ",
+      "arabic": "الِاسْتِعَارَةُ: هِيَ مِنَ الْمَجَازِ اللُّغَوِيِّ، وَهِيَ تَشْبِيهٌ حُذِفَ أَحَدُ طَرَفَيْهِ، فَعَلَاقَتُهَا الْمُشَابَهَةُ دَائِمًا.",
+      "translation": "Isti'arah adalah bagian dari majaz lughawi, yaitu tasybih yang dibuang salah satu rukun utamanya (mushabbah atau mushabbah bih), dan hubungannya (alaqah) selalu berupa penyerupaan."
+    },
+    {
+      "title": "Al-Kinayah",
+      "titleArabic": "الْكِنَايَةُ",
+      "arabic": "الْكِنَايَةُ: لَفْظٌ أُرِيدَ بِهِ لَازِمُ مَعْنَاهُ مَعَ جَوَازِ إِرَادَةِ الْمَعْنَى الْأَصْلِيِّ لِعَدَمِ وُجُودِ قَرِينَةٍ مَانِعَةٍ.",
+      "translation": "Kinayah adalah lafadz yang dimaksudkan adalah konsekuensi maknanya, namun tetap memperbolehkan makna asli dipahami karena tidak adanya qarinah yang menghalangi."
+    },
+    {
+      "title": "Seni Badi': Pengantar",
+      "titleArabic": "الْفَنُّ الثَّالِثُ: عِلْمُ الْبَدِيعِ",
+      "arabic": "عِلْمُ الْبَدِيعِ: هُوَ عِلْمٌ يُعْرَفُ بِهِ وُجُوهُ تَحْسِينِ الْكَلَامِ بَعْدَ رِعَايَةِ مُطَابَقَتِهِ لِمُقْتَضَى الْحَالِ وَفَصَاحَتِهِ.",
+      "translation": "Ilmu Badi' adalah ilmu untuk mengetahui metode menghias/memperindah kalimat setelah terpenuhinya kesesuaian dengan konteks dan kefasihan bahasanya."
+    },
+    {
+      "title": "Muhassinat Ma'nawiyah: At-Thibaq",
+      "titleArabic": "الْمُحَسِّنَاتُ الْمَعْنَوِيَّةُ: الطِّبَاقُ",
+      "arabic": "الطِّبَاقُ: هُوَ الْجَمْعُ بَيْنَ الشَّيْءِ وَضِدِّهِ فِي الْكَلَامِ، وَهُوَ نَوْعَانِ: طِبَاقُ السَّلْبِ وَطِبَاقُ الْإِيجَابِ.",
+      "translation": "At-Thibaq adalah menghimpun dua kata yang berlawanan dalam satu kalimat. Terbagi dua: Thibaq Salab (menggunakan nafi/nahi) dan Thibaq Ijab (tanpa nafi/nahi)."
+    },
+    {
+      "title": "Al-Muqabalah",
+      "titleArabic": "الْمُقَابَلَةُ",
+      "arabic": "الْمُقَابَلَةُ: هِيَ أَنْ يُؤْتَى بِمَعْنَيَيْنِ أَوْ أَكْثَرَ، ثُمَّ يُؤْتَى بِمَا يُقَابِلُ ذَلِكَ عَلَى التَّرْتِيبِ.",
+      "translation": "Al-Muqabalah adalah mendatangkan dua makna atau lebih, kemudian mendatangkan lawan-lawan makna tersebut secara berurutan."
+    },
+    {
+      "title": "Tauriyah",
+      "titleArabic": "التَّوْرِيَةُ",
+      "arabic": "التَّوْرِيَةُ: هِيَ أَنْ يَذْكُرَ الْمُتَكَلِّمُ لَفْظًا مُفْرَدًا لَهُ مَعْنَيَانِ: قَرِيبٌ ظَاهِرٌ غَيْرُ مُرَادٍ، وَبَعِيدٌ خَفِيٌّ هُوَ الْمُرَادُ.",
+      "translation": "Tauriyah adalah pembicara menyebutkan satu kata yang memiliki dua makna: makna dekat (jelas) yang tidak dimaksudkan, dan makna jauh (samar) yang justru itulah yang dimaksudkan."
+    },
+    {
+      "title": "Muhassinat Lafdziyah: Al-Jinas",
+      "titleArabic": "الْمُحَسِّنَاتُ اللَّفْظِيَّةُ: الْجِنَاسُ",
+      "arabic": "الْجِنَاسُ: هُوَ أَنْ يَتَشَابَهَ اللَّفْظَانِ فِي النُّطْقِ وَيَخْتَلِفَا فِي الْمَعْنَى. وَهُوَ نَوْعَانِ: تَامٌّ وَغَيْرُ تَامٍّ.",
+      "translation": "Al-Jinas adalah kemiripan dua lafadz dalam pengucapan namun berbeda dalam makna. Terbagi dua: Jinas Taam (sempurna kemiripannya) dan Ghayr Taam (tidak sempurna)."
+    },
+    {
+      "title": "As-Saja' (Rima)",
+      "titleArabic": "السَّجْعُ",
+      "arabic": "السَّجْعُ: هُوَ تَوَافُقُ الْفَاصِلَتَيْنِ فِي الْحَرْفِ الْأَخِيرِ، وَأَفْضَلُهُ مَا تَسَاوَتْ فِقَرُهُ.",
+      "translation": "As-Saja' adalah kesamaan dua akhir kalimat pada huruf terakhirnya. Yang paling utama adalah yang potongan-potongan kalimatnya seimbang."
+    },
+    {
+      "title": "Iqtibas",
+      "titleArabic": "الِاقْتِبَاسُ",
+      "arabic": "الِاقْتِبَاسُ: هُوَ أَنْ يُضَمِّنَ الْمُتَكَلِّمُ كَلَامَهُ (نَثْرًا أَوْ شِعْرًا) شَيْئًا مِنَ الْقُرْآنِ الْكَرِيمِ أَوِ الْحَدِيثِ الشَّرِيفِ مِنْ غَيْرِ دَلَالَةٍ عَلَى أَنَّهُ مِنْهُمَا.",
+      "translation": "Iqtibas adalah menyisipkan kutipan dari Al-Qur'an atau Hadits ke dalam sebuah ucapan (prosa maupun puisi) tanpa memberi isyarat secara terang-terangan bahwa itu adalah kutipan."
+    },
+    {
+      "title": "Khatimah (Penutup): Sariqat Syi'riyah",
+      "titleArabic": "الخاتمة: السَّرِقَاتُ الشِّعْرِيَّةُ",
+      "arabic": "السَّرِقَاتُ الشِّعْرِيَّةُ: أَنْ يَأْخُذَ الشَّاعِرُ مَعْنَى شَاعِرٍ آخَرَ. وَهِيَ أَنْوَاعٌ مِنْهَا الْمَحْمُودُ وَمِنْهَا الْمَذْمُومُ.",
+      "translation": "Sariqat Syi'riyah (Plagiarisme Puisi) adalah seorang penyair mengambil makna dari penyair lain. Ini memiliki beberapa jenis, ada yang terpuji (karena dikembangkan) dan ada yang tercela (plagiasi murni)."
+    }
+  ]
+}
