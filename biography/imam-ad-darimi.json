@@ -1,66 +1,83 @@
 {
-  "fullName": "Abdullah bin Abdurrahman bin al-Fadhl bin Bahram bin Abdus Shamad at-Tamimi ad-Darimi as-Samarqandi (عبد الله بن عبد الرحمن بن الفضل بن بهرام التميمي الدارمي السمرقندي)",
-  "titles": "Al-Imam, Al-Hafiz, Syaikhul Islam, Musnad ad-Dunya",
-  "birthYear": "181 H / 797 M",
-  "deathYear": "255 H / 869 M",
+  "fullName": "الإمام الحافظ عبد الله بن عبد الرحمن الدارمي (Abdullah bin Abdul Rahman bin al-Fadl bin Bahram bin Abdus-Samad al-Tamimi ad-Darimi al-Samarqandi)",
+  "titles": "Imamul Hafiz, Syaikhul Islam, Musnid ad-Dunya, Al-Imam al-Qudwah, Al-Bahr (Sang Samudra Ilmu)",
+  "birthYear": "181 Hijriyah / 797 Masehi",
+  "deathYear": "255 Hijriyah / 869 Masehi",
   "century": "Abad ke-3 Hijriyah",
-  "birthDeath": "181 H - 255 H (797 M - 869 M)",
-  "intro": "Imam Ad-Darimi adalah seorang ulama hadis terkemuka dan tokoh sentral dalam transmisi ilmu hadis di wilayah Transoxiana (Samarqand). Beliau dikenal karena ketelitian, kezuhudan, dan kitab Sunan-nya yang memiliki kedudukan istimewa di kalangan para pakar hadis.",
+  "birthDeath": "Lahir di Samarkand (Transoxiana), Wafat di Merv (wilayah Khurasan)",
+  "tombLocation": "Merv (Marw), wilayah kuno yang kini berada di Mary, Turkmenistan.",
+  "googleMapsLink": "https://maps.app.goo.gl/uX7M8u7JzZ88z4S7A",
+  "intro": "Imam Ad-Darimi adalah salah satu pilar utama dalam transmisi Hadis Nabi SAW dan merupakan tokoh sentral dalam perkembangan ilmu riwayat di wilayah Transoxiana. Kitab Sunan-nya diakui sebagai salah satu referensi paling awal dan terpercaya yang sering disejajarkan dengan Kutubus Sittah. Beliau dikenal bukan hanya karena hafalannya yang kokoh, tetapi juga karena ketelitiannya dalam memilah perawi serta keteguhannya dalam membela akidah Salaf.",
   "teachers": [
-    "Yazid bin Harun",
-    "Ya'la bin Ubaid",
-    "Abu Bakr bin Abi Syaibah",
-    "Ishaq bin Rahwayh",
-    "Affan bin Muslim"
+    "Yazid bin Harun (Ulama besar Wasit)",
+    "Abu Nu'aim al-Fadl bin Dukain (Guru Imam Bukhari)",
+    "Ya'la bin Ubaid al-Tanafisi",
+    "Ja'far bin 'Aun",
+    "Bishr bin Umar az-Zahrani",
+    "Abul Walid al-Tayalisi",
+    "Zaid bin Yahya al-Dimashqi"
   ],
   "students": [
-    "Imam Muslim bin al-Hajjaj",
-    "Imam Abu Dawud",
-    "Imam At-Tirmidzi",
-    "An-Nasa'i",
-    "Baqi bin Makhlad"
+    "Imam Muslim bin al-Hajjaj (Penulis Shahih Muslim)",
+    "Imam Abu Daud al-Sijistani (Penulis Sunan Abu Daud)",
+    "Imam Abu Isa At-Tirmidzi (Penulis Jami' At-Tirmidzi)",
+    "Imam An-Nasa'i (Penulis Sunan An-Nasa'i)",
+    "Abu Zur'ah al-Razi",
+    "Abu Hatim al-Razi",
+    "Abul Abbas al-Hasan bin Sufyan"
   ],
   "works": [
-    "Sunan ad-Darimi (Al-Musnad al-Jami')",
-    "At-Tafsir",
-    "Al-Jami'",
-    "Al-Khulafa",
-    "As-Sulasiyat"
+    "Sunan Ad-Darimi (Dikenal juga sebagai Al-Musnad al-Jami')",
+    "Tafsir Ad-Darimi (Tafsir al-Kabir)",
+    "Al-Jami' fi al-Hadith",
+    "Ar-Radd 'ala al-Jahmiyyah (Bantahan terhadap aliran Jahmiyyah)",
+    "Kitab as-Sunnah",
+    "Thulathiyat ad-Darimi (Hadis dengan sanad hanya tiga perantara)"
   ],
+  "sanad": "Sanad beliau merupakan salah satu yang tertinggi (Aali) pada zamannya. Beliau menjadi jembatan krusial antara generasi Atba' al-Tabi'in (seperti Yazid bin Harun) dengan generasi penyusun kitab-kitab induk hadis (Kutubus Sittah). Kepercayaan para ulama terhadap sanadnya sangat tinggi, bahkan Imam Muslim meriwayatkan hadis darinya dalam kitab Shahihnya sebagai bentuk penghormatan atas otoritas keilmuan beliau.",
+  "manhaj": "Dalam Fiqih, beliau mengikuti madzhab Ahlul Hadith yang mengedepankan Nash (teks) daripada Ra'yu (logika), dengan kecenderungan yang dekat dengan Imam Ahmad bin Hanbal. Dalam Akidah, beliau adalah pembela teguh Ahlus Sunnah wal Jama'ah, yang terbukti dari karyanya 'Ar-Radd ala al-Jahmiyyah' yang sangat otoritatif dalam menjelaskan sifat-sifat Allah berdasarkan teks wahyu.",
   "timeline": [
     {
       "year": "181 H",
-      "event": "Dilahirkan di Samarqand (sekarang wilayah Uzbekistan)."
+      "event": "Lahir di Samarkand dalam lingkungan keluarga yang mencintai ilmu."
     },
     {
-      "year": "200 H",
-      "event": "Memulai Rihlah Ilmiah (perjalanan menuntut ilmu) ke Hijaz, Syam, Mesir, dan Irak."
+      "year": "195-210 H",
+      "event": "Melakukan rihlah ilmiah luas ke Hijaz, Irak, Syam, dan Mesir untuk menemui para Kibar al-Masyayikh."
     },
     {
-      "year": "250 H",
-      "event": "Menjadi rujukan utama (Marja') bagi para pencari hadis dari seluruh penjuru negeri Islam."
+      "year": "230 H",
+      "event": "Mulai menyusun kitab Al-Musnad (Sunan Ad-Darimi) yang menjadi rujukan dunia Islam."
+    },
+    {
+      "year": "240 H",
+      "event": "Ditunjuk menjadi Qadi (Hakim) di Merv, namun mengundurkan diri setelah hanya menangani satu kasus karena sifat wara' yang sangat tinggi."
     },
     {
       "year": "255 H",
-      "event": "Wafat pada hari Tarwiyah (8 Dzulhijjah) di Marw."
+      "event": "Wafat pada hari Tarwiyah (8 Dzulhijjah) setelah shalat Ashar di Merv."
     }
   ],
   "narrativeSections": [
     {
-      "title": "Kelahiran & Masa Kecil",
-      "content": "Lahir pada tahun 181 H di kota Samarqand, salah satu pusat peradaban Islam di Transoxiana. Beliau berasal dari kabilah Bani Tamim, tepatnya dari cabang keturunan Darim bin Malik. Sejak kecil, beliau telah menunjukkan kecerdasan luar biasa dan minat besar pada ilmu-ilmu keislaman, terutama Hadis Nabi."
+      "title": "Nasab & Kelahiran",
+      "content": "Beliau adalah Abu Muhammad Abdullah bin Abdul Rahman bin al-Fadl bin Bahram bin Abdus Samad al-Tamimi ad-Darimi al-Samarqandi. Beliau lahir di Samarkand, wilayah Transoxiana (sekarang Uzbekistan), pada tahun 181 H, bertepatan dengan tahun wafatnya Imam Abdullah bin al-Mubarak. Nasab 'Ad-Darimi' berasal dari kabilah Bani Darim bin Malik dari suku Tamim, sebuah suku Arab besar yang bermigrasi ke wilayah Khurasan."
     },
     {
-      "title": "Rihlah Ilmiah (Pendidikan & Guru)",
-      "content": "Beliau melakukan perjalanan intelektual yang luas, mengunjungi pusat-pusat ilmu seperti Kufah, Basrah, Baghdad, Damaskus, Mekah, dan Madinah. Keagungan sanadnya diakui karena beliau meriwayatkan dari tokoh-tokoh besar seperti Yazid bin Harun dan Abu Bakr bin Abi Syaibah. Beliau tidak hanya dikenal sebagai penghafal hadis, tetapi juga seorang ahli fiqh yang mendalam."
+      "title": "Masa Menuntut Ilmu (Rihlah)",
+      "content": "Ad-Darimi dikenal sebagai pengelana ilmu (Jawwal). Beliau tidak hanya menetap di Samarkand, tetapi melakukan perjalanan jauh ke pusat-pusat peradaban Islam. Beliau mendatangi Baghdad, Kufah, Basrah, Damaskus, Mesir, dan Makkah-Madinah. Ketekunannya dalam mencari sanad yang tinggi (Aali) menjadikannya rujukan bagi para pencari hadis di masanya. Kecerdasannya yang luar biasa membuat beliau mampu menghafal dan membedakan antara hadis yang shahih dan yang cacat (Illa) dengan sangat cepat."
     },
     {
-      "title": "Karya & Peninggalan",
-      "content": "Karya monumentalnya, Sunan ad-Darimi (atau Musnad ad-Darimi), sering kali disejajarkan dengan Kutubus Sittah oleh sebagian ulama karena kualitas perawi dan susunan babnya yang sistematis. Selain itu, kontribusi beliau sangat besar dalam mencetak generasi ulama besar seperti Imam Muslim dan At-Tirmidzi yang menjadi pilar ilmu hadis di masa setelahnya."
+      "title": "Masa Pengabdian & Karya",
+      "content": "Karya monumentalnya, 'Sunan Ad-Darimi', meskipun dinamakan Musnad oleh sebagian ulama, sebenarnya disusun berdasarkan bab-bab fiqih (Sunan). Kitab ini sangat istimewa karena mukadimahnya berisi sejarah periwayatan hadis dan adab penuntut ilmu yang sangat komprehensif. Sebagai guru, beliau adalah 'pencetak para raksasa', di mana hampir semua imam besar Kutubus Sittah (kecuali Al-Bukhari yang meski sezaman namun Ad-Darimi adalah rekannya) mengambil ilmu dan meriwayatkan darinya."
     },
     {
-      "title": "Wafat & Makam",
-      "content": "Imam Ad-Darimi wafat pada hari Kamis, bertepatan dengan hari Tarwiyah (8 Dzulhijjah) tahun 255 Hijriyah. Beliau dimakamkan pada hari Arafah di kota Marw (Merv) setelah menunaikan shalat Ashar. Kepergian beliau ditangisi oleh umat Islam dan para ulama sezamannya yang merasa kehilangan salah satu penjaga Sunnah Nabi yang paling teguh."
+      "title": "Karakter & Keteladanan",
+      "content": "Imam Ad-Darimi dikenal dengan sifat zuhud, wara', dan ketajaman akalnya. Diceritakan bahwa ketika beliau diangkat menjadi Qadi di Merv, beliau melakukannya dengan berat hati. Setelah menyelesaikan satu kasus hukum dengan sangat adil, beliau segera mengundurkan diri karena khawatir akan tanggung jawab berat di hadapan Allah. Beliau juga dikenal sangat pemberani dalam menyatakan kebenaran, terutama saat menghadapi fitnah pemikiran yang menyimpang di wilayah Khurasan."
+    },
+    {
+      "title": "Wafat & Warisan Keilmuan",
+      "content": "Beliau wafat pada hari Kamis, 8 Dzulhijjah 255 H (Hari Tarwiyah) dan dimakamkan pada hari Jumat (Hari Arafah). Kepergiannya merupakan duka besar bagi umat Islam saat itu. Imam Al-Bukhari sangat berduka atas wafatnya Ad-Darimi dan mendoakannya dengan penuh hormat. Warisan utamanya bukan hanya kitab-kitabnya, tetapi metodologi kritik hadis yang ketat yang kemudian disempurnakan oleh murid-muridnya seperti Imam Muslim dalam Shahih-nya."
     }
   ]
 }
