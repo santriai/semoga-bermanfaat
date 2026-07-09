@@ -1,386 +1,314 @@
 {
   "profile": {
     "name": "Al-Jami' li Ahkam al-Qur'an",
-    "originalTitle": "الْجَامِعُ لِأَحْكَامِ الْقُرْآنِ",
-    "author": "Imam Abu 'Abdullah Muhammad bin Ahmad bin Abu Bakr al-Ansari al-Qurtubi",
-    "field": "Tafsir (Fiqh al-Qur'an)",
-    "about": "Kitab ini merupakan salah satu karya tafsir paling monumental yang berfokus pada pengambilan hukum (istinbat) dari ayat-ayat Al-Qur'an. Berbeda dengan tafsir sufistik atau linguistik murni, Imam al-Qurtubi menekankan pada aspek hukum fikih tanpa mengabaikan aspek qira'at, i'rab, dan asbabun nuzul. Kitab ini menjadi rujukan utama dalam mazhab Maliki, namun tetap menyajikan perbandingan mazhab secara luas dan objektif. Penulis menjauhi penyebutan kisah-kisah Israiliyat yang tidak berdasar dan lebih mengedepankan hadits-hadits sahih serta pendapat para fukaha. Struktur penulisannya sangat sistematis, dimulai dengan mukadimah panjang mengenai adab Al-Qur'an sebelum masuk ke penafsiran per ayat.",
-    "authorBorn": "Cordoba, Al-Andalus (Spanyol), 1214 M",
-    "authorDied": "Munya Abi al-Khusayb, Mesir, 1273 M",
-    "authorCentury": "Abad ke-7 Hijriyah / Abad ke-13 Masehi"
+    "originalTitle": "اَلْجَامِعُ لِأَحْكَامِ الْقُرْآنِ وَالْمُبَيِّنُ لِمَا تَضَمَّنَهُ مِنَ السُّنَّةِ وَآيِ الْفُرْقَانِ",
+    "author": "Al-Imam Abu 'Abdullah Muhammad ibn Ahmad ibn Abu Bakr al-Anshari al-Qurtubi",
+    "field": "Tafsir Ahkam (Fiqh al-Qur'an)",
+    "about": "Kitab ini merupakan salah satu karya tafsir paling komprehensif yang memfokuskan pada ekstraksi hukum-hukum fikih dari ayat Al-Qur'an. Penulisnya, Imam al-Qurtubi, tidak hanya membahas hukum dari perspektif Madzhab Maliki, tetapi juga membandingkan pendapat para imam madzhab lainnya dengan adil. Selain sisi hukum, kitab ini juga mencakup pembahasan bahasa (lughah), qira'at, i'rab, serta nasikh dan mansukh. Kitab ini dianggap sebagai rujukan utama dalam bidang Tafsir Ahkam karena ketelitian metodologinya dan keluasan pembahasannya. Imam al-Qurtubi juga sangat menjaga adab dalam mengutip pendapat serta seringkali menyertakan asbabun nuzul secara detail.",
+    "authorBorn": "604 H / 1208 M (Cordoba, Al-Andalus)",
+    "authorDied": "671 H / 1273 M (Minya, Mesir)",
+    "authorCentury": "Abad ke-7 Hijriah"
   },
   "chapters": [
     {
-      "title": "Keutamaan Al-Qur'an Secara Umum",
-      "titleArabic": "بَابُ فَضْلِ الْقُرْآنِ وَالْحَثِّ عَلَى طَلَبِهِ",
-      "arabic": "قَالَ اللَّهُ تَعَالَى: {إِنَّ هَذَا الْقُرْآنَ يَهْدِي لِلَّتِي هِيَ أَقْوَمُ}. وَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ».",
-      "translation": "Bab tentang keutamaan Al-Qur'an dan anjuran untuk mempelajarinya. Allah SWT berfirman: 'Sesungguhnya Al-Qur'an ini memberikan petunjuk kepada (jalan) yang lebih lurus'. Dan Rasulullah SAW bersabda: 'Sebaik-baik kalian adalah orang yang belajar Al-Qur'an dan mengajarkannya'."
+      "title": "Muqaddimah: Keutamaan Al-Qur'an",
+      "titleArabic": "بَابُ مَا جَاءَ فِي فَضْلِ الْقُرْآنِ وَفَضْلِ أَهْلِهِ",
+      "arabic": "قَالَ الشَّيْخُ اَلْإِمَامُ أَبُو عَبْدِ اللهِ مُحَمَّدُ بْنُ أَحْمَدَ بْنِ أَبِي بَكْرٍ الْقُرْطُبِيُّ: اَلْحَمْدُ لِلَّهِ الْمُتَفَرِّدِ بِالْكِبْرِيَاءِ وَالْعَظَمَةِ. هَذَا بَابٌ فِي ذِكْرِ بَعْضِ مَا جَاءَ فِي فَضْلِ الْقُرْآنِ وَأَهْلِهِ وَالْحَثِّ عَلَى تَعَلُّمِهِ وَتَعْلِيمِهِ.",
+      "translation": "Syaikh Imam Abu 'Abdullah Muhammad bin Ahmad bin Abi Bakr Al-Qurtubi berkata: Segala puji bagi Allah yang Maha Esa dalam keagungan dan kebesaran. Ini adalah bab mengenai penyebutan sebagian riwayat tentang keutamaan Al-Qur'an, keutamaan para penghafalnya, serta anjuran untuk mempelajari dan mengajarkannya."
     },
     {
-      "title": "Tata Cara Membaca Al-Qur'an dan Kewajiban Ikhlas",
-      "titleArabic": "بَابُ كَيْفِيَّةِ التِّلَاوَةِ وَأَدَبِ الْقَارِئِ وَإِخْلَاصِ النِّيَّةِ",
-      "arabic": "يَنْبَغِي لِقَارِئِ الْقُرْآنِ أَنْ يَسْتَحْضِرَ نِيَّةَ الْإِخْلَاصِ لِلَّهِ تَعَالَى، وَأَنْ يَكُونَ عَلَى طَهَارَةٍ، وَيَسْتَاكَ، وَيَسْتَقْبِلَ الْقِبْلَةَ.",
-      "translation": "Bab tentang tata cara tilawah, adab pembaca, dan keharusan mengikhlaskan niat. Hendaknya pembaca Al-Qur'an menghadirkan niat ikhlas karena Allah Ta'ala, dalam keadaan suci, bersiwak, dan menghadap kiblat."
+      "title": "Adab Membaca dan Menghafal Al-Qur'an",
+      "titleArabic": "بَابُ كَيْفِيَّةِ التِّلَاوَةِ لِكِتَابِ اللَّهِ تَعَالَى وَمَا يُكْرَهُ مِنْهَا",
+      "arabic": "يَنْبَغِي لِتَالِي الْقُرْآنِ أَنْ يَسْتَعْمِلَ الصِّدْقَ فِي تِلاوَتِهِ، وَيَتَأَدَّبَ بِآدَابِهِ، وَيَتَخَلَّقَ بِأَخْلَاقِهِ الشَّرِيفَةِ.",
+      "translation": "Sepatutnya bagi pembaca Al-Qur'an untuk menggunakan kejujuran dalam tilawahnya, beradab dengan adab-adabnya, dan berakhlak dengan akhlaknya yang mulia."
     },
     {
-      "title": "Peringatan Terhadap Riya bagi Ahli Al-Qur'an",
-      "titleArabic": "بَابُ التَّحْذِيرِ مِنَ الرِّيَاءِ فِي قِرَاءَةِ الْقُرْآنِ",
-      "arabic": "رُوِيَ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّ أَوَّلَ مَنْ تُسَعَّرُ بِهِمُ النَّارُ ثَلَاثَةٌ، مِنْهُمْ قَارِئٌ قَرَأَ لِيُقَالَ قَارِئٌ.",
-      "translation": "Bab peringatan dari sifat riya dalam membaca Al-Qur'an. Diriwayatkan dari Nabi SAW bahwa orang yang pertama kali dinyalakan api neraka untuk mereka ada tiga, salah satunya adalah pembaca Al-Qur'an yang membaca agar dikatakan sebagai 'Qari'."
+      "title": "Peringatan Terhadap Tafsir bi al-Ra'yi",
+      "titleArabic": "بَابُ التَّحْذِيرِ مِنْ تَنْزِيلِ الْقُرْآنِ عَلَى مَا يَهْوَاهُ الْإِنْسَانُ",
+      "arabic": "مَنْ قَالَ فِي الْقُرْآنِ بِرَأْيِهِ فَلْيَتَبَوَّأْ مَقْعَدَهُ مِنَ النَّارِ. وَهَذَا تَحْذِيرٌ شَدِيدٌ لِئَلَّا يَتَفَسَّرَ الْقُرْآنُ بِمُجَرَّدِ الظَّنِّ.",
+      "translation": "Barangsiapa berkata tentang Al-Qur'an dengan pendapatnya sendiri (tanpa ilmu), maka hendaknya ia menyiapkan tempat duduknya di neraka. Ini adalah peringatan keras agar Al-Qur'an tidak ditafsirkan semata-mata dengan persangkaan."
     },
     {
-      "title": "Kewajiban Menjaga Al-Qur'an dari Kelalaian",
-      "titleArabic": "بَابُ تَعَاهُدِ الْقُرْآنِ وَالْمُحَافَظَةِ عَلَيْهِ",
-      "arabic": "قَالَ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «تَعَاهَدُوا هَذَا الْقُرْآنَ، فَوَالَّذِي نَفْسِي بِيَدِهِ لَهُوَ أَشَدُّ تَفَلُّتًا مِنَ الْإِبِلِ فِي عُقُلِهَا».",
-      "translation": "Bab menjaga hafalan Al-Qur'an dan memeliharanya. Rasulullah SAW bersabda: 'Jagalah Al-Qur'an ini, demi Dzat yang jiwaku berada di tangan-Nya, sungguh ia lebih cepat lepas daripada unta dari ikatannya'."
+      "title": "Pengumpulan Al-Qur'an dan Tertib Mushaf",
+      "titleArabic": "بَابُ جَمْعِ الْقُرْآنِ وَسَبَبِ كَتْبِ عُثْمَانَ الْمَصَاحِفَ",
+      "arabic": "اعْلَمْ أَنَّ الْقُرْآنَ كَانَ مَفْرُوقًا فِي الصُّدُورِ وَالرِّقَاعِ، حَتَّى جَمَعَهُ أَبُو بَكْرٍ ثُمَّ عُثْمَانُ رَضِيَ اللَّهُ عَنْهُمَا.",
+      "translation": "Ketahuilah bahwa Al-Qur'an dahulu terpisah-pisah dalam dada (hafalan) dan lembaran kulit, hingga Abu Bakar mengumpulkannya kemudian Utsman radhiyallahu 'anhuma menyusun mushaf."
     },
     {
-      "title": "Hukum Memperindah Suara Saat Membaca Al-Qur'an",
-      "titleArabic": "بَابُ التَّرْتِيلِ وَتَحْسِينِ الصَّوْتِ بِالْقُرْآنِ",
-      "arabic": "قَالَ اللَّهُ تَعَالَى: {وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا}. وَقَالَ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «زَيِّنُوا الْقُرْآنَ بِأَصْوَاتِكُمْ».",
-      "translation": "Bab tartil dan memperindah suara dengan Al-Qur'an. Allah SWT berfirman: 'Dan bacalah Al-Qur'an itu dengan perlahan/tartil'. Dan Nabi SAW bersabda: 'Hiasilah Al-Qur'an dengan suara-suara kalian'."
+      "title": "Penjelasan Mengenai Tujuh Huruf",
+      "titleArabic": "بَابُ ذِكْرِ الْأَحْرُفِ السَّبْعَةِ الَّتِي نَزَلَ بِهَا الْقُرْآنُ",
+      "arabic": "قَوْلُهُ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: أُنْزِلَ الْقُرْآنُ عَلَى سَبْعَةِ أَحْرُفٍ كُلُّهَا شَافٍ كَافٍ.",
+      "translation": "Sabda Nabi SAW: Al-Qur'an diturunkan atas tujuh huruf, semuanya menyembuhkan dan mencukupi."
     },
     {
-      "title": "Larangan Menafsirkan Al-Qur'an Hanya Dengan Akal Murni",
-      "titleArabic": "بَابُ النَّهْيِ عَنْ تَفْسِيرِ الْقُرْآنِ بِالرَّأْيِ",
-      "arabic": "مَنْ قَالَ فِي الْقُرْآنِ بِرَأْيِهِ أَوْ بِمَا لَا يَعْلَمُ فَلْيَتَبَوَّأْ مَقْعَدَهُ مِنَ النَّارِ.",
-      "translation": "Bab larangan menafsirkan Al-Qur'an dengan logika semata (tanpa ilmu). Barangsiapa yang berucap tentang Al-Qur'an dengan pendapatnya sendiri atau dengan apa yang tidak ia ketahui, maka hendaknya ia menyiapkan tempat duduknya di neraka."
+      "title": "I'rab dan Tajwid Al-Qur'an",
+      "titleArabic": "بَابُ إِعْرَابِ الْقُرْآنِ وَتَعْلِيمِهِ وَثَوَابِ ذَلِكَ",
+      "arabic": "عَنْ أَبِي هُرَيْرَةَ قَالَ: أَعْرِبُوا الْقُرْآنَ وَالْتَمِسُوا غَرَائِبَهُ.",
+      "translation": "Dari Abu Hurairah berkata: I'rab-lah Al-Qur'an (pelajari kaidah bahasanya) dan carilah keajaiban-keajaiban maknanya."
     },
     {
-      "title": "Cara Pengumpulan Al-Qur'an pada Masa Abu Bakar dan Utsman",
-      "titleArabic": "بَابُ جَمْعِ الْقُرْآنِ فِي الصُّحُفِ وَالْمَصَاحِفِ",
-      "arabic": "إِنَّ أَوَّلَ مَنْ جَمَعَ الْقُرْآنَ بَيْنَ اللَّوْحَيْنِ أَبُو بَكْرٍ الصِّدِّيقُ رَضِيَ اللَّهُ عَنْهُ، ثُمَّ عُثْمَانُ رَضِيَ اللَّهُ عَنْهُ حَمَلَ النَّاسَ عَلَى مُصْحَفٍ وَاحِدٍ.",
-      "translation": "Bab pengumpulan Al-Qur'an dalam lembaran dan mushaf. Sesungguhnya orang pertama yang mengumpulkan Al-Qur'an di antara dua sampul adalah Abu Bakar Ash-Shiddiq RA, kemudian Utsman RA menyatukan orang-orang pada satu mushaf."
+      "title": "Isti'adhah: Makna dan Hukumnya",
+      "titleArabic": "بَابُ الِاسْتِعَاذَةِ: أَحْكَامُهَا وَلَطَائِفُهَا",
+      "arabic": "قَوْلُهُ تَعَالَى: فَإِذَا قَرَأْتَ الْقُرْآنَ فَاسْتَعِذْ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ. فِيهَا مَسَائِلُ، مِنْهَا أَنَّ الِاسْتِعَاذَةَ لَيْسَتْ مِنَ الْقُرْآنِ بِإِجْمَاعِ.",
+      "translation": "Firman Allah Ta'ala: 'Jika engkau membaca Al-Qur'an maka mohonlah perlindungan kepada Allah dari setan yang terkutuk'. Di dalamnya terdapat masalah-masalah, di antaranya bahwa Isti'adhah bukan bagian dari Al-Qur'an berdasarkan ijma'."
     },
     {
-      "title": "Makna Penurunan Al-Qur'an dalam Tujuh Huruf",
-      "titleArabic": "بَابُ مَعْنَى نُزُولِ الْقُرْآنِ عَلَى سَبْعَةِ أَحْرُفٍ",
-      "arabic": "قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِنَّ هَذَا الْقُرْآنَ أُنْزِلَ عَلَى سَبْعَةِ أَحْرُفٍ، فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ».",
-      "translation": "Bab makna penurunan Al-Qur'an atas tujuh huruf. Rasulullah SAW bersabda: 'Sesungguhnya Al-Qur'an ini diturunkan dalam tujuh huruf, maka bacalah apa yang mudah darinya'."
+      "title": "Basmalah: Kedudukan dan Hukum Fiqihnya",
+      "titleArabic": "بَابُ الْبَسْمَلَةِ: هَلْ هِيَ آيَةٌ مِنَ الْفَاتِحَةِ أَمْ لَا؟",
+      "arabic": "اخْتَلَفَ الْعُلَمَاءُ فِي الْبَسْمَلَةِ، فَقَالَ الشَّافِعِيُّ: هِيَ آيَةٌ مِنْ كُلِّ سُورَةٍ. وَقَالَ مَالِكٌ: لَيْسَتْ بِآيَةٍ إِلَّا فِي النَّمْلِ.",
+      "translation": "Para ulama berbeda pendapat tentang Basmalah. Syafi'i berkata: Ia adalah ayat dari setiap surah. Malik berkata: Ia bukan ayat kecuali dalam surah An-Naml."
     },
     {
-      "title": "I'jaz (Kemukjizatan) Al-Qur'an",
-      "titleArabic": "بَابُ إِعْجَازِ الْقُرْآنِ وَبَلَاغَتِهِ",
-      "arabic": "الْقُرْآنُ مُعْجِزٌ بِنَظْمِهِ وَبَلَاغَتِهِ وَإِخْبَارِهِ بِالْغَيْبِ، لَا تَنْقَضِي عَجَائِبُهُ وَلَا يَخْلَقُ عَنْ كَثْرَةِ الرَّدِّ.",
-      "translation": "Bab kemukjizatan Al-Qur'an dan balaghahnya. Al-Qur'an adalah mukjizat dengan susunan bahasanya, retorikanya, dan pemberitaan hal ghaibnya; keajaibannya tidak pernah habis dan tidak akan usang karena sering diulang."
+      "title": "Surah Al-Fatihah: Nama dan Keutamaannya",
+      "titleArabic": "سُورَةُ الْفَاتِحَةِ: أَسْمَاؤُهَا وَفَضَائِلُهَا",
+      "arabic": "تُسَمَّى أُمُّ الْقُرْآنِ، وَأُمُّ الْكِتَابِ، وَالسَّبْعُ الْمَثَانِي، وَالشِّفَاءُ، وَالرُّقْيَةُ.",
+      "translation": "Dinamakan Ummul Qur'an, Ummul Kitab, as-Sab'ul Mathani, as-Syifa (penyembuh), dan ar-Ruqyah."
     },
     {
-      "title": "Hukum Memperjualbelikan Mushaf Al-Qur'an",
-      "titleArabic": "بَابُ حُكْمِ بَيْعِ الْمَصَاحِفِ وَشِرَائِهَا",
-      "arabic": "اخْتَلَفَ الْعُلَمَاءُ فِي بَيْعِ الْمَصَاحِفِ، فَمَنَعَهُ بَعْضُهُمْ تَعْظِيمًا لَهُ، وَأَجَازَهُ بَعْضُهُمْ لِأَنَّهُ بَيْعٌ لِلْوَرَقِ وَالْجِلْدِ لَا لِكَلَامِ اللَّهِ.",
-      "translation": "Bab hukum menjual dan membeli mushaf. Para ulama berbeda pendapat dalam menjual mushaf; sebagian melarangnya sebagai bentuk pengagungan, dan sebagian membolehkannya karena itu adalah penjualan kertas dan kulitnya, bukan kalam Allah-nya."
+      "title": "Al-Fatihah: Kewajiban Membacanya dalam Shalat",
+      "titleArabic": "بَابُ وُجُوبِ قِرَاءَةِ الْفَاتِحَةِ فِي الصَّلَاةِ",
+      "arabic": "لَا صَلَاةَ لِمَنْ لَمْ يَقْرَأْ بِفَاتِحَةِ الْكِتَابِ. هَذَا حُجَّةُ مَنْ أَوْجَبَهَا عَلَى الْإِمَامِ وَالْمَأْمُومِ وَالْمُنْفَرِدِ.",
+      "translation": "Tidak ada shalat bagi yang tidak membaca Fatihatul Kitab. Ini adalah hujah bagi orang yang mewajibkannya atas imam, makmum, dan orang yang shalat sendirian."
     },
     {
-      "title": "Etika Meletakkan dan Memuliakan Mushaf",
-      "titleArabic": "بَابُ تَعْظِيمِ الْمُصْحَفِ وَتَرْكِ مَسِّهِ إِلَّا بِطُهْرٍ",
-      "arabic": "لَا يَجُوزُ مَسُّ الْمُصْحَفِ إِلَّا لِطَاهِرٍ، لِقَوْلِهِ تَعَالَى: {لَا يَمَسُّهُ إِلَّا الْمُطَهَّرُونَ}.",
-      "translation": "Bab mengagungkan mushaf dan larangan menyentuhnya kecuali dalam keadaan suci. Tidak boleh menyentuh mushaf kecuali bagi orang yang suci, berdasarkan firman Allah: 'Tidak menyentuhnya kecuali orang-orang yang disucikan'."
+      "title": "Surah Al-Baqarah: Sifat Orang Bertakwa",
+      "titleArabic": "سُورَةُ الْبَقَرَةِ: صِفَاتُ الْمُتَّقِينَ",
+      "arabic": "ذَلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ هُدًى لِلْمُتَّقِينَ. التَّقْوَى هِيَ الْخَوْفُ مِنَ الْجَلِيلِ وَالْعَمَلُ بِالتَّنْزِيلِ.",
+      "translation": "Kitab itu tidak ada keraguan di dalamnya, petunjuk bagi orang bertakwa. Takwa adalah rasa takut kepada Allah yang Maha Agung dan beramal dengan wahyu."
     },
     {
-      "title": "Tafsir Surah Al-Fatihah: Nama-Nama Al-Fatihah",
-      "titleArabic": "سُورَةُ الْفَاتِحَةِ: أَسْمَاؤُهَا وَفَضْلُهَا",
-      "arabic": "تُسَمَّى أُمَّ الْقُرْآنِ، وَأُمَّ الْكِتَابِ، وَالسَّبْعَ الْمَثَانِي، وَالشِّفَاءَ، وَالصَّلَاةَ.",
-      "translation": "Surah Al-Fatihah: Nama-namanya dan keutamaannya. Dinamakan Ummul Qur'an, Ummul Kitab, As-Sab'ul Matsani, Asy-Syifa', dan Ash-Shalah."
+      "title": "Hukum Khilafah dan Kepemimpinan",
+      "titleArabic": "بَابُ الْإِمَامَةِ وَوُجُوبِ نَصْبِ الْخَلِيفَةِ",
+      "arabic": "قَوْلُهُ تَعَالَى: إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً. هَذِهِ الْآيَةُ أَصْلٌ فِي نَصْبِ إِمَامٍ وَخَلِيفَةٍ يُسْمَعُ لَهُ وَيُطَاعُ.",
+      "translation": "Firman-Nya: 'Sesungguhnya Aku hendak menjadikan seorang khalifah di muka bumi'. Ayat ini merupakan dasar dalam pengangkatan seorang imam dan khalifah yang didengar dan ditaati."
     },
     {
-      "title": "Hukum Membaca Basmalah dalam Shalat",
-      "titleArabic": "مَسْأَلَةُ الْبَسْمَلَةِ وَهَلْ هِيَ آيَةٌ مِنَ الْفَاتِحَةِ",
-      "arabic": "اخْتَلَفَ الْعُلَمَاءُ فِي الْبَسْمَلَةِ، هَلْ هِيَ آيَةٌ مِنَ الْفَاتِحَةِ أَمْ لَا، وَمَذْهَبُ مَالِكٍ أَنَّهَا لَيْسَتْ آيَةً.",
-      "translation": "Masalah Basmalah dan apakah ia termasuk ayat dari Al-Fatihah. Para ulama berselisih tentang Basmalah, apakah ia ayat dari Fatihah atau bukan; Mazhab Malik berpendapat bahwa ia bukan ayat darinya."
+      "title": "Hukum Syariat Terhadap Bani Israil",
+      "titleArabic": "بَابُ بَنِي إِسْرَائِيلَ وَالنِّعَمِ الْمُسْدَاةِ إِلَيْهِمْ",
+      "arabic": "يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ. ذِكْرُ النِّعْمَةِ يَكُونُ بِالطَّاعَةِ وَالِامْتِثَالِ.",
+      "translation": "Wahai Bani Israil ingatlah nikmat-Ku yang telah Aku berikan kepada kalian. Mengingat nikmat dilakukan dengan ketaatan dan kepatuhan."
     },
     {
-      "title": "Kewajiban Membaca Fatihah Bagi Makmum",
-      "titleArabic": "حُكْمُ قِرَاءَةِ الْفَاتِحَةِ لِلْمَأْمُومِ",
-      "arabic": "يَجِبُ عَلَى الْمُصَلِّي قِرَاءَةُ الْفَاتِحَةِ فِي كُلِّ رَكْعَةٍ، وَاخْتُلِفَ فِي الْمَأْمُومِ خَلْفَ الْإِمَامِ فِي الْجَهْرِيَّةِ.",
-      "translation": "Hukum membaca Al-Fatihah bagi makmum. Wajib bagi orang yang shalat membaca Fatihah di setiap rakaat, dan terjadi perbedaan pendapat bagi makmum di belakang imam pada shalat jahriyah (suara keras)."
+      "title": "Kisah Sapi Betina dan Hukum Pembunuhan",
+      "titleArabic": "بَابُ قِصَّةِ الْبَقَرَةِ وَمَا فِيهَا مِنَ الْأَحْكَامِ",
+      "arabic": "إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تَذْبَحُوا بَقَرَةً. فِيهَا دَلِيلٌ عَلَى أَنَّ الْأَمْرَ عَلَى الْفَوْرِ وَلَيْسَ عَلَى التَّرَاخِي.",
+      "translation": "Sesungguhnya Allah memerintahkan kalian menyembelih seekor sapi. Di dalamnya terdapat dalil bahwa perintah itu bersifat segera dan tidak boleh ditunda-tunda."
     },
     {
-      "title": "Tafsir Makna Ar-Rahman dan Ar-Rahim",
-      "titleArabic": "تَفْسِيرُ قَوْلِهِ تَعَالَى: {الرَّحْمَنِ الرَّحِيمِ}",
-      "arabic": "الرَّحْمَنُ: اسْمٌ لَا يُسَمَّى بِهِ غَيْرُ اللَّهِ، وَالرَّحِيمُ: صِفَةٌ تَعُمُّ الْمُؤْمِنِينَ وَغَيْرَهُمْ فِي الدُّنْيَا وَتَخُصُّ الْمُؤْمِنِينَ فِي الْآخِرَةِ.",
-      "translation": "Tafsir firman Allah: 'Ar-Rahman Ar-Rahim'. Ar-Rahman adalah nama yang tidak boleh diberikan kepada selain Allah, sedangkan Ar-Rahim adalah sifat yang mencakup orang mukmin dan selainnya di dunia, namun khusus bagi orang mukmin di akhirat."
-    },
-    {
-      "title": "Tafsir Makna Malik Yaumid Din",
-      "titleArabic": "تَفْسِيرُ قَوْلِهِ تَعَالَى: {مَالِكِ يَوْمِ الدِّينِ}",
-      "arabic": "الْمَالِكُ: هُوَ الْمُتَصَرِّفُ فِي الْأُمُورِ، وَالدِّينُ هُنَا هُوَ الْجَزَاءُ وَالْحِسَابُ.",
-      "translation": "Tafsir firman Allah: 'Malik Yaumid Din'. Al-Malik adalah yang mengatur segala urusan, dan Ad-Din di sini bermakna pembalasan dan perhitungan amal."
-    },
-    {
-      "title": "Tafsir Makna Iyyaka Na'budu wa Iyyaka Nasta'in",
-      "titleArabic": "تَفْسِيرُ قَوْلِهِ تَعَالَى: {إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ}",
-      "arabic": "تَقْدِيمُ الْمَفْعُولِ {إِيَّاكَ} لِلْحَصْرِ، أَيْ لَا نَعْبُدُ إِلَّا أَنْتَ وَلَا نَسْتَعِينُ إِلَّا بِكَ.",
-      "translation": "Tafsir firman Allah: 'Iyyaka Na'budu wa Iyyaka Nasta'in'. Didahulukannya objek (Iyyaka) berfungsi untuk pembatasan (hashr), artinya: Kami tidak menyembah kecuali kepada-Mu dan tidak memohon pertolongan kecuali kepada-Mu."
-    },
-    {
-      "title": "Hukum Mengucapkan 'Amin' Setelah Al-Fatihah",
-      "titleArabic": "بَابُ التَّأْمِينِ بَعْدَ الْفَاتِحَةِ",
-      "arabic": "يُسْتَحَبُّ لِلْمُصَلِّي أَنْ يَقُولَ «آمِينَ» بَعْدَ فَرَاغِهِ مِنَ الْفَاتِحَةِ، وَمَعْنَاهَا: اللَّهُمَّ اسْتَجِبْ.",
-      "translation": "Bab mengucapkan 'Amin' setelah Al-Fatihah. Disunnahkan bagi orang yang shalat untuk mengucapkan 'Amin' setelah selesai dari Fatihah, dan maknanya adalah: Ya Allah, kabulkanlah."
-    },
-    {
-      "title": "Tafsir Surah Al-Baqarah: Sifat Orang Bertaqwa",
-      "titleArabic": "تَفْسِيرُ سُورَةِ الْبَقَرَةِ: صِفَاتُ الْمُتَّقِينَ",
-      "arabic": "قَوْلُهُ تَعَالَى: {الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ}، الْإِيمَانُ فِي اللُّغَةِ التَّصْدِيقُ، وَالْغَيْبُ مَا غَابَ عَنِ الْحَوَاسِّ مِمَّا أَخْبَرَ بِهِ الرَّسُولُ.",
-      "translation": "Tafsir Surah Al-Baqarah: Sifat-sifat orang bertaqwa. Firman Allah: 'Orang-orang yang beriman kepada yang ghaib'; Iman secara bahasa adalah pembenaran, dan ghaib adalah apa yang tidak terjangkau indera dari apa yang dikabarkan Rasul."
-    },
-    {
-      "title": "Hukum Shalat dalam Al-Qur'an",
-      "titleArabic": "حُكْمُ إِقَامِ الصَّلَاةِ وَأَهَمِّيَّتُهَا",
-      "arabic": "قَوْلُهُ تَعَالَى: {وَيُقِيمُونَ الصَّلَاةَ}، إِقَامَتُهَا يَكُونُ بِأَدَائِهَا فِي أَوْقَاتِهَا بِشُرُوطِهَا وَأَرْكَانِهَا.",
-      "translation": "Hukum mendirikan shalat dan kepentingannya. Firman Allah: 'Dan mereka mendirikan shalat'; mendirikannya adalah dengan menunaikannya pada waktunya dengan syarat-syarat dan rukun-rukunnya."
-    },
-    {
-      "title": "Hukum Zakat dan Infak dalam Syariat",
-      "titleArabic": "حُكْمُ الزَّكَاةِ وَالْإِنْفَاقِ مِمَّا رَزَقَ اللَّهُ",
-      "arabic": "قَوْلُهُ تَعَالَى: {وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ}، يَشْمَلُ الزَّكَاةَ الْوَاجِبَةَ وَنَفَقَةَ التَّطَوُّعِ.",
-      "translation": "Hukum zakat dan infak dari rezeki pemberian Allah. Firman Allah: 'Dan dari apa yang Kami rezekikan kepada mereka, mereka menafkahkan'; mencakup zakat wajib dan nafkah sunnah."
-    },
-    {
-      "title": "Peringatan Terhadap Sifat Munafik",
-      "titleArabic": "بَابُ صِفَاتِ الْمُنَافِقِينَ فِي سُورَةِ الْبَقَرَةِ",
-      "arabic": "قَوْلُهُ تَعَالَى: {وَمِنَ النَّاسِ مَنْ يَقُولُ آمَنَّا بِاللَّهِ}، هَذَا فِي الْمُنَافِقِينَ الَّذِينَ يُظْهِرُونَ الْإِيمَانَ وَيُبْطِنُونَ الْكُفْرَ.",
-      "translation": "Bab sifat-sifat orang munafik dalam Surah Al-Baqarah. Firman Allah: 'Dan di antara manusia ada yang berkata kami beriman kepada Allah'; ini berkenaan dengan orang munafik yang menampakkan iman dan menyembunyikan kekafiran."
-    },
-    {
-      "title": "Kewajiban Ibadah dan Tauhid",
-      "titleArabic": "دَعْوَةُ النَّاسِ لِلْعِبَادَةِ: {يَا أَيُّهَا النَّاسُ اعْبُدُوا رَبَّكُمُ}",
-      "arabic": "الْعِبَادَةُ هِيَ الطَّاعَةُ مَعَ الْخُضُوعِ، وَهِيَ مَقْصُودُ خَلْقِ الْخَلْقِ.",
-      "translation": "Ajakan manusia untuk beribadah: 'Wahai manusia sembahlah Tuhanmu'. Ibadah adalah ketaatan disertai ketundukan, dan ia adalah tujuan diciptakannya makhluk."
-    },
-    {
-      "title": "Kisah Penciptaan Adam dan Kekhalifahan",
-      "titleArabic": "قِصَّةُ آدَمَ عَلَيْهِ السَّلَامُ وَخِلَافَتُهُ فِي الْأَرْضِ",
-      "arabic": "قَوْلُهُ تَعَالَى: {إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً}، دَلِيلٌ عَلَى وُجُوبِ نَصْبِ الْإِمَامِ لِيَفْصِلَ بَيْنَ النَّاسِ.",
-      "translation": "Kisah Adam AS dan kekhalifahannya di bumi. Firman Allah: 'Sesungguhnya Aku hendak menjadikan seorang khalifah di bumi'; ini adalah dalil atas wajibnya mengangkat seorang pemimpin untuk memutuskan perkara di antara manusia."
-    },
-    {
-      "title": "Hukum Sihir dan Harut-Marut",
-      "titleArabic": "بَابُ السِّحْرِ وَحُكْمِهِ وَقِصَّةُ هَارُوتَ وَمَارُوتَ",
-      "arabic": "السِّحْرُ حَقِيقَةٌ وَلَهُ تَأْثِيرٌ، وَتَعَلُّمُهُ كُفْرٌ عِنْدَ جُمْهُورِ الْعُلَمَاءِ.",
-      "translation": "Bab sihir, hukumnya, dan kisah Harut serta Marut. Sihir itu nyata dan memiliki pengaruh, dan mempelajarinya adalah kekufuran menurut mayoritas ulama."
-    },
-    {
-      "title": "Hukum Nasakh (Penghapusan Hukum) dalam Al-Qur'an",
-      "titleArabic": "بَابُ النَّسْخِ فِي الْقُرْآنِ وَأَنْوَاعُهُ",
-      "arabic": "قَوْلُهُ تَعَالَى: {مَا نَنْسَخْ مِنْ آيَةٍ أَوْ نُنْسِهَا}، النَّسْخُ جَائِزٌ عَقْلًا وَوَاقِعٌ شَرْعًا.",
-      "translation": "Bab Nasakh dalam Al-Qur'an dan jenis-jenisnya. Firman Allah: 'Ayat mana saja yang Kami nasakh atau Kami jadikan lupa'; Nasakh itu boleh secara akal dan terjadi secara syariat."
-    },
-    {
-      "title": "Hukum Kiblat dan Perpindahannya",
-      "titleArabic": "بَابُ الْقِبْلَةِ وَتَحْوِيلِهَا إِلَى الْكَعْبَةِ",
-      "arabic": "كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُصَلِّي إِلَى بَيْتِ الْمَقْدِسِ، ثُمَّ أُمِرَ بِالتَّوَجُّهِ إِلَى الْكَعْبَةِ.",
-      "translation": "Bab kiblat dan perpindahannya ke Ka'bah. Nabi SAW dahulu shalat menghadap Baitul Maqdis, kemudian diperintahkan untuk menghadap ke Ka'bah."
-    },
-    {
-      "title": "Hukum Shafa dan Marwah",
-      "titleArabic": "حُكْمُ السَّعْيِ بَيْنَ الصَّفَا وَالْمَرْوَةِ",
-      "arabic": "قَوْلُهُ تَعَالَى: {إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ}، السَّعْيُ بَيْنَهُمَا رُكْنٌ مِنَ الْحَجِّ عِنْدَ الشَّافِعِيِّ وَمَالِكٍ.",
-      "translation": "Hukum Sa'i antara Shafa dan Marwah. Firman Allah: 'Sesungguhnya Shafa dan Marwah termasuk syiar Allah'; Sa'i di antara keduanya adalah rukun haji menurut Syafi'i dan Malik."
+      "title": "Nasikh dan Mansukh dalam Al-Qur'an",
+      "titleArabic": "بَابُ النَّاسِخِ وَالْمَنْسُوخِ وَمَعْرِفَةِ ذَلِكَ",
+      "arabic": "مَا نَنْسَخْ مِنْ آيَةٍ أَوْ نُنْسِهَا نَأْتِ بِخَيْرٍ مِنْهَا. النَّسْخُ جَائِزٌ عَقْلًا وَوَاقِعٌ شَرْعًا.",
+      "translation": "Ayat mana saja yang Kami nasakh atau Kami jadikan lupa, Kami datangkan yang lebih baik darinya. Nasakh diperbolehkan secara akal dan terjadi secara syariat."
     },
     {
       "title": "Hukum Qishash dalam Pembunuhan",
       "titleArabic": "بَابُ الْقِصَاصِ فِي الْقَتْلَى",
-      "arabic": "قَوْلُهُ تَعَالَى: {كُتِبَ عَلَيْكُمُ الْقِصَاصُ فِي الْقَتْلَى}، الْقِصَاصُ هُوَ الْمُسَاوَاةُ فِي الْقَتْلِ زَجْرًا لِلنَّاسِ عَنِ الْعُدْوَانِ.",
-      "translation": "Bab Qishash dalam pembunuhan. Firman Allah: 'Diwajibkan atas kamu qishash berkenaan dengan orang-orang yang dibunuh'; Qishash adalah kesetaraan dalam hukuman mati sebagai peringatan bagi manusia agar tidak melakukan aniaya."
+      "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الْقِصَاصُ فِي الْقَتْلَى. الْحُرُّ بِالْحُرِّ وَالْعَبْدُ بِالْعَبْدِ.",
+      "translation": "Wahai orang-orang yang beriman, diwajibkan atas kamu qishash berkenaan dengan orang-orang yang dibunuh. Orang merdeka dengan orang merdeka, hamba dengan hamba."
     },
     {
-      "title": "Hukum Wasiat Sebelum Meninggal Dunia",
-      "titleArabic": "بَابُ الْوَصِيَّةِ وَأَحْكَامِهَا",
-      "arabic": "كَانَتِ الْوَصِيَّةُ وَاجِبَةً ثُمَّ نُسِخَتْ بِآيَاتِ الْمَوَارِيثِ، إِلَّا أَنَّهَا بَاقِيَةٌ نَدْبًا فِي الثُّلُثِ.",
-      "translation": "Bab wasiat dan hukum-hukumnya. Dahulu wasiat itu wajib kemudian dinasakh dengan ayat-ayat waris, namun ia tetap disunnahkan dalam batasan sepertiga harta."
+      "title": "Hukum Wasiat Sebelum Kematian",
+      "titleArabic": "بَابُ الْوَصِيَّةِ لِلْوَالِدَيْنِ وَالْأَقْرَبِينَ",
+      "arabic": "كُتِبَ عَلَيْكُمْ إِذَا حَضَرَ أَحَدَكُمُ الْمَوْتُ إِنْ تَرَكَ خَيْرًا الْوَصِيَّةُ. هَذِهِ الْآيَةُ مَنْسُوخَةٌ بِآيَةِ الْمَوَارِيثِ عِنْدَ الْجُمْهُورِ.",
+      "translation": "Diwajibkan atas kamu apabila kematian datang kepada salah seorang di antara kamu, jika ia meninggalkan harta, berwasiatlah. Ayat ini dinasakh oleh ayat mawaris menurut mayoritas ulama."
     },
     {
-      "title": "Kewajiban Puasa Ramadhan",
-      "titleArabic": "بَابُ وُجُوبِ صِيَامِ شَهْرِ رَمَضَانَ",
-      "arabic": "قَوْلُهُ تَعَالَى: {كُتِبَ عَلَيْكُمُ الصِّيَامُ}، الصَّوْمُ هُوَ الْإِمْسَاكُ عَنِ الْمُفْطِرَاتِ بِنِيَّةٍ.",
-      "translation": "Bab kewajiban puasa bulan Ramadhan. Firman Allah: 'Diwajibkan atas kamu berpuasa'; Puasa adalah menahan diri dari hal-hal yang membatalkan dengan niat."
+      "title": "Hukum Puasa Ramadhan",
+      "titleArabic": "بَابُ الصِّيَامِ وَأَحْكَامِهِ وَرُؤْيَةِ الْهِلَالِ",
+      "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ. الصِّيَامُ فِي اللُّغَةِ الْإِمْسَاكُ، وَفِي الشَّرْعِ إِمْسَاكٌ مَخْصُوصٌ.",
+      "translation": "Wahai orang-orang yang beriman, diwajibkan atas kamu berpuasa. Puasa secara bahasa adalah menahan, dan secara syariat adalah penahanan diri yang khusus."
     },
     {
-      "title": "Hukum I'tikaf di Masjid",
-      "titleArabic": "بَابُ الْإِعْتِكَافِ وَأَحْكَامِهِ",
-      "arabic": "قَوْلُهُ تَعَالَى: {وَلَا تُبَاشِرُوهُنَّ وَأَنْتُمْ عَاكِفُونَ فِي الْمَسَاجِدِ}، الْإِعْتِكَافُ لُزُومُ الْمَسْجِدِ لِطَاعَةِ اللَّهِ.",
-      "translation": "Bab I'tikaf dan hukum-hukumnya. Firman Allah: 'Dan janganlah kamu mencampuri mereka (istri) sedangkan kamu beri'tikaf dalam masjid'; I'tikaf adalah menetap di masjid untuk ketaatan kepada Allah."
+      "title": "Hukum Perang dalam Islam",
+      "titleArabic": "بَابُ الْقِتَالِ فِي سَبِيلِ اللَّهِ",
+      "arabic": "وَقَاتِلُوا فِي سَبِيلِ اللَّهِ الَّذِينَ يُقَاتِلُونَكُمْ. هَذِهِ أَوَّلُ آيَةٍ نَزَلَتْ فِي الْقِتَالِ بِمَكَّةَ.",
+      "translation": "Dan perangilah di jalan Allah orang-orang yang memerangi kalian. Ini adalah ayat pertama yang turun mengenai peperangan di Mekkah."
     },
     {
-      "title": "Hukum Jihad di Jalan Allah",
-      "titleArabic": "بَابُ الْجِهَادِ فِي سَبِيلِ اللَّهِ",
-      "arabic": "قَوْلُهُ تَعَالَى: {وَقَاتِلُوا فِي سَبِيلِ اللَّهِ الَّذِينَ يُقَاتِلُونَكُمْ}، الْجِهَادُ مَاضٍ إِلَى يَوْمِ الْقِيَامَةِ.",
-      "translation": "Bab Jihad di jalan Allah. Firman Allah: 'Dan perangilah di jalan Allah orang-orang yang memerangi kamu'; Jihad terus berlangsung hingga hari kiamat."
+      "title": "Hukum Haji dan Umrah",
+      "titleArabic": "بَابُ الْحَجِّ وَالْعُمْرَةِ لِلَّهِ",
+      "arabic": "وَأَتِمُّوا الْحَجَّ وَالْعُمْرَةَ لِلَّهِ. فِيهَا دَلِيلٌ عَلَى وُجُوبِ الْإِتْمَامِ بَعْدَ الشُّرُوعِ فِيهِمَا.",
+      "translation": "Dan sempurnakanlah ibadah haji dan umrah karena Allah. Di dalamnya terdapat dalil atas wajibnya menyempurnakan keduanya setelah memulainya."
     },
     {
-      "title": "Tata Cara Haji dan Umrah",
-      "titleArabic": "بَابُ أَحْكَامِ الْحَجِّ وَالْعُمْرَةِ",
-      "arabic": "قَوْلُهُ تَعَالَى: {وَأَتِمُّوا الْحَجَّ وَالْعُمْرَةَ لِلَّهِ}، الْإِتْمَامُ يَكُونُ بِأَدَاءِ مَنَاسِكِهِمَا كَامِلَةً.",
-      "translation": "Bab hukum Haji dan Umrah. Firman Allah: 'Dan sempurnakanlah Haji dan Umrah karena Allah'; Penyempurnaan dilakukan dengan menunaikan manasik keduanya secara lengkap."
-    },
-    {
-      "title": "Hukum Meminum Khamar dan Berjudi",
-      "titleArabic": "بَابُ تَحْرِيمِ الْخَمْرِ وَالْمَيْسِرِ",
-      "arabic": "قَوْلُهُ تَعَالَى: {يَسْأَلُونَكَ عَنِ الْخَمْرِ وَالْمَيْسِرِ}، الْخَمْرُ كُلُّ مَا خَامَرَ الْعَقْلَ، وَالْمَيْسِرُ هُوَ الْقِمَارُ.",
-      "translation": "Bab pengharaman khamar dan judi. Firman Allah: 'Mereka bertanya kepadamu tentang khamar dan judi'; Khamar adalah segala yang menutupi akal, dan Al-Maisir adalah perjudian."
+      "title": "Hukum Khamar dan Judi",
+      "titleArabic": "بَابُ الْخَمْرِ وَالْمَيْسِرِ",
+      "arabic": "يَسْأَلُونَكَ عَنِ الْخَمْرِ وَالْمَيْسِرِ قُلْ فِيهِمَا إِثْمٌ كَبِيرٌ. الْخَمْرُ كُلُّ مَا خَامَرَ الْعَقْلَ أَيْ غَطَّاهُ.",
+      "translation": "Mereka bertanya kepadamu tentang khamar dan judi, katakanlah pada keduanya terdapat dosa besar. Khamar adalah segala sesuatu yang meracuni akal yakni menutupinya."
     },
     {
       "title": "Hukum Menikahi Wanita Musyrik",
-      "titleArabic": "حُكْمُ نِكَاحِ الْمُشْرِكَاتِ وَالْمُشْرِكِينَ",
-      "arabic": "قَوْلُهُ تَعَالَى: {وَلَا تَنْكِحُوا الْمُشْرِكَاتِ حَتَّى يُؤْمِنَّ}، يَحْرُمُ نِكَاحُ الْكَافِرَةِ إِلَّا الْكِتَابِيَّةَ عِنْدَ الْجُمْهُورِ.",
-      "translation": "Hukum menikahi wanita dan pria musyrik. Firman Allah: 'Janganlah kamu menikahi wanita musyrik hingga mereka beriman'; haram menikahi wanita kafir kecuali ahli kitab menurut mayoritas ulama."
+      "titleArabic": "بَابُ نِكَاحِ الْمُشْرِكَاتِ",
+      "arabic": "وَلَا تَنْكِحُوا الْمُشْرِكَاتِ حَتَّى يُؤْمِنَّ. النِّكَاحُ هُنَا بِمَعْنَى الْعَقْدِ وَقِيلَ الْوَطْءُ.",
+      "translation": "Dan janganlah kamu menikahi wanita-wanita musyrik hingga mereka beriman. Nikah di sini bermakna akad dan ada yang berpendapat persetubuhan."
     },
     {
-      "title": "Hukum Haid dan Hubungan Suami Istri",
-      "titleArabic": "أَحْكَامُ الْحَيْضِ وَمَا يَحْرُمُ فِيهِ",
-      "arabic": "قَوْلُهُ تَعَالَى: {وَيَسْأَلُونَكَ عَنِ الْمَحِيضِ قُلْ هُوَ أَذًى}، يَجِبُ اعْتِزَالُ النِّسَاءِ فِي الْمَحِيضِ فِي مَوْضِعِ الدَّمِ.",
-      "translation": "Hukum haid dan apa yang diharamkan di dalamnya. Firman Allah: 'Mereka bertanya kepadamu tentang haid, katakanlah itu adalah kotoran/gangguan'; wajib menjauhi (hubungan intim) wanita saat haid pada tempat keluarnya darah."
+      "title": "Hukum Haid dan Larangan Mendekati Istri",
+      "titleArabic": "بَابُ الْمَحِيضِ وَالْقُرُوءِ",
+      "arabic": "وَيَسْأَلُونَكَ عَنِ الْمَحِيضِ قُلْ هُوَ أَذًى فَاعْتَزِلُوا النِّسَاءَ فِي الْمَحِيضِ.",
+      "translation": "Mereka bertanya kepadamu tentang haid, katakanlah itu adalah kotoran, maka jauhilah wanita (istri) di waktu haid."
     },
     {
       "title": "Hukum Sumpah (Ila')",
-      "titleArabic": "بَابُ الْإِيلَاءِ وَأَحْكَامِهِ",
-      "arabic": "الْإِيلَاءُ هُوَ الْحَلِفُ عَلَى تَرْكِ وَطْءِ الزَّوْجَةِ، وَمُدَّتُهُ أَرْبَعَةُ أَشْهُرٍ.",
-      "translation": "Bab Ila' dan hukum-hukumnya. Ila' adalah sumpah untuk tidak menyetubuhi istri, dan jangka waktunya adalah empat bulan."
+      "titleArabic": "بَابُ الْإِيلَاءِ مِنَ النِّسَاءِ",
+      "arabic": "لِلَّذِينَ يُؤْلُونَ مِنْ نِسَائِهِمْ تَرَبُّصُ أَرْبَعَةِ أَشْهُرٍ. الْإِيلَاءُ هُوَ الْحَلِفُ عَلَى تَرْكِ الْوَطْءِ.",
+      "translation": "Bagi orang yang meng-ila' istrinya, mereka harus menunggu empat bulan. Ila' adalah bersumpah untuk meninggalkan persetubuhan."
     },
     {
-      "title": "Hukum Talak (Perceraian)",
-      "titleArabic": "بَابُ الطَّلَاقِ وَأَنْوَاعِهِ",
-      "arabic": "قَوْلُهُ تَعَالَى: {الطَّلَاقُ مَرَّتَانِ}، الطَّلَاقُ الَّذِي يَمْلِكُ فِيهِ الرَّجُلُ الرَّجْعَةَ هُوَ مَرَّتَانِ.",
-      "translation": "Bab Talak dan jenis-jenisnya. Firman Allah: 'Talak itu dua kali'; talak yang mana seorang pria memiliki hak rujuk adalah sebanyak dua kali."
+      "title": "Hukum Talak dan Iddah",
+      "titleArabic": "بَابُ الطَّلَاقِ وَعِدَّةِ الْمُطَلَّقَاتِ",
+      "arabic": "الطَّلَاقُ مَرَّتَانِ فَإِمْسَاكٌ بِمَعْرُوفٍ أَوْ تَسْرِيحٌ بِإِحْسَانٍ. فِيهَا بَيَانُ أَنَّ الطَّلَاقَ لَا يَمْلِكُهُ الزَّوْجُ جُمْلَةً.",
+      "translation": "Talak itu dua kali, maka (setelah itu) rujuklah dengan cara yang baik atau lepaskanlah dengan cara yang baik. Di dalamnya terdapat penjelasan bahwa suami tidak memiliki (hak) talak secara sekaligus (banyak)."
     },
     {
-      "title": "Hukum Masa Iddah Wanita",
-      "titleArabic": "بَابُ الْعِدَّةِ لِلْمُطَلَّقَةِ وَالْمُتَوَفَّى عَنْهَا زَوْجُهَا",
-      "arabic": "عِدَّةُ الْمُطَلَّقَةِ ثَلَاثَةُ قُرُوءٍ، وَعِدَّةُ الْمُتَوَفَّى عَنْهَا زَوْجُهَا أَرْبَعَةُ أَشْهُرٍ وَعَشْرًا.",
-      "translation": "Bab masa iddah bagi wanita yang ditalak dan yang ditinggal mati suaminya. Iddah wanita yang ditalak adalah tiga kali suci/haid, dan iddah yang ditinggal mati adalah empat bulan sepuluh hari."
+      "title": "Hukum Menyusui (Radha'ah)",
+      "titleArabic": "بَابُ الرَّضَاعِ وَأَحْكَامِهِ",
+      "arabic": "وَالْوَالِدَاتُ يُرْضِعْنَ أَوْلَادَهُنَّ حَوْلَيْنِ كَامِلَيْنِ. فِيهَا دَلِيلٌ عَلَى أَنَّ مُدَّةَ الرَّضَاعِ سَنَتَانِ.",
+      "translation": "Para ibu hendaklah menyusui anak-anaknya selama dua tahun penuh. Di dalamnya terdapat dalil bahwa masa menyusui adalah dua tahun."
     },
     {
-      "title": "Hukum Persusuan (Radha'ah)",
-      "titleArabic": "بَابُ الرَّضَاعِ وَمُدَّتِهِ",
-      "arabic": "قَوْلُهُ تَعَالَى: {وَالْوَالِدَاتُ يُرْضِعْنَ أَوْلَادَهُنَّ حَوْلَيْنِ كَامِلَيْنِ}، الرَّضَاعُ يُحَرِّمُ مَا يُحَرِّمُ النَّسَبُ.",
-      "translation": "Bab persusuan dan durasinya. Firman Allah: 'Para ibu hendaklah menyusukan anak-anaknya selama dua tahun penuh'; persusuan mengharamkan apa yang diharamkan karena nasab."
-    },
-    {
-      "title": "Hukum Shalat Khauf (Dalam Ketakutan/Perang)",
+      "title": "Hukum Shalat Khauf",
       "titleArabic": "بَابُ صَلَاةِ الْخَوْفِ",
-      "arabic": "قَوْلُهُ تَعَالَى: {فَإِنْ خِفْتُمْ فَرِجَالًا أَوْ رُكْبَانًا}، تُصَلَّى الصَّلَاةُ عِنْدَ اشْتِدَادِ الْخَوْفِ حَسْبَ الْإِمْكَانِ.",
-      "translation": "Bab shalat khauf. Firman Allah: 'Jika kamu dalam keadaan takut, maka shalatlah sambil berjalan atau berkendaraan'; shalat dilakukan saat ketakutan memuncak sesuai kemampuan."
+      "arabic": "فَإِنْ خِفْتُمْ فَرِجَالًا أَوْ رُكْبَانًا. يَعْنِي مُشَاةً عَلَى أَرْجُلِكُمْ أَوْ رَاكِبِينَ عَلَى دَوَابِّكُمْ.",
+      "translation": "Jika kamu dalam keadaan takut, maka (shalatlah) sambil berjalan kaki atau berkendaraan. Maksudnya berjalan di atas kaki kalian atau menunggangi hewan tunggangan kalian."
     },
     {
       "title": "Ayat Kursi: Keagungan dan Maknanya",
-      "titleArabic": "تَفْسِيرُ آيَةِ الْكُرْسِيِّ",
-      "arabic": "هِيَ أَعْظَمُ آيَةٍ فِي كِتَابِ اللَّهِ تَعَالَى، لِمَا تَضَمَّنَتْهُ مِنْ صِفَاتِ الْجَلَالِ وَالْوَحْدَانِيَّةِ.",
-      "translation": "Tafsir Ayat Kursi. Ia adalah ayat paling agung dalam Kitab Allah Ta'ala karena mengandung sifat-sifat keagungan dan keesaan-Nya."
+      "titleArabic": "بَابُ آيَةِ الْكُرْسِيِّ وَفَضْلِهَا",
+      "arabic": "اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ. هَذِهِ سَيِّدَةُ آيِ الْقُرْآنِ لِمَا تَضَمَّنَتْهُ مِنَ التَّوْحِيدِ.",
+      "translation": "Allah tidak ada Tuhan selain Dia yang Maha Hidup lagi Maha Berdiri Sendiri. Ini adalah penghulu ayat-ayat Al-Qur'an karena kandungannya tentang tauhid."
     },
     {
-      "title": "Larangan Paksaan dalam Agama",
-      "titleArabic": "بَابُ لَا إِكْرَاهَ فِي الدِّينِ",
-      "arabic": "قَوْلُهُ تَعَالَى: {لَا إِكْرَاهَ فِي الدِّينِ}، قِيلَ هِيَ مَنْسُوخَةٌ بِآيَةِ السَّيْفِ، وَقِيلَ خَاصَّةٌ بِأَهْلِ الْكِتَابِ.",
-      "translation": "Bab tidak ada paksaan dalam agama. Firman Allah: 'Tidak ada paksaan dalam agama'; dikatakan bahwa ayat ini dinasakh oleh ayat pedang, dan dikatakan khusus bagi ahli kitab."
+      "title": "Hukum Riba dalam Transaksi",
+      "titleArabic": "بَابُ الرِّبَا وَتَحْرِيمِهِ",
+      "arabic": "الَّذِينَ يَأْكُلُونَ الرِّبَا لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ الَّذِي يَتَخَبَّطُهُ الشَّيْطَانُ مِنَ الْمَسِّ.",
+      "translation": "Orang-orang yang memakan riba tidak dapat berdiri melainkan seperti berdirinya orang yang kemasukan setan lantaran penyakit gila."
     },
     {
-      "title": "Hukum Riba dan Bahayanya",
-      "titleArabic": "بَابُ تَحْرِيمِ الرِّبَا وَأَحْكَامِهِ",
-      "arabic": "قَوْلُهُ تَعَالَى: {الَّذِينَ يَأْكُلُونَ الرِّبَا لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ الَّذِي يَتَخَبَّطُهُ الشَّيْطَانُ مِنَ الْمَسِّ}.",
-      "translation": "Bab pengharaman riba dan hukum-hukumnya. Firman Allah: 'Orang-orang yang memakan riba tidak dapat berdiri melainkan seperti berdirinya orang yang kemasukan syaitan lantaran penyakit gila'."
+      "title": "Hukum Hutang Piutang (Ayat al-Mudayanah)",
+      "titleArabic": "بَابُ الدَّيْنِ وَكِتَابَتِهِ وَالْإِشْهَادِ عَلَيْهِ",
+      "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا تَدَايَنْتُمْ بِدَيْنٍ إِلَى أَجَلٍ مُسَمًّى فَاكْتُبُوهُ. هَذِهِ أَطْوَلُ آيَةٍ فِي الْقُرْآنِ.",
+      "translation": "Wahai orang-orang yang beriman, apabila kalian melakukan hutang piutang untuk waktu yang ditentukan, hendaklah kalian menuliskannya. Ini adalah ayat terpanjang dalam Al-Qur'an."
     },
     {
-      "title": "Ayat Mudayanah: Hukum Hutang Piutang",
-      "titleArabic": "بَابُ أَحْكَامِ الدَّيْنِ وَالْكِتَابَةِ (آيَةُ الْمُدَايَنَةِ)",
-      "arabic": "هِيَ أَطْوَلُ آيَةٍ فِي الْقُرْآنِ، وَفِيهَا أَمْرٌ بِكِتَابَةِ الدَّيْنِ وَالْإِشْهَادِ عَلَيْهِ تَوْثِيقًا لِلْحُقُوقِ.",
-      "translation": "Bab hukum hutang dan pencatatan (Ayat Mudayanah). Ia adalah ayat terpanjang dalam Al-Qur'an, di dalamnya terdapat perintah mencatat hutang dan persaksian atasnya demi menjaga hak-hak."
+      "title": "Surah Ali 'Imran: Ayat Muhkamat dan Mutashabihat",
+      "titleArabic": "بَابُ الْمُحْكَمِ وَالْمُتَشَابِهِ",
+      "arabic": "هُوَ الَّذِي أَنْزَلَ عَلَيْكَ الْكِتَابَ مِنْهُ آيَاتٌ مُحْكَمَاتٌ هُنَّ أُمُّ الْكِتَابِ وَأُخَرُ مُتَشَابِهَاتٌ.",
+      "translation": "Dialah yang menurunkan Al-Kitab kepadamu, di antaranya ada ayat-ayat yang muhkamat (jelas) itulah pokok-pokok kitab, dan yang lain mutasyabihat (samar)."
     },
     {
-      "title": "Hukum Gadai (Rahn)",
-      "titleArabic": "بَابُ الرَّهْنِ فِي السَّفَرِ وَالْحَضَرِ",
-      "arabic": "قَوْلُهُ تَعَالَى: {فَرِهَانٌ مَقْبُوضَةٌ}، الرَّهْنُ شُرِعَ لِتَوْثِيقِ الدَّيْنِ عِنْدَ تَعَذُّرِ الْكِتَابَةِ.",
-      "translation": "Bab gadai dalam perjalanan maupun di tempat tinggal. Firman Allah: 'Maka hendaklah ada tanggungan yang dipegang'; gadai disyariatkan untuk penguatan hutang ketika pencatatan sulit dilakukan."
+      "title": "Surah An-Nisa': Hukum Waris (Mawaris)",
+      "titleArabic": "بَابُ الْمَوَارِيثِ وَسِهَامِ الْفَرَائِضِ",
+      "arabic": "يُوصِيكُمُ اللَّهُ فِي أَوْلَادِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ الْأُنْثَيَيْنِ. فِيهَا بَيَانُ أَنْصِبَاءِ الْوَرَثَةِ.",
+      "translation": "Allah mensyariatkan bagimu tentang pembagian warisan untuk anak-anakmu; bagian laki-laki sama dengan bagian dua orang anak perempuan. Di dalamnya ada penjelasan bagian ahli waris."
     },
     {
-      "title": "Penutup Surah Al-Baqarah: Doa dan Kemudahan",
-      "titleArabic": "خَاتِمَةُ سُورَةِ الْبَقَرَةِ وَفَضْلُهَا",
-      "arabic": "الْآيَتَانِ مِنْ آخِرِ سُورَةِ الْبَقَرَةِ مَنْ قَرَأَهُمَا فِي لَيْلَةٍ كَفَتَاهُ، وَفِيهِمَا رَفْعُ الْإِصْرِ عَنِ الْأُمَّةِ.",
-      "translation": "Penutup Surah Al-Baqarah dan keutamaannya. Dua ayat terakhir dari Surah Al-Baqarah barangsiapa membacanya di malam hari maka itu cukup baginya, dan di dalamnya terdapat doa penghapusan beban berat bagi umat."
-    },
-    {
-      "title": "Tafsir Surah Ali Imran: Ayat Muhkam dan Mutasyabih",
-      "titleArabic": "بَابُ الْمُحْكَمِ وَالْمُتَشَابِهِ فِي الْقُرْآنِ",
-      "arabic": "الْمُحْكَمُ: مَا عُرِفَ تَأْوِيلُهُ وَفُهِمَ مَعْنَاهُ. وَالْمُتَشَابِهُ: مَا اسْتَأْثَرَ اللَّهُ بِعِلْمِهِ.",
-      "translation": "Bab ayat Muhkam dan Mutasyabih dalam Al-Qur'an. Muhkam adalah ayat yang diketahui takwilnya dan dipahami maknanya. Mutasyabih adalah ayat yang hanya Allah yang mengetahui ilmunya."
-    },
-    {
-      "title": "Hukum Keluarga Imran dan Maryam",
-      "titleArabic": "بَابُ اصْطِفَاءِ آلِ عِمْرَانَ وَقِصَّةِ مَرْيَمَ",
-      "arabic": "قَوْلُهُ تَعَالَى: {إِنَّ اللَّهَ اصْطَفَى آدَمَ وَنُوحًا وَآلَ إِبْرَاهِيمَ وَآلَ عِمْرَانَ عَلَى الْعَالَمِينَ}.",
-      "translation": "Bab terpilihnya keluarga Imran dan kisah Maryam. Firman Allah: 'Sesungguhnya Allah telah memilih Adam, Nuh, keluarga Ibrahim dan keluarga 'Imran melebihi segala umat'."
-    },
-    {
-      "title": "Hukum Mubahalah",
-      "titleArabic": "بَابُ الْمُبَاهَلَةِ مَعَ أَهْلِ الْكِتَابِ",
-      "arabic": "الْمُبَاهَلَةُ هِيَ الْمُلَاعَنَةُ، وَقَدْ دَعَا النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَصَارَى نَجْرَانَ إِلَيْهَا.",
-      "translation": "Bab Mubahalah dengan ahli kitab. Mubahalah adalah saling melaknat (untuk membuktikan kebenaran), dan Nabi SAW telah mengajak Nasrani Najran untuk melakukannya."
-    },
-    {
-      "title": "Tafsir Surah An-Nisa: Hukum Anak Yatim",
-      "titleArabic": "أَحْكَامُ الْيَتَامَى فِي سُورَةِ النِّسَاءِ",
-      "arabic": "قَوْلُهُ تَعَالَى: {وَآتُوا الْيَتَامَى أَمْوَالَهُمْ}، يَجِبُ حِفْظُ مَالِ الْيَتِيمِ وَتَسْلِيمُهُ إِلَيْهِ عِنْدَ الرُّشْدِ.",
-      "translation": "Hukum anak yatim dalam Surah An-Nisa. Firman Allah: 'Dan berikanlah kepada anak-anak yatim harta mereka'; wajib menjaga harta yatim dan menyerahkannya kepada mereka saat sudah dewasa (rusyd)."
-    },
-    {
-      "title": "Hukum Poligami dan Keadilan",
-      "titleArabic": "حُكْمُ نِكَاحِ الْأَرْبَعِ وَالْعَدْلِ بَيْنَ النِّسَاءِ",
-      "arabic": "قَوْلُهُ تَعَالَى: {فَانْكِحُوا مَا طَابَ لَكُمْ مِنَ النِّسَاءِ مَثْنَى وَثُلَاثَ وَرُبَاعَ}، الْعَدْلُ شَرْطٌ فِي التَّعَدُّدِ.",
-      "translation": "Hukum menikahi empat istri dan keadilan di antara mereka. Firman Allah: 'Maka nikahilah wanita-wanita yang kamu senangi: dua, tiga atau empat'; keadilan adalah syarat dalam poligami."
-    },
-    {
-      "title": "Hukum Waris (Ilmu Faraid)",
-      "titleArabic": "بَابُ الْمَوَارِيثِ وَأَصْحَابِ الْفُرُوضِ",
-      "arabic": "قَوْلُهُ تَعَالَى: {يُوصِيكُمُ اللَّهُ فِي أَوْلَادِكُمْ}، هَذِهِ الْآيَةُ رُكْنُ عِلْمِ الْفَرَائِضِ.",
-      "translation": "Bab warisan dan ahli waris (ashabul furud). Firman Allah: 'Allah mensyariatkan bagimu tentang pembagian pusaka untuk anak-anakmu'; ayat ini adalah rukun ilmu faraid."
-    },
-    {
-      "title": "Hukum Mahar (Mas Kawin)",
-      "titleArabic": "بَابُ الصَّدَاقِ (الْمَهْرِ) لِلنِّسَاءِ",
-      "arabic": "قَوْلُهُ تَعَالَى: {وَآتُوا النِّسَاءَ صَدُقَاتِهِنَّ نِحْلَةً}، الْمَهْرُ حَقٌّ لِلْمَرْأَةِ لَا يَجُوزُ أَخْذُهُ مِنْهَا.",
-      "translation": "Bab mahar bagi wanita. Firman Allah: 'Berikanlah maskawin kepada wanita (yang kamu nikahi) sebagai pemberian dengan penuh kerelaan'; mahar adalah hak wanita yang tidak boleh diambil darinya."
-    },
-    {
-      "title": "Hukum Wanita yang Haram Dinikahi",
-      "titleArabic": "بَابُ الْمُحَرَّمَاتِ مِنَ النِّسَاءِ",
-      "arabic": "تَحْرُمُ الْمَرْأَةُ بِالنَّسَبِ وَالصِّهْرِ وَالرَّضَاعِ، كَمَا فَصَّلَتْهُ آيَةُ: {حُرِّمَتْ عَلَيْكُمْ أُمَّهَاتُكُمْ}.",
-      "translation": "Bab wanita-wanita yang haram dinikahi. Wanita menjadi haram dinikahi karena nasab, hubungan mertua (shihr), dan persusuan, sebagaimana dirinci dalam ayat: 'Diharamkan atas kamu ibu-ibumu'."
+      "title": "Hukum Wanita yang Diharamkan Dinikahi",
+      "titleArabic": "بَابُ الْمُحَرَّمَاتِ مِنَ النِّسَاءِ",
+      "arabic": "حُرِّمَتْ عَلَيْكُمْ أُمَّهَاتُكُمْ وَبَنَاتُكُمْ وَأَخَوَاتُكُمْ. التَّحْرِيمُ يَقَعُ بِالنَّسَبِ وَالصِّهْرِ وَالرَّضَاعِ.",
+      "translation": "Diharamkan atas kamu ibu-ibumu, anak-anak perempuanmu, dan saudara-saudara perempuanmu. Keharaman terjadi karena nasab, pernikahan, dan persusuan."
     },
     {
       "title": "Hukum Tayammum",
-      "titleArabic": "بَابُ التَّيَمُّمِ وَأَحْكَامِهِ",
-      "arabic": "قَوْلُهُ تَعَالَى: {فَتَيَمَّمُوا صَعِيدًا طَيِّبًا}، التَّيَمُّمُ رُخْصَةٌ عِنْدَ فَقْدِ الْمَاءِ أَوْ تَعَذُّرِ اسْتِعْمَالِهِ.",
-      "translation": "Bab Tayammum dan hukum-hukumnya. Firman Allah: 'Maka bertayammumlah kamu dengan tanah yang baik (suci)'; Tayammum adalah keringanan saat tidak ada air atau sulit menggunakannya."
+      "titleArabic": "بَابُ التَّيَمُّمِ عِنْدَ فَقْدِ الْمَاءِ",
+      "arabic": "فَلَمْ تَجِدُوا مَاءً فَتَيَمَّمُوا صَعِيدًا طَيِّبًا. الصَّعِيدُ هُوَ وَجْهُ الْأَرْضِ.",
+      "translation": "Lalu kamu tidak mendapatkan air, maka bertayammumlah dengan debu yang baik. As-Sa'id adalah permukaan bumi."
     },
     {
-      "title": "Kewajiban Taat Kepada Ulil Amri",
-      "titleArabic": "بَابُ طَاعَةِ أُولِي الْأَمْرِ",
-      "arabic": "قَوْلُهُ تَعَالَى: {أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ}، طَاعَةُ الْأُمَرَاءِ وَالْعُلَمَاءِ وَاجِبَةٌ مَا لَمْ يَأْمُرُوا بِمَعْصِيَةٍ.",
-      "translation": "Bab ketaatan kepada pemimpin (Ulil Amri). Firman Allah: 'Taatilah Allah dan taatilah Rasul-Nya, dan Ulil Amri di antara kamu'; ketaatan kepada pemimpin dan ulama adalah wajib selama tidak memerintahkan maksiat."
+      "title": "Surah Al-Ma'idah: Hukum Makanan Halal dan Haram",
+      "titleArabic": "بَابُ الْأَطْعِمَةِ وَمَا أُحِلَّ لَكُمْ",
+      "arabic": "حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ وَالدَّمُ وَلَحْمُ الْخِنْزِيرِ. إِلَّا مَا ذَكَّيْتُمْ أَيْ ذَبَحْتُمْ عَلَى الشَّرْعِ.",
+      "translation": "Diharamkan atas kamu bangkai, darah, dan daging babi. Kecuali yang kamu sembelih yakni disembelih secara syariat."
     },
     {
-      "title": "Hukum Makanan Halal dan Haram",
-      "titleArabic": "بَابُ الْأَطْعِمَةِ وَالذَّبَائِحِ فِي سُورَةِ الْمَائِدَةِ",
-      "arabic": "قَوْلُهُ تَعَالَى: {حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ وَالدَّمُ وَلَحْمُ الْخِنْزِيرِ}، الْأَصْلُ فِي الْأَطْعِمَةِ الْإِبَاحَةُ إِلَّا مَا وَرَدَ تَحْرِيمُهُ.",
-      "translation": "Bab makanan dan sembelihan dalam Surah Al-Maidah. Firman Allah: 'Diharamkan bagimu bangkai, darah, daging babi'; hukum asal makanan adalah mubah kecuali yang ada dalil pengharamannya."
+      "title": "Hukum Mencuri (Sariqah)",
+      "titleArabic": "بَابُ حَدِّ السَّرِقَةِ وَقَطْعِ الْيَدِ",
+      "arabic": "وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُوا أَيْدِيَهُمَا. السَّرِقَةُ هِيَ أَخْذُ مَالِ الْغَيْرِ خُفْيَةً مِنْ حِرْزٍ.",
+      "translation": "Laki-laki yang mencuri dan perempuan yang mencuri, potonglah tangan keduanya. Mencuri adalah mengambil harta orang lain secara sembunyi-sembunyi dari tempat penyimpanannya."
     },
     {
-      "title": "Hukum Wudhu dan Basuhan Anggota Badan",
-      "titleArabic": "بَابُ فَرَائِضِ الْوُضُوءِ",
-      "arabic": "قَوْلُهُ تَعَالَى: {يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قُمْتُمْ إِلَى الصَّلَاةِ فَاغْسِلُوا وُجُوهَكُمْ}، هَذِهِ الْآيَةُ جَمَعَتْ أَرْكَانَ الْوُضُوءِ.",
-      "translation": "Bab fardu wudhu. Firman Allah: 'Wahai orang-orang yang beriman, apabila kamu hendak mengerjakan shalat, maka basuhlah mukamu'; ayat ini menghimpun rukun-rukun wudhu."
+      "title": "Surah Al-An'am: Hewan Ternak dan Sembelihan",
+      "titleArabic": "بَابُ الْأَنْعَامِ وَذَبَائِحِ أَهْلِ الْكِتَابِ",
+      "arabic": "وَلَا تَأْكُلُوا مِمَّا لَمْ يُذْكَرِ اسْمُ اللَّهِ عَلَيْهِ وَإِنَّهُ لَفِسْقٌ.",
+      "translation": "Dan janganlah kamu memakan apa yang tidak disebut nama Allah atasnya, sesungguhnya itu adalah kefasikan."
     },
     {
-      "title": "Hukum Pencurian dan Potong Tangan",
-      "titleArabic": "بَابُ حَدِّ السَّرِقَةِ",
-      "arabic": "قَوْلُهُ تَعَالَى: {وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُوا أَيْدِيَهُمَا}، يُشْتَرَطُ لِلْقَطْعِ النِّصَابُ وَالْحِرْزُ.",
-      "translation": "Bab hukuman pencurian. Firman Allah: 'Laki-laki yang mencuri dan perempuan yang mencuri, potonglah tangan keduanya'; disyaratkan untuk potong tangan adanya nisab (batas minimal) dan hirz (tempat penyimpanan)."
+      "title": "Surah Al-A'raf: Adab Berpakaian ke Masjid",
+      "titleArabic": "بَابُ اللِّبَاسِ وَالزِّينَةِ عِنْدَ الْمَسَاجِدِ",
+      "arabic": "يَا بَنِي آدَمَ خُذُوا زِينَتَكُمْ عِنْدَ كُلِّ مَسْجِدٍ. الزِّينَةُ مَا يُوارِي الْعَوْرَةَ وَيُجَمِّلُ الْمَرْءَ.",
+      "translation": "Wahai anak Adam, pakailah perhiasanmu pada setiap memasuki masjid. Perhiasan adalah apa yang menutupi aurat dan memperindah seseorang."
     },
     {
-      "title": "Khatimah: Kesimpulan Metodologi Tafsir al-Qurtubi",
-      "titleArabic": "خَاتِمَةُ الْكِتَابِ فِي مَنْهَجِ الْمُؤَلِّفِ",
-      "arabic": "تَمَّ هَذَا التَّفْسِيرُ بِحَمْدِ اللَّهِ، جَامِعًا لِأَحْكَامِ الشَّرِيعَةِ، نَاقِلًا عَنْ أَئِمَّةِ السَّلَفِ، مُبَيِّنًا لِغَرِيبِ اللُّغَةِ وَإِعْرَابِهَا.",
-      "translation": "Penutup Kitab mengenai metodologi penulis. Telah selesai tafsir ini dengan memuji Allah, menghimpun hukum-hukum syariat, menukil dari imam-imam salaf, serta menjelaskan kosa kata asing dan struktur tata bahasa (i'rab)-nya."
+      "title": "Surah Al-Anfal: Hukum Ghanimah (Harta Rampasan)",
+      "titleArabic": "بَابُ الْغَنَائِمِ وَتَقْسِيمِ الْخُمُسِ",
+      "arabic": "وَاعْلَمُوا أَنَّمَا غَنِمْتُمْ مِنْ شَيْءٍ فَأَنَّ لِلَّهِ خُمُسَهُ وَلِلرَّسُولِ.",
+      "translation": "Ketahuilah, sesungguhnya apa saja yang dapat kamu peroleh sebagai rampasan perang, maka sesungguhnya seperlima untuk Allah dan Rasul."
+    },
+    {
+      "title": "Surah At-Taubah: Golongan Penerima Zakat",
+      "titleArabic": "بَابُ مَصَارِفِ الزَّكَاةِ الثَّمَانِيَةِ",
+      "arabic": "إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَاءِ وَالْمَسَاكِينِ... الْآيَةَ. حَصَرَ اللَّهُ الصَّدَقَاتِ فِي هَذِهِ الْأَصْنَافِ.",
+      "translation": "Sesungguhnya zakat-zakat itu hanyalah untuk orang-orang fakir, orang-orang miskin... (dst). Allah membatasi zakat pada golongan-golongan ini."
+    },
+    {
+      "title": "Surah Yusuf: Hukum Mimpi dan Takwil",
+      "titleArabic": "بَابُ الرُّؤْيَا وَتَعْبِيرِهَا",
+      "arabic": "إِنِّي رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا. فِيهَا جَوَازُ قَصِّ الرُّؤْيَا عَلَى مَنْ يُحِبُّ.",
+      "translation": "Sesungguhnya aku bermimpi melihat sebelas bintang. Di dalamnya terdapat kebolehan menceritakan mimpi kepada orang yang dicintai."
+    },
+    {
+      "title": "Surah Al-Isra': Hukum Berbakti kepada Orang Tua",
+      "titleArabic": "بَابُ بِرِّ الْوَالِدَيْنِ وَتَحْرِيمِ الْعُقُوقِ",
+      "arabic": "وَقَضَى رَبُّكَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ وَبِالْوَالِدَيْنِ إِحْسَانًا. فِيهَا قَرَنَ اللَّهُ طَاعَتَهُ بِبِرِّهِمَا.",
+      "translation": "Dan Tuhanmu telah memerintahkan supaya kamu jangan menyembah selain Dia dan hendaklah kamu berbuat baik pada ibu bapakmu. Di sini Allah menyandingkan ketaatan kepada-Nya dengan berbakti kepada keduanya."
+    },
+    {
+      "title": "Surah Al-Kahfi: Kisah Ashabul Kahfi",
+      "titleArabic": "بَابُ قِصَّةِ أَصْحَابِ الْكَهْفِ وَالْفِتْنَةِ فِي الدِّينِ",
+      "arabic": "أَمْ حَسِبْتَ أَنَّ أَصْحَابَ الْكَهْفِ وَالرَّقِيمِ كَانُوا مِنْ آيَاتِنَا عَجَبًا.",
+      "translation": "Atau kamu mengira bahwa orang-orang yang mendiami gua dan Raqim itu mereka termasuk tanda-tanda kekuasaan Kami yang mengherankan?"
+    },
+    {
+      "title": "Surah Maryam: Hukum Kelahiran Isa AS",
+      "titleArabic": "بَابُ مَرْيَمَ عَلَيْهَا السَّلَامُ وَمُعْجِزَةِ الْمِيلَادِ",
+      "arabic": "فَحَمَلَتْهُ فَانْتَبَذَتْ بِهِ مَكَانًا قَصِيًّا. فِيهَا بَيَانُ قُدْرَةِ اللَّهِ عَلَى خَلْقِ مَا يَشَاءُ.",
+      "translation": "Maka Maryam mengandungnya, lalu ia menyisihkan diri dengan kandungannya itu ke tempat yang jauh. Di dalamnya terdapat penjelasan kekuasaan Allah menciptakan apa yang Dia kehendaki."
+    },
+    {
+      "title": "Surah An-Nur: Hukum Zina dan Qadzaf",
+      "titleArabic": "بَابُ حَدِّ الزِّنَا وَالْقَذْفِ وَاللِّعَانِ",
+      "arabic": "الزَّانِيَةُ وَالزَّانِي فَاجْلِدُوا كُلَّ وَاحِدٍ مِنْهُمَا مِائَةَ جَلْدَةٍ. هَذَا حَدُّ الْبِكْرِ.",
+      "translation": "Perempuan yang berzina dan laki-laki yang berzina, maka cambuklah tiap-tiap mereka seratus kali cambukan. Ini adalah hukuman bagi yang belum menikah."
+    },
+    {
+      "title": "Surah Al-Ahzab: Hukum Hijab bagi Wanita",
+      "titleArabic": "بَابُ الْحِجَابِ وَجِلْبَابِ الْمَرْأَةِ الْمُسْلِمَةِ",
+      "arabic": "يَا أَيُّهَا النَّبِيُّ قُلْ لِأَزْوَاجِكَ وَبَنَاتِكَ وَنِسَاءِ الْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِنْ جَلَابِيبِهِنَّ.",
+      "translation": "Wahai Nabi katakanlah kepada istri-istrimu, anak-anak perempuanmu dan istri-istri orang mukmin: 'Hendaklah mereka mengulurkan jilbabnya ke seluruh tubuh mereka'."
+    },
+    {
+      "title": "Surah Al-Jumu'ah: Hukum Shalat Jumat",
+      "titleArabic": "بَابُ صَلَاةِ الْجُمُعَةِ وَوُجُوبِ السَّعْيِ إِلَيْهَا",
+      "arabic": "إِذَا نُودِيَ لِلصَّلَاةِ مِنْ يَوْمِ الْجُمُعَةِ فَاسْعَوْا إِلَى ذِكْرِ اللَّهِ. السَّعْيُ هُنَا هُوَ الْقَصْدُ وَالْعَمَلُ.",
+      "translation": "Apabila diserukan untuk shalat pada hari Jumat, maka bersegeralah kamu kepada mengingat Allah. Bersegera di sini bermakna tujuan dan amal (berangkat)."
+    },
+    {
+      "title": "Surah At-Thalaq: Iddah Wanita Hamil",
+      "titleArabic": "بَابُ عِدَّةِ الْحَوَامِلِ وَأُولَاتِ الْأَحْمَالِ",
+      "arabic": "وَأُولَاتُ الْأَحْمَالِ أَجَلُهُنَّ أَنْ يَضَعْنَ حَمْلَهُنَّ. فِيهَا بَيَانُ انْقِضَاءِ الْعِدَّةِ بِالْوَضْعِ.",
+      "translation": "Dan perempuan-perempuan yang hamil, waktu iddah mereka itu ialah sampai mereka melahirkan kandungannya. Di dalamnya ada penjelasan selesainya iddah dengan melahirkan."
+    },
+    {
+      "title": "Surah Al-Ikhlas: Hakikat Tauhid",
+      "titleArabic": "سُورَةُ الْإِخْلَاصِ: صِفَةُ الرَّحْمَنِ",
+      "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ. فِيهَا نَفْيُ الشَّرِيكِ وَالصَّاحِبَةِ وَالْوَلَدِ عَنِ اللَّهِ سُبْحَانَهُ.",
+      "translation": "Katakanlah: Dialah Allah yang Maha Esa. Di dalamnya terdapat peniadaan sekutu, istri, dan anak bagi Allah Subhanahu wa Ta'ala."
+    },
+    {
+      "title": "Khatimah: Doa Penutup dan Kesimpulan Tafsir",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ: دُعَاءُ خَتْمِ التَّفْسِيرِ",
+      "arabic": "تَمَّ الْكِتَابُ بِحَمْدِ اللَّهِ وَمَنِّهِ. اللَّهُمَّ انْفَعْنَا بِمَا عَلَّمْتَنَا وَاجْعَلْهُ حُجَّةً لَنَا لَا عَلَيْنَا.",
+      "translation": "Telah selesai kitab ini dengan pujian kepada Allah dan karunia-Nya. Ya Allah manfaatkanlah bagi kami apa yang Engkau ajarkan kepada kami dan jadikanlah ia hujah bagi kami bukan hujah yang memberatkan kami."
     }
   ]
 }
