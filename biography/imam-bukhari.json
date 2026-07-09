@@ -1,70 +1,91 @@
 {
-  "fullName": "Muhammad bin Ismail bin Ibrahim bin al-Mughirah bin Bardizbah al-Ju'fi al-Bukhari (أبو عبد الله محمد بن إسماعيل البخاري)",
-  "titles": "Amirul Mu'minin fil Hadits, Nashiru al-Sunnah, Syaikhul Islam, Imam al-Muhadditsin",
-  "birthYear": "194 H / 810 M",
-  "deathYear": "256 H / 870 M",
+  "fullName": "Abu Abdullah Muhammad bin Isma'il bin Ibrahim bin al-Mughirah bin Bardizbah al-Ju'fi al-Bukhari (أبو عبد الله محمد بن إسماعيل بن إبراهيم بن المغيرة بن بردزبة الجعفي البخاري)",
+  "titles": "Amirul Mu'minin fil Hadits (Pemimpin Mukminin dalam Hadits), Al-Imam al-Hafizh, Syaikhul Islam, Nashirus Sunnah (Pembela Sunnah)",
+  "birthYear": "194 Hijriyah / 810 Masehi",
+  "deathYear": "256 Hijriyah / 870 Masehi",
   "century": "Abad ke-3 Hijriyah",
-  "birthDeath": "194 - 256 H / 810 - 870 M",
-  "intro": "Imam Bukhari adalah ulama hadits paling terkemuka dalam sejarah Islam yang menyusun kitab Al-Jami' al-Sahih, kitab paling otentik setelah Al-Qur'an. Beliau dikenal karena ketajaman hafalannya, ketelitian dalam kritik hadits, dan dedikasinya dalam menjaga kemurnian sunnah Nabi Muhammad SAW.",
+  "birthDeath": "Lahir di Bukhara (Uzbekistan) - Wafat di Khartank (dekat Samarkand, Uzbekistan)",
+  "tombLocation": "Kompleks Makam Imam Al-Bukhari, Khartank, Distrik Payaryk, Uzbekistan",
+  "googleMapsLink": "https://maps.app.goo.gl/Yy75Z8pTidXvV3R59",
+  "intro": "Imam Bukhari adalah mercusuar ilmu hadits paling otoritatif dalam sejarah Islam yang mengabdikan hidupnya untuk menyaring keaslian sabda Rasulullah SAW. Beliau dikenal memiliki kecerdasan luar biasa (fotografis) yang mampu menghafal puluhan ribu hadits beserta sanadnya sejak usia dini. Karya monumentalnya, Shahih Bukhari, diakui oleh ijma' ulama sebagai 'Ashahhul Kutub ba'da Kitabullah' (kitab paling shahih setelah Al-Qur'an), menjadikannya rujukan utama syariat Islam hingga hari kiamat.",
   "teachers": [
-    "Ishaq bin Rahawayh",
-    "Ali bin al-Madini",
-    "Ahmad bin Hanbal",
-    "Yahya bin Ma'in",
-    "Makki bin Ibrahim"
+    "Ishaq bin Rahawayh (Guru Utama dan Motivator penulisan Shahih Bukhari)",
+    "Ahmad bin Hanbal (Imam Madzhab Hambali)",
+    "Yahya bin Ma'in (Pakar Jarh wa Ta'dil)",
+    "Ali bin al-Madini (Pakar Ilal al-Hadits)",
+    "Makki bin Ibrahim al-Balkhi (Guru yang meriwayatkan banyak Hadits Thulathiyat)",
+    "Muhammad bin Yusuf al-Firyabi",
+    "Abu Bakar bin Abi Syaibah"
   ],
   "students": [
-    "Imam Muslim bin al-Hajjaj",
-    "Imam Abu Isa At-Tirmidhi",
-    "Imam Abu Abdurrahman An-Nasa'i",
-    "Muhammad bin Nashr al-Marwazi",
-    "Ibnu Khuzaimah"
+    "Imam Muslim bin al-Hajjaj (Pengarang Shahih Muslim)",
+    "Imam Abu Isa at-Tirmidhi (Pengarang Sunan at-Tirmidhi)",
+    "Imam Abu Abdurrahman an-Nasa'i (Pengarang Sunan an-Nasa'i)",
+    "Imam Ibnu Khuzaimah (Imamul Aimmah)",
+    "Muhammad bin Yusuf al-Firabri (Perawi utama kitab Shahih Bukhari)",
+    "Ibrahim bin Ishaq al-Harbi"
   ],
   "works": [
-    "Al-Jami' al-Musnad al-Sahih al-Mukhtasar (Sahih Bukhari)",
-    "Al-Adab al-Mufrad",
-    "At-Tarikh al-Kabir",
-    "Khalq Af'al al-Ibad",
-    "Al-Qira'ah Khalf al-Imam"
+    "Al-Jami' al-Musnad al-Sahih al-Mukhtasar min Umur Rasulillah Sallallahu 'Alaihi wa Sallam wa Sunanihi wa Ayyamih (Shahih Bukhari)",
+    "Al-Adab al-Mufrad (Kumpulan hadits tentang etika dan adab)",
+    "At-Tarikh al-Kabir (Ensiklopedia biografi perawi hadits)",
+    "Khalq Af'al al-Ibad (Kitab Akidah mengenai perbuatan hamba)",
+    "Kitab al-Kuna (Membahas julukan para perawi)",
+    "Raf'ul Yadain fis Shalah (Membahas mengangkat tangan saat shalat)",
+    "Qira'ah Khalf al-Imam (Membahas bacaan di belakang imam)"
   ],
+  "sanad": "Imam Bukhari memiliki mata rantai keilmuan yang sangat tinggi (Ali al-Isnad). Beliau memiliki 'Thulathiyat', yakni hadits yang hanya memiliki tiga perantara antara beliau dan Rasulullah SAW. Sanad beliau tersambung melalui para Tabi'ut Tabi'in senior dari berbagai pusat ilmu seperti Mekkah, Madinah, Kufah, Bashrah, dan Syam. Metodologi sanadnya sangat ketat, mewajibkan adanya 'Liqa' (pertemuan fisik yang terbukti) antara murid dan guru, bukan sekadar 'Mu'asarah' (hidup dalam satu zaman).",
+  "manhaj": "Dalam Akidah, beliau mengikuti Manhaj Salafus Shalih (Ahlussunnah wal Jama'ah), sebagaimana terlihat dalam kitabnya 'Khalq Af'al al-Ibad' dan 'Kitab at-Tauhid' di akhir Shahih-nya. Dalam Fiqih, beliau adalah seorang Mujtahid Mutlaq (mempunyai ijtihad sendiri), namun secara metodologis memiliki kedekatan dengan Madzhab Syafi'i dan Ahlul Hadits. Prinsip utamanya adalah 'Al-Ilmu Qablal Qawli wal Amal' (Berilmu sebelum berkata dan beramal).",
   "timeline": [
     {
       "year": "194 H",
-      "event": "Lahir di Bukhara, Uzbekistan pada hari Jumat setelah shalat Jumat."
+      "event": "Lahir di Bukhara pada hari Jumat, 13 Syawal."
     },
     {
       "year": "204 H",
-      "event": "Mulai menghafal hadits dan menguasai karya-karya Ibnu al-Mubarak serta Waki' pada usia 10 tahun."
+      "event": "Mulai menghafal hadits dan menguasai karya-karya Ibnu Mubarak serta Waki' pada usia 10 tahun."
     },
     {
       "year": "210 H",
-      "event": "Melakukan perjalanan haji pertama ke Makkah bersama ibu dan saudaranya, lalu menetap di sana untuk menuntut ilmu."
+      "event": "Melakukan perjalanan haji bersama ibu dan saudaranya, lalu menetap di Mekkah untuk menuntut ilmu."
+    },
+    {
+      "year": "216 H",
+      "event": "Mulai menulis kitab 'At-Tarikh al-Kabir' di samping makam Rasulullah SAW di Madinah pada malam bulan purnama."
     },
     {
       "year": "232 H",
-      "event": "Menyelesaikan penulisan mahakarya Sahih Bukhari setelah menyaring dari sekitar 600.000 hadits selama 16 tahun."
+      "event": "Mulai menyusun 'Shahih Bukhari' selama 16 tahun dengan proses seleksi yang sangat ketat (shalat istikharah dua rakaat setiap akan menulis satu hadits)."
+    },
+    {
+      "year": "250 H",
+      "event": "Tiba di Nishapur dan bertemu dengan Imam Muslim, terjadi transfer ilmu yang masif di sana."
     },
     {
       "year": "256 H",
-      "event": "Wafat pada malam Idul Fitri di Khartank, sebuah desa dekat Samarkand."
+      "event": "Wafat di Khartank pada malam Idul Fitri setelah mengalami ujian fitnah terkait persoalan lafadz Al-Qur'an."
     }
   ],
   "narrativeSections": [
     {
-      "title": "Kelahiran & Masa Kecil",
-      "content": "Lahir di Bukhara dalam keluarga yang religius. Ayahnya, Ismail, adalah seorang ahli hadits yang pernah berguru kepada Imam Malik. Beliau menjadi yatim sejak kecil dan sempat mengalami kebutaan, namun penglihatannya pulih kembali berkat doa tulus ibunya. Sejak usia 10 tahun, kecemerlangan intelektualnya mulai terlihat saat beliau mengoreksi kesalahan gurunya dalam penyebutan sanad."
+      "title": "Nasab & Kelahiran",
+      "content": "Beliau adalah Muhammad bin Isma'il, keturunan dari keluarga Persia yang masuk Islam melalui kakek buyutnya, al-Mughirah, di bawah bimbingan Gubernur Bukhara, Yaman al-Ju'fi. Ayahnya, Isma'il, adalah seorang ulama hadits yang wara' dan merupakan murid dari Imam Malik bin Anas. Imam Bukhari lahir dalam keadaan yatim dan sempat mengalami kebutaan di masa kecil, namun sembuh secara ajaib berkat doa ibundanya yang gigih."
     },
     {
-      "title": "Rihlah Ilmiah (Pendidikan & Guru)",
-      "content": "Perjalanan intelektualnya mencakup seluruh pusat peradaban Islam saat itu, termasuk Makkah, Madinah, Baghdad, Bashrah, Kufah, Mesir, dan Syam. Beliau berguru kepada lebih dari 1.000 guru. Imam Bukhari dikenal memiliki ingatan fotografis; beliau mampu menghafal ribuan hadits hanya dengan sekali dengar dan menuliskan biografi para periwayat hadits dalam kitab Tarikh-nya di bawah sinar bulan di samping makam Nabi SAW."
+      "title": "Masa Menuntut Ilmu (Rihlah)",
+      "content": "Setelah menghafal Al-Qur'an dan ribuan hadits di negerinya, beliau melakukan Rihlah Ilmiah (pengembaraan intelektual) yang luar biasa luas. Beliau mengunjungi Mekkah, Madinah, Mesir, Syam, Kufah, Bashrah, dan Baghdad berkali-kali. Beliau berkata: 'Aku menulis hadits dari lebih dari 1.000 guru, dan tidaklah aku menulis satu hadits kecuali aku memiliki sanadnya'."
     },
     {
-      "title": "Karya & Peninggalan",
-      "content": "Karya monumentalnya, Sahih Bukhari, menetapkan standar keshahihan yang paling ketat dalam sejarah hadits (Syarat al-Bukhari). Beliau tidak memasukkan satu hadits pun kecuali setelah mandi dan shalat istikharah dua rakaat. Selain hadits, beliau memberikan kontribusi besar dalam ilmu 'Rijal' (kritik biografi perawi) dan fiqh hadits yang tertuang dalam judul-judul bab (tarajum) di kitab Shahih-nya."
+      "title": "Masa Pengabdian & Karya",
+      "content": "Karya teragungnya, Shahih Bukhari, dipilih dari sekitar 600.000 hadits yang beliau hafal. Beliau tidak memasukkan hadits ke dalamnya kecuali telah mandi dan shalat istikharah dua rakaat untuk memastikan kemantapan hati. Selain hadits, beliau juga meletakkan dasar-dasar ilmu 'Rijalul Hadits' (kritik perawi) melalui kitab Tarikh-nya yang menjadi standar emas penelitian biografi ulama."
     },
     {
-      "title": "Wafat & Makam",
-      "content": "Di akhir hayatnya, beliau menghadapi cobaan berupa fitnah terkait masalah penciptaan Al-Qur'an yang membuatnya harus berpindah dari Bukhara ke desa Khartank. Beliau wafat dalam kesendirian namun dengan kemuliaan ilmu pada usia 62 tahun. Makamnya di Khartank, Uzbekistan, hingga kini menjadi situs bersejarah yang dihormati oleh umat Islam di seluruh dunia."
+      "title": "Karakter & Keteladanan",
+      "content": "Imam Bukhari dikenal sebagai pribadi yang sangat wara', zuhud, dan memiliki muru'ah yang tinggi. Beliau sangat berhati-hati dalam memberikan kritik kepada perawi, seringkali menggunakan istilah halus seperti 'Fihi Nazhar' untuk perawi yang sangat lemah. Beliau juga dikenal dermawan dan memiliki konsentrasi shalat yang luar biasa; dikisahkan beliau pernah disengat lebah 17 kali saat shalat namun tidak membatalkannya demi menjaga kekhusyukan."
+    },
+    {
+      "title": "Wafat & Warisan Keilmuan",
+      "content": "Menjelang akhir hayatnya, beliau mengalami cobaan fitnah dari penguasa dan sebagian kalangan yang iri, hingga beliau berdoa agar dipanggil oleh Allah. Beliau wafat pada malam Idul Fitri tahun 256 H. Setelah pemakamannya, tanah makamnya mengeluarkan aroma harum kasturi yang bertahan lama, sebuah karamah yang dicatat oleh banyak sejarawan. Warisannya berupa Shahih Bukhari tetap menjadi rujukan hukum Islam paling murni setelah Al-Qur'an."
     }
   ]
 }
