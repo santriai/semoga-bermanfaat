@@ -1,170 +1,134 @@
 {
   "profile": {
     "name": "Al-Durrah al-Yatimah",
-    "originalTitle": "الْدُّرَّةُ الْيَتِيمَةُ فِي الطَّاعَةِ وَالْمَشُورَةِ",
-    "author": "Abdullah bin al-Muqaffa (Ibnu al-Muqaffa)",
-    "field": "Adab, Etika Pemerintahan, dan Akhlak (Siyasah wa Adab)",
-    "about": "Kitab ini merupakan salah satu karya sastra dan etika politik (adab as-siyasah) tertua dalam khazanah Islam yang ditulis oleh Ibnu al-Muqaffa. Secara harfiah berarti 'Mutiara yang Tiada Duanya', kitab ini membahas secara mendalam tentang hubungan antara pemimpin dan rakyat, etika berinteraksi dengan penguasa, serta seni persahabatan. Penulis menekankan pentingnya akal, kecerdasan emosional, dan integritas moral dalam mengarungi kehidupan sosial dan politik. Kitab ini sering dianggap sebagai jembatan antara pemikiran Persia kuno dengan nilai-nilai Islam dalam hal tata kelola pemerintahan dan perilaku sosial. Gaya bahasanya yang ringkas namun sarat makna menjadikannya rujukan wajib dalam kurikulum 'Adab' di berbagai madrasah dan pesantren.",
-    "authorBorn": "± 106 H / 724 M di Gour, Persia",
+    "originalTitle": "الدُّرَّةُ اليَتِيْمَةُ",
+    "author": "Abdullah bin al-Muqaffa' (w. 142 H)",
+    "field": "Adab & Akhlak (Etika Islam & Kebijaksanaan)",
+    "about": "Kitab Al-Durrah al-Yatimah merupakan salah satu karya monumental dalam khazanah sastra Arab klasik (Adab) yang disusun oleh Ibn al-Muqaffa. Kitab ini berfokus pada pembinaan karakter, kebijaksanaan dalam bergaul, serta etika terhadap penguasa dan sesama manusia. Meskipun ringkas, setiap kalimatnya mengandung kedalaman makna filosofis yang tinggi, sering kali disamakan dengan gaya bahasa Kalilah wa Dimnah. Karya ini menjadi rujukan penting di pesantren dalam mempelajari 'Adab al-Nafs' atau etika diri. Penulis menekankan pentingnya akal di atas hawa nafsu dalam setiap pengambilan keputusan hidup.",
+    "authorBorn": "± 106 H / 724 M di Fairuzabad, Persia",
     "authorDied": "± 142 H / 759 M di Bashrah, Irak",
-    "authorCentury": "Abad ke-2 Hijriah (Awal Dinasti Abbasiyah)"
+    "authorCentury": "Abad ke-2 Hijriyah"
   },
   "chapters": [
     {
-      "title": "Muqaddimah: Keutamaan Akal dan Ilmu",
-      "titleArabic": "مُقَدِّمَةٌ فِي فَضْلِ الْعَقْلِ وَالْعِلْمِ",
-      "arabic": "أَمَّا بَعْدُ، فَإِنَّ لِكُلِّ مَخْلُوقٍ حَاجَةً، وَلِكُلِّ حَاجَةٍ غَايَةً، وَلِكُلِّ غَايَةٍ طَرِيقاً. وَغَايَةُ النَّاسِ فِي دُنْيَاهُمْ صَلَاحُ مَعَاشِهِمْ، وَفِي آخِرَتِهِمْ الْفَوْزُ بِالنَّعِيمِ. وَلَا يُنَالُ ذَلِكَ إِلَّا بِالْعَقْلِ، وَلَا يُقَوَّى الْعَقْلُ إِلَّا بِالتَّجَارِبِ.",
-      "translation": "Amma ba'du, sesungguhnya setiap makhluk memiliki kebutuhan, setiap kebutuhan memiliki tujuan, dan setiap tujuan memiliki jalan. Tujuan manusia di dunia adalah kemaslahatan hidup mereka, dan di akhirat adalah kemenangan dengan kenikmatan. Hal itu tidak dapat dicapai kecuali dengan akal, dan akal tidak akan kuat kecuali dengan pengalaman."
+      "title": "Muqaddimah (Pembukaan)",
+      "titleArabic": "المُقَدِّمَةُ",
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ. الْحَمْدُ لِلَّهِ الَّذِي جَعَلَ الْأَدَبَ زِيْنَةً لِلْعُقَلَاءِ، وَالْعَقْلَ قَائِدًا لِلْبُصَرَاءِ. أَمَّا بَعْدُ، فَإِنَّ هَذِهِ الدُّرَّةَ اليَتِيمَةَ جَمَعْتُ فِيهَا مِنْ جَوَاهِرِ الحِكَمِ مَا يَكُونُ عَوْنًا لِلْمَرْءِ عَلَى دِيْنِهِ وَدُنْيَاهُ.",
+      "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah yang menjadikan adab sebagai perhiasan bagi orang-orang berakal, dan menjadikan akal sebagai pemandu bagi orang-orang yang memiliki bashirah (mata hati). Adapun setelah itu, sesungguhnya kitab 'Permata yang Unik' (Al-Durrah al-Yatimah) ini aku himpun di dalamnya permata-permata hikmah yang dapat menjadi penolong bagi seseorang dalam urusan agama dan dunianya."
     },
     {
-      "title": "Prinsip Utama dalam Berakal",
-      "titleArabic": "أَصْلُ الْأَمْرِ فِي الْعَقْلِ",
-      "arabic": "أَصْلُ الْأَمْرِ فِي ذَلِكَ أَنَّ الْعَقْلَ هُوَ الَّذِي يُدْرَكُ بِهِ خَيْرُ الدُّنْيَا وَالْآخِرَةِ، وَهُوَ الَّذِي يُمَيِّزُ بَيْنَ الْحَسَنِ وَالْقَبِيحِ. فَمَنْ حُرِمَ الْعَقْلَ فَقَدْ حُرِمَ الْخَيْرَ كُلَّهُ.",
-      "translation": "Pokok perkara dalam hal tersebut adalah bahwa akal merupakan sarana untuk meraih kebaikan dunia dan akhirat, serta pembeda antara yang baik dan yang buruk. Barangsiapa yang terhalang dari akal, maka ia telah terhalang dari seluruh kebaikan."
+      "title": "Keutamaan Akal",
+      "titleArabic": "فَضْلُ العَقْلِ",
+      "arabic": "أَفْضَلُ مَا أُوتِيَ الرَّجُلُ العَقْلُ؛ فَإِنَّهُ قَائِدُ الخَيْرِ وَمَانِعُ الشَّرِّ. وَلَا عَقْلَ لِمَنْ لَا أَدَبَ لَهُ.",
+      "translation": "Pemberian paling utama bagi seseorang adalah akal; karena akal adalah penuntun menuju kebaikan dan penghalang dari keburukan. Dan tidak ada gunanya akal bagi orang yang tidak memiliki adab."
     },
     {
-      "title": "Etika Bergaul dengan Penguasa (Sultan)",
-      "titleArabic": "أَدَبُ صُحْبَةِ السُّلْطَانِ",
-      "arabic": "إِذَا كُنْتَ مَعَ السُّلْطَانِ، فَاحْرِصْ عَلَى أَنْ لَا تَدْخُلَ بَيْنَهُ وَبَيْنَهُمْ، وَلَا تُقَلِّلْ مِنْ هَيْبَتِهِ، وَلَا تَسْتَهِنْ بِأَمْرِهِ وَإِنْ كَانَ يَسِيراً.",
-      "translation": "Jika engkau berada bersama penguasa, maka berusahalah agar tidak mencampuri urusan privasinya dengan orang lain, jangan mengurangi kewibawaannya, dan jangan meremehkan perintahnya meskipun itu perkara kecil."
+      "title": "Akal dan Hawa Nafsu",
+      "titleArabic": "العَقْلُ وَالهَوَى",
+      "arabic": "آفَةُ العَقْلِ الهَوَى، فَمَنْ غَلَبَ هَوَاهُ عَقْلَهُ فَقَدْ ضَلَّ سَبِيلُهُ، وَمَنْ غَلَبَ عَقْلُهُ هَوَاهُ فَقَدْ نَجَا.",
+      "translation": "Penyakitnya akal adalah hawa nafsu, barangsiapa yang hawa nafsunya mengalahkan akalnya, maka sungguh ia telah tersesat jalannya. Dan barangsiapa yang akalnya mengalahkan hawa nafsunya, maka sungguh ia telah selamat."
     },
     {
-      "title": "Bahaya Kedekatan dengan Penguasa",
-      "titleArabic": "خَطَرُ الْقُرْبِ مِنَ الْمُلُوكِ",
-      "arabic": "إِنَّ صُحْبَةَ الْمُلُوكِ مِثْلُ الْبَحْرِ، يُعْطِي الدُّرَّ وَيُغْرِقُ السَّابِحَ. فَلَا تَأْمَنْ مَكْرَهُمْ وَإِنْ تَقَرَّبُوا إِلَيْكَ، وَلَا تَغْتَرَّ بِرِضَاهُمْ.",
-      "translation": "Sesungguhnya bersahabat dengan raja-raja itu ibarat laut; ia memberikan mutiara namun bisa menenggelamkan perenangnya. Maka janganlah merasa aman dari tipu daya mereka meskipun mereka mendekatimu, dan jangan tertipu oleh keridaan mereka."
+      "title": "Adab Terhadap Diri Sendiri",
+      "titleArabic": "أَدَبُ النَّفْسِ",
+      "arabic": "عَلَيْكَ بِمُحَاسَبَةِ نَفْسِكَ، وَانْظُرْ فِي عُيُوبِكَ قَبْلَ أَنْ تَنْظُرَ فِي عُيُوبِ الآخَرِينَ.",
+      "translation": "Hendaklah engkau melakukan introspeksi diri (muhasabah), dan perhatikanlah aib-aibmu sendiri sebelum engkau memperhatikan aib orang lain."
     },
     {
-      "title": "Kewajiban Menjaga Rahasia Penguasa",
-      "titleArabic": "حِفْظُ أَسْرَارِ الْمُلُوكِ",
-      "arabic": "أَشَدُّ مَا يَكُونُ عَلَى صَاحِبِ السُّلْطَانِ إِفْشَاءُ سِرِّهِ. فَإِذَا ائْتَمَنَكَ عَلَى سِرٍّ، فَاجْعَلْ قَلْبَكَ قَبْرَهُ، وَلَا تُحَدِّثْ بِهِ نَفْسَكَ فِي خَلَائِكَ.",
-      "translation": "Hal yang paling berat bagi pendamping penguasa adalah membocorkan rahasianya. Jika ia mempercayaimu atas suatu rahasia, jadikanlah hatimu sebagai kuburannya, dan janganlah engkau membicarakannya bahkan kepada dirimu sendiri saat sendirian."
+      "title": "Menjaga Rahasia",
+      "titleArabic": "حِفْظُ السِّرِّ",
+      "arabic": "مَنْ أَفْشَى سِرَّهُ فَلَا يَلُومَنَّ إِلَّا نَفْسَهُ، وَالصَّدِيقُ الحَقِيقِيُّ هُوَ مَنْ كَتَمَ سِرَّكَ.",
+      "translation": "Barangsiapa yang menyebarkan rahasianya sendiri, maka janganlah ia mencela kecuali dirinya sendiri. Sahabat sejati adalah dia yang menyembunyikan rahasiamu."
     },
     {
-      "title": "Adab Memberi Saran kepada Pemimpin",
-      "titleArabic": "أَدَبُ النَّصِيحَةِ لِلْوَالِي",
-      "arabic": "إِذَا أَرَدْتَ أَنْ تَنْصَحَ الْوَالِيَ، فَلَا تَنْصَحْهُ عَلَانِيَةً فَتَكُونَ قَدْ شِنْتَهُ، بَلْ انْفَرِدْ بِهِ وَتَلَطَّفْ فِي الْقَوْلِ.",
-      "translation": "Jika engkau ingin menasihati pemimpin, janganlah menasihatinya secara terang-terangan karena itu berarti engkau telah menjelekkannya. Akan tetapi, menyendirilah dengannya dan bersikap lemah lembutlah dalam ucapan."
+      "title": "Memilih Sahabat",
+      "titleArabic": "اخْتِيَارُ الأَصْدِقَاءِ",
+      "arabic": "لَا تَصْحَبْ إِلَّا مَنْ كَانَ لَهُ عَقْلٌ وَدِيْنٌ، فَإِنَّ المَرْءَ يُعْرَفُ بِقَرِينِهِ.",
+      "translation": "Janganlah engkau bersahabat kecuali dengan orang yang memiliki akal dan agama, karena sesungguhnya seseorang itu dikenal melalui teman dekatnya."
     },
     {
-      "title": "Menghadapi Kemarahan Penguasa",
-      "titleArabic": "تَوَقِّي غَضَبِ السُّلْطَانِ",
-      "arabic": "إِذَا رَأَيْتَ السُّلْطَانَ غَضْبَانَ، فَاسْكُنْ حَتَّى يَسْكُنَ، وَلَا تَتَعَرَّضْ لَهُ بِحَاجَةٍ أَوْ عِتَابٍ، فَإِنَّ الْغَضَبَ يُعْمِي الْبَصِيرَةَ.",
-      "translation": "Jika engkau melihat penguasa sedang marah, maka diamlah sampai ia tenang. Janganlah mengajukan kebutuhan atau teguran kepadanya, karena kemarahan dapat membutakan mata hati."
+      "title": "Kewajiban Terhadap Sahabat",
+      "titleArabic": "حَقُّ الصَّدِيقِ",
+      "arabic": "ابْذُلْ لِصَدِيقِكَ مَالَكَ وَنَفْسَكَ، وَلِعَامَّةِ النَّاسِ بِشْرَكَ وَمَوَدَّتَكَ.",
+      "translation": "Berikanlah harta dan jiwamu untuk sahabatmu, dan berikanlah wajah yang berseri serta kasih sayangmu untuk manusia secara umum."
     },
     {
-      "title": "Kewaspadaan Terhadap Musuh di Lingkaran Kekuasaan",
-      "titleArabic": "الْحَذَرُ مِنَ الْأَعْدَاءِ فِي الْبَلَاطِ",
-      "arabic": "احْذَرْ مِنْ عَدُوِّكَ الَّذِي يَتَقَرَّبُ إِلَيْكَ بِاللُّطْفِ، فَإِنَّ السَّمَّ قَدْ يُوضَعُ فِي الْعَسَلِ. وَلَا تَأْمَنْ مَنْ كَانَ بَيْنَكَ وَبَيْنَهُ إِحْنَةٌ.",
-      "translation": "Waspadalah terhadap musuhmu yang mendekatimu dengan kelembutan, karena racun terkadang diletakkan di dalam madu. Janganlah merasa aman dari orang yang di antara kamu dan dia terdapat dendam lama."
-    },
-    {
-      "title": "Memilih Teman dan Saudara",
-      "titleArabic": "اخْتِيَارُ الْإِخْوَانِ وَالْأَصْدِقَاءِ",
-      "arabic": "لَا تَصْحَبْ إِلَّا مَنْ كَانَ لَهُ عَقْلٌ وَدِينٌ، فَإِنَّ الْعَاقِلَ لَا يُضِيعُكَ، وَالدَّيِّنَ لَا يَخُونُكَ. وَاخْتَبِرِ الرَّجُلَ قَبْلَ أَنْ تَثِقَ بِهِ.",
-      "translation": "Janganlah berteman kecuali dengan orang yang memiliki akal dan agama. Sebab orang yang berakal tidak akan menyia-nyiakanmu, dan orang yang beragama tidak akan mengkhianatimu. Ujilah seseorang sebelum engkau mempercayainya."
-    },
-    {
-      "title": "Hak-hak Persahabatan",
-      "titleArabic": "حُقُوقُ الصَّدَاقَةِ",
-      "arabic": "حَقُّ الصَّدِيقِ أَنْ تُعِينُهُ بِنَفْسِكَ وَمَالِكَ، وَتَحْفَظَهُ فِي غَيْبَتِهِ، وَتَغْفِرَ لَهُ زَلَّتَهُ إِذَا اعْتَذَرَ.",
-      "translation": "Hak seorang teman adalah engkau membantunya dengan jiwa dan hartamu, menjaganya saat ia tidak ada, dan mengampuni kesalahannya jika ia meminta maaf."
-    },
-    {
-      "title": "Larangan Berdebat dengan Orang Bodoh",
-      "titleArabic": "تَرْكُ الْمِرَاءِ مَعَ السُّفَهَاءِ",
-      "arabic": "إِيَّاكَ وَالْمِرَاءَ مَعَ السَّفِيهِ، فَإِنَّهُ يُؤْذِيكَ بِلِسَانِهِ، وَيَظُنُّ أَنَّهُ قَدْ غَلَبَكَ بِجَهْلِهِ.",
-      "translation": "Jauhilah perdebatan dengan orang bodoh, karena ia akan menyakitimu dengan lisannya dan menyangka bahwa ia telah mengalahkanmu dengan kebodohannya."
-    },
-    {
-      "title": "Seni Berbicara dan Mendengar",
-      "titleArabic": "أَدَبُ الْكَلَامِ وَالِاسْتِمَاعِ",
-      "arabic": "تَعَلَّمْ حُسْنَ الِاسْتِمَاعِ كَمَا تَتَعَلَّمُ حُسْنَ الْكَلَامِ. وَلَا تَقْطَعْ عَلَى أَحَدٍ حَدِيثَهُ، وَإِنْ كُنْتَ تَعْلَمُ مَا سَيَقُولُ.",
-      "translation": "Pelajarilah cara mendengarkan yang baik sebagaimana engkau mempelajari cara berbicara yang baik. Janganlah memotong pembicaraan orang lain meskipun engkau sudah tahu apa yang akan dikatakannya."
-    },
-    {
-      "title": "Mengelola Harta dengan Bijak",
-      "titleArabic": "تَدْبِيرُ الْمَالِ",
-      "arabic": "الْمَالُ خَادِمٌ جَيِّدٌ وَلَكِنَّهُ سَيِّدٌ رَدِيءٌ. فَأَنْفِقْ فِي غَيْرِ سَرَفٍ، وَأَمْسِكْ فِي غَيْرِ بُخْلٍ، وَاجْعَلْ مَالَكَ لِصِيَانَةِ عِرْضِكَ.",
-      "translation": "Harta adalah pelayan yang baik namun tuan yang buruk. Maka infakkanlah tanpa berlebihan, dan tahanlah tanpa bakhil. Jadikan hartamu sebagai sarana menjaga kehormatanmu."
-    },
-    {
-      "title": "Menghindari Sifat Hasad (Iri Hati)",
-      "titleArabic": "النَّهْيُ عَنِ الْحَسَدِ",
-      "arabic": "الْحَسَدُ دَاءٌ قَاتِلٌ لِلْحَاسِدِ قَبْلَ الْمَحْسُودِ. فَارْضَ بِمَا قَسَمَ اللَّهُ لَكَ، وَلَا تَتَمَنَّ زَوَالَ نِعْمَةِ غَيْرِكَ.",
-      "translation": "Hasad (iri hati) adalah penyakit yang membunuh pelakunya sebelum korbannya. Ridalah dengan apa yang Allah bagikan untukmu, dan janganlah berharap hilangnya nikmat orang lain."
-    },
-    {
-      "title": "Kekuatan Sabar dalam Menghadapi Kesulitan",
-      "titleArabic": "فَضْلُ الصَّبْرِ عَلَى الشَّدَائِدِ",
-      "arabic": "الصَّبْرُ مِفْتَاحُ الْفَرَجِ. وَمَنْ صَبَرَ عَلَى مَا يَكْرَهُ، نَالَ مَا يُحِبُّ. وَلَا تَجْزَعْ مِنَ النَّوَائِبِ، فَإِنَّ الدَّهْرَ قُلَّبٌ.",
-      "translation": "Sabar adalah kunci kelapangan. Barangsiapa bersabar atas apa yang ia benci, ia akan meraih apa yang ia cintai. Janganlah berkeluh kesah atas musibah, karena zaman itu terus berputar."
-    },
-    {
-      "title": "Etika di Majelis Ilmu",
-      "titleArabic": "أَدَبُ الْمَجَالِسِ",
-      "arabic": "إِذَا جَلَسْتَ فِي مَجْلِسٍ، فَاجْلِسْ حَيْثُ يَنْتَهِي بِكَ الْمَكَانُ، وَلَا تَتَصَدَّرْ إِلَّا أَنْ تُدْعَى، وَاحْفَظْ لِسَانَكَ عَنِ الْفُضُولِ.",
-      "translation": "Jika engkau duduk di suatu majelis, duduklah di tempat yang paling ujung (yang tersedia), jangan memaksakan diri di depan kecuali diundang, dan jagalah lisanmu dari hal-hal yang tidak berguna."
-    },
-    {
-      "title": "Ciri-ciri Orang yang Berakal",
-      "titleArabic": "صِفَاتُ الْعَاقِلِ",
-      "arabic": "الْعَاقِلُ هُوَ الَّذِي يَعْرِفُ زَمَانَهُ، وَيَحْفَظُ لِسَانَهُ، وَيُقْبِلُ عَلَى شَأْنِهِ. وَلَا يَتَكَلَّمُ فِيمَا لَا يَعْنِيهِ.",
-      "translation": "Orang yang berakal adalah orang yang mengenal zamannya, menjaga lidahnya, dan menyibukkan diri dengan urusannya sendiri. Ia tidak berbicara tentang hal yang tidak berkepentingan baginya."
-    },
-    {
-      "title": "Bahaya Sifat Sombong",
-      "titleArabic": "ذَمُّ الْكِبْرِ وَالْعُجْبِ",
-      "arabic": "الْكِبْرُ مَصْيَدَةُ الْجَهْلِ. وَمَنْ أُعْجِبَ بِنَفْسِهِ عَمِيَ عَنْ عُيُوبِهِ. فَاسْتَعِذْ بِاللَّهِ مِنْ خُيَلَاءِ النَّفْسِ.",
-      "translation": "Kesombongan adalah jeratan kebodohan. Barangsiapa merasa kagum pada dirinya sendiri, ia akan buta dari aibnya. Maka berlindunglah kepada Allah dari kesombongan diri."
-    },
-    {
-      "title": "Pentingnya Musyawarah",
-      "titleArabic": "أَهَمِّيَّةُ الْمَشُورَةِ",
-      "arabic": "مَا اسْتَغْنَى رَجُلٌ عَنْ رَأْيِهِ، وَلَا هَلَكَ مَنِ اسْتَشَارَ. فَشَاوِرْ مَنْ جَرَّبَ الْأُمُورَ وَكَانَ لَهُ عَقْلٌ رَاجِحٌ.",
-      "translation": "Seseorang tidak akan merasa cukup hanya dengan pendapatnya sendiri, dan tidak akan binasa orang yang bermusyawarah. Maka bermusyawarahlah dengan orang yang berpengalaman dan memiliki akal yang unggul."
-    },
-    {
-      "title": "Menghadapi Kritik dan Celaan",
-      "titleArabic": "الصَّفْحُ عَنِ اللَّوْمِ",
-      "arabic": "إِذَا بَلَغَكَ عَنْ صَدِيقِكَ مَا تَكْرَهُ، فَلَا تَعْجَلْ بِالْعَدَاوَةِ، بَلْ الْتَمِسْ لَهُ عُذْراً، فَإِنْ لَمْ تَجِدْ فَقُلْ لَعَلَّ لَهُ عُذْراً لَا أَعْلَمُهُ.",
-      "translation": "Jika sampai kepadamu berita tentang temanmu yang tidak engkau sukai, janganlah terburu-buru memusuhinya. Carikanlah uzur baginya, jika tidak kau temukan, katakanlah: 'Barangkali ia punya uzur yang tidak aku ketahui'."
-    },
-    {
-      "title": "Etika Menuntut Ilmu",
-      "titleArabic": "أَدَبُ طَلَبِ الْعِلْمِ",
-      "arabic": "اصْبِرْ عَلَى جَفَاءِ الْمُعَلِّمِ، فَإِنَّ رُسُوبَ الْعِلْمِ فِي نُفُورِهِ. وَكُنْ لِلْعِلْمِ أَطْوَعَ مِنْكَ لِلْمَالِ.",
-      "translation": "Bersabarlah atas sikap keras seorang guru, karena terhalangnya ilmu ada pada kemarahannya. Jadilah engkau lebih patuh kepada ilmu daripada patuhmu terhadap harta."
+      "title": "Adab Berbicara",
+      "titleArabic": "أَدَبُ الكَلَامِ",
+      "arabic": "إِذَا تَكَلَّمْتَ فَاخْتَصِرْ، وَإِذَا حَدَّثْتَ فَاصْدُقْ، وَإِيَّاكَ وَالفُضُولَ مِنَ القَوْلِ.",
+      "translation": "Apabila engkau berbicara maka singkatlah (padat), apabila engkau bercerita maka jujurlah, dan jauhilah perkataan yang sia-sia."
     },
     {
       "title": "Keutamaan Diam",
-      "titleArabic": "فَضْلُ الصَّمْتِ",
-      "arabic": "الصَّمْتُ زَيْنٌ لِلْعَالِمِ وَسِتْرٌ لِلْجَاهِلِ. فَإِذَا نَطَقْتَ فَانْطِقْ بِخَيْرٍ، وَإِلَّا فَالصَّمْتُ أَسْلَمُ.",
-      "translation": "Diam adalah perhiasan bagi orang berilmu dan penutup bagi orang bodoh. Jika engkau bicara, bicaralah yang baik, jika tidak, maka diam itu lebih selamat."
+      "titleArabic": "فَضْلُ السُّكُوتِ",
+      "arabic": "السُّكُوتُ فِي مَوْضِعِهِ خَيْرٌ مِنَ الكَلَامِ، وَرُبَّ كَلِمَةٍ جَلَبَتْ نِقْمَةً.",
+      "translation": "Diam pada tempatnya lebih baik daripada berbicara, dan betapa banyak kata-kata yang mendatangkan malapetaka."
     },
     {
-      "title": "Menjaga Wibawa dan Martabat",
-      "titleArabic": "حِفْظُ الْمُرُوءَةِ",
-      "arabic": "الْمُرُوءَةُ أَنْ لَا تَفْعَلَ فِي السِّرِّ مَا تَسْتَحْيِي مِنْهُ فِي الْعَلَانِيَةِ. وَهِيَ جِمَاعُ الْأَخْلَاقِ الْكَرِيمَةِ.",
-      "translation": "Martabat (muru'ah) adalah engkau tidak melakukan di tempat tersembunyi apa yang engkau malu melakukannya di tempat terbuka. Ia adalah kumpulan akhlak yang mulia."
+      "title": "Menghadapi Musuh",
+      "titleArabic": "مُدَارَاةُ الأَعْدَاءِ",
+      "arabic": "إِذَا كَانَ لَكَ عَدُوٌّ فَلَا تَأْمَنْ مَكْرَهُ، وَدَارِهِ بِالعَقْلِ وَالحِكْمَةِ لَا بِالعُنْفِ.",
+      "translation": "Apabila engkau memiliki musuh, janganlah merasa aman dari makarnya, dan hadapilah dia dengan akal dan hikmah, bukan dengan kekerasan."
     },
     {
-      "title": "Kesetiaan dalam Perjanjian",
-      "titleArabic": "الْوَفَاءُ بِالْعَهْدِ",
-      "arabic": "الْوَفَاءُ مِنَ الدِّينِ، وَمَنْ لَا عَهْدَ لَهُ لَا دِينَ لَهُ. فَإِذَا وَعَدْتَ فَأَنْجِزْ، وَإِذَا عَاهَدْتَ فَأَوْفِ.",
-      "translation": "Menepati janji adalah bagian dari agama, dan barangsiapa tidak memegang janji maka tiada agama baginya. Jika engkau berjanji maka penuhilah, jika engkau berikrar maka tepati."
+      "title": "Etika Terhadap Penguasa",
+      "titleArabic": "أَدَبُ السُّلْطَانِ",
+      "arabic": "مَنْ خَدَمَ السُّلْطَانَ فَعَلَيْهِ بِالطَّاعَةِ وَالنَّصِيحَةِ فِي السِّرِّ، وَالحَذَرِ مِنْ غَضَبِهِ.",
+      "translation": "Barangsiapa yang melayani penguasa, maka wajib baginya ketaatan serta memberikan nasihat secara rahasia, dan berhati-hati dari kemarahannya."
     },
     {
-      "title": "Menghindari Pertengkaran",
-      "titleArabic": "الْبُعْدُ عَنِ الْخُصُومَةِ",
-      "arabic": "الْخُصُومَةُ تَمْحَقُ الدِّينَ وَتُورِثُ الضَّغِينَةَ. فَدَارِ النَّاسَ مَا اسْتَطَعْتَ، وَلَا تُمَارِ مَنْ لَا يُنْصِفُكَ.",
-      "translation": "Pertengkaran akan menghapus keberkahan agama dan mewariskan dendam. Maka bersikaplah diplomatis kepada orang lain semampumu, dan jangan berdebat dengan orang yang tidak berlaku adil padamu."
+      "title": "Sifat Sombong",
+      "titleArabic": "ذَمُّ الكِبْرِ",
+      "arabic": "الكِبْرُ يَمْحَقُ الفَضَائِلَ، وَالتَّوَاضُعُ يَرْفَعُ المَنْزِلَةَ.",
+      "translation": "Kesombongan itu menghapus segala keutamaan, sedangkan tawadhu (rendah hati) itu mengangkat derajat."
     },
     {
-      "title": "Khatimah: Kesimpulan Etika Hidup",
-      "titleArabic": "خَاتِمَةٌ فِي جَوَامِعِ الْأَدَبِ",
-      "arabic": "اعْلَمْ أَنَّ خَيْرَ الْأُمُورِ أَوْسَاطُهَا، وَخَيْرَ الْعِلْمِ مَا نَفَعَ، وَخَيْرَ الْقَوْلِ مَا صَدَقَ. تَمَّتِ الدُّرَّةُ الْيَتِيمَةُ بِحَمْدِ اللَّهِ.",
-      "translation": "Ketahuilah bahwa sebaik-baik urusan adalah yang paling moderat (tengah-tengah), sebaik-baik ilmu adalah yang bermanfaat, dan sebaik-baik perkataan adalah yang benar. Telah sempurna kitab Al-Durrah al-Yatimah dengan memuji Allah."
+      "title": "Bahaya Hasad (Iri Hati)",
+      "titleArabic": "آفَةُ الحَسَدِ",
+      "arabic": "الحَاسِدُ عَدُوُّ النِّعْمَةِ، وَهُوَ فِي غَمٍّ دَائِمٍ لَا يَنْقَطِعُ.",
+      "translation": "Orang yang hasad adalah musuh bagi nikmat Allah, dan ia berada dalam kesedihan yang terus menerus tanpa henti."
+    },
+    {
+      "title": "Kesabaran",
+      "titleArabic": "فَضْلُ الصَّبْرِ",
+      "arabic": "الصَّبْرُ مِفْتَاحُ الفَرَجِ، وَبِهِ تُنَالُ مَعَالِي الأُمُورِ.",
+      "translation": "Sabar adalah kunci kelapangan, dan dengan sabar perkara-perkara yang luhur dapat dicapai."
+    },
+    {
+      "title": "Mencari Ilmu",
+      "titleArabic": "طَلَبُ العِلْمِ",
+      "arabic": "العِلْمُ زَيْنٌ لِلْغَنِيِّ وَعَوْنٌ لِلْفَقِيرِ، فَلَا تَمَلَّ مِنْ طَلَبِهِ.",
+      "translation": "Ilmu adalah perhiasan bagi orang kaya dan penolong bagi orang miskin, maka janganlah engkau bosan dalam mencarinya."
+    },
+    {
+      "title": "Menjaga Lisan",
+      "titleArabic": "حِفْظُ اللِّسَانِ",
+      "arabic": "لِسَانُ العَاقِلِ وَرَاءَ قَلْبِهِ، وَقَلْبُ الأَحْمَقِ وَرَاءَ لِسَانِهِ.",
+      "translation": "Lisan orang berakal berada di belakang hatinya (berpikir dulu), sedangkan hati orang bodoh berada di belakang lisannya (bicara dulu)."
+    },
+    {
+      "title": "Kedermawanan",
+      "titleArabic": "الجُودُ وَالسَّخَاءُ",
+      "arabic": "الجُودُ مَحْبَبَةٌ، وَالبُخْلُ مَبْغَضَةٌ، وَأَحْسَنُ الجُودِ مَا كَانَ عَنْ طِيبِ نَفْسٍ.",
+      "translation": "Kedermawanan mendatangkan kecintaan, kebakhilan mendatangkan kebencian, dan kedermawanan terbaik adalah yang berasal dari kerelaan jiwa."
+    },
+    {
+      "title": "Menjaga Kehormatan",
+      "titleArabic": "صِيَانَةُ المُرُوءَةِ",
+      "arabic": "المُرُوءَةُ هِيَ أَنْ لَا تَفْعَلَ فِي السِّرِّ مَا تَسْتَحِي مِنْهُ فِي العَلَانِيَةِ.",
+      "translation": "Muruah (kehormatan diri) adalah engkau tidak melakukan dalam kesendirian apa yang engkau malu melakukannya di hadapan orang banyak."
+    },
+    {
+      "title": "Menghadapi Musibah",
+      "titleArabic": "عِنْدَ الشَّدَائِدِ",
+      "arabic": "إِذَا نَزَلَتْ بِكَ شِدَّةٌ فَاسْتَعِنْ بِاللَّهِ وَاصْبِرْ، فَإِنَّ الدَّهْرَ قُلَّبٌ.",
+      "translation": "Apabila kesulitan menimpamu, maka mintalah pertolongan kepada Allah dan bersabarlah, karena sesungguhnya masa itu selalu berbolak-balik."
+    },
+    {
+      "title": "Khatimah (Penutup)",
+      "titleArabic": "خَاتِمَةُ الكِتَابِ",
+      "arabic": "هَذَا آخِرُ مَا أَرَدْتُ جَمْعَهُ فِي هَذِهِ الرِّسَالَةِ، فَمَنْ عَمِلَ بِهَا نَالَ مَقْصُودَهُ، وَاللَّهُ المُوَفِّقُ لِلصَّوَابِ.",
+      "translation": "Inilah akhir dari apa yang aku ingin himpun dalam risalah ini. Barangsiapa yang mengamalkannya maka ia akan mencapai tujuannya, dan Allah-lah yang memberi taufik menuju kebenaran."
     }
   ]
 }
