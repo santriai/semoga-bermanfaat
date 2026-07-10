@@ -1,0 +1,434 @@
+{
+  "profile": {
+    "name": "Ma'alim al-Tanzil",
+    "originalTitle": "مَعَالِمُ التَّنْزِيلِ فِي تَفْسِيرِ الْقُرْآنِ",
+    "author": "Al-Imam Al-Hafiz Abu Muhammad al-Husayn bin Mas'ud al-Baghawi al-Farra' (Muhyi al-Sunnah)",
+    "field": "Tafsir Al-Qur'an (Tafsir bi al-Ma'thur)",
+    "about": "Ma'alim al-Tanzil merupakan salah satu kitab tafsir paling otoritatif dalam tradisi Ahlus Sunnah wal Jama'ah yang menggunakan metode tafsir bi al-ma'thur. Kitab ini dikenal sangat selektif dalam menyajikan riwayat hadis dan atsar sahabat, menghindari riwayat-riwayat israiliyat yang mungkar serta perdebatan kalam yang berlebihan. Al-Baghawi menyusunnya dengan gaya bahasa yang ringkas namun padat, mencakup penjelasan kosakata (lughah), asbabun nuzul, dan hukum-hukum fikih. Imam al-Khazin meringkas kitab ini, dan Imam Ibnu Taimiyyah memujinya sebagai tafsir yang paling jauh dari bid'ah dan hadis palsu. Kitab ini menjadi rujukan utama di pesantren-pesantren besar di seluruh dunia untuk mendalami makna tekstual Al-Qur'an.",
+    "authorBorn": "433 H / 1041 M (Bagh, Khurasan)",
+    "authorDied": "516 H / 1122 M (Marw al-Rudh)",
+    "authorCentury": "Abad ke-5 dan ke-6 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah: Pujian Kepada Allah dan Rasul",
+      "titleArabic": "خُطْبَةُ الْكِتَابِ",
+      "arabic": "الْحَمْدُ لِلَّهِ ذِي الْقُوَّةِ وَالْمَتَانَةِ، وَالرَّحْمَةِ وَالرَّأْفَةِ، الَّذِي رَضِيَ مِنَ الْعِبَادِ بِالْيَسِيرِ مِنَ الْعَمَلِ، وَأَعْطَاهُمُ الْجَزِيلَ مِنَ الثَّوَابِ عَلَى الْقَلِيلِ مِنَ الطَّاعَةِ. أَحْمَدُهُ عَلَى آلَائِهِ، وَأَشْكُرُهُ عَلَى نَعْمَائِهِ. وَأَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ، أَرْسَلَهُ بِالْهُدَى وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ.",
+      "translation": "Segala puji bagi Allah yang memiliki kekuatan yang kokoh, rahmat, dan kasih sayang. Dialah yang rida terhadap hamba-Nya dengan amal yang sedikit, namun memberi mereka pahala yang melimpah atas ketaatan yang sedikit tersebut. Aku memuji-Nya atas segala karunia-Nya, dan bersyukur atas nikmat-Nya. Aku bersaksi bahwa tiada Tuhan selain Allah Yang Maha Esa tiada sekutu bagi-Nya, dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya, yang diutus membawa petunjuk dan agama yang haq untuk dimenangkannya atas segala agama meskipun orang musyrik membencinya."
+    },
+    {
+      "title": "Keutamaan Mempelajari dan Mengajarkan Al-Qur'an",
+      "titleArabic": "بَابُ فَضْلِ الْقُرْآنِ وَتَعْلِيمِهِ",
+      "arabic": "قَالَ اللَّهُ تَعَالَى: {إِنَّ الَّذِينَ يَتْلُونَ كِتَابَ اللَّهِ وَأَقَامُوا الصَّلَاةَ}. وَرُوِيَ عَنْ عُثْمَانَ بْنِ عَفَّانَ رَضِيَ اللَّهُ عَنْهُ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ». فَالْقُرْآنُ هُوَ حَبْلُ اللَّهِ الْمَتِينُ، وَالنُّورُ الْمُبِينُ، وَالذِّكْرُ الْحَكِيمُ، وَالصِّرَاطُ الْمُسْتَقِيمُ.",
+      "translation": "Allah Ta'ala berfirman: 'Sesungguhnya orang-orang yang selalu membaca Kitab Allah dan mendirikan salat...'. Diriwayatkan dari Utsman bin Affan radhiyallahu 'anhu dari Nabi shallallahu 'alaihi wa sallam bersabda: 'Sebaik-baik kalian adalah orang yang belajar Al-Qur'an dan mengajarkannya'. Al-Qur'an adalah tali Allah yang kokoh, cahaya yang terang, peringatan yang bijaksana, dan jalan yang lurus."
+    },
+    {
+      "title": "Tafsir Surah Al-Fatihah (Pembukaan)",
+      "titleArabic": "سُورَةُ الْفَاتِحَةِ",
+      "arabic": "تُسَمَّى أُمَّ الْقُرْآنِ، وَأُمَّ الْكِتَابِ، وَالسَّبْعَ الْمَثَانِيَ. وَهِيَ مَكِّيَّةٌ عِنْدَ الْأَكْثَرِينَ. بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ. {الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ}: أَيْ جَمِيعُ الْمَحَامِدِ لِلَّهِ عَزَّ وَجَلَّ، وَهُوَ مَالِكُ جَمِيعِ الْخَلَائِقِ مِنَ الْإِنْسِ وَالْجِنِّ وَالْمَلَائِكَةِ.",
+      "translation": "Surah ini dinamakan Ummul Qur'an, Ummul Kitab, dan As-Sab'ul Matsani. Merupakan surah Makkiyyah menurut mayoritas ulama. 'Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah Tuhan semesta alam': yakni segala jenis pujian hanyalah milik Allah Azza wa Jalla, dan Dialah pemilik seluruh makhluk baik manusia, jin, maupun malaikat."
+    },
+    {
+      "title": "Tafsir Surah Al-Baqarah (Sapi Betina)",
+      "titleArabic": "سُورَةُ الْبَقَرَةِ",
+      "arabic": "مَدَنِيَّةٌ، وَهِيَ مِائَتَانِ وَسِتٌّ وَثَمَانُونَ آيَةً. {الم}: قَالَ ابْنُ عَبَّاسٍ: هُوَ قَسَمٌ، وَقِيلَ: اسْمٌ مِنْ أَسْمَاءِ اللَّهِ تَعَالَى. {ذَلِكَ الْكِتَابُ}: أَيْ هَذَا الْكِتَابُ الَّذِي وَعَدْتُكَ أَنْ أُنْزِلَهُ عَلَيْكَ. {لَا رَيْبَ فِيهِ}: لَا شَكَّ أَنَّهُ مِنْ عِنْدِ اللَّهِ.",
+      "translation": "Surah Madaniyyah, terdiri dari 286 ayat. 'Alif Lam Mim': Ibnu Abbas berkata ini adalah sumpah, dan dikatakan ini adalah salah satu nama Allah. 'Kitab itu': yakni Kitab ini yang Aku janjikan akan diturunkan kepadamu. 'Tidak ada keraguan padanya': tidak ada syak bahwa ia berasal dari sisi Allah."
+    },
+    {
+      "title": "Tafsir Surah Ali 'Imran (Keluarga 'Imran)",
+      "titleArabic": "سُورَةُ آلِ عِمْرَانَ",
+      "arabic": "مَدَنِيَّةٌ، مِائَتَا آيَةٍ. نَزَلَتْ فِي أَهْلِ نَجْرَانَ. {اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ}: الْحَيُّ الَّذِي لَا يَمُوتُ، الْقَيُّومُ الْقَائِمُ بِتَدْبِيرِ الْخَلْقِ.",
+      "translation": "Surah Madaniyyah, 200 ayat. Turun berkenaan dengan penduduk Najran. 'Allah, tidak ada Tuhan selain Dia, Yang Maha Hidup, Yang Terus Menerus Mengurus': Al-Hayyu adalah yang tidak mati, Al-Qayyum adalah yang tegak mengurus makhluk."
+    },
+    {
+      "title": "Tafsir Surah An-Nisa' (Wanita)",
+      "titleArabic": "سُورَةُ النِّسَاءِ",
+      "arabic": "مَدَنِيَّةٌ، مِائَةٌ وَسِتٌّ وَسَبْعُونَ آيَةً. {يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمُ}: أَيْ أَطِيعُوهُ. {الَّذِي خَلَقَكُمْ مِنْ نَفْسٍ وَاحِدَةٍ}: يَعْنِي آدَمَ عَلَيْهِ السَّلَامُ.",
+      "translation": "Surah Madaniyyah, 176 ayat. 'Wahai manusia bertaqwalah kepada Tuhanmu': yakni taatlah kepada-Nya. 'Yang telah menciptakan kamu dari diri yang satu': yakni Adam alaihissalam."
+    },
+    {
+      "title": "Tafsir Surah Al-Ma'idah (Hidangan)",
+      "titleArabic": "سُورَةُ الْمَائِدَةِ",
+      "arabic": "مَدَنِيَّةٌ، مِائَةٌ وَعِشْرُونَ آيَةً. {أَوْفُوا بِالْعُقُودِ}: أَيِ الْعُهُودِ الَّتِي عَاهَدْتُمُ اللَّهَ عَلَيْهَا.",
+      "translation": "Surah Madaniyyah, 120 ayat. 'Penuhilah janji-janji': yakni janji yang telah kalian janjikan kepada Allah."
+    },
+    {
+      "title": "Tafsir Surah Al-An'am (Binatang Ternak)",
+      "titleArabic": "سُورَةُ الْأَنْعَامِ",
+      "arabic": "مَكِّيَّةٌ، مِائَةٌ وَخَمْسٌ وَسِتُّونَ آيَةً. نَزَلَتْ جُمْلَةً وَاحِدَةً، شَيَّعَهَا سَبْعُونَ أَلْفَ مَلَكٍ.",
+      "translation": "Surah Makkiyyah, 165 ayat. Turun sekaligus secara utuh, diiringi oleh tujuh puluh ribu malaikat."
+    },
+    {
+      "title": "Tafsir Surah Al-A'raf (Tempat yang Tertinggi)",
+      "titleArabic": "سُورَةُ الْأَعْرَافِ",
+      "arabic": "مَكِّيَّةٌ، مِائَتَانِ وَسِتُّ آيَاتٍ. {المص}: مَعْنَاهُ أَنَا اللَّهُ أَعْلَمُ وَأَفْصِلُ.",
+      "translation": "Surah Makkiyyah, 206 ayat. 'Alif Lam Mim Shad': maknanya Aku Allah Yang Maha Mengetahui dan Maha Menjelaskan secara rinci."
+    },
+    {
+      "title": "Tafsir Surah Al-Anfal (Rampasan Perang)",
+      "titleArabic": "سُورَةُ الْأَنْفَالِ",
+      "arabic": "مَدَنِيَّةٌ، خَمْسٌ وَسَبْعُونَ آيَةً. {يَسْأَلُونَكَ عَنِ الْأَنْفَالِ}: أَيْ غَنَائِمِ بَدْرٍ.",
+      "translation": "Surah Madaniyyah, 75 ayat. 'Mereka menanyakan kepadamu tentang Al-Anfal': yakni harta rampasan perang Badar."
+    },
+    {
+      "title": "Tafsir Surah At-Taubah (Pengampunan)",
+      "titleArabic": "سُورَةُ التَّوْبَةِ",
+      "arabic": "مَدَنِيَّةٌ، مِائَةٌ وَتِسْعٌ وَعِشْرُونَ آيَةً. لَمْ تُكْتَبْ فِي أَوَّلِهَا (بِسْمِ اللَّهِ) لِأَنَّهَا نَزَلَتْ بِالسَّيْفِ.",
+      "translation": "Surah Madaniyyah, 129 ayat. Tidak ditulis Basmalah di awalnya karena surah ini turun dengan membawa hukum pedang (perang)."
+    },
+    {
+      "title": "Tafsir Surah Yunus",
+      "titleArabic": "سُورَةُ يُونُسَ",
+      "arabic": "مَكِّيَّةٌ إِلَّا ثَلَاثَ آيَاتٍ، مِائَةٌ وَتِسْعُ آيَاتٍ. {الر تِلْكَ آيَاتُ الْكِتَابِ الْحَكِيمِ}: أَيِ الْمُحْكَمِ بِالْأَمْرِ وَالنَّهْيِ.",
+      "translation": "Surah Makkiyyah kecuali tiga ayat, total 109 ayat. 'Alif Lam Ra. Inilah ayat-ayat Kitab yang bijaksana': yakni yang dikokohkan dengan perintah dan larangan."
+    },
+    {
+      "title": "Tafsir Surah Hud",
+      "titleArabic": "سُورَةُ هُودٍ",
+      "arabic": "مَكِّيَّةٌ، مِائَةٌ وَثَلَاثٌ وَعِشْرُونَ آيَةً. {كِتَابٌ أُحْكِمَتْ آيَاتُهُ}: أَيْ لَمْ تُنْسَخْ بِالْبَاطِلِ.",
+      "translation": "Surah Makkiyyah, 123 ayat. 'Sebuah Kitab yang ayat-ayatnya disusun dengan rapi': yakni tidak dibatalkan oleh kebatilan."
+    },
+    {
+      "title": "Tafsir Surah Yusuf",
+      "titleArabic": "سُورَةُ يُوسُفَ",
+      "arabic": "مَكِّيَّةٌ، مِائَةٌ وَإِحْدَى عَشْرَةَ آيَةً. نَزَلَتْ حِينَ سَأَلَ الْيَهُودُ رَسُولَ اللَّهِ عَنْ خَبَرِ يُوسُفَ.",
+      "translation": "Surah Makkiyyah, 111 ayat. Turun ketika kaum Yahudi bertanya kepada Rasulullah tentang kisah Yusuf."
+    },
+    {
+      "title": "Tafsir Surah Ar-Ra'd (Guruh)",
+      "titleArabic": "سُورَةُ الرَّعْدِ",
+      "arabic": "مَدَنِيَّةٌ فِي قَوْلِ الْأَكْثَرِينَ، ثَلَاثٌ وَأَرْبَعُونَ آيَةً. {وَيُسَبِّحُ الرَّعْدُ بِحَمْدِهِ}: الرَّعْدُ مَلَكٌ مُوَكَّلٌ بِالسَّحَابِ.",
+      "translation": "Surah Madaniyyah menurut mayoritas, 43 ayat. 'Dan guruh itu bertasbih memuji-Nya': Ar-Ra'd adalah malaikat yang ditugasi mengurus awan."
+    },
+    {
+      "title": "Tafsir Surah Ibrahim",
+      "titleArabic": "سُورَةُ إِبْرَاهِيمَ",
+      "arabic": "مَكِّيَّةٌ، اثْنَتَانِ وَخَمْسُونَ آيَةً. {لِتُخْرِجَ النَّاسَ مِنَ الظُّلُمَاتِ إِلَى النُّورِ}: أَيْ مِنَ الْكُفْرِ إِلَى الْإِيمَانِ.",
+      "translation": "Surah Makkiyyah, 52 ayat. 'Agar kamu mengeluarkan manusia dari kegelapan kepada cahaya': yakni dari kekufuran menuju keimanan."
+    },
+    {
+      "title": "Tafsir Surah Al-Hijr",
+      "titleArabic": "سُورَةُ الْحِجْرِ",
+      "arabic": "مَكِّيَّةٌ، تِسْعٌ وَتِسْعُونَ آيَةً. {إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ}: أَيْ نَحْفَظُهُ مِنَ الزِّيَادَةِ وَالنُّقْصَانِ.",
+      "translation": "Surah Makkiyyah, 99 ayat. 'Sesungguhnya Kamilah yang menurunkan Al-Qur'an dan Kamilah yang benar-benar memeliharanya': yakni menjaga dari penambahan dan pengurangan."
+    },
+    {
+      "title": "Tafsir Surah An-Nahl (Lebah)",
+      "titleArabic": "سُورَةُ النَّحْلِ",
+      "arabic": "مَكِّيَّةٌ، مِائَةٌ وَثَمَانٍ وَعِشْرُونَ آيَةً. {أَتَى أَمْرُ اللَّهِ فَلَا تَسْتَعْجِلُوهُ}: أَيْ دَنَا قِيَامُ السَّاعَةِ.",
+      "translation": "Surah Makkiyyah, 128 ayat. 'Telah pasti datangnya ketetapan Allah maka janganlah kamu meminta agar dipercepat': yakni telah dekat hari kiamat."
+    },
+    {
+      "title": "Tafsir Surah Al-Isra' (Perjalanan Malam)",
+      "titleArabic": "سُورَةُ الْإِسْرَاءِ",
+      "arabic": "مَكِّيَّةٌ، مِائَةٌ وَإِحْدَى عَشْرَةَ آيَةً. {سُبْحَانَ الَّذِي أَسْرَى بِعَبْدِهِ لَيْلًا}: أَيْ نَزَّهَ اللَّهَ نَفْسَهُ عَنِ الشَّرِيكِ.",
+      "translation": "Surah Makkiyyah, 111 ayat. 'Maha Suci Allah yang telah memperjalankan hamba-Nya pada suatu malam': yakni Allah menyucikan diri-Nya dari sekutu."
+    },
+    {
+      "title": "Tafsir Surah Al-Kahf (Gua)",
+      "titleArabic": "سُورَةُ الْكَهْفِ",
+      "arabic": "مَكِّيَّةٌ، مِائَةٌ وَعَشْرُ آيَاتٍ. نَزَلَتْ فِي قِصَّةِ أَصْحَابِ الْكَهْفِ وَمُوسَى وَالْخَضِرِ وَذِي الْقَرْنَيْنِ.",
+      "translation": "Surah Makkiyyah, 110 ayat. Turun mengenai kisah Ashabul Kahfi, Musa dan Khidir, serta Dzulkarnain."
+    },
+    {
+      "title": "Tafsir Surah Maryam",
+      "titleArabic": "سُورَةُ مَرْيَمَ",
+      "arabic": "مَكِّيَّةٌ، تِسْعٌ وَتِسْعُونَ آيَةً. {كهيعص}: قَالَ ابْنُ عَبَّاسٍ: الْكَافُ مِنْ كَافٍ، وَالْهَاءُ مِنْ هَادٍ، وَالْيَاءُ مِنْ حَكِيمٍ، وَالْعَيْنُ مِنْ عَلِيمٍ، وَالصَّادُ مِنْ صَادِقٍ.",
+      "translation": "Surah Makkiyyah, 99 ayat. 'Kaf Ha Ya 'Ain Shad': Ibnu Abbas berkata: Kaf dari Kaaf (Yang Mencukupi), Ha dari Haadin (Yang Memberi Petunjuk), Ya dari Hakim (Yang Bijaksana), 'Ain dari 'Alim (Yang Mengetahui), dan Shad dari Shadiq (Yang Benar)."
+    },
+    {
+      "title": "Tafsir Surah Ta Ha",
+      "titleArabic": "سُورَةُ طه",
+      "arabic": "مَكِّيَّةٌ، مِائَةٌ وَخَمْسٌ وَثَلَاثُونَ آيَةً. {طه}: قِيلَ مَعْنَاهُ يَا رَجُلُ بِلُغَةِ عُكٍّ.",
+      "translation": "Surah Makkiyyah, 135 ayat. 'Ta Ha': dikatakan maknanya adalah 'Wahai Lelaki' dalam bahasa kabilah 'Ukk."
+    },
+    {
+      "title": "Tafsir Surah Al-Anbiya' (Para Nabi)",
+      "titleArabic": "سُورَةُ الْأَنْبِيَاءِ",
+      "arabic": "مَكِّيَّةٌ، مِائَةٌ وَإِحْدَى عَشْرَةَ آيَةً. {اقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ}: أَيْ قَرُبَ وَقْتُ مُجَازَاتِهِمْ عَلَى أَعْمَالِهِمْ.",
+      "translation": "Surah Makkiyyah, 111 ayat. 'Telah dekat kepada manusia hari menghisab amal mereka': yakni telah dekat waktu pembalasan atas amal mereka."
+    },
+    {
+      "title": "Tafsir Surah Al-Hajj (Haji)",
+      "titleArabic": "سُورَةُ الْحَجِّ",
+      "arabic": "مَدَنِيَّةٌ وَفِيهَا مَكِّيٌّ، ثَمَانٍ وَسَبْعُونَ آيَةً. {يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمْ إِنَّ زَلْزَلَةَ السَّاعَةِ شَيْءٌ عَظِيمٌ}: أَيْ حَرَكَتُهَا وَأَهْوَالُهَا.",
+      "translation": "Surah Madaniyyah namun ada unsur Makkiyyah di dalamnya, 78 ayat. 'Wahai manusia bertaqwalah kepada Tuhanmu, sesungguhnya kegoncangan hari kiamat itu adalah sesuatu yang besar': yakni gerakan dan kedahsyatannya."
+    },
+    {
+      "title": "Tafsir Surah Al-Mu'minun (Orang-orang Mukmin)",
+      "titleArabic": "سُورَةُ الْمُؤْمِنُونَ",
+      "arabic": "مَكِّيَّةٌ، مِائَةٌ وَثَمَانِ عَشْرَةَ آيَةً. {قَدْ أَفْلَحَ الْمُؤْمِنُونَ}: أَيْ فَازُوا وَسَعِدُوا.",
+      "translation": "Surah Makkiyyah, 118 ayat. 'Sesungguhnya beruntunglah orang-orang mukmin': yakni mereka menang dan bahagia."
+    },
+    {
+      "title": "Tafsir Surah An-Nur (Cahaya)",
+      "titleArabic": "سُورَةُ النُّورِ",
+      "arabic": "مَدَنِيَّةٌ، أَرْبَعٌ وَسِتُّونَ آيَةً. {سُورَةٌ أَنْزَلْنَاهَا وَفَرَضْنَاهَا}: أَيْ أَوْجَبْنَا مَا فِيهَا مِنَ الْأَحْكَامِ.",
+      "translation": "Surah Madaniyyah, 64 ayat. '(Ini adalah) satu surah yang Kami turunkan dan Kami wajibkan': yakni Kami wajibkan hukum-hukum yang ada di dalamnya."
+    },
+    {
+      "title": "Tafsir Surah Al-Furqan (Pembeda)",
+      "titleArabic": "سُورَةُ الْفُرْقَانِ",
+      "arabic": "مَكِّيَّةٌ، سَبْعٌ وَسَبْعُونَ آيَةً. {تَبَارَكَ الَّذِي نَزَّلَ الْفُرْقَانَ}: أَيِ الْقُرْآنَ لِأَنَّهُ فَرَّقَ بَيْنَ الْحَقِّ وَالْبَاطِلِ.",
+      "translation": "Surah Makkiyyah, 77 ayat. 'Maha Suci Allah yang telah menurunkan Al-Furqan': yakni Al-Qur'an, karena ia membedakan antara yang haq dan yang bathil."
+    },
+    {
+      "title": "Tafsir Surah Asy-Syu'ara' (Para Penyair)",
+      "titleArabic": "سُورَةُ الشُّعَرَاءِ",
+      "arabic": "مَكِّيَّةٌ، مِائَتَانِ وَسَبْعٌ وَعِشْرُونَ آيَةً. {طسم}: قَالَ ابْنُ عَبَّاسٍ: هُوَ اسْمُ اللَّهِ الْأَعْظَمِ.",
+      "translation": "Surah Makkiyyah, 227 ayat. 'Tha Sin Mim': Ibnu Abbas berkata: Itu adalah Nama Allah yang paling Agung."
+    },
+    {
+      "title": "Tafsir Surah An-Naml (Semut)",
+      "titleArabic": "سُورَةُ النَّمْلِ",
+      "arabic": "مَكِّيَّةٌ، ثَلَاثٌ وَتِسْعُونَ آيَةً. {تِلْكَ آيَاتُ الْقُرْآنِ وَكِتَابٍ مُبِينٍ}: أَيْ مُبَيِّنٍ لِلْحَلَالِ وَالْحَرَامِ.",
+      "translation": "Surah Makkiyyah, 93 ayat. 'Inilah ayat-ayat Al-Qur'an dan Kitab yang jelas': yakni yang menjelaskan halal dan haram."
+    },
+    {
+      "title": "Tafsir Surah Al-Qashas (Cerita-cerita)",
+      "titleArabic": "سُورَةُ الْقَصَصِ",
+      "arabic": "مَكِّيَّةٌ، ثَمَانٍ وَثَمَانُونَ آيَةً. {نَتْلُو عَلَيْكَ مِنْ نَبَإِ مُوسَى وَفِرْعَوْنَ}: أَيْ مِنْ خَبَرِهِمَا.",
+      "translation": "Surah Makkiyyah, 88 ayat. 'Kami bacakan kepadamu sebagian dari berita Musa dan Fir'aun': yakni kabar tentang keduanya."
+    },
+    {
+      "title": "Tafsir Surah Al-'Ankabut (Laba-laba)",
+      "titleArabic": "سُورَةُ الْعَنْكَبُوتِ",
+      "arabic": "مَكِّيَّةٌ، سِتٌّ وَسِتُّونَ آيَةً. {أَحَسِبَ النَّاسُ أَنْ يُتْرَكُوا أَنْ يَقُولُوا آمَنَّا وَهُمْ لَا يُفْتَنُونَ}: أَيْ لَا يُبْتَلَوْنَ.",
+      "translation": "Surah Makkiyyah, 66 ayat. 'Apakah manusia itu mengira bahwa mereka dibiarkan (saja) mengatakan: \"Kami telah beriman\", sedang mereka tidak diuji?': yakni tidak diberikan cobaan."
+    },
+    {
+      "title": "Tafsir Surah Ar-Rum (Bangsa Romawi)",
+      "titleArabic": "سُورَةُ الرُّومِ",
+      "arabic": "مَكِّيَّةٌ، سِتُّونَ آيَةً. {غُلِبَتِ الرُّومُ}: غَلَبَتْهَا فَارِسُ.",
+      "translation": "Surah Makkiyyah, 60 ayat. 'Bangsa Romawi telah dikalahkan': dikalahkan oleh bangsa Persia."
+    },
+    {
+      "title": "Tafsir Surah Luqman",
+      "titleArabic": "سُورَةُ لُقْمَانَ",
+      "arabic": "مَكِّيَّةٌ، أَرْبَعٌ وَثَلَاثُونَ آيَةً. {وَلَقَدْ آتَيْنَا لُقْمَانَ الْحِكْمَةَ}: أَيِ الْفِقْهَ وَالْعَقْلَ وَالْإِصَابَةَ فِي الْقَوْلِ.",
+      "translation": "Surah Makkiyyah, 34 ayat. 'Dan sesungguhnya telah Kami berikan hikmah kepada Luqman': yakni pemahaman agama, akal, dan ketepatan dalam berucap."
+    },
+    {
+      "title": "Tafsir Surah As-Sajdah (Sujud)",
+      "titleArabic": "سُورَةُ السَّجْدَةِ",
+      "arabic": "مَكِّيَّةٌ، ثَلَاثُونَ آيَةً. {تَنْزِيلُ الْكِتَابِ لَا رَيْبَ فِيهِ مِنْ رَبِّ الْعَالَمِينَ}: أَيْ لَا شَكَّ فِيهِ.",
+      "translation": "Surah Makkiyyah, 30 ayat. 'Turunnya Al-Kitab yang tidak ada keraguan di dalamnya, (berasal) dari Tuhan semesta alam': yakni tidak ada syak padanya."
+    },
+    {
+      "title": "Tafsir Surah Al-Ahzab (Golongan yang Bersekutu)",
+      "titleArabic": "سُورَةُ الْأَحْزَابِ",
+      "arabic": "مَدَنِيَّةٌ، ثَلَاثٌ وَسَبْعُونَ آيَةً. {يَا أَيُّهَا النَّبِيُّ اتَّقِ اللَّهَ}: أَيِ اثْبُتْ عَلَى تَقْوَاهُ.",
+      "translation": "Surah Madaniyyah, 73 ayat. 'Wahai Nabi, bertaqwalah kepada Allah': yakni tetaplah istiqamah dalam ketaqwaan kepada-Nya."
+    },
+    {
+      "title": "Tafsir Surah Saba'",
+      "titleArabic": "سُورَةُ سَبَإٍ",
+      "arabic": "مَكِّيَّةٌ، أَرْبَعٌ وَخَمْسُونَ آيَةً. {الْحَمْدُ لِلَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ}: أَيْ مُلْكًا وَخَلْقًا.",
+      "translation": "Surah Makkiyyah, 54 ayat. 'Segala puji bagi Allah yang milik-Nya-lah apa yang ada di langit dan apa yang ada di bumi': yakni secara kepemilikan dan penciptaan."
+    },
+    {
+      "title": "Tafsir Surah Fatir (Pencipta)",
+      "titleArabic": "سُورَةُ فَاطِرٍ",
+      "arabic": "مَكِّيَّةٌ، خَمْسٌ وَأَرْبَعُونَ آيَةً. {الْحَمْدُ لِلَّهِ فَاطِرِ السَّمَاوَاتِ وَالْأَرْضِ}: أَيْ خَالِقِهِمَا عَلَى غَيْرِ مِثَالٍ سَبَقَ.",
+      "translation": "Surah Makkiyyah, 45 ayat. 'Segala puji bagi Allah Pencipta langit dan bumi': yakni yang menciptakan keduanya tanpa ada contoh sebelumnya."
+    },
+    {
+      "title": "Tafsir Surah Ya Sin",
+      "titleArabic": "سُورَةُ يس",
+      "arabic": "مَكِّيَّةٌ، ثَلَاثٌ وَثَمَانُونَ آيَةً. {يس}: قَالَ أَبُو بَكْرٍ الْوَرَّاقُ: يَا سَيِّدَ الْبَشَرِ.",
+      "translation": "Surah Makkiyyah, 83 ayat. 'Ya Sin': Abu Bakar al-Warraq berkata: Maknanya Wahai Pemimpin Manusia."
+    },
+    {
+      "title": "Tafsir Surah Ash-Saffat (Yang Bershaf-shaf)",
+      "titleArabic": "سُورَةُ الصَّافَّاتِ",
+      "arabic": "مَكِّيَّةٌ، مِائَةٌ وَاثْنَتَانِ وَثَمَانُونَ آيَةً. {وَالصَّافَّاتِ صَفًّا}: هُمُ الْمَلَائِكَةُ فِي السَّمَاءِ.",
+      "translation": "Surah Makkiyyah, 182 ayat. 'Demi (rombongan) yang berbaris bershaf-shaf': mereka adalah para malaikat di langit."
+    },
+    {
+      "title": "Tafsir Surah Shad",
+      "titleArabic": "سُورَةُ ص",
+      "arabic": "مَكِّيَّةٌ، ثَمَانٍ وَثَمَانُونَ آيَةً. {ص وَالْقُرْآنِ ذِي الذِّكْرِ}: أَيْ ذِي الشَّرَفِ.",
+      "translation": "Surah Makkiyyah, 88 ayat. 'Shad, demi Al-Qur'an yang mempunyai keagungan': yakni yang memiliki kemuliaan."
+    },
+    {
+      "title": "Tafsir Surah Az-Zumar (Rombongan-rombongan)",
+      "titleArabic": "سُورَةُ الزُّمَرِ",
+      "arabic": "مَكِّيَّةٌ، خَمْسٌ وَسَبْعُونَ آيَةً. {تَنْزِيلُ الْكِتَابِ مِنَ اللَّهِ الْعَزِيزِ الْحَكِيمِ}: الْعَزِيزِ فِي مُلْكِهِ، الْحَكِيمِ فِي صُنْعِهِ.",
+      "translation": "Surah Makkiyyah, 75 ayat. 'Turunnya Al-Kitab ini dari Allah Yang Maha Perkasa lagi Maha Bijaksana': Maha Perkasa dalam kekuasaan-Nya, Maha Bijaksana dalam ciptaan-Nya."
+    },
+    {
+      "title": "Tafsir Surah Ghafir (Yang Mengampuni)",
+      "titleArabic": "سُورَةُ غَافِرٍ",
+      "arabic": "مَكِّيَّةٌ، خَمْسٌ وَثَمَانُونَ آيَةً. {حم}: قِيلَ هُوَ اسْمٌ مِنْ أَسْمَاءِ اللَّهِ تَعَالَى.",
+      "translation": "Surah Makkiyyah, 85 ayat. 'Ha Mim': dikatakan ini adalah salah satu nama Allah Ta'ala."
+    },
+    {
+      "title": "Tafsir Surah Fussilat (Yang Dijelaskan)",
+      "titleArabic": "سُورَةُ فُصِّلَتْ",
+      "arabic": "مَكِّيَّةٌ، أَرْبَعٌ وَخَمْسُونَ آيَةً. {كِتَابٌ فُصِّلَتْ آيَاتُهُ}: أَيْ بُيِّنَتْ بِالْوَعْدِ وَالْوَعِيدِ.",
+      "translation": "Surah Makkiyyah, 54 ayat. 'Kitab yang dijelaskan ayat-ayatnya': yakni diterangkan dengan janji pahala dan ancaman siksa."
+    },
+    {
+      "title": "Tafsir Surah Asy-Syura (Musyawarah)",
+      "titleArabic": "سُورَةُ الشُّورَى",
+      "arabic": "مَكِّيَّةٌ، ثَلَاثٌ وَخَمْسُونَ آيَةً. {حم عسق}: هَذِهِ حُرُوفٌ مُقَطَّعَةٌ افْتَتَحَ اللَّهُ بِهَا السُّورَةَ.",
+      "translation": "Surah Makkiyyah, 53 ayat. 'Ha Mim 'Ain Sin Qaf': ini adalah huruf-huruf terputus yang Allah gunakan untuk membuka surah ini."
+    },
+    {
+      "title": "Tafsir Surah Az-Zukhruf (Perhiasan)",
+      "titleArabic": "سُورَةُ الزُّخْرُفِ",
+      "arabic": "مَكِّيَّةٌ، تِسْعٌ وَثَمَانُونَ آيَةً. {إِنَّا جَعَلْنَاهُ قُرْآنًا عَرَبِيًّا}: أَيْ أَنْزَلْنَاهُ بِلِسَانِ الْعَرَبِ.",
+      "translation": "Surah Makkiyyah, 89 ayat. 'Sesungguhnya Kami menjadikan Al-Qur'an dalam bahasa Arab': yakni Kami menurunkannya dengan lisan orang Arab."
+    },
+    {
+      "title": "Tafsir Surah Ad-Dukhan (Kabut)",
+      "titleArabic": "سُورَةُ الدُّخَانِ",
+      "arabic": "مَكِّيَّةٌ، تِسْعٌ وَخَمْسُونَ آيَةً. {إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةٍ مُبَارَكَةٍ}: هِيَ لَيْلَةُ الْقَدْرِ.",
+      "translation": "Surah Makkiyyah, 59 ayat. 'Sesungguhnya Kami menurunkannya pada suatu malam yang diberkahi': yaitu malam Lailatul Qadar."
+    },
+    {
+      "title": "Tafsir Surah Al-Jatsiyah (Yang Berlutut)",
+      "titleArabic": "سُورَةُ الْجَاثِيَةِ",
+      "arabic": "مَكِّيَّةٌ، وَسَبْعٌ وَثَلَاثُونَ آيَةً. {هَذَا هُدًى}: أَيِ الْقُرْآنُ بَيَانٌ مِنَ الضَّلَالَةِ.",
+      "translation": "Surah Makkiyyah, 37 ayat. 'Ini adalah petunjuk': yakni Al-Qur'an merupakan penjelasan yang menjauhkan dari kesesatan."
+    },
+    {
+      "title": "Tafsir Surah Al-Ahqaf (Bukit-bukit Pasir)",
+      "titleArabic": "سُورَةُ الْأَحْقَافِ",
+      "arabic": "مَكِّيَّةٌ، خَمْسٌ وَثَلَاثُونَ آيَةً. {مَا خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ}: أَيْ لِحِكْمَةٍ بَالِغَةٍ.",
+      "translation": "Surah Makkiyyah, 35 ayat. 'Kami tidak menciptakan langit dan bumi serta apa yang ada di antara keduanya melainkan dengan haq': yakni untuk hikmah yang mendalam."
+    },
+    {
+      "title": "Tafsir Surah Muhammad",
+      "titleArabic": "سُورَةُ مُحَمَّدٍ",
+      "arabic": "مَدَنِيَّةٌ، ثَلَاثٌ وَثَمَانُونَ آيَةً. {الَّذِينَ كَفَرُوا وَصَدُّوا عَنْ سَبِيلِ اللَّهِ أَضَلَّ أَعْمَالَهُمْ}: أَيْ أَبْطَلَهَا.",
+      "translation": "Surah Madaniyyah, 38 ayat (dalam riwayat lain 83). 'Orang-orang yang kafir dan menghalangi (manusia) dari jalan Allah, Allah menyesatkan amal-amal mereka': yakni membatalkannya."
+    },
+    {
+      "title": "Tafsir Surah Al-Fath (Kemenangan)",
+      "titleArabic": "سُورَةُ الْفَتْحِ",
+      "arabic": "مَدَنِيَّةٌ، تِسْعٌ وَعِشْرُونَ آيَةً. نَزَلَتْ فِي مُنْصَرَفِ رَسُولِ اللَّهِ مِنَ الْحُدَيْبِيَةِ.",
+      "translation": "Surah Madaniyyah, 29 ayat. Turun saat kepulangan Rasulullah shallallahu 'alaihi wa sallam dari Hudaibiyah."
+    },
+    {
+      "title": "Tafsir Surah Al-Hujurat (Kamar-kamar)",
+      "titleArabic": "سُورَةُ الْحُجُرَاتِ",
+      "arabic": "مَدَنِيَّةٌ، ثَمَانِيَ عَشْرَةَ آيَةً. نَزَلَتْ فِي وَفْدِ بَنِي تَمِيمٍ.",
+      "translation": "Surah Madaniyyah, 18 ayat. Turun berkenaan dengan utusan dari Bani Tamim."
+    },
+    {
+      "title": "Tafsir Surah Qaf",
+      "titleArabic": "سُورَةُ ق",
+      "arabic": "مَكِّيَّةٌ، خَمْسٌ وَأَرْبَعُونَ آيَةً. {ق وَالْقُرْآنِ الْمَجِيدِ}: أَيِ الشَّرِيفِ الْكَرِيمِ.",
+      "translation": "Surah Makkiyyah, 45 ayat. 'Qaf, demi Al-Qur'an yang sangat mulia': yakni yang agung dan terhormat."
+    },
+    {
+      "title": "Tafsir Surah Az-Zariyat (Angin yang Menerbangkan)",
+      "titleArabic": "سُورَةُ الذَّارِيَاتِ",
+      "arabic": "مَكِّيَّةٌ، سِتُّونَ آيَةً. {وَالذَّارِيَاتِ ذَرْوًا}: هِيَ الرِّيَاحُ.",
+      "translation": "Surah Makkiyyah, 60 ayat. 'Demi angin yang menerbangkan debu dengan sekuat-kuatnya': yang dimaksud adalah angin."
+    },
+    {
+      "title": "Tafsir Surah At-Tur (Bukit)",
+      "titleArabic": "سُورَةُ الطُّورِ",
+      "arabic": "مَكِّيَّةٌ، تِسْعٌ وَأَرْبَعُونَ آيَةً. {وَالطُّورِ}: هُوَ الْجَبَلُ الَّذِي كَلَّمَ اللَّهُ عَلَيْهِ مُوسَى.",
+      "translation": "Surah Makkiyyah, 49 ayat. 'Demi bukit': yaitu gunung tempat Allah berbicara kepada Musa."
+    },
+    {
+      "title": "Tafsir Surah An-Najm (Bintang)",
+      "titleArabic": "سُورَةُ النَّجْمِ",
+      "arabic": "مَكِّيَّةٌ، اثْنَتَانِ وَسِتُّونَ آيَةً. {وَالنَّجْمِ إِذَا هَوَى}: أَيْ غَابَ وَسَقَطَ.",
+      "translation": "Surah Makkiyyah, 62 ayat. 'Demi bintang apabila terbenam': yakni hilang dan jatuh."
+    },
+    {
+      "title": "Tafsir Surah Al-Qamar (Bulan)",
+      "titleArabic": "سُورَةُ الْقَمَرِ",
+      "arabic": "مَكِّيَّةٌ، خَمْسٌ وَخَمْسُونَ آيَةً. {اقْتَرَبَتِ السَّاعَةُ وَانْشَقَّ الْقَمَرُ}: حِينَ سَأَلَ أَهْلُ مَكَّةَ النَّبِيَّ آيَةً.",
+      "translation": "Surah Makkiyyah, 55 ayat. 'Telah dekat hari kiamat dan bulan telah terbelah': saat penduduk Mekkah meminta mukjizat kepada Nabi."
+    },
+    {
+      "title": "Tafsir Surah Ar-Rahman (Yang Maha Pemurah)",
+      "titleArabic": "سُورَةُ الرَّحْمَنِ",
+      "arabic": "مَكِّيَّةٌ فِي قَوْلِ الْأَكْثَرِينَ، ثَمَانٍ وَسَبْعُونَ آيَةً. تُسَمَّى عَرُوسَ الْقُرْآنِ.",
+      "translation": "Surah Makkiyyah menurut mayoritas, 78 ayat. Dinamakan sebagai pengantin Al-Qur'an."
+    },
+    {
+      "title": "Tafsir Surah Al-Waqi'ah (Hari Kiamat)",
+      "titleArabic": "سُورَةُ الْوَاقِعَةِ",
+      "arabic": "مَكِّيَّةٌ، سِتٌّ وَتِسْعُونَ آيَةً. {إِذَا وَقَعَتِ الْوَاقِعَةُ}: أَيْ قَامَتِ الْقِيَامَةُ.",
+      "translation": "Surah Makkiyyah, 96 ayat. 'Apabila terjadi hari kiamat': yakni ketika kiamat telah tegak."
+    },
+    {
+      "title": "Tafsir Surah Al-Hadid (Besi)",
+      "titleArabic": "سُورَةُ الْحَدِيدِ",
+      "arabic": "مَدَنِيَّةٌ، تِسْعٌ وَعِشْرُونَ آيَةً. {سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ}: أَيْ نَزَّهَهُ.",
+      "translation": "Surah Madaniyyah, 29 ayat. 'Semua yang ada di langit dan di bumi bertasbih kepada Allah': yakni mensucikan-Nya."
+    },
+    {
+      "title": "Tafsir Surah Al-Mujadilah (Wanita yang Mengajukan Gugatan)",
+      "titleArabic": "سُورَةُ الْمُجَادِلَةِ",
+      "arabic": "مَدَنِيَّةٌ، اثْنَتَانِ وَعِشْرُونَ آيَةً. نَزَلَتْ فِي خَوْلَةَ بِنْتِ ثَعْلَبَةَ حِينَ ظَاهَرَ مِنْهَا زَوْجُهَا.",
+      "translation": "Surah Madaniyyah, 22 ayat. Turun mengenai Khaulah binti Tha'labah ketika suaminya men-zihar-nya."
+    },
+    {
+      "title": "Tafsir Surah Al-Hasyr (Pengusiran)",
+      "titleArabic": "سُورَةُ الْحَشْرِ",
+      "arabic": "مَدَنِيَّةٌ، أَرْبَعٌ وَعِشْرُونَ آيَةً. نَزَلَتْ فِي بَنِي النَّضِيرِ.",
+      "translation": "Surah Madaniyyah, 24 ayat. Turun mengenai bani Nadhir."
+    },
+    {
+      "title": "Tafsir Surah Al-Mumtahanah (Wanita yang Diuji)",
+      "titleArabic": "سُورَةُ الْمُمْتَحَنَةِ",
+      "arabic": "مَدَنِيَّةٌ، ثَلَاثَ عَشْرَةَ آيَةً. نَزَلَتْ فِي حَاطِبِ بْنِ أَبِي بَلْتَعَةَ.",
+      "translation": "Surah Madaniyyah, 13 ayat. Turun mengenai Hatib bin Abi Balta'ah."
+    },
+    {
+      "title": "Tafsir Surah As-Saff (Barisan)",
+      "titleArabic": "سُورَةُ الصَّفِّ",
+      "arabic": "مَدَنِيَّةٌ، أَرْبَعَ عَشْرَةَ آيَةً. {إِنَّ اللَّهَ يُحِبُّ الَّذِينَ يُقَاتِلُونَ فِي سَبِيلِهِ صَفًّا}: أَيْ مُصْطَفِّينَ.",
+      "translation": "Surah Madaniyyah, 14 ayat. 'Sesungguhnya Allah menyukai orang-orang yang berperang di jalan-Nya dalam barisan yang teratur': yakni berbaris rapi."
+    },
+    {
+      "title": "Tafsir Surah Al-Jumu'ah (Hari Jumaat)",
+      "titleArabic": "سُورَةُ الْجُمُعَةِ",
+      "arabic": "مَدَنِيَّةٌ، إِحْدَى عَشْرَةَ آيَةً. {يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نُودِيَ لِلصَّلَاةِ مِنْ يَوْمِ الْجُمُعَةِ فَاسْعَوْا إِلَى ذِكْرِ اللَّهِ}: أَيْ فَامْضُوا إِلَيْهَا.",
+      "translation": "Surah Madaniyyah, 11 ayat. 'Wahai orang-orang yang beriman, apabila diserukan untuk melaksanakan salat pada hari Jumat, maka segeralah kamu mengingat Allah': yakni pergilah untuk menunaikannya."
+    },
+    {
+      "title": "Tafsir Surah Al-Munafiqun (Orang-orang Munafik)",
+      "titleArabic": "سُورَةُ الْمُنَافِقُونَ",
+      "arabic": "مَدَنِيَّةٌ، إِحْدَى عَشْرَةَ آيَةً. نَزَلَتْ فِي عَبْدِ اللَّهِ بْنِ أُبَيٍّ وَأَصْحَابِهِ.",
+      "translation": "Surah Madaniyyah, 11 ayat. Turun mengenai Abdullah bin Ubay dan para pengikutnya."
+    },
+    {
+      "title": "Tafsir Surah At-Taghabun (Hari Dinampakkan Kesalahan)",
+      "titleArabic": "سُورَةُ التَّغَابُنِ",
+      "arabic": "مَدَنِيَّةٌ، ثَمَانِيَ عَشْرَةَ آيَةً. {يَوْمَ يَجْمَعُكُمْ لِيَوْمِ الْجَمْعِ ذَلِكَ يَوْمُ التَّغَابُنِ}: أَيْ غَبْنِ أَهْلِ الْجَنَّةِ أَهْلَ النَّارِ.",
+      "translation": "Surah Madaniyyah, 18 ayat. '(Ingatlah) hari (dimana) Allah mengumpulkan kamu pada hari pengumpulan, itulah hari dinampakkannya kesalahan': yakni beruntungnya penduduk surga atas penduduk neraka."
+    },
+    {
+      "title": "Tafsir Surah At-Talaq (Talak)",
+      "titleArabic": "سُورَةُ الطَّلَاقِ",
+      "arabic": "مَدَنِيَّةٌ، اثْنَتَا عَشْرَةَ آيَةً. {يَا أَيُّهَا النَّبِيُّ إِذَا طَلَّقْتُمُ النِّسَاءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ}: أَيْ لِوَقْتِ عِدَّتِهِنَّ.",
+      "translation": "Surah Madaniyyah, 12 ayat. 'Wahai Nabi, apabila kamu menceraikan istri-istrimu maka hendaklah kamu ceraikan mereka pada waktu mereka dapat (menghadapi) iddahnya'."
+    },
+    {
+      "title": "Tafsir Surah At-Tahrim (Mengharamkan)",
+      "titleArabic": "سُورَةُ التَّحْرِيمِ",
+      "arabic": "مَدَنِيَّةٌ، اثْنَتَا عَشْرَةَ آيَةً. نَزَلَتْ فِي قِصَّةِ مَارِيَةَ الْقِبْطِيَّةِ وَعَسَلِ زَيْنَبَ.",
+      "translation": "Surah Madaniyyah, 12 ayat. Turun berkenaan dengan kisah Mariyah al-Qibthiyah dan madu milik Zainab."
+    },
+    {
+      "title": "Tafsir Surah Al-Mulk (Kerajaan)",
+      "titleArabic": "سُورَةُ الْمُلْكِ",
+      "arabic": "مَكِّيَّةٌ، ثَلَاثُونَ آيَةً. تُسَمَّى الْمَانِعَةَ وَالْمُنْجِيَةَ مِنْ عَذَابِ الْقَبْرِ.",
+      "translation": "Surah Makkiyyah, 30 ayat. Dinamakan Al-Mani'ah (Penghalang) dan Al-Munjiyah (Penyelamat) dari azab kubur."
+    },
+    {
+      "title": "Khatimah: Doa dan Penutup Kitab",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ",
+      "arabic": "قَالَ الْإِمَامُ الْبَغَوِيُّ: تَمَّ التَّفْسِيرُ بِحَمْدِ اللَّهِ وَمَنِّهِ، نَسْأَلُ اللَّهَ أَنْ يَجْعَلَهُ خَالِصًا لِوَجْهِهِ الْكَرِيمِ، وَأَنْ يَنْفَعَ بِهِ كُلَّ مَنْ نَظَرَ فِيهِ. وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَآلِهِ وَصَحْبِهِ وَسَلَّمَ تَسْلِيمًا كَثِيرًا.",
+      "translation": "Imam al-Baghawi berkata: Telah sempurna tafsir ini dengan puji dan karunia Allah. Kami memohon kepada Allah agar menjadikannya ikhlas karena wajah-Nya yang mulia, dan bermanfaat bagi setiap orang yang mempelajarinya. Semoga salawat dan salam senantiasa tercurah kepada junjungan kita Nabi Muhammad, keluarga, dan para sahabatnya."
+    }
+  ]
+}
