@@ -1,140 +1,128 @@
 {
   "profile": {
     "name": "Adabud Dunya wad Din",
-    "originalTitle": "أَدَبُ الدُّنْيَا وَالدِّينِ",
-    "author": "Al-Imam Abu al-Hasan Ali bin Muhammad bin Habib al-Mawardi al-Basri",
-    "field": "Akhlak, Tasawuf, dan Etika Sosial",
-    "about": "Kitab ini merupakan mahakarya Imam al-Mawardi yang membahas keselarasan antara urusan agama dan duniawi secara komprehensif. Penulis menggabungkan dalil Naqli dari Al-Qur'an dan Hadis dengan dalil Aqli berupa syair Arab, pepatah bijak, dan filsafat moral. Pembahasan mencakup keutamaan akal, pentingnya ilmu, tata krama beragama, pengelolaan urusan duniawi, pembersihan jiwa, hingga etika pergaulan sosial. Kitab ini menjadi rujukan utama dalam pendidikan karakter di berbagai pesantren dan lembaga Islam dunia karena pendekatannya yang moderat dan logis. Al-Mawardi berhasil membedah psikologi manusia dalam menghadapi godaan dunia tanpa mengabaikan persiapan akhirat.",
-    "authorBorn": "364 H / 974 M (Basra, Irak)",
-    "authorDied": "450 H / 1058 M (Baghdad, Irak)",
+    "originalTitle": "أَدَبُ الدُّنْيَا وَالدِّينِ",
+    "author": "Al-Imam Abu al-Hasan 'Ali bin Muhammad bin Habib al-Mawardi al-Basri",
+    "field": "Akhlak, Adab, Tasawuf, dan Filsafat Sosial",
+    "about": "Kitab Adabud Dunya wad Din merupakan mahakarya Imam al-Mawardi yang menyajikan panduan komprehensif mengenai etika kehidupan baik dalam dimensi ukhrawi maupun duniawi. Kitab ini secara unik menggabungkan dalil naqli (Al-Qur'an dan Hadis) dengan dalil aqli (logika/filsafat) serta syawahid (puisi dan hikmah Arab klasik). Penulis menekankan bahwa kebahagiaan dunia hanya bisa dicapai melalui keteraturan agama, sementara kesempurnaan agama memerlukan bekal dunia yang cukup. Pembahasannya mencakup psikologi manusia, keutamaan akal, kewajiban menuntut ilmu, hingga etika pergaulan sosial. Kitab ini menjadi rujukan utama di pesantren-pesantren untuk membentuk karakter santri yang berintegritas dan berwawasan luas.",
+    "authorBorn": "Basra, 364 H / 974 M",
+    "authorDied": "Baghdad, 450 H / 1058 M",
     "authorCentury": "Abad ke-4 dan ke-5 Hijriah"
   },
   "chapters": [
     {
-      "title": "Mukadimah Kitab",
-      "titleArabic": "مُقَدِّمَةُ الْكِتَابِ",
-      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي تَبَارَكَ اسْمُهُ، وَتَعَالَى جَدُّهُ، وَتَقَدَّسَتْ صِفَاتُهُ، وَجَلَّ ثَنَاؤُهُ. أَمَّا بَعْدُ: فَإِنَّ بَاعِثِي عَلَى تَصْنِيفِ هَذَا الْكِتَابِ مَا رَأَيْتُ مِنْ غَلَبَةِ الْهَوَى عَلَى كَثِيرٍ مِنَ النَّاسِ.",
-      "translation": "Segala puji bagi Allah yang keberkahan-Nya melimpah, keluhuran-Nya tinggi, sifat-sifat-Nya suci, dan pujian-Nya agung. Adapun setelah itu, faktor yang mendorongku menyusun kitab ini adalah fenomena yang aku saksikan tentang dominasi hawa nafsu atas kebanyakan manusia."
+      "title": "Muqaddimah (Pembukaan Penulis)",
+      "titleArabic": "خُطْبَةُ الْكِتَابِ",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي اسْتَفْتَحَ بِالْحَمْدِ كِتَابَهُ، وَجَعَلَهُ آخِرَ دَعْوَى أَهْلِ جَنَّتِهِ. أَمَّا بَعْدُ، فَإِنَّ أَحَقَّ مَا ابْتُدِئَ بِهِ فِي النُّطْقِ، وَأَوْلَى مَا اسْتُفْتِحَ بِهِ فِي الْقَوْلِ: حَمْدُ اللَّهِ تَعَالَى بِمَا هُوَ أَهْلُهُ.",
+      "translation": "Segala puji bagi Allah yang memulai kitab-Nya dengan pujian, dan menjadikannya sebagai seruan terakhir penduduk surga-Nya. Amma ba'du, sesungguhnya perkara yang paling berhak untuk mengawali pembicaraan dan paling utama untuk membuka perkataan adalah memuji Allah Ta'ala dengan pujian yang layak bagi-Nya."
     },
     {
-      "title": "Bab Pertama: Keutamaan Akal dan Tercelanya Hawa Nafsu",
-      "titleArabic": "الْبَابُ الْأَوَّلُ: فِي فَضْلِ الْعَقْلِ وَذَمِّ الْهَوَى",
-      "arabic": "اعْلَمْ أَنَّ لِكُلِّ فَضِيلَةٍ أُسًّا، وَلِكُلِّ أَدَبٍ يَنْبُوعًا، وَأُسُّ الْفَضَائِلِ وَيَنْبُوعُ الْآدَابِ هُوَ الْعَقْلُ.",
-      "translation": "Ketahuilah bahwa setiap keutamaan memiliki pondasi, dan setiap adab memiliki sumber, dan pondasi segala keutamaan serta sumber segala adab adalah akal."
+      "title": "Bab I: Keutamaan Akal dan Tercelanya Hawa Nafsu",
+      "titleArabic": "الْبَابُ الْأَوَّلُ: فِي فَضْلِ الْعَقْلِ وَذَمِّ الْهَوَى",
+      "arabic": "اعْلَمْ أَنَّ لِكُلِّ فَضِيلَةٍ أُسًّا، وَلِكُلِّ أَدَبٍ يَنْبُوعًا، وَأُسُّ الْفَضَائِلِ وَيَنْبُوعُ الْآدَابِ هُوَ الْعَقْلُ الَّذِي جَعَلَهُ اللَّهُ تَعَالَى لِلدِّينِ أَصْلًا، وَلِلدُّنْيَا عِمَادًا.",
+      "translation": "Ketahuilah bahwa setiap keutamaan memiliki fondasi, dan setiap adab memiliki sumber. Fondasi segala keutamaan dan sumber segala adab adalah akal, yang telah dijadikan oleh Allah Ta'ala sebagai landasan bagi agama dan pilar bagi dunia."
     },
     {
-      "title": "Pembagian Akal: Gariziy dan Muktasab",
-      "titleArabic": "أَنْوَاعُ الْعَقْلِ: الْغَرِيزِيُّ وَالْمُكْتَسَبُ",
-      "arabic": "وَالْعَقْلُ نَوْعَانِ: غَرِيزِيٌّ وَمُكْتَسَبٌ، فَالْغَرِيزِيُّ هُوَ الْعَقْلُ الْحَقِيقِيُّ، وَالْمُكْتَسَبُ هُوَ نَتِيجَةُ الْعَقْلِ الْغَرِيزِيِّ.",
-      "translation": "Akal terbagi menjadi dua jenis: akal insting (alami) dan akal yang diusahakan (diperoleh). Akal insting adalah akal yang hakiki, sedangkan akal muktasab adalah hasil dari penggunaan akal insting tersebut."
+      "title": "Fasl: Hakikat Akal",
+      "titleArabic": "فَصْلٌ: حَقِيقَةُ الْعَقْلِ",
+      "arabic": "وَالْعَقْلُ هُوَ الْعِلْمُ بِالْمُدْرَكَاتِ الضَّرُورِيَّةِ. وَذَلِكَ نَوْعَانِ: غَرِيزِيٌّ، وَمُكْتَسَبٌ.",
+      "translation": "Akal adalah pengetahuan tentang hal-hal yang dapat diindera secara daruri (pasti). Akal terbagi menjadi dua jenis: akal garizi (insting bawaan) dan akal muktasab (yang diusahakan)."
     },
     {
-      "title": "Tercelanya Mengikuti Hawa Nafsu",
-      "titleArabic": "ذَمُّ اتِّبَاعِ الْهَوَى",
-      "arabic": "وَاعْلَمْ أَنَّ الْهَوَى مَطِيَّةُ الْفِتْنَةِ، وَالْعَقْلُ مَعُونَةُ الْعِصْمَةِ. وَالْهَوَى مَقْرُونٌ بِالْعَمَى.",
-      "translation": "Ketahuilah bahwa hawa nafsu adalah kendaraan fitnah, sedangkan akal adalah pembantu bagi keterjagaan diri. Hawa nafsu senantiasa dibarengi dengan kebutaan mata hati."
+      "title": "Fasl: Tercelanya Mengikuti Hawa Nafsu",
+      "titleArabic": "فَصْلٌ: فِي ذَمِّ الْهَوَى",
+      "arabic": "وَأَمَّا الْهَوَى فَهُوَ عَنْ الْخَيْرِ صَادٌّ، وَلِلْعَقْلِ مُضَادٌّ؛ لِأَنَّهُ يُنْتِجُ مِنْ الْأَخْلَاقِ قَبِيحَهَا، وَيُظْهِرُ مِنْ الْأَفْعَالِ فَضِيحَهَا.",
+      "translation": "Adapun hawa nafsu, ia adalah penghalang dari kebaikan dan lawan bagi akal; karena ia menghasilkan akhlak yang buruk dan menampakkan perbuatan yang memalukan."
     },
     {
-      "title": "Bab Kedua: Keutamaan Ilmu Pengetahuan",
-      "titleArabic": "الْبَابُ الثَّانِي: فِي فَضْلِ الْعِلْمِ",
-      "arabic": "الْعِلْمُ أَشْرَفُ مَا رَغِبَ فِيهِ الرَّاغِبُ، وَأَفْضَلُ مَا طَلَبَهُ الطَّالِبُ. وَهُوَ النُّورُ الْهَادِي مِنَ الضَّلَالَةِ.",
-      "translation": "Ilmu adalah sesuatu yang paling mulia yang diminati oleh penyuka kemuliaan, dan hal terbaik yang dicari oleh pencari. Ia adalah cahaya yang memberi petunjuk dari kesesatan."
+      "title": "Bab II: Adab Menuntut Ilmu",
+      "titleArabic": "الْبَابُ الثَّانِي: فِي أَدَبِ الْعِلْمِ",
+      "arabic": "الْعِلْمُ أَشْرَفُ مَا رَغِبَ فِيهِ الرَّاغِبُ، وَأَفْضَلُ مَا نَصَبَ فِيهِ النَّاصِبُ؛ لِأَنَّهُ أَنْوَرُ الْبَصَائِرِ، وَأَقْوَى الذَّخَائِرِ.",
+      "translation": "Ilmu adalah hal paling mulia yang diinginkan oleh orang yang berkeinginan, dan hal paling afdal yang diusahakan oleh orang yang bersungguh-sungguh; karena ilmu adalah cahaya bashirah (mata hati) yang paling terang dan simpanan yang paling kuat."
     },
     {
-      "title": "Adab Penuntut Ilmu dan Guru",
-      "titleArabic": "آدَابُ الْمُتَعَلِّمِ وَالْمُعَلِّمِ",
-      "arabic": "وَمِنْ آدَابِ الْمُتَعَلِّمِ أَنْ يَكُونَ حَرِيصًا عَلَى التَّعَلُّمِ، مُتَوَاضِعًا لِلْمُعَلِّمِ. وَأَمَّا الْمُعَلِّمُ فَعَلَيْهِ بَذْلُ الْعِلْمِ لِأَهْلِهِ.",
-      "translation": "Di antara adab penuntut ilmu adalah antusias dalam belajar dan rendah hati kepada guru. Sedangkan bagi pengajar, wajib baginya mencurahkan ilmu kepada orang yang berhak menerimanya."
+      "title": "Fasl: Kewajiban Mengamalkan Ilmu",
+      "titleArabic": "فَصْلٌ: فِي الْعَمَلِ بِالْعِلْمِ",
+      "arabic": "وَمِنْ أَدَبِ الْعَالِمِ أَنْ يَكُونَ عَامِلًا بِعِلْمِهِ، مُؤَدِّيًا لِحَقِّهِ؛ لِأَنَّ الْعَالِمَ الَّذِي لَا يَعْمَلُ بِعِلْمِهِ كَالْمَرِيضِ الَّذِي مَعَهُ دَوَاؤُهُ وَلَا يَتَدَاوَى بِهِ.",
+      "translation": "Termasuk adab seorang alim adalah mengamalkan ilmunya dan menunaikan hak ilmu tersebut; karena seorang alim yang tidak mengamalkan ilmunya ibarat orang sakit yang memiliki obat namun tidak berobat dengannya."
     },
     {
-      "title": "Tercelanya Sifat Sombong dalam Berilmu",
-      "titleArabic": "ذَمُّ الْكِبْرِ فِي الْعِلْمِ",
-      "arabic": "وَلْيَحْذَرْ طَالِبُ الْعِلْمِ مِنَ الْكِبْرِ؛ فَإِنَّ الْعِلْمَ حَرْبٌ لِلْفَتَى الْمُتَعَالِي كَالصَّيْلِ حَرْبٌ لِلْمَكَانِ الْعَالِي.",
-      "translation": "Hendaknya pencari ilmu waspada terhadap kesombongan; karena ilmu adalah musuh bagi pemuda yang tinggi hati, sebagaimana banjir adalah musuh bagi tempat yang tinggi."
+      "title": "Fasl: Etika Murid Terhadap Guru",
+      "titleArabic": "فَصْلٌ: فِي أَدَبِ الْمُتَعَلِّمِ مَعَ الْمُعَلِّمِ",
+      "arabic": "وَيَنْبَغِي لِلْمُتَعَلِّمِ أَنْ يُقْبِلَ عَلَى الْمُعَلِّمِ بِكُلِّيَّتِهِ، وَيَصْرِفَ نَظَرَهُ عَنْ غَيْرِهِ، وَلَا يَتَقَدَّمَ عَلَيْهِ فِي قَوْلٍ، وَلَا يَعْتَرِضَ عَلَيْهِ فِي فِعْلٍ.",
+      "translation": "Hendaknya seorang murid menghadapkan dirinya sepenuhnya kepada guru, memalingkan pandangannya dari selain guru, tidak mendahului perkataan guru, dan tidak menyanggah tindakannya."
     },
     {
-      "title": "Bab Ketiga: Etika Beragama (Adab ad-Din)",
-      "titleArabic": "الْبَابُ الثَّالِثُ: فِي أَدَبِ الدِّينِ",
-      "arabic": "أَدَبُ الدِّينِ هُوَ الْأَصْلُ الَّذِي تُبْنَى عَلَيْهِ مَصَالِحُ الْآخِرَةِ، وَبِهِ تَصِحُّ الْعِبَادَاتُ.",
-      "translation": "Adab beragama adalah pokok yang di atasnya dibangun kemaslahatan akhirat, dan dengannya ibadah-ibadah menjadi sah/benar."
+      "title": "Bab III: Adab Agama (Urusan Akhirat)",
+      "titleArabic": "الْبَابُ الثَّالِثُ: فِي أَدَبِ الدِّينِ",
+      "arabic": "أَمَّا بَعْدُ، فَإِنَّ الدِّينَ هُوَ الْمَلَاذُ الْأَمْنَعُ، وَالْحِصْنُ الْأَحْصَنُ، الَّذِي يَعْصِمُ مَنْ لَجَأَ إلَيْهِ.",
+      "translation": "Amma ba'du, sesungguhnya agama adalah tempat berlindung yang paling kokoh dan benteng yang paling kuat, yang menjaga siapa saja yang berlindung kepadanya."
     },
     {
-      "title": "Pilar Penyangga Keberagaman yang Baik",
-      "titleArabic": "قَوَاعِدُ صَلَاحِ الدِّينِ",
-      "arabic": "وَقَوَاعِدُ صَلَاحِ الدِّينِ ثَلَاثَةٌ: عِلْمٌ بِأَحْكَامِ اللَّهِ، وَإِخْلَاصٌ فِي الطَّاعَةِ، وَالتِزَامٌ بِالسُّنَّةِ.",
-      "translation": "Pilar kebaikan agama ada tiga: ilmu tentang hukum-hukum Allah, ikhlas dalam ketaatan, dan komitmen terhadap Sunnah."
+      "title": "Fasl: Pentingnya Ikhlas",
+      "titleArabic": "فَصْلٌ: فِي الْإِخْلَاصِ",
+      "arabic": "وَأَصْلُ أَدَبِ الدِّينِ الْإِخْلَاصُ لِلَّهِ تَعَالَى فِي السِّرِّ وَالْعَلَانِيَةِ، فَإِنَّ الرِّيَاءَ يُبْطِلُ الْعَمَلَ وَيُورِثُ الْخِذْلَانَ.",
+      "translation": "Pokok dari adab beragama adalah ikhlas karena Allah Ta'ala dalam keadaan tersembunyi maupun terang-terangan, karena riya' membatalkan amal dan mendatangkan kehinaan."
     },
     {
-      "title": "Sabar dan Syukur dalam Beragama",
-      "titleArabic": "الصَّبْرُ وَالشُّكْرُ فِي الدِّينِ",
-      "arabic": "وَالصَّبْرُ ضَرْبَانِ: صَبْرٌ عَلَى مَا تُحِبُّ، وَصَبْرٌ عَلَى مَا تَكْرَهُ. وَالشُّكْرُ اعْتِرَافٌ بِالنِّعْمَةِ لِلْمُنْعِمِ.",
-      "translation": "Sabar itu ada dua macam: sabar atas apa yang kau cintai (untuk taat) dan sabar atas apa yang kau benci (musibah). Sedangkan syukur adalah pengakuan akan nikmat kepada Sang Pemberi Nikmat."
+      "title": "Fasl: Sifat Warak dan Takwa",
+      "titleArabic": "فَصْلٌ: فِي الْوَرَعِ وَالتَّقْوَى",
+      "arabic": "وَالتَّقْوَى جِمَاعُ الْفَضَائِلِ، وَمِلَاكُ الْأُمُورِ، وَهِيَ امْتِثَالُ الْأَوَامِرِ وَاجْتِنَابُ الزَّوَاجِرِ.",
+      "translation": "Takwa adalah himpunan segala keutamaan dan pengendali segala urusan; ia adalah menjalankan perintah dan menjauhi larangan."
     },
     {
-      "title": "Bab Keempat: Etika Duniawi (Adab ad-Dunya)",
-      "titleArabic": "الْبَابُ الرَّابِعُ: فِي أَدَبِ الدُّنْيَا",
-      "arabic": "اعْلَمْ أَنَّ صَلَاحَ الدُّنْيَا مَعْتَبَرٌ بِسِتَّةِ أَشْيَاءَ: دِينٌ مُتَّبَعٌ، وَسُلْطَانٌ قَاهِرٌ، وَعَدْلٌ شَامِلٌ، وَأَمْنٌ عَامٌّ، وَخِصْبٌ دَائِمٌ، وَأَمَلٌ فَسِيحٌ.",
-      "translation": "Ketahuilah bahwa kebaikan dunia bergantung pada enam perkara: agama yang diikuti, penguasa yang ditaati, keadilan yang menyeluruh, keamanan yang umum, kesuburan tanah yang berkelanjutan, dan harapan yang luas."
+      "title": "Bab IV: Adab Dunia (Urusan Kehidupan)",
+      "titleArabic": "الْبَابُ الرَّابِعُ: فِي أَدَبِ الدُّنْيَا",
+      "arabic": "اعْلَمْ أَنَّ الدُّنْيَا دَارُ مَمَرٍّ لَا دَارُ مَقَرٍّ، وَهِيَ مَزْرَعَةُ الْآخِرَةِ، فَلَا يَصْلُحُ الدِّينُ إلَّا بِصَلَاحِهَا.",
+      "translation": "Ketahuilah bahwa dunia adalah tempat perlintasan, bukan tempat menetap yang kekal, dan ia adalah ladang bagi akhirat; maka agama tidak akan baik kecuali dengan kebaikan urusan dunia."
     },
     {
-      "title": "Keadilan sebagai Pilar Dunia",
-      "titleArabic": "الْعَدْلُ أَسَاسُ الدُّنْيَا",
-      "arabic": "فَأَمَّا الْعَدْلُ الشَّامِلُ فَهُوَ الَّذِي يَدْعُو إلَى الِالْفَةِ وَيَبْعَثُ عَلَى الطَّاعَةِ وَتَعْمُرُ بِهِ الْبِلَادُ.",
-      "translation": "Adapun keadilan yang menyeluruh adalah yang mengajak pada keharmonisan, mendorong ketaatan, dan dengannya negara menjadi makmur."
+      "title": "Fasl: Enam Landasan Kebaikan Dunia",
+      "titleArabic": "فَصْلٌ: فِي قَوَاعِدِ صَلَاحِ الدُّنْيَا",
+      "arabic": "قَوَاعِدُ صَلَاحِ الدُّنْيَا سِتَّةٌ: دِينٌ مُتَّبَعٌ، وَسُلْطَانٌ قَاهِرٌ، وَعَدْلٌ شَامِلٌ، وَأَمْنٌ عَامٌّ، وَخِصْبٌ دَائِمٌ، وَأَمَلٌ فَسِيحٌ.",
+      "translation": "Landasan kebaikan dunia ada enam: agama yang diikuti, penguasa yang ditaati, keadilan yang menyeluruh, keamanan yang umum, kesuburan tanah yang berkelanjutan, dan harapan yang luas."
     },
     {
-      "title": "Etika Mencari Rezeki dan Harta",
-      "titleArabic": "أَدَبُ اكْتِسَابِ الْمَالِ",
-      "arabic": "وَمِنْ أَدَبِ الدُّنْيَا الِاقْتِصَادُ فِي الْمَعِيشَةِ، وَتَرْكُ السَّرَفِ وَالتَّبْذِيرِ.",
-      "translation": "Di antara adab dunia adalah berhemat dalam penghidupan, serta meninggalkan sikap berlebihan dan pemborosan."
+      "title": "Fasl: Etika Mencari Rezeki",
+      "titleArabic": "فَصْلٌ: فِي طَلَبِ الرِّزْقِ",
+      "arabic": "وَيَنْبَغِي لِلْمَرْءِ أَنْ يَطْلُبَ الرِّزْقَ مِنْ وُجُوهِهِ الْمُبَاحَةِ، بِالْإِجْمَالِ فِي الطَّلَبِ، وَتَرْكِ الْحِرْصِ الْمُذِمِّ.",
+      "translation": "Hendaknya seseorang mencari rezeki dari jalan yang dibolehkan, dengan cara yang sewajarnya, serta meninggalkan ketamakan yang tercela."
     },
     {
-      "title": "Bab Kelima: Etika Mengelola Diri (Adab an-Nafs)",
-      "titleArabic": "الْبَابُ الْخَامِسُ: فِي أَدَبِ النَّفْسِ",
-      "arabic": "أَدَبُ النَّفْسِ هُوَ تَهْذِيبُ الْأَخْلَاقِ وَتَطْهِيرُهَا مِنَ الرَّذَائِلِ.",
-      "translation": "Adab diri adalah mendidik akhlak dan menyucikannya dari sifat-sifat hina."
+      "title": "Bab V: Adab Nafs (Etika Pribadi dan Sosial)",
+      "titleArabic": "الْبَابُ الْخَامِسُ: فِي أَدَبِ النَّفْسِ",
+      "arabic": "أَدَبُ النَّفْسِ هُوَ رِيَاضَتُهَا عَلَى الْأَخْلَاقِ الْجَمِيلَةِ، وَتَنْزِيهُهَا عَنْ الْأَوْصَافِ الرَّذِيلَةِ.",
+      "translation": "Adab nafs adalah melatih jiwa agar berakhlak dengan keindahan, dan menyucikannya dari sifat-sifat yang rendah."
     },
     {
-      "title": "Sifat Malu (Al-Haya')",
-      "titleArabic": "خُلُقُ الْحَيَاءِ",
-      "arabic": "وَالْحَيَاءُ أَصْلُ كُلِّ خَيْرٍ، وَهُوَ يَمْنَعُ مِنَ الْقَبِيحِ وَيَحُثُّ عَلَى الْجَمِيلِ.",
-      "translation": "Malu adalah pangkal segala kebaikan, ia mencegah dari keburukan dan mendorong kepada keindahan perilaku."
+      "title": "Fasl: Sifat Jujur (As-Sidqu)",
+      "titleArabic": "فَصْلٌ: فِي الصِّدْقِ",
+      "arabic": "الصِّدْقُ عِمَادُ الْإِيمَانِ، وَأَصْلُ الْمُرُوءَةِ، وَهُوَ مَطَابَقَةُ الْقَوْلِ لِلْمُخْبَرِ عَنْهُ.",
+      "translation": "Kejujuran adalah pilar keimanan dan pokok dari kewibawaan (muru'ah); ia adalah kesesuaian perkataan dengan kenyataan yang diberitakan."
     },
     {
-      "title": "Menjaga Rahasia dan Lisan",
-      "titleArabic": "حِفْظُ السِّرِّ وَاللِّسَانِ",
-      "arabic": "وَمِنْ أَدَبِ النَّفْسِ كِتْمَانُ السِّرِّ وَحِفْظُ اللِّسَانِ عَنِ الْفُضُولِ.",
-      "translation": "Termasuk adab diri adalah merahasiakan rahasia dan menjaga lisan dari hal-hal yang tidak berguna."
+      "title": "Fasl: Sifat Malu (Al-Haya')",
+      "titleArabic": "فَصْلٌ: فِي الْحَيَاءِ",
+      "arabic": "الْحَيَاءُ مِنْ كَرَمِ النَّفْسِ، وَهُوَ الَّذِي يَبْعَثُ عَلَى تَرْكِ الْقَبِيحِ وَيَمْنَعُ مِنْ التَّقْصِيرِ فِي حَقِّ ذِي الْحَقِّ.",
+      "translation": "Malu adalah bagian dari kemuliaan jiwa; ialah yang mendorong untuk meninggalkan keburukan dan mencegah kelalaian dalam menunaikan hak orang lain."
     },
     {
-      "title": "Keberanian dan Kedermawanan",
-      "titleArabic": "الشَّجَاعَةُ وَالسَّخَاءُ",
-      "arabic": "الشَّجَاعَةُ هِيَ ثَبَاتُ الْقَلْبِ عِنْدَ الْمَخَاوِفِ، وَالسَّخَاءُ بَذْلُ الْمَالِ فِي مَوَاضِعِ الْحَقِّ.",
-      "translation": "Keberanian adalah keteguhan hati saat menghadapi ketakutan, dan kedermawanan adalah mencurahkan harta pada tempat yang benar."
+      "title": "Fasl: Sifat Rendah Hati (At-Tawadu')",
+      "titleArabic": "فَصْلٌ: فِي التَّوَاضُعِ",
+      "arabic": "وَالتَّوَاضُعُ مِنْ شِيَمِ الْأَشْرَافِ، وَهُوَ خَفْضُ الْجَنَاحِ لِلْخَلْقِ، وَتَرْكُ الِاسْتِعْلَاءِ عَلَيْهِمْ.",
+      "translation": "Rendah hati adalah karakter orang-orang mulia; ia adalah bersikap lembut kepada sesama makhluk dan meninggalkan sifat merasa tinggi atas mereka."
     },
     {
-      "title": "Bab Keenam: Etika Pergaulan (Adab al-Mu'asyarah)",
-      "titleArabic": "الْبَابُ السَّادِسُ: فِي أَدَبِ الْمُعَاشَرَةِ",
-      "arabic": "الْإِنْسَانُ مَدَنِيٌّ بِالطَّبْعِ، وَلَا بُدَّ لَهُ مِنْ مُعَاشَرَةِ النَّاسِ بِالْمَعْرُوفِ.",
-      "translation": "Manusia adalah makhluk sosial menurut tabiatnya, dan ia mesti bergaul dengan sesama manusia dengan cara yang baik."
+      "title": "Fasl: Etika Pergaulan dan Persahabatan",
+      "titleArabic": "فَصْلٌ: فِي حُسْنِ الْعِشْرَةِ",
+      "arabic": "وَمِنْ تَمَامِ أَدَبِ النَّفْسِ حُسْنُ الْمُعَاشَرَةِ مَعَ الْإِخْوَانِ، بِبَسْطِ الْوَجْهِ، وَبَذْلِ النَّدَى، وَكَفِّ الْأَذَى.",
+      "translation": "Termasuk kesempurnaan adab jiwa adalah bergaul dengan baik bersama saudara, dengan wajah yang berseri, murah hati, dan menahan diri dari menyakiti."
     },
     {
-      "title": "Memilih Teman dan Sahabat",
-      "titleArabic": "اخْتِيَارُ الْأَصْدِقَاءِ",
-      "arabic": "وَلَا تُصَاحِبْ إلَّا مَنْ تُفِيدُ مِنْهُ عِلْمًا أَوْ تَكْتَسِبُ مِنْهُ أَدَبًا.",
-      "translation": "Janganlah berteman kecuali dengan orang yang darinya engkau bisa mengambil faedah ilmu atau memeroleh adab."
-    },
-    {
-      "title": "Hak-hak Bertetangga dan Berkerabat",
-      "titleArabic": "حُقُوقُ الْجِوَارِ وَالْقَرَابَةِ",
-      "arabic": "وَمِنْ أَدَبِ الْمُعَاشَرَةِ بَالُ الْجَارِ، وَصِلَةُ الْأَرْحَامِ، وَمُوَاسَاةُ الْإِخْوَانِ.",
-      "translation": "Termasuk adab pergaulan adalah memperhatikan tetangga, menyambung tali silaturahmi, dan membantu saudara."
-    },
-    {
-      "title": "Khatimah: Kesimpulan Kitab",
+      "title": "Khatimah (Penutup)",
       "titleArabic": "خَاتِمَةُ الْكِتَابِ",
-      "arabic": "فَقَدْ أَتَيْتُ عَلَى مَا قَصَدْتُ لَهُ مِنْ آدَابِ الدُّنْيَا وَالدِّينِ، وَاللَّهُ الْمُسْتَعَانُ عَلَى كُلِّ حَالٍ.",
-      "translation": "Sungguh telah aku sampaikan apa yang aku tuju dari penjelasan adab dunia dan agama, dan hanya kepada Allah-lah tempat memohon pertolongan dalam setiap keadaan."
+      "arabic": "فَقَدْ أَتَيْنَا عَلَى مَا شَرَطْنَا فِي صَدْرِ هَذَا الْكِتَابِ مِنْ جُمَلِ الْآدَابِ. نَسْأَلُ اللَّهَ تَعَالَى أَنْ يَعْصِمَنَا مِنْ الزَّلَلِ، وَيُوَفِّقَنَا لِصَالِحِ الْعَمَلِ.",
+      "translation": "Maka telah kami sampaikan apa yang kami syaratkan di awal kitab ini mengenai kumpulan adab. Kami memohon kepada Allah Ta'ala agar menjaga kami dari kesalahan dan memberikan taufik untuk melakukan amal saleh."
     }
   ]
 }
