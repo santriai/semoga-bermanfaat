@@ -1,0 +1,314 @@
+{
+  "profile": {
+    "name": "Nashru al-'Arf fî Binâ'i Ba'dh al-Ahkâm 'ala al-'Urf",
+    "originalTitle": "نَشْرُ الْعَرْفِ فِي بِنَاءِ بَعْضِ الْأَحْكَامِ عَلَى الْعُرْفِ",
+    "author": "Al-Imam Muhammad Amin bin 'Umar bin 'Abidin ad-Dimashqi (Ibn Abidin)",
+    "field": "Qawaid Fiqhiyyah & Usul Fiqh",
+    "about": "Kitab ini merupakan risalah fundamental dalam khazanah keilmuan Turath Islam yang mengkaji secara mendalam peran tradisi ('Urf) dan adat istiadat dalam pembentukan hukum Islam. Penulis, yang merupakan ulama otoritatif madzhab Hanafi, menjelaskan bahwa hukum syariat yang didasarkan pada ijtihad seringkali harus mempertimbangkan realitas sosial yang berlaku di masyarakat. Kitab ini merumuskan kaidah-kaidah teknis bagaimana sebuah adat dapat diakui sebagai dasar hukum (Al-'Adatu Muhakkamatun). Melalui karya ini, Ibn Abidin menjembatani antara ketetapan teks klasik dengan dinamika perubahan zaman. Pembahasan di dalamnya mencakup klasifikasi 'urf, syarat-syarat legitimasi adat, hingga aplikasinya dalam berbagai bab fikih muamalah dan sosial.",
+    "authorBorn": "1198 H / 1784 M",
+    "authorDied": "1252 H / 1836 M",
+    "authorCentury": "Abad ke-13 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah: Puji-pujian kepada Allah dan Rasul-Nya",
+      "titleArabic": "الْمُقَدِّمَةُ: الْحَمْدُ لِلَّهِ وَالصَّلَاةُ عَلَى رَسُولِ اللَّهِ",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي جَعَلَ الشَّرِيعَةَ الْغَرَّاءَ سَمْحَةً، وَجَعَلَ لِلْعُرْفِ مَكَانَةً فِي فَهْمِ الْأَحْكَامِ الْمُسْتَنْبَطَةِ. وَالصَّلَاةُ وَالسَّلَامُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ أَجْمَعِينَ.",
+      "translation": "Segala puji bagi Allah yang telah menjadikan syariat yang suci ini penuh toleransi, dan menjadikan tradisi memiliki kedudukan dalam memahami hukum-hukum hasil istinbath. Shalawat serta salam semoga tercurah kepada junjungan kita Nabi Muhammad, keluarga, serta para sahabatnya sekalian."
+    },
+    {
+      "title": "Tujuan Penulisan Risalah Tentang Urf",
+      "titleArabic": "الْغَرَضُ مِنْ تَأْلِيفِ هَذِهِ الرِّسَالَةِ",
+      "arabic": "أَمَّا بَعْدُ، فَهَذِهِ رِسَالَةٌ لَطِيفَةٌ فِي بَيَانِ بِنَاءِ بَعْضِ الْأَحْكَامِ عَلَى الْعُرْفِ، وَمَا لِلْعُرْفِ مِنْ أَثَرٍ فِي تَغَيُّرِ الْفَتْوَى بِتَغَيُّرِ الزَّمَانِ.",
+      "translation": "Amma ba'du, ini adalah sebuah risalah ringkas yang menjelaskan landasan sebagian hukum atas dasar urf (tradisi), serta pengaruh urf terhadap perubahan fatwa seiring dengan perubahan zaman."
+    },
+    {
+      "title": "Pentingnya Mengetahui Adat bagi Seorang Mufti",
+      "titleArabic": "أَهَمِّيَّةُ مَعْرِفَةِ الْعُرْفِ لِلْمُفْتِي",
+      "arabic": "اعْلَمْ أَنَّ الْفَقِيهَ لَا يَسْتَغْنِي عَنْ مَعْرِفَةِ عَادَاتِ النَّاسِ، فَإِنَّ كَثِيرًا مِنَ الْأَحْكَامِ تَدُورُ مَعَهَا وُجُودًا وَعَدَمًا.",
+      "translation": "Ketahuilah bahwa seorang ahli fikih tidak bisa lepas dari pengetahuan tentang adat istiadat manusia, karena sesungguhnya banyak hukum yang berputar mengikutinya, baik dalam keberadaannya maupun ketiadaannya."
+    },
+    {
+      "title": "Definisi Al-Urf Menurut Istilah",
+      "titleArabic": "تَعْرِيفُ الْعُرْفِ فِي الِاصْطِلَاحِ",
+      "arabic": "الْعُرْفُ هُوَ مَا اسْتَقَرَّتِ النُّفُوسُ عَلَيْهِ بِشَهَادَةِ الْعُقُولِ، وَتَلَقَّتْهُ الطِّبَاعُ بِالْقَبُولِ.",
+      "translation": "Al-Urf adalah apa yang telah menetap di dalam jiwa atas kesaksian akal budi, dan diterima oleh watak manusia secara baik."
+    },
+    {
+      "title": "Definisi Al-Adah (Adat Istiadat)",
+      "titleArabic": "تَعْرِيفُ الْعَادَةِ",
+      "arabic": "الْعَادَةُ هِيَ الْأَمْرُ الْمُتَكَرِّرُ مِنْ غَيْرِ عَلَاقَةٍ عَقْلِيَّةٍ، سَوَاءٌ كَانَتْ عَادَةً فَرْدِيَّةً أَوْ جَمَاعِيَّةً.",
+      "translation": "Adat adalah suatu perkara yang dilakukan secara berulang-ulang tanpa adanya hubungan rasional (logika murni), baik itu adat individu maupun kelompok."
+    },
+    {
+      "title": "Persamaan dan Perbedaan Urf dan Adah",
+      "titleArabic": "الْفَرْقُ بَيْنَ الْعُرْفِ وَالْعَادَةِ",
+      "arabic": "وَقَدْ يُطْلَقُ أَحَدُهُمَا عَلَى الْآخَرِ، وَلَكِنَّ الْعُرْفَ أَخَصُّ مِنَ الْعَادَةِ فِي كَثِيرٍ مِنَ الِاسْتِعْمَالَاتِ الْفِقْهِيَّةِ.",
+      "translation": "Terkadang salah satu dari keduanya digunakan untuk menyebut yang lain, namun 'Urf lebih spesifik daripada 'Adah dalam banyak penggunaan istilah fikih."
+    },
+    {
+      "title": "Klasifikasi Urf: Urf Qawli (Ucapan)",
+      "titleArabic": "أَقْسَامُ الْعُرْفِ: الْعُرْفُ الْقَوْلِيُّ",
+      "arabic": "الْعُرْفُ الْقَوْلِيُّ: هُوَ اتِّفَاقُ النَّاسِ عَلَى اسْتِعْمَالِ لَفْظٍ فِي مَعْنًى خَاصٍّ، بِحَيْثُ يَتَبَادَرُ ذَلِكَ الْمَعْنَى عِنْدَ إِطْلَاقِهِ.",
+      "translation": "Urf Qawli adalah kesepakatan manusia dalam menggunakan suatu lafadz untuk makna tertentu, sehingga makna itulah yang langsung terlintas saat lafadz tersebut diucapkan."
+    },
+    {
+      "title": "Klasifikasi Urf: Urf Fi'li (Perbuatan)",
+      "titleArabic": "الْعُرْفُ الْفِعْلِيُّ",
+      "arabic": "الْعُرْفُ الْفِعْلِيُّ: هُوَ تَعَارُفُ النَّاسِ عَلَى فِعْلٍ مُعَيَّنٍ، كَالْبَيْعِ بِالتَّعَاطِي مِنْ غَيْرِ نُطْقٍ بِالْإِيجَابِ وَالْقَبُولِ.",
+      "translation": "Urf Fi'li adalah tradisi manusia dalam perbuatan tertentu, seperti jual beli dengan cara serah-terima (mu'athah) tanpa mengucapkan ijab dan qabul."
+    },
+    {
+      "title": "Urf 'Am (Tradisi Umum)",
+      "titleArabic": "الْعُرْفُ الْعَامُّ",
+      "arabic": "الْعُرْفُ الْعَامُّ: هُوَ مَا شَاعَ فِي جَمِيعِ الْبِلَادِ وَالْأَمْصَارِ، وَلَا يَخْتَصُّ بِمَكَانٍ دُونَ آخَرَ.",
+      "translation": "Urf 'Am adalah tradisi yang populer di seluruh negeri dan wilayah, tidak terbatas pada satu tempat tertentu saja."
+    },
+    {
+      "title": "Urf Khash (Tradisi Khusus)",
+      "titleArabic": "الْعُرْفُ الْخَاصُّ",
+      "arabic": "الْعُرْفُ الْخَاصُّ: هُوَ مَا يَتَعَارَفُ عَلَيْهِ أَهْلُ بَلَدٍ مُعَيَّنٍ أَوْ طَائِفَةٍ مَخْصُوصَةٍ، كَتُجَّارِ نَوْعٍ مِنَ السِّلَعِ.",
+      "translation": "Urf Khash adalah tradisi yang dikenal oleh penduduk negeri tertentu atau kelompok khusus, seperti para pedagang jenis barang tertentu."
+    },
+    {
+      "title": "Kaidah: Al-'Adatu Muhakkamatun",
+      "titleArabic": "قَاعِدَةُ الْعَادَةُ مُحَكَّمَةٌ",
+      "arabic": "الْعَادَةُ مُحَكَّمَةٌ، أَيْ أَنَّهَا تُجْعَلُ حَكَمًا لِإِثْبَاتِ حُكْمٍ شَرْعِيٍّ إِذَا لَمْ يُوجَدْ نَصٌّ بِخِلَافِهِ.",
+      "translation": "Adat itu dapat dijadikan pijakan hukum, artinya ia dijadikan hakim untuk menetapkan suatu hukum syariat apabila tidak ditemukan nash yang bertentangan dengannya."
+    },
+    {
+      "title": "Urf Shahih dan Syaratnya",
+      "titleArabic": "الْعُرْفُ الصَّحِيحُ وَشُرُوطُهُ",
+      "arabic": "الْعُرْفُ الصَّحِيحُ: هُوَ مَا تَعَارَفَ النَّاسُ عَلَيْهِ وَلَا يُخَالِفُ دَلِيلًا شَرْعِيًّا، وَلَا يُحِلُّ حَرَامًا وَلَا يُبْطِلُ وَاجِبًا.",
+      "translation": "Urf Shahih adalah tradisi yang dikenal manusia dan tidak menyalahi dalil syar'i, tidak menghalalkan yang haram, dan tidak menggugurkan kewajiban."
+    },
+    {
+      "title": "Urf Fasid (Tradisi yang Rusak)",
+      "titleArabic": "الْعُرْفُ الْفَاسِدُ",
+      "arabic": "الْعُرْفُ الْفَاسِدُ: هُوَ مَا تَعَارَفَ النَّاسُ عَلَيْهِ وَلَكِنَّهُ يُصَادِمُ الشَّرْعَ، كَتَعَارُفِهِمْ عَلَى الرِّبَا أَوْ شُرْبِ الْخَمْرِ.",
+      "translation": "Urf Fasid adalah tradisi yang dikenal manusia namun bertentangan dengan syariat, seperti tradisi mereka dalam melakukan riba atau meminum khamr."
+    },
+    {
+      "title": "Syarat Pertama: Urf Harus Berlaku Umum (Ghalib)",
+      "titleArabic": "الشَّرْطُ الْأَوَّلُ: أَنْ يَكُونَ الْعُرْفُ غَالِبًا",
+      "arabic": "يُشْتَرَطُ فِي الْعُرْفِ أَنْ يَكُونَ مُطَّرِدًا أَوْ غَالِبًا، فَلَا عِبْرَةَ بِالنَّادِرِ.",
+      "translation": "Disyaratkan bagi Urf agar berlaku terus menerus atau umum terjadi, maka perkara yang langka tidak dianggap."
+    },
+    {
+      "title": "Syarat Kedua: Urf Harus Ada Saat Terjadinya Akad",
+      "titleArabic": "الشَّرْطُ الثَّانِي: أَنْ يَكُونَ الْعُرْفُ قَائِمًا عِنْدَ الْإِنْشَاءِ",
+      "arabic": "يُشْتَرَطُ أَنْ يَكُونَ الْعُرْفُ مَوْجُودًا وَقْتَ التَّصَرُّفِ، فَلَا يُعْتَبَرُ الْعُرْفُ الْحَادِثُ بَعْدَهُ.",
+      "translation": "Disyaratkan agar Urf tersebut sudah ada saat tindakan hukum (akad) dilakukan, maka urf yang baru muncul setelahnya tidak diperhitungkan."
+    },
+    {
+      "title": "Syarat Ketiga: Tidak Ada Penegasan yang Membatalkannya",
+      "titleArabic": "الشَّرْطُ الثَّالِثُ: أَنْ لَا يُصَرِّحَ الْمُتَعَاقِدَانِ بِخِلَافِهِ",
+      "arabic": "إِذَا صَرَّحَ الْعَاقِدَانِ بِخِلَافِ الْعُرْفِ، فَالْمُعْتَبَرُ هُوَ مَا صَرَّحَا بِهِ لَا الْعُرْفُ.",
+      "translation": "Apabila kedua belah pihak yang berakad menegaskan hal yang bertentangan dengan urf, maka yang dianggap adalah apa yang mereka tegaskan, bukan urf-nya."
+    },
+    {
+      "title": "Syarat Keempat: Tidak Bertentangan dengan Nash Qath'i",
+      "titleArabic": "الشَّرْطُ الرَّابِعُ: عَدَمُ مُخَالَفَةِ النَّصِّ الْقَطْعِيِّ",
+      "arabic": "لَا يُعْتَبَرُ الْعُرْفُ إِذَا خَالَفَ نَصًّا قَطْعِيًّا مِنَ الْكِتَابِ أَوِ السُّنَّةِ.",
+      "translation": "Urf tidak diperhitungkan apabila menyalahi nash yang qath'i (pasti) dari Al-Qur'an maupun As-Sunnah."
+    },
+    {
+      "title": "Interaksi Antara Urf dan Makna Bahasa",
+      "titleArabic": "تَعَارُضُ الْعُرْفِ مَعَ اللُّغَةِ",
+      "arabic": "إِذَا تَعَارَضَ الْمَعْنَى اللُّغَوِيُّ مَعَ الْمَعْنَى الْعُرْفِيِّ، قُدِّمَ الْعُرْفِيُّ فِي الْأَيْمَانِ وَالْمُعَامَلَاتِ.",
+      "translation": "Apabila makna bahasa bertentangan dengan makna urf, maka makna urf didahulukan dalam perkara sumpah dan muamalah."
+    },
+    {
+      "title": "Kaidah: Al-Ma'ruf 'Urfan kal Masyruth Syarthan",
+      "titleArabic": "الْمَعْرُوفُ عُرْفًا كَالْمَشْرُوطِ شَرْطًا",
+      "arabic": "الْمَعْرُوفُ عُرْفًا بَيْنَ التُّجَّارِ مَثَلًا بِمَنْزِلَةِ مَا يُشْتَرَطُ صَرَاحَةً فِي الْعَقْدِ.",
+      "translation": "Apa yang dikenal melalui tradisi—misalnya di kalangan pedagang—kedudukannya sama dengan apa yang disyaratkan secara eksplisit dalam akad."
+    },
+    {
+      "title": "Urf dalam Sumpah (Al-Aiman)",
+      "titleArabic": "الْعُرْفُ فِي الْأَيْمَانِ",
+      "arabic": "تُبْنَى الْأَيْمَانُ عَلَى الْعُرْفِ لَا عَلَى اللُّغَةِ، فَمَنْ حَلَفَ لَا يَسْكُنُ بَيْتًا فَسَكَنَ مَسْجِدًا لَمْ يَحْنَثْ رَغْمَ أَنَّ الْمَسْجِدَ بَيْتُ اللَّهِ لُغَةً.",
+      "translation": "Sumpah itu dibangun di atas urf, bukan bahasa. Maka barangsiapa bersumpah tidak akan menempati rumah lalu ia menempati masjid, ia tidak melanggar sumpah, meskipun secara bahasa masjid adalah rumah Allah."
+    },
+    {
+      "title": "Aplikasi Urf dalam Jual Beli (Bay' al-Mu'athah)",
+      "titleArabic": "الْعُرْفُ فِي بَيْعِ التَّعَاطِي",
+      "arabic": "صَحَّ الْبَيْعُ بِالتَّعَاطِي لِجَرَيَانِ الْعُرْفِ بِهِ، وَإِنْ كَانَ الْأَصْلُ النُّطْقَ بِاللِّسَانِ.",
+      "translation": "Sah jual beli dengan cara mu'athah (serah terima tanpa kata-kata) karena berlakunya urf dalam hal itu, meskipun hukum asalnya adalah dengan pengucapan lisan."
+    },
+    {
+      "title": "Urf dalam Menentukan Kadar Mahar",
+      "titleArabic": "الْعُرْفُ فِي تَحْدِيدِ الْمَهْرِ",
+      "arabic": "يُرْجَعُ إِلَى مَهْرِ الْمِثْلِ عِنْدَ الِاخْتِلَافِ، وَمَهْرُ الْمِثْلِ يُعْرَفُ بِعُرْفِ عَشِيرَةِ الْمَرْأَةِ.",
+      "translation": "Dikembalikan kepada mahar mitsil ketika terjadi perselisihan, dan mahar mitsil itu diketahui melalui urf kerabat wanita tersebut."
+    },
+    {
+      "title": "Urf dalam Nafkah Istri dan Anak",
+      "titleArabic": "الْعُرْفُ فِي النَّفَقَةِ",
+      "arabic": "تُقَدَّرُ النَّفَقَةُ بِالْمَعْرُوفِ، أَيْ بِمَا يَتَعَارَفُ عَلَيْهِ النَّاسُ حَسَبَ حَالِ الزَّوْجِ مَنْ عُسْرٍ وَيُسْرٍ.",
+      "translation": "Nafkah ditentukan secara ma'ruf, yaitu apa yang dikenal oleh manusia sesuai dengan kondisi suami baik dalam keadaan sulit maupun lapang."
+    },
+    {
+      "title": "Urf dalam Akad Istishna' (Pemesanan Barang)",
+      "titleArabic": "الْعُرْفُ فِي عَقْدِ الِاسْتِصْنَاعِ",
+      "arabic": "جَازَ الِاسْتِصْنَاعُ لِلْعُرْفِ وَالْحَاجَةِ، مَعَ أَنَّهُ بَيْعُ مَا لَيْسَ عِنْدَ الْبَائِعِ فِي الْأَصْلِ.",
+      "translation": "Akad istishna' diperbolehkan karena adanya urf dan kebutuhan, padahal asalnya itu adalah menjual sesuatu yang belum ada pada penjual."
+    },
+    {
+      "title": "Urf dalam Sewa Menyewa (Ijarah)",
+      "titleArabic": "الْعُرْفُ فِي الْإِجَارَةِ",
+      "arabic": "مَا لَمْ يُنَصَّ عَلَيْهِ فِي عَقْدِ الْإِجَارَةِ يُحْمَلُ عَلَى الْعُرْفِ، كَطَرِيقَةِ السُّكْنَى وَنَوْعِ الِاسْتِعْمَالِ.",
+      "translation": "Apa yang tidak disebutkan secara tekstual dalam akad sewa-menyewa dibawa kepada makna urf, seperti tata cara menempati rumah dan jenis penggunaannya."
+    },
+    {
+      "title": "Urf dalam Penentuan Cacat Barang",
+      "titleArabic": "الْعُرْفُ فِي عُيُوبِ السِّلْعَةِ",
+      "arabic": "الْمَرْجِعُ فِي مَعْرِفَةِ الْعَيْبِ الْمُوجِبِ لِلرَّدِّ هُوَ عُرْفُ التُّجَّارِ.",
+      "translation": "Rujukan dalam mengetahui cacat barang yang mengharuskan pengembalian (radd) adalah urf atau kebiasaan para pedagang."
+    },
+    {
+      "title": "Urf dalam Masalah Wakaf",
+      "titleArabic": "الْعُرْفُ فِي الْوَقْفِ",
+      "arabic": "تُبْنَى شُرُوطُ الْوَاقِفِينَ عَلَى مَقَاصِدِهِمُ الْعُرْفِيَّةِ فِي زَمَانِهِمْ.",
+      "translation": "Syarat-syarat yang ditetapkan orang yang berwakaf dibangun atas maksud-maksud urf mereka pada zaman mereka."
+    },
+    {
+      "title": "Urf dalam Menentukan Berat dan Takaran",
+      "titleArabic": "الْعُرْفُ فِي الْكَيْلِ وَالْوَزْنِ",
+      "arabic": "الْأَصْلُ فِي الْمَكِيلِ وَالْمَوْزُونِ هُوَ النَّصُّ، وَمَا لَا نَصَّ فِيهِ يُرْجَعُ فِيهِ إِلَى الْعُرْفِ.",
+      "translation": "Hukum asal dalam barang yang ditakar dan ditimbang adalah berdasarkan nash, namun apa yang tidak ada nash-nya dikembalikan kepada urf."
+    },
+    {
+      "title": "Perubahan Hukum Karena Perubahan Zaman",
+      "titleArabic": "تَغَيُّرُ الْأَحْكامِ بِتَغَيُّرِ الْأَزْمَانِ",
+      "arabic": "لَا يُنْكَرُ تَغَيُّرُ الْأَحْكَامِ الِاجْتِهَادِيَّةِ بِتَغَيُّرِ الزَّمَانِ وَالْمَكَانِ بِسَبَبِ تَغَيُّرِ الْعُرْفِ.",
+      "translation": "Tidak dapat dipungkiri adanya perubahan hukum-hukum ijtihadiyyah karena perubahan zaman dan tempat yang disebabkan oleh perubahan urf."
+    },
+    {
+      "title": "Urf dalam Keputusan Hakim (Qada')",
+      "titleArabic": "الْعُرْفُ فِي الْقَضَاءِ",
+      "arabic": "يَنْبَغِي لِلْقَاضِي أَنْ يُرَاعِيَ عُرْفَ الْخُصُومِ فِي فَهْمِ إِقْرَارَاتِهِمْ وَدَعَاوَاهُمْ.",
+      "translation": "Hendaknya bagi seorang hakim untuk memperhatikan urf para pihak yang bersengketa dalam memahami pengakuan dan gugatan mereka."
+    },
+    {
+      "title": "Urf dalam Pemberian Hadiah dan Gratifikasi",
+      "titleArabic": "الْعُرْفُ فِي الْهَدَايَا",
+      "arabic": "يُفَرَّقُ بَيْنَ الْهَدِيَّةِ وَالرِّشْوَةِ بِالْعُرْفِ وَالْمَقَاصِدِ الشَّائِعَةِ.",
+      "translation": "Dibedakan antara hadiah dan suap berdasarkan urf serta maksud-maksud yang umum berlaku."
+    },
+    {
+      "title": "Konflik Antara Urf Umum dan Nash Khusus",
+      "titleArabic": "تَعَارُضُ الْعُرْفِ الْعَامِّ مَعَ النَّصِّ الْخَاصِّ",
+      "arabic": "إِذَا وَرَدَ عُرْفٌ عَامٌّ يُخَالِفُ نَصًّا قِيَاسِيًّا، فَقَدْ يُقَدَّمُ الْعُرْفُ عِنْدَ بَعْضِ الْأَئِمَّةِ لِلضَّرُورَةِ.",
+      "translation": "Apabila terdapat urf umum yang menyalahi nash yang bersifat qiyasi (analogi), maka terkadang urf didahulukan menurut sebagian imam karena alasan darurat."
+    },
+    {
+      "title": "Urf dalam Masalah Thaharah",
+      "titleArabic": "الْعُرْفُ فِي الطَّهَارَةِ",
+      "arabic": "يُعْتَبَرُ الْعُرْفُ فِي تَقْدِيرِ الْكَثِيرِ وَالْقَلِيلِ مِنَ النَّجَاسَاتِ الَّتِي يُعْفَى عَنْهَا.",
+      "translation": "Urf dipertimbangkan dalam menentukan kadar banyak atau sedikitnya najis yang dimaafkan."
+    },
+    {
+      "title": "Urf dalam Waktu Shalat",
+      "titleArabic": "الْعُرْفُ فِي أَوْقَاتِ الصَّلَاةِ",
+      "arabic": "تُعْرَفُ أَوقَاتُ الصَّلَاةِ بِالْعَلَامَاتِ الشَّرْعِيَّةِ، وَقَدْ يُعْتَبَرُ الْعُرْفُ فِي تَحْدِيدِ اصْطِلَاحَاتِ النَّاسِ عَنْهَا.",
+      "translation": "Waktu-waktu shalat diketahui dengan tanda-tanda syar'i, namun urf dapat dipertimbangkan dalam menentukan istilah-istilah manusia mengenainya."
+    },
+    {
+      "title": "Urf dalam Zakat Perhiasan",
+      "titleArabic": "الْعُرْفُ فِي زَكَاةِ الْحُلِيِّ",
+      "arabic": "يُعْتَبَرُ الْعُرْفُ فِي كَوْنِ الْحُلِيِّ لِلِاسْتِعْمَالِ أَوْ لِلِادِّخَارِ لِتَبَيُّنِ وُجُوبِ الزَّكَاةِ.",
+      "translation": "Urf dipertimbangkan dalam menentukan apakah perhiasan itu untuk dipakai atau disimpan demi memperjelas kewajiban zakatnya."
+    },
+    {
+      "title": "Urf dalam Penggunaan Air Fasilitas Umum",
+      "titleArabic": "الْعُرْفُ فِي اسْتِعْمَالِ الْمَاءِ",
+      "arabic": "الِانْتِفَاعُ بِالْمِيَاهِ الْعَامَّةِ مَبْنِيٌّ عَلَى الْعُرْفِ الَّذِي لَا يَضُرُّ بِالْآخَرِينَ.",
+      "translation": "Pemanfaatan air umum dibangun di atas urf yang tidak membahayakan orang lain."
+    },
+    {
+      "title": "Urf dalam Upah Buruh (Ujrah)",
+      "titleArabic": "الْعُرْفُ فِي أُجْرَةِ الْعُمَّالِ",
+      "arabic": "إِذَا لَمْ تُسَمَّ الْأُجْرَةُ، وَجَبَتْ أُجْرَةُ الْمِثْلِ بِنَاءً عَلَى عُرْفِ أَهْلِ الصِّنَاعَةِ.",
+      "translation": "Jika upah tidak disebutkan, maka wajib membayar upah mitsil berdasarkan urf para pelaku industri/pekerja."
+    },
+    {
+      "title": "Urf dalam Biaya Perawatan Bangunan",
+      "titleArabic": "الْعُرْفُ فِي نَفَقَاتِ الْعِمَارَةِ",
+      "arabic": "تُوَزَّعُ تِكَالِيفُ صِيَانَةِ الْجُدْرَانِ الْمُشْتَرَكَةِ حَسَبَ الْعُرْفِ الْجَارِي.",
+      "translation": "Biaya perawatan dinding bersama dibagikan sesuai dengan urf yang berlaku."
+    },
+    {
+      "title": "Urf dalam Adat Penguburan Jenazah",
+      "titleArabic": "الْعُرْفُ فِي دَفْنِ الْجَنَائِزِ",
+      "arabic": "مَا لَمْ يُخَالِفِ السُّنَّةَ، يُتَّبَعُ عُرْفُ أَهْلِ الْبَلَدِ فِي هَيْئَةِ الْقَبْرِ وَطَرِيقَةِ الْحَمْلِ.",
+      "translation": "Selama tidak menyalahi sunnah, maka diikuti urf penduduk negeri dalam bentuk kuburan dan cara mengusung jenazah."
+    },
+    {
+      "title": "Urf dalam Pembagian Air Irigasi",
+      "titleArabic": "الْعُرْفُ فِي قِسْمَةِ الْمِيَاهِ",
+      "arabic": "يُرْجَعُ إِلَى عُرْفِ الْمُزَارِعِينَ فِي تَرْتِيبِ سَقْيِ الْأَرَاضِي وَمُدَّتِهَا.",
+      "translation": "Dikembalikan kepada urf para petani dalam urutan pengairan lahan dan durasinya."
+    },
+    {
+      "title": "Urf dalam Pakaian (Kiswa)",
+      "titleArabic": "الْعُرْفُ فِي الْكِسْوَةِ",
+      "arabic": "تُقَدَّرُ كِسْوَةُ الزَّوْجَةِ وَالْخَادِمِ بِالْمَعْرُوفِ الْمُنَاسِبِ لِمِثْلِهِمَا.",
+      "translation": "Pakaian istri dan pembantu ditentukan dengan cara ma'ruf yang sesuai bagi orang semisal mereka."
+    },
+    {
+      "title": "Urf dalam Penentuan Batas Waktu (Muddah)",
+      "titleArabic": "الْعُرْفُ فِي تَحْدِيدِ الْمُدَدِ",
+      "arabic": "الْمُدَدُ الَّتِي لَمْ يُحَدِّدْهَا الشَّرْعُ كَمُدَّةِ الطَّبْخِ أَوِ الْبِنَاءِ تُرْجَعُ إِلَى الْعُرْفِ.",
+      "translation": "Jangka waktu yang tidak ditentukan syariat, seperti durasi memasak atau membangun, dikembalikan kepada urf."
+    },
+    {
+      "title": "Urf dalam Istilah Perdagangan Tertentu",
+      "titleArabic": "الْعُرْفُ فِي اصْطِلَاحَاتِ التُّجَّارِ",
+      "arabic": "يُعْتَبَرُ عُرْفُ كُلِّ طَائِفَةٍ فِي مُعَامَلَاتِهِمْ وَفَهْمِ عُقُودِهِمْ.",
+      "translation": "Urf setiap kelompok dipertimbangkan dalam muamalah mereka dan pemahaman akad-akad mereka."
+    },
+    {
+      "title": "Kaidah: At-Ta'yinu bil 'Urfi kat-Ta'yini bin-Nash",
+      "titleArabic": "التَّعْيِينُ بِالْعُرْفِ كَالتَّعْيِينِ بِالنَّصِّ",
+      "arabic": "مَا تَعَيَّنَ بِالْعُرْفِ فَهُوَ بِمَنْزِلَةِ مَا تَعَيَّنَ بِالنَّصِّ الشَّرْعِيِّ فِي لُزُومِ الْعَمَلِ بِهِ.",
+      "translation": "Apa yang ditentukan oleh urf kedudukannya sama dengan apa yang ditentukan oleh nash syar'i dalam hal kewajiban mengamalkannya."
+    },
+    {
+      "title": "Urf dalam Masalah Persusuan (Rada')",
+      "titleArabic": "الْعُرْفُ فِي الرَّضَاعِ",
+      "arabic": "يُعْتَبَرُ الْعُرْفُ فِي تَقْدِيرِ أُجْرَةِ الْمُرْضِعَةِ عِنْدَ عَدَمِ الِاتِّفَاقِ.",
+      "translation": "Urf dipertimbangkan dalam menentukan upah ibu susuan ketika tidak terjadi kesepakatan."
+    },
+    {
+      "title": "Urf dalam Menentukan Kedewasaan (Bulugh)",
+      "titleArabic": "الْعُرْفُ فِي عَلَامَاتِ الْبُلُوغِ",
+      "arabic": "تُعْتَبَرُ الْعَلَامَاتُ الشَّرْعِيَّةُ، وَيُرْجَعُ لِلْعُرْفِ فِي تَصَرُّفَاتِ مَنْ قَارَبَ الْبُلُوغَ.",
+      "translation": "Tanda-tanda syar'i dipertimbangkan, dan dirujuk pada urf dalam tindakan hukum bagi mereka yang mendekati usia baligh."
+    },
+    {
+      "title": "Urf dalam Kesaksian (Syahadah)",
+      "titleArabic": "الْعُرْفُ فِي الشَّهَادَةِ",
+      "arabic": "يُؤْخَذُ بِعُرْفِ النَّاسِ فِي شُرُوطِ الْعَدَالَةِ وَمَا يُسْقِطُهَا مِنَ الْمُرُوءَةِ.",
+      "translation": "Diambil dari urf manusia dalam syarat-syarat keadilan (saksi) dan apa yang menggugurkannya dari segi muruah (kehormatan)."
+    },
+    {
+      "title": "Urf dalam Masalah Hibah",
+      "titleArabic": "الْعُرْفُ فِي الْهِبَةِ",
+      "arabic": "يُحْمَلُ قَبْضُ الْهِبَةِ عَلَى مَا يَتَعَارَفُهُ النَّاسُ حَسَبَ نَوْعِ الْمَوْهُوبِ.",
+      "translation": "Serah terima (qabd) hibah dibawa kepada apa yang dikenal manusia sesuai dengan jenis barang yang dihibahkan."
+    },
+    {
+      "title": "Urf dalam Perhiasan Rumah (Atsats)",
+      "titleArabic": "الْعُرْفُ فِي أَثَاثِ الْبَيْتِ",
+      "arabic": "عِنْدَ الِاخْتِلَافِ بَيْنَ الزَّوْجَيْنِ فِي مَتَاعِ الْبَيْتِ، يُعْتَبَرُ الْعُرْفُ فِي مَعْرِفَةِ مَا يَصْلُحُ لِلرَّجُلِ وَمَا يَصْلُحُ لِلْمَرْأَةِ.",
+      "translation": "Saat terjadi perselisihan antara suami istri mengenai perabotan rumah, urf dipertimbangkan untuk mengetahui mana yang pantas bagi laki-laki dan mana yang pantas bagi wanita."
+    },
+    {
+      "title": "Khatimah: Ringkasan Fatwa Berdasarkan Urf",
+      "titleArabic": "الْخَاتِمَةُ: خُلَاصَةُ الْفَتْوَى عَلَى الْعُرْفِ",
+      "arabic": "وَالْحَاصِلُ أَنَّ الْعُرْفَ دَلِيلٌ مُعْتَبَرٌ، وَعَلَى الْمُفْتِي أَنْ لَا يَجْمُدَ عَلَى الْمَنْقُولِ فِي الْكُتُبِ مَعَ تَغَيُّرِ الْعُرْفِ.",
+      "translation": "Kesimpulannya adalah bahwa Urf merupakan dalil yang diakui, dan bagi seorang mufti hendaknya tidak kaku pada apa yang tertulis dalam kitab-kitab sementara urf telah berubah."
+    }
+  ]
+}
