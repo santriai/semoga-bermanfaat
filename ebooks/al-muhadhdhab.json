@@ -1,0 +1,452 @@
+{
+  "profile": {
+    "name": "Al-Muhadhdhab",
+    "originalTitle": "الْمُهَذَّبُ فِي فِقْهِ الْإِمَامِ الشَّافِعِيِّ",
+    "author": "Abu Ishaq Ibrahim bin Ali al-Syirazi (أَبُو إِسْحَاقَ الشِّيرَازِيُّ)",
+    "field": "Fiqih (Mazhab Syafi'i)",
+    "about": "Kitab Al-Muhadhdhab merupakan salah satu pilar utama dalam mazhab Syafi'i yang disusun oleh Imam Abu Ishaq al-Syirazi. Kitab ini dikenal karena metodenya yang sistematis dalam menyajikan dalil baik dari Al-Qur'an, Hadits, maupun nalar fiqih yang mendalam. Kitab ini menjadi rujukan primer bagi para ulama muta'akhkhirin dan menjadi dasar bagi penulisan kitab Al-Majmu' Syarh al-Muhadhdhab oleh Imam al-Nawawi. Al-Muhadhdhab membahas seluruh cakupan hukum Islam mulai dari ibadah, muamalah, munakahat, hingga jinayat dengan argumentasi yang kuat. Pengaruhnya sangat luas di dunia Islam, khususnya di lembaga-lembaga pendidikan Islam tradisional (Pesantren).",
+    "authorBorn": "393 H / 1003 M di Firuzabad, Syiraz",
+    "authorDied": "476 H / 1083 M di Baghdad",
+    "authorCentury": "Abad ke-5 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Mukadimah (Khutbah al-Kitab)",
+      "titleArabic": "خُطْبَةُ الْكِتَابِ",
+      "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ، وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَآلِهِ أَجْمَعِينَ. قَالَ الشَّيْخُ الْإِمَامُ أَبُو إِسْحَاقَ إِبْرَاهِيمُ بْنُ عَلِيِّ بْنِ يُوسُفَ الْفَيْرُوزَابَادِيُّ رَحِمَهُ اللَّهُ: سَأَلَنِي بَعْضُ إخْوَانِي أَنْ أُصَنِّفَ كِتَابًا فِي الْفِقْهِ عَلَى مَذْهَبِ الْإِمَامِ الشَّافِعِيِّ رَضِيَ اللَّهُ عَنْهُ، يُبَيِّنُ فِيهِ طُرُقَهُ، وَيُوضِحُ فِيهِ أَدِلَّتَهُ.",
+      "translation": "Segala puji bagi Allah, Tuhan semesta alam. Shalawat dan salam atas junjungan kita Nabi Muhammad dan keluarganya seluruhnya. Berkata Syaikh Imam Abu Ishaq Ibrahim bin Ali bin Yusuf al-Fairuzabadi rahimahullah: Sebagian saudaraku memintaku untuk menyusun kitab fiqih berdasarkan mazhab Imam Syafi'i radhiyallahu 'anhu, yang menjelaskan jalan-jalannya dan menerangkan dalil-dalilnya."
+    },
+    {
+      "title": "Kitab Thaharah - Bab Jenis-Jenis Air",
+      "titleArabic": "كِتَابُ الطَّهَارَةِ - بَابُ الْمِيَاهِ",
+      "arabic": "الْمِيَاهُ الَّتِي يَجُوزُ بِهَا التَّطْهِيرُ سَبْعُ مِيَاهٍ: مَاءُ السَّمَاءِ، وَمَاءُ الْبَحْرِ، وَمَاءُ النَّهْرِ، وَمَاءُ الْبِئْرِ، وَمَاءُ الْعَيْنِ، وَمَاءُ الثَّلْجِ، وَمَاءُ الْبَرَدِ. ثُمَّ الْمِيَاهُ عَلَى أَرْبَعَةِ أَقْسَامٍ: طَاهِرٌ مُطَهِّرٌ غَيْرُ مَكْرُوهٍ، وَهُوَ الْمَاءُ الْمُطْلَقُ.",
+      "translation": "Air yang dapat digunakan untuk bersuci ada tujuh: air langit (hujan), air laut, air sungai, air sumur, air sumber, air salju, dan air embun. Kemudian air terbagi menjadi empat bagian: suci menyucikan dan tidak makruh, yaitu air mutlak."
+    },
+    {
+      "title": "Bab Bejana (Al-Aniyah)",
+      "titleArabic": "بَابُ الْأَانِيَةِ",
+      "arabic": "وَيَجُوزُ اسْتِعْمَالُ كُلِّ إنَاءٍ طَاهِرٍ، إلَّا إنَاءَ الذَّهَبِ وَالْفِضَّةِ، فَإِنَّهُ يَحْرُمُ اسْتِعْمَالُهُمَا وَاتِّخَاذُهُمَا.",
+      "translation": "Boleh menggunakan setiap bejana yang suci, kecuali bejana dari emas dan perak, karena sesungguhnya haram menggunakan keduanya dan menyimpannya."
+    },
+    {
+      "title": "Bab Siwak dan Fitrah",
+      "titleArabic": "بَابُ السِّوَاكِ وَخِصَالِ الْفِطْرَةِ",
+      "arabic": "السِّوَاكُ مُسْتَحَبٌّ فِي كُلِّ حَالٍ إلَّا بَعْدَ الزَّوَالِ لِلصَّائِمِ، وَهُوَ فِي ثَلَاثَةِ مَوَاضِعَ أَشَدُّ اسْتِحْبَابًا: عِنْدَ تَغَيُّرِ الْفَمِ، وَعِنْدَ الْقِيَامِ مِنْ النَّوْمِ، وَعِنْدَ الْقِيَامِ إلَى الصَّلَاةِ.",
+      "translation": "Bersiwak disunnahkan dalam setiap kondisi kecuali setelah tergelincirnya matahari bagi orang yang berpuasa. Bersiwak lebih ditekankan sunnahnya pada tiga tempat: saat bau mulut berubah, saat bangun tidur, dan saat hendak mendirikan shalat."
+    },
+    {
+      "title": "Bab Wudu (Fardhu-fardhu Wudu)",
+      "titleArabic": "بَابُ الْوُضُوءِ - فُرُوضُ الْوُضُوءِ",
+      "arabic": "وَفُرُوضُ الْوُضُوءِ سِتَّةٌ: النِّيَّةُ عِنْدَ غَسْلِ الْوَجْهِ، وَغَسْلُ الْوَجْهِ، وَغَسْلُ الْيَدَيْنِ إلَى الْمِرْفَقَيْنِ، وَمَسْحُ شَيْءٍ مِنْ الرَّأْسِ، وَغَسْلُ الرِّجْلَيْنِ إلَى الْكَعْبَيْنِ، وَالتَّرْتِيبُ.",
+      "translation": "Fardhu-fardhu wudu ada enam: Niat saat membasuh wajah, membasuh wajah, membasuh kedua tangan sampai siku, mengusap sebagian kepala, membasuh kedua kaki sampai mata kaki, dan tertib."
+    },
+    {
+      "title": "Bab Mengusap Dua Khuff",
+      "titleArabic": "بَابُ الْمَسْحِ عَلَى الْخُفَّيْنِ",
+      "arabic": "وَيَجُوزُ الْمَسْحُ عَلَى الْخُفَّيْنِ فِي الْحَضَرِ وَالسَّفَرِ بِشَرَائِطَ: أَنْ يَبْتَدِئَ لُبْسَهُمَا بَعْدَ كَمَالِ الطَّهَارَةِ، وَأَنْ يَكُونَا سَاتِرَيْنِ لِمَحَلِّ الْفَرْضِ.",
+      "translation": "Boleh mengusap dua khuff dalam keadaan mukim maupun safar dengan beberapa syarat: mulai memakainya setelah suci sempurna, dan keduanya harus menutupi bagian yang wajib dibasuh (kaki)."
+    },
+    {
+      "title": "Bab Perkara yang Membatalkan Wudu",
+      "titleArabic": "بَابُ مَا يَنْقُضُ الْوُضُوءَ",
+      "arabic": "وَاَلَّذِي يَنْقُضُ الْوُضُوءَ خَمْسَةُ أَشْيَاءَ: مَا خَرَجَ مِنْ السَّبِيلَيْنِ، وَالنَّوْمُ، وَزَوَالُ الْعَقْلِ، وَلَمْسُ الرَّجُلِ الْمَرْأَةَ الْأَجْنَبِيَّةَ، وَمَسُّ فَرْجِ الْآدَمِيِّ.",
+      "translation": "Perkara yang membatalkan wudu ada lima: apa saja yang keluar dari dua jalan (kemaluan), tidur, hilang akal, bersentuhan laki-laki dengan perempuan bukan mahram, dan menyentuh kemaluan manusia."
+    },
+    {
+      "title": "Bab Mandi Besar (Al-Ghusl)",
+      "titleArabic": "بَابُ الْغُسْلِ",
+      "arabic": "وَمُوجِبَاتُ الْغُسْلِ سِتَّةٌ: ثَلَاثَةٌ تَشْتَرِكُ فِيهَا الرِّجَالُ وَالنِّسَاءُ، وَهِيَ الْتِقَاءُ الْخِتَانَيْنِ، وَإِنْزَالُ الْمَنِيِّ، وَالْمَوْتُ. وَثَلَاثَةٌ تَخْتَصُّ بِهَا النِّسَاءُ، وَهِيَ الْحَيْضُ، وَالنِّفَاسُ، وَالْوِلَادَةُ.",
+      "translation": "Perkara yang mewajibkan mandi ada enam: tiga dialami bersama oleh laki-laki dan perempuan, yaitu bertemunya dua alat kelamin, keluarnya mani, dan kematian. Tiga khusus bagi perempuan, yaitu haid, nifas, dan melahirkan."
+    },
+    {
+      "title": "Bab Tayamum",
+      "titleArabic": "بَابُ التَّيَمُّمِ",
+      "arabic": "وَشَرَائِطُ التَّيَمُّمِ خَمْسَةُ أَشْيَاءَ: وُجُودُ الْعُذْرِ بِسَفَرٍ أَوْ مَرَضٍ، وَدُخُولُ وَقْتِ الصَّلَاةِ، وَطَلَبُ الْمَاءِ، وَتَعَذُّرُ اسْتِعْمَالِهِ، وَالتُّرَابُ الطَّاهِرُ.",
+      "translation": "Syarat-syarat tayamum ada lima perkara: adanya uzur karena perjalanan atau sakit, masuknya waktu shalat, mencari air, sulitnya menggunakan air, dan adanya debu yang suci."
+    },
+    {
+      "title": "Bab Menghilangkan Najis",
+      "titleArabic": "بَابُ إزَالَةِ النَّجَاسَةِ",
+      "arabic": "النَّجَاسَةُ قِسْمَانِ: نَجَاسَةٌ مُخَفَّفَةٌ، وَهِيَ بَوْلُ الصَّبِيِّ الَّذِي لَمْ يَأْكُلْ الطَّعَامَ، وَنَجَاسَةٌ مُغَلَّظَةٌ، وَهِيَ نَجَاسَةُ الْكَلْبِ وَالْخِنْزِيرِ.",
+      "translation": "Najis terbagi dua: najis ringan (mukhaffafah), yaitu air kencing bayi laki-laki yang belum makan makanan, dan najis berat (mughallazah), yaitu najis anjing dan babi."
+    },
+    {
+      "title": "Bab Haid",
+      "titleArabic": "بَابُ الْحَيْضِ",
+      "arabic": "أَقَلُّ الْحَيْضِ يَوْمٌ وَلَيْلَةٌ، وَأَكْثَرُهُ خَمْسَةَ عَشَرَ يَوْمًا، وَغَالِبُهُ سِتٌّ أَوْ سَبْعٌ.",
+      "translation": "Masa minimal haid adalah sehari semalam, maksimal lima belas hari, dan umumnya enam atau tujuh hari."
+    },
+    {
+      "title": "Kitab Shalat - Waktu-waktu Shalat",
+      "titleArabic": "كِتَابُ الصَّلَاةِ - بَابُ الْمَوَاقِيتِ",
+      "arabic": "أَوَّلُ وَقْتِ الظُّهْرِ زَوَالُ الشَّمْسِ، وَآخِرُهُ إذَا صَارَ ظِلُّ كُلِّ شَيْءٍ مِثْلَهُ بَعْدَ ظِلِّ الزَّوَالِ.",
+      "translation": "Awal waktu Dzuhur adalah tergelincirnya matahari, dan akhirnya adalah ketika bayangan setiap benda sama panjangnya dengan benda tersebut setelah bayangan saat matahari tepat di atas kepala."
+    },
+    {
+      "title": "Bab Syarat-Syarat Shalat",
+      "titleArabic": "بَابُ شُرُوطِ الصَّلَاةِ",
+      "arabic": "وَشَرَائِطُ الصَّلَاةِ قَبْلَ الدُّخُولِ فِيهَا خَمْسَةٌ: طَهَارَةُ الْأَعْضَاءِ، وَسَتْرُ الْعَوْرَةِ، وَالْوُقُوفُ عَلَى مَكَان طَاهِرٍ، وَالْعِلْمُ بِدُخُولِ الْوَقْتِ، وَاسْتِقْبَالُ الْقِبْلَةِ.",
+      "translation": "Syarat-syarat shalat sebelum memulainya ada lima: sucinya anggota badan, menutup aurat, berdiri di tempat yang suci, mengetahui masuknya waktu, dan menghadap kiblat."
+    },
+    {
+      "title": "Bab Rukun-Rukun Shalat",
+      "titleArabic": "بَابُ صِفَةِ الصَّلَاةِ - أَرْكَانُ الصَّلَاةِ",
+      "arabic": "أَرْكَانُ الصَّلَاةِ ثَمَانِيَةَ عَشَرَ: النِّيَّةُ، وَتَكْبِيرَةُ الْإِحْرَامِ، وَالْقِيَامُ، وَقِرَاءَةُ الْفَاتِحَةِ، وَالرُّكُوعُ، وَالطُّمَأْنِينَةُ فِيهِ...",
+      "translation": "Rukun-rukun shalat ada delapan belas: Niat, Takbiratul Ihram, berdiri (bagi yang mampu), membaca Al-Fatihah, Ruku', thuma'ninah di dalamnya..."
+    },
+    {
+      "title": "Bab Sujud Sahwi",
+      "titleArabic": "بَابُ سُجُودِ السَّهْوِ",
+      "arabic": "سُجُودُ السَّهْوِ سُنَّةٌ، وَمَحَلُّهُ قَبْلَ السَّلَامِ، وَيُسْجَدُ لِزِيَادَةٍ أَوْ نَقْصٍ أَوْ شَكٍّ.",
+      "translation": "Sujud sahwi adalah sunnah, tempatnya adalah sebelum salam, dan dilakukan karena adanya kelebihan, kekurangan, atau keraguan dalam shalat."
+    },
+    {
+      "title": "Bab Shalat Berjamaah",
+      "titleArabic": "بَابُ صَلَاةِ الْجَمَاعَةِ",
+      "arabic": "صَلَاةُ الْجَمَاعَةِ سُنَّةٌ مُؤَكَّدَةٌ فِي غَيْرِ الْجُمُعَةِ، وَالْجُمُعَةُ لَا تَنْعَقِدُ إلَّا جَمَاعَةً.",
+      "translation": "Shalat berjamaah adalah sunnah muakkadah pada selain shalat Jumat, sedangkan shalat Jumat tidak sah kecuali dilakukan secara berjamaah."
+    },
+    {
+      "title": "Bab Shalat Musafir (Qashar dan Jamak)",
+      "titleArabic": "بَابُ صَلَاةِ الْمُسَافِرِ",
+      "arabic": "يَجُوزُ لِلْمُسَافِرِ قَصْرُ الصَّلَاةِ الرُّبَاعِيَّةِ بِشُرُوطٍ: أَنْ يَكُونَ سَفَرُهُ فِي غَيْرِ مَعْصِيَةٍ، وَأَنْ يَكُونَ مَقْصِدُهُ سِتَّةَ عَشَرَ فَرْسَخًا.",
+      "translation": "Boleh bagi musafir meng-qashar shalat yang empat rakaat dengan syarat: perjalanannya bukan dalam maksiat, dan tujuannya sejauh enam belas farsakh."
+    },
+    {
+      "title": "Bab Shalat Jumat",
+      "titleArabic": "بَابُ صَلَاةِ الْجُمُعَةِ",
+      "arabic": "شُرُوطُ وُجُوبِ الْجُمُعَةِ سَبْعَةٌ: الْإِسْلَامُ، وَالْبُلُوغُ، وَالْعَقْلُ، وَالْحُرِّيَّةُ، وَالذُّكُورِيَّةُ، وَالصِّحَّةُ، وَالِاسْتِيطَانُ.",
+      "translation": "Syarat wajibnya Jumat ada tujuh: Islam, Baligh, Berakal, Merdeka, Laki-laki, Sehat, dan Bertempat tinggal tetap (Mukim)."
+    },
+    {
+      "title": "Bab Shalat Khauf (Dalam Ketakutan)",
+      "titleArabic": "بَابُ صَلَاةِ الْخَوْفِ",
+      "arabic": "صَلَاةُ الْخَوْفِ عَلَى ثَلَاثَةِ أَنْوَاعٍ: أَنْ يَكُونَ الْعَدُوُّ فِي غَيْرِ جِهَةِ الْقِبْلَةِ، أَوْ فِي جِهَةِ الْقِبْلَةِ، أَوْ فِي شِدَّةِ الْخَوْفِ.",
+      "translation": "Shalat Khauf (dalam ketakutan) ada tiga jenis: musuh berada di selain arah kiblat, musuh berada di arah kiblat, atau saat ketakutan yang sangat memuncak."
+    },
+    {
+      "title": "Bab Pakaian yang Diharamkan",
+      "titleArabic": "بَابُ مَا يَحْرُمُ لُبْسُهُ",
+      "arabic": "يَحْرُمُ عَلَى الرِّجَالِ لُبْسُ الْحَرِيرِ وَالتَّخَتُّمُ بِالذَّهَبِ، وَيَحِلُّ ذَلِكَ لِلنِّسَاءِ.",
+      "translation": "Haram bagi laki-laki memakai sutera dan memakai cincin emas, dan hal itu halal bagi perempuan."
+    },
+    {
+      "title": "Bab Shalat Dua Hari Raya",
+      "titleArabic": "بَابُ صَلَاةِ الْعِيدَيْنِ",
+      "arabic": "صَلَاةُ الْعِيدَيْنِ سُنَّةٌ مُؤَكَّدَةٌ، وَتُصَلَّى جَمَاعَةً، وَيُكَبَّرُ فِي الْأُولَى سَبْعًا وَفِي الثَّانِيَةِ خَمْسًا.",
+      "translation": "Shalat dua hari raya adalah sunnah muakkadah, dikukuhkan, dilaksanakan secara berjamaah, bertakbir di rakaat pertama tujuh kali dan di rakaat kedua lima kali."
+    },
+    {
+      "title": "Bab Shalat Gerhana",
+      "titleArabic": "بَابُ صَلَاةِ الْكُسُوفِ",
+      "arabic": "صَلَاةُ الْكُسُوفِ سُنَّةٌ مُؤَكَّدَةٌ، وَهِيَ رَكْعَتَانِ فِي كُلِّ رَكْعَةٍ قِيَامَانِ وَرُكُوعَانِ.",
+      "translation": "Shalat gerhana adalah sunnah muakkadah, terdiri dari dua rakaat, di setiap rakaat terdapat dua kali berdiri dan dua kali ruku'."
+    },
+    {
+      "title": "Bab Shalat Istisqa (Minta Hujan)",
+      "titleArabic": "بَابُ صَلَاةِ الِاسْتِسْقَاءِ",
+      "arabic": "صَلَاةُ الِاسْتِسْقَاءِ مَسْنُونَةٌ، وَيَخْرُجُ النَّاسُ إلَيْهَا فِي ثِيَابِ تَبَذُّلٍ وَتَخَشُّعٍ.",
+      "translation": "Shalat Istisqa disunnahkan, dan orang-orang keluar melaksanakannya dengan pakaian yang sederhana dan penuh kekhusyukan."
+    },
+    {
+      "title": "Kitab Jenazah",
+      "titleArabic": "كِتَابُ الْجَنَائِزِ",
+      "arabic": "يَلْزَمُ فِي الْمَيِّتِ أَرْبَعَةُ أَشْيَاءَ: غُسْلُهُ، وَتَكْفِينُهُ، وَالصَّلَاةُ عَلَيْهِ، وَدَفْنُهُ.",
+      "translation": "Wajib terhadap jenazah empat perkara: memandikannya, mengkafaninya, menshalatinya, dan menguburkannya."
+    },
+    {
+      "title": "Kitab Zakat",
+      "titleArabic": "كِتَابُ الزَّكَاةِ",
+      "arabic": "تَجِبُ الزَّكَاةُ فِي خَمْسَةِ أَشْيَاءَ: الْأَنْعَامِ، وَالْأَثْمَانِ، وَالزُّرُوعِ، وَالثِّمَارِ، وَعُرُوضِ التِّجَارَةِ.",
+      "translation": "Zakat wajib pada lima perkara: hewan ternak, emas dan perak (uang), tanaman, buah-buahan, dan harta dagangan."
+    },
+    {
+      "title": "Bab Zakat Hewan Ternak",
+      "titleArabic": "بَابُ زَكَاةِ الْأَنْعَامِ",
+      "arabic": "لَا تَجِبُ الزَّكَاةُ فِي شَيْءٍ مِنْ الْأَنْعَامِ حَتَّى تَبْلُغَ نِصَابًا وَيَحُولَ عَلَيْهَا الْحَوْلُ.",
+      "translation": "Zakat tidak wajib pada hewan ternak apa pun hingga mencapai nishab dan telah melewati masa satu tahun (haul)."
+    },
+    {
+      "title": "Bab Zakat Emas dan Perak",
+      "titleArabic": "بَابُ زَكَاةِ الذَّهَبِ وَالْفِضَّةِ",
+      "arabic": "نِصَابُ الذَّهَبِ عِشْرُونَ مِثْقَالًا، وَفِيهِ رُبُعُ الْعُشْرِ، وَنِصَابُ الْفِضَّةِ مِائَتَا دِرْهَمٍ.",
+      "translation": "Nishab emas adalah dua puluh mitsqal, di dalamnya wajib zakat seperempat dari sepuluh (2,5%), dan nishab perak adalah dua ratus dirham."
+    },
+    {
+      "title": "Bab Zakat Fitrah",
+      "titleArabic": "بَابُ زَكَاةِ الْفِطْرِ",
+      "arabic": "تَجِبُ زَكَاةُ الْفِطْرِ بِغُرُوبِ الشَّمْسِ مِنْ آخِرِ يَوْمٍ مِنْ شَهْرِ رَمَضَانَ، وَقَدْرُهَا صَاعٌ مِنْ قُوتِ الْبَلَدِ.",
+      "translation": "Zakat fitrah wajib dengan terbenamnya matahari pada hari terakhir bulan Ramadhan, besarnya adalah satu sha' dari makanan pokok daerah setempat."
+    },
+    {
+      "title": "Bab Pembagian Zakat (Mustahiq)",
+      "titleArabic": "بَابُ قَسْمِ الصَّدَقَاتِ",
+      "arabic": "تُدْفَعُ الزَّكَاةُ إلَى الْأَصْنَافِ الثَّمَانِيَةِ الَّذِينَ ذَكَرَهُمْ اللَّهُ تَعَالَى فِي كِتَابِهِ الْعَزِيزِ.",
+      "translation": "Zakat dibayarkan kepada delapan golongan yang telah disebutkan Allah Ta'ala dalam kitab-Nya yang mulia."
+    },
+    {
+      "title": "Kitab Puasa",
+      "titleArabic": "كِتَابُ الصِّيَامِ",
+      "arabic": "يَجِبُ صَوْمُ رَمَضَانَ بِكَمَالِ شَعْبَانَ أَوْ رُؤْيَةِ الْهِلَالِ، وَفُرُوضُهُ النِّيَّةُ وَالْإِمْسَاكُ عَنْ الْمُفْطِرَاتِ.",
+      "translation": "Puasa Ramadhan wajib dengan menyempurnakan bulan Sya'ban atau melihat hilal. Fardhu-fardhunya adalah niat dan menahan diri dari hal-hal yang membatalkan."
+    },
+    {
+      "title": "Bab I'tikaf",
+      "titleArabic": "بَابُ الِاعْتِكَافِ",
+      "arabic": "الِاعْتِكَافُ سُنَّةٌ مُسْتَحَبَّةٌ، وَشَرْطُهُ النِّيَّةُ وَاللُّبْثُ فِي الْمَسْجِدِ.",
+      "translation": "I'tikaf adalah sunnah yang dianjurkan, syaratnya adalah niat dan berdiam diri di dalam masjid."
+    },
+    {
+      "title": "Kitab Haji dan Umrah",
+      "titleArabic": "كِتَابُ الْحَجِّ",
+      "arabic": "الْحَجُّ وَالْعُمْرَةُ فَرْضَانِ عَلَى الْمُسْتَطِيعِ مَرَّةً فِي الْعُمْرِ، وَأَرْكَانُ الْحَجِّ خَمْسَةٌ: الْإِحْرَامُ، وَالْوُقُوفُ بِعَرَفَةَ، وَالطَّوَافُ، وَالسَّعْيُ، وَالْحَلْقُ.",
+      "translation": "Haji dan Umrah adalah fardhu bagi yang mampu sekali seumur hidup. Rukun haji ada lima: Ihram, Wukuf di Arafah, Thawaf, Sa'i, dan Mencukur rambut."
+    },
+    {
+      "title": "Kitab Jual Beli (Al-Buyu')",
+      "titleArabic": "كِتَابُ الْبُيُوعِ",
+      "arabic": "الْبَيْعُ يَنْعَقِدُ بِالْإِيجَابِ وَالْقَبُولِ، وَيَجِبُ أَنْ يَكُونَ الْمَبِيعُ طَاهِرًا مَنْتَفَعًا بِهِ مَقْدُورًا عَلَى تَسْلِيمِهِ.",
+      "translation": "Jual beli sah dengan ijab dan qabul, dan barang yang dijual haruslah suci, bermanfaat, dan dapat diserahterimakan."
+    },
+    {
+      "title": "Bab Riba",
+      "titleArabic": "بَابُ الرِّبَا",
+      "arabic": "الرِّبَا يَحْرُمُ فِي الذَّهَبِ وَالْفِضَّةِ وَالْمَطْعُومَاتِ، وَلَا يَجُوزُ بَيْعُ الْجِنْسِ بِجِنْسِهِ إلَّا مِثْلًا بِمِثْلٍ يَدًا بِيَدٍ.",
+      "translation": "Riba diharamkan pada emas, perak, dan makanan. Tidak boleh menjual sejenis dengan jenis yang sama kecuali dalam ukuran yang sama dan serah terima secara langsung."
+    },
+    {
+      "title": "Bab Khiyar (Opsi Pembatalan)",
+      "titleArabic": "بَابُ الْخِيَارِ",
+      "arabic": "الْمُتَبَايِعَانِ بِالْخِيَارِ مَا لَمْ يَتَفَرَّقَا، وَهُوَ خِيَارُ الْمَجْلِسِ، وَيَجُوزُ شَرْطُ الْخِيَارِ إلَى ثَلَاثَةِ أَيَّامٍ.",
+      "translation": "Dua orang yang berjual-beli memiliki hak khiyar selama belum berpisah (khiyar majelis), dan boleh mensyaratkan khiyar hingga tiga hari."
+    },
+    {
+      "title": "Bab Salam (Pesanan)",
+      "titleArabic": "بَابُ السَّلَمِ",
+      "arabic": "يَصِحُّ السَّلَمُ فِيمَا يُضْبَطُ بِالصِّفَةِ، وَيَجِبُ تَقْدِيمُ الثَّمَنِ فِي الْمَجْلِسِ.",
+      "translation": "Sah melakukan akad salam (pesanan) pada barang yang bisa ditentukan sifatnya, dan wajib menyerahkan harga (pembayaran) di tempat akad."
+    },
+    {
+      "title": "Bab Gadai (Al-Rahn)",
+      "titleArabic": "بَابُ الرَّهْنِ",
+      "arabic": "الرَّهْنُ جَائِزٌ فِي الْحَضَرِ وَالسَّفَرِ، وَيَلْزَمُ بِالْقَبْضِ.",
+      "translation": "Gadai diperbolehkan baik dalam keadaan mukim maupun safar, dan menjadi sah (mengikat) dengan serah terima barang."
+    },
+    {
+      "title": "Bab Pailit (Al-Tafis)",
+      "titleArabic": "بَابُ التَّفْلِيسِ",
+      "arabic": "إذَا زَادَتْ دُيُونُ الرَّجُلِ عَلَى مَالِهِ فَلِلْغُرَمَاءِ أَنْ يَسْأَلُوا الْحَاكِمَ الْحَجْرَ عَلَيْهِ.",
+      "translation": "Apabila utang seseorang lebih besar dari hartanya, maka para kreditur boleh meminta hakim untuk menetapkan status hajru (pembatasan tindakan hukum) atasnya."
+    },
+    {
+      "title": "Bab Perdamaian (Al-Sulh)",
+      "titleArabic": "بَابُ الصُّلْحِ",
+      "arabic": "الصُّلْحُ جَائِزٌ بَيْنَ الْمُسْلِمِينَ إلَّا صُلْحًا أَحَلَّ حَرَامًا أَوْ حَرَّمَ حَلَالًا.",
+      "translation": "Perdamaian diperbolehkan di antara kaum muslimin, kecuali perdamaian yang menghalalkan yang haram atau mengharamkan yang halal."
+    },
+    {
+      "title": "Bab Pemindahan Utang (Al-Hawalah)",
+      "titleArabic": "بَابُ الْحَوَالَةِ",
+      "arabic": "تَصِحُّ الْحَوَالَةُ بِشُرُوطٍ مِنْهَا رِضَا الْمُحِيلِ وَاتِّفَاقُ الدَّيْنَيْنِ.",
+      "translation": "Pemindahan utang (hiwalah) sah dengan beberapa syarat, di antaranya kerelaan orang yang memindahkan utang dan kesamaan kedua jenis utang tersebut."
+    },
+    {
+      "title": "Bab Jaminan (Al-Daman)",
+      "titleArabic": "بَابُ الضَّمَانِ",
+      "arabic": "يَصِحُّ ضَمَانُ الدُّيُونِ الْمُسْتَقِرَّةِ فِي الذِّمَّةِ إذَا عُلِمَ قَدْرُهَا.",
+      "translation": "Sah menjamin utang-utang yang sudah tetap menjadi tanggungan apabila kadarnya telah diketahui."
+    },
+    {
+      "title": "Bab Serikat (Al-Sharikah)",
+      "titleArabic": "بَابُ الشَّرِكَةِ",
+      "arabic": "تَصِحُّ شَرِكَةُ الْعَنَانِ فِي الْأَمْوَالِ، وَيُشْتَرَطُ خَلْطُ الْمَالَيْنِ.",
+      "translation": "Sah berserikat (syirkah inan) dalam harta, dan disyaratkan percampuran kedua modal."
+    },
+    {
+      "title": "Bab Perwakilan (Al-Wakalah)",
+      "titleArabic": "بَابُ الْوَكَالَةِ",
+      "arabic": "كُلُّ مَا جَازَ لِلْإِنْسَانِ أَنْ يَتَصَرَّفَ فِيهِ بِنَفْسِهِ جَازَ لَهُ أَنْ يُوَكِّلَ فِيهِ غَيْرَهُ.",
+      "translation": "Segala hal yang boleh dilakukan manusia secara mandiri, maka boleh baginya untuk mewakilkannya kepada orang lain."
+    },
+    {
+      "title": "Bab Pengakuan (Al-Iqrar)",
+      "titleArabic": "بَابُ الْإِقْرَارِ",
+      "arabic": "يَصِحُّ الْإِقْرَارُ مِنْ الْبَالِغِ الْعَاقِلِ الْمُخْتَارِ، وَلَا يَصِحُّ إقْرَارُ الصَّبِيِّ وَالْمَجْنُونِ.",
+      "translation": "Sah pengakuan (ikrar) dari orang yang baligh, berakal, dan atas kehendak sendiri; tidak sah ikrar dari anak kecil dan orang gila."
+    },
+    {
+      "title": "Bab Pinjam Meminjam (Al-'Ariyah)",
+      "titleArabic": "بَابُ الْعَارِيَّةِ",
+      "arabic": "الْعَارِيَّةُ مَضْمُونَةٌ عَلَى الْمُسْتَعِيرِ بِقِيمَتِهَا يَوْمَ تَلَفِهَا.",
+      "translation": "Barang pinjaman dijamin oleh peminjam dengan nilainya pada hari terjadinya kerusakan (jika rusak)."
+    },
+    {
+      "title": "Bab Ghasab (Mengambil Tanpa Hak)",
+      "titleArabic": "بَابُ الْغَصْبِ",
+      "arabic": "مَنْ غَصَبَ مَالًا لِغَيْرِهِ لَزِمَهُ رَدُّهُ وَأَرْشُ نَقْصِهِ وَأُجْرَةُ مِثْلِهِ.",
+      "translation": "Barangsiapa mengambil harta orang lain tanpa hak, maka wajib baginya mengembalikan harta tersebut, mengganti kekurangannya, dan membayar upah sepadan."
+    },
+    {
+      "title": "Bab Syuf'ah",
+      "titleArabic": "بَابُ الشُّفْعَةِ",
+      "arabic": "الشُّفْعَةُ وَاجِبَةٌ لِلشَّرِيكِ فِي مَا لَمْ يُقْسَمْ، وَهِيَ عَلَى الْفَوْرِ.",
+      "translation": "Syuf'ah (hak membeli lebih dulu) wajib bagi rekan serikat pada properti yang belum dibagi, dan hak ini harus diambil segera."
+    },
+    {
+      "title": "Bab Qirad (Mudharabah)",
+      "titleArabic": "بَابُ الْقِرَاضِ",
+      "arabic": "الْقِرَاضُ أَنْ يَدْفَعَ إلَيْهِ مَالًا لِيَتَّجِرَ فِيهِ وَالرِّبْحُ بَيْنَهُمَا.",
+      "translation": "Qiradh adalah menyerahkan harta kepada seseorang untuk diperdagangkan dan keuntungan dibagi di antara keduanya."
+    },
+    {
+      "title": "Bab Musaqah (Pengairan Pohon)",
+      "titleArabic": "بَابُ الْمُسَاقَاةِ",
+      "arabic": "تَصِحُّ الْمُسَاقَاةُ عَلَى النَّخِيلِ وَالْأَعْنَابِ، وَتُقَدَّرُ بِمُدَّةٍ مَعْلُومَةٍ.",
+      "translation": "Sah melakukan musaqah (perjanjian pengairan) pada pohon kurma dan anggur, dan dibatasi dengan jangka waktu yang jelas."
+    },
+    {
+      "title": "Bab Sewa Menyewa (Al-Ijarah)",
+      "titleArabic": "بَابُ الْإِجَارَةِ",
+      "arabic": "تَصِحُّ الْإِجَارَةُ عَلَى مَنَافِعَ مَعْلُومَةٍ بِأُجْرَةٍ مَعْلُومَةٍ.",
+      "translation": "Sah sewa menyewa atas manfaat yang jelas dengan upah yang jelas pula."
+    },
+    {
+      "title": "Bab Menghidupkan Lahan Mati",
+      "titleArabic": "بَابُ إحْيَاءِ الْمَوَاتِ",
+      "arabic": "مَنْ أَحْيَا أَرْضًا مَيِّتَةً مَلَكَهَا، وَالْمَوَاتُ مَا لَيْسَ لَهُ مَالِكٌ وَلَا فِيهِ أَثَرُ عِمَارَةٍ.",
+      "translation": "Barangsiapa menghidupkan lahan yang mati maka ia memilikinya. Lahan mati adalah lahan yang tidak ada pemiliknya dan tidak ada bekas pembangunan."
+    },
+    {
+      "title": "Bab Wakaf",
+      "titleArabic": "بَابُ الْوَقْفِ",
+      "arabic": "الْوَقْفُ جَائِزٌ، وَهُوَ تَحْبِيسُ الْأَصْلِ وَتَسْبِيلُ الثَّمَرَةِ.",
+      "translation": "Wakaf diperbolehkan, yaitu menahan pokok harta dan menyedekahkan manfaat/hasilnya."
+    },
+    {
+      "title": "Bab Hibah (Pemberian)",
+      "titleArabic": "بَابُ الْهِبَةِ",
+      "arabic": "تَصِحُّ الْهِبَةُ بِالْقَبُولِ، وَلَا تُمْلَكُ إلَّا بِالْقَبْضِ.",
+      "translation": "Pemberian (hibah) sah dengan adanya penerimaan (qabul), dan tidak dimiliki secara sempurna kecuali dengan serah terima (qabdh)."
+    },
+    {
+      "title": "Bab Luqatah (Barang Temuan)",
+      "titleArabic": "بَابُ اللُّقَطَةِ",
+      "arabic": "إذَا وَجَدَ لُقَطَةً عَرَّفَهَا سَنَةً، فَإِنْ لَمْ تُعْرَفْ مَلَكَهَا.",
+      "translation": "Apabila menemukan barang temuan, maka harus mengumumkannya selama setahun. Jika tidak ditemukan pemiliknya, maka penemu boleh memilikinya."
+    },
+    {
+      "title": "Bab Laqit (Anak Temuan)",
+      "titleArabic": "بَابُ اللَّقِيطِ",
+      "arabic": "اللَّقِيطُ حُرٌّ، وَنَفَقَتُهُ فِي بَيْتِ الْمَالِ إنْ لَمْ يُوجَدْ لَهُ مَالٌ.",
+      "translation": "Anak temuan (laqit) adalah orang merdeka, dan nafaqahnya ditanggung oleh Baitul Mal jika ia tidak memiliki harta."
+    },
+    {
+      "title": "Bab Waris (Al-Fara'id)",
+      "titleArabic": "بَابُ الْفَرَائِضِ",
+      "arabic": "الْوَارِثُونَ مِنْ الرِّجَالِ عَشَرَةٌ، وَالْوَارِثَاتُ مِنْ النِّسَاءِ سَبْعٌ.",
+      "translation": "Ahli waris dari golongan laki-laki ada sepuluh, dan ahli waris dari golongan perempuan ada tujuh."
+    },
+    {
+      "title": "Bab Wasiat",
+      "titleArabic": "بَابُ الْوَصَايَا",
+      "arabic": "تَصِحُّ الْوَصِيَّةُ لِغَيْرِ وَارِثٍ بِالثُّلُثِ فَأَقَلَّ.",
+      "translation": "Sah wasiat kepada selain ahli waris maksimal sepertiga dari harta atau kurang dari itu."
+    },
+    {
+      "title": "Bab Titipan (Al-Wadi'ah)",
+      "titleArabic": "بَابُ الْوَدِيعَةِ",
+      "arabic": "الْوَدِيعَةُ أَمَانَةٌ فِي يَدِ الْمُسْتَوْدَعِ، لَا يَضْمَنُهَا إلَّا بِالتَّعَدِّي.",
+      "translation": "Barang titipan adalah amanah di tangan penerima titipan, ia tidak menjamin kerusakannya kecuali karena kecerobohan."
+    },
+    {
+      "title": "Kitab Nikah",
+      "titleArabic": "كِتَابُ النِّكَاحِ",
+      "arabic": "النِّكَاحُ مُسْتَحَبٌّ لِمَنْ يَحْتَاجُ إلَيْهِ، وَلَا يَنْعَقِدُ إلَّا بِوَلِيٍّ وَشَاهِدَيْ عَدْلٍ.",
+      "translation": "Nikah disunnahkan bagi yang membutuhkannya, dan tidak sah kecuali dengan wali dan dua saksi yang adil."
+    },
+    {
+      "title": "Bab Mahar (Sadaq)",
+      "titleArabic": "بَابُ الصَّدَاقِ",
+      "arabic": "يُسْتَحَبُّ تَسْمِيَةُ الصَّدَاقِ فِي النِّكَاحِ، وَإِنْ لَمْ يُسَمَّ صَحَّ وَوَجَبَ مَهْرُ الْمِثْلِ.",
+      "translation": "Disunnahkan menyebutkan jumlah mahar dalam akad nikah. Jika tidak disebutkan, nikah tetap sah dan wajib membayar mahar mitsil."
+    },
+    {
+      "title": "Bab Walimah",
+      "titleArabic": "بَابُ الْوَلِيمَةِ",
+      "arabic": "وَلِيمَةُ الْعُرْسِ سُنَّةٌ، وَالْإِجَابَةُ إلَيْهَا وَاجِبَةٌ.",
+      "translation": "Walimah pernikahan adalah sunnah, dan mendatangi undangannya adalah wajib."
+    },
+    {
+      "title": "Bab Khulu' (Gugat Cerai)",
+      "titleArabic": "بَابُ الْخُلْعِ",
+      "arabic": "يَجُوزُ الْخُلْعُ عَلَى عِوَضٍ مَعْلُومٍ، وَهُوَ بَيْنُونَةٌ صُغْرَى.",
+      "translation": "Boleh melakukan khulu' (gugat cerai) dengan ganti rugi (iwadh) yang jelas, dan itu merupakan talak bain sughra."
+    },
+    {
+      "title": "Bab Talak",
+      "titleArabic": "بَابُ الطَّلَاقِ",
+      "arabic": "الطَّلَاقُ ضَرْبَانِ: صَرِيحٌ وَكِنَايَةٌ، فَالصَّرِيحُ لَا يَحْتَاجُ إلَى نِيَّةٍ، وَالْكِنَايَةُ تَحْتَاجُ إلَى نِيَّةٍ.",
+      "translation": "Talak ada dua macam: Sharih (jelas) dan Kinayah (sindiran). Talak sharih tidak butuh niat, sedangkan kinayah butuh niat."
+    },
+    {
+      "title": "Bab Rujuk",
+      "titleArabic": "بَابُ الرَّجْعَةِ",
+      "arabic": "لِمَنْ طَلَّقَ دُونَ الثَّلَاثِ أَنْ يُرَاجِعَ زَوْجَتَهُ مَا دَامَتْ فِي الْعِدَّةِ.",
+      "translation": "Bagi orang yang menalak kurang dari tiga kali, boleh merujuk istrinya selama masih dalam masa iddah."
+    },
+    {
+      "title": "Bab Iddah",
+      "titleArabic": "بَابُ الْعِدَّةِ",
+      "arabic": "الْمُتَوَفَّى عَنْهَا زَوْجُهَا عِدَّتُهَا أَرْبَعَةُ أَشْهُرٍ وَعَشْرٌ، وَالْمُطَلَّقَةُ إنْ كَانَتْ حَائِلًا فَعِدَّتُهَا ثَلَاثَةُ قُرُوءٍ.",
+      "translation": "Wanita yang ditinggal mati suaminya masa iddahnya adalah empat bulan sepuluh hari. Wanita yang ditalak jika sedang suci maka iddahnya adalah tiga kali masa suci."
+    },
+    {
+      "title": "Bab Persusuan (Radha')",
+      "titleArabic": "بَابُ الرَّضَاعِ",
+      "arabic": "يُحَرِّمُ مِنْ الرَّضَاعِ مَا يُحَرِّمُ مِنْ النَّسَبِ، بِشَرْطِ خَمْسِ رَضَعَاتٍ فِي الْحَوْلَيْنِ.",
+      "translation": "Persusuan mengharamkan hal-hal yang diharamkan karena nasab, dengan syarat lima kali susuan dalam masa dua tahun."
+    },
+    {
+      "title": "Bab Nafkah",
+      "titleArabic": "بَابُ النَّفَقَاتِ",
+      "arabic": "تَجِبُ لِلزَّوْجَةِ النَّفَقَةُ وَالْكِسْوَةُ وَالسُّكْنَى بِتَمْكِينِهَا.",
+      "translation": "Istri berhak mendapatkan nafkah, pakaian, dan tempat tinggal jika ia memberikan tamkin (kesempatan kepada suami)."
+    },
+    {
+      "title": "Bab Jinayat (Pidana)",
+      "titleArabic": "كِتَابُ الْجِنَايَاتِ",
+      "arabic": "الْقَتْلُ ثَلَاثَةُ أَنْوَاعٍ: عَمْدٌ مَحْضٌ، وَخَطَأٌ مَحْضٌ، وَعَمْدُ خَطَأٍ.",
+      "translation": "Pembunuhan ada tiga jenis: sengaja murni, tidak sengaja murni, dan semi sengaja."
+    },
+    {
+      "title": "Bab Diyat (Denda)",
+      "titleArabic": "بَابُ الدِّيَاتِ",
+      "arabic": "دِيَةُ الْحُرِّ الْمُسْلِمِ مِائَةٌ مِنْ الْإِبِلِ.",
+      "translation": "Diyat (denda) untuk pembunuhan orang merdeka yang muslim adalah seratus ekor unta."
+    },
+    {
+      "title": "Bab Hudud (Hukuman Batas)",
+      "titleArabic": "كِتَابُ الْحُدُودِ",
+      "arabic": "الزَّانِي إنْ كَانَ مُحْصَنًا فَعَلَيْهِ الرَّجْمُ، وَإِنْ كَانَ غَيْرَ مُحْصَنٍ فَعَلَيْهِ جَلْدُ مِائَةٍ وَتَغْرِيبُ سَنَةٍ.",
+      "translation": "Pezina jika ia muhshan (sudah menikah) maka hukumannya dirajam, jika bukan muhshan maka dicambuk seratus kali dan diasingkan setahun."
+    },
+    {
+      "title": "Bab Jihad",
+      "titleArabic": "كِتَابُ الْجِهَادِ",
+      "arabic": "الْجِهَادُ فَرْضُ كِفَايَةٍ، وَإِذَا دَخَلَ الْكُفَّارُ بَلَدَ الْمُسْلِمِينَ صَارَ فَرْضَ عَيْنٍ.",
+      "translation": "Jihad adalah fardhu kifayah, namun jika kafir memasuki negeri muslim, maka jihad menjadi fardhu 'ain."
+    },
+    {
+      "title": "Bab Peradilan (Al-Aqdiyyah)",
+      "titleArabic": "كِتَابُ الْأَقْضِيَةِ",
+      "arabic": "لَا يَجُوزُ أَنْ يَلِيَ الْقَضَاءَ إلَّا مَنْ كَمُلَتْ فِيهِ خِصَالُ الِاجْتِهَادِ.",
+      "translation": "Tidak boleh menjabat sebagai hakim kecuali orang yang telah sempurna padanya kriteria ijtihad."
+    },
+    {
+      "title": "Khatimah (Penutup)",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ",
+      "arabic": "هَذَا آخِرُ مَا قَصَدْنَاهُ مِنْ تَبْيِينِ أَحْكَامِ الْفِقْهِ، وَالْحَمْدُ لِلَّهِ وَحْدَهُ وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ.",
+      "translation": "Inilah akhir dari apa yang kami maksudkan dalam menjelaskan hukum-hukum fiqih. Segala puji bagi Allah semata dan shalawat atas junjungan kita Nabi Muhammad."
+    }
+  ]
+}
