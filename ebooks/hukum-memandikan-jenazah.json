@@ -1,0 +1,314 @@
+{
+  "profile": {
+    "name": "Hukum Memandikan Jenazah (Kitab al-Jana'iz)",
+    "originalTitle": "كِتَابُ أَحْكَامِ الْجَنَائِزِ وَغُسْلِ الْمَيِّتِ",
+    "author": "Al-Imam Abu Syuja' Ahmad bin Al-Husain bin Ahmad Al-Ashfahani",
+    "field": "Fiqh Syafi'i (Turath)",
+    "about": "Kitab ini merupakan ringkasan hukum-hukum jenazah yang disusun secara sistematis berdasarkan metodologi Fiqh Syafi'i yang ketat. Fokus utamanya adalah prosedur memandikan jenazah dari tahap persiapan, pemilihan petugas, hingga teknik penyiraman air sesuai sunnah. Pembahasannya mencakup segala detail teknis mulai dari penggunaan daun bidara hingga penanganan kondisi khusus seperti jenazah yang rusak atau terpotong. Kitab ini menjadi rujukan utama di berbagai pesantren karena keakuratan dalil dan kemudahan urutannya. Penulis menyusunnya untuk memberikan panduan praktis bagi umat Islam dalam menjalankan kewajiban fardu kifayah.",
+    "authorBorn": "434 H",
+    "authorDied": "593 H",
+    "authorCentury": "Abad ke-5 dan ke-6 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah dan Kewajiban Kolektif",
+      "titleArabic": "الْمُقَدِّمَةُ وَفَرْضُ الْكِفَايَةِ",
+      "arabic": "يَلْزَمُ فِي الْمَيِّتِ الْمُسْلِمِ غَيْرِ الشَّهِيدِ أَرْبَعَةُ أَشْيَاءَ: غُسْلُهُ، وَتَكْفِينُهُ، وَالصَّلَاةُ عَلَيْهِ، وَدَفْنُهُ. وَهِيَ فَرْضُ كِفَايَةٍ.",
+      "translation": "Wajib bagi jenazah Muslim yang bukan syahid empat perkara: memandikannya, mengkafaninya, menyolatkannya, dan menguburkannya. Perkara ini hukumnya fardu kifayah."
+    },
+    {
+      "title": "Tanda-Tanda Kematian",
+      "titleArabic": "عَلَامَاتُ الْمَوْتِ",
+      "arabic": "يُعْرَفُ الْمَوْتُ بِانْقِطَاعِ النَّفَسِ، وَاسْتِرْخَاءِ الْقَدَمِ، وَانْفِصَالِ الْكَفَّيْنِ، وَمَيْلِ الْأَنْفِ.",
+      "translation": "Kematian diketahui dengan terputusnya napas, lemasnya telapak kaki, terlepasnya persendian telapak tangan, dan miringnya hidung."
+    },
+    {
+      "title": "Tindakan Awal: Memejamkan Mata",
+      "titleArabic": "تَغْمِيضُ عَيْنَيِ الْمَيِّتِ",
+      "arabic": "وَيُسَنُّ أَنْ يُغْمَضَ عَيْنَا الْمَيِّتِ فَوْرَ خُرُوجِ الرُّوحِ لِأَنَّ الْبَصَرَ يَتْبَعُ الرُّوحَ.",
+      "translation": "Disunnahkan memejamkan kedua mata jenazah segera setelah ruh keluar karena penglihatan mengikuti keluarnya ruh."
+    },
+    {
+      "title": "Mengikat Dagu Jenazah",
+      "titleArabic": "شَدُّ لَحْيَيِ الْمَيِّتِ",
+      "arabic": "وَيُشَدُّ لَحْيَاهُ بِعِصَابَةٍ عَرِيضَةٍ لِئَلَّا يَنْفَتِحَ فَمُهُ فَيَدْخُلَهُ الْهَوَامُّ.",
+      "translation": "Dan diikat kedua rahangnya dengan kain lebar agar mulutnya tidak terbuka sehingga tidak dimasuki serangga."
+    },
+    {
+      "title": "Melemaskan Persendian",
+      "titleArabic": "تَلْيِينُ الْمَفَاصِلِ",
+      "arabic": "وَيُسَنُّ تَلْيِينُ مَفَاصِلِهِ لِيَسْهُلَ غُسْلُهُ وَتَكْفِينُهُ.",
+      "translation": "Disunnahkan melemaskan persendian jenazah agar memudahkan proses memandikan dan mengkafaninya."
+    },
+    {
+      "title": "Meletakkan Benda Di Atas Perut",
+      "titleArabic": "وَضْعُ شَيْءٍ عَلَى بَطْنِهِ",
+      "arabic": "وَيُوضَعُ عَلَى بَطْنِهِ شَيْءٌ ثَقِيلٌ لِئَلَّا يَنْتَفِخَ بَطْنُهُ.",
+      "translation": "Diletakkan di atas perutnya sesuatu yang berat agar perutnya tidak membengkak."
+    },
+    {
+      "title": "Melepaskan Pakaian Asli",
+      "titleArabic": "نَزْعُ ثِيَابِهِ",
+      "arabic": "وَيُجَرَّدُ الْمَيِّتُ مِنْ ثِيَابِهِ الَّتِي مَاتَ فِيهَا لِأَنَّهَا مَظِنَّةُ التَّلَوُّثِ.",
+      "translation": "Jenazah dilepaskan dari pakaian yang ia kenakan saat wafat karena pakaian tersebut berisiko terkena kotoran."
+    },
+    {
+      "title": "Menutup Aurat Saat Dimandikan",
+      "titleArabic": "سَتْرُ الْعَوْرَةِ",
+      "arabic": "وَيُوضَعُ عَلَى عَوْرَتِهِ خِرْقَةٌ تَسْتُرُ مَا بَيْنَ سُرَّتِهِ وَرُكْبَتِهِ.",
+      "translation": "Diletakkan sehelai kain di atas auratnya yang menutupi bagian antara pusar dan lututnya."
+    },
+    {
+      "title": "Tempat Memandikan",
+      "titleArabic": "مَكَانُ الْغُسْلِ",
+      "arabic": "وَيُغْسَلُ فِي مَكَانٍ خَالٍ مَسْتُورٍ عَنِ الْأَعْيُنِ تَحْتَ سَقْفٍ.",
+      "translation": "Jenazah dimandikan di tempat yang kosong, tertutup dari pandangan orang, dan berada di bawah atap."
+    },
+    {
+      "title": "Kehadiran Orang di Tempat Mandi",
+      "titleArabic": "مَنْ يَحْضُرُ الْغُسْلَ",
+      "arabic": "وَلَا يَحْضُرُهُ إِلَّا الْغَاسِلُ وَمَنْ يُعِينُهُ لِأَنَّ الْمَيِّتَ قَدْ تَنْكَشِفُ عَوْرَتُهُ.",
+      "translation": "Tidak boleh hadir kecuali orang yang memandikan dan orang yang membantunya karena jenazah terkadang tersingkap auratnya."
+    },
+    {
+      "title": "Siapa yang Berhak Memandikan (Laki-laki)",
+      "titleArabic": "مَنْ يَغْسِلُ الرَّجُلَ",
+      "arabic": "وَالرَّجُلُ يَغْسِلُهُ الرِّجَالُ، وَأَوْلَاهُمْ بِهِ الْأَبُ، ثُمَّ الْجَدُّ، ثُمَّ الْأَقْرَبُ فَالْأَقْرَبُ.",
+      "translation": "Jenazah laki-laki dimandikan oleh laki-laki, yang paling utama adalah ayah, kemudian kakek, kemudian kerabat terdekat."
+    },
+    {
+      "title": "Siapa yang Berhak Memandikan (Perempuan)",
+      "titleArabic": "مَنْ تَغْسِلُ الْمَرْأَةَ",
+      "arabic": "وَالْمَرْأَةُ تَغْسِلُهَا النِّسَاءُ، وَأَوْلَاهُنَّ بِهَا الْأُمُّ، ثُمَّ الْجَدَّةُ، ثُمَّ الْأَقْرَبُ فَالْأَقْرَبُ.",
+      "translation": "Jenazah perempuan dimandikan oleh kaum perempuan, yang paling utama adalah ibu, kemudian nenek, kemudian kerabat terdekat."
+    },
+    {
+      "title": "Memandikan Pasangan (Suami/Istri)",
+      "titleArabic": "غُسْلُ الزَّوْجَيْنِ",
+      "arabic": "وَيَجُوزُ لِلرَّجُلِ أَنْ يَغْسِلَ زَوْجَتَهُ، وَلِلْمَرْأَةِ أَنْ تَغْسِلَ زَوْجَهَا.",
+      "translation": "Boleh bagi suami memandikan istrinya, dan bagi istri memandikan suaminya."
+    },
+    {
+      "title": "Memandikan Anak Kecil",
+      "titleArabic": "غُسْلُ الصَّغِيرِ",
+      "arabic": "وَيَجُوزُ لِلرِّجَالِ غُسْلُ الصَّبِيَّةِ الصَّغِيرَةِ، وَلِلنِّسَاءِ غُسْلُ الصَّبِيِّ الصَّغِيرِ مَا لَمْ يَشْتَهِ.",
+      "translation": "Boleh bagi laki-laki memandikan anak perempuan kecil, dan bagi perempuan memandikan anak laki-laki kecil selama belum menimbulkan syahwat."
+    },
+    {
+      "title": "Amanah Sang Memandikan",
+      "titleArabic": "أَمَانَةُ الْغَاسِلِ",
+      "arabic": "وَيَنْبَغِي لِلْغَاسِلِ أَنْ يَكُونَ أَمِينًا يَسْتُرُ مَا يَرَاهُ مِنَ الْمَيِّتِ مِنْ قُبْحٍ.",
+      "translation": "Sepantasnya bagi orang yang memandikan adalah orang yang amanah yang menutupi aib/keburukan yang ia lihat pada jenazah."
+    },
+    {
+      "title": "Menceritakan Kebaikan Jenazah",
+      "titleArabic": "ذِكْرُ مَحَاسِنِ الْمَيِّتِ",
+      "arabic": "وَيُسَنُّ لَهُ أَنْ يُحَدِّثَ بِمَا يَرَاهُ مِنْ حَسَنٍ كَاسْتِنَارَةِ الْوَجْهِ وَطِيبِ الرَّائِحَةِ.",
+      "translation": "Disunnahkan baginya untuk menceritakan apa yang ia lihat dari kebaikan seperti wajah yang bersinar dan aroma yang wangi."
+    },
+    {
+      "title": "Penggunaan Sarung Tangan",
+      "titleArabic": "اسْتِعْمَالُ الْخِرْقَةِ",
+      "arabic": "وَيَلُفُّ الْغَاسِلُ عَلَى يَدِهِ خِرْقَةً عِنْدَ غَسْلِ سَوْأَتَيِ الْمَيِّتِ.",
+      "translation": "Orang yang memandikan hendaknya melilitkan kain (sarung tangan) pada tangannya saat membasuh kedua kemaluan jenazah."
+    },
+    {
+      "title": "Membersihkan Kotoran (Istinja)",
+      "titleArabic": "الِاسْتِنْجَاءُ لِلْمَيِّتِ",
+      "arabic": "يَبْدَأُ الْغَاسِلُ بِالِاسْتِنْجَاءِ أَوَّلًا وَتَنْظِيفِ الْمَخْرَجَيْنِ بِرِفْقٍ.",
+      "translation": "Orang yang memandikan memulai dengan istinja terlebih dahulu dan membersihkan dua lubang keluarnya kotoran dengan lemah lembut."
+    },
+    {
+      "title": "Mengeluarkan Kotoran dari Perut",
+      "titleArabic": "إِخْرَاجُ مَا فِي الْبَطْنِ",
+      "arabic": "وَيَعْصِرُ بَطْنَهُ عَصْرًا رَفِيقًا لِيَخْرُجَ مَا فِيهِ مِنَ الْفَضَلَاتِ.",
+      "translation": "Dan ia menekan perutnya dengan tekanan yang lembut agar sisa-sisa kotoran di dalamnya keluar."
+    },
+    {
+      "title": "Membersihkan Mulut dan Hidung",
+      "titleArabic": "تَنْظِيفُ الْفَمِ وَالْأَنْفِ",
+      "arabic": "وَيُنَظِّفُ أَسْنَانَهُ وَمَنْخِرَيْهِ بِخِرْقَةٍ مُبَلَّلَةٍ بِلَا إِدْخَالِ مَاءٍ كَثِيرٍ.",
+      "translation": "Ia membersihkan gigi dan kedua lubang hidungnya dengan kain basah tanpa memasukkan air yang banyak."
+    },
+    {
+      "title": "Wudhu untuk Jenazah",
+      "titleArabic": "وُضُوءُ الْمَيِّتِ",
+      "arabic": "ثُمَّ يُوَضِّئُهُ وُضُوءَهُ لِلصَّلَاةِ بِنِيَّةِ الْغُسْلِ.",
+      "translation": "Kemudian ia mewudhukan jenazah sebagaimana wudhu untuk shalat dengan niat mandi."
+    },
+    {
+      "title": "Niat Memandikan",
+      "titleArabic": "نِيَّةُ الْغُسْلِ",
+      "arabic": "وَيَنْوِي الْغَاسِلُ غُسْلَ الْمَيِّتِ تَعَبُّدًا لِلَّهِ تَعَالَى.",
+      "translation": "Orang yang memandikan berniat memandikan jenazah sebagai bentuk ibadah kepada Allah Ta'ala."
+    },
+    {
+      "title": "Mencuci Kepala dan Jenggot",
+      "titleArabic": "غَسْلُ الرَّأْسِ وَاللِّحْيَةِ",
+      "arabic": "ثُمَّ يَغْسِلُ رَأْسَهُ وَلِحْيَتَهُ بِرَغْوَةِ السِّدْرِ أَوْ بِالصَّابُونِ.",
+      "translation": "Kemudian ia membasuh kepala dan jenggotnya dengan busa daun bidara atau dengan sabun."
+    },
+    {
+      "title": "Menyisir Rambut Jenazah",
+      "titleArabic": "تَسْرِيحُ الشَّعْرِ",
+      "arabic": "وَيُسَرِّحُ شَعْرَهُ بِرِفْقٍ لِئَلَّا يَتَسَاقَطَ، فَإِنْ سَقَطَ شَيْءٌ رُدَّ إِلَيْهِ فِي الْكَفَنِ.",
+      "translation": "Ia menyisir rambutnya dengan lembut agar tidak rontok, jika ada yang rontok maka dikembalikan ke dalam kain kafannya."
+    },
+    {
+      "title": "Membasuh Sisi Kanan Depan",
+      "titleArabic": "غَسْلُ الشِّقِّ الْأَيْمَنِ الْمُقَدَّمِ",
+      "arabic": "ثُمَّ يَغْسِلُ شِقَّهُ الْأَيْمَنَ الْمُقَدَّمَ مِنْ عُنُقِهِ إِلَى قَدَمِهِ.",
+      "translation": "Kemudian ia membasuh sisi kanan bagian depan mulai dari leher hingga kakinya."
+    },
+    {
+      "title": "Membasuh Sisi Kiri Depan",
+      "titleArabic": "غَسْلُ الشِّقِّ الْأَيْسَرِ الْمُقَدَّمِ",
+      "arabic": "ثُمَّ يَغْسِلُ شِقَّهُ الْأَيْسَرَ الْمُقَدَّمَ كَذَلِكَ.",
+      "translation": "Kemudian ia membasuh sisi kiri bagian depan dengan cara yang sama."
+    },
+    {
+      "title": "Membasuh Sisi Kanan Belakang",
+      "titleArabic": "غَسْلُ الشِّقِّ الْأَيْمَنِ الْمُؤَخَّرِ",
+      "arabic": "ثُمَّ يُحَوِّلُهُ عَلَى جَنْبِهِ الْأَيْسَرِ فَيَغْسِلُ شِقَّهُ الْأَيْمَنَ الْمُؤَخَّرَ.",
+      "translation": "Kemudian ia memiringkan jenazah ke sisi kiri lalu membasuh sisi kanan bagian belakang."
+    },
+    {
+      "title": "Membasuh Sisi Kiri Belakang",
+      "titleArabic": "غَسْلُ الشِّقِّ الْأَيْسَرِ الْمُؤَخَّرِ",
+      "arabic": "ثُمَّ يُحَوِّلُهُ عَلَى جَنْبِهِ الْأَيْمَنِ فَيَغْسِلُ شِقَّهُ الْأَيْسَرَ الْمُؤَخَّرَ.",
+      "translation": "Kemudian ia memiringkan jenazah ke sisi kanan lalu membasuh sisi kiri bagian belakang."
+    },
+    {
+      "title": "Kadar Minimum Mandi",
+      "titleArabic": "أَقَلُّ الْغُسْلِ",
+      "arabic": "وَأَقَلُّ الْغُسْلِ تَعْمِيمُ بَدَنِهِ بِالْمَاءِ مَرَّةً وَاحِدَةً بَعْدَ إِزَالَةِ النَّجَاسَةِ.",
+      "translation": "Kadar minimal mandi adalah meratakan air ke seluruh tubuhnya sebanyak satu kali setelah menghilangkan najis."
+    },
+    {
+      "title": "Mandi yang Sempurna",
+      "titleArabic": "أَكْمَلُ الْغُسْلِ",
+      "arabic": "وَأَكْمَلُهُ أَنْ يُغْسَلَ ثَلَاثًا، الْأُولَى بِالسِّدْرِ، وَالثَّانِيَةُ بِالْمَاءِ الْقَرَاحِ، وَالثَّالِثَةُ بِشَيْءٍ مِنَ الْكَافُورِ.",
+      "translation": "Mandi yang paling sempurna adalah dibasuh tiga kali: yang pertama dengan bidara, kedua dengan air murni, dan ketiga dengan sedikit kapur barus."
+    },
+    {
+      "title": "Penggunaan Daun Bidara",
+      "titleArabic": "اسْتِعْمَالُ السِّدْرِ",
+      "arabic": "وَيُسَنُّ اسْتِعْمَالُ السِّدْرِ فِي الْغُسْلَةِ الْأُولَى لِتَنْظِيفِ الْبَدَنِ.",
+      "translation": "Disunnahkan menggunakan daun bidara pada basuhan pertama untuk membersihkan tubuh."
+    },
+    {
+      "title": "Penggunaan Kapur Barus",
+      "titleArabic": "اسْتِعْمَالُ الْكَافُورِ",
+      "arabic": "وَيُجْعَلُ فِي الْغُسْلَةِ الْأَخِيرَةِ شَيْءٌ مِنَ الْكَافُورِ لِتَصْلِيبِ الْبَدَنِ وَطَرْدِ الْهَوَامِّ.",
+      "translation": "Dan dijadikan pada basuhan terakhir sedikit kapur barus untuk mengeraskan tubuh dan mengusir serangga."
+    },
+    {
+      "title": "Bilangan Ganjil dalam Membasuh",
+      "titleArabic": "الْإِيتَارُ فِي الْغَسْلِ",
+      "arabic": "وَيُسَنُّ أَنْ يَكُونَ عَدَدُ الْغَسَلَاتِ وِتْرًا ثَلَاثًا أَوْ خَمْسًا أَوْ سَبْعًا.",
+      "translation": "Disunnahkan agar jumlah basuhan berupa bilangan ganjil; tiga, lima, atau tujuh kali."
+    },
+    {
+      "title": "Air yang Digunakan",
+      "titleArabic": "الْمَاءُ الْمُسْتَعْمَلُ",
+      "arabic": "وَيَكُونُ الْمَاءُ بَارِدًا إِلَّا لِحَاجَةٍ كَبَرْدٍ شَدِيدٍ أَوْ وَسَخٍ لَا يَزُولُ إِلَّا بِالْمَاءِ الْحَارِّ.",
+      "translation": "Hendaknya air yang digunakan adalah air dingin, kecuali ada keperluan seperti cuaca yang sangat dingin atau kotoran yang tidak hilang kecuali dengan air hangat."
+    },
+    {
+      "title": "Jika Jenazah dalam Keadaan Ihram",
+      "titleArabic": "حُكْمُ الْمُحْرِمِ",
+      "arabic": "وَالْمُحْرِمُ يُغْسَلُ بِمَاءٍ وَسِدْرٍ وَلَا يُوضَعُ فِيهِ طِيبٌ وَلَا يُغَطَّى رَأْسُهُ.",
+      "translation": "Jenazah yang sedang ihram dimandikan dengan air dan bidara, namun tidak boleh diberi wewangian dan tidak boleh ditutup kepalanya."
+    },
+    {
+      "title": "Jenazah Syahid yang Tidak Dimandikan",
+      "titleArabic": "حُكْمُ الشَّهِيدِ",
+      "arabic": "وَالشَّهِيدُ فِي مَعْرَكَةِ الْمُشْرِكِينَ لَا يُغْسَلُ وَلَا يُصَلَّى عَلَيْهِ بَلْ يُدْفَنُ فِي ثِيَابِهِ.",
+      "translation": "Syahid dalam peperangan melawan kaum musyrik tidak dimandikan dan tidak disholatkan, melainkan dikuburkan dengan pakaian (saat ia gugur)."
+    },
+    {
+      "title": "Hukum Bayi Keguguran (Siqth)",
+      "titleArabic": "حُكْمُ السِّقْطِ",
+      "arabic": "وَالسِّقْطُ إِذَا اسْتَهَلَّ صَارِخًا غُسِّلَ وَصُلِّيَ عَلَيْهِ، وَإِلَّا فَلَا.",
+      "translation": "Bayi keguguran jika sempat menangis keras (tanda hidup) maka dimandikan dan disholatkan, jika tidak maka tidak (hanya dikafani dan dikubur)."
+    },
+    {
+      "title": "Jika Jenazah Terbakar atau Rusak",
+      "titleArabic": "الْمَيِّتُ الْمُحْتَرِقُ",
+      "arabic": "فَإِنْ خِيفَ تَهَرِّي الْمَيِّتِ بِالْمَاءِ كَالْمُحْتَرِقِ صُبَّ عَلَيْهِ الْمَاءُ صَبًّا بِلَا مَسٍّ.",
+      "translation": "Jika dikhawatirkan tubuh jenazah hancur karena air seperti jenazah yang terbakar, maka air dituangkan saja tanpa disentuh."
+    },
+    {
+      "title": "Tayamum Sebagai Ganti Mandi",
+      "titleArabic": "التَّيَمُّمُ بَدَلُ الْغُسْلِ",
+      "arabic": "فَإِنْ تَعَذَّرَ الْغُسْلُ لِفَقْدِ الْمَاءِ أَوْ لِتَهَرِّيهِ يُمِّمَ بِالتُّرَابِ.",
+      "translation": "Jika mandi tidak memungkinkan karena tidak ada air atau karena tubuhnya akan hancur (jika kena air), maka diganti dengan tayamum menggunakan debu."
+    },
+    {
+      "title": "Batas Mengusap dalam Tayamum",
+      "titleArabic": "صِفَةُ التَّيَمُّمِ",
+      "arabic": "وَيُقْصَدُ بِالتَّيَمُّمِ الْوَجْهُ وَالْيَدَانِ بِنِيَّةِ اسْتِبَاحَةِ الصَّلَاةِ عَلَيْهِ.",
+      "translation": "Tayamum dimaksudkan untuk membasuh wajah dan kedua tangan dengan niat agar diperbolehkan menyolatkan jenazah tersebut."
+    },
+    {
+      "title": "Memandikan Jenazah Non-Muslim",
+      "titleArabic": "غُسْلُ الْكَافِرِ",
+      "arabic": "وَيَجُوزُ لِلْمُسْلِمِ غَسْلُ قَرِيبِهِ الْكَافِرِ لِأَجْلِ التَّنْظِيفِ لَا لِأَجْلِ الْقُرْبَةِ.",
+      "translation": "Boleh bagi seorang Muslim memandikan kerabatnya yang kafir dengan tujuan kebersihan, bukan sebagai bentuk ibadah (taqarrub)."
+    },
+    {
+      "title": "Memotong Kuku dan Rambut",
+      "titleArabic": "قَصُّ الْأَظْفَارِ وَالشَّعْرِ",
+      "arabic": "وَلَا يُقَصُّ ظُفْرُ الْمَيِّتِ وَلَا يُحْلَقُ شَعْرُهُ عِنْدَنَا لِأَنَّ أَجْزَاءَهُ مُحْتَرَمَةٌ.",
+      "translation": "Kuku jenazah tidak boleh dipotong dan rambutnya tidak boleh dicukur menurut madzhab kami (Syafi'i) karena anggota tubuhnya terhormat."
+    },
+    {
+      "title": "Mengeringkan Tubuh Jenazah",
+      "titleArabic": "تَنْشِيفُ الْمَيِّتِ",
+      "arabic": "وَيُسَنُّ تَنْشِيفُهُ بَعْدَ الْغُسْلِ بِثَوْبٍ قَبْلَ إِدْرَاجِهِ فِي الْكَفَنِ.",
+      "translation": "Disunnahkan mengeringkan tubuh jenazah setelah mandi dengan sehelai kain sebelum dimasukkan ke dalam kain kafan."
+    },
+    {
+      "title": "Pemberian Wewangian",
+      "titleArabic": "تَطْيِيبُ الْمَيِّتِ",
+      "arabic": "وَيُطَيَّبُ بَدَنُ الْمَيِّتِ وَمَوَاضِعُ سُجُودِهِ بِالْحَنُوطِ وَالْكَافُورِ.",
+      "translation": "Tubuh jenazah dan anggota sujudnya diberi wewangian dengan hanut (campuran parfum) dan kapur barus."
+    },
+    {
+      "title": "Menjaga Rahasia Jenazah",
+      "titleArabic": "كِتْمَانُ الْأَسْرَارِ",
+      "arabic": "وَيَجِبُ عَلَى الْغَاسِلِ كِتْمَانُ مَا يَرَاهُ مِنَ الْمَسَاوِئِ وَإِظْهَارُ مَا يَرَاهُ مِنَ الْمَحَاسِنِ.",
+      "translation": "Wajib bagi orang yang memandikan merahasiakan keburukan yang ia lihat dan menampakkan kebaikan yang ia lihat."
+    },
+    {
+      "title": "Jenazah yang Hilang Sebagian Anggotanya",
+      "titleArabic": "الْمَيِّتُ النَّاقِصُ",
+      "arabic": "وَمَنْ وُجِدَ بَعْضُهُ كَيَدٍ أَوْ رِجْلٍ غُسِّلَ وَصُلِّيَ عَلَيْهِ وَدُفِنَ.",
+      "translation": "Siapa yang ditemukan hanya sebagian tubuhnya seperti tangan atau kaki, maka bagian itu tetap dimandikan, disholatkan, dan dikuburkan."
+    },
+    {
+      "title": "Larangan Berlebih-lebihan",
+      "titleArabic": "النَّهْيُ عَنِ الْإِسْرَافِ",
+      "arabic": "وَيُكْرَهُ الْإِسْرَافُ فِي صَبِّ الْمَاءِ عِنْدَ غَسْلِ الْمَيِّتِ.",
+      "translation": "Makruh hukumnya berlebih-lebihan dalam menuangkan air saat memandikan jenazah."
+    },
+    {
+      "title": "Mandi Setelah Memandikan Jenazah",
+      "titleArabic": "الْغُسْلُ مِنَ الْغُسْلِ",
+      "arabic": "وَيُسَنُّ لِمَنْ غَسَّلَ مَيِّتًا أَنْ يَغْتَسِلَ، وَلِمَنْ حَمَلَهُ أَنْ يَتَوَضَّأَ.",
+      "translation": "Disunnahkan bagi orang yang telah memandikan jenazah untuk mandi, dan bagi yang memikulnya untuk berwudhu."
+    },
+    {
+      "title": "Menutup Lubang-lubang Tubuh",
+      "titleArabic": "سَدُّ الْمَنَافِذِ",
+      "arabic": "وَيُوضَعُ الْقُطْنُ فِي مَنَافِذِ وَجْهِهِ وَدُبُرِهِ وَقُبُلِهِ لِئَلَّا يَخْرُجَ مِنْهُ شَيْءٌ.",
+      "translation": "Diletakkan kapas pada lubang-lubang wajah, dubur, dan qubulnya agar tidak ada sesuatu yang keluar darinya."
+    },
+    {
+      "title": "Khatimah: Doa Setelah Memandikan",
+      "titleArabic": "خَاتِمَةٌ وَدُعَاءٌ",
+      "arabic": "وَيَقُولُ بَعْدَ الْفَرَاغِ: غُفْرَانَكَ يَا رَحْمَنُ، اللَّهُمَّ اجْعَلْهُ طَهُورًا وَنُورًا.",
+      "translation": "Dan ia mengucapkan setelah selesai: Mohon ampunan-Mu wahai Yang Maha Penyayang, ya Allah jadikanlah (mandi) ini sebagai penyuci dan cahaya baginya."
+    }
+  ]
+}
