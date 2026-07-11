@@ -1,0 +1,308 @@
+{
+  "profile": {
+    "name": "Al-Burhan fi Tartib al-Uyun",
+    "originalTitle": "الْبُرْهَان فِي تَرْتِيب الْعُيُون",
+    "author": "Al-Hajji Khalifah (Katip Çelebi) Mustafa bin Abdullah",
+    "field": "Ilmu Mantiq (Logika) & Adab al-Bahts (Metodologi Dialektika)",
+    "about": "Kitab ini merupakan risalah mendalam mengenai sistematika berpikir, logika formal, dan metodologi perdebatan ilmiah. Penulisnya, Haji Khalifah, yang dikenal sebagai pengarang Kashf al-Zunun, menyusun kitab ini untuk membimbing para penuntut ilmu dalam menyusun argumen yang kokoh (burhan) dan menata struktur pemikiran secara hierarkis. Di dalamnya dibahas secara mendetail mulai dari konsepsi (tasawwur) hingga asensi (tasdiq), serta penerapan kaidah logika dalam diskusi ilmiah. Kitab ini menjadi rujukan penting di madrasah-madrasah masa Ottoman karena menggabungkan tradisi mantiq klasik dengan efisiensi metodologis. Standar pembahasannya mencakup definisi substansial dan pembuktian rasional yang ketat.",
+    "authorBorn": "Konstantinopel, 1017 H / 1609 M",
+    "authorDied": "Konstantinopel, 1067 H / 1657 M",
+    "authorCentury": "Abad ke-11 Hijriyah / Abad ke-17 Masehi"
+  },
+  "chapters": [
+    {
+      "title": "Mukadimah Kitab",
+      "titleArabic": "مُقَدِّمَةُ الْكِتَابِ",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي نَوَّرَ عُقُولَ الْعَارِفِينَ بِأَنْوَارِ الْبُرْهَانِ، وَهَدَى نُفُوسَ السَّالِكِينَ إِلَى تَرْتِيبِ عُيُونِ الْإِيقَانِ. أَمَّا بَعْدُ، فَهَذِهِ رِسَالَةٌ فِي مَبَادِئِ الْمَنْطِقِ وَآدَابِ الْبَحْثِ.",
+      "translation": "Segala puji bagi Allah yang menerangi akal orang-orang arif dengan cahaya bukti nyata (burhan), dan memberi petunjuk bagi jiwa-jiwa salik menuju tata urutan pokok-pokok keyakinan. Amma Ba'du: Ini adalah risalah mengenai prinsip-prinsip logika dan etika diskusi."
+    },
+    {
+      "title": "Definisi Ilmu dan Pembagiannya",
+      "titleArabic": "تَعْرِيفُ الْعِلْمِ وَأَقْسَامُهُ",
+      "arabic": "الْعِلْمُ هُوَ حُصُولُ صُورَةِ الشَّيْءِ فِي الْعَقْلِ، وَيَنْقَسِمُ إِلَى تَصَوُّرٍ وَتَصْدِيقٍ.",
+      "translation": "Ilmu adalah hadirnya gambaran sesuatu di dalam akal, dan terbagi menjadi Tasawwur (konsepsi) dan Tasdiq (asensi)."
+    },
+    {
+      "title": "Bab Tasawwur (Konsepsi)",
+      "titleArabic": "بَابُ التَّصَوُّرِ",
+      "arabic": "التَّصَوُّرُ هُوَ إِدْرَاكُ الذَّاتِ مِنْ غَيْرِ حُكْمٍ عَلَيْهَا بِنَفْيٍ أَوْ إِثْبَاتٍ.",
+      "translation": "Tasawwur adalah mempersepsikan hakikat sesuatu tanpa memberikan hukum kepadanya, baik berupa peniadaan maupun penetapan."
+    },
+    {
+      "title": "Bab Tasdiq (Asensi/Pembenaran)",
+      "titleArabic": "بَابُ التَّصْدِيقِ",
+      "arabic": "التَّصْدِيقُ هُوَ إِدْرَاكُ أَنَّ النِّسْبَةَ وَاقِعَةٌ أَوْ لَيْسَتْ بِوَاقِعَةٍ.",
+      "translation": "Tasdiq adalah persepsi bahwa suatu nisbah (hubungan) itu terjadi (benar) atau tidak terjadi (salah)."
+    },
+    {
+      "title": "Pembagian Ilmu: Dharuri dan Nazhari",
+      "titleArabic": "أَقْسَامُ الْعِلْمِ: ضَرُورِيٌّ وَنَظَرِيٌّ",
+      "arabic": "كُلٌّ مِنَ التَّصَوُّرِ وَالتَّصْدِيقِ يَنْقَسِمُ إِلَى ضَرُورِيٍّ لَا يَحْتَاجُ إِلَى فِكْرٍ، وَنَظَرِيٍّ يَحْتَاجُ إِلَيْهِ.",
+      "translation": "Masing-masing dari Tasawwur dan Tasdiq terbagi menjadi Dharuri (aksiomatis) yang tidak membutuhkan pemikiran, dan Nazhari (teoretis) yang membutuhkannya."
+    },
+    {
+      "title": "Lafadz dan Makna",
+      "titleArabic": "الدَّلَالَةُ اللَّفْظِيَّةُ",
+      "arabic": "الدَّلَالَةُ هِيَ كَوْنُ الشَّيْءِ بِحَالَةٍ يَلْزَمُ مِنْ عِلْمِهِ الْعِلْمُ بِشَيْءٍ آخَرَ.",
+      "translation": "Dalalah (penunjukan) adalah keadaan sesuatu yang mana dengan mengetahuinya maka lazim bagi kita mengetahui hal yang lain."
+    },
+    {
+      "title": "Pembagian Dalalah Lafdziyyah Wadh'iyyah",
+      "titleArabic": "أَقْسَامُ الدَّلَالَةِ اللَّفْظِيَّةِ الْوَضْعِيَّةِ",
+      "arabic": "وَهِيَ ثَلَاثَةٌ: مُطَابَقِيَّةٌ، وَتَضَمُّنِيَّةٌ، وَالْتِزَامِيَّةٌ.",
+      "translation": "Dalalah ini ada tiga: Mutabaqiyyah (keselarasan), Tadlammuniyyah (cakupan), dan Iltizamiyyah (keniscayaan)."
+    },
+    {
+      "title": "Lafadz Mufrad dan Murakkab",
+      "titleArabic": "الْمُفْرَدُ وَالْمُرَكَّبُ",
+      "arabic": "الْمُفْرَدُ مَا لَا يَدُلُّ جُزْؤُهُ عَلَى جُزْءِ مَعْنَاهُ، وَالْمُرَكَّبُ خِلَافُهُ.",
+      "translation": "Mufrad adalah lafadz yang bagiannya tidak menunjukkan bagian maknanya, sedangkan Murakkab adalah kebalikannya."
+    },
+    {
+      "title": "Lima Universal (Al-Kulliyat al-Khams)",
+      "titleArabic": "الْكُلِّيَّاتُ الْخَمْسُ",
+      "arabic": "الْكُلِّيُّ إِمَّا ذَاتِيٌّ وَهُوَ الْجِنْسُ وَالنَّوْعُ وَالْفَصْلُ، أَوْ عَرَضِيٌّ وَهُوَ الْخَاصَّةُ وَالْعَرَضُ الْعَامُّ.",
+      "translation": "Kulli (universal) adakalanya Dzati yaitu Jenis, Nau', dan Fashl; atau 'Aradhi yaitu Khassah dan 'Aradh 'Am."
+    },
+    {
+      "title": "Jenis (Genus)",
+      "titleArabic": "الْجِنْسُ",
+      "arabic": "الْجِنْسُ هُوَ الْكُلِّيُّ الْمَقُولُ عَلَى كَثِيرِينَ مُخْتَلِفِينَ بِالْحَقَائِقِ فِي جَوَابِ مَا هُوَ.",
+      "translation": "Jenis adalah universal yang dikatakan bagi banyak hal yang berbeda hakikatnya dalam menjawab pertanyaan: 'Apakah itu?'"
+    },
+    {
+      "title": "Nau' (Spesies)",
+      "titleArabic": "النَّوْعُ",
+      "arabic": "النَّوْعُ هُوَ الْمَقُولُ عَلَى كَثِيرِينَ مُتَّفِقِينَ بِالْحَقَائِقِ.",
+      "translation": "Nau' adalah yang dikatakan bagi banyak hal yang bersepakat secara hakikat."
+    },
+    {
+      "title": "Fashl (Diferensia)",
+      "titleArabic": "الْفَصْلُ",
+      "arabic": "الْفَصْلُ هُوَ الْكُلِّيُّ الذَّاتِيُّ الَّذِي بِهِ يَمْتَازُ الشَّيْءُ عَنْ مُشَارِكَاتِهِ فِي الْجِنْسِ.",
+      "translation": "Fashl adalah universal dzati yang dengannya sesuatu dibedakan dari apa yang berserikat dengannya dalam Jenis."
+    },
+    {
+      "title": "Khassah (Propertia)",
+      "titleArabic": "الْخَاصَّةُ",
+      "arabic": "الْخَاصَّةُ هِيَ الْكُلِّيُّ الْعَرَضِيُّ الْمُخْتَصُّ بِحَقِيقَةٍ وَاحِدَةٍ.",
+      "translation": "Khassah adalah universal 'aradhi yang khusus bagi satu hakikat saja."
+    },
+    {
+      "title": "Aradh Am (Aksidens Umum)",
+      "titleArabic": "الْعَرَضُ الْعَامُّ",
+      "arabic": "الْعَرَضُ الْعَامُّ هُوَ الْكُلِّيُّ الْعَرَضِيُّ الشَّامِلُ لِحَقَائِقَ مُخْتَلِفَةٍ.",
+      "translation": "'Aradh 'Am adalah universal 'aradhi yang mencakup berbagai hakikat yang berbeda."
+    },
+    {
+      "title": "Al-Qaul al-Syarih (Definisi)",
+      "titleArabic": "الْقَوْلُ الشَّارِحُ",
+      "arabic": "الْقَوْلُ الشَّارِحُ هُوَ مَا يُفِيدُ تَصَوُّرَ الشَّيْءِ، وَيَنْقَسِمُ إِلَى حَدٍّ وَرَسْمٍ.",
+      "translation": "Al-Qaul al-Syarih adalah perkataan yang memberikan konsepsi tentang sesuatu, terbagi menjadi Hadd dan Rasm."
+    },
+    {
+      "title": "Hadd Tamm (Definisi Lengkap)",
+      "titleArabic": "الْحَدُّ التَّامُّ",
+      "arabic": "الْحَدُّ التَّامُّ مَا كَانَ بِالْجِنْسِ الْقَرِيبِ وَالْفَصْلِ الْقَرِيبِ.",
+      "translation": "Hadd Tamm adalah definisi yang terdiri dari Jenis Qarib (dekat) dan Fashl Qarib."
+    },
+    {
+      "title": "Hadd Naqis (Definisi Kurang)",
+      "titleArabic": "الْحَدُّ النَّاقِصُ",
+      "arabic": "الْحَدُّ النَّاقِصُ مَا كَانَ بِالْفَصْلِ وَحْدَهُ أَوْ بِالْجِنْسِ الْبَعِيدِ وَالْفَصْلِ.",
+      "translation": "Hadd Naqis adalah definisi yang hanya dengan Fashl saja atau dengan Jenis Ba'id (jauh) beserta Fashl."
+    },
+    {
+      "title": "Rasm Tamm (Deskripsi Lengkap)",
+      "titleArabic": "الرَّسْمُ التَّامُّ",
+      "arabic": "الرَّسْمُ التَّامُّ مَا كَانَ بِالْجِنْسِ الْقَرِيبِ وَالْخَاصَّةِ.",
+      "translation": "Rasm Tamm adalah definisi yang terdiri dari Jenis Qarib dan Khassah."
+    },
+    {
+      "title": "Rasm Naqis (Deskripsi Kurang)",
+      "titleArabic": "الرَّسْمُ النَّاقِصُ",
+      "arabic": "الرَّسْمُ النَّاقِصُ مَا كَانَ بِالْعَرَضِيَّاتِ فَقَطْ.",
+      "translation": "Rasm Naqis adalah definisi yang hanya terdiri dari hal-hal aksidental saja."
+    },
+    {
+      "title": "Qadhiyah (Proposisi)",
+      "titleArabic": "الْقَضِيَّةُ",
+      "arabic": "الْقَضِيَّةُ هِيَ قَوْلٌ يَحْتَمِلُ الصِّدْقَ وَالْكَذِبَ لِذَاتِهِ.",
+      "translation": "Qadhiyah adalah ucapan yang mengandung kemungkinan benar dan dusta secara esensinya."
+    },
+    {
+      "title": "Qadhiyah Hamliyah (Kategoris)",
+      "titleArabic": "الْقَضِيَّةُ الْحَمْلِيَّةُ",
+      "arabic": "الْحَمْلِيَّةُ مَا كَانَ طَرَفَاهَا مُفْرَدَيْنِ، مَحْكُومٌ بِأَحَدِهِمَا عَلَى الْآخَرِ.",
+      "translation": "Hamliyah adalah proposisi yang kedua ujungnya berupa mufrad (kata tunggal), di mana salah satunya dihukumi atas yang lain."
+    },
+    {
+      "title": "Maudhu' dan Mahmul",
+      "titleArabic": "الْمَوْضُوعُ وَالْمَحْمُولُ",
+      "arabic": "الْمَحْكُومُ عَلَيْهِ يُسَمَّى مَوْضُوعًا، وَالْمَحْكُومُ بِهِ يُسَمَّى مَحْمُولًا.",
+      "translation": "Sesuatu yang dihukumi disebut Maudhu' (subjek), dan sesuatu yang menjadi hukum disebut Mahmul (predikat)."
+    },
+    {
+      "title": "Qadhiyah Syartiyah (Hipotesis)",
+      "titleArabic": "الْقَضِيَّةُ الشَّرْطِيَّةُ",
+      "arabic": "الشَّرْطِيَّةُ مَا كَانَ الْحُكْمُ فِيهَا بِالتَّعْلِيقِ، وَتَنْقَسِمُ إِلَى مُتَّصِلَةٍ وَمُنْفَصِلَةٍ.",
+      "translation": "Syartiyah adalah proposisi yang hukumnya digantungkan, dan terbagi menjadi Muttashilah (konektif) dan Munfashilah (disjungtif)."
+    },
+    {
+      "title": "Syartiyah Muttashilah",
+      "titleArabic": "الشَّرْطِيَّةُ الْمُتَّصِلَةُ",
+      "arabic": "الْمُتَّصِلَةُ مَا حُكِمَ فِيهَا بِلُزُومِ قَضِيَّةٍ لِأُخْرَى.",
+      "translation": "Muttashilah adalah proposisi yang dihukumi dengan keniscayaan satu proposisi atas proposisi lainnya."
+    },
+    {
+      "title": "Syartiyah Munfashilah",
+      "titleArabic": "الشَّرْطِيَّةُ الْمُنْفَصِلَةُ",
+      "arabic": "الْمُنْفَصِلَةُ مَا حُكِمَ فِيهَا بِالْعِنَادِ بَيْنَ قَضِيَّتَيْنِ.",
+      "translation": "Munfashilah adalah proposisi yang dihukumi dengan pertentangan antara dua proposisi."
+    },
+    {
+      "title": "Tanaqudh (Kontradiksi)",
+      "titleArabic": "التَّنَاقُضُ",
+      "arabic": "التَّنَاقُضُ هُوَ اخْتِلَافُ قَضِيَّتَيْنِ فِي الْكَيْفِ، بِحَيْثُ يَلْزَمُ مِنْ صِدْقِ إِحْدَاهُمَا كَذِبُ الْأُخْرَى.",
+      "translation": "Kontradiksi adalah perbedaan dua proposisi dalam kualitasnya (positif/negatif), sehingga jika yang satu benar, yang lain pasti dusta."
+    },
+    {
+      "title": "Aks Mustawi (Konversi)",
+      "titleArabic": "الْعَكْسُ الْمُسْتَوِي",
+      "arabic": "الْعَكْسُ هُوَ جَعْلُ الْمَوْضُوعِ مَحْمُولًا وَالْمَحْمُولِ مَوْضُوعًا مَعَ بَقَاءِ الْكَيْفِ وَالصِّدْقِ.",
+      "translation": "Konversi adalah menjadikan subjek sebagai predikat dan predikat sebagai subjek dengan tetap menjaga kualitas dan kebenaran."
+    },
+    {
+      "title": "Al-Qiyas (Silogisme)",
+      "titleArabic": "الْقِيَاسُ",
+      "arabic": "الْقِيَاسُ قَوْلٌ مُؤَلَّفٌ مِنْ قَضَايَا، مَتَى سُلِّمَتْ لَزِمَ عَنْهَا لِذَاتِهَا قَوْلٌ آخَرُ.",
+      "translation": "Silogisme adalah ucapan yang tersusun dari beberapa proposisi, yang jika diterima, maka secara esensial akan melahirkan ucapan (kesimpulan) lain."
+    },
+    {
+      "title": "Bagian Silogisme: Iqtirani dan Istitsna'i",
+      "titleArabic": "أَقْسَامُ الْقِيَاسِ: اقْتِرَانِيٌّ وَاسْتِثْنَائِيٌّ",
+      "arabic": "الِاقْتِرَانِيُّ مَا لَمْ يُصَرَّحْ فِيهِ بِالنَّتِيجَةِ، وَالِاسْتِثْنَائِيُّ بِخِلَافِهِ.",
+      "translation": "Iqtirani adalah silogisme yang hasilnya tidak disebutkan secara eksplisit, sedangkan Istitsna'i adalah kebalikannya."
+    },
+    {
+      "title": "Bentuk Silogisme (Al-Ashkal al-Arba'ah)",
+      "titleArabic": "الْأَشْكَالُ الْأَرْبَعَةُ",
+      "arabic": "الْهَيْئَةُ الْحَاصِلَةُ لِلْقِيَاسِ مِنْ وَضْعِ الْحَدِّ الْأَوْسَطِ تُسَمَّى شَكْلًا.",
+      "translation": "Bentuk yang dihasilkan dalam silogisme dari peletakan term tengah (hadd ausath) disebut Syakl (figur)."
+    },
+    {
+      "title": "Syakl Awwal (Bentuk Pertama)",
+      "titleArabic": "الشَّكْلُ الْأَوَّلُ",
+      "arabic": "مَا كَانَ الْأَوْسَطُ فِيهِ مَحْمُولًا فِي الصُّغْرَى وَمَوْضُوعًا فِي الْكُبْرَى.",
+      "translation": "Bentuk di mana term tengah menjadi predikat pada premis minor dan subjek pada premis mayor."
+    },
+    {
+      "title": "Syakl Thani (Bentuk Kedua)",
+      "titleArabic": "الشَّكْلُ الثَّانِي",
+      "arabic": "مَا كَانَ الْأَوْسَطُ فِيهِ مَحْمُولًا فِيهِمَا.",
+      "translation": "Bentuk di mana term tengah menjadi predikat pada kedua premis."
+    },
+    {
+      "title": "Syakl Thalith (Bentuk Ketiga)",
+      "titleArabic": "الشَّكْلُ الثَّالِثُ",
+      "arabic": "مَا كَانَ الْأَوْسَطُ فِيهِ مَوْضُوعًا فِيهِمَا.",
+      "translation": "Bentuk di mana term tengah menjadi subjek pada kedua premis."
+    },
+    {
+      "title": "Syakl Rabi' (Bentuk Keempat)",
+      "titleArabic": "الشَّكْلُ الرَّابِعُ",
+      "arabic": "مَا كَانَ الْأَوْسَطُ فِيهِ مَوْضُوعًا فِي الصُّغْرَى وَمَحْمُولًا فِي الْكُبْرَى.",
+      "translation": "Bentuk di mana term tengah menjadi subjek pada premis minor dan predikat pada premis mayor."
+    },
+    {
+      "title": "Al-Burhan (Demonstrasi)",
+      "titleArabic": "الْبُرْهَانُ",
+      "arabic": "الْبُرْهَانُ قِيَاسٌ مُؤَلَّفٌ مِنْ يَقِينِيَّاتٍ لِإِنْتَاجِ الْيَقِينِ.",
+      "translation": "Burhan adalah silogisme yang tersusun dari premis-premis yang meyakinkan untuk menghasilkan kesimpulan yang meyakinkan pula."
+    },
+    {
+      "title": "Al-Jadal (Dialektika)",
+      "titleArabic": "الْجَدَلُ",
+      "arabic": "الْجَدَلُ قِيَاسٌ مُؤَلَّفٌ مِنْ مَشْهُورَاتٍ أَوْ مُسَلَّمَاتٍ.",
+      "translation": "Jadal adalah silogisme yang tersusun dari hal-hal yang populer atau yang telah diterima kebenarannya."
+    },
+    {
+      "title": "Al-Khitabah (Retorika)",
+      "titleArabic": "الْخِطَابَةُ",
+      "arabic": "الْخِطَابَةُ قِيَاسٌ مُؤَلَّفٌ مِنْ مَقْبُولَاتٍ أَوْ مَظْنُونَاتٍ.",
+      "translation": "Khitabah adalah silogisme yang tersusun dari hal-hal yang diterima secara umum atau persangkaan kuat."
+    },
+    {
+      "title": "Al-Syi'ir (Puisi/Imajinasi)",
+      "titleArabic": "الشِّعْرُ",
+      "arabic": "الشِّعْرُ قِيَاسٌ مُؤَلَّفٌ مِنْ مُخَيَّلَاتٍ.",
+      "translation": "Syi'ir adalah silogisme yang tersusun dari hal-hal yang bersifat imajinatif."
+    },
+    {
+      "title": "Al-Mughalathah (Sopisme/Kekeliruan)",
+      "titleArabic": "الْمُغَالَطَةُ",
+      "arabic": "الْمُغَالَطَةُ قِيَاسٌ مُؤَلَّفٌ مِنْ وَهْمِيَّاتٍ أَوْ مُشَبَّهَاتٍ بِالْحَقِّ.",
+      "translation": "Mughalathah adalah silogisme yang tersusun dari waham (ilusi) atau hal-hal yang diserupakan dengan kebenaran padahal batil."
+    },
+    {
+      "title": "Adab al-Bahts (Etika Berdebat)",
+      "titleArabic": "آدَابُ الْبَحْثِ",
+      "arabic": "الْبَحْثُ هُوَ تَوْجِيهُ الْكَلَامِ بَيْنَ الْجَانِبَيْنِ لِإِثْبَاتِ الْحَقِّ.",
+      "translation": "Al-Bahts adalah pengarahan pembicaraan di antara dua pihak untuk menetapkan kebenaran."
+    },
+    {
+      "title": "Al-Man' (Pencegahan)",
+      "titleArabic": "الْمَنْعُ",
+      "arabic": "الْمَنْعُ هُوَ طَلَبُ الدَّلِيلِ عَلَى الْمُقَدِّمَةِ.",
+      "translation": "Al-Man' adalah menuntut dalil (bukti) atas suatu premis yang diajukan."
+    },
+    {
+      "title": "Al-Mu'aradhah (Kontra-Argumen)",
+      "titleArabic": "الْمُعَارَضَةُ",
+      "arabic": "الْمُعَارَضَةُ هِيَ إِقَامَةُ الدَّلِيلِ عَلَى خِلَافِ مَا أَقَامَ عَلَيْهِ الْخَصْمُ.",
+      "translation": "Mu'aradhah adalah tegaknya dalil atas lawan dari apa yang ditegakkan oleh lawan diskusi."
+    },
+    {
+      "title": "Al-Naqdh (Pembatalan)",
+      "titleArabic": "النَّقْضُ",
+      "arabic": "النَّقْضُ هُوَ بَيَانُ تَخَلُّفِ الْحُكْمِ عَنِ الدَّلِيلِ.",
+      "translation": "Naqdh adalah menjelaskan gagalnya hukum yang ditarik dari suatu dalil."
+    },
+    {
+      "title": "Tartib al-Uyun (Urutan Pokok)",
+      "titleArabic": "تَرْتِيبُ الْعُيُونِ",
+      "arabic": "يَنْبَغِي لِلْبَاحِثِ أَنْ يُرَتِّبَ عُيُونَ مَسَائِلِهِ عَلَى نَهْجٍ قَوِيمٍ.",
+      "translation": "Sepatutnya bagi seorang peneliti untuk mengurutkan pokok-pokok masalahnya di atas manhaj yang lurus."
+    },
+    {
+      "title": "Syarat-syarat Mujadil (Pendebat)",
+      "titleArabic": "شُرُوطُ الْمُجَادِلِ",
+      "arabic": "يُشْتَرَطُ فِي الْمُجَادِلِ الْفَهْمُ، وَالصِّدْقُ، وَتَرْكُ التَّعَصُّبِ.",
+      "translation": "Disyaratkan bagi seorang pendebat memiliki pemahaman, kejujuran, dan meninggalkan fanatisme."
+    },
+    {
+      "title": "Metode Istidlal (Inferensi)",
+      "titleArabic": "طُرُقُ الِاسْتِدْلَالِ",
+      "arabic": "الِاسْتِدْلَالُ إِمَّا مِنَ الْعِلَّةِ إِلَى الْمَعْلُولِ أَوْ بِالْعَكْسِ.",
+      "translation": "Inferensi adakalanya dari sebab menuju akibat, atau sebaliknya."
+    },
+    {
+      "title": "Istiqra' (Induksi)",
+      "titleArabic": "الِاسْتِقْرَاءُ",
+      "arabic": "الِاسْتِقْرَاءُ هُوَ الْحُكْمُ عَلَى الْكُلِّيِّ لِوُجُودِهِ فِي جُزْئِيَّاتِهِ.",
+      "translation": "Istiqra' adalah menghukumi universal karena keberadaannya pada bagian-bagian partikularnya."
+    },
+    {
+      "title": "Tamthil (Analogi)",
+      "titleArabic": "التَّمْثِيلُ",
+      "arabic": "التَّمْثِيلُ هُوَ تَشْبِيهُ جُزْئِيٍّ بِجُزْئِيٍّ فِي عِلَّةِ الْحُكْمِ.",
+      "translation": "Tamthil adalah menyerupakan satu partikular dengan partikular lainnya dalam illat (sebab) hukum."
+    },
+    {
+      "title": "Khatimah (Penutup)",
+      "titleArabic": "الْخَاتِمَةُ",
+      "arabic": "تَمَّتِ الرِّسَالَةُ بِحَمْدِ اللَّهِ، وَهِيَ زُبْدَةُ مَا يَحْتَاجُ إِلَيْهِ الطَّالِبُ فِي تَرْتِيبِ فِكْرِهِ.",
+      "translation": "Telah selesai risalah ini dengan memuji Allah, ia merupakan inti dari apa yang dibutuhkan pelajar dalam menata pemikirannya."
+    }
+  ]
+}
