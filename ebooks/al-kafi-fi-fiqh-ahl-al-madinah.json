@@ -1,0 +1,242 @@
+{
+  "profile": {
+    "name": "Al-Kafi fi Fiqh Ahl al-Madinah",
+    "originalTitle": "الْكَافِي فِي فِقْهِ أَهْلِ الْمَدِيْنَةِ",
+    "author": "Al-Imam Al-Hafiz Abu 'Umar Yusuf bin Abdillah bin Muhammad bin Abdil Barr al-Namari al-Andalusi",
+    "field": "Fiqh (Madzhab Maliki)",
+    "about": "Kitab Al-Kafi merupakan salah satu rujukan utama dalam mazhab Maliki yang ditulis oleh Ibnu Abdil Barr untuk menjelaskan dasar-dasar hukum Islam menurut tradisi penduduk Madinah. Kitab ini dikenal karena sistematikanya yang rapi serta kemampuannya meringkas berbagai pendapat dalam mazhab Maliki menjadi poin-poin yang mudah dipahami oleh penuntut ilmu. Penulis menyusun kitab ini dengan tujuan memberikan pedoman fiqih yang mencakup ibadah hingga muamalah bagi mereka yang tidak sempat mendalami kitab-kitab yang lebih besar seperti Al-Mudawwanah. Di dalamnya, Ibnu Abdil Barr sering kali menyebutkan dalil-dalil meskipun dalam format yang ringkas. Karya ini menjadi jembatan penting antara hadis dan fiqih dalam tradisi keilmuan Andalusia, menjadikannya standar akademik di berbagai madrasah dan pesantren.",
+    "authorBorn": "368 H (978 M) di Cordoba, Andalusia",
+    "authorDied": "463 H (1071 M) di Shatiba",
+    "authorCentury": "Abad ke-4 dan ke-5 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah (Pendahuluan)",
+      "titleArabic": "الْمُقَدِّمَةُ",
+      "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ، وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَآلِهِ وَصَحْبِهِ وَسَلَّمَ. أَمَّا بَعْدُ، فَإِنَّ بَعْضَ إِخْوَانِنَا سَأَلَنِي أَنْ أَجْمَعَ لَهُ كِتَابًا كَافِيًا فِي فِقْهِ أَهْلِ الْمَدِينَةِ، لِيَكُونَ عَوْنًا لَهُ عَلَى فَهْمِ مَذْهَبِ مَالِكِ بْنِ أَنَسٍ رَحِمَهُ اللَّهُ، وَقَرِيبَ الْمَأْخَذِ، بَعِيدًا عَنِ الْحَشْوِ وَالتَّطْوِيلِ.",
+      "translation": "Segala puji bagi Allah Tuhan semesta alam, semoga shalawat dan salam tercurah kepada junjungan kita Nabi Muhammad, keluarga, dan para sahabatnya. Adapun setelah itu, sesungguhnya sebagian saudara kami meminta aku untuk menyusun sebuah kitab yang mencukupi (Kafi) dalam fiqih penduduk Madinah, agar menjadi pembantu baginya untuk memahami mazhab Malik bin Anas -semoga Allah merahmatinya-, dengan pengambilan hukum yang dekat (mudah) dan jauh dari pengisi yang berlebihan atau pemanjangan teks."
+    },
+    {
+      "title": "Kitab Thaharah: Hukum Air",
+      "titleArabic": "كِتَابُ الطَّهَارَةِ: بَابُ أَحْكَامِ الْمِيَاهِ",
+      "arabic": "كُلُّ مَاءٍ نَزَلَ مِنَ السَّمَاءِ أَوْ نَبَعَ مِنَ الْأَرْضِ فَهُوَ طَهُورٌ، يَجُوزُ بِهِ الْوُضُوءُ وَالْغُسْلُ، إِلَّا أَنْ يَتَغَيَّرَ لَوْنُهُ أَوْ طَعْمُهُ أَوْ رِيحُهُ بِمَا يَنْفَكُّ عَنْهُ غَالِبًا مِنَ النَّجَاسَاتِ.",
+      "translation": "Setiap air yang turun dari langit atau memancar dari bumi maka ia adalah suci lagi mensucikan (thahur), boleh digunakan untuk wudhu dan mandi janabah, kecuali jika berubah warna, rasa, atau baunya oleh najis yang biasanya terpisah darinya."
+    },
+    {
+      "title": "Bab Tata Cara Wudhu",
+      "titleArabic": "بَابُ صِفَةِ الْوُضُوءِ",
+      "arabic": "فَرْضُ الْوُضُوءِ: النِّيَّةُ عِنْدَ غَسْلِ الْوَجْهِ، وَغَسْلُ الْوَجْهِ، وَغَسْلُ الْيَدَيْنِ إِلَى الْمِرْفَقَيْنِ، وَمَسْحُ الرَّأْسِ، وَغَسْلُ الرِّجْلَيْنِ إِلَى الْكَعْبَيْنِ، وَالْمُوَالَاةُ، وَالتَّرْتِيبُ.",
+      "translation": "Fardu wudhu adalah: Niat saat membasuh wajah, membasuh wajah, membasuh kedua tangan hingga siku, mengusap kepala, membasuh kedua kaki hingga mata kaki, berkesinambungan (muwalat), dan tertib."
+    },
+    {
+      "title": "Bab Pembatal Wudhu",
+      "titleArabic": "بَابُ مَا يَنْقُضُ الْوُضُوءَ",
+      "arabic": "يَنْتَقِضُ الْوُضُوءُ بِكُلِّ مَا خَرَجَ مِنَ السَّبِيلَيْنِ مِنْ بَوْلٍ أَوْ غَائِطٍ أَوْ رِيحٍ، وَبِالنَّوْمِ الْمُسْتَثْقِلِ، وَبِمَسِّ الذَّكَرِ، وَبِلَمْسِ النِّسَاءِ لِلَذَّةٍ.",
+      "translation": "Wudhu batal karena setiap yang keluar dari dua jalan (kemaluan dan dubur) baik kencing, tinja, atau kentut; dengan tidur yang lelap; dengan menyentuh kemaluan; dan dengan menyentuh wanita dengan syahwat (lezat)."
+    },
+    {
+      "title": "Bab Mandi Janabah",
+      "titleArabic": "بَابُ الْغُسْلِ مِنَ الْجَنَابَةِ",
+      "arabic": "الْغُسْلُ يَجِبُ بِخُرُوجِ الْمَنِيِّ، وَبِمَغِيبِ الْحَشَفَةِ فِي الْفَرْجِ، وَبِانْقِطَاعِ دَمِ الْحَيْضِ وَالنِّفَاسِ. وَفَرْضُهُ النِّيَّةُ وَتَعْمِيمُ الْجَسَدِ بِالْمَاءِ.",
+      "translation": "Mandi wajib disebabkan oleh keluarnya mani, dengan masuknya kepala kemaluan ke dalam farji (persetubuhan), dan dengan terputusnya darah haid serta nifas. Fardunya adalah niat dan meratakan air ke seluruh tubuh."
+    },
+    {
+      "title": "Bab Tayammum",
+      "titleArabic": "بَابُ التَّيَمُّمِ",
+      "arabic": "يَجُوزُ التَّيَمُّمُ لِلْمُسَافِرِ وَالْمَرِيضِ إِذَا عَدِمَا الْمَاءَ أَوْ خَافَا ضُرًّا. وَهُوَ ضَرْبَةٌ لِلْوَجْهِ وَضَرْبَةٌ لِلْكَفَّيْنِ إِلَى الْكُوعَيْنِ.",
+      "translation": "Boleh bertayammum bagi musafir dan orang sakit jika kehilangan air atau takut akan bahaya (jika memakai air). Tayammum dilakukan dengan satu pukulan (tangan ke tanah) untuk wajah dan satu pukulan untuk kedua telapak tangan hingga pergelangan tangan."
+    },
+    {
+      "title": "Bab Haid dan Nifas",
+      "titleArabic": "بَابُ الْحَيْضِ وَالنِّفَاسِ",
+      "arabic": "أَقَلُّ الْحَيْضِ دُفْعَةٌ، وَأَكْثَرُهُ خَمْسَةَ عَشَرَ يَوْمًا. وَأَكْثَرُ النِّفَاسِ سِتُّونَ يَوْمًا.",
+      "translation": "Minimal haid adalah satu tetesan (kali keluar), dan maksimalnya adalah lima belas hari. Adapun maksimal nifas adalah enam puluh hari."
+    },
+    {
+      "title": "Kitab Shalat: Waktu-waktu Shalat",
+      "titleArabic": "كِتَابُ الصَّلَاةِ: بَابُ مَوَاقِيتِ الصَّلَاةِ",
+      "arabic": "أَوَّلُ وَقْتِ الظُّهْرِ زَوَالُ الشَّمْسِ، وَأَوَّلُ وَقْتِ الْعَصْرِ إِذَا صَارَ ظِلُّ كُلِّ شَيْءٍ مِثْلَهُ بَعْدَ فَيْءِ الزَّوَالِ.",
+      "translation": "Awal waktu Dzuhur adalah tergelincirnya matahari, dan awal waktu Ashar adalah jika bayangan setiap benda sama panjang dengan aslinya setelah dikurangi bayangan saat zawal."
+    },
+    {
+      "title": "Bab Adzan dan Iqamah",
+      "titleArabic": "بَابُ الْأَذَانِ وَالْإِقَامَةِ",
+      "arabic": "الْأَذَانُ مَثْنَى مَثْنَى، وَفِيهِ التَّرْجِيعُ فِي الشَّهَادَتَيْنِ، وَالْإِقَامَةُ فُرَادَى إِلَّا قَدْ قَامَتِ الصَّلَاةُ.",
+      "translation": "Adzan dilakukan dua-dua (kalimatnya), dan di dalamnya terdapat Tarji' (pengulangan) pada dua kalimat syahadat, sedangkan Iqamah dilakukan satu-satu kecuali kalimat 'Qad Qamatis Shalah'."
+    },
+    {
+      "title": "Bab Syarat-syarat Shalat",
+      "titleArabic": "بَابُ شُرُوطِ الصَّلَاةِ",
+      "arabic": "شُرُوطُ الصَّلَاةِ: الطَّهَارَةُ مِنَ الْحَدَثِ وَالنَّجَسِ، وَسَتْرُ الْعَوْرَةِ، وَاسْتِقْبَالُ الْقِبْلَةِ، وَدُخُولُ الْوَقْتِ.",
+      "translation": "Syarat-syarat shalat adalah: Suci dari hadats dan najis, menutup aurat, menghadap kiblat, dan masuknya waktu."
+    },
+    {
+      "title": "Bab Sifat Shalat (Tata Cara)",
+      "titleArabic": "بَابُ صِفَةِ الصَّلَاةِ",
+      "arabic": "يُفْتَتَحُ الصَّلَاةُ بِتَكْبِيرَةِ الْإِحْرَامِ مَعَ النِّيَّةِ، ثُمَّ قِرَاءَةِ الْفَاتِحَةِ، ثُمَّ الرُّكُوعِ، ثُمَّ الرَّفْعِ مِنْهُ، ثُمَّ السُّجُودِ.",
+      "translation": "Shalat dibuka dengan takbiratul ihram disertai niat, kemudian membaca Al-Fatihah, kemudian ruku', kemudian bangkit darinya, kemudian sujud."
+    },
+    {
+      "title": "Bab Sujud Sahwi",
+      "titleArabic": "بَابُ سُجُودِ السَّهْوِ",
+      "arabic": "مَنْ زَادَ فِي صَلَاتِهِ سَجَدَ بَعْدَ السَّلَامِ، وَمَنْ نَقَصَ سَجَدَ قَبْلَ السَّلَامِ.",
+      "translation": "Barangsiapa yang menambah (gerakan/rukun) dalam shalatnya maka ia sujud sahwi setelah salam, dan barangsiapa yang kurang maka ia sujud sebelum salam."
+    },
+    {
+      "title": "Bab Shalat Berjamaah",
+      "titleArabic": "بَابُ صَلَاةِ الْجَمَاعَةِ",
+      "arabic": "صَلَاةُ الْجَمَاعَةِ سُنَّةٌ مُؤَكَّدَةٌ، وَأَقَلُّهَا اثْنَانِ، إِمَامٌ وَمَأْمُومٌ.",
+      "translation": "Shalat berjamaah hukumnya sunnah muakkadah, dan minimal dilakukan oleh dua orang: seorang imam dan seorang makmum."
+    },
+    {
+      "title": "Bab Shalat Jumat",
+      "titleArabic": "بَابُ صَلَاةِ الْجُمُعَةِ",
+      "arabic": "الْجُمُعَةُ فَرْضٌ عَلَى كُلِّ ذَكَرٍ حُرٍّ بَالِغٍ مُقِيمٍ، وَلَا تَصِحُّ إِلَّا بِالْجَمَاعَةِ وَخُطْبَتَيْنِ.",
+      "translation": "Shalat Jumat adalah fardu bagi setiap laki-laki, merdeka, baligh, dan mukim; tidak sah kecuali dengan berjamaah dan dua khutbah."
+    },
+    {
+      "title": "Bab Shalat Musafir",
+      "titleArabic": "بَابُ صَلَاةِ الْمُسَافِرِ",
+      "arabic": "يَقْصُرُ الْمُسَافِرُ الصَّلَاةَ الرُّبَاعِيَّةَ فِي مَسِيرَةِ أَرْبَعَةِ بُرُدٍ، وَهِيَ ثَمَانِيَةٌ وَأَرْبَعُونَ مِيلًا.",
+      "translation": "Musafir meng-qashar shalat yang empat rakaat dalam perjalanan sejauh empat burud, yaitu empat puluh delapan mil."
+    },
+    {
+      "title": "Bab Shalat Dua Hari Raya",
+      "titleArabic": "بَابُ صَلَاةِ الْعِيدَيْنِ",
+      "arabic": "صَلَاةُ الْعِيدَيْنِ سُنَّةٌ، وَهِيَ رَكْعَتَانِ، يُكَبِّرُ فِي الْأُولَى سَبْعًا بِتَكْبِيرَةِ الْإِحْرَامِ، وَفِي الثَّانِيَةِ سِتًّا بِتَكْبِيرَةِ الْقِيَامِ.",
+      "translation": "Shalat dua hari raya hukumnya sunnah, terdiri dari dua rakaat. Bertakbir pada rakaat pertama sebanyak tujuh kali termasuk takbiratul ihram, dan pada rakaat kedua enam kali termasuk takbir intiqal (bangkit)."
+    },
+    {
+      "title": "Kitab Jenazah",
+      "titleArabic": "كِتَابُ الْجَنَائِزِ",
+      "arabic": "غَسْلُ الْمَيِّتِ وَتَكْفِينُهُ وَالصَّلَاةُ عَلَيْهِ وَدَفْنُهُ فَرْضُ كِفَايَةٍ. وَيُكَبَّرُ عَلَى الْجَنَازَةِ أَرْبَعَ تَكْبِيرَاتٍ.",
+      "translation": "Memandikan mayat, mengkafani, menshalati, dan menguburkannya adalah fardu kifayah. Shalat jenazah dilakukan dengan empat kali takbir."
+    },
+    {
+      "title": "Kitab Zakat: Zakat Hewan Ternak",
+      "titleArabic": "كِتَابُ الزَّكَاةِ: بَابُ زَكَاةِ الْمَاشِيَةِ",
+      "arabic": "تَجِبُ الزَّكَاةُ فِي النَّعَمِ إِذَا حَالَ عَلَيْهَا الْحَوْلُ، وَهِيَ الْإِبِلُ وَالْبَقَرُ وَالْغَنَمُ.",
+      "translation": "Zakat wajib pada hewan ternak jika telah mencapai satu tahun (haul), yaitu unta, sapi, dan kambing."
+    },
+    {
+      "title": "Bab Zakat Emas dan Perak",
+      "titleArabic": "بَابُ زَكَاةِ الْعَيْنِ",
+      "arabic": "نِصَابُ الْوَرِقِ خَمْسُ أَوَاقٍ، وَهِيَ مِائَتَا دِرْهَمٍ. وَنِصَابُ الذَّهَبِ عِشْرُونَ دِينَارًا. وَالْقَدْرُ الْمُخْرَجُ رُبُعُ الْعُشْرِ.",
+      "translation": "Nisab perak adalah lima uqiyah, yaitu dua ratus dirham. Nisab emas adalah dua puluh dinar. Kadar yang harus dikeluarkan adalah seperempat dari sepersepuluh (2,5%)."
+    },
+    {
+      "title": "Bab Zakat Fitrah",
+      "titleArabic": "بَابُ زَكَاةِ الْفِطْرِ",
+      "arabic": "زَكَاةُ الْفِطْرِ صَاعٌ مِنْ قُوتِ الْبَلَدِ، تَجِبُ عَلَى كُلِّ مُسْلِمٍ عَنْ نَفْسِهِ وَعَمَّنْ تَلْزَمُهُ نَفَقَتُهُ.",
+      "translation": "Zakat Fitrah adalah satu sha' dari makanan pokok negeri tersebut, wajib bagi setiap muslim atas dirinya dan atas orang yang nafkahnya menjadi tanggung jawabnya."
+    },
+    {
+      "title": "Kitab Puasa (Shiyam)",
+      "titleArabic": "كِتَابُ الصِّيَامِ",
+      "arabic": "يَجِبُ صَوْمُ رَمَضَانَ بِرُؤْيَةِ الْهِلَالِ أَوْ بِكَمَالِ شَعْبَانَ ثَلَاثِينَ يَوْمًا. وَفَرْضُهُ النِّيَّةُ وَالْإِمْسَاكُ عَنِ الْمُفْطِرَاتِ.",
+      "translation": "Puasa Ramadhan wajib dengan melihat hilal atau dengan menyempurnakan bulan Sya'ban tiga puluh hari. Fardunya adalah niat dan menahan diri dari hal-hal yang membatalkan."
+    },
+    {
+      "title": "Bab Itikaf",
+      "titleArabic": "بَابُ الِاعْتِكَافِ",
+      "arabic": "الِاعْتِكَافُ جَائِزٌ فِي كُلِّ مَسْجِدٍ، وَأَقَلُّهُ يَوْمٌ وَلَيْلَةٌ، وَلَا يَكُونُ إِلَّا بِصَوْمٍ.",
+      "translation": "Itikaf diperbolehkan di setiap masjid, minimal dilakukan selama satu hari satu malam, dan tidak sah itikaf kecuali dengan keadaan berpuasa (menurut pendapat masyhur Maliki)."
+    },
+    {
+      "title": "Kitab Haji dan Umrah",
+      "titleArabic": "كِتَابُ الْحَجِّ وَالْعُمْرَةِ",
+      "arabic": "أَرْكَانُ الْحَجِّ أَرْبَعَةٌ: الْإِحْرَامُ، وَالسَّعْيُ بَيْنَ الصَّفَا وَالْمَرْوَةِ، وَوُقُوفُ عَرَفَةَ، وَطَوَافُ الْإِفَاضَةِ.",
+      "translation": "Rukun haji ada empat: Ihram, Sa'i antara Shafa dan Marwah, Wukuf di Arafah, dan Thawaf Ifadhah."
+    },
+    {
+      "title": "Kitab Kurban dan Aqiqah",
+      "titleArabic": "كِتَابُ الضَّحَايَا وَالْعَقِيقَةِ",
+      "arabic": "الْأُضْحِيَّةُ سُنَّةٌ، وَالْعَقِيقَةُ عَنِ الْمَوْلُودِ سُنَّةٌ، وَهِيَ شَاةٌ تُذْبَحُ يَوْمَ السَّابِعِ.",
+      "translation": "Kurban (Udhiyah) adalah sunnah, dan Aqiqah bagi bayi yang baru lahir adalah sunnah, yaitu seekor kambing yang disembelih pada hari ketujuh."
+    },
+    {
+      "title": "Kitab Jihad",
+      "titleArabic": "كِتَابُ الْجِهَادِ",
+      "arabic": "الْجِهَادُ فَرْضُ كِفَايَةٍ، وَإِذَا نَزَلَ الْعَدُوُّ بِقَوْمٍ تَعَيَّنَ عَلَيْهِمْ.",
+      "translation": "Jihad adalah fardu kifayah, namun jika musuh mendatangi suatu kaum maka hukumnya menjadi fardu ain bagi mereka."
+    },
+    {
+      "title": "Kitab Nikah: Wali dan Saksi",
+      "titleArabic": "كِتَابُ النِّكَاحِ: بَابُ الْوَلِيِّ وَالشُّهُودِ",
+      "arabic": "لَا نِكَاحَ إِلَّا بِوَلِيٍّ وَصَدَاقٍ وَشَاهِدَيْ عَدْلٍ.",
+      "translation": "Tidak ada nikah (yang sah) kecuali dengan adanya wali, mahar, dan dua orang saksi yang adil."
+    },
+    {
+      "title": "Bab Mahar (Sadaq)",
+      "titleArabic": "بَابُ الصَّدَاقِ",
+      "arabic": "أَقَلُّ الصَّدَاقِ رُبُعُ دِينَارٍ أَوْ ثَلَاثَةُ دَرَاهِمَ.",
+      "translation": "Mahar minimal adalah seperempat dinar atau tiga dirham perak."
+    },
+    {
+      "title": "Kitab Talak",
+      "titleArabic": "كِتَابُ الطَّلَاقِ",
+      "arabic": "الطَّلَاقُ لِلْحُرِّ ثَلَاثٌ، وَلِلْعَبْدِ اثْنَتَانِ. وَالسُّنَّةُ أَنْ يُطَلِّقَهَا طَاهِرًا مِنْ غَيْرِ جِمَاعٍ.",
+      "translation": "Talak bagi laki-laki merdeka ada tiga kali, dan bagi hamba sahaya dua kali. Sunnahnya adalah menjatuhkan talak saat istri dalam keadaan suci yang belum disetubuhi."
+    },
+    {
+      "title": "Bab Iddah",
+      "titleArabic": "بَابُ الْعِدَّةِ",
+      "arabic": "عِدَّةُ الْمُطَلَّقَةِ ثَلَاثَةُ قُرُوءٍ، وَعِدَّةُ الْمُتَوَفَّى عَنْهَا زَوْجُهَا أَرْبَعَةُ أَشْهُرٍ وَعَشْرٌ.",
+      "translation": "Masa iddah bagi wanita yang dicerai adalah tiga kali masa suci (quru'), dan iddah bagi wanita yang ditinggal mati suaminya adalah empat bulan sepuluh hari."
+    },
+    {
+      "title": "Kitab Jual Beli (Buyu')",
+      "titleArabic": "كِتَابُ الْبُيُوعِ",
+      "arabic": "الْأَصْلُ فِي الْبُيُوعِ الْإِبَاحَةُ إِلَّا مَا نَهَى اللَّهُ عَنْهُ وَرَسُولُهُ مِنَ الرِّبَا وَالْغَرَرِ.",
+      "translation": "Hukum asal dalam jual beli adalah boleh, kecuali apa yang dilarang oleh Allah dan Rasul-Nya seperti riba dan gharar (ketidakjelasan)."
+    },
+    {
+      "title": "Bab Riba",
+      "titleArabic": "بَابُ الرِّبَا",
+      "arabic": "الرِّبَا فِي النَّسِيئَةِ وَالْفَضْلِ فِي السِّتَّةِ الْأَشْيَاءِ الْمَنْصُوصِ عَلَيْهَا: الذَّهَبُ وَالْفِضَّةُ وَالْبُرُّ وَالشَّعِيرُ وَالتَّمْرُ وَالْمِلْحُ.",
+      "translation": "Riba terjadi pada penundaan (nasi'ah) dan kelebihan (fadhl) pada enam jenis benda yang disebutkan nash: emas, perak, gandum burr, gandum sya'ir, kurma, dan garam."
+    },
+    {
+      "title": "Bab Sewa Menyewa (Ijarah)",
+      "titleArabic": "بَابُ الْإِجَارَةِ",
+      "arabic": "تَجُوزُ الْإِجَارَةُ عَلَى الْمَنَافِعِ الْمَعْلُومَةِ بِأُجْرَةٍ مَعْلُومَةٍ.",
+      "translation": "Boleh melakukan sewa menyewa atas manfaat yang diketahui dengan upah yang diketahui pula."
+    },
+    {
+      "title": "Kitab Waris (Farā’id)",
+      "titleArabic": "كِتَابُ الْفَرَائِضِ",
+      "arabic": "أَسْبَابُ الْمِيرَاثِ ثَلَاثَةٌ: نَسَبٌ، وَنِكَاحٌ، وَوَلَاءٌ.",
+      "translation": "Sebab-sebab mendapatkan warisan ada tiga: Nasab (hubungan darah), Nikah (perkawinan), dan Wala' (memerdekakan budak)."
+    },
+    {
+      "title": "Kitab Hudud: Hukuman Zina",
+      "titleArabic": "كِتَابُ الْحُدُودِ: بَابُ حَدِّ الزِّنَا",
+      "arabic": "الزَّانِي الْمُحْصَنُ رَجْمُهُ، وَغَيْرُ الْمُحْصَنِ جَلْدُ مِائَةٍ.",
+      "translation": "Pezina yang muhshan (pernah menikah secara sah) hukumannya adalah rajam, dan yang bukan muhshan hukumannya adalah dicambuk seratus kali."
+    },
+    {
+      "title": "Bab Hukuman Mencuri",
+      "titleArabic": "بَابُ حَدِّ السَّرِقَةِ",
+      "arabic": "تُقْطَعُ الْيَدُ فِي رُبُعِ دِينَارٍ فَصَاعِدًا مِنْ حِرْزٍ مِثْلِهِ.",
+      "translation": "Tangan dipotong pada pencurian senilai seperempat dinar atau lebih yang diambil dari tempat penyimpanan yang semestinya."
+    },
+    {
+      "title": "Kitab Peradilan (Aqdiyah)",
+      "titleArabic": "كِتَابُ الْأَقْضِيَةِ",
+      "arabic": "الْبَيِّنَةُ عَلَى الْمُدَّعِي وَالْيَمِينُ عَلَى مَنْ أَنْكَرَ.",
+      "translation": "Bukti wajib dihadirkan oleh penggugat, dan sumpah bagi yang mengingkari."
+    },
+    {
+      "title": "Kitab Pembebasan Budak (Itq)",
+      "titleArabic": "كِتَابُ الْعِتْقِ",
+      "arabic": "أَفْضَلُ الْعِتْقِ أَنْفَسُهَا عِنْدَ أَهْلِهَا وَأَكْثَرُهَا ثَمَنًا.",
+      "translation": "Pembebasan budak yang paling utama adalah yang paling berharga menurut pemiliknya dan yang paling mahal harganya."
+    },
+    {
+      "title": "Khatimah (Penutup)",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ",
+      "arabic": "تَمَّ كِتَابُ الْكِافِي بِحَمْدِ اللَّهِ وَمَنِّهِ، نَسْأَلُ اللَّهَ أَنْ يَنْفَعَ بِهِ وَيَجْعَلَهُ خَالِصًا لِوَجْهِهِ الْكَرِيمِ.",
+      "translation": "Telah selesai Kitab Al-Kafi dengan puji dan karunia Allah, kami memohon kepada Allah agar kitab ini bermanfaat dan menjadikannya ikhlas karena wajah-Nya yang mulia."
+    }
+  ]
+}
