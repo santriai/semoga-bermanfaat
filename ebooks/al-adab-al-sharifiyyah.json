@@ -1,0 +1,176 @@
+{
+  "profile": {
+    "name": "Al-Adab al-Sharifiyyah",
+    "originalTitle": "الآدابُ الشَّرِيفِيَّةُ فِي عِلْمِ المُنَاظَرَةِ",
+    "author": "Al-Sayyid al-Sharif Ali bin Muhammad al-Jurjani (740-816 H)",
+    "field": "Ilmu al-Bahth wa al-Munazarah (Logika Dialektika dan Etika Diskusi)",
+    "about": "Kitab Al-Adab al-Sharifiyyah merupakan teks fundamental dalam tradisi madrasah dan pesantren yang membahas protokol intelektual dalam berdebat dan berdiskusi. Kitab ini disusun oleh ulama besar Al-Jurjani untuk memberikan panduan sistematis mengenai bagaimana sebuah argumen dibangun, dipertahankan, dan disanggah secara logis. Fokus utamanya adalah menjaga integritas kebenaran melalui metode 'Man'u' (Pencegahan), 'Naqd' (Pembatalan), dan 'Mu'aradhah' (Perlawanan). Karya ini dianggap sebagai matan (teks inti) yang sangat ringkas namun padat, menjadi rujukan utama sebelum mempelajari kitab-kitab perdebatan yang lebih kompleks. Di dalamnya diajarkan etika bagi penanya (Sa'il) dan penjawab (Mu'allil) agar diskusi tetap berada pada jalur ilmiah dan jauh dari sifat keras kepala.",
+    "authorBorn": "740 H / 1339 M (Astarabad, Jurjan)",
+    "authorDied": "816 H / 1413 M (Shiraz)",
+    "authorCentury": "Abad ke-8 & 9 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Pembukaan (Khutbah al-Kitab)",
+      "titleArabic": "خُطْبَةُ الكِتَابِ",
+      "arabic": "بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ. الْحَمْدُ لِلَّهِ الَّذِي بَنَى كَلِمَاتِهِ عَلَى أَسَاسِ التَّحْقِيقِ، وَالصَّلَاةُ وَالسَّلَامُ عَلَى نَبِيِّهِ مُحَمَّدٍ صَاحِبِ لِوَاءِ التَّدْقِيقِ، وَعَلَى آلِهِ وَصَحْبِهِ خُلَفَاءِ التَّوْفِيقِ.",
+      "translation": "Dengan menyebut nama Allah yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah yang membangun kalimat-kalimat-Nya di atas landasan verifikasi (tahqiq), salawat serta salam semoga tercurah kepada Nabi-Nya, Muhammad, pemilik panji ketelitian (tadqiq), dan kepada keluarga serta para sahabatnya selaku khalifah taufik."
+    },
+    {
+      "title": "Pengantar Ilmu Munazarah",
+      "titleArabic": "مُقَدِّمَةُ العِلْمِ",
+      "arabic": "وَبَعْدُ؛ فَهَذِهِ رِسَالَةٌ مُخْتَصَرَةٌ فِي آدَابِ الْبَحْثِ وَالْمُنَاظَرَةِ، تَنْفَعُ لِلْمُبْتَدِئِينَ وَتُذَكِّرُ لِلْمُنْتَهِينَ.",
+      "translation": "Amma ba'du; ini adalah risalah ringkas dalam etika penelitian dan perdebatan, yang bermanfaat bagi para pemula dan menjadi pengingat bagi mereka yang sudah mahir."
+    },
+    {
+      "title": "Definisi Munazarah (Perdebatan)",
+      "titleArabic": "تَعْرِيفُ المُنَاظَرَةِ",
+      "arabic": "المُنَاظَرَةُ هِيَ: النَّظَرُ بِالْبَصِيرَةِ مِنْ جَانِبَيْنِ فِي النِّسْبَةِ بَيْنَ الشَّيْئَيْنِ لِإِظْهَارِ الصَّوَابِ.",
+      "translation": "Munazarah adalah: Penelitian dengan mata hati (basirah) dari dua belah pihak terhadap hubungan antara dua hal demi menampakkan kebenaran."
+    },
+    {
+      "title": "Hakikat Bahth (Pembahasan)",
+      "titleArabic": "حَقِيقَةُ البَحْثِ",
+      "arabic": "وَالْبَحْثُ هُوَ: إِثْبَاتُ الْحُكْمِ بِالدَّلِيلِ أَوْ نَفْيُهُ عَنْهُ.",
+      "translation": "Bahth (Pembahasan/Penelitian) adalah: Menetapkan suatu hukum dengan dalil atau meniadakan hukum tersebut darinya."
+    },
+    {
+      "title": "Struktur Kalimat dalam Perdebatan",
+      "titleArabic": "أَقْسَامُ الكَلَامِ فِي المُنَاظَرَةِ",
+      "arabic": "اعْلَمْ أَنَّ مَا يُورَدُ فِي الْبَحْثِ إِمَّا أَنْ يَكُونَ لَفْظاً مُفْرَداً، أَوْ مُرَكَّباً.",
+      "translation": "Ketahuilah bahwa apa yang dikemukakan dalam pembahasan ada kalanya berupa lafaz tunggal (mufrad) atau lafaz majemuk (murakkab)."
+    },
+    {
+      "title": "Pembahasan Lafaz Tunggal (Mufrad)",
+      "titleArabic": "فِي اللَّفْظِ المُفْرَدِ",
+      "arabic": "فَإِنْ كَانَ لَفْظاً مُفْرَداً، فَلَا يُتَوَجَّهُ إِلَيْهِ مَنْعٌ وَلَا نَقْضٌ وَلَا مُعَارَضَةٌ، بَلْ يُطْلَبُ مِنْهُ التَّعْرِيفُ.",
+      "translation": "Jika berupa lafaz tunggal, maka tidak diarahkan kepadanya pencegahan (man'u), pembatalan (naqd), maupun perlawanan (mu'aradhah), melainkan yang diminta darinya adalah definisi (ta'rif)."
+    },
+    {
+      "title": "Tentang Definisi (At-Ta'rif)",
+      "titleArabic": "فِي التَّعْرِيفِ",
+      "arabic": "التَّعْرِيفُ: هُوَ ذِكْرُ مَا يُمَيِّزُ الشَّيْءَ عَمَّا عَدَاهُ، سَوَاءٌ كَانَ بِالْحَدِّ أَوْ بِالرَّسْمِ.",
+      "translation": "Definisi (Ta'rif) adalah: Menyebutkan sesuatu yang membedakan suatu hal dari hal-hal lainnya, baik itu berupa had (definisi esensial) maupun rasm (definisi deskriptif)."
+    },
+    {
+      "title": "Syarat-syarat Definisi yang Benar",
+      "titleArabic": "شُرُوطُ التَّعْرِيفِ",
+      "arabic": "وَيُشْتَرَطُ فِي التَّعْرِيفِ أَنْ يَكُونَ جَامِعاً مَانِعاً، وَأَنْ لَا يَكُونَ بِمَا هُوَ أَخْفَى مِنَ الْمُعَرَّفِ.",
+      "translation": "Disyaratkan dalam definisi untuk bersifat mencakup (jami') dan mencegah (mani'), serta tidak boleh menggunakan sesuatu yang lebih samar daripada yang didefinisikan."
+    },
+    {
+      "title": "Sanggahan terhadap Definisi",
+      "titleArabic": "الاعْتِرَاضُ عَلَى التَّعْرِيفِ",
+      "arabic": "وَالاعْتِرَاضُ عَلَى التَّعْرِيفِ إِمَّا بِطَرِيقِ الْمَنْعِ، أَوْ بِطَرِيقِ النَّقْضِ.",
+      "translation": "Keberatan terhadap suatu definisi bisa melalui jalan pencegahan (man'u) atau jalan pembatalan (naqd)."
+    },
+    {
+      "title": "Definisi Man'u dalam Ta'rif",
+      "titleArabic": "مَنْعُ التَّعْرِيفِ",
+      "arabic": "الْمَنْعُ فِي التَّعْرِيفِ هُوَ: عَدَمُ سَلَامَةِ التَّعْرِيفِ مِنْ حَيْثُ الدَّلِيلِ أَوْ عَدَمُ جَامِعِيَّتِهِ أَوْ مَانِعِيَّتِهِ.",
+      "translation": "Pencegahan (Man'u) dalam definisi adalah: Ketidakselamatan definisi dari segi dalil, atau ketidakmampuannya dalam mencakup (jami') atau mencegah (mani')."
+    },
+    {
+      "title": "Definisi Naqd dalam Ta'rif",
+      "titleArabic": "نَقْضُ التَّعْرِيفِ",
+      "arabic": "وَالنَّقْضُ هُوَ: إِيرَادُ صُورَةٍ يُوجَدُ فِيهَا التَّعْرِيفُ وَلَا يُوجَدُ فِيهَا الْمُعَرَّفُ، أَوْ بِالْعَكْسِ.",
+      "translation": "Pembatalan (Naqd) adalah: Mengemukakan suatu gambaran (kasus) di mana definisi ada namun yang didefinisikan tidak ada, atau sebaliknya."
+    },
+    {
+      "title": "Pembahasan Lafaz Majemuk (Murakkab)",
+      "titleArabic": "فِي اللَّفْظِ المُرَكَّبِ",
+      "arabic": "وَإِنْ كَانَ مُرَكَّباً، فَإِمَّا أَنْ يَكُونَ قَوْلاً لَا تَقْسِيمَ فِيهِ أَوْ قَوْلاً فِيهِ تَقْسِيمٌ.",
+      "translation": "Jika berupa lafaz majemuk, maka adakalanya berupa perkataan yang tidak mengandung pembagian (taqsim) atau perkataan yang mengandung pembagian."
+    },
+    {
+      "title": "Tentang Pembagian (Taqsim)",
+      "titleArabic": "فِي التَّقْسِيمِ",
+      "arabic": "التَّقْسِيمُ هُوَ: تَعْيِينُ الْأَقْسَامِ الْمُنْدَرِجَةِ تَحْتَ الْكُلِّيِّ.",
+      "translation": "Pembagian (Taqsim) adalah: Menentukan bagian-bagian yang termasuk di bawah suatu konsep universal (kulli)."
+    },
+    {
+      "title": "Cara Menyanggah Taqsim",
+      "titleArabic": "الاعْتِرَاضُ عَلَى التَّقْسِيمِ",
+      "arabic": "وَيُعْتَرَضُ عَلَيْهِ: بِإِبْطَالِ حَصْرِهِ، أَوْ بِبَيَانِ دُخُولِ بَعْضِ الْأَقْسَامِ فِي بَعْضٍ.",
+      "translation": "Keberatan terhadap pembagian dilakukan dengan: Membatalkan batasan (hashr)-nya, atau dengan menjelaskan masuknya sebagian bagian ke dalam bagian lainnya."
+    },
+    {
+      "title": "Tentang Tasdiqat (Proposisi)",
+      "titleArabic": "فِي التَّصْدِيقَاتِ",
+      "arabic": "وَأَمَّا التَّصْدِيقَاتُ، فَهِيَ الْقَضَايَا الَّتِي يَدَّعِيهَا الْمُعَلِّلُ وَيُقِيمُ عَلَيْهَا الدَّلِيلَ.",
+      "translation": "Adapun tasdiqat (proposisi) adalah pernyataan-pernyataan yang diklaim oleh pemberi alasan (Mu'allil) dan ia menegakkan dalil atasnya."
+    },
+    {
+      "title": "Tugas Pihak-pihak dalam Munazarah",
+      "titleArabic": "وَظِيفَةُ السَّائِلِ وَالمُعَلِّلِ",
+      "arabic": "الْمُتَكَلِّمُ إِمَّا مُعَلِّلٌ وَهُوَ الْمُثْبِتُ لِلشَّيْءِ، وَإِمَّا سَائِلٌ وَهُوَ الْمُعْتَرِضُ عَلَيْهِ.",
+      "translation": "Pembicara adakalanya adalah Mu'allil (Pemberi Alasan), yaitu yang menetapkan sesuatu, dan adakalanya adalah Sa'il (Penanya), yaitu yang mengajukan keberatan kepadanya."
+    },
+    {
+      "title": "Metode Pertama Sa'il: Al-Man'u (Pencegahan)",
+      "titleArabic": "الطَّرِيقُ الأَوَّلُ: المَنْعُ",
+      "arabic": "الْمَنْعُ: وَهُوَ طَلَبُ الدَّلِيلِ عَلَى الْمُقَدِّمَةِ الْمُعَيَّنَةِ مِمَّا ذَكَرَهُ الْمُعَلِّلُ.",
+      "translation": "Al-Man'u (Pencegahan): Yaitu meminta dalil atas premis (muqaddimah) tertentu dari apa yang disebutkan oleh Mu'allil."
+    },
+    {
+      "title": "Sandaran Man'u (Sanad al-Man'u)",
+      "titleArabic": "سَنَدُ المَنْعِ",
+      "arabic": "وَيَجُوزُ أَنْ يُذْكَرَ مَعَ الْمَنْعِ سَنَدٌ، وَهُوَ مَا يُقَوِّي الْمَنْعَ وَيُوَجِّهُهُ.",
+      "translation": "Diperbolehkan untuk menyebutkan sandaran (sanad) bersama dengan pencegahan tersebut, yaitu sesuatu yang memperkuat dan mengarahkan pencegahan tersebut."
+    },
+    {
+      "title": "Metode Kedua Sa'il: Al-Mu'aradhah (Perlawanan)",
+      "titleArabic": "الطَّرِيقُ الثَّانِي: المُعَارَضَةُ",
+      "arabic": "الْمُعَارَضَةُ هِيَ: إِقَامَةُ الدَّلِيلِ عَلَى خِلَافِ مَا أَقَامَ الْمُعَلِّلُ الدَّلِيلَ عَلَيْهِ.",
+      "translation": "Al-Mu'aradhah (Perlawanan) adalah: Menegakkan dalil atas kebalikan dari apa yang telah ditegakkan dalilnya oleh Mu'allil."
+    },
+    {
+      "title": "Jenis-jenis Mu'aradhah",
+      "titleArabic": "أَقْسَامُ المُعَارَضَةِ",
+      "arabic": "وَالْمُعَارَضَةُ إِمَّا فِي الدَّلِيلِ أَوْ فِي الْعِلَّةِ.",
+      "translation": "Perlawanan adakalanya terjadi pada dalil atau pada alasan ('illah)."
+    },
+    {
+      "title": "Metode Ketiga Sa'il: Al-Naqd (Pembatalan)",
+      "titleArabic": "الطَّرِيقُ الثَّالِثُ: النَّقْضُ",
+      "arabic": "النَّقْضُ هُوَ: بَيَانُ انْتِفَاءِ الْحُكْمِ مَعَ وُجُودِ الْعِلَّةِ فِي صُورَةٍ أُخْرَى.",
+      "translation": "Al-Naqd (Pembatalan) adalah: Penjelasan tentang hilangnya hukum (kesimpulan) padahal alasan ('illah) ada pada kasus (surah) yang lain."
+    },
+    {
+      "title": "Tanggapan Mu'allil terhadap Man'u",
+      "titleArabic": "جَوَابُ المُعَلِّلِ عَنِ المَنْعِ",
+      "arabic": "فَإِذَا مُنِعَتِ الْمُقَدِّمَةُ، فَعَلَى الْمُعَلِّلِ إِثْبَاتُهَا بِالدَّلِيلِ.",
+      "translation": "Jika sebuah premis dicegah (diminta dalilnya), maka kewajiban Mu'allil adalah menetapkannya dengan dalil."
+    },
+    {
+      "title": "Tanggapan Mu'allil terhadap Mu'aradhah",
+      "titleArabic": "جَوَابُ المُعَلِّلِ عَنِ المُعَارَضَةِ",
+      "arabic": "وَإِذَا عُورِضَ، فَعَلَيْهِ أَنْ يَدْفَعَ الْمُعَارَضَةَ بِالْمَنْعِ أَوْ بِإِسْقَاطِ دَلِيلِ الْمُعَارِضِ.",
+      "translation": "Jika dilawan (mu'aradhah), maka ia wajib menolak perlawanan tersebut dengan pencegahan (man'u) atau dengan menggugurkan dalil dari sang penentang (mu'aridh)."
+    },
+    {
+      "title": "Etika Umum Munazarah (Al-Adab)",
+      "titleArabic": "آدَابُ المُنَاظَرَةِ العَامَّةُ",
+      "arabic": "وَيَنْبَغِي لِلْمُنَاظِرِ أَنْ يَجْتَنِبَ الْإِيجَازَ الْمُخِلَّ، وَالْإِطْنَابَ الْمُمِلَّ، وَالْأَلْفَاظَ الْغَرِيبَةَ.",
+      "translation": "Seyogyanya bagi seorang debatur untuk menjauhi ringkasan yang merusak pemahaman, penjelasan bertele-tele yang membosankan, dan kata-kata yang asing (garib)."
+    },
+    {
+      "title": "Menghindari Sifat Keras Kepala",
+      "titleArabic": "الاحْتِرَازُ عَنِ المُكَابَرَةِ",
+      "arabic": "وَيَجِبُ عَلَيْهِ الاحْتِرَازُ عَنِ الْمُكَابَرَةِ، وَهِيَ رَدُّ الْحَقِّ بَعْدَ ظُهُورِهِ.",
+      "translation": "Dan wajib baginya menjauhi sifat keras kepala (mukabarah), yaitu menolak kebenaran setelah kebenaran itu tampak jelas."
+    },
+    {
+      "title": "Etika saat Diskusi Berlangsung",
+      "titleArabic": "أَدَبُ الحَالِ",
+      "arabic": "وَلَا يَشْتَغِلُ بِالضَّحِكِ، وَلَا بِرَفْعِ الصَّوْتِ، وَلَا بِالاسْتِهْزَاءِ بِالْخَصْمِ.",
+      "translation": "Dan tidak boleh menyibukkan diri dengan tertawa, meninggikan suara, atau mengejek lawan bicara."
+    },
+    {
+      "title": "Khatimah (Penutup Kitab)",
+      "titleArabic": "خَاتِمَةُ الكِتَابِ",
+      "arabic": "هَذَا مَا تَيَسَّرَ فِي هَذِهِ الْأَوْرَاقِ، وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ، وَصَلَّى اللهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَآلِهِ أَجْمَعِينَ.",
+      "translation": "Inilah apa yang dimudahkan dalam lembaran-lembaran ini. Segala puji bagi Allah Tuhan semesta alam, dan semoga Allah melimpahkan rahmat kepada junjungan kita Muhammad dan seluruh keluarganya."
+    }
+  ]
+}
