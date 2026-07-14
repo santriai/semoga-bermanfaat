@@ -1,104 +1,194 @@
 {
   "profile": {
     "name": "Al-Luma'",
-    "originalTitle": "كِتَابُ اللُّمَعِ فِي التَّصَوُّفِ",
-    "author": "Imam Abu Nashr al-Sarraj al-Tusi (أَبُو نَصْرٍ عَبْدُ اللَّهِ بْنُ عَلِيٍّ السَّرَّاجُ الطُّوسِيُّ)",
-    "field": "Tasawwuf (Sufi) dan Akhlaq",
-    "about": "Kitab Al-Luma' merupakan salah satu mahakarya tertua, terlengkap, dan paling otoritatif dalam khazanah tasawuf Sunni klasik. Ditulis pada abad ke-4 Hijriah oleh Imam Abu Nashr al-Sarraj al-Tusi, kitab ini disusun untuk membela eksistensi tasawuf dari tuduhan menyimpang serta meluruskan pemahaman mistik agar senantiasa berpijak kokoh di atas Al-Qur'an dan As-Sunnah. Secara sistematis, penulis menguraikan perbedaan esensial antara maqamat (stasiun spiritual) dan ahwal (keadaan batin), memberikan metodologi kritik terhadap perilaku eskapisme, serta mendefinisikan istilah-istilah teknis sufi dengan sangat presisi. Kitab ini menjadi cetak biru (blueprint) utama bagi ulama-ulama besar generasi setelahnya seperti Al-Qusyairi dalam Ar-Risalah al-Qusyairiyyah dan Al-Ghazali dalam Ihya Ulumuddin.",
-    "authorBorn": "Tus, Khorasan (Iran)",
-    "authorDied": "378 Hijriah / 988 Masehi",
-    "authorCentury": "Abad ke-4 Hijriah"
+    "originalTitle": "كِتَابُ اللُّمَعِ فِي التَّصَوُّفِ",
+    "author": "Al-Imam Abu Nashr al-Sarraj al-Tusi (أَبُو نَصْرٍ عَبْدُ اللهِ بْنُ عَلِيٍّ السَّرَّاجُ الطُّوسِيُّ)",
+    "field": "Tasawwuf (Sufisme Islam Klasik & Metodologi Spiritual)",
+    "about": "Kitab Al-Luma' merupakan salah satu karya monumental tertua yang menyajikan kodifikasi dan pembelaan sistematis terhadap ajaran tasawwuf Sunni agar selaras dengan Al-Qur'an dan Sunnah. Ditulis pada abad ke-4 Hijriah, kitab ini berfungsi sebagai penjelas keaslian tarekat para sufi dari berbagai syubhat dan tuduhan menyimpang. Di dalamnya, Imam Al-Sarraj membedah secara ilmiah konsep maqamat, ahwal, adab-adab batiniah, hingga kritik objektif terhadap sekte-sekte yang keliru dalam memahami fana' dan ittihad. Kitab ini diakui secara luas sebagai jembatan emas yang menghubungkan syariat materiil dan hakikat spiritual di lembaga-lembaga pendidikan Islam klasik seperti pesantren.",
+    "authorBorn": "Thus, Khorasan, Iran",
+    "authorDied": "378 Hijriah / 988 Masehi di Thus",
+    "authorCentury": "Abad ke-4 Hijriah (Masa Keemasan Klasik Islam)"
   },
   "chapters": [
     {
-      "title": "Muqaddimah (Pendahuluan Kitab)",
-      "titleArabic": "بَابُ الْمُقَدِّمَةِ فِي تَقْرِيرِ مَذْهَبِ أَهْلِ التَّصَوُّفِ",
-      "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ، وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَآلِهِ وَصَحْبِهِ أَجْمَعِينَ. أَمَّا بَعْدُ، فَإِنَّ عِلْمَ التَّصَوُّفِ هُوَ عِلْمُ حَقَائِقِ الْأَحْوَالِ، وَمَقَامَاتِ الْأَبْرَارِ، وَهُوَ مَبْنِيٌّ عَلَى التَّمَسُّكِ بِكِتَابِ اللَّهِ وَسُنَّةِ رَسُولِهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ. وَإِنَّمَا جَمَعْتُ فِي هَذَا الْكِتَابِ لُمَعًا مِنَ الْكَلَامِ فِي التَّصَوُّفِ لِيَعْرِفَ الْمُنْصِفُونَ مَحَاسِنَ هَذِهِ الطَّائِفَةِ وَمُوَافَقَتَهُمْ لِلشَّرِيعَةِ.",
-      "translation": "Segala puji bagi Allah Tuhan semesta alam, semoga shalawat serta salam senantiasa tercurah kepada junjungan kita Nabi Muhammad, keluarga, dan para sahabatnya sekalian. Adapun setelah itu, sesungguhnya ilmu tasawuf adalah ilmu tentang hakikat keadaan batin (ahwal) dan kedudukan spiritual (maqamat) orang-orang yang berbakti, yang dibangun di atas dasar berpegang teguh pada Kitabullah dan Sunnah Rasul-Nya shallallahu 'alaihi wa sallam. Sesungguhnya aku menghimpun dalam kitab ini intisari (luma') dari perkataan seputar tasawuf agar orang-orang yang bersikap objektif dapat mengetahui keindahan jalan golongan ini serta keselarasan mereka dengan syariat."
+      "title": "Muqaddimah Kitab (Pengantar Pengarang)",
+      "titleArabic": "خُطْبَةُ الْكِتَابِ وَالْمُقَدِّمَةُ",
+      "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ، وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَآلِهِ وَصَحْبِهِ أَجْمَعِينَ. أَمَّا بَعْدُ، فَإِنَّكَ سَأَلْتَنِي أَنْ أَجْمَعَ لَكَ مَا يَتَبَيَّنُ بِهِ مَذَاهِبُ الصُّوفِيَّةِ، وَمَا كَانَ عَلَيْهِ أَئِمَّتُهُمْ فِي الْأُصُولِ وَالْفُرُوعِ، وَكَيْفَ كَانَتْ طَرِيقَتُهُمْ فِي الزُّهْدِ وَالْعِبَادَةِ، وَمَا قَالُوهُ فِي الْحَقَائِقِ وَالْأَحْوَالِ، لِيَعْلَمَ مَنْ نَظَرَ فِيهِ أَنَّ طَرِيقَهُمْ مُسْتَقِيمٌ مَبْنِيٌّ عَلَى الْكِتَابِ وَالسُّنَّةِ.",
+      "translation": "Segala puji bagi Allah, Tuhan semesta alam. Shalawat serta salam semoga senantiasa tercurah kepada junjungan kita Nabi Muhammad, beserta segenap keluarga dan sahabatnya. Amma ba'du: Sesungguhnya engkau telah memintaku untuk menghimpun penjelasan yang menerangkan madzhab-madzhab kaum Sufi, landasan-landasan yang dipegang teguh oleh para imam mereka baik dalam aspek ushul (pokok agama) maupun furu' (cabang syariat), serta bagaimana metode (thariqah) mereka dalam zuhud dan ibadah, dan apa yang mereka kemukakan mengenai hakikat-hakikat spiritual serta kondisi batin (ahwal). Tujuannya agar siapa pun yang menelitinya mengetahui bahwa jalan mereka adalah jalan yang lurus (mustaqim) yang dibangun kokoh di atas fondasi Al-Kitab (Al-Qur'an) dan Al-Sunnah."
     },
     {
-      "title": "Kewajiban Mengikuti Al-Qur'an dan Sunnah",
-      "titleArabic": "بَابُ الِاتِّبَاعِ لِكِتَابِ اللَّهِ وَسُنَّةِ رَسُولِهِ",
-      "arabic": "أَصْلُ طَرِيقَتِنَا هَذِهِ مَبْنِيٌّ عَلَى كِتَابِ اللَّهِ تَعَالَى وَسُنَّةِ نَبِيِّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَالِاقْتِدَاءِ بِالسَّلَفِ الصَّالِحِ. قَالَ اللَّهُ تَعَالَى: {وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا}. فَمَنْ لَمْ يَحْفَظِ الْقُرْآنَ، وَلَمْ يَكْتُبِ الْحَدِيثَ، لَا يُقْتَدَى بِهِ فِي هَذَا الشَّأْنِ لِأَنَّ عِلْمَنَا هَذَا مُقَيَّدٌ بِالْكِتَابِ وَالسُّنَّةِ.",
-      "translation": "Fondasi dari tarekat kami ini dibangun di atas Kitabullah Ta'ala, Sunnah Nabi-Nya shallallahu 'alaihi wa sallam, serta peneladanan terhadap ulama salaf yang saleh. Allah Ta'ala berfirman: 'Apa yang diberikan Rasul kepadamu maka terimalah, dan apa yang dilarangnya bagimu maka tinggalkanlah.' Maka barangsiapa yang tidak menghafal Al-Qur'an dan tidak menulis hadis, ia tidak layak untuk diteladani dalam urusan (tasawuf) ini, karena ilmu kami ini terikat kuat oleh Al-Qur'an dan Sunnah."
+      "title": "Penjelasan tentang Golongan Ahli Ilmu",
+      "titleArabic": "بَابُ بَيَانِ طَبَقَاتِ أَهْلِ الْعِلْمِ",
+      "arabic": "أَهْلُ الْعِلْمِ فِي هَذِهِ الشَّرِيعَةِ ثَلَاثُ طَوَائِفَ: طَائِفَةٌ هُمْ أَصْحَابُ الْحَدِيثِ وَالْأَثَرِ، وَطَائِفَةٌ هُمْ أَهْلُ الْفِقْهِ وَالنَّظَرِ، وَطَائِفَةٌ هُمْ أَهْلُ الْقُلُوبِ وَالْحَقَائِقِ وَالْمُعَامَلَاتِ وَهُمُ الصُّوفِيَّةُ. وَكُلُّ طَائِفَةٍ مِنْهُمْ لَهَا مَوْقِعُهَا فِي الدِّينِ وَحَاجَةُ الْأُمَّةِ إِلَيْهَا مَاسَّةٌ، وَلَا يَسْتَغْنِي الدِّينُ عَنْ وَاحِدَةٍ مِنْهَا.",
+      "translation": "Para ahli ilmu dalam syariat ini terbagi menjadi tiga golongan utama: Golongan pertama adalah para pemegang hadis dan atsar (ilmu riwayat). Golongan kedua adalah para ahli fiqih dan penalaran hukum (istinbath). Dan golongan ketiga adalah para ahli kalbu, hakikat batin, serta muamalah batiniah, yaitu kaum Sufi. Masing-masing golongan memiliki kedudukan yang sangat penting dalam agama, dan kebutuhan umat terhadap mereka sangatlah mendesak, di mana tegaknya urusan agama tidak akan pernah lepas dari kontribusi salah satu di antaranya."
     },
     {
-      "title": "Stasiun Spiritual Pertama: Pertobatan (Tawbah)",
-      "titleArabic": "بَابُ مَقَامِ التَّوْبَةِ وَحَقِيقَتِهَا",
-      "arabic": "الْمَقَامُ الْأَوَّلُ مِنْ مَقَامَاتِ السَّالِكِينَ هُوَ مَقَامُ التَّوْبَةِ. وَهِيَ أَصْلُ كُلِّ مَقَامٍ وَمِفْتَاحُ كُلِّ مَنْزِلٍ. وَحَقِيقَتُهَا عِنْدَ أَهْلِ التَّحْقِيقِ: الْأَسَفُ عَلَى مَا مَضَى مِنَ الْمَخَالَفَاتِ مَعَ الْعَزْمِ عَلَى تَرْكِ الْعَوْدِ، وَالْإِقْلَاعُ عَنِ الذَّنْبِ فِي الْحَالِ، وَالْخُرُوجُ مِنْ مَظَالِمِ الْعِبَادِ.",
-      "translation": "Stasiun spiritual pertama dari maqamat para penempuh jalan (salikin) adalah stasiun pertobatan (tawbah). Tobat merupakan akar dari setiap makam dan kunci bagi setiap kedudukan spiritual. Hakikat tobat menurut para ahli hakikat adalah kesedihan yang mendalam atas pelanggaran di masa lalu disertai tekad bulat untuk tidak kembali mengulanginya, seketika itu juga melepaskan diri dari dosa tersebut, dan menyelesaikan segala kezaliman terhadap sesama manusia."
+      "title": "Keutamaan Kaum Sufi di Antara Ahli Ilmu",
+      "titleArabic": "بَابُ فَضْلِ الصُّوفِيَّةِ وَمَنْزِلَتِهِمْ بَيْنَ أَهْلِ الْعِلْمِ",
+      "arabic": "أَنَّ الصُّوفِيَّةَ هُمْ أَكْمَلُ النَّاسِ اتِّبَاعًا لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، لِأَنَّهُمْ جَمَعُوا بَيْنَ عِلْمِ الظَّاهِرِ وَعِلْمِ الْبَاطِنِ، وَعَمِلُوا بِالْعِلْمِ عَلَى حَقِيقَتِهِ، وَآثَرُوا الْآخِرَةَ عَلَى الدُّنْيَا، وَسَلَكُوا طَرِيقَ الِانْقِطَاعِ إِلَى اللَّهِ تَعَالَى بِالْقُلُوبِ وَالْأَسْرَارِ.",
+      "translation": "Bahwasanya kaum Sufi adalah golongan manusia yang paling sempurna dalam ittiba' (mengikuti jejak) Rasulullah saw. Hal ini dikarenakan mereka berhasil memadukan secara harmonis antara ilmu lahiriah (syariat) dan ilmu batiniah (hakikat), mengamalkan ilmu tersebut secara jujur dan esensial, lebih mementingkan kehidupan akhirat di atas dunia, serta menempuh jalan pemutusan keterikatan (inqitha') hanya kepada Allah ta'ala dengan kalbu dan rahasia batin (asrar) mereka."
     },
     {
-      "title": "Stasiun Kewaspadaan (Wara')",
-      "titleArabic": "بَابُ مَقَامِ الْوَرَعِ وَأَقْسَامِهِ",
-      "arabic": "وَمِنْ مَقَامَاتِ الْقَوْمِ مَقَامُ الْوَرَعِ. وَهُوَ الْوُقُوفُ عِنْدَ الشُّبُهَاتِ. قَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «فَمَنِ اتَّقَى الشُّبُهَاتِ فَقَدِ اسْتَبْرَأَ لِدِينِهِ وَعِرْضِهِ». وَهُوَ ثَلَاثَةُ أَوْجُهٍ: وَرَعٌ فِي الظَّاهِرِ وَهُوَ تَرْكُ الشُّبْهَةِ، وَوَرَعٌ فِي الْبَاطِنِ وَهُوَ تَرْكُ خَوَاطِرِ السُّوءِ، وَوَرَعٌ مَعَ اللَّهِ وَهُوَ تَرْكُ مَا شَغَلَ عَنِ اللَّهِ.",
-      "translation": "Di antara maqamat kaum sufi adalah stasiun sikap waspada (wara'). Wara' adalah menahan diri ketika berhadapan dengan perkara-perkara samar (syubhat). Nabi shallallahu 'alaihi wa sallam bersabda: 'Barangsiapa menjaga diri dari syubhat, sungguh ia telah menyelamatkan agama dan kehormatannya.' Wara' terbagi menjadi tiga macam: wara' lahiriah yaitu meninggalkan syubhat, wara' batiniah yaitu menepis bisikan-bisikan buruk di hati, dan wara' bersama Allah yaitu meninggalkan segala hal yang dapat memalingkan diri dari Allah."
+      "title": "Bab Mengikuti Sunnah Nabi SAW (Al-Ittiba')",
+      "titleArabic": "بَابُ الِاتِّبَاعِ لِكِتَابِ اللَّهِ عَزَّ وَجَلَّ وَالسُّنَّةِ",
+      "arabic": "أَصْلُ طَرِيقِتِنَا هَذِهِ الِاقْتِدَاءُ بِالنَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي أَخْلَاقِهِ وَأَفْعَالِهِ وَأَقْوَالِهِ، وَالْأَخْذُ بِآدَابِهِ، وَالْوُقُوفُ عِنْدَ حُدُودِهِ. فَمَنْ لَمْ يَحْفَظِ الْقُرْآنَ، وَلَمْ يَكْتُبِ الْحَدِيثَ، لَا يُقْتَدَى بِهِ فِي هَذَا الْعِلْمِ لِأَنَّ عِلْمَنَا هَذَا مُقَيَّدٌ بِالْكِتَابِ وَالسُّنَّةِ.",
+      "translation": "Pokok dari thariqah (jalan) kami ini adalah meneladani Nabi saw baik dalam akhlak, tindakan, maupun perkataan beliau, serta beradab dengan adab beliau, dan berhenti (patuh) pada batasan-batasan hukum yang ditetapkannya. Maka barangsiapa yang tidak menjaga (menghafal) Al-Qur'an dan tidak menulis (mempelajari) hadis, ia tidak layak untuk dijadikan teladan dalam bidang ilmu ini, sebab ilmu kami ini senantiasa terikat kuat dengan batasan Al-Kitab dan Al-Sunnah."
     },
     {
-      "title": "Stasiun Kezuhudan (Zuhd)",
-      "titleArabic": "بَابُ مَقَامِ الزُّهْدِ وَأَحْوَالِ الزَّاهِدِينَ",
-      "arabic": "بَابُ مَقَامِ الزُّهْدِ. وَهُوَ عِمَادُ التَّصَوُّفِ. وَالزُّهْدُ هُوَ خُلُوُّ الْقَلْبِ عَنِ الدُّنْيَا لَا خُلُوُّ الْيَدِ مِنْهَا. قَالَ بَعْضُهُمْ: الزُّهْدُ أَنْ تَزْهَدَ فِي الدُّنْيَا فَلَا تَفْرَحَ بِمَوْجُودٍ وَلَا تَأْسَفَ عَلَى مَفْقُودٍ، وَتَرَى أَنَّ طَلَبَ الْآخِرَةِ هُوَ الْوَاجِبُ عَلَى كُلِّ حَالٍ.",
-      "translation": "Bab Stasiun Kezuhudan (Zuhd). Zuhud merupakan tiang utama tasawuf. Hakikat zuhud adalah kosongnya hati dari keterikatan duniawi, bukan kosongnya tangan dari kepemilikan dunia. Sebagian ulama berkata: Zuhud adalah engkau berhati dingin terhadap dunia sehingga tidak bersuka cita secara berlebihan atas apa yang diperoleh, tidak berputus asa atas apa yang hilang, dan memandang bahwa mencari rida akhirat adalah kewajiban dalam setiap keadaan."
+      "title": "Bab Maqamat: Definisi Kedudukan Spiritual",
+      "titleArabic": "بَابُ مَعْنَى الْمَقَامَاتِ",
+      "arabic": "الْمَقَامُ هُوَ مَا يُقِيمُ فِيهِ الْعَبْدُ بِاجْتِهَادِهِ وَمُجَاهَدَتِهِ وَرِيَاضَتِهِ، وَبَذْلِ مَجْهُودِهِ فِي طَاعَةِ اللَّهِ تَعَالَى. وَلَا يَجُوزُ لِلْعَبْدِ أَنْ يَنْتَقِلَ مِنْ مَقَامٍ إِلَى مَقَامٍ آخَرَ حَتَّى يَسْتَوْفِيَ أَحْكَامَ ذَلِكَ الْمَقَامِ الَّذِي هُوَ فِيهِ.",
+      "translation": "Maqam (stasiun spiritual) adalah tingkatan spiritual tempat seorang hamba berdiam dengan usaha kerasnya (ijtihad), kesungguhan batinnya (mujahadah), latihannya (riyadhah), dan pengerahan seluruh kemampuannya dalam ketaatan kepada Allah ta'ala. Tidak diperkenankan bagi seorang hamba untuk berpindah dari satu maqam ke maqam berikutnya hingga ia menyempurnakan secara tuntas seluruh hukum-hukum spiritual yang berlaku pada maqam yang sedang ditempatinya saat ini."
     },
     {
-      "title": "Stasiun Kefakiran Spiritual (Faqr)",
-      "titleArabic": "بَابُ مَقَامِ الْفَقْرِ وَصِفَةِ الْفُقَرَاءِ",
-      "arabic": "بَابُ مَقَامِ الْفَقْرِ. وَهُوَ زِينَةُ الْأَوْلِيَاءِ. وَالْفَقْرُ لَيْسَ هُوَ عَدَمَ الْمَالِ فَقَطْ، بَلْ حَقِيقَتُهُ أَنْ لَا تَمْلِكَ شَيْئًا وَلَا يَمْلِكُكَ شَيْءٌ. وَأَنْ تَرَى نَفْسَكَ فَقِيرًا إِلَى اللَّهِ تَعَالَى فِي كُلِّ لَحْظَةٍ، مُفْتَقِرًا إِلَى رَحْمَتِهِ وَفَضْلِهِ.",
-      "translation": "Bab Stasiun Kefakiran Spiritual (Faqr). Kefakiran adalah perhiasan para wali Allah. Fakir bukanlah semata-mata ketiadaan harta benda, melainkan hakikatnya adalah engkau tidak memiliki sesuatu pun secara batiniah (tidak merasa memilikinya secara mutlak) dan tidak diperbudak oleh sesuatu pun, serta senantiasa memandang dirimu sangat membutuhkan Allah Ta'ala dalam setiap kedipan mata, bersandar penuh pada rahmat dan karunia-Nya."
+      "title": "Maqam 1: Pintu Taubat (Al-Taubah)",
+      "titleArabic": "بَابُ مَقَامِ التَّوْبَةِ",
+      "arabic": "التَّوْبَةُ هِيَ أَوَّلُ مَقَامَاتِ السَّالِكِينَ، وَهِيَ الرُّجُوعُ مِمَّا هُوَ مَذْمُومٌ فِي الشَّرْعِ إِلَى مَا هُوَ مَحْمُودٌ فِيهِ. وَحَقِيقَتُهَا الْإِقْلَاعُ عَنِ الذَّنْبِ فِي الْحَالِ، وَالْعَزْمُ عَلَى أَنْ لَا يَعُودَ إِلَيْهِ فِي الْمُسْتَقْبَلِ، وَالنَّدَمُ عَلَى مَا فَاتَ.",
+      "translation": "Taubat adalah kedudukan pertama bagi para penempuh jalan spiritual (salikin). Ia berarti kembali dari segala hal yang tercela menurut timbangan syariat menuju apa yang terpuji di dalamnya. Hakikat taubat terdiri dari melepaskan diri dari dosa seketika itu juga, bertekad kuat untuk tidak mengulangi kembali dosa tersebut di masa depan, serta menyesali sedalam-dalamnya atas segala kelalaian yang telah lalu."
     },
     {
-      "title": "Stasiun Kesabaran (Sabr)",
-      "titleArabic": "بَابُ مَقَامِ الصَّبْرِ وَأَقْسَامِهِ",
-      "arabic": "بَابُ مَقَامِ الصَّبْرِ. وَهُوَ تَجَلُّدُ النَّفْسِ عِنْدَ وُرُودِ الْمَكَارِهِ. وَالصَّبْرُ ثَلَاثَةُ أَقْسَامٍ: صَبْرٌ عَلَى أَدَاءِ الطَّاعَاتِ، وَصَبْرٌ عَنِ ارْتِكَابِ الْمَعَاصِي، وَصَبْرٌ عَلَى مَرَارَةِ الْأَقْضِيَةِ وَالْبَلَاءِ. وَهُوَ مِفْتَاحُ الْفَرَجِ وَمَطِيَّةُ النَّصْرِ.",
-      "translation": "Bab Stasiun Kesabaran (Sabr). Sabar adalah ketegaran jiwa saat menerima berbagai kenyataan yang tidak disukai. Sabar terbagi dalam tiga klasifikasi: sabar dalam menjalankan kepatuhan (ketaatan), sabar dari melakukan kedurhakaan (kemaksiatan), dan sabar dalam menanggung pahitnya ketetapan takdir serta musibah. Sabar merupakan kunci kelapangan dan kendaraan menuju pertolongan."
+      "title": "Maqam 2: Sikap Waspada terhadap Syubhat (Al-Wara')",
+      "titleArabic": "بَابُ مَقَامِ الْوَرَعِ",
+      "arabic": "الْوَرَعُ هُوَ تَجَنُّبُ الشُّبُهَاتِ خَوْفًا مِنَ الْوُقُوعِ فِي الْحَرَامِ. وَهُوَ عَلَى ثَلَاثِ طَبَقَاتٍ: وَرَعُ الْعَامَّةِ وَهُوَ تَجَنُّبُ الْحَرَامِ، وَوَرَعُ الْخَاصَّةِ وَهُوَ تَجَنُّبُ الشُّبُهَاتِ، وَوَرَعُ خَاصَّةِ الْخَاصَّةِ وَهُوَ تَرْكُ مَا لَا يَعْنِي وَمَا يَشْغَلُ عَنِ اللَّهِ.",
+      "translation": "Wara' adalah menjauhi segala hal yang bersifat samar (syubhat) demi mengantisipasi agar tidak terjerumus ke dalam perkara yang haram. Wara' diklasifikasikan ke dalam tiga tingkatan: Pertama, wara' kalangan awam, yaitu menjauhi hal-hal yang jelas haram. Kedua, wara' kalangan khash (khusus), yaitu menjauhi hal-hal syubhat. Ketiga, wara' kalangan khash-ul khash (sangat khusus), yaitu meninggalkan segala hal yang tidak bermanfaat dan segala sesuatu yang dapat mengalihkan perhatian dari Allah."
     },
     {
-      "title": "Stasiun Kepasrahan Mutlak (Tawakkul)",
-      "titleArabic": "بَابُ مَقَامِ التَّوَكُّلِ وَمَعْنَى التَّفْوِيضِ",
-      "arabic": "بَابُ مَقَامِ التَّوَكُّلِ. وَهُوَ ثِقَةُ الْقَلْبِ بِضَمَانِ الرَّبِّ سُبْحَانَهُ وَتَعَالَى. وَالتَّوَكُّلُ لَا يُنَافِي السَّعْيَ فِي الْأَسْبَابِ بِالظَّاهِرِ، وَإِنَّمَا هُوَ سُكُونُ الْقَلْبِ إِلَى الْمُسَبِّبِ لَا إِلَى السَّبَبِ، فَيَكُونُ الْعَبْدُ كَالْمَيِّتِ بَيْنَ يَدَيِ الْغَاسِلِ.",
-      "translation": "Bab Stasiun Kepasrahan Mutlak (Tawakkul). Tawakal adalah keyakinan mendalam batin terhadap jaminan perlindungan Tuhan Yang Maha Suci lagi Maha Tinggi. Sikap tawakal sama sekali tidak menafikan usaha fisik (ikhtiar) dalam sebab-sebab lahiriah; melainkan ia berbentuk ketenangan hati yang bersandar penuh kepada Sang Maha Pencipta Sebab (Allah), bukan kepada sebab itu sendiri, hingga seorang hamba merasa bagaikan jasad mati di hadapan orang yang memandikannya."
+      "title": "Maqam 3: Zuhud terhadap Dunia (Al-Zuhd)",
+      "titleArabic": "بَابُ مَقَامِ الزُّهْدِ",
+      "arabic": "الزُّهْدُ هُوَ خُلُوُّ الْقَلْبِ مِنَ الرَّغْبَةِ فِي الدُّنْيَا وَمَتَاعِهَا، وَهُوَ مَقَامٌ شَرِيفٌ بَعْدَ الْوَرَعِ. وَقَالَ بَعْضُهُمْ: الزُّهْدُ أَنْ تَكُونَ بِمَا فِي يَدِ اللَّهِ أَوْثَقَ مِنْكَ بِمَا فِي يَدِكَ، وَأَنْ يَسْتَوِيَ عِنْدَكَ الْمَادِحُ وَالذَّامُّ فِي الْحَقِّ.",
+      "translation": "Zuhud adalah kosongnya kalbu dari keterikatan dan hasrat yang tamak terhadap dunia beserta segala perhiasannya, yang merupakan maqam luhur setelah wara'. Sebagian ulama sufi menyatakan: Zuhud ialah engkau menaruh rasa percaya terhadap apa yang ada di sisi Allah melebihi rasa percayamu terhadap apa yang ada di dalam genggaman tanganmu sendiri, serta menganggap sama saja di matamu antara orang yang memuji maupun orang yang mencelamu dalam kebenaran."
     },
     {
-      "title": "Stasiun Keridaan (Rida)",
-      "titleArabic": "بَابُ مَقَامِ الرِّضَا وَهُوَ نِهَايَةُ التَّوَكُّلِ",
-      "arabic": "بَابُ مَقَامِ الرِّضَا. وَهُوَ بَابُ اللَّهِ الْأَعْظَمُ، وَهُوَ ثَمَرَةُ التَّوَكُّلِ. وَالرِّضَا هُوَ اسْتِقْبَالُ الْأَحْكَامِ بِالسُّرُورِ، وَسُكُونُ الْقَلْبِ تَحْتَ مَجَارِي الْأَقْدَارِ دُونَ اعْتِرَاضٍ، سَوَاءٌ كَانَ الْمَقْدُورُ عَطَاءً أَوْ مَنْعًا، لُطْفًا أَوْ بَلَاءً.",
-      "translation": "Bab Stasiun Keridaan (Rida). Rida merupakan gerbang Allah yang paling agung dan ia merupakan buah manis dari kepasrahan (tawakal). Keridaan adalah menyambut ketentuan-ketentuan hukum Allah dengan penuh kelapangan dada, serta ketenangan hati di bawah berjalannya takdir tanpa ada penentangan sedikit pun, baik takdir itu berupa pemberian maupun penahanan, kelembutan batin maupun ujian fisik."
+      "title": "Maqam 4: Kefakiran Spiritual (Al-Faqr)",
+      "titleArabic": "بَابُ مَقَامِ الْفَقْرِ",
+      "arabic": "الْفَقْرُ هُوَ شِعَارُ الصَّالِحِينَ، وَعِمَادُ السَّالِكِينَ. وَحَقِيقَتُهُ عِنْدَ الصُّوفِيَّةِ هُوَ عَدَمُ رُؤْيَةِ الْمِلْكِيَّةِ، وَالِافْتِقَارُ التَّامُّ إِلَى اللَّهِ تَعَالَى فِي كُلِّ نَفَسٍ، مَعَ الِاسْتِغْنَاءِ بِاللَّهِ عَنْ كُلِّ مَا سِوَاهُ.",
+      "translation": "Faqr (kefakiran spiritual) adalah lencana batin kaum shalih dan pilar penyangga bagi para salik. Hakikat faqr menurut kaum Sufi bukanlah sekadar ketiadaan harta benda, melainkan sirnanya rasa kepemilikan pribadi dalam jiwa, disertai rasa butuh yang mutlak kepada Allah ta'ala di setiap helaan napas, dibarengi dengan perasaan kaya bersama Allah sehingga merasa cukup tanpa membutuhkan segala hal selain-Nya."
     },
     {
-      "title": "Keadaan Batin: Pengawasan Diri (Muraqabah)",
-      "titleArabic": "بَابُ حَالِ الْمُرَاقَبَةِ وَأَصْلِهَا",
-      "arabic": "بَابُ حَالِ الْمُرَاقَبَةِ. وَهِيَ أَوَّلُ الْأَحْوَالِ. وَحَقِيقَتُهَا: اسْتِدَامَةُ عِلْمِ الْعَبْدِ بِاطِّلَاعِ الْحَقِّ سُبْحَانَهُ عَلَى ظَاهِرِهِ وَبَاطِنِهِ فِي كُلِّ لَحْظَةٍ. وَأَصْلُهَا قَوْلُهُ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «أَنْ تَعْبُدَ اللَّهَ كَأَنَّكَ تَرَاهُ، فَإِنْ لَمْ تَكُنْ تَرَاهُ فَإِنَّهُ يَرَاكَ».",
-      "translation": "Bab Keadaan Batin: Pengawasan Diri (Muraqabah). Ini merupakan tingkatan awal dari rumpun keadaan batin (ahwal). Hakikatnya adalah bertahannya kesadaran seorang hamba secara terus-menerus bahwa Allah Yang Maha Benar lagi Maha Suci senantiasa mengawasi lahir dan batinnya di setiap saat. Fondasi dari konsep ini adalah sabda Nabi shallallahu 'alaihi wa sallam: 'Engkau menyembah Allah seakan-akan engkau melihat-Nya, jika engkau tidak dapat melihat-Nya, maka sesungguhnya Dia melihatmu.'"
+      "title": "Maqam 5: Kesabaran (Al-Sabr)",
+      "titleArabic": "بَابُ مَقَامِ الصَّبْرِ",
+      "arabic": "الصَّبْرُ هُوَ حَبْسُ النَّفْسِ عَنِ الْجَزَعِ عِنْدَ مَجَارِي الْأَقْدَارِ، وَهُوَ ثَلَاثَةُ أَنْوَاعٍ: صَبْرٌ عَلَى الطَّاعَةِ، وَصَبْرٌ عَنِ الْمَعْصِيَةِ، وَصَبْرٌ عِنْدَ الصَّدْمَةِ الْأُولَى مِنَ الْبَلَاءِ.",
+      "translation": "Sabar adalah kemampuan menahan diri dari keluh kesah dan keputusasaan ketika menghadapi ketetapan takdir yang menyakitkan. Sabar terbagi menjadi tiga jenis: sabar dalam menjalankan ketaatan, sabar dalam menjauhi kemaksiatan, dan sabar ketika menerima hantaman pertama dari cobaan (mushibah)."
     },
     {
-      "title": "Keadaan Batin: Cinta Ilahi (Mahabbah)",
-      "titleArabic": "بَابُ حَالِ الْمَحَبَّةِ لِلَّهِ تَعَالَى",
-      "arabic": "بَابُ حَالِ الْمَحَبَّةِ. وَهِيَ صَفْوَةُ الْأَحْوَالِ. وَقِيلَ فِي حَقِيقَتِهَا: هِيَ مَيْلُ الْقُلُوبِ بِالْكُلِّيَّةِ إِلَى الْمَحْبُوبِ سُبْحَانَهُ، وَإِيثَارُ رِضَاهُ عَلَى رِضَا نَفْسِكَ وَأَهْلِكَ وَمَالِكَ، وَأَنْ لَا تَرَى فِي الْكَوْنِ مَحْبُوبًا سِوَاهُ.",
-      "translation": "Bab Keadaan Batin: Cinta Ilahi (Mahabbah). Mahabbah adalah intisari dari segala kondisi spiritual. Dikatakan mengenai hakikatnya: ia merupakan kecenderungan hati seutuhnya kepada Sang Kekasih Yang Maha Suci, mengutamakan rida-Nya di atas keridaan dirimu sendiri, keluargamu, serta hartamu, dan tidak memandang di alam semesta ini ada entitas yang patut dicintai selain Dia."
+      "title": "Maqam 6: Tawakal (Al-Tawakkul)",
+      "titleArabic": "بَابُ مَقَامِ التَّوَكُّلِ",
+      "arabic": "التَّوَكُّلُ هُوَ اعْتِمَادُ الْقَلْبِ عَلَى الْوَكِيلِ وَحْدَهُ، مَعَ السُّكُونِ إِلَى كِفَايَتِهِ، وَهُوَ قَطْعُ النَّظَرِ عَنِ الْأَسْبَابِ بَعْدَ اتِّخَاذِهَا، فَلَا يَضْطَرِبُ الْقَلْبُ عِنْدَ الْفَقْدِ وَلَا يَفْرَحُ عِنْدَ الْوُجُودِ.",
+      "translation": "Tawakal adalah kepasrahan mutlak kalbu hanya kepada Allah Sang Pelindung (Al-Wakil) semata, disertai ketenangan batin atas kecukupan yang diberikan-Nya. Hakikatnya adalah memutus pandangan hati dari ketergantungan pada sebab-sebab lahiriah setelah sebab tersebut diikhtiarkan, sehingga kalbu tidak terguncang ketika kehilangan dan tidak bersuka ria secara berlebihan saat mendapatkan."
     },
     {
-      "title": "Adab Mendengarkan Syair Spiritual (Sama')",
-      "titleArabic": "بَابُ آدَابِ السَّمَاعِ وَتَفْصِيلِ أَحْكَامِهِ",
-      "arabic": "بَابُ السَّمَاعِ. وَهُوَ لِلْقَوْمِ غِذَاءُ الْأَرْوَاحِ وَمُهَيِّجُ الْأَسْرَارِ إِلَى الْأَوْطَانِ الْعُلْوِيَّةِ. وَالسَّمَاعُ يَجِبُ أَنْ يَكُونَ مَقْرُونًا بِالْآدَابِ الشَّرْعِيَّةِ، خَالِيًا عَنِ الْهَوَى وَالشَّهْوَةِ. وَهُوَ ثَلَاثَ طَبَقَاتٍ: سَمَاعُ الْعَامَّةِ بِالنَّفْسِ، وَسَمَاعُ الْمُرِيدِينَ بِالْقَلْبِ، وَسَمَاعُ الْعَارِفِينَ بِالرُّوحِ.",
-      "translation": "Bab Mendengarkan Syair Spiritual (Sama'). Di kalangan sufi, sama' dipandang sebagai nutrisi bagi ruh dan pembangkit rahasia batin menuju alam tinggi. Mendengarkan sama' wajib disandingkan dengan adab-adab syariat, bersih dari hawa nafsu dan syahwat bendawi. Sama' terbagi menjadi tiga tingkatan: sama' kalangan awam yang didasari nafsu emosional, sama' para penempuh jalan (muridin) yang didasari kesadaran hati, dan sama' kalangan arif (makrifat) yang didasari persaksian ruh."
+      "title": "Maqam 7: Keridhaan (Al-Rida)",
+      "titleArabic": "بَابُ مَقَامِ الرِّضَا",
+      "arabic": "الرِّضَا هُوَ سُرُورُ الْقَلْبِ بِمُرِّ الْقَضَاءِ، وَهُوَ آخِرُ الْمَقَامَاتِ وَأَعْلَاهَا. وَقِيلَ: الرِّضَا هُوَ اسْتِقْبَالُ الْأَحْكَامِ بِالْفَرَحِ، وَسُكُونُ الْقَلْبِ تَحْتَ جَرَيَانِ الْأَقْدَارِ دُونَ اعْتِرَاضٍ.",
+      "translation": "Rida adalah kegembiraan kalbu dalam menerima pahit getirnya keputusan takdir Allah (qadha'). Ia merupakan puncak tertinggi dari maqamat. Dikatakan pula: Rida adalah menyambut segala ketetapan hukum Allah dengan rasa suka cita, serta tenangnya kalbu di bawah alur takdir yang berlaku tanpa menyimpan sedikit pun penolakan dalam batin."
     },
     {
-      "title": "Ekstasi Spiritual (Wajd)",
-      "titleArabic": "بَابُ الْوَجْدِ وَمَا يَظْهَرُ عَلَى الْجَوَارِحِ",
-      "arabic": "بَابُ الْوَجْدِ. وَهُوَ مَا يُصَادِفُ الْقَلْبَ وَيَرِدُ عَلَيْهِ مِنْ غَيْرِ تَكَلُّفٍ وَلَا تَصَنُّعٍ عِنْدَ اسْتِمَاعِ ذِكْرٍ أَوْ سَمَاعٍ شَرِيفٍ. وَهُوَ لَهَبٌ يَثُورُ فِي الْقَلْبِ مِنْ شَوْقٍ إِلَى اللَّهِ، فَيَظْهَرُ أَثَرُهُ عَلَى الْجَوَارِحِ مِنْ بُكَاءٍ أَوْ حَرَكَةٍ اضْطِرَارِيَّةٍ.",
-      "translation": "Bab Ekstasi Spiritual (Wajd). Wajd adalah getaran luar biasa yang menghujam ke dalam hati dan melimpah di dalamnya secara tiba-tiba tanpa dibuat-buat atau direkayasa ketika mendengarkan zikir atau lantunan spiritual yang mulia. Ia laksana kobaran api yang bergejolak di dalam dada akibat kerinduan mendalam kepada Allah, sehingga efeknya tampak pada anggota tubuh luar berupa tangisan syahdu atau gerakan refleks yang tidak terkendali."
+      "title": "Bab Ahwal: Definisi Kondisi Spiritual (Al-Ahwal)",
+      "titleArabic": "بَابُ مَعْنَى الْأَحْوَالِ",
+      "arabic": "الْأَحْوَالُ هِيَ مَوَاهِبُ مِنَ اللَّهِ تَعَالَى يَرِدُ عَلَى الْقَلْبِ مِنْ غَيْرِ اكْتِسَابٍ وَلَا تَجَلُّبٍ، فَالْمَقَامَاتُ كَسْبِيَّةٌ وَالْأَحْوَالُ وَهْبِيَّةٌ. وَالْحَالُ إِذَا دَامَ صَارَ مَقَامًا.",
+      "translation": "Ahwal (kondisi spiritual) merupakan anugerah murni (mawahib) dari Allah ta'ala yang menghampiri kalbu seorang hamba tanpa melalui usaha (iktisab) atau dicari-cari sendiri. Maka dari itu, jika maqamat diraih melalui jalan usaha keras (kasb), sedangkan ahwal diperoleh secara mutlak sebagai pemberian ilahi (wahb). Dan apabila suatu hal (kondisi batin) itu menetap secara permanen, maka ia naik kelas menjadi maqam."
     },
     {
-      "title": "Istilah Teknis Sufi (Al-Isyarat)",
-      "titleArabic": "بَابُ عِلْمِ الْإِشَارَاتِ وَاصْطِلَاحَاتِ الصُّوفِيَّةِ",
-      "arabic": "بَابُ الْإِشَارَاتِ. وَهِيَ أَلْفَاظٌ اصْطَلَحَ عَلَيْهَا أَهْلُ هَذِهِ الطَّائِفَةِ لِيُعَبِّرُوا بِهَا عَنْ مَوَاجِيدِهِمْ وَمُعَامَلَاتِهِمْ مِمَّا تَضِيقُ عَنْهَا الْعِبَارَاتُ الظَّاهِرَةُ، كَالْفَنَاءِ وَالْبَقَاءِ، وَالْجَمْعِ وَالتَّفْرِقَةِ، وَالْحَقِيقَةِ وَالشَّرِيعَةِ، حَتَّى لَا يَفْهَمَهَا غَيْرُهُمْ فَيَعْتَرِضَ عَلَيْهِمْ.",
-      "translation": "Bab Istilah Teknis Sufi (Al-Isyarat). Isyarat adalah lafaz-lafaz terminologi khusus yang disepakati oleh golongan sufi guna mengekspresikan luapan spiritual (mawajiid) serta interaksi batin mereka, karena bahasa lahiriah biasa terlampau sempit untuk menampungnya. Contohnya adalah istilah Fana' (sirnanya kedirian) dan Baqa' (kelestarian bersama Allah), Jam' (penyatuan fokus batin) dan Tafriqah (pembagian kesadaran), serta Hakikat dan Syariat. Istilah ini dibuat agar tidak mudah disalahpahami oleh orang luar yang berpotensi melayangkan tuduhan keliru."
+      "title": "Hal 1: Pengawasan Batin (Al-Muraqabah)",
+      "titleArabic": "بَابُ حَالِ الْمُرَاقَبَةِ",
+      "arabic": "الْمُرَاقَبَةُ هِيَ دَوَامُ عِلْمِ الْعَبْدِ بِاطِّلَاعِ الْحَقِّ سُبْحَانَهُ عَلَيْهِ فِي سِرِّهِ وَعَلَانِيَتِهِ. فَمَنْ رَاقَبَ اللَّهَ فِي خَوَاطِرِهِ، عَصَمَهُ اللَّهُ فِي حَرَكَاتِ جَوَارِحِهِ.",
+      "translation": "Muraqabah adalah senantiasa segarnya kesadaran seorang hamba bahwa Allah Yang Mahasuci lagi Maha Tinggi mengawasi dirinya secara konstan, baik dalam rahasia batin maupun saat terang-terangan. Barangsiapa yang merasa diawasi oleh Allah dalam lintasan-lintasan pikirannya (khawatir), niscaya Allah akan memelihara gerak-gerik anggota badannya dari perbuatan maksiat."
     },
     {
-      "title": "Khatimah: Koreksi Atas Kesalahan Kaum Pseudo-Sufi",
-      "titleArabic": "بَابُ غَلَطِ طَوَائِفَ مِنَ الْمُدَّعِينَ وَالْغُلَاةِ",
-      "arabic": "خَاتِمَةُ الْكِتَابِ فِي بَيَانِ غَلَطِ طَوَائِفَ مِنَ الْمُدَّعِينَ لِلتَّصَوُّفِ. وَهُمُ الَّذِينَ زَاغُوا عَنِ الطَّرِيقِ الْمُسْتَقِيمِ، فَأَسْقَطُوا التَّكَالِيفَ الشَّرْعِيَّةَ، وَادَّعَوْا الِاتِّحَادَ وَالْحُلُولَ، وَاسْتَحَلُّوا الْمُحَرَّمَاتِ. وَالتَّصَوُّفُ الصَّحِيحُ بَرَاءٌ مِنْهُمْ، إِذْ لَا حَقِيقَةَ إِلَّا بِشَرِيعَةٍ، وَكُلُّ حَقِيقَةٍ لَا تَشْهَدُ لَهَا الشَّرِيعَةُ فَهِيَ زَنْدَقَةٌ.",
-      "translation": "Penutup Kitab mengenai penjelasan tentang kesalahan-kesalahan fatal berbagai kelompok yang mengaku-ngaku bertasawuf (pseudo-sufi) serta kaum ekstrem (ghulat). Mereka adalah orang-orang yang melenceng dari jalan yang lurus, menggugurkan kewajiban ibadah syariat, mengeklaim konsep persatuan dzat (ittihad/hulul), dan menghalalkan apa yang diharamkan. Tasawuf yang murni dan lurus berlepas diri dari mereka. Karena sesungguhnya tidak ada hakikat tanpa berlandaskan syariat, dan setiap pengalaman hakikat yang tidak diakui keabsahannya oleh syariat, maka itu adalah kezindikkan (kesesatan)."
+      "title": "Hal 2: Kedekatan dengan Allah (Al-Qurb)",
+      "titleArabic": "بَابُ حَالِ الْقُرْبِ",
+      "arabic": "الْقُرْبُ هُوَ أَنْ يَكُونَ الْعَبْدُ مُسْتَغْرِقًا بِشُهُودِ قُرْبِ اللَّهِ مِنْهُ، كَمَا قَالَ تَعَالَى: (وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ)، فَيَسْقُطُ عَنْهُ رُؤْيَةُ قُرْبِ نَفْسِهِ لِشُدَّةِ اسْتِيلَاءِ قُرْبِ الْحَقِّ عَلَى قَلْبِهِ.",
+      "translation": "Qurb (kedekatan) adalah kondisi di mana seorang hamba tenggelam dalam menyaksikan sedemikian dekatnya Allah terhadap dirinya, sebagaimana firman-Nya: 'Dan Kami lebih dekat kepadanya daripada urat lehernya sendiri'. Keadaan ini membuat sang hamba tidak lagi melihat usaha kedekatan dirinya sendiri, karena saking kuatnya dominasi penyaksian akan kedekatan Allah yang menguasai seluruh relung kalbunya."
+    },
+    {
+      "title": "Hal 3: Cinta Ilahi (Al-Mahabbah)",
+      "titleArabic": "بَابُ حَالِ الْمَحَبَّةِ",
+      "arabic": "الْمَحَبَّةُ هِيَ مَيْلُ الْقُلُوبِ إِلَى مَحْبُوبٍ لَا لِعِوَضٍ، وَهِيَ مَحْوُ الْإِرَادَةِ مِنَ الْمُحِبِّ، وَإِثْبَاتُ الْمَحْبُوبِ بِالْكُلِّيَّةِ. وَمَحَبَّةُ الْعَبْدِ لِلَّهِ هِيَ تَعْظِيمُهُ وَإِيثَارُ مَرْضَاتِهِ عَلَى كُلِّ شَيْءٍ.",
+      "translation": "Mahabbah (cinta) adalah kecenderungan kalbu yang tulus kepada Sang Kekasih tanpa mengharap pamrih apa pun. Hakikatnya adalah meleburnya kehendak pribadi sang pecinta (muhib) dan menetapkan kehendak Sang Kekasih (Mahbub) secara menyeluruh. Cinta seorang hamba kepada Allah berwujud pengagungan yang dahsyat kepada-Nya serta mendahulukan keridhaan-Nya di atas segala sesuatu."
+    },
+    {
+      "title": "Hal 4: Takut dan Harap (Al-Khawf wa Al-Raja')",
+      "titleArabic": "بَابُ حَالِ الْخَوْفِ وَالرَّجَاءِ",
+      "arabic": "الْخَوْفُ وَالرَّجَاءُ كَجَنَاحَيِ الطَّائِرِ، إِذَا اسْتَوَيَا اسْتَوَى الطَّيْرُ وَتَمَّ طَيَرَانُهُ. فَالْخَوْفُ يَزْجُرُ عَنِ الْمَعَاصِي، وَالرَّجَاءُ يَبْعَثُ عَلَى الطَّاعَاتِ، وَهُمَا مِنْ أَعْظَمِ أَحْوَالِ الْقُلُوبِ.",
+      "translation": "Khawf (takut) dan Raja' (harap) adalah bagaikan kedua belah sayap burung; jika keduanya seimbang, maka seimbang pula laju terbang burung tersebut secara sempurna. Rasa takut berfungsi menahan diri dari kemaksiatan, sementara harapan berfungsi memicu semangat dalam berbuat ketaatan, dan keduanya termasuk di antara kondisi spiritual kalbu yang paling agung."
+    },
+    {
+      "title": "Hal 5: Kerinduan yang Mendalam (Al-Syawq)",
+      "titleArabic": "بَابُ حَالِ الشَّوْقِ",
+      "arabic": "الشَّوْقُ هُوَ سَفَرُ الْقَلْبِ إِلَى لِقَاءِ الْمَحْبُوبِ، وَهُوَ لَهَبٌ يَثُورُ فِي الْقَلْبِ مِنْ هُبُوبِ رِيحِ الْمَحَبَّةِ، فَلَا يَسْكُنُ هَذَا اللَّهَبُ إِلَّا بِمُعَايَنَةِ الْمَحْبُوبِ وَوِصَالِهِ.",
+      "translation": "Syawq (kerinduan) adalah perjalanan batin kalbu untuk menjumpai Sang Kekasih. Ia laksana kobaran api yang berkecamuk di dalam kalbu akibat embusan angin cinta (mahabbah). Kobaran api kerinduan ini tidak akan pernah padam melainkan hanya dengan memandang langsung Sang Kekasih dan menyatu dalam keintiman pertemuan dengan-Nya."
+    },
+    {
+      "title": "Hal 6: Kemesraan dengan Allah (Al-Uns)",
+      "titleArabic": "بَابُ حَالِ الْأُنْسِ",
+      "arabic": "الْأُنْسُ هُوَ فَرَحُ الْقَلْبِ بِجَمَالِ الْحَضْرَةِ الْإِلَهِيَّةِ، وَهُوَ ارْتِفَاعُ الْحِشْمَةِ مَعَ اللَّهِ مَعَ بَقَاءِ الْهَيْبَةِ، حَيْثُ يَسْتَوْحِشُ الْعَبْدُ مِنَ الْخَلْقِ وَيَسْتَأْنِسُ بِالْخَالِقِ وَحْدَهُ.",
+      "translation": "Uns adalah kegembiraan batin yang mendalam berkat keindahan (jamal) Hadirat Ilahi. Kondisi ini melahirkan keintiman batin yang seolah-olah menyingkirkan sekat kecanggangan di hadapan Allah, namun dengan tetap memelihara rasa keagungan (haibah) kepada-Nya. Pada fase ini, seorang hamba merasa asing dan sunyi dari makhluk, serta hanya merasa mesra dan nyaman bersama Sang Pencipta saja."
+    },
+    {
+      "title": "Hal 7: Ketenangan Hakiki (Al-Thumaninah)",
+      "titleArabic": "بَابُ حَالِ الطُّمَأْنِينَةِ",
+      "arabic": "الطُّمَأْنِينَةُ هِيَ سُكُونُ الْقَلْبِ عِنْدَ جَرَيَانِ الْأَقْدَارِ بِقُوَّةِ الْيَقِينِ، كَمَا قَالَ تَعَالَى: (أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ)، فَلَا يَنْزَعِجُ الْقَلْبُ لِخَوْفِ فَوْتِ مَحْبُوبٍ أَوْ نُزُولِ مَكْرُوهٍ.",
+      "translation": "Thumaninah adalah ketenangan menetap pada kalbu saat berjalannya takdir karena kokohnya keyakinan, sebagaimana firman-Nya: 'Ingatlah, hanya dengan mengingat Allah hati menjadi tenteram'. Kalbu yang berada di maqam ini tidak akan lagi merasa terguncang oleh rasa takut kehilangan apa yang dicintai atau ketakutan akan tertimpa hal-hal yang tidak disukai."
+    },
+    {
+      "title": "Hal 8: Penyaksian Batin (Al-Musyahadah)",
+      "titleArabic": "بَابُ حَالِ الْمُشَاهَدَةِ",
+      "arabic": "الْمُشَاهَدَةُ هِيَ حُضُورُ الْحَقِّ تَعَالَى فِي الْقَلْبِ مِنْ غَيْرِ ارْتِيَابٍ، وَهِيَ أَنْ تَرَى الْأَشْيَاءَ كُلَّهَا بِقُوَّةِ الْيَقِينِ دَلِيلًا عَلَى الصَّانِعِ، حَتَّى كَأَنَّكَ تَرَاهُ جِهَارًا بِعَيْنِ الْبَصِيرَةِ.",
+      "translation": "Musyahadah adalah hadirnya Allah Yang Maha Benar di dalam kalbu tanpa menyisakan keraguan sedikit pun. Ini merupakan suatu kondisi spiritual di mana engkau memandang segala sesuatu dengan kekuatan keyakinan sebagai dalil (petunjuk) kuat atas Sang Pencipta, hingga seolah-olah engkau melihat-Nya secara nyata dengan mata batin (bashirah)."
+    },
+    {
+      "title": "Hal 9: Keyakinan Mutlak (Al-Yaqin)",
+      "titleArabic": "بَابُ حَالِ الْيَقِينِ",
+      "arabic": "الْيَقِينُ هُوَ اسْتِقْرَارُ الْعِلْمِ الَّذِي لَا يَتَغَيَّرُ وَلَا يَتَخَالَجُهُ شَكٌّ فِي الْقَلْبِ. وَهُوَ ثَلَاثُ دَرَجَاتٍ: عِلْمُ الْيَقِينِ، ثُمَّ عَيْنُ الْيَقِينِ، ثُمَّ حَقُّ الْيَقِينِ.",
+      "translation": "Yaqin adalah menetapnya pengetahuan yang kokoh di dalam kalbu, yang tidak dapat diubah oleh apa pun dan tidak dapat disusupi oleh keraguan sedikit pun. Yaqin memiliki tiga tingkatan berurutan: pertama, Ilmu-ul Yaqin (yakin berdasarkan argumentasi keilmuan), kedua, 'Ainul Yaqin (yakin berdasarkan pengamatan batin), dan ketiga, Haqqul Yaqin (yakin berdasarkan peleburan diri/pengalaman langsung)."
+    },
+    {
+      "title": "Bab Adab Sopan Santun Kaum Sufi (Al-Adab)",
+      "titleArabic": "بَابُ آدَابِ الصُّوفِيَّةِ فِي مُعَامَلَاتِهِمْ",
+      "arabic": "الْأَدَبُ عِنْدَ الصُّوفِيَّةِ هُوَ اسْتِعْمَالُ الْخُلُقِ الْجَمِيلِ مَعَ اللَّهِ تَعَالَى وَمَعَ الْخَلْقِ كَافَّةً. وَقَدْ قَالُوا: مَنْ لَا أَدَبَ لَهُ لَا شَرِيعَةَ لَهُ، وَتَصَوُّفُنَا هَذَا كُلُّهُ أَدَبٌ، فَمَنْ زَادَ عَلَيْكَ فِي الْأَدَبِ زَادَ عَلَيْكَ فِي التَّصَوُّفِ.",
+      "translation": "Adab menurut kaum Sufi adalah penerapan budi pekerti yang indah, baik dalam berinteraksi dengan Allah ta'ala maupun dalam berinteraksi dengan seluruh makhluk-Nya. Para ulama sufi menegaskan: 'Barangsiapa yang tidak memiliki adab, maka pada hakikatnya ia tidak memiliki syariat.' Seluruh bangunan tasawwuf ini adalah adab, maka barangsiapa yang melebihi dirimu dalam kebaikan adab, ia sesungguhnya telah melebihimu dalam bertasawwuf."
+    },
+    {
+      "title": "Adab Berteman dan Bersahabat (Suhbah)",
+      "titleArabic": "بَابُ آدَابِ الصُّحْبَةِ وَالْأُخُوَّةِ",
+      "arabic": "آدَابُ الصُّحْبَةِ قَائِمَةٌ عَلَى الْإِيثَارِ، وَتَحَمُّلِ زَلَّاتِ الْإِخْوَانِ، وَتَرْكِ الِاعْتِرَاضِ عَلَيْهِمْ، وَتَفَقُّدِ أَحْوَالِهِمْ بِالْمَالِ وَالنَّفْسِ، وَأَنْ يَكُونَ دَأْبُكَ مَعَهُمُ النُّصْحَ بِالْمَعْرُوفِ فِي سِرٍّ دُونَ فِضِيحَةٍ.",
+      "translation": "Adab-adab dalam bersahabat dan bersaudara dibangun di atas prinsip kemauan mendahulukan orang lain (itsar), berlapang dada memaafkan kesalahan saudara seagama, meninggalkan sikap suka mendebat mereka, memperhatikan kondisi mereka baik dengan harta maupun jiwa, serta senantiasa menjunjung tinggi prinsip memberi nasihat kebaikan secara rahasia tanpa mempermalukannya di depan umum."
+    },
+    {
+      "title": "Etika Mendengarkan Lantunan Spiritual (Sama')",
+      "titleArabic": "بَابُ حَقِيقَةِ السَّمَاعِ وَآدَابِهِ",
+      "arabic": "السَّمَاعُ هُوَ تَرْوِيحُ الْقُلُوبِ بِالْأَصْوَاتِ الْحَسَنَةِ وَالْأَشْعَارِ الَّتِي تَدْعُو إِلَى الْآخِرَةِ وَمَحَبَّةِ اللَّهِ. وَهُوَ لَا يَجُوزُ إِلَّا لِمَنْ كَانَ قَلْبُهُ حَيًّا بِالْمَعْرِفَةِ، فَيَكُونُ سَمَاعُهُ لِلَّهِ وَبِاللَّهِ، وَيَحْرُمُ عَلَى أَهْلِ اللَّهْوِ وَالْغَفْلَةِ.",
+      "translation": "Sama' (mendengarkan syi'ir atau lantunan spiritual) adalah upaya penyegaran kalbu melalui suara-suara yang indah dan bait-bait syi'ir yang memotivasi batin menuju akhirat serta memupuk cinta kepada Allah. Praktik ini tidak diperbolehkan kecuali bagi mereka yang kalbunya telah hidup dengan makrifat, sehingga proses mendengarnya ditujukan hanya untuk Allah dan bersama Allah, sedangkan bagi kalangan ahli kesia-siaan dan kelalaian batin, hal ini diharamkan."
+    },
+    {
+      "title": "Hakikat Ekstasi Spiritual (Al-Wajd)",
+      "titleArabic": "بَابُ الْوَجْدِ وَالتَّوَاجُدِ",
+      "arabic": "الْوَجْدُ هُوَ مَا يُصَادِفُ الْقَلْبَ وَيَرِدُ عَلَيْهِ بَغْتَةً مِنْ غَيْرِ تَكَلُّفٍ عِنْدَ السَّمَاعِ أَوْ الذِّكْرِ. وَالتَّوَاجُدُ هُوَ اسْتِجْلَابُ الْوَجْدِ بِالتَّبَاكِي وَالتَّفَكُّرِ، وَالْوَجْدُ الْحَقِيقِيُّ يُورِثُ السُّكُونَ وَالْخُشُوعَ لَا الصِّيَاحَ وَالِاضْطِرَابَ.",
+      "translation": "Wajd (ekstasi spiritual) adalah kondisi rasa membuncah yang menghampiri kalbu secara tiba-tiba tanpa dibuat-buat ketika mendengar syi'ir atau berdzikir. Adapun tawajud adalah usaha sadar untuk mendatangkan rasa ekstasi tersebut dengan cara berusaha menangis dan mentafakuri makna. Wajd yang sejati akan melahirkan ketenangan mendalam dan kekhusyukan pada anggota tubuh, bukannya teriakan histeris ataupun keguncangan fisik yang tak terkontrol."
+    },
+    {
+      "title": "Penjelasan Mengenai Karamah Para Wali",
+      "titleArabic": "بَابُ الْآيَاتِ وَالْكَرَامَاتِ لِلْأَوْلِيَاءِ",
+      "arabic": "الْكَرَامَاتُ حَقٌّ، وَهِيَ أُمُورٌ خَارِقَةٌ لِلْعَادَةِ يُجْرِيهَا اللَّهُ تَعَالَى عَلَى أَيْدِي أَوْلِيَائِهِ الْمُتَّبِعِينَ لِأَنْبِيَائِهِ. وَالْفَرْقُ بَيْنَ الْمُعْجِزَةِ وَالْكَرَامَةِ أَنَّ الْمُعْجِزَةَ تُقْرَنُ بِدَعْوَى النُّبُوَّةِ وَالتَّحَدِّي، وَالْكَرَامَةَ لَا تُقْرَنُ بِذَلِكَ بَلْ يُسْتَحَبُّ كِتْمَانُهَا.",
+      "translation": "Karamah (karomah) adalah perkara yang benar adanya. Ia merupakan hal luar biasa (di luar hukum alam biasa) yang dianugerahkan Allah ta'ala melalui tangan para wali-Nya yang setia mengikuti ajaran nabi-nabi-Nya. Perbedaan fundamental antara mukjizat dan karamah adalah bahwa mukjizat selalu disertai dengan klaim kenabian serta tantangan (tahaddi), sedangkan karamah sama sekali tidak disertai hal tersebut, bahkan wali yang bersangkutan dianjurkan untuk menyembunyikannya."
+    },
+    {
+      "title": "Bab Pemahaman Istilah-Istilah Sufi (Al-Isharat)",
+      "titleArabic": "بَابُ الْإِشَارَاتِ وَاصْطِلَاحَاتِ الصُّوفِيَّةِ",
+      "arabic": "إِنَّ لِلصُّوفِيَّةِ أَلْفَاظًا اصْطَلَحُوا عَلَيْهَا لِتَفْهِيمِ مَقَاصِدِهِمْ بَيْنَهُمْ، كَالْفَنَاءِ وَالْبَقَاءِ، وَالْجَمْعِ وَالتَّفْرِقَةِ، وَالْقَبْضِ وَالْبَسْطِ. وَإِنَّمَا اسْتَعْمَلُوا هَذِهِ الْإِشَارَاتِ لِأَنَّ عُلُومَهُمْ أَسْرَارٌ لَا يَفْهَمُهَا إِلَّا مَنْ شَارَكَهُمْ فِي مَذَاقِهِمْ.",
+      "translation": "Sesungguhnya kaum Sufi memiliki istilah-istilah khusus yang mereka sepakati bersama untuk saling menjelaskan maksud-maksud batiniah di antara sesama mereka, seperti fana' (peleburan), baqa' (keberlangsungan bersama Allah), jam' (penyatuan fokus batin), tafriqah (pembedaan eksistensi), serta qabdh (penyempitan batin) dan basth (kelapangan batin). Mereka menggunakan isyarat istilah ini semata-mata karena ilmu mereka merupakan rahasia-rahasia batin yang tidak akan sanggup dipahami kecuali oleh orang yang turut merasakan pengalaman rasa spiritual (dzauq) yang sama."
+    },
+    {
+      "title": "Bab Meluruskan Kesalahan Kaum Sufi Palsu (Al-Ghalat)",
+      "titleArabic": "بَابُ ذِكْرِ غَلَطَاتِ الطَّوَائِفِ مِنَ الصُّوفِيَّةِ",
+      "arabic": "اعْلَمْ أَنَّ قَوْمًا انْتَسَبُوا إِلَى هَذَا الطَّرِيقِ وَلَمْ يُحْكِمُوا الْأُصُولَ، فَوَقَعُوا فِي الْغَلَطِ وَالضَّلَالِ. فَمِنْهُمْ مَنْ قَالَ بِالْحُلُولِ وَالِاتِّحَادِ، وَمِنْهُمْ مَنْ أَسْقَطَ التَّكَالِيفَ وَالشَّرِيعَةَ عِنْدَ وُصُولِهِ إِلَى الْحَقِيقَةِ، وَكُلُّ ذَلِكَ كُفْرٌ وَضَلَالٌ خَارِجٌ عَنِ الْإِسْلَامِ.",
+      "translation": "Ketahuilah bahwasanya ada sebagian kaum yang menisbatkan diri mereka pada jalan tasawwuf ini, namun mereka tidak menguasai landasan-landasan pokok agama (syariat) dengan matang, sehingga terjerumus ke dalam kekeliruan fatal dan kesesatan. Di antara mereka ada yang berani berpendapat tentang hulul (Tuhan menitis ke dalam makhluk) dan ittihad (manunggal dengan Tuhan). Sebagian lagi berani menggugurkan kewajiban syariat (takalif) ketika merasa telah mencapai tingkat hakikat. Ketahuilah bahwa seluruh pemikiran semacam itu adalah kekufuran dan kesesatan nyata yang keluar dari koridor Islam."
+    },
+    {
+      "title": "Khatimah (Penutup Kitab Al-Luma')",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ",
+      "arabic": "فَقَدْ جَمَعْتُ لَكَ فِي هَذَا الْكِتَابِ مَا فِيهِ كِفَايَةٌ لِمَنْ أَرَادَ الْهُدَى، وَأَوْضَحْتُ لَكَ طَرِيقَةَ الْقَوْمِ لِتَعْلَمَ أَنَّهُمْ هُمْ أَهْلُ الْحَقِيقَةِ وَالصِّدْقِ. فَنَسْأَلُ اللَّهَ تَعَالَى أَنْ يَرْزُقَنَا اتِّبَاعَهُمْ، وَأَنْ يَجْعَلَنَا مِنْ أَهْلِ مَعْرِفَتِهِ، وَآخِرُ دَعْوَانَا أَنِ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ.",
+      "translation": "Maka sungguh telah aku himpun untukmu di dalam kitab ini penjelasan yang memadai bagi siapa saja yang menginginkan petunjuk kebenaran, dan telah aku terangkan kepadamu jalan hidup (thariqah) kaum sufi sejati agar engkau mengerti bahwa mereka adalah ahli hakikat dan ahli kejujuran sejati. Kita memohon kepada Allah ta'ala agar menganugerahi kita taufik untuk dapat mengikuti jejak langkah mulia mereka, serta menjadikan kita tergolong ke dalam ahli makrifat-Nya. Dan akhir dari seruan kami adalah: Segala puji bagi Allah, Tuhan semesta alam."
     }
   ]
 }
