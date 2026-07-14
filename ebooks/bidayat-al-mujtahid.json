@@ -1,0 +1,410 @@
+{
+  "profile": {
+    "name": "Bidayat al-Mujtahid wa Nihayat al-Muqtafid",
+    "originalTitle": "بِدَايَةُ الْمُجْتَهِدِ وَنِهَايَةُ الْمُقْتَصِدِ",
+    "author": "Abul Walid Muhammad bin Ahmad bin Muhammad bin Rusyd al-Qurthubi (Ibnu Rusyd al-Hafid)",
+    "field": "Fiqih Perbandingan Madzhab (Comparative Jurisprudence)",
+    "about": "Kitab Bidayat al-Mujtahid wa Nihayat al-Muqtafid merupakan mahakarya monumental dalam bidang fiqih perbandingan madzhab (Fiqh al-Muqaran) yang ditulis oleh filosof dan fuqaha ulung Andalusia, Ibnu Rusyd al-Hafid. Kitab ini disusun secara sistematis untuk melatih para penuntut ilmu agar mencapai derajat mujtahid dengan memahami sebab-sebab ikhtilaf (perbedaan pendapat) di antara para ulama madzhab besar seperti Hanafi, Maliki, Syafi'i, dan Hanbali. Pendekatan rasional-epistemologis yang digunakan membantu pembaca memahami illat (alasan hukum) di balik setiap produk hukum fiqih. Kitab ini menjadi rujukan utama lintas madzhab dalam memahami metode istinbath hukum Islam secara objektif.",
+    "authorBorn": "520 H / 1126 M di Kordoba, Andalusia (Spanyol)",
+    "authorDied": "595 H / 1198 M di Marakis (Maroko)",
+    "authorCentury": "Abad ke-6 Hijriah / Abad ke-12 Masehi"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah Kitab",
+      "titleArabic": "مُقَدِّمَةُ الْكِتَابِ",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي هَدَانَا لِهَذَا وَمَا كُنَّا لِنَهْتَدِيَ لَوْلَا أَنْ هَدَانَا اللَّهُ. أَمَّا بَعْدُ، فَإِنَّ غَرَضِي فِي هَذَا الْكِتَابِ أَنْ أُثْبِتَ فِيهِ لِنَفْسِي عَلَى جِهَةِ التَّذْكِرَةِ مَسَائِلَ الْأَحْكَامِ الْمُتَّفَقِ عَلَيْهَا وَالْمُخْتَلَفِ فِيهَا بِأَدِلَّتِهَا، وَالتَّنْبِيهِ عَلَى مَآخِذِ الْخِلَافِ فِيهَا.",
+      "translation": "Segala puji bagi Allah yang telah menunjuki kami kepada (jalan) ini, dan kami tidak akan mendapat petunjuk sekiranya Allah tidak menunjuki kami. Adapun setelah itu, sesungguhnya tujuan saya dalam menulis kitab ini adalah untuk menetapkan bagi diri saya sendiri sebagai pengingat, masalah-masalah hukum yang disepakati (ijma') maupun yang diperselisihkan (ikhtilaf) beserta dalil-dalilnya, serta menunjukkan titik-titik pangkal perbedaan pendapat di dalamnya."
+    },
+    {
+      "title": "Kitab Thaharah: Pembahasan Air",
+      "titleArabic": "كِتَابُ الطَّهَارَةِ: الْقَوْلُ فِي الْمِيَاهِ",
+      "arabic": "أَجْمَعَ الْعُلَمَاءُ عَلَى أَنَّ الْمَاءَ الَّذِي لَا يُخَالِطُهُ شَيْءٌ نَجِسٌ، وَلَمْ يَتَغَيَّرْ أَحَدُ أَوْصَافِهِ الثَّلَاثَةِ: طَعْمُهُ أَوْ لَوْنُهُ أَوْ رِيحُهُ، أَنَّهُ طَهُورٌ يَصِحُّ الْوُضُوءُ بِهِ.",
+      "translation": "Para ulama telah bersepakat bahwa air yang tidak tercampur oleh sesuatu yang najis, dan tidak berubah salah satu dari tiga sifatnya: rasanya, warnanya, atau baunya, adalah suci menyucikan (thahur) yang sah digunakan untuk berwudhu."
+    },
+    {
+      "title": "Kitab Thaharah: Pembahasan Wudhu - Bagian Wajah",
+      "titleArabic": "بَابُ الْوُضُوءِ: غَسْلُ الْوَجْهِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ غَسْلَ الْوَجْهِ فَرْضٌ لِقَوْلِهِ تَعَالَى: {فَاغْسِلُوا وُجُوهَكُمْ}، وَاخْتَلَفُوا فِي حَدِّ الْوَجْهِ، وَفِي اسْتِنْشَاقِ الْمَاءِ وَالْمَضْمَضَةِ هَلْ هُمَا فَرْضٌ أَمْ سُنَّةٌ.",
+      "translation": "Mereka sepakat bahwa membasuh wajah hukumnya fardhu berdasarkan firman Allah Ta'ala: 'Maka basuhlah wajah-wajahmu', dan mereka berbeda pendapat mengenai batasan wajah, serta mengenai memasukkan air ke hidung (istinshaq) dan berkumur (madhmadhah) apakah keduanya fardhu atau sunnah."
+    },
+    {
+      "title": "Kitab Thaharah: Membasuh Kedua Tangan",
+      "titleArabic": "بَابُ الْوُضُوءِ: غَسْلُ الْيَدَيْنِ إِلَى الْمَرَافِقِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ غَسْلَ الْيَدَيْنِ إِلَى الْمَرَافِقِ فَرْضٌ، وَاخْتَلَفُوا هَلْ تَدْخُلُ الْمَرَافِقُ فِي الْغَسْلِ أَمْ لَا تَدْخُلُ.",
+      "translation": "Mereka sepakat bahwa membasuh kedua tangan sampai ke siku adalah fardhu, dan mereka berbeda pendapat apakah siku tersebut wajib dimasukkan ke dalam basuhan atau tidak."
+    },
+    {
+      "title": "Kitab Thaharah: Mengusap Kepala",
+      "titleArabic": "بَابُ الْوُضُوءِ: مَسْحُ الرَّأْسِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ مَسْحَ الرَّأْسِ فَرْضٌ، وَاخْتَلَفُوا فِي الْقَدْرِ الْمُجْزِئِ مِنْهُ، فَقَالَ مَالِكٌ: يَجِبُ مَسْحُ جَمِيعِهِ، وَقَالَ الشَّافِعِيُّ: يَجْزِي مَسْحُ بَعْضِهِ وَلَوْ شَعْرَةً وَاحِدَةً.",
+      "translation": "Mereka sepakat bahwa mengusap kepala hukumnya fardhu, namun mereka berbeda pendapat tentang batasan kadar yang mencukupi. Imam Malik berkata: Wajib mengusap seluruh kepala. Imam Syafi'i berkata: Cukup mengusap sebagian saja meskipun hanya sehelai rambut."
+    },
+    {
+      "title": "Kitab Thaharah: Membasuh Kedua Kaki",
+      "titleArabic": "بَابُ الْوُضُوءِ: غَسْلُ الرِّجْلَيْنِ",
+      "arabic": "وَاتَّفَقَ جُمْهُورُ الْعُلَمَاءِ عَلَى أَنَّ الْفَرْضَ فِي الرِّجْلَيْنِ هُوَ الْغَسْلُ مَعَ الْكَعْبَيْنِ، وَخَالَفَتِ الشِّيعَةُ فَقَالُوا: الْفَرْضُ فِيهِمَا الْمَسْحُ.",
+      "translation": "Mayoritas ulama sepakat bahwa kewajiban pada kedua kaki adalah membasuhnya beserta kedua mata kaki, sedangkan kaum Syiah menyelisihi hal tersebut dan menyatakan bahwa kewajibannya adalah mengusapnya."
+    },
+    {
+      "title": "Kitab Thaharah: Pembatal Wudhu",
+      "titleArabic": "بَابُ نَوَاقِضِ الْوُضُوءِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ الْخَارِجَ مِنَ السَّبِيلَيْنِ الْمُعْتَادَ عَلَى وَجْهِ الصِّحَّةِ نَاقِضٌ، وَاخْتَلَفُوا فِي لَمْسِ النِّسَاءِ وَمَسِّ الْفَرْجِ وَالنَّوْمِ.",
+      "translation": "Mereka sepakat bahwa apa saja yang keluar dari dua jalan (kemaluan dan dubur) secara biasa dalam kondisi sehat adalah pembatal wudhu, dan mereka berbeda pendapat tentang menyentuh wanita, menyentuh kemaluan, dan tidur."
+    },
+    {
+      "title": "Kitab Thaharah: Mandi Janabah",
+      "titleArabic": "بَابُ الْغُسْلِ مِنَ الْجَنَابَةِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ الْجَنَابَةَ تَحْصُلُ بِأَمْرَيْنِ: أَحَدُهُمَا خُرُوجُ الْمَنِيِّ، وَالثَّانِي الْتِقَاءُ الْخِتَانَيْنِ، وَإِنْ لَمْ يَحْدُثْ إِنْزَالٌ.",
+      "translation": "Mereka sepakat bahwa keadaan jinabah terjadi karena dua hal: salah satunya adalah keluarnya mani, dan yang kedua adalah bertemunya dua khitan (persetubuhan) meskipun tidak sampai keluar mani."
+    },
+    {
+      "title": "Kitab Thaharah: Tayammum",
+      "titleArabic": "بَابُ التَّيَمُّمِ",
+      "arabic": "أَجْمَعَ الْعُلَمَاءُ عَلَى أَنَّ التَّيَمُّمَ رُخْصَةٌ لِلْمَرِيضِ وَالْمُسَافِرِ إِذَا عَدِمَا الْمَاءَ، وَاخْتَلَفُوا فِي جَوَازِهِ لِلْحَاضِرِ الصَّحِيحِ إِذَا عَدِمَ الْمَاءَ.",
+      "translation": "Para ulama sepakat bahwa tayammum merupakan dispensasi (rukhshah) bagi orang sakit dan musafir jika mereka tidak menemukan air, dan mereka berbeda pendapat mengenai kebolehannya bagi orang yang mukim dan sehat jika kehilangan air."
+    },
+    {
+      "title": "Kitab Thaharah: Pembahasan Air Kencing dan Najis",
+      "titleArabic": "بَابُ إِزَالَةِ النَّجَاسَةِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ النَّجَاسَاتِ يَجِبُ غَسْلُهَا مِنَ الْبَدَنِ وَالثَّوْبِ وَالْمَكَانِ، وَاخْتَلَفُوا فِي النَّجَاسَةِ هَلْ تُزَالُ بِغَيْرِ الْمَاءِ كَالْمَائِعَاتِ أَمْ لَا.",
+      "translation": "Mereka sepakat bahwa najis wajib dibasuh dari badan, pakaian, dan tempat, dan mereka berbeda pendapat mengenai apakah najis dapat dihilangkan dengan selain air, seperti cairan lainnya, atau tidak."
+    },
+    {
+      "title": "Kitab Shalat: Waktu-Waktu Shalat",
+      "titleArabic": "كِتَابُ الصَّلَاةِ: أَوْقَاتُ الصَّلَاةِ",
+      "arabic": "اتَّفَقُوا عَلَى أَنَّ الصَّلَوَاتِ الْمَفْرُوضَاتِ فِي الْيَوْمِ وَاللَّيْلَةِ خَمْسٌ، وَاخْتَلَفُوا فِي أَوَّلِ وَقْتِ الْعَصْرِ وَآخِرِهِ، وَفِي وَقْتِ الْعِشَاءِ.",
+      "translation": "Mereka sepakat bahwa shalat yang difardhukan dalam sehari semalam ada lima waktu, dan mereka berbeda pendapat mengenai awal dan akhir waktu Ashar, serta mengenai waktu Isya."
+    },
+    {
+      "title": "Kitab Shalat: Adzan dan Iqamah",
+      "titleArabic": "بَابُ الْأَذَانِ وَالْإِقَامَةِ",
+      "arabic": "وَاتَّفَقُوا عَلَى مَشْرُوعِيَّةِ الْأَذَانِ فِي الْجُمْلَةِ لِلصَّلَوَاتِ الْخَمْسِ، وَاخْتَلَفُوا هَلْ هُوَ فَرْضُ كِفَايَةٍ أَمْ سُنَّةٌ مُؤَكَّدَةٌ.",
+      "translation": "Mereka sepakat mengenai pensyariatan adzan secara global untuk shalat lima waktu, dan mereka berbeda pendapat apakah hukumnya fardhu kifayah atau sunnah muakkadah."
+    },
+    {
+      "title": "Kitab Shalat: Syarat-Syarat Shalat",
+      "titleArabic": "بَابُ شُرُوطِ الصَّلَاةِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ مِنْ شُرُوطِ الصَّلَاةِ طَهَارَةَ الْبَدَنِ وَالثَّوْبِ، وَاسْتِقْبَالَ الْقِبْلَةِ، وَسَتْرَ الْعَوْرَةِ عِنْدَ الْقُدْرَةِ.",
+      "translation": "Mereka sepakat bahwa di antara syarat-syarat shalat adalah kesucian badan dan pakaian, menghadap kiblat, serta menutup aurat bagi yang mampu."
+    },
+    {
+      "title": "Kitab Shalat: Rukun-Rukun Shalat",
+      "titleArabic": "بَابُ أَرْكَانِ الصَّلَاةِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ تَكْبِيرَةَ الْإِحْرَامِ، وَالْقِيَامَ فِي الْفَرْضِ، وَالرُّكُوعَ، وَالسُّجُودَ فَرْضٌ لَا تَصِحُّ الصَّلَاةُ إِلَّا بِهَا.",
+      "translation": "Mereka sepakat bahwa takbiratul ihram, berdiri pada shalat fardhu, ruku', dan sujud adalah kewajiban (rukun) yang shalat tidak sah melainkan dengannya."
+    },
+    {
+      "title": "Kitab Shalat: Membaca Al-Fatihah",
+      "titleArabic": "بَابُ الْقِرَاءَةِ فِي الصَّلَاةِ",
+      "arabic": "وَاخْتَلَفُوا فِي وُجُوبِ قِرَاءَةِ فَاتِحَةِ الْكِتَابِ عَلَى الْمَأْمُومِ خَلْفَ الْإِمَامِ فِي الصَّلَاةِ الْجَهْرِيَّةِ، فَقَالَ الشَّافِعِيُّ بِالْوُجُوبِ، وَمَنَعَهُ أَبُو حَنِيفَةَ.",
+      "translation": "Mereka berbeda pendapat mengenai kewajiban membaca Al-Fatihah bagi makmum di belakang imam dalam shalat jahriyyah (bacaan keras). Imam Syafi'i mewajibkannya, sedangkan Abu Hanifah melarangnya (menyatakan tidak wajib)."
+    },
+    {
+      "title": "Kitab Shalat: Sujud Sahwi",
+      "titleArabic": "بَابُ سُجُودِ السَّهْوِ",
+      "arabic": "وَاتَّفَقُوا عَلَى مَشْرُوعِيَّةِ سُجُودِ السَّهْوِ لِلزِّيَادَةِ وَالنُّقْصَانِ، وَاخْتَلَفُوا هَلْ مَوْضِعُهُ قَبْلَ السَّلَامِ أَوْ بَعْدَهُ.",
+      "translation": "Mereka sepakat mengenai pensyariatan sujud sahwi karena adanya penambahan atau pengurangan dalam shalat, dan mereka berbeda pendapat apakah letaknya sebelum salam atau sesudahnya."
+    },
+    {
+      "title": "Kitab Shalat: Shalat Berjamaah",
+      "titleArabic": "بَابُ صَلَاةِ الْجَمَاعَةِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ صَلَاةَ الْجَمَاعَةِ مِنَ الشَّعَائِرِ الْفَاضِلَةِ، وَاخْتَلَفُوا هَلْ هِيَ فَرْضُ عَيْنٍ أَمْ فَرْضُ كِفَايَةٍ أَمْ سُنَّةٌ.",
+      "translation": "Mereka sepakat bahwa shalat berjamaah termasuk syiar Islam yang utama, dan mereka berbeda pendapat apakah hukumnya fardhu 'ain, fardhu kifayah, atau sunnah."
+    },
+    {
+      "title": "Kitab Shalat: Shalat Musafir",
+      "titleArabic": "بَابُ صَلَاةِ الْمُسَافِرِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ قَصْرَ الصَّلَاةِ فِي السَّفَرِ مَشْرُوعٌ، وَاخْتَلَفُوا فِي حَدِّ السَّفَرِ الَّذِي تَقْصُرُ فِيهِ الصَّلَاةُ.",
+      "translation": "Mereka sepakat bahwa mengqashar shalat dalam perjalanan (safar) adalah disyariatkan, dan mereka berbeda pendapat mengenai batasan jarak perjalanan minimum yang membolehkan qashar."
+    },
+    {
+      "title": "Kitab Shalat: Shalat Jumat",
+      "titleArabic": "بَابُ صَلَاةِ الْجُمُعَةِ",
+      "arabic": "أَجْمَعَ الْعُلَمَاءُ عَلَى أَنَّ صَلَاةَ الْجُمُعَةِ فَرْضٌ عَلَى كُلِّ ذَكَرٍ حُرٍّ بَالِغٍ مُقِيمٍ لَا عُذْرَ لَهُ، وَاخْتَلَفُوا فِي الْعَدَدِ الَّذِي تَنْعَقِدُ بِهِ.",
+      "translation": "Para ulama sepakat bahwa shalat Jumat adalah fardhu bagi setiap laki-laki, merdeka, baligh, mukim yang tidak memiliki uzur, dan mereka berbeda pendapat mengenai jumlah minimal jamaah agar shalat Jumat dianggap sah."
+    },
+    {
+      "title": "Kitab Shalat: Shalat Khauf (Dalam Ketakutan/Perang)",
+      "titleArabic": "بَابُ صَلَاةِ الْخَوْفِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ صَلَاةَ الْخَوْفِ مَشْرُوعَةٌ لِقَوْلِهِ تَعَالَى: {وَإِذَا كُنْتَ فِيهِمْ فَأَقَمْتَ لَهُمُ الصَّلَاةَ}، وَاخْتَلَفُوا فِي هَيْئَتِهَا.",
+      "translation": "Mereka sepakat bahwa shalat khauf disyariatkan berdasarkan firman Allah Ta'ala: 'Dan apabila kamu berada di tengah-tengah mereka lalu kamu hendak mendirikan shalat bersama mereka', dan mereka berbeda pendapat mengenai tata cara pelaksanaannya."
+    },
+    {
+      "title": "Kitab Shalat: Shalat Hari Raya (Idul Fitri & Idul Adha)",
+      "titleArabic": "بَابُ صَلَاةِ الْعِيدَيْنِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ صَلَاةَ الْعِيدَيْنِ مَشْرُوعَةٌ، وَاخْتَلَفُوا فِي حُكْمِهَا، فَقِيلَ سُنَّةٌ، وَقِيلَ فَرْضُ كِفَايَةٍ، وَقِيلَ فَرْضُ عَيْنٍ.",
+      "translation": "Mereka sepakat bahwa shalat dua hari raya disyariatkan, namun berbeda pendapat mengenai hukumnya: ada yang berpendapat sunnah, ada yang berpendapat fardhu kifayah, dan ada pula yang berpendapat fardhu 'ain."
+    },
+    {
+      "title": "Kitab Shalat: Shalat Gerhana (Kusuf)",
+      "titleArabic": "بَابُ صَلَاةِ الْكُسُوفِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ صَلَاةَ كُسُوفِ الشَّمْسِ سُنَّةٌ مُؤَكَّدَةٌ، وَاخْتَلَفُوا فِي صِفَةِ الرُّكُوعِ فِيهَا هَلْ هُوَ رُكُوعَانِ فِي كُلِّ رَكْعَةٍ أَمْ رُكُوعٌ وَاحِدٌ.",
+      "translation": "Mereka sepakat bahwa shalat gerhana matahari hukumnya sunnah muakkadah, namun berbeda pendapat mengenai sifat ruku' di dalamnya, apakah terdapat dua ruku' pada setiap rakaat ataukah hanya satu ruku'."
+    },
+    {
+      "title": "Kitab Shalat: Shalat Istisqa' (Meminta Hujan)",
+      "titleArabic": "بَابُ صَلَاةِ الْإِسْتِسْقَاءِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ الْخُرُوجَ إِلَى الْإِسْتِسْقَاءِ عِنْدَ قَحْطِ الْمَطَرِ مَشْرُوعٌ، وَاخْتَلَفُوا هَلْ يُصَلَّى فِيهِ صَلَاةٌ بِصِفَةٍ مَخْصُوصَةٍ أَمْ هُوَ دُعَاءٌ فَقَطْ.",
+      "translation": "Mereka sepakat bahwa keluar rumah untuk melakukan istisqa' saat terjadi kekeringan adalah hal yang disyariatkan, namun berbeda pendapat apakah disyariatkan shalat dengan tata cara khusus ataukah cukup dengan doa saja."
+    },
+    {
+      "title": "Kitab Jenazah",
+      "titleArabic": "كِتَابُ الْجَنَائِزِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ غَسْلَ الْمَيِّتِ وَتَكْفِينَهُ وَالصَّلَاةَ عَلَيْهِ وَدَفْنَهُ فَرْضٌ عَلَى الْكِفَايَةِ فِي حَقِّ الْمُسْلِمِينَ.",
+      "translation": "Mereka sepakat bahwa memandikan mayat, mengkafani, menshalati, dan menguburkannya adalah fardhu kifayah bagi kaum muslimin."
+    },
+    {
+      "title": "Kitab Zakat: Kewajiban Zakat",
+      "titleArabic": "كِتَابُ الزَّكَاةِ: الْقَوْلُ فِي وُجُوبِهَا",
+      "arabic": "أَجْمَعَ الْمُسْلِمُونَ عَلَى أَنَّ الزَّكَاةَ فَرْضٌ، وَهِيَ أَحَدُ أَرْكَانِ الْإِسْلَامِ، وَإِنَّمَا تَجِبُ فِي أَرْبَعَةِ أَصْنَافٍ: الْعَيْنِ، وَالْحَرْثِ، وَالْمَاشِيَةِ، وَعُرُوضِ التِّجَارَةِ.",
+      "translation": "Kaum muslimin sepakat bahwa zakat hukumnya fardhu, dan merupakan salah satu rukun Islam. Zakat hanya wajib pada empat jenis komoditas: mata uang (emas dan perak), hasil pertanian, binatang ternak, dan barang dagangan."
+    },
+    {
+      "title": "Kitab Zakat: Zakat Hewan Ternak",
+      "titleArabic": "بَابُ زَكَاةِ الْمَاشِيَةِ",
+      "arabic": "وَاتَّفَقُوا عَلَى وُجُوبِ الزَّكَاةِ فِي الْإِبِلِ وَالْبَقَرِ وَالْغَنَمِ إِذَا بَلَغَتِ النِّصَابَ وَحَالَ عَلَيْهَا الْحَوْلُ.",
+      "translation": "Mereka sepakat mengenai wajibnya zakat pada unta, sapi, dan kambing apabila telah mencapai nishab dan telah melewati masa satu tahun kepemilikan (haul)."
+    },
+    {
+      "title": "Kitab Zakat: Mustahik Zakat (Penerima Zakat)",
+      "titleArabic": "بَابُ مَصَارِفِ الزَّكَاةِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ الزَّكَاةَ لَا تَحِلُّ لِغَنِيٍّ، وَلَا لِقَوِيٍّ مُكْتَسِبٍ، وَأَنَّهَا تُعْطَى لِلْأَصْنَافِ الثَّمَانِيَةِ الْمَذْكُورَةِ فِي الْقُرْآنِ.",
+      "translation": "Mereka sepakat bahwa zakat tidak halal diberikan kepada orang kaya, tidak pula bagi orang kuat yang mampu bekerja, serta zakat harus disalurkan kepada delapan golongan yang disebutkan dalam Al-Qur'an."
+    },
+    {
+      "title": "Kitab Zakat Fitrah",
+      "titleArabic": "كِتَابُ زَكَاةِ الْفِطْرِ",
+      "arabic": "وَاتَّفَقَ جُمْهُورُ الْعُلَمَاءِ عَلَى وُجُوبِ زَكَاةِ الْفِطْرِ فِي آخِرِ شَهْرِ رَمَضَانَ عَلَى كُلِّ مُسْلِمٍ، صَغِيرٍ أَوْ كَبِيرٍ، ذَكَرٍ أَوْ أُنْثَى.",
+      "translation": "Mayoritas ulama sepakat mengenai wajibnya zakat fitrah pada akhir bulan Ramadhan bagi setiap orang muslim, baik anak kecil maupun dewasa, laki-laki maupun perempuan."
+    },
+    {
+      "title": "Kitab Puasa: Penentuan Awal Bulan",
+      "titleArabic": "كِتَابُ الصِّيَامِ: رُؤْيَةُ الْهِلَالِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ فَرْضَ صَوْمِ رَمَضَانَ يَجِبُ بِرُؤْيَةِ هِلَالِ الشَّهْرِ أَوْ بِإِكْمَالِ عِدَّةِ شَعْبَانَ ثَلَاثِينَ يَوْمًا.",
+      "translation": "Mereka sepakat bahwa kewajiban puasa Ramadhan ditetapkan dengan rukyatul hilal (melihat bulan baru) atau dengan menyempurnakan bilangan bulan Sya'ban menjadi tiga puluh hari."
+    },
+    {
+      "title": "Kitab Puasa: Syarat Sah Puasa",
+      "titleArabic": "بَابُ شُرُوطِ الصَّوْمِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ النِّيَّةَ لَيْلًا فَرْضٌ لِصَوْمِ الْفَرْضِ، وَاخْتَلَفُوا هَلْ تَكْفِي نِيَّةٌ وَاحِدَةٌ لِشَهْرِ رَمَضَانَ كُلِّهِ أَمْ لَا بُدَّ مِنْ نِيَّةٍ لِكُلِّ لَيْلَةٍ.",
+      "translation": "Mereka sepakat bahwa berniat di malam hari adalah fardhu untuk puasa wajib, namun mereka berbeda pendapat apakah cukup satu kali niat untuk seluruh bulan Ramadhan ataukah wajib berniat pada setiap malam."
+    },
+    {
+      "title": "Kitab Puasa: Hal-Hal yang Membatalkan Puasa",
+      "titleArabic": "بَابُ مُفْسِدَاتِ الصَّوْمِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ الْأَكْلَ وَالشُّرْبَ وَالْجِمَاعَ عَمْدًا فِي النَّهَارِ مُفْسِدَاتٌ لِلصَّوْمِ، وَاخْتَلَفُوا فِي الْقَضَاءِ وَالْكَفَّارَةِ فِي بَعْضِهَا.",
+      "translation": "Mereka sepakat bahwa makan, minum, dan bersetubuh dengan sengaja di siang hari adalah hal-hal yang membatalkan puasa, namun berbeda pendapat mengenai kewajiban qadha dan denda (kafarat) pada sebagian kasus tersebut."
+    },
+    {
+      "title": "Kitab I'tikaf",
+      "titleArabic": "كِتَابُ الِاعْتِكَافِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ الِاعْتِكَافَ مَشْرُوعٌ فِي الْمَسَاجِدِ، وَاخْتَلَفُوا هَلْ يَصِحُّ بِغَيْرِ صَوْمٍ أَمْ أَنَّ الصَّوْمَ شَرْطٌ فِي صِحَّتِهِ.",
+      "translation": "Mereka sepakat bahwa i'tikaf disyariatkan di dalam masjid, dan mereka berbeda pendapat apakah i'tikaf sah dilakukan tanpa puasa ataukah puasa merupakan syarat sahnya."
+    },
+    {
+      "title": "Kitab Haji: Batasan Miqat",
+      "titleArabic": "كِتَابُ الْحَجِّ: الْمَوَاقِيتُ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ لِلْإِحْرَامِ مَوَاقِيتَ زَمَانِيَّةً وَمَكَانِيَّةً لَا يَجُوزُ لِمَنْ أَرَادَ الْحَجَّ تَجَاوُزُهَا إِلَّا مُحْرِمًا.",
+      "translation": "Mereka sepakat bahwa ihram memiliki batasan waktu (miqat zamani) dan batasan tempat (miqat makani) yang tidak boleh dilewati oleh orang yang ingin berhaji melainkan dalam keadaan telah berihram."
+    },
+    {
+      "title": "Kitab Haji: Rukun Ihram",
+      "titleArabic": "بَابُ الْإِحْرَامِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ الْإِحْرَامَ هُوَ نِيَّةُ الدُّخُولِ فِي النُّسُكِ، وَاخْتَلَفُوا فِي اشْتِرَاطِ التَّلْبِيَةِ أَوْ سَوْقِ الْهَدْيِ لِانْعِقَادِهِ.",
+      "translation": "Mereka sepakat bahwa ihram adalah niat untuk masuk ke dalam ibadah haji/umrah, namun berbeda pendapat mengenai syarat talbiyah atau membawa hadyu (hewan kurban) agar ihram tersebut menjadi sah."
+    },
+    {
+      "title": "Kitab Haji: Wukuf di Arafah",
+      "titleArabic": "بَابُ الْوُقُوفِ بِعَرَفَةَ",
+      "arabic": "أَجْمَعَ الْعُلَمَاءُ عَلَى أَنَّ الْوُقُوفَ بِعَرَفَةَ رُكْنٌ مِنْ أَرْكَانِ الْحَجِّ، لَا يَصِحُّ الْحَجُّ إِلَّا بِهِ لِقَوْلِهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «الْحَجُّ عَرَفَةُ».",
+      "translation": "Para ulama sepakat bahwa wukuf di Arafah adalah rukun dari rukun-rukun haji, yang mana ibadah haji tidak sah tanpanya berdasarkan sabda Rasulullah SAW: 'Haji itu adalah Arafah'."
+    },
+    {
+      "title": "Kitab Haji: Thawaf dan Sa'i",
+      "titleArabic": "بَابُ الطَّوَافِ وَالسَّعْيِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ طَوَافَ الْإِفَاضَةِ رُكْنٌ لَا يَصِحُّ الْحَجُّ بِدُونِهِ، وَاخْتَلَفُوا فِي السَّعْيِ بَيْنَ الصَّفَا وَالْمَرْوَةِ هَلْ هُوَ رُكْنٌ أَوْ وَاجِبٌ.",
+      "translation": "Mereka sepakat bahwa thawaf ifadhah adalah rukun yang haji tidak sah tanpanya, dan mereka berbeda pendapat tentang sa'i antara Shafa dan Marwah apakah berstatus rukun ataukah wajib."
+    },
+    {
+      "title": "Kitab Jihad",
+      "titleArabic": "كِتَابُ الْجِهَادِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ الْجِهَادَ فَرْضُ كِفَايَةٍ عَلَى جَمِيعِ الْمُسْلِمِينَ، فَإِذَا قَامَ بِهِ الْبَعْضُ سَقَطَ عَنِ الْبَاقِينَ، وَقَدْ يَكُونُ فَرْضَ عَيْنٍ بِحَسَبِ الْحَالِ.",
+      "translation": "Mereka sepakat bahwa jihad secara asal hukumnya fardhu kifayah bagi seluruh kaum muslimin, jika sebagian telah melaksanakannya maka gugur kewajiban dari yang lain, namun bisa menjadi fardhu 'ain sesuai dengan kondisi tertentu."
+    },
+    {
+      "title": "Kitab Pernikahan: Rukun Nikah",
+      "titleArabic": "كِتَابُ النِّكَاحِ: أَرْكَانُ النِّكَاحِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ النِّكَاحَ لَا يَنْعَقِدُ إِلَّا بِالْإِيجَابِ وَالْقَبُولِ، وَاخْتَلَفُوا فِي اشْتِرَاطِ الْوَلِيِّ وَالصَّدَاقِ وَالشُّهُودِ فِي الصِّحَّةِ.",
+      "translation": "Mereka sepakat bahwa pernikahan tidak dapat sah melainkan dengan adanya ijab dan qabul, namun berbeda pendapat mengenai pensyaratan wali, mahar, dan saksi untuk keabsahannya."
+    },
+    {
+      "title": "Kitab Pernikahan: Wali Nikah",
+      "titleArabic": "بَابُ الْأَوْلِيَاءِ فِي النِّكَاحِ",
+      "arabic": "وَاخْتَلَفُوا فِي اشْتِرَاطِ الْوَلِيِّ فِي صِحَّةِ النِّكَاحِ، فَقَالَ جُمْهُورُ الْعُلَمَاءِ: لَا نِكَاحَ إِلَّا بِوَلِيٍّ، وَقَالَ أَبُو حَنِيفَةَ: يَصِحُّ نِكَاحُ الْمَرْأَةِ الْبَالِغَةِ بِدُونِ وَلِيٍّ.",
+      "translation": "Mereka berbeda pendapat mengenai syarat wali dalam keabsahan nikah. Mayoritas ulama menyatakan: Tidak sah nikah kecuali dengan adanya wali. Sementara Abu Hanifah berpendapat: Sah pernikahan seorang wanita dewasa yang berakal meskipun tanpa wali."
+    },
+    {
+      "title": "Kitab Pernikahan: Mahar (Mas Kawin)",
+      "titleArabic": "بَابُ الصَّدَاقِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ الصَّدَاقَ مَشْرُوعٌ فِي النِّكَاحِ، وَاخْتَلَفُوا هَلْ لِأَقَلِّهِ حَدٌّ مُقَدَّرٌ بِالشَّرْعِ أَمْ لَا.",
+      "translation": "Mereka sepakat bahwa mahar adalah perkara yang disyariatkan dalam pernikahan, namun mereka berbeda pendapat apakah batas minimal mahar ditentukan kadarnya oleh syara' atau tidak."
+    },
+    {
+      "title": "Kitab Talak: Hukum Talak",
+      "titleArabic": "كِتَابُ الطَّلَاقِ: أَحْكَامُ الطَّلَاقِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ الطَّلَاقَ مَشْرُوعٌ، وَأَنَّ الزَّوْجَ يَمْلِكُ ثَلَاثَ تَطْلِيقَاتٍ عَلَى زَوْجَتِهِ الْحُرَّةِ، وَاخْتَلَفُوا فِي حُكْمِ طَلَاقِ الْبِدْعَةِ.",
+      "translation": "Mereka sepakat bahwa talak disyariatkan dan seorang suami memiliki hak tiga kali talak terhadap istrinya yang merdeka, namun berbeda pendapat mengenai keabsahan dan hukum talak bid'ah (talak yang menyelisihi syariat)."
+    },
+    {
+      "title": "Kitab Khulu' (Gugat Cerai)",
+      "titleArabic": "كِتَابُ الْخُلْعِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ الْخُلْعَ جَائِزٌ بِعِوَضٍ تَبْذُلُهُ الْمَرْأَةُ لِتَفْتَدِيَ بِهِ نَفْسَهَا، وَاخْتَلَفُوا هَلْ هُوَ طَلَاقٌ بَائِنٌ أَمْ فَسْخٌ.",
+      "translation": "Mereka sepakat bahwa khulu' (gugat cerai) hukumnya boleh dengan adanya ganti rugi (iwadh) yang diserahkan oleh istri untuk menebus dirinya, dan mereka berbeda pendapat apakah khulu' berstatus talak ba'in ataukah fasakh (pembatalan akad)."
+    },
+    {
+      "title": "Kitab Ila' (Sumpah Tidak Menggauli Istri)",
+      "titleArabic": "كِتَابُ الْإِيلَاءِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ الْإِيلَاءَ هُوَ حَلِفُ الزَّوْجِ عَلَى تَرْكِ وَطْءِ زَوْجَتِهِ، وَأَنَّ مُدَّتَهُ أَرْبَعَةُ أَشْهُرٍ لِقَوْلِهِ تَعَالَى: {لِلَّذِينَ يُؤْلُونَ مِنْ نِسَائِهِمْ تَرَبُّصُ أَرْبَعَةِ أَشْهُرٍ}.",
+      "translation": "Mereka sepakat bahwa ila' adalah sumpah suami untuk tidak menyetubuhi istrinya, dan batas penantian hukumnya adalah empat bulan berdasarkan firman-Nya: 'Bagi orang yang meng-ila' istrinya harus menunggu empat bulan'."
+    },
+    {
+      "title": "Kitab Zihar",
+      "titleArabic": "كِتَابُ الظِّهَارِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ الظِّهَارَ مُحَرَّمٌ وَيُوجِبُ الْكَفَّارَةَ قَبْلَ الْمَسِيسِ، وَهُوَ تَشْبِيهُ الزَّوْجَةِ بِالْمَحَارِمِ كَقَوْلِهِ: أَنْتِ عَلَيَّ كَظَهْرِ أُمِّي.",
+      "translation": "Mereka sepakat bahwa zihar hukumnya haram dan mewajibkan pembayaran kafarat sebelum bersetubuh kembali, yaitu tindakan suami menyamakan istrinya dengan mahramnya seperti ucapan: 'Kamu bagiku seperti punggung ibuku'."
+    },
+    {
+      "title": "Kitab Li'an (Sumpah Saling Melaknat)",
+      "titleArabic": "كِتَابُ اللِّعَانِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ اللِّعَانَ يَشْرَعُ عِنْدَ قَذْفِ الزَّوْجِ زَوْجَتَهُ بِالزِّنَا وَعَدَمِ الْبَيِّنَةِ، وَأَنَّهُ يُوجِبُ الْفُرْقَةَ الْأَبَدِيَّةَ بَيْنَهُمَا.",
+      "translation": "Mereka sepakat bahwa li'an disyariatkan ketika suami menuduh istrinya berzina tanpa memiliki bukti (saksi), dan akibat li'an tersebut adalah terjadinya perceraian selamanya antara keduanya."
+    },
+    {
+      "title": "Kitab Masa Iddah",
+      "titleArabic": "كِتَابُ الْعِدَّةِ",
+      "arabic": "وَاتَّفَقُوا عَلَى وُجُوبِ الْعِدَّةِ عَلَى الْمُطَلَّقَةِ وَالْمُتَوَفَّى عَنْهَا زَوْجُهَا، وَاخْتَلَفُوا فِي عِدَّةِ الْحَامِلِ الْمُتَوَفَّى عَنْهَا زَوْجُهَا.",
+      "translation": "Mereka sepakat mengenai wajibnya masa iddah bagi wanita yang diceraikan maupun yang ditinggal mati suaminya, namun mereka berbeda pendapat mengenai masa iddah bagi wanita hamil yang ditinggal mati suaminya."
+    },
+    {
+      "title": "Kitab Jual Beli: Hukum Dasar",
+      "titleArabic": "كِتَابُ الْبُيُوعِ: الْقَوْلُ فِي صِحَّةِ الْبَيْعِ",
+      "arabic": "أَجْمَعَ الْعُلَمَاءُ عَلَى أَنَّ الْبَيْعَ مَشْرُوعٌ لِقَوْلِهِ تَعَالَى: {وَأَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا}، وَأَنَّ شُرُوطَهُ طَهَارَةُ الْمَبِيعِ وَالْقُدْرَةُ عَلَى تَسْلِيمِهِ.",
+      "translation": "Para ulama sepakat bahwa jual beli adalah perkara yang halal dan disyariatkan berdasarkan firman Allah Ta'ala: 'Dan Allah menghalalkan jual beli serta mengharamkan riba', dan di antara syaratnya adalah kesucian barang jualan serta kemampuan untuk menyerahkannya."
+    },
+    {
+      "title": "Kitab Jual Beli: Riba",
+      "titleArabic": "بَابُ الرِّبَا",
+      "arabic": "وَاتَّفَقُوا عَلَى تَحْرِيمِ الرِّبَا فِي الذَّهَبِ وَالْفِضَّةِ وَالْبُرِّ وَالشَّعِيرِ وَالتَّمْرِ وَالْمِلْحِ، وَاخْتَلَفُوا فِي عِلَّةِ التَّحْرِيمِ فِي هَذِهِ الْأَشْيَاءِ لِقِيَاسِ غَيْرِهَا عَلَيْهَا.",
+      "translation": "Mereka sepakat mengenai keharaman riba pada emas, perak, gandum, jawawut, kurma, dan garam, namun berbeda pendapat mengenai 'illat (alasan hukum) keharamannya untuk menganalogikan (qiyas) barang-barang lain dengannya."
+    },
+    {
+      "title": "Kitab Jual Beli: Hak Khiyar (Pilihan)",
+      "titleArabic": "بَابُ الْخِيَارِ",
+      "arabic": "وَاتَّفَقُوا عَلَى مَشْرُوعِيَّةِ خِيَارِ الشَّرْطِ وَخِيَارِ الْعَيْبِ، وَاخْتَلَفُوا فِي خِيَارِ الْمَجْلِسِ هَلْ هُوَ ثَابِتٌ شَرْعًا أَمْ لَا.",
+      "translation": "Mereka sepakat mengenai pensyariatan khiyar syarat dan khiyar 'aib, namun mereka berbeda pendapat mengenai khiyar majelis apakah diakui secara syariat atau tidak."
+    },
+    {
+      "title": "Kitab Salam (Jual Beli Pesanan)",
+      "titleArabic": "كِتَابُ السَّلَمِ",
+      "arabic": "وَاتَّفَقُوا عَلَى جَوَازِ بَيْعِ السَّلَمِ وَهُوَ بَيْعُ مَوْصُوفٍ فِي الذِّمَّةِ بِثَمَنٍ مُعَجَّلٍ، وَاخْتَلَفُوا فِي اشْتِرَاطِ قَبْضِ الثَّمَنِ فِي الْمَجْلِسِ.",
+      "translation": "Mereka sepakat mengenai kebolehan jual beli salam, yaitu transaksi barang yang disifatkan dalam tanggungan dengan pembayaran tunai di muka, namun berbeda pendapat mengenai syarat penyerahan uang pembayaran secara langsung di majelis akad."
+    },
+    {
+      "title": "Kitab Sewa-Menyewa (Ijarah)",
+      "titleArabic": "كِتَابُ الْإِجَارَةِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ الْإِجَارَةَ جَائِزَةٌ عَلَى الْمَنَافِعِ الْمُبَاحَةِ الْمَقْصُودَةِ، وَاخْتَلَفُوا فِي كِرَاءِ الْأَرْضِ بِبَعْضِ مَا يَخْرُجُ مِنْهَا.",
+      "translation": "Mereka sepakat bahwa sewa-menyewa (ijarah) hukumnya boleh atas manfaat yang mubah dan bernilai guna, namun berbeda pendapat tentang menyewakan tanah dengan imbalan sebagian hasil pertanian yang keluar darinya."
+    },
+    {
+      "title": "Kitab Titipan (Wadi'ah)",
+      "titleArabic": "كِتَابُ الْوَدِيعَةِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ الْوَدِيعَةَ أَمَانَةٌ فِي يَدِ الْمُسْتَوْدَعِ لَا يَضْمَنُهَا إِلَّا بِالتَّعَدِّي أَوْ التَّفْرِيطِ.",
+      "translation": "Mereka sepakat bahwa barang titipan (wadi'ah) berstatus amanah di tangan penerima titipan, ia tidak berkewajiban mengganti rugi jika terjadi kerusakan melainkan karena kesengajaan atau kelalaiannya."
+    },
+    {
+      "title": "Kitab Pinjam-Meminjam ('Ariyah)",
+      "titleArabic": "كِتَابُ الْعَارِيَّةِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ الْعَارِيَّةَ مَشْرُوعَةٌ وَهِيَ تَمْلِيكُ الْمَنْفَعَةِ بِغَيْرِ عِوَضٍ، وَاخْتَلَفُوا هَلْ هِيَ مَضْمُونَةٌ عَلَى الْمُسْتَعِيرِ مُطْلَقًا أَمْ لَا.",
+      "translation": "Mereka sepakat bahwa pinjam-meminjam ('ariyah) disyariatkan, yaitu penyerahan kepemilikan manfaat tanpa imbalan, namun berbeda pendapat apakah peminjam wajib menanggung kerusakan secara mutlak ataukah tidak."
+    },
+    {
+      "title": "Kitab Ghasab (Menguasai Hak Orang Lain Tanpa Izin)",
+      "titleArabic": "كِتَابُ الْغَصْبِ",
+      "arabic": "أَجْمَعَ الْعُلَمَاءُ عَلَى أَنَّ الْغَصْبَ مُحَرَّمٌ لِقَوْلِهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا يَحِلُّ مَالُ امْرِئٍ مُسْلِمٍ إِلَّا بِطِيبِ نَفْسٍ مِنْهُ»، وَأَنَّهُ يَجِبُ رَدُّ الْمَغْصُوبِ وَضَمَانُهُ.",
+      "translation": "Para ulama sepakat bahwa ghasab hukumnya haram berdasarkan sabda Nabi SAW: 'Tidak halal harta seorang muslim melainkan dengan kerelaan hatinya', dan bahwa wajib mengembalikan barang yang dighasab serta menanggung kerusakannya."
+    },
+    {
+      "title": "Kitab Syuf'ah (Hak Membeli Terlebih Dahulu)",
+      "titleArabic": "كِتَابُ الشُّفْعَةِ",
+      "arabic": "وَاتَّفَقُوا عَلَى ثُبُوتِ الشُّفْعَةِ لِلشَّرِيكِ الَّذِي لَمْ تَقْسِمْ حِصَّتُهُ فِي الْعَقَارِ الْمُشْتَرَكِ، وَاخْتَلَفُوا فِي ثُبُوتِهَا لِلْجَارِ.",
+      "translation": "Mereka sepakat mengenai ketetapan hak syuf'ah bagi sekutu (pemilik bersama) yang bagiannya belum dibagi pada properti yang dimiliki bersama, namun berbeda pendapat mengenai berlakunya hak syuf'ah bagi tetangga samping rumah."
+    },
+    {
+      "title": "Kitab Pembagian Harta Bersama (Qismah)",
+      "titleArabic": "كِتَابُ الْقِسْمَةِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ الْقِسْمَةَ مَشْرُوعَةٌ لِإِنْهَاءِ الشِّرْكَةِ وَتَمْيِيزِ الْحُقُوقِ، وَأَنَّهَا تَكُونُ بِالتَّرَاضِي أَوْ بِالْقُرْعَةِ عِنْدَ الْخِلَافِ.",
+      "translation": "Mereka sepakat bahwa pembagian harta (qismah) disyariatkan untuk mengakhiri perserikatan dan memperjelas hak-hak kepemilikan, dan pelaksanaannya didasarkan atas kerelaan bersama atau dengan undian jika terjadi perselisihan."
+    },
+    {
+      "title": "Kitab Jinayat: Qisas",
+      "titleArabic": "كِتَابُ الْجِنَايَاتِ: الْقِصَاصُ",
+      "arabic": "أَجْمَعَ الْعُلَمَاءُ عَلَى أَنَّ الْقِصَاصَ فِي الْقَتْلِ الْعَمْدِ الْعُدْوَانِ مَشْرُوعٌ لِقَوْلِهِ تَعَالَى: {كُتِبَ عَلَيْكُمُ الْقِصَاصُ فِي الْقَتْلَى}، وَاخْتَلَفُوا فِي قِصَاصِ الْحُرِّ بِالْعَبْدِ.",
+      "translation": "Para ulama sepakat bahwa qisas pada pembunuhan sengaja yang zalim adalah disyariatkan berdasarkan firman Allah Ta'ala: 'Diwajibkan atas kamu qisas berkenaan dengan orang-orang yang dibunuh', namun berbeda pendapat mengenai qisas orang merdeka yang membunuh budak."
+    },
+    {
+      "title": "Kitab Diyat (Denda Pembunuhan)",
+      "titleArabic": "كِتَابُ الدِّيَاتِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ دِيَةَ الْحُرِّ الْمُسْلِمِ مِائَةٌ مِنَ الْإِبِلِ، وَاخْتَلَفُوا فِي مَقَادِيرِ دِيَاتِ أَهْلِ الذِّمَّةِ وَالنِّسَاءِ وَالْعَبِيدِ.",
+      "translation": "Mereka sepakat bahwa diyat (denda) bagi laki-laki muslim merdeka adalah seratus ekor unta, namun berbeda pendapat mengenai kadar diyat untuk kafir dzimmi, wanita, dan budak."
+    },
+    {
+      "title": "Kitab Hudud: Hukum Zina",
+      "titleArabic": "كِتَابُ الْحُدُودِ: حَدُّ الزِّنَا",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ حَدَّ الزَّانِي الْمُحْصَنِ الرَّجْمُ حَتَّى الْمَوْتِ، وَأَنَّ حَدَّ غَيْرِ الْمُحْصَنِ جَلْدُ مِائَةِ جَلْدَةٍ.",
+      "translation": "Mereka sepakat bahwa hukuman had bagi pezina muhshan (sudah menikah) adalah dirajam hingga mati, dan had bagi pezina ghoiru muhshan (belum menikah) adalah dicambuk seratus kali."
+    },
+    {
+      "title": "Kitab Hudud: Qadzaf (Menuduh Zina)",
+      "titleArabic": "بَابُ حَدِّ الْقَذْفِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ حَدَّ الْقَذْفِ ثَمَانُونَ جَلْدَةً لِلْحُرِّ إِذَا قَذَفَ مُحْصَنًا بِالزِّنَا وَلَمْ يُقِمِ الْبَيِّنَةَ لِقَوْلِهِ تَعَالَى: {فَاجْلِدُوهُمْ ثَمَانِينَ جَلْدَةً}.",
+      "translation": "Mereka sepakat bahwa hukuman had qadzaf adalah delapan puluh kali cambuk bagi orang merdeka yang menuduh orang baik-baik berzina tanpa bisa mendatangkan empat orang saksi, sesuai firman Allah: 'Maka cambuklah mereka delapan puluh kali'."
+    },
+    {
+      "title": "Kitab Hudud: Pencurian",
+      "titleArabic": "بَابُ حَدِّ السَّرِقَةِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ حَدَّ السَّارِقِ قَطْعُ يَدِهِ الْيُمْنَى إِذَا سَرَقَ نِصَابًا مِنْ حِرْزٍ، وَاخْتَلَفُوا فِي قَدْرِ النِّصَابِ الْمُوجِبِ لِلْقَطْعِ.",
+      "translation": "Mereka sepakat bahwa hukuman bagi pencuri adalah dipotong tangan kanannya jika mencuri barang senilai nishab dari tempat penyimpanan yang aman, namun berbeda pendapat mengenai batas minimal (nishab) harga barang yang mewajibkan potong tangan."
+    },
+    {
+      "title": "Kitab Hudud: Meminum Khamar",
+      "titleArabic": "بَابُ حَدِّ شُرْبِ الْخَمْرِ",
+      "arabic": "وَاتَّفَقُوا عَلَى تَحْرِيمِ شُرْبِ الْخَمْرِ وَأَنَّهُ يُوجِبُ الْحَدَّ، وَاخْتَلَفُوا فِي مِقْدَارِ الْحَدِّ هَلْ هُوَ أَرْبَعُونَ جَلْدَةً أَوْ ثَمَانُونَ.",
+      "translation": "Mereka sepakat mengenai keharaman meminum khamar dan bahwa pelakunya wajib dijatuhi hukuman had, namun mereka berbeda pendapat mengenai jumlah cambukannya: apakah empat puluh kali cambuk atau delapan puluh kali."
+    },
+    {
+      "title": "Kitab Peradilan dan Kesaksian",
+      "titleArabic": "كِتَابُ الْأَقْضِيَةِ وَالشَّهَادَاتِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ الْقَضَاءَ فَرْضُ كِفَايَةٍ، وَأَنَّ الْبَيِّنَةَ عَلَى الْمُدَّعِي وَالْيَمِينَ عَلَى مَنْ أَنْكَرَ، لِقَوْلِهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «الْبَيِّنَةُ عَلَى الْمُدَّعِي وَالْيَمِينُ عَلَى الْمُدَّعَى عَلَيْهِ».",
+      "translation": "Mereka sepakat bahwa menegakkan peradilan hukumnya fardhu kifayah, dan beban pembuktian (bukti/saksi) berada di pundak penggugat sedangkan sumpah dibebankan kepada tergugat yang mengingkari tuduhan, berdasarkan sabda Nabi SAW: 'Bukti wajib bagi penggugat dan sumpah wajib bagi yang mengingkari (tergugat)'."
+    },
+    {
+      "title": "Kitab Sumpah dan Nadzar",
+      "titleArabic": "كِتَابُ الْأَيْمَانِ وَالنُّذُورِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ الْيَمِينَ لَا تَنْعَقِدُ إِلَّا بِاللَّهِ تَعَالَى أَوْ بِاسْمٍ مِنْ أَسْمَائِهِ أَوْ صِفَةٍ مِنْ صِفَاتِهِ، وَأَنَّ النَّذْرَ فِي الطَّاعَةِ يَجِبُ الْوَفَاءُ بِهِ.",
+      "translation": "Mereka sepakat bahwa sumpah tidak sah melainkan bersumpah demi Allah Ta'ala, atau dengan salah satu Asma-Nya, atau sifat dari sifat-sifat-Nya, dan bahwasanya nadzar dalam ketaatan wajib ditunaikan."
+    },
+    {
+      "title": "Kitab Penyembelihan dan Makanan",
+      "titleArabic": "كِتَابُ الذَّبَائِحِ وَالْأَطْعِمَةِ",
+      "arabic": "وَاتَّفَقُوا عَلَى أَنَّ ذَكَاةَ الْحَيَوَانِ الْبَرِّيِّ الْمَأْكُولِ شَرْطٌ فِي حِلِّ أَكْلِهِ، وَأَنَّ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنْزِيرِ مُحَرَّمٌ بِالنَّصِّ.",
+      "translation": "Mereka sepakat bahwa menyembelih hewan darat yang halal dimakan sesuai syariat adalah syarat kehalalannya, serta menyetujui bahwa bangkai, darah, dan daging babi hukumnya haram berdasarkan nash ayat Al-Qur'an."
+    },
+    {
+      "title": "Khatimah Kitab",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ",
+      "arabic": "فَهَذَا آخِرُ مَا أَرَدْنَا إِثْبَاتَهُ فِي هَذَا الْكِتَابِ مِنْ مَسَائِلِ الْأَحْكامِ، نَسْأَلُ اللَّهَ الْعَفْوَ وَالْعَافِيَةَ، وَأَنْ يَجْعَلَ عَمَلَنَا هَذَا خَالِصًا لِوَجْهِهِ الْكَرِيمِ، وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَآلِهِ وَصَحْبِهِ وَسَلَّمَ تَسْلِيمًا.",
+      "translation": "Inilah akhir dari apa yang ingin kami tetapkan dalam kitab ini mengenai masalah-masalah hukum fiqih. Kami memohon ampunan dan keselamatan kepada Allah, serta memohon agar Dia menjadikan amal kami ini tulus ikhlas semata-mata karena mengharap keridhaan-Nya yang mulia. Dan semoga shalawat serta salam senantiasa tercurahkan kepada junjungan kami Nabi Muhammad, beserta keluarga dan para sahabatnya sekalian."
+    }
+  ]
+}
