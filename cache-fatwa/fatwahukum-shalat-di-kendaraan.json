@@ -1,0 +1,41 @@
+{
+  "question": "Hukum Shalat di Kendaraan",
+  "summary": "Shalat fardhu di atas kendaraan hukumnya sah jika semua rukun dan syarat (terutama menghadap kiblat, berdiri bagi yang mampu, ruku', dan sujud secara sempurna) dapat dipenuhi. Jika tidak mampu dipenuhi (seperti di bus atau pesawat yang sempit), mayoritas ulama mewajibkan untuk turun atau menjamak shalat jika memenuhi syarat safar. Jika terpaksa shalat di kendaraan demi menghormati waktu (Lihurmatil Waqti), Madzhab Syafi'i mewajibkan qadha (mengulang), sedangkan Madzhab Hambali mengabsahkannya tanpa qadha dalam kondisi darurat tertentu.",
+  "lawStatus": "Wajib (jika memenuhi rukun), Makruh/Tidak Sah (jika mengabaikan rukun tanpa uzur syar'i), atau Boleh (shalat sunnah/darurat)",
+  "madzhabComparison": [
+    {
+      "madzhab": "Syafi'i",
+      "opinion": "Shalat fardhu di atas kendaraan (seperti pesawat, kereta, bus) tidak sah kecuali jika seluruh rukunnya dipenuhi secara sempurna, termasuk berdiri (qiyam), menghadap kiblat secara konsisten, serta ruku' dan sujud yang sempurna di atas lantai/tempat sujud. Apabila tidak memungkinkan karena keterbatasan ruang, dan dikhawatirkan waktu shalat akan habis sebelum sampai tujuan, maka wajib melakukan 'Shalat Lihurmatil Waqti' (menghormati waktu) dengan gerakan isyarat sedampat mungkin tanpa perlu bersuci dengan tayamum jika tidak ada debu/air, namun shalat tersebut WAJIB di-qadha' (diulang) setelah mendarat atau sampai di tujuan. Adapun untuk shalat sunnah (nafilah), boleh dilakukan di atas kendaraan dengan menghadap ke arah laju kendaraan berdasarkan sunnah rasul."
+    },
+    {
+      "madzhab": "Hanafi",
+      "opinion": "Shalat fardhu di atas kendaraan yang bergerak (seperti hewan tunggangan atau mobil) pada dasarnya tidak diperbolehkan kecuali dalam kondisi darurat yang ekstrem, seperti takut ancaman musuh, binatang buas, atau kondisi tanah berlumpur parah yang mencegah turun dari kendaraan. Namun, jika kendaraan tersebut berupa kapal laut atau kereta api yang sedang berjalan, shalat fardhu hukumnya boleh dilakukan dengan syarat wajib berdiri (jika mampu), ruku', sujud, dan wajib berputar menghadap kiblat setiap kali kendaraan berbelok arah. Jika tidak mampu berdiri karena pusing atau goncangan, diperbolehkan shalat sambil duduk dengan tetap melakukan sujud yang sempurna."
+    },
+    {
+      "madzhab": "Maliki",
+      "opinion": "Shalat fardhu di atas kendaraan darat (seperti mobil atau hewan) tidak sah kecuali jika ada uzur darurat yang mengancam keselamatan jika turun (misal: sakit parah atau bahaya musuh). Untuk transportasi laut (kapal), shalat fardhu diperbolehkan dengan berdiri dan wajib menghadap kiblat serta berputar mengikutinya jika kapal berubah arah. Jika tidak mampu berdiri karena mabuk laut atau goyangan keras, diperbolehkan shalat dengan posisi duduk namun wajib melakukan ruku' dan sujud secara fisik (bukan sekadar isyarat)."
+    },
+    {
+      "madzhab": "Hambali",
+      "opinion": "Shalat fardhu di atas kendaraan (kapal, kereta, pesawat, maupun hewan tunggangan) hukumnya sah apabila semua rukunnya (berdiri, ruku', sujud, dan menghadap kiblat) terpenuhi. Jika seseorang tidak mampu berdiri karena takut jatuh, pusing, atau tidak ada ruang, ia boleh shalat sambil duduk. Jika ia tidak mampu menghadap kiblat atau bersujud secara fisik karena kondisi kendaraan yang tidak bisa dihentikan sementara waktu shalat akan habis, ia diperbolehkan shalat semampunya (meski dengan isyarat dan tidak menghadap kiblat) dan shalatnya dinilai SAH serta TIDAK wajib di-qadha' (diulang) di kemudian hari, karena Allah tidak membebani hamba-Nya di luar batas kemampuannya."
+    }
+  ],
+  "evidences": [
+    {
+      "source": "Al-Qur'an Surah Al-Baqarah Ayat 239",
+      "text": "فَإِنْ خِفْتُمْ فَرِجَالًا أَوْ رُكْبَانًا ۖ فَإِذَا أَمِنْتُمْ فَاذْكُرُوا اللَّهَ كَمَا عَلَّمَكُمْ مَا لَمْ تَكُونُوا تَعْلَمُونَ",
+      "meaning": "Jika kamu dalam keadaan takut (bahaya), maka shalatlah sambil berjalan kaki atau berkendara. Kemudian apabila kamu telah aman, maka sebutlah Allah (shalatlah), sebagaimana Allah telah mengajarkan kepada kamu apa yang belum kamu ketahui."
+    },
+    {
+      "source": "Hadis Riwayat Al-Bukhari (No. 1098)",
+      "text": "كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُصَلِّي عَلَى رَاحِلَتِهِ حَيْثُ تَوَجَّهَتْ بِهِ، فَإِذَا أَرَادَ الْفَرِيضَةَ نَزَلَ فَاسْتَقْبَلَ الْقِبْلَةَ",
+      "meaning": "Rasulullah SAW biasa melaksanakan shalat sunnah di atas kendaraannya menghadap ke mana pun kendaraannya itu menghadap. Namun, jika beliau hendak melaksanakan shalat fardhu, beliau turun terlebih dahulu lalu menghadap kiblat."
+    },
+    {
+      "source": "Kaidah Fiqih (Al-Asybah wan-Nazhair)",
+      "text": "المَشَقَّةُ تَجْلِبُ التَّيْسِيْرَ",
+      "meaning": "Kesulitan (kesukaran) itu menarik kemudahan."
+    }
+  ],
+  "conclusion": "Berdasarkan tinjauan komprehensif 4 madzhab, berikut adalah panduan praktis: (1) Untuk Shalat Sunnah: Boleh dilakukan di atas kendaraan (pesawat, mobil, kereta) dalam posisi duduk dengan isyarat, menghadap ke arah jalannya kendaraan. (2) Untuk Shalat Fardhu: Prioritaskan utama untuk shalat di darat (rest area, stasiun, bandara) dengan menggunakan kemudahan (rukhsah) Jamak dan Qashar jika sedang dalam perjalanan jauh (safar). (3) Jika terpaksa di kendaraan: Di atas kereta atau pesawat yang menyediakan space luas (seperti mushola khusus), shalatlah dengan berdiri, ruku', sujud, dan menghadap kiblat secara sempurna (Sah menurut semua madzhab). (4) Jika space tidak ada (misal di kursi pesawat/bus/mobil): Menurut Madzhab Syafi'i, lakukan shalat 'Lihurmatil Waqti' sebisanya dan wajib mengulanginya (qadha) saat tiba di tujuan. Namun, jika ingin mengambil keringanan (rukhsah) yang lebih memudahkan demi menghindari kesulitan mengulang shalat, diperbolehkan bertaklid pada Madzhab Hambali yang mengesahkan shalat tersebut tanpa perlu qadha, dengan catatan telah berupaya maksimal menghadap kiblat dan berwudhu secara sah."
+}
