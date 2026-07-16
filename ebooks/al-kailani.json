@@ -1,0 +1,248 @@
+{
+  "profile": {
+    "name": "Al-Kailani",
+    "originalTitle": "شَرْحُ الكَيْلَانِي عَلَى تَصْرِيفِ العِزِّي",
+    "author": "Abul Hasan Ali bin Hisyam al-Kailani (أَبُو الحَسَنِ عَلِيُّ بْنُ هِشَامٍ الكَيْلَانِيُّ)",
+    "field": "Morfologi Bahasa Arab (Shorof / Tasrif)",
+    "about": "Kitab Al-Kailani merupakan karya syarah (penjelasan) monumental dan sangat populer atas kitab Al-Tashrif al-Izzi karya Imam Izzuddin al-Zanjani. Kitab ini menjadi standar kurikulum madrasah dan pesantren di Nusantara untuk mendalami ilmu perubahan bentuk kata (Shorof). Dengan analisis yang mendalam, kitab ini mengupas tuntas sistem pembentukan fi'il (kata kerja), isim (kata benda), proses i'lal (perubahan huruf penyakit/illat), serta kaidah idgham. Karya ini menjembatani penuntut ilmu dari tingkat pemula menuju tingkat mahir dalam memahami struktur morfologi bahasa Arab.",
+    "authorBorn": "Kailan (Gilan), Iran",
+    "authorDied": "Sekitar tahun 850 Hijriah / 1446 Masehi",
+    "authorCentury": "Abad ke-9 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah Kitab",
+      "titleArabic": "المُقَدِّمَةُ",
+      "arabic": "بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ. الحَمْدُ للهِ الَّذِي نَزَّلَ جَلَائِلَ النِّعَمِ، وَأَفَاضَ دَقَائِقَ الحِكَمِ، وَأَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ. أَمَّا بَعْدُ: فَإِنَّ التَّصْرِيفَ أُمُّ العُلُومِ، وَالنَّحْوُ أَبُوهَا، وَيَجِبُ عَلَى كُلِّ طَالِبٍ أَنْ يَبْتَدِئَ بِمَعْرِفَتِهِ.",
+      "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah yang telah menurunkan nikmat-nikmat yang agung dan melimpahkan hikmah-hikmah yang lembut. Aku bersaksi bahwa tiada Tuhan selain Allah yang Maha Esa, tiada sekutu bagi-Nya, dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya. Adapun setelah itu: Sesungguhnya ilmu Shorof (morfologi) adalah ibunya segala ilmu, sedangkan ilmu Nahwu (sintaksis) adalah bapaknya, dan wajib bagi setiap penuntut ilmu untuk memulai belajarnya dengan mengetahuinya."
+    },
+    {
+      "title": "Definisi Tashrif secara Bahasa dan Istilah",
+      "titleArabic": "تَعْرِيفُ التَّصْرِيفِ لُغَةً وَاصْطِلَاحًا",
+      "arabic": "اعْلَمْ أَنَّ التَّصْرِيفَ فِي اللُّغَةِ: التَّغْيِيرُ، وَفِي الصِّنَاعَةِ: تَحْوِيلُ الأَصْلِ الوَاحِدِ إِلَى أَمْثِلَةٍ مُخْتَلِفَةٍ، لِمَعَانٍ مَقْصُودَةٍ، لَا تَحْصُلُ إِلَّا بِهَا.",
+      "translation": "Ketahuilah bahwa tashrif (morfologi) secara bahasa berarti: perubahan. Sedangkan menurut istilah (ahli shorof): mengubah satu asal bentuk kata (kata dasar) menjadi bentuk-bentuk contoh (derivasi) yang berbeda-beda, demi menghasilkan makna-makna yang dituju, yang mana makna tersebut tidak akan tercapai melainkan dengan perubahan tersebut."
+    },
+    {
+      "title": "Pembagian Fi'il Berdasarkan Jumlah Huruf Asal",
+      "titleArabic": "تَقْسِيمُ الفِعْلِ إِلَى ثُلَاثِيٍّ وَرُبَاعِيٍّ",
+      "arabic": "ثُمَّ الفِعْلُ إِمَّا ثُلَاثِيٌّ، وَإِمَّا رُبَاعِيٌّ. وَكُلُّ وَاحِدٍ مِنْهُمَا إِمَّا مُجَرَّدٌ أَوْ مَزِيدٌ فِيهِ. وَكُلُّ وَاحِدٍ مِنْهَا إِمَّا سَالِمٌ أَوْ غَيْرُ سَالِمٍ.",
+      "translation": "Kemudian fi'il (kata kerja) itu adakalanya tsulatsi (terdiri dari tiga huruf asal) dan adakalanya ruba'i (terdiri dari empat huruf asal). Dan masing-masing dari keduanya adakalanya mujarrad (murni tanpa tambahan) atau mazid fih (mendapat huruf tambahan). Serta masing-masing dari padanya adakalanya salim (selamat dari huruf illat, hamzah, dan mudha'af) atau ghairu salim (tidak selamat)."
+    },
+    {
+      "title": "Fi'il Salim dan Definisinya",
+      "titleArabic": "الفِعْلُ السَّالِمُ وَتَعْرِيفُهُ",
+      "arabic": "وَنَعْنِي بِالسَّالِمِ: مَا سَلِمَتْ حُرُوفُهُ الأَصْلِيَّةُ الَّتِي تُقَابَلُ بِالفَاءِ وَالعَيْنِ وَاللَّامِ، مِنْ حُرُوفِ العِلَّةِ، وَالهَمْزَةِ، وَالتَّضْعِيفِ.",
+      "translation": "Dan yang kami maksud dengan fi'il salim adalah: kata kerja yang huruf-huruf asalnya—yang berkedudukan sebagai Fa' fi'il, 'Ain fi'il, dan Lam fi'il—selamat dari huruf illat (wawu, alif, ya'), hamzah, dan tadh'if (idgham/double huruf)."
+    },
+    {
+      "title": "Fi'il Tsulatsi Mujarrad Bab Pertama (Fa'ala - Yaf'ulu)",
+      "titleArabic": "البَابُ الأَوَّلُ مِنَ الثُّلَاثِيِّ المُجَرَّدِ",
+      "arabic": "أَمَّا الثُّلَاثِيُّ المُجَرَّدُ: فَإِنْ كَانَ مَاضِيهِ عَلَى وَزْنِ (فَعَلَ) بِفَتْحِ العَيْنِ، فَمُضَارِعُهُ يَجِيءُ عَلَى (يَفْعُلُ) بِضَمِّهَا، كَـ (نَصَرَ يَنْصُرُ) نَصْرًا، وَيُسَمَّى بَابَ الدَّعْوَةِ.",
+      "translation": "Adapun fi'il Tsulatsi Mujarrad: jika fi'il madhi-nya menggunakan wazan (فَعَلَ - fa'ala) dengan fathah pada 'ain-nya, maka fi'il mudhari'-nya datang dengan wazan (يَفْعُلُ - yaf'ulu) dengan dhammah pada 'ain-nya, seperti contoh: (نَصَرَ يَنْصُرُ - nashara yanshuru) yang berarti menolong, dan bab ini dinamakan bab dakwah (ajakan)."
+    },
+    {
+      "title": "Fi'il Tsulatsi Mujarrad Bab Kedua (Fa'ala - Yaf'ilu)",
+      "titleArabic": "البَابُ الثَّانِي مِنَ الثُّلَاثِيِّ المُجَرَّدِ",
+      "arabic": "وَأَمَّا البَابُ الثَّانِي: فَهُوَ أَنْ يَكُونَ المَاضِي عَلَى (فَعَلَ) بِفَتْحِ العَيْنِ، وَالمُضَارِعُ عَلَى (يَفْعِلُ) بِكَسْرِهَا، كَـ (ضَرَبَ يَضْرِبُ) ضَرْبًا.",
+      "translation": "Adapun bab kedua: yaitu fi'il madhi menggunakan wazan (فَعَلَ - fa'ala) dengan fathah pada 'ain-nya, dan fi'il mudhari'-nya menggunakan wazan (يَفْعِلُ - yaf'ilu) dengan kasrah pada 'ain-nya, seperti contoh: (ضَرَبَ يَضْرِبُ - dharaba yadhribu) yang berarti memukul."
+    },
+    {
+      "title": "Fi'il Tsulatsi Mujarrad Bab Ketiga (Fa'ala - Yaf'alu)",
+      "titleArabic": "البَابُ الثَّالِثُ مِنَ الثُّلَاثِيِّ المُجَرَّدِ",
+      "arabic": "وَأَمَّا البَابُ الثَّالِثُ: فَهُوَ أَنْ يَكُونَ المَاضِي عَلَى (فَعَلَ) بِفَتْحِ العَيْنِ، وَالمُضَارِعُ عَلَى (يَفْعَلُ) بِفَتْحِهَا أَيْضًا، كَـ (فَتَحَ يَفْتَحُ) فَتْحًا، وَشَرْطُهُ أَنْ يَكُونَ عَيْنُهُ أَوْ لَامُهُ حَرْفًا مِنْ حُرُوفِ الحَلْقِ.",
+      "translation": "Adapun bab ketiga: yaitu fi'il madhi menggunakan wazan (فَعَلَ - fa'ala) dengan fathah pada 'ain-nya, dan fi'il mudhari'-nya menggunakan wazan (يَفْعَلُ - yaf'alu) dengan fathah pula pada 'ain-nya, seperti contoh: (فَتَحَ يَفْتَحُ - fataha yaftahu) yang berarti membuka. Syarat bab ini adalah 'ain fi'il atau lam fi'il-nya harus berupa salah satu huruf halq (tenggorokan)."
+    },
+    {
+      "title": "Huruf-Huruf Halq",
+      "titleArabic": "حُرُوفُ الحَلْقِ",
+      "arabic": "وَحُرُوفُ الحَلْقِ سِتَّةٌ، وَهِيَ: الهَمْزَةُ وَالهَاءُ وَالعَيْنُ وَالحَاءُ وَالغَيْنُ وَالخَاءُ.",
+      "translation": "Dan huruf-huruf halq (tenggorokan) itu ada enam, yaitu: Hamzah (ء), Ha' (هـ), 'Ain (ع), Ha' (ح), Ghain (غ), dan Kha' (خ)."
+    },
+    {
+      "title": "Fi'il Tsulatsi Mujarrad Bab Keempat (Fa'ila - Yaf'alu)",
+      "titleArabic": "البَابُ الرَّابِعُ مِنَ الثُّلَاثِيِّ المُجَرَّدِ",
+      "arabic": "وَأَمَّا البَابُ الرَّابِعُ: فَأَنْ يَكُونَ المَاضِي عَلَى (فَعِلَ) بِكَسْرِ العَيْنِ، وَالمُضَارِعُ عَلَى (يَفْعَلُ) بِفَتْحِهَا، كَـ (عَلِمَ يَعْلَمُ) عِلْمًا.",
+      "translation": "Adapun bab keempat: yaitu fi'il madhi menggunakan wazan (فَعِلَ - fa'ila) dengan kasrah pada 'ain-nya, dan fi'il mudhari'-nya menggunakan wazan (يَفْعَلُ - yaf'alu) dengan fathah pada 'ain-nya, seperti contoh: (عَلِمَ يَعْلَمُ - 'alima ya'lamu) yang berarti mengetahui."
+    },
+    {
+      "title": "Fi'il Tsulatsi Mujarrad Bab Kelima (Fa'ula - Yaf'ulu)",
+      "titleArabic": "البَابُ الخامِسُ مِنَ الثُّلَاثِيِّ المُجَرَّدِ",
+      "arabic": "وَأَمَّا البَابُ الخَامِسُ: فَأَنْ يَكُونَ المَاضِي عَلَى (فَعُلَ) بِضَمِّ العَيْنِ، وَالمُضَارِعُ عَلَى (يَفْعُلُ) بِضَمِّهَا أَيْضًا، كَـ (حَسُنَ يَحْسُنُ) حُسْنًا.",
+      "translation": "Adapun bab kelima: yaitu fi'il madhi menggunakan wazan (فَعُلَ - fa'ula) dengan dhammah pada 'ain-nya, dan fi'il mudhari'-nya menggunakan wazan (يَفْعُلُ - yaf'ulu) dengan dhammah pula pada 'ain-nya, seperti contoh: (حَسُنَ يَحْسُنُ - hasuna yahsunu) yang berarti baik."
+    },
+    {
+      "title": "Fi'il Tsulatsi Mujarrad Bab Keenam (Fa'ila - Yaf'ilu)",
+      "titleArabic": "البَابُ السَّادِسُ مِنَ الثُّلَاثِيِّ المُجَرَّدِ",
+      "arabic": "وَأَمَّا البَابُ السَّادِسُ: فَأَنْ يَكُونَ المَاضِي عَلَى (فَعِلَ) بِكَسْرِ العَيْنِ، وَالمُضَارِعُ عَلَى (يَفْعِلُ) بِكَسْرِهَا أَيْضًا، كَـ (حَسِبَ يَحْسِبُ) حِسْبَانًا.",
+      "translation": "Adapun bab keenam: yaitu fi'il madhi menggunakan wazan (فَعِلَ - fa'ila) dengan kasrah pada 'ain-nya, dan fi'il mudhari'-nya menggunakan wazan (يَفْعِلُ - yaf'ilu) dengan kasrah pula pada 'ain-nya, seperti contoh: (حَسِبَ يَحْسِبُ - hasiba yahsibu) yang berarti menghitung/menyangka."
+    },
+    {
+      "title": "Fi'il Tsulatsi Mazid Fih dan Pembagiannya",
+      "titleArabic": "الثُّلَاثِيُّ المَزِيدُ فِيهِ وَأَقْسَامُهُ",
+      "arabic": "وَأَمَّا الثُّلَاثِيُّ المَزِيدُ فِيهِ: فَهُوَ عَلَى ثَلَاثَةِ أَقْسَامٍ: مَا كَانَ مَاضِيهِ عَلَى أَرْبَعَةِ أَحْرُفٍ، وَمَا كَانَ مَاضِيهِ عَلَى خَمْسَةِ أَحْرُفٍ، وَمَا كَانَ مَاضِيهِ عَلَى سِتَّةِ أَحْرُفٍ.",
+      "translation": "Adapun fi'il Tsulatsi Mazid Fih (yang mendapatkan tambahan): terbagi menjadi tiga macam: kata yang fi'il madhi-nya terdiri dari empat huruf, kata yang fi'il madhi-nya terdiri dari lima huruf, dan kata yang fi'il madhi-nya terdiri dari enam huruf."
+    },
+    {
+      "title": "Tsulatsi Mazid Satu Huruf (Rubai)",
+      "titleArabic": "المَزِيدُ فِيهِ بِحَرْفٍ وَاحِدٍ",
+      "arabic": "فَمَا كَانَ مَاضِيهِ عَلَى أَرْبَعَةِ أَحْرُفٍ فَهُوَ عَلَى ثَلَاثَةِ أَوْزَانٍ: (أَفْعَلَ) كَـ (أَكْرَمَ)، وَ(فَعَّلَ) بِتَشْدِيدِ العَيْنِ كَـ (فَرَّحَ)، وَ(فَاعَلَ) كَـ (قَاتَلَ).",
+      "translation": "Maka kata yang fi'il madhi-nya terdiri atas empat huruf ada tiga wazan: 1) (أَفْعَلَ - af'ala) seperti contoh (أَكْرَمَ - akrama / memuliakan), 2) (فَعَّلَ - fa''ala) dengan mentasydidkan 'ain fi'il seperti (فَرَّحَ - farraha / menggembirakan), dan 3) (فَاعَلَ - faa'ala) seperti (قَاتَلَ - qaatala / memerangi)."
+    },
+    {
+      "title": "Tsulatsi Mazid Dua Huruf (Khumasi)",
+      "titleArabic": "المَزِيدُ فِيهِ بِحَرْفَيْنِ",
+      "arabic": "وَمَا كَانَ مَاضِيهِ عَلَى خَمْسَةِ أَحْرُفٍ فَهُوَ عَلَى خَمْسَةِ أَوْزَانٍ: (تَفَعَّلَ) كَـ (تَقَبَّلَ)، وَ(تَفَاعَلَ) كَـ (تَبَاعَدَ)، وَ(انْفَعَلَ) كَـ (انْكَسَرَ)، وَ(افْتَعَلَ) كَـ (اجْتَمَعَ)، وَ(افْعَلَّ) كَـ (احْمَرَّ).",
+      "translation": "Dan kata yang fi'il madhi-nya terdiri dari lima huruf memiliki lima wazan: 1) (تَفَعَّلَ - tafa''ala) seperti (تَقَبَّلَ - taqabbala / menerima), 2) (تَفَاعَلَ - tafa'ala) seperti (تَبَاعَدَ - taba'ada / saling menjauh), 3) (انْفَعَلَ - infa'ala) seperti (انْكَسَرَ - inkasara / pecah), 4) (افْتَعَلَ - ifta'ala) seperti (اجْتَمَعَ - ijtama'a / berkumpul), dan 5) (افْعَلَّ - if'alla) seperti (احْمَرَّ - ihmarra / memerah)."
+    },
+    {
+      "title": "Tsulatsi Mazid Tiga Huruf (Sudasi)",
+      "titleArabic": "المَزِيدُ فِيهِ بِثَلَاثَةِ أَحْرُفٍ",
+      "arabic": "وَمَا كَانَ مَاضِيهِ عَلَى سِتَّةِ أَحْرُفٍ فَهُوَ عَلَى أَرْبَعَةِ أَوْزَانٍ مَشْهُورَةٍ: (اسْتَفْعَلَ) كَـ (اسْتَخْرَجَ)، وَ(افْعَوْعَلَ) كَـ (اِعْشَوْشَبَ)، وَ(افْعَالَّ) كَـ (اِحْمَارَّ)، وَ(افْعَوَّلَ) كَـ (اِجْلَوَّذَ).",
+      "translation": "Dan kata yang fi'il madhi-nya terdiri dari enam huruf memiliki empat wazan yang masyhur: 1) (اسْتَفْعَلَ - istaf'ala) seperti (اسْتَخْرَجَ - istakhraja / memohon keluar/mengeluarkan), 2) (افْعَوْعَلَ - if'au'ala) seperti (اِعْشَوْشَبَ - i'syausyaba / ditumbuhi banyak rumput), 3) (افْعَالَّ - if'aalla) seperti (اِحْمَارَّ - ihmaarra / sangat merah), dan 4) (افْعَوَّلَ - if'awwala) seperti (اِجْلَوَّذَ - ijlawwada / berjalan cepat)."
+    },
+    {
+      "title": "Fi'il Ruba'i Mujarrad dan Mulhaq-nya",
+      "titleArabic": "الرُّبَاعِيُّ المُجَرَّدُ وَمُلْحَقَاتُهُ",
+      "arabic": "وَأَمَّا الرُّبَاعِيُّ المُجَرَّدُ: فَهُوَ بَابٌ وَاحِدٌ وَزْنُهُ (فَعْلَلَ) كَـ (دَحْرَجَ يُدَحْرِجُ دَحْرَجَةً وَدِحْرَاجًا). وَمُلْحَقَاتُهُ سِتَّةُ أَبْوَابٍ تَجْرِي مَجْرَاهُ فِي التَّصْرِيفِ مِثْلُ (فَوْعَلَ) كَـ (حَوْقَلَ).",
+      "translation": "Adapun fi'il Ruba'i Mujarrad: hanya memiliki satu bab dengan wazan (فَعْلَلَ - fa'lala), seperti contoh (دَحْرَجَ يُدَحْرِجُ دَحْرَجَةً وَدِحْرَاجًا - dahraja yudahriju dahrajatan wa dihraajan / menggelindingkan). Dan bab yang disamakan dengannya (mulhaq ruba'i mujarrad) ada enam bab yang mengikuti jalannya dalam tashrif, seperti wazan (فَوْعَلَ - fau'ala) contohnya (حَوْقَلَ - hauqala / mengucapkan la haula...)."
+    },
+    {
+      "title": "Fi'il Ruba'i Mazid Fih",
+      "titleArabic": "الرُّبَاعِيُّ المَزِيدُ فِيهِ",
+      "arabic": "وَأَمَّا الرُّبَاعِيُّ المَزِيدُ فِيهِ: فَهُوَ عَلَى قِسْمَيْنِ: مَا زِيدَ فِيهِ حَرْفٌ وَاحِدٌ مِثْلُ (تَفَعْلَلَ) كَـ (تَدَحْرَجَ)، وَمَا زِيدَ فِيهِ حَرْفَانِ مِثْلُ (افْعَنْلَلَ) كَـ (احْرَنْجَمَ) وَ(افْعَلَلَّ) كَـ (اقْشَعَرَّ).",
+      "translation": "Adapun fi'il Ruba'i Mazid Fih: terbagi menjadi dua bagian: 1) yang ditambah satu huruf seperti wazan (تَفَعْلَلَ - tafa'lala) contohnya (تَدَحْرَجَ - tadahraja / menggelinding), 2) yang ditambah dua huruf seperti wazan (افْعَنْلَلَ - if'anlala) contohnya (احْرَنْجَمَ - ihranjama / berkumpul) dan wazan (افْعَلَلَّ - if'alalla) contohnya (اقْشَعَرَّ - iqsya'arra / merinding)."
+    },
+    {
+      "title": "Pembagian Fi'il Berdasarkan Jenis Huruf (Bina')",
+      "titleArabic": "أَقْسَامُ الأَبْنِيَةِ وَالصِّيَغِ",
+      "arabic": "يَنْقَسِمُ الفِعْلُ بِاعْتِبَارِ الصِّحَّةِ وَالاعْتِلَالِ إِلَى سَبْعَةِ أَقْسَامٍ، يَجْمَعُهَا قَوْلُكَ: صَحِيحٌ، مِثَالٌ، مُضَاعَفٌ، لَفِيفٌ، نَاقِصٌ، مَهْمُوزٌ، أَجْوَفُ.",
+      "translation": "Fi'il dibagi berdasarkan segi keshahihan dan ke-illat-annya menjadi tujuh macam (dikenal sebagai Aqsamus Tsab'ah), yang dikumpulkan dalam ucapanmu: Shahih, Mithal, Mudha'af, Lafif, Naqis, Mahmuz, dan Ajwaf."
+    },
+    {
+      "title": "Fi'il Mudha'af",
+      "titleArabic": "الفِعْلُ المُضَاعَفُ",
+      "arabic": "وَالمُضَاعَفُ: هُوَ مَا كَانَ عَيْنُهُ وَلَامُهُ مِنْ جِنْسٍ وَاحِدٍ فِي الثُّلَاثِيِّ كَـ (مَدَّ)، وَمَا كَانَ فَاؤُهُ وَلَامُهُ الأُولَى، وَعَيْنُهُ وَلَامُهُ الثَّانِيَةُ مِنْ جِنْسٍ وَاحِدٍ فِي الرُّبَاعِيِّ كَـ (زَلْزَلَ).",
+      "translation": "Fi'il Mudha'af adalah: fi'il yang 'ain dan lam fi'il-nya berasal dari jenis huruf yang sama pada fi'il Tsulatsi, seperti contoh (مَدَّ - madda yang asalnya madada / memanjangkan), dan kata yang fa' fi'il beserta lam pertama-nya, serta 'ain fi'il beserta lam keduanya berasal dari jenis huruf yang sama pada fi'il Ruba'i, seperti contoh (زَلْزَلَ - zalzala / menggoncang)."
+    },
+    {
+      "title": "Fi'il Mahmuz",
+      "titleArabic": "الفِعْلُ المَهْمُوزُ",
+      "arabic": "وَالمَهْمُوزُ: هُوَ مَا كَانَ أَحَدُ حُرُوفِهِ الأَصْلِيَّةِ هَمْزَةً. فَإِنْ كَانَتْ فِي الفَاءِ فَـ (مَهْمُوزُ الفَاءِ) كَـ (أَكَلَ)، أَوْ فِي العَيْنِ فَـ (مَهْمُوزُ العَيْنِ) كَـ (سَأَلَ)، أَوْ فِي اللَّامِ فَـ (مَهْمُوزُ اللَّامِ) كَـ (قَرَأَ).",
+      "translation": "Fi'il Mahmuz adalah: kata yang salah satu huruf asalnya berupa huruf hamzah. Jika hamzah tersebut terletak pada fa' fi'il dinamakan 'Mahmuzul Fa'' seperti (أَكَلَ - akala / makan); jika terletak pada 'ain fi'il dinamakan 'Mahmuzul 'Ain' seperti (سَأَلَ - sa'ala / bertanya); dan jika terletak pada lam fi'il dinamakan 'Mahmuzul Lam' seperti (قَرَأَ - qara'a / membaca)."
+    },
+    {
+      "title": "Fi'il Mithal",
+      "titleArabic": "الفِعْلُ المِثَالُ",
+      "arabic": "وَالمِثَالُ: هُوَ مَا كَانَ فَاؤُهُ حَرْفَ عِلَّةٍ، وَيُقَالُ لَهُ المِثَالُ لِمُمَاثَلَتِهِ الصَّحِيحَ فِي احْتِمَالِ الحَرَكَاتِ، وَهُوَ إِمَّا وَاوِيٌّ مِثْلُ (وَعَدَ)، أَوْ يَائِيٌّ مِثْلُ (يَسَرَ).",
+      "translation": "Fi'il Mithal adalah: kata yang fa' fi'il-nya berupa huruf illat. Ia dinamakan mithal karena kemiripannya dengan fi'il shahih dalam hal menerima harakat. Fi'il ini terbagi menjadi Mithal Wawi seperti (وَعَدَ - wa'ada / berjanji) atau Mithal Ya'i seperti (يَسَرَ - yasara / mudah)."
+    },
+    {
+      "title": "Fi'il Ajwaf",
+      "titleArabic": "الفِعْلُ الأَجْوَفُ",
+      "arabic": "وَالأَجْوَفُ: هُوَ مَا كَانَ عَيْنُهُ حَرْفَ عِلَّةٍ، وَيُسَمَّى ذَا الثَّلَاثَةِ لِأَنَّ مَاضِيَهُ المُسْنَدَ إِلَى التَّاءِ يَصِيرُ عَلَى ثَلَاثَةِ أَحْرُفٍ، وَهُوَ إِمَّا وَاوِيٌّ كَـ (صَانَ) وَأَصْلُهُ صَوَنَ، أَوْ يَائِيٌّ كَـ (بَاعَ) وَأَصْلُهُ بَيَعَ.",
+      "translation": "Fi'il Ajwaf adalah: kata yang 'ain fi'il-nya berupa huruf illat. Ia juga disebut 'Dzut Tsalatsah' (yang memiliki tiga huruf) karena bentuk madhi-nya ketika disandarkan kepada dhamir Ta' mutaharrikah menyisakan tiga huruf saja. Ajwaf terbagi menjadi Ajwaf Wawi seperti (صَانَ - shaana yang asalnya shawana / menjaga) atau Ajwaf Ya'i seperti (بَاعَ - baa'a yang asalnya baya'a / menjual)."
+    },
+    {
+      "title": "Fi'il Naqis",
+      "titleArabic": "الفِعْلُ النَّاقِصُ",
+      "arabic": "وَالنَّاقِصُ: هُوَ مَا كَانَ لَامُهُ حَرْفَ عِلَّةٍ، وَيُسَمَّى ذَا الأَرْبَعَةِ لِأَنَّ مَاضِيَهُ المُسْنَدَ إِلَى التَّاءِ يَصِيرُ عَلَى أَرْبَعَةِ أَحْرُفٍ، كَـ (غَزَا) وَأَصْلُهُ غَزَوَ، وَ(رَمَى) وَأَصْلُهُ رَمَيَ.",
+      "translation": "Fi'il Naqis adalah: kata yang lam fi'il-nya berupa huruf illat. Ia dinamakan 'Dzul Arba'ah' (yang memiliki empat huruf) karena bentuk madhi-nya ketika disandarkan kepada dhamir Ta' mutaharrikah menjadi empat huruf, seperti (غَزَا - ghazaa yang asalnya ghazawa / berperang) dan (رَمَى - ramaa yang asalnya ramaya / melempar)."
+    },
+    {
+      "title": "Fi'il Lafif (Maqrun dan Mafruq)",
+      "titleArabic": "الفِعْلُ اللَّفِيفُ: المَقْرُونُ وَالمَفْرُوقُ",
+      "arabic": "وَاللَّفِيفُ: هُوَ مَا فِيهِ حَرْفَا عِلَّةٍ. فَإِنْ كَانَا مُقْتَرِنَيْنِ يُسَمَّى لَفِيفًا مَقْرُونًا كَـ (طَوَى)، وَإِنْ كَانَا مُفْتَرِقَيْنِ يُسَمَّى لَفِيفًا مَفْرُوقًا كَـ (وَقَى).",
+      "translation": "Fi'il Lafif adalah: kata kerja yang di dalamnya terdapat dua huruf illat. Jika kedua huruf illat tersebut beriringan (tanpa pemisah) maka dinamakan 'Lafif Maqrun' seperti (طَوَى - thawaa / melipat), dan jika keduanya terpisah (terhalang huruf shahih) maka dinamakan 'Lafif Mafruq' seperti (وَقَى - waqaa / menjaga)."
+    },
+    {
+      "title": "Tashrif Fi'il Madhi",
+      "titleArabic": "تَصْرِيفُ الفِعْلِ المَاضِي",
+      "arabic": "الفِعْلُ المَاضِي مَبْنِيٌّ عَلَى الفَتْحِ مِثْلُ (ضَرَبَ)، إِلَّا إِذَا اتَّصَلَ بِهِ وَاوُ الجَمْعِ فَيُضَمُّ كَـ (ضَرَبُوا)، أَوْ ضَمِيرُ رَفْعٍ مُتَحَرِّكٌ فَيُسَكَّنُ كَـ (ضَرَبْتُ، ضَرَبْنَا).",
+      "translation": "Fi'il madhi itu mabni atas fathah secara asal seperti (ضَرَبَ - dharaba), kecuali apabila bersambung dengan Wawu Jama' maka ia di-dhammah-kan seperti (ضَرَبُوا - dharabuu), atau bersambung dengan dhamir rafa' mutaharrik (dhamir berharakat) maka ia disukunkan seperti (ضَرَبْتُ - dharabtu, ضَرَبْنَا - dharabnaa)."
+    },
+    {
+      "title": "Bentuk Fi'il Madhi Majhul",
+      "titleArabic": "بِنَاءُ المَاضِي المَجْهُولِ",
+      "arabic": "وَإِذَا أَرَدْتَ بِنَاءَ المَاضِي لِلْمَجْهُولِ: ضُمَّ أَوَّلُهُ وَكُسِرَ مَا قَبْلَ آخِرِهِ، نَحْوُ (ضُرِبَ)، وَإِنْ كَانَ فِيهِ تَاءُ المُطَاوَعَةِ ضُمَّ أَوَّلُهُ وَثَانِيهِ كَـ (تُقُبِّلَ).",
+      "translation": "Dan apabila engkau ingin membentuk fi'il madhi majhul (pasif): maka huruf pertamanya di-dhammah-kan dan huruf sebelum terakhirnya di-kasrah-kan, contoh: (ضُرِبَ - dhuriba / dipukul). Dan jika di dalam fi'il tersebut terdapat Ta' muthaawa'ah (seperti bab tafa''ala), maka huruf pertama dan keduanya di-dhammah-kan seperti (تُقُبِّلَ - tuqubbila)."
+    },
+    {
+      "title": "Tashrif Fi'il Mudhari'",
+      "titleArabic": "تَصْرِيفُ الفِعْلِ المُضَارِعِ",
+      "arabic": "الفِعْلُ المُضَارِعُ: هُوَ مَا كَانَ فِي أَوَّلِهِ إِحْدَى الزَّوَائِدِ الأَرْبَعِ الَّتِي يَجْمَعُهَا قَوْلُكَ (أَنَيْتُ) أَوْ (نَأْتِي)، وَهُوَ مَرْفُوعٌ حَتَّى يَدْخُلَ عَلَيْهِ نَاصِبٌ أَوْ جَازِمٌ.",
+      "translation": "Fi'il Mudhari' adalah: kata kerja yang di awalnya terdapat salah satu dari empat huruf tambahan yang terkumpul dalam ucapanmu (أَنَيْتُ - Anaitu) atau (نَأْتِي - Na'tii), dan hukum asalnya adalah marfu' (di-rafa'-kan) sampai kemasukan amil nashab atau amil jazem."
+    },
+    {
+      "title": "Bentuk Fi'il Mudhari' Majhul",
+      "titleArabic": "بِنَاءُ المُضَارِعِ المَجْهُولِ",
+      "arabic": "وَبِنَاءُ المُضَارِعِ لِلْمَجْهُولِ: أَنْ يُضَمَّ حَرْفُ المُضَارَعَةِ وَيُفْتَحَ مَا قَبْلَ الآخِرِ، نَحْوُ (يُضْرَبُ) وَ(يُسْتَخْرَجُ).",
+      "translation": "Adapun pembentukan fi'il mudhari' majhul (pasif) adalah: dengan mendhammahkan huruf mudhara'ah-nya dan memfathahkan huruf sebelum huruf terakhirnya, contoh: (يُضْرَبُ - yudhrabu / sedang/akan dipukul) dan (يُسْتَخْرَجُ - yustakhraju / sedang/akan dikeluarkan)."
+    },
+    {
+      "title": "Pengaruh Amil Jazem pada Fi'il Mudhari'",
+      "titleArabic": "تَأْثِيرُ الجَوَازِمِ عَلَى المُضَارِعِ",
+      "arabic": "وَالجَازِمُ يَحْذِفُ حَرَكَةَ المَفْرَدِ، وَنُونَ التَّثْنِيَةِ وَالجَمْعِ وَالمُؤَنَّثَةِ المُخَاطَبَةِ، إِلَّا نُونَ جَمْعِ المُؤَنَّثِ الغَائِبَةِ وَالمُخَاطَبَةِ كَـ (لَمْ يَضْرِبَا، لَمْ يَضْرِبُوا، لَمْ تَضْرِبِي).",
+      "translation": "Dan amil jazem (seperti 'Lam') bertugas membuang harakat akhir pada fi'il mudhari' mufrad (tunggal), serta membuang nun tatsniyah (dual), nun jama' (plural), dan nun muannats mukhatabah (ke-engkau-an perempuan), kecuali nun jama' muannats ghaibah dan mukhatabah yang tetap/mabni, contoh: (لَمْ يَضْرِبَا - lam yadhribaa), (لَمْ يَضْرِبُوا - lam yadhribuu), dan (لَمْ تَضْرِبِي - lam tadhribii)."
+    },
+    {
+      "title": "Nun Taukid pada Fi'il",
+      "titleArabic": "نُونُ التَّوْكِيدِ الثَّقِيلَةُ وَالخَفِيفَةُ",
+      "arabic": "تَدْخُلُ نُونُ التَّوْكِيدِ الخَفِيفَةُ وَالثَّقِيلَةُ عَلَى الأَمْرِ وَالنَّهْيِ وَالمُسْتَقْبَلِ، فَتَفْتَحُ مَعَهَا آخِرَ الفِعْلِ إِذَا كَانَ مُفْرَدًا كَـ (لَيَضْرِبَنَّ وَلَيَضْرِبَنْ).",
+      "translation": "Nun taukid khafifah (sukun) dan tsaqilah (tasydid) dapat masuk pada fi'il amar, nahy, dan fi'il mustaqbal. Maka huruf akhir fi'il tersebut difathahkan bersamanya apabila ia berupa kata tunggal (mufrad), seperti contoh: (لَيَضْرِبَنَّ - layadhribanna) dan (لَيَضْرِبَنْ - layadhriban / sungguh ia pasti memukul)."
+    },
+    {
+      "title": "Fi'il Amar dan Aturan Pembuatannya",
+      "titleArabic": "فِعْلُ الأَمْرِ وَكَيْفِيَّةُ بِنَائِهِ",
+      "arabic": "الأَمْرُ بِالصِّيغَةِ: هُوَ جَزْمٌ لِلْمُخَاطَبِ، وَتَحْذِفُ حَرْفَ المُضَارَعَةِ، فَإِنْ كَانَ مَا بَعْدَهُ سَاكِنًا تُدْخِلُ هَمْزَةَ الوَصْلِ كَـ (اُضْرِبْ)، وَتَكُونُ مَضْمُومَةً إِنْ ضُمَّ عَيْنُ المُضَارِعِ كَـ (اُنْصُرْ).",
+      "translation": "Fi'il Amar (kata kerja perintah) dengan sighat: ia merupakan bentuk majzum untuk mukhatab (lawan bicara). Caranya dengan membuang huruf mudhara'ah di awal kata. Jika huruf setelah huruf mudhara'ah tersebut berupa huruf sukun, maka datangkan hamzah washal di depannya seperti (اُضْرِبْ - udhrib / pukullah!). Dan hamzah washal tersebut berharakat dhammah jika 'ain mudhari'-nya berharakat dhammah seperti (اُنْصُرْ - unshur / tolonglah!)."
+    },
+    {
+      "title": "Fi'il Nahy (Larangan)",
+      "titleArabic": "فِعْلُ النَّهْيِ",
+      "arabic": "وَأَمَّا النَّهْيُ: فَتَدْخُلُ (لَا) النَّاهِيَةُ عَلَى المُضَارِعِ وَتَجْزِمُهُ كَـ (لَا تَضْرِبْ، لَا تَضْرِبَا، لَا تَضْرِبُوا).",
+      "translation": "Adapun fi'il Nahy (larangan): dibentuk dengan memasukkan (لَا - laa) nahiyah (artinya: jangan!) ke dalam fi'il mudhari', dan ia menjazmkan fi'il tersebut, contoh: (لَا تَضْرِبْ - laa tadhrib / janganlah engkau memukul!), (لَا تَضْرِبَا - laa tadhribaa), dan (لَا تَضْرِبُوا - laa tadhribuu)."
+    },
+    {
+      "title": "Isim Fa'il (Subjek)",
+      "titleArabic": "اِسْمُ الفَاعِلِ",
+      "arabic": "اِسْمُ الفَاعِلِ مِنَ الثُّلَاثِيِّ المُجَرَّدِ عَلَى وَزْنِ (فَاعِلٌ) كَـ (نَاصِرٌ) وَ(ضَارِبٌ)، وَمِنْ غَيْرِهِ عَلَى لَفْظِ المُضَارِعِ بِمِيمٍ مَضْمُومَةٍ وَكَسْرِ مَا قَبْلَ الآخِرِ كَـ (مُكْرِمٌ).",
+      "translation": "Isim Fa'il (kata penunjuk pelaku) dari fi'il Tsulatsi Mujarrad mengikuti wazan (فَاعِلٌ - faa'ilun), seperti (نَاصِرٌ - naashirun / penolong) dan (ضَارِبٌ - dhaaribun / pemukul). Sedangkan dari selain Tsulatsi Mujarrad (mazid), ia mengikuti lafaz mudhari'-nya dengan mengganti huruf mudhara'ah menjadi Mim berharakat dhammah dan mengkasrahkan huruf sebelum terakhir, seperti contoh (مُكْرِمٌ - mukrimun / orang yang memuliakan)."
+    },
+    {
+      "title": "Isim Maf'ul (Objek)",
+      "titleArabic": "اِسْمُ المَفْعُولِ",
+      "arabic": "وَاسْمُ المَفْعُولِ مِنَ الثُّلَاثِيِّ المُجَرَّدِ عَلَى وَزْنِ (مَفْعُولٌ) كَـ (مَنْصُورٌ)، وَمِنْ غَيْرِهِ بِمِيمٍ مَضْمُومَةٍ وَفَتْحِ مَا قَبْلَ الآخِرِ كَـ (مُكْرَمٌ).",
+      "translation": "Dan Isim Maf'ul (kata penunjuk objek/yang dikenai pekerjaan) dari fi'il Tsulatsi Mujarrad mengikuti wazan (مَفْعُولٌ - maf'uulun), seperti contoh (مَنْصُورٌ - manshuurun / yang ditolong). Sedangkan dari selain Tsulatsi Mujarrad (mazid), ia dibentuk dengan menggunakan Mim berharakat dhammah di awalnya dan memfathahkan huruf sebelum akhir, seperti contoh (مُكْرَمٌ - mukramun / yang dimuliakan)."
+    },
+    {
+      "title": "Kaidah I'lal pada Fi'il Mithal",
+      "titleArabic": "إِعْلَالُ الفِعْلِ المِثَالِ",
+      "arabic": "تَحْذِفُ الوَاوُ مِنَ المُضَارِعِ الَّذِي عَلَى وَزْنِ يَفْعِلُ (بِكَسْرِ العَيْنِ) إِذَا كَانَ مِثَالًا وَاوِيًّا، كَـ (وَعَدَ يَعِدُ) وَأَصْلُهُ يَوْعِدُ، لِوُقُوعِ الوَاوِ بَيْنَ اليَاءِ وَالكَسْرَةِ.",
+      "translation": "Huruf Wawu dibuang dari fi'il mudhari' yang mengikuti wazan yaf'ilu (dengan kasrah pada 'ain-nya) apabila fi'il tersebut berupa Mithal Wawi, seperti contoh: (وَعَدَ يَعِدُ - wa'ada ya'idu / berjanji) yang aslinya adalah 'yau'idu'. Pembuangan ini dilakukan karena huruf Wawu terletak di antara huruf Ya' (fathah) dan harakat kasrah."
+    },
+    {
+      "title": "Kaidah I'lal pada Fi'il Ajwaf",
+      "titleArabic": "إِعْلَالُ الفِعْلِ الأَجْوَفِ",
+      "arabic": "إِذَا تَحَرَّكَتِ الوَاوُ أَوِ اليَاءُ وَانْفَتَحَ مَا قَبْلَهُمَا قُلِبَتَا أَلِفًا، كَـ (قَالَ) أَصْلُهُ قَوَلَ، وَ(بَاعَ) أَصْلُهُ بَيَعَ.",
+      "translation": "Apabila huruf Wawu atau Ya' berharakat dan huruf sebelum keduanya berharakat fathah, maka keduanya harus diganti (di-i'lal) menjadi Alif, seperti contoh: (قَالَ - qaala) yang asalnya adalah 'qawala', dan (بَاعَ - baa'a) yang asalnya adalah 'baya'a'."
+    },
+    {
+      "title": "Kaidah I'lal pada Fi'il Naqis",
+      "titleArabic": "إِعْلَالُ الفِعْلِ النَّاقِصِ",
+      "arabic": "الوَاوُ وَاليَاءُ فِي آخِرِ الكَلِمَةِ إِذَا تَحَرَّكَتَا وَانْفَتَحَ مَا قَبْلَهُمَا قُلِبَتَا أَلِفًا كَـ (غَزَا) وَ(رَمَى)، فَإِذَا الْتَقَى سَاكِنَانِ حُذِفَتِ الأَلِفُ كَـ (غَزَوْا) وَ(رَمَوْا).",
+      "translation": "Huruf Wawu dan Ya' di akhir kata, apabila keduanya berharakat dan huruf sebelum keduanya berharakat fathah, maka diganti menjadi Alif seperti (غَزَا - ghazaa) dan (رَمَى - ramaa). Kemudian apabila bertemu dua huruf yang sukun (sukun iltiqa' sakinain), maka Alif tersebut dibuang seperti contoh (غَزَوْا - ghazaw) dan (رَمَوْا - ramaw)."
+    },
+    {
+      "title": "Aturan Hukum Idgham",
+      "titleArabic": "أَحْكَامُ الإِدْغَامِ",
+      "arabic": "الإِدْغَامُ هُوَ: إِدْخَالُ حَرْفٍ فِي حَرْفٍ آخَرَ مُجَانِسٍ لَهُ، بِحَيْثُ يَصِيرَانِ حَرْفًا وَاحِدًا مُشَدَّدًا. وَهُوَ إِمَّا وَاجِبٌ كَـ (مَدَّ) وَأَصْلُهُ مَدَدَ، أَوْ جَائِزٌ كَـ (لَمْ يَمُدَّ)، أَوْ مُمْتَنِعٌ كَـ (مَدَدْتُ).",
+      "translation": "Idgham adalah: memasukkan suatu huruf ke dalam huruf lain yang sejenis, sekira-kira keduanya menjadi satu huruf yang bertasydid. Idgham terbagi menjadi tiga hukum: 1) Wajib seperti (مَدَّ - madda) yang asalnya 'madada', 2) Jaiz (boleh) seperti (لَمْ يَمُدَّ - lam yamudda / boleh juga lam yamdud), dan 3) Mumtani' (terlarang/mustahil) seperti (مَدَدْتُ - madadtu / karena bertemu dhamir rafa' mutaharrik)."
+    },
+    {
+      "title": "Khatimah (Penutup)",
+      "titleArabic": "خَاتِمَةُ الكِتَابِ",
+      "arabic": "فَهَذِهِ أُصُولُ التَّصْرِيفِ الَّتِي لَا بُدَّ لِلْأَدِيبِ مِنْهَا، وَبِهَا يَتِمُّ غَرَضُ الكِتَابِ. وَالحَمْدُ للهِ عَلَى التَّوْفِيقِ وَالهِدَايَةِ، وَصَلَّى اللهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَآلِهِ وَصَحْبِهِ وَسَلَّمَ تَسْلِيمًا كَثِيرًا.",
+      "translation": "Maka inilah pokok-pokok kaidah ilmu Shorof yang tidak boleh tidak harus dimiliki oleh seorang sastrawan/pembelajar bahasa Arab, dan dengannya selesailah tujuan penulisan kitab ini. Segala puji bagi Allah atas limpahan taufik dan hidayah-Nya, dan semoga salawat serta salam senantiasa tercurah kepada junjungan kita Nabi Muhammad, keluarga, serta para sahabatnya dengan keselamatan yang berlimpah."
+    }
+  ]
+}
