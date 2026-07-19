@@ -1,0 +1,272 @@
+{
+  "profile": {
+    "name": "Apa yng di maksud Tah kimul wali",
+    "originalTitle": "رِسَالَةٌ فِي بَيَانِ حَقِيْقَةِ تَحْكِيْمِ الْوَلِيِّ وَأَحْكَامِهِ",
+    "author": "الْأُسْتَاذُ الْفَقِيْهُ الشَّيْخُ مُحَمَّدُ بْنُ سُلَيْمَانَ الْجَاوِيُّ",
+    "field": "Fiqih Munakahat (Yurisprudensi Pernikahan Islam)",
+    "about": "Kitab risalah ini merupakan panduan komprehensif yang membahas secara detail dan mendalam mengenai konsep 'Tahkimul Wali' dalam fiqih mazhab Syafi'i. Karya ini menguraikan solusi syar'i ketika terjadi kebuntuan dalam pernikahan akibat ketiadaan wali nasab, keengganan wali (adhal), atau ketiadaan qadhi (hakim resmi) yang adil di suatu wilayah. Di dalamnya dibahas secara rinci mengenai rukun-rukun tahkim, syarat kelayakan seorang hakam, batasan wewenang hakam, hingga tata cara pelaksanaan ijab qabul. Kitab ini menjadi rujukan otoritatif bagi para penghulu, juru nikah, dan santri di lembaga pendidikan tradisional Islam.",
+    "authorBorn": "Banten, Hindia Belanda",
+    "authorDied": "Makkah al-Mukarramah",
+    "authorCentury": "Abad ke-13 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Mukadimah Kitab",
+      "titleArabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ - الْمُقَدِّمَةُ",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي جَعَلَ النِّكَاحَ سَبَبًا لِبَقَاءِ نَسْلِ الْأَنَامِ، وَأَحَلَّ الطَّيِّبَاتِ وَحَرَّمَ السِّفَاحَ وَالْحَرَامَ. وَالصَّلَاةُ وَالسَّلَامُ عَلَى سَيِّدِنَا مُحَمَّدٍ خَيْرِ الْأَنَامِ، وَعَلَى آلِهِ وَأَصْحَابِهِ الْهُدَاةِ الْأَعْلَامِ. أَمَّا بَعْدُ، فَهَذِهِ رِسَالَةٌ لَطِيفَةٌ فِي بَيَانِ حُكْمِ تَحْكِيمِ الْوَلِيِّ عِنْدَ فَقْدِهِ أَوْ تَعَذُّرِهِ تَوْضِيْحًا لِلْأَحْكَامِ الشَّرْعِيَّةِ.",
+      "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah yang telah menjadikan pernikahan sebagai sebab kelangsungan keturunan umat manusia, serta menghalalkan hal-hal yang baik dan mengharamkan perzinaan serta perkara yang haram. Shalawat serta salam semoga tercurah kepada junjungan kita, Nabi Muhammad, sebaik-baik manusia, beserta keluarga dan para sahabatnya yang menjadi petunjuk jalan kebenaran. Amma ba'du, maka ini adalah sebuah risalah yang ringkas namun padat dalam menjelaskan hukum tahkimul wali (pengangkatan hakam sebagai wali) ketika wali nasab tidak ada atau berhalangan, sebagai bentuk penjelasan terhadap hukum-hukum syariat."
+    },
+    {
+      "title": "Definisi Tahkim Secara Bahasa",
+      "titleArabic": "فَصْلٌ فِي تَعْرِيفِ التَّحْكِيمِ لُغَةً",
+      "arabic": "التَّحْكِيمُ فِي اللُّغَةِ هُوَ مَصْدَرُ حَكَّمَ يُحَكِّمُ تَحْكِيمًا، وَمَعْنَاهُ: تَوْلِيَةُ الْحُكْمِ لِلْغَيْرِ، أَوْ جَعْلُ الشَّخْصِ حَاكِمًا بَيْنَ طَرَفَيْنِ لِيَفْصِلَ فِي الْخُصُومَةِ.",
+      "translation": "Tahkim secara bahasa adalah bentuk masdar dari kata 'hakkama - yuhakkimu - tahkiiman', yang maknanya: menyerahkan urusan hukum kepada orang lain, atau menjadikan seseorang sebagai penengah (hakim) di antara dua belah pihak guna memutuskan perselisihan."
+    },
+    {
+      "title": "Definisi Tahkimul Wali Secara Istilah Fiqih",
+      "titleArabic": "فَصْلٌ فِي تَعْرِيفِ تَحْكِيمِ الْوَلِيِّ شَرْعًا",
+      "arabic": "تَحْكِیمُ الْوَلِيِّ شَرْعًا هُوَ: تَوْلِيَةُ الْخَصْمَيْنِ أَوْ الزَّوْجَيْنِ رَجُلًا صَالِحًا لِلْقَضَاءِ لِيَحْكُمَ بَيْنَهُمَا فِيمَا يَسُوغُ فِيهِ التَّحْكِيمُ، وَفِي بَابِ النِّكَاحِ هُوَ أَنْ يُوَلِّيَ الزَّوْجَانِ رَجُلًا لِيُزَوِّجَهُمَا عِنْدَ فَقْدِ الْوَلِيِّ الْأَقْرَبِ وَسُلْطَانٍ ذِي عَدَالَةٍ.",
+      "translation": "Tahkimul wali menurut syariat adalah: Penyerahan wewenang oleh dua orang yang bersengketa atau sepasang calon mempelai kepada seorang lelaki yang layak menjadi qadhi (hakim) agar ia memutuskan perkara di antara keduanya dalam hal-hal yang diperbolehkan adanya arbitrase. Dalam bab nikah, tahkim berarti sepasang calon mempelai mengangkat seorang lelaki untuk menikahkan mereka berdua saat tidak adanya wali terdekat (nasab) dan ketiadaan sultan (penguasa/hakim) yang adil."
+    },
+    {
+      "title": "Dalil Syar'i Keabsahan Tahkim",
+      "titleArabic": "فَصْلٌ فِي دَلِيلِ مَشْرُوعِيَّةِ التَّحْكِيمِ",
+      "arabic": "وَالْأَصْلُ فِي جَوَازِ التَّحْكِيمِ قَوْلُهُ تَعَالَى: {وَإِنْ خِفْتُمْ شِقَاقَ بَيْنِهِمَا فَابْعَثُوا حَكَمًا مِنْ أَهْلِهِ وَحَكَمًا مِنْ أَهْلِهَا}، وَقَدْ جَرَى عَمَلُ الصَّحَابَةِ رِضْوَانُ اللَّهِ عَلَيْهِمْ عَلَى ذَلِكَ دُونَ نَكِيرٍ.",
+      "translation": "Landasan dasar atas diperbolehkannya tahkim adalah firman Allah Ta'ala: 'Dan jika kamu khawatirkan ada persengketaan antara keduanya, maka kirimlah seorang hakam dari keluarga laki-laki dan seorang hakam dari keluarga perempuan' (QS. An-Nisa: 35). Sungguh, praktik para sahabat radhiyallahu anhum telah berjalan demikian tanpa adanya pengingkaran."
+    },
+    {
+      "title": "Syarat Pertama Hakam: Beragama Islam",
+      "titleArabic": "الْقَوْلُ فِي الشَّرْطِ الْأَوَّلِ: الْإِسْلَامُ",
+      "arabic": "يُشْتَرَطُ فِي الْحَكَمِ أَنْ يَكُونَ مُسْلِمًا، فَلَا يَصِحُّ تَحْكِيمُ غَيْرِ الْمُسْلِمِ لِتَزْوِيجِ الْمُسْلِمَةِ بِحَالٍ، لِأَنَّهُ لَا وِلَايَةَ لِكَافِرٍ عَلَى مُسْلِمٍ.",
+      "translation": "Disyaratkan bagi seorang hakam untuk beragama Islam. Maka tidak sah sama sekali mengangkat hakam non-Muslim untuk menikahkan seorang muslimah, karena tidak ada hak perwalian bagi orang kafir atas orang Muslim."
+    },
+    {
+      "title": "Syarat Kedua Hakam: Baligh",
+      "titleArabic": "الْقَوْلُ فِي الشَّرْطِ الثَّانِي: الْبُلُوغُ",
+      "arabic": "أَنْ يَكُونَ الْحَكَمُ بَالِغًا، فَلَا يَصِحُّ تَحْكِيمُ الصَّبِيِّ لِعَدَمِ أَهْلِيَّتِهِ فِي التَّصَرُّفِ الشَّرْعِيِّ وَوِلَايَتِهِ عَلَى نَفْسِهِ.",
+      "translation": "Hakam haruslah sudah baligh. Maka tidak sah mengangkat anak kecil sebagai hakam disebabkan ketiadaan kelayakannya dalam melakukan tindakan syar'i serta ketiadaan perwalian atas dirinya sendiri."
+    },
+    {
+      "title": "Syarat Ketiga Hakam: Berakal Sehat",
+      "titleArabic": "الْقَوْلُ فِي الشَّرْطِ الثَّالِثِ: الْعَقْلُ",
+      "arabic": "أَنْ يَكُونَ الْعَاقِلُ صَاحِبَ فِطْنَةٍ، فَلَا يَصِحُّ تَحْكِيمُ الْمَجْنُونِ وَلَا الْمَعْتُوهِ وَلَا مَنْ غَلَبَتْ عَلَيْهِ الْغَفْلَةُ وَالسَّهْوُ.",
+      "translation": "Hakam harus berakal sehat dan memiliki kecerdasan. Maka tidak sah mengangkat orang gila, orang yang terganggu pikirannya, maupun orang yang didominasi oleh kelalaian dan sifat pelupa."
+    },
+    {
+      "title": "Syarat Keempat Hakam: Merdeka",
+      "titleArabic": "الْقَوْلُ فِي الشَّرْطِ الرَّابِعِ: الْحُرِّيَّةُ",
+      "arabic": "أَنْ يَكُونَ الْحَكَمُ حُرًّا، فَلَا يَصِحُّ تَحْكِيمُ الْعَبْدِ الْمَمْلُوكِ لِأَنَّهُ مَشْغُولٌ بِخِدْمَةِ سَيِّدِهِ وَلَا يَمْلِكُ وِلَايَةً كَامِلَةً.",
+      "translation": "Hakam harus merdeka (bukan budak). Maka tidak sah mengangkat budak sahaya karena ia sibuk dengan khidmah kepada tuannya serta tidak memiliki hak perwalian yang sempurna."
+    },
+    {
+      "title": "Syarat Kelima Hakam: Laki-Laki",
+      "titleArabic": "الْقَوْلُ فِي الشَّرْطِ الْخَامِسِ: الذُّكُورَةُ",
+      "arabic": "أَنْ يَكُونَ الْحَكَمُ ذَكَرًا، فَلَا يَصِحُّ تَحْكِيمُ الْأُنْثَى وَلَا الْخُنْثَى الْمُشْكِلِ فِي عَقْدِ النِّكَاحِ تَبَعًا لِمَذْهَبِ الشَّافِعِيِّ رَحِمَهُ اللَّهُ.",
+      "translation": "Hakam harus berjenis kelamin laki-laki. Maka tidak sah mengangkat perempuan maupun khunsa musykil (berkelamin ganda) dalam akad nikah, merujuk pada ketetapan mazhab Syafi'i rahimahullah."
+    },
+    {
+      "title": "Syarat Keenam Hakam: Memiliki Sifat Adil",
+      "titleArabic": "الْقَوْلُ فِي الشَّرْطِ السَّادِسِ: الْعَدَالَةُ",
+      "arabic": "يُشْتَرَطُ فِيهِ الْعَدَالَةُ الشَّرْعِيَّةُ، وَهُوَ أَنْ يَكُونَ مُجْتَنِبًا لِلْكَبَائِرِ وَغَيْرَ مُصِرٍّ عَلَى الصَّغَائِرِ، فَلَا يَصِحُّ تَحْكِيمُ الْفَاسِقِ فِي الْأَصَحِّ.",
+      "translation": "Disyaratkan bagi hakam memiliki sifat adil secara syariat, yaitu menjauhi dosa-dosa besar dan tidak terus-menerus melakukan dosa kecil. Maka menurut pendapat yang paling shahih, tidak sah mengangkat orang fasik sebagai hakam."
+    },
+    {
+      "title": "Syarat Ketujuh Hakam: Memiliki Pengetahuan Fiqih (Mujtahid/Faqih)",
+      "titleArabic": "الْقَوْلُ فِي الشَّرْطِ السَّابِعِ: الْعِلْمُ وَالْإِجْتِهَادُ",
+      "arabic": "أَنْ يَكُونَ عَالِمًا بِأَحْكَامِ النِّكَاحِ وَشُرُوطِهِ وَمَوَانِعِهِ، وَفِي بَعْضِ الْعِبَارَاتِ يُشْتَرَطُ أَنْ يَكُونَ صَالِحًا لِلْقَضَاءِ وَلَوْ بِالتَّقْلِيدِ عِنْدَ الضَّرُورَةِ.",
+      "translation": "Hakam harus mengerti hukum-hukum nikah, syarat-syaratnya, serta hal-hal yang menghalanginya. Dalam beberapa ibarat fiqih, disyaratkan ia harus layak menjadi qadhi (hakim) meskipun melalui jalan taqlid (mengikuti pendapat ulama lain) dalam kondisi darurat."
+    },
+    {
+      "title": "Kedudukan Hakam Dibandingkan dengan Qadhi Negara",
+      "titleArabic": "فَصْلٌ فِي مَرْتَبَةِ الْحَكَمِ مَعَ الْقَاضِي",
+      "arabic": "الْحَكَمُ دُونَ الْقَاضِي الْمَنْصُوبِ مِنَ السُّلْطَانِ، فَلَا يُصَارُ إِلَى التَّحْكِيمِ إِلَّا عِنْدَ فَقْدِ الْقَاضِي أَوْ تَعَذُّرِ الْوُصُولِ إِلَيْهِ.",
+      "translation": "Kedudukan hakam berada di bawah qadhi yang diangkat resmi oleh penguasa (Sultan). Oleh karena itu, seseorang tidak boleh beralih kepada jalan tahkim kecuali saat tidak adanya qadhi atau sulitnya mengakses keberadaannya."
+    },
+    {
+      "title": "Sebab Pertama Diperbolehkannya Tahkim: Ketiadaan Wali Nasab",
+      "titleArabic": "الْأَسْبَابُ الْمُبِيحَةُ لِلتَّحْكِيمِ: فَقْدُ الْوَلِيِّ النَّسَبِيِّ",
+      "arabic": "الْأَوَّلُ: أَنْ لَا يَكُونَ لِلْمَرْأَةِ وَلِيٌّ نَسَبِيٌّ مِنَ الْعَصَبَاتِ بِالْكُلِّيَّةِ، فَلَا أَبَ وَلَا جَدَّ وَلَا أَخَ وَلَا ابْنَ أَخٍ وَلَا عَمَّ لَهَا.",
+      "translation": "Sebab pertama: Bilamana seorang wanita sama sekali tidak memiliki wali nasab dari golongan ashabah (garis laki-laki), seperti tidak adanya ayah, kakek, saudara laki-laki, keponakan laki-laki, maupun paman."
+    },
+    {
+      "title": "Sebab Kedua: Wali Nasab Berada di Tempat Jauh",
+      "titleArabic": "السَّبَبُ الثَّانِي: غَيْبَةُ الْوَلِيِّ الْمَسَافَةَ الطَّوِيلَةَ",
+      "arabic": "الثَّانِي: غَيْبَةُ الْوَلِيِّ الْأَقْرَبِ غَيْبَةً مَرْحَلَتَيْنِ فَأَكْثَرَ مَعَ تَعَذُّرِ الِاتِّصَالِ بِهِ أَوْ اسْتِئْذَانِهِ لِتَزْوِيجِهَا.",
+      "translation": "Sebab kedua: Perginya wali nasab terdekat dalam jarak perjalanan yang mencapai dua marhalah (sekitar 82-89 km) atau lebih, disertai sulitnya menghubungi atau meminta izin darinya untuk menikahkan wanita tersebut."
+    },
+    {
+      "title": "Sebab Ketiga: Wali Nasab Adhal (Enggan Menikahkan)",
+      "titleArabic": "السَّبَبُ الثَّالِثُ: عَدْلُ الْوَلِيِّ وَامْتِنَاعُهُ",
+      "arabic": "الثَّالِثُ: عَدْلُ الْوَلِيِّ الْأَقْرَبِ، وَهُوَ امْتِنَاعُهُ عَنْ تَزْوِيجِهَا مِنْ كُفْءٍ طَلَبَتْهُ بِصَدَاقِ الْمِثْلِ دُونَ عُذْرٍ شَرْعِيٍّ مَقْبُولٍ.",
+      "translation": "Sebab ketiga: Sikap adhal-nya wali terdekat, yaitu keengganannya untuk menikahkan wanita tersebut dengan laki-laki sekufu yang diinginkannya dengan mahar mitsil tanpa adanya alasan syar'i yang dapat diterima."
+    },
+    {
+      "title": "Sebab Keempat: Wali Menjalani Ibadah Ihram",
+      "titleArabic": "السَّبَبُ الرَّابِعُ: تَلَبُّسُ الْوَلِيِّ بِالْإِحْرَامِ",
+      "arabic": "الرَّابِعُ: كَوْنُ الْوَلِيِّ الْأَقْرَبِ مُحْرِمًا بِحَجٍّ أَوْ عُمْرَةٍ، فَإِنَّ الْمُحْرِمَ لَا يَعْقِدُ النِّكَاحَ لِنَفْسِهِ وَلَا لِغَيْرِهِ كَمَا صَحَّ فِي الْحَدِيثِ.",
+      "translation": "Sebab keempat: Kondisi wali terdekat yang sedang berihram haji atau umrah, karena orang yang berihram tidak boleh melangsungkan akad nikah untuk dirinya sendiri maupun orang lain, sebagaimana dinyatakan dalam hadits shahih."
+    },
+    {
+      "title": "Sebab Kelima: Wali Dipenjara atau Ditawan",
+      "titleArabic": "السَّبَبُ الْخَامِسُ: حَبْسُ الْوَلِيِّ وَأَسْرُهُ",
+      "arabic": "الْخَامِسُ: أَنْ يَكُونَ الْوَلِيُّ مَحْبُوسًا أَوْ مَأْسُورًا لَا يُمْكِنُ الْوُصُولُ إِلَيْهِ وَلَا التَّوْكِيلُ مِنْهُ لِعَقْدِ النِّكَاحِ.",
+      "translation": "Sebab kelima: Wali dalam keadaan dipenjara atau ditawan sehingga tidak memungkinkan untuk ditemui dan tidak pula memungkinkan baginya mewakilkan akad nikah."
+    },
+    {
+      "title": "Sebab Keenam: Wali Mengalami Gangguan Jiwa",
+      "titleArabic": "السَّبَبُ السَّادِسُ: جُنُونُ الْوَلِيِّ",
+      "arabic": "السَّادِسُ: جُنُونُ الْوَلِيِّ الْأَقْرَبِ جُنُونًا مُطْبِقًا، فَتَزُولُ أَهْلِيَّتُهُ لِلْوِلَايَةِ الشَّرْعِيَّةِ فِي عَقْدِ النِّكَاحِ.",
+      "translation": "Sebab keenam: Kegilaan wali terdekat secara permanen, sehingga hilanglah kelayakannya untuk memiliki hak perwalian syar'i dalam akad nikah."
+    },
+    {
+      "title": "Sebab Ketujuh: Wali Belum Baligh",
+      "titleArabic": "السَّبَبُ السَّابِعُ: صِغَرُ سِنِّ الْوَلِيِّ",
+      "arabic": "السَّابِعُ: أَنْ يَكُونَ الْوَلِيُّ الْأَقْرَبُ صَبِيًّا لَمْ يَبْلُغْ سِنَّ التَّكْلِيفِ، فَلَا يَمْلِكُ تَزْوِيجَ مَوْلِيَّتِهِ.",
+      "translation": "Sebab ketujuh: Wali terdekat masih anak-anak yang belum mencapai usia taklif (baligh), sehingga ia tidak memiliki hak untuk menikahkan wanita di bawah perwaliannya."
+    },
+    {
+      "title": "Sebab Kedelapan: Wali Berbeda Agama (Kafir)",
+      "titleArabic": "السَّبَبُ الثَّامِنُ: كُفْرُ الْوَلِيِّ النَّسَبِيِّ",
+      "arabic": "الثَّامِنُ: اخْتِلَافُ الدِّينِ بَيْنَ الْوَلِيِّ وَالْمَوْلِيَّةِ، كَأَنْ تَكُونَ الْمَرْأَةُ مُسْلِمَةً وَأَبُوهَا كَافِرًا، فَلَا وِلَايَةَ لَهُ عَلَيْهَا شَرْعًا.",
+      "translation": "Sebab kedelapan: Perbedaan agama antara wali dan wanita di bawah perwaliannya, seperti seorang wanita yang beragama Islam sedangkan ayahnya kafir, maka secara syariat sang ayah tidak memiliki hak perwalian atas putrinya."
+    },
+    {
+      "title": "Sebab Sembilan: Tidak Adanya Qadhi yang Adil",
+      "titleArabic": "السَّبَبُ التَّاسِعُ: عَدَمُ الْقَاضِي الْعَادِلِ فِي الْمَكَانِ",
+      "arabic": "التَّاسِعُ: عَدَمُ وُجُودِ قَاضٍ مَنْصُوبٍ مِنَ السُّلْطَانِ، أَوْ وُجُودِهِ لَكِنَّهُ فَاسِقٌ أَوْ جَائِرٌ لَا يُؤْمَنُ عَلَى الْفُرُوجِ.",
+      "translation": "Sebab kesembilan: Tidak adanya qadhi resmi yang diangkat oleh pemerintah setempat, atau ada namun ia adalah orang fasik atau zalim yang tidak bisa dipercaya dalam urusan kehormatan wanita (pernikahan)."
+    },
+    {
+      "title": "Kewajiban Memastikan Ke-adhol-an Wali",
+      "titleArabic": "فَصْلٌ فِي كَيْفِيَّةِ الثُّبُوتِ عِنْدَ الْعَدْلِ",
+      "arabic": "يَجِبُ لِثُبُوتِ الْعَدْلِ أَنْ يَرْفَعَ الْأَمْرُ لِلْقَاضِي لِيَقْضِيَ بِهِ، فَإِنْ تَعَذَّرَ الْقَاضِي رَفَعَتْهُ إِلَى مَنْ يَصْلُحُ لِلتَّحْكِيمِ لِيَنْظُرَ فِي صِحَّةِ امْتِنَاعِهِ.",
+      "translation": "Wajib untuk membuktikan sikap adhal (enggan) dengan cara mengajukan perkara kepada qadhi agar diputuskan. Jika qadhi tidak dapat ditemui, maka perkara diajukan kepada orang yang layak menjadi hakam guna menilai kebenaran penolakan sang wali."
+    },
+    {
+      "title": "Persetujuan Calon Istri dalam Mengangkat Hakam",
+      "titleArabic": "فَصْلٌ فِي رِضَا الْمَرْأَةِ بِتَحْكِيمِ الْحَكَمِ",
+      "arabic": "لَا بُدَّ فِي التَّحْكِيمِ مِنْ رِضَا الْمَرْأَةِ بِنَفْسِهَا لِتَوْلِيَةِ الْحَكَمِ، لِأَنَّ الْحَقَّ لَهَا فَلَا يُجْبَرُ عَلَيْهَا غَيْرُ مَا تَرْتَضِيهِ.",
+      "translation": "Dalam tahkim, mutlak diperlukan kerelaan dari wanita itu sendiri untuk mengangkat hakam, sebab hak tersebut miliknya, maka ia tidak boleh dipaksa menerima orang yang tidak diridhainya."
+    },
+    {
+      "title": "Persetujuan Calon Suami dalam Mengangkat Hakam",
+      "titleArabic": "فَصْلٌ فِي رِضَا الزَّوْجِ بِالتَّحْكِيمِ",
+      "arabic": "يُشْتَرَطُ أَيْضًا رِضَا الزَّوْجِ بِالْحَكَمِ الْمُعَيَّنِ، لِأَنَّ عَقْدَ النِّكَاحِ يَتَشَارَكُ فِيهِ الطَّرَفَانِ فِي الْأَحْكَامِ وَالْآثَارِ.",
+      "translation": "Disyaratkan pula kerelaan dari pihak calon suami terhadap hakam yang ditunjuk, karena akad nikah melibatkan kedua belah pihak dalam hukum dan konsekuensinya."
+    },
+    {
+      "title": "Lafadz Pengangkatan Hakam (Shighat Tahkim)",
+      "titleArabic": "فَصْلٌ فِي صِيغَةِ التَّحْكِيمِ مِنَ الْمَرْأَةِ",
+      "arabic": "تَقُولُ الْمَرْأَةُ لِلْحَكَمِ: حَكَّمْتُكَ فِي تَزْوِيجِي مِنْ فُلَانٍ بْنِ فُلَانٍ بِمَهْرِ كَذَا، فَيَقُولُ الْحَكَمُ: قَبِلْتُ تَحْكِيمَكِ.",
+      "translation": "Pihak wanita berkata kepada hakam: 'Saya angkat engkau sebagai hakam untuk menikahkan saya dengan Fulan bin Fulan dengan mahar sekian.' Lalu hakam menjawab: 'Saya terima pengangkatan hakam darimu.'"
+    },
+    {
+      "title": "Keharusan Hakam Menolak Menikahkan Jika Tidak Sekufu",
+      "titleArabic": "فَصْلٌ فِي مُرَاعَاةِ الْكَفَاءَةِ فِي التَّحْكِيمِ",
+      "arabic": "يَجِبُ عَلَى الْحَكَمِ أَنْ لَا يُزَوِّجَ الْمَرْأَةَ إِلَّا مِنْ كُفْءٍ، فَإِنْ زَوَّجَهَا مِنْ غَيْرِ كُفْءٍ لَمْ يَصِحَّ الْعَقْدُ لِتَقْصِيرِهِ فِي النَّظَرِ الْمَطْلُوبِ.",
+      "translation": "Wajib bagi hakam untuk tidak menikahkan wanita tersebut kecuali dengan laki-laki yang sekufu (setara). Jika ia menikahkannya dengan yang tidak sekufu, maka akadnya tidak sah karena kelalaian hakam dalam melakukan pertimbangan yang dituntut syariat."
+    },
+    {
+      "title": "Aturan Mahar Mitsil dalam Pernikahan Tahkim",
+      "titleArabic": "فَصْلٌ فِي بَيَانِ صَدَاقِ الْمِثْلِ عِنْدَ التَّحْكِيمِ",
+      "arabic": "لَا يَجُوزُ لِلْحَكَمِ أَنْ يُزَوِّجَ الْمَرْأَةَ بِأَقَلَّ مِنْ مَهْرِ مِثْلِهَا إِلَّا بِإِذْنِهَا وَرِضَاهَا الصَّرِيحِ بَعْدَ الْعِلْمِ بِهِ.",
+      "translation": "Tidak diperbolehkan bagi hakam untuk menikahkan sang wanita dengan mahar yang kurang dari mahar mitsil (mahar standar wanita sederajat darinya) kecuali atas izin dan kerelaan yang jelas dari wanita tersebut setelah ia mengetahuinya."
+    },
+    {
+      "title": "Syarat Saksi dalam Akad Nikah Tahkim",
+      "titleArabic": "فَصْلٌ فِي شُرُوطِ الشَّاهِدَيْنِ فِي عَقْدِ التَّحْكِيمِ",
+      "arabic": "يُشْتَرَطُ حُضُورُ شَاهِدَيْنِ عَدْلَيْنِ، ذَكَرَيْنِ، بَالِغَيْنِ، مُسْلِمَيْنِ، سَامِعَيْنِ لِلْعَقْدِ، عَاقِلَيْنِ، فَلَا تَنْعَقِدُ بَيْنَ الْحَكَمِ وَالزَّوْجِ إِلَّا بِهِمَا.",
+      "translation": "Disyaratkan kehadiran dua orang saksi yang adil, laki-laki, baligh, muslim, dapat mendengar jalannya akad, dan berakal sehat. Maka tidak dapat terlaksana akad antara hakam dan calon suami kecuali dengan kehadiran keduanya."
+    },
+    {
+      "title": "Khutbah Nikah Sebelum Akad",
+      "titleArabic": "فَصْلٌ فِي سُنِّيَّةِ الْخُطْبَةِ قَبْلَ الْعَقْدِ",
+      "arabic": "يُسْتَحَبُّ لِلْحَكَمِ أَنْ يَخْطُبَ خُطْبَةً بَلِيغَةً قَبْلَ عَقْدِ النِّكَاحِ، يَحْمَدُ اللَّهَ فِيهَا وَيُوصِي بِتَقْوَى اللَّهِ وَيَقْرَأُ آيَاتٍ مِنَ التَّنْزِيلِ.",
+      "translation": "Dianjurkan bagi hakam untuk menyampaikan khutbah yang menyentuh hati sebelum akad nikah, yang di dalamnya berisi pujian kepada Allah, wasiat takwa, dan pembacaan ayat-ayat suci Al-Qur'an."
+    },
+    {
+      "title": "Lafadz Ijab dari Hakam",
+      "titleArabic": "فَصْلٌ فِي صِيغَةِ الْإِيجَابِ مِنَ الْحَكَمِ",
+      "arabic": "يَقُولُ الْحَكَمُ لِلزَّوْجِ: زَوَّجْتُكَ وَأَنْكَحْتُكَ مُوَلِّيَتِي بِالتَّحْكِيمِ فُلَانَةَ بِنْتَ فُلَانٍ بِمَهْرِ كَذَا مَقْبُوضًا أَوْ حَالًا.",
+      "translation": "Hakam berkata kepada calon suami: 'Saya nikahkan dan saya kawinkan engkau dengan wanita yang mewakilkan tahkimnya kepadaku, yaitu Fulanah binti Fulan, dengan mahar sekian dibayar tunai.'"
+    },
+    {
+      "title": "Lafadz Qabul dari Mempelai Laki-laki",
+      "titleArabic": "فَصْلٌ فِي صِيغَةِ الْقَبُولِ مِنَ الزَّوْجِ",
+      "arabic": "فَيَقُولُ الزَّوْجُ فَوْرًا مِنْ غَيْرِ فَصْلٍ: قَبِلْتُ نِكَاحَهَا وَتَزْوِيجَهَا لِنَفْسِي بِالْمَهْرِ الْمَذْكُورِ.",
+      "translation": "Maka calon suami segera menjawab tanpa ada jeda: 'Saya terima nikah dan kawinnya untuk diri saya dengan mahar yang tersebut.'"
+    },
+    {
+      "title": "Keabsahan Akad Nikah Tanpa Adanya Qadhi Resmi",
+      "titleArabic": "فَصْلٌ فِي صِحَّةِ النِّكَاحِ بِدُونِ إِذْنِ الْقَاضِي",
+      "arabic": "إِذَا اسْتَوْفَى التَّحْكِيمُ شُرُوطَهُ الشَّرْعِيَّةَ، صَحَّ عَقْدُ النِّكَاحِ وَتَرَتَّبَتْ عَلَيْهِ أَحْكَامُهُ وَلَمْ يَفْتَقِرْ إِلَى إِمْضَاءِ قَاضِي الْبَلَدِ بَعْدَ ذَلِكَ.",
+      "translation": "Apabila tahkim telah memenuhi syarat-syarat syar'inya, maka akad nikah tersebut sah dan berlakulah seluruh konsekuensi hukum pernikahan atasnya, serta tidak lagi membutuhkan pengesahan dari qadhi negeri setelah itu."
+    },
+    {
+      "title": "Hak Menarik Kembali Tahkim Sebelum Akad",
+      "titleArabic": "فَصْلٌ فِي الرُّجُوعِ عَنِ التَّحْكِيمِ قَبْلَ الْعَقْدِ",
+      "arabic": "يَجُوزُ لِلْمَرْأَةِ أَوْ الزَّوْجِ الرُّجُوعُ عَنِ التَّحْكِيمِ وَعَزْلِ الْحَكَمِ قَبْلَ أَنْ يَعْقِدَ النِّكَاحَ، فَإِنْ عَقَدَ بَعْدَ الْعَزْلِ لَمْ يَصِحَّ.",
+      "translation": "Boleh bagi pihak wanita maupun pria untuk menarik kembali keputusan tahkim dan memberhentikan hakam sebelum akad nikah dilangsungkan. Jika hakam tetap menikahkan setelah diberhentikan, maka akadnya tidak sah."
+    },
+    {
+      "title": "Status Pernikahan Jika Wali Nasab Tiba-Tiba Muncul",
+      "titleArabic": "فَصْلٌ فِي حُضُورِ الْوَلِيِّ النَّسَبِيِّ بَعْدَ التَّحْكِيمِ",
+      "arabic": "إِذَا حَضَرَ الْوَلِيُّ الْأَقْرَبُ قَبْلَ الْعَقْدِ بَطَلَ التَّحْكِيمُ، وَإِنْ حَضَرَ بَعْدَ تَمَامِ الْعَقْدِ لَمْ يُؤَثِّرْ عَلَى صِحَّةِ النِّكَاحِ لِتَمَامِهِ بِإِذْنٍ شَرْعِيٍّ صَحِيحٍ.",
+      "translation": "Jika wali terdekat hadir sebelum akad dilaksanakan, maka batal-lah proses tahkim tersebut. Namun apabila ia hadir setelah akad selesai dilaksanakan, hal itu tidak mempengaruhi keabsahan pernikahan karena pernikahan telah selesai dengan izin syar'i yang sah."
+    },
+    {
+      "title": "Bolehkah Hakam Mewakilkan Akad Kepada Orang Lain?",
+      "titleArabic": "فَصْلٌ فِي تَوْكِيلِ الْحَكَمِ غَيْرَهُ لِلْعَقْدِ",
+      "arabic": "لَا يَجُوزُ لِلْحَكَمِ أَنْ يُوَكِّلَ غَيْرَهُ فِي عَقْدِ النِّكَاحِ لِأَنَّهُ أُقِيمَ بِعَيْنِهِ لِصَلَاحِيَّتِهِ الشَّخْصِيَّةِ، فَلَا يَتَعَدَّى الْإِذْنُ إِلَى غَيْرِهِ.",
+      "translation": "Tidak diperbolehkan bagi hakam untuk mewakilkan akad nikah kepada orang lain, karena ia dipilih secara personal berdasarkan kelayakan pribadinya, sehingga izin tersebut tidak dapat dialihkan kepada orang lain."
+    },
+    {
+      "title": "Ketentuan Jika Terjadi Keraguan Terhadap Keadilan Hakam",
+      "titleArabic": "فَصْلٌ فِي الشَّكِّ فِي عَدَالَةِ الْحَكَمِ",
+      "arabic": "إِذَا طَرَأَ شَكٌّ فِي عَدَالَةِ الْحَكَمِ قَبْلَ الْعَقْدِ، وَجَبَ الِاحْتِيَاطُ بِاسْتِبْدَالِهِ بِحَكَمٍ آخَرَ مَعْلُومِ الْعَدَالَةِ خُرُوجًا مِنَ الْخِلَافِ.",
+      "translation": "Jika timbul keraguan mengenai sifat adil dari hakam sebelum berlangsungnya akad, maka wajib mengambil jalan ikhtiyat (hati-hati) dengan menggantinya dengan hakam lain yang telah jelas keadilannya demi menghindari perselisihan."
+    },
+    {
+      "title": "Pandangan Madzhab Syafi'i Mengenai Tahkim",
+      "titleArabic": "فَصْلٌ فِي مَذْهَبِ الشَّافِعِيَّةِ فِي التَّحْكِيمِ",
+      "arabic": "مَذْهَبُ الشَّافِعِيِّ رَضِيَ اللَّهُ عَنْهُ جَوَازُ التَّحْكِيمِ عِنْدَ فَقْدِ الْوَلِيِّ وَالْقَاضِي كَمَا هُوَ مُقَرَّرٌ فِي كُتُبِ الْأَصْحَابِ كَالرَّوْضَةِ وَالْمِنْهَاجِ.",
+      "translation": "Pandangan Mazhab Syafi'i radhiyallahu anhu adalah memperbolehkan tahkim ketika tidak ada wali dan qadhi, sebagaimana ditetapkan dalam kitab-kitab muktabar para ashhab Syafi'iyyah seperti ar-Raudhah dan al-Minhaj."
+    },
+    {
+      "title": "Perbandingan: Pandangan Madzhab Hanafi",
+      "titleArabic": "فَصْلٌ فِي مَذْهَبِ الْحَنَفِيَّةِ فِي التَّحْكِيمِ",
+      "arabic": "عِنْدَ الْحَنَفِيَّةِ يَصِحُّ لِلْمَرْأَةِ الْبَالِغَةِ الْعَاقِلَةِ أَنْ تُزَوِّجَ نَفْسَهَا بِدُونِ وَلِيٍّ، فَلَا يَفْتَقِرُونَ إِلَى التَّحْكِيمِ كَافْتِقَارِ غَيْرِهِمْ.",
+      "translation": "Menurut Mazhab Hanafi, sah bagi wanita baligh yang berakal sehat untuk menikahkan dirinya sendiri tanpa keberadaan wali, sehingga mereka tidak membutuhkan jalan tahkim sebagaimana kebutuhan penganut madzhab lainnya."
+    },
+    {
+      "title": "Perbandingan: Pandangan Madzhab Maliki",
+      "titleArabic": "فَصْلٌ فِي مَذْهَبِ الْمَالِكِيَّةِ فِي التَّحْكِيمِ",
+      "arabic": "عِنْدَ الْمَالِكِيَّةِ يُجِيزُونَ التَّحْكِيمَ وَيُشْتَرَطُ عِنْدَهُمْ أَنْ يَكُونَ الْحَكَمُ ذَا مَعْرِفَةٍ وَبَصِيرَةٍ بِمَوَاقِعِ الْأَحْكَامِ.",
+      "translation": "Menurut Mazhab Maliki, mereka memperbolehkan tahkim dan mensyaratkan hakam harus memiliki pengetahuan mendalam serta pemahaman tentang penerapan hukum-hukum."
+    },
+    {
+      "title": "Perbandingan: Pandangan Madzhab Hanbali",
+      "titleArabic": "فَصْلٌ فِي مَذْهَبِ الْحَنَابِلَةِ فِي التَّحْكِيمِ",
+      "arabic": "مَذْهَبُ الْحَنَابِلَةِ قَرِيبٌ مِنْ مَذْهَبِ الشَّافِعِيَّةِ فِي جَوَازِ التَّحْكِيمِ عِنْدَ الضَّرُورَةِ وَعَدَمِ الْوُلَاةِ النَّسَبِيِّينَ وَالْحُكَّامِ.",
+      "translation": "Pandangan Mazhab Hanbali dekat dengan Mazhab Syafi'i dalam hal diperbolehkannya tahkim saat darurat dan ketika tidak didapatkan wali nasab maupun hakim pemerintah."
+    },
+    {
+      "title": "Larangan Nikah Tanpa Wali dan Tanpa Hakam",
+      "titleArabic": "فَصْلٌ فِي بُطْلَانِ النِّكَاحِ بِغَيْرِ وَلِيٍّ وَلَا حَكَمٍ",
+      "arabic": "كُلُّ نِكَاحٍ جَرَى بِدُونِ وَلِيٍّ نَسَبِيٍّ وَلَا سُلْطَانٍ وَلَا حَكَمٍ مُسْتَوْفِي الشُّرُوطِ فَهُوَ نِكَاحٌ بَاطِلٌ لِقَوْلِهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: لَا نِكَاحَ إِلَّا بِوَلِيٍّ.",
+      "translation": "Setiap pernikahan yang dilangsungkan tanpa wali nasab, sultan (qadhi), maupun hakam yang memenuhi syarat, maka pernikahan tersebut batal (tidak sah), berlandaskan sabda Rasulullah SAW: 'Tidak sah nikah kecuali dengan adanya wali.'"
+    },
+    {
+      "title": "Penerapan Tahkim di Era Modern",
+      "titleArabic": "فَصْلٌ فِي تَطْبِيقِ التَّحْكِيمِ فِي الْعَصْرِ الْحَاضِرِ",
+      "arabic": "يَنْبَغِي فِي عَصْرِنَا هَذَا تَوْثِيقُ عَقْدِ التَّحْكِيمِ لَدَى الْجِهَاتِ الرَّسْمِيَّةِ تَفَادِيًا لِلْمَشَاكِلِ الْقَانُونِيَّةِ وَحِفْظًا لِأَنْسَابِ الْأَوْلَادِ.",
+      "translation": "Seyogyanya di zaman kita sekarang ini, akad tahkim dicatatkan pada instansi resmi (seperti KUA) guna menghindari permasalahan hukum perdata serta demi menjaga nasab anak keturunan kelak."
+    },
+    {
+      "title": "Penutup Kitab (Khatimah)",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ فِي التَّقْوَى وَالْوَصِيَّةِ",
+      "arabic": "نَسْأَلُ اللَّهَ الْكَرِيمَ أَنْ يَجْعَلَ هَذَا الْعَمَلَ خَالِصًا لِوَجْهِهِ الْكَرِيمِ، وَأَنْ يَنْفَعَ بِهِ طُلَّابَ الْعِلْمِ الشَّرِيفِ. وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلَّمَ، وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ.",
+      "translation": "Penutup kitab mengenai ketakwaan dan wasiat. Kami memohon kepada Allah Yang Maha Mulia agar menjadikan amal ini ikhlas semata-mata karena mengharap ridha-Nya, dan menjadikannya bermanfaat bagi para penuntut ilmu yang mulia. Semoga shalawat dan salam senantiasa tercurah kepada junjungan kita Nabi Muhammad, beserta keluarga dan para sahabatnya. Dan segala puji bagi Allah, Tuhan semesta alam."
+    }
+  ]
+}
