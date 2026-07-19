@@ -1,0 +1,170 @@
+{
+  "profile": {
+    "name": "Wali Hakim",
+    "originalTitle": "رِسَالَةُ الْوَلِيِّ الْحَاكِمِ فِي النِّكَاحِ",
+    "author": "Asy-Syaikh al-Imam Zainuddin bin Abdul Aziz al-Malibari al-Syafii",
+    "field": "Fiqih Munakahat (Hukum Pernikahan)",
+    "about": "Kitab ini merupakan panduan hukum komprehensif mengenai kedudukan, wewenang, dan tata cara pernikahan menggunakan Wali Hakim menurut mazhab Syafii. Pembahasan di dalamnya mencakup definisi hukum wali hakim, hierarki wali nasab, sebab-sebab perpindahan hak wali kepada hakim seperti wali ghaib, wali adhal (membangkang), wali dalam keadaan ihram, hingga pembahasan mengenai tahkim (pengangkatan hakim ad-hoc) ketika tidak ditemukan hakim resmi syar'i. Kitab ini menjadi rujukan otoritatif bagi para qadhi, penghulu, dan penuntut ilmu di lingkungan pesantren dan peradilan agama.",
+    "authorBorn": "Malabar, India, sekitar tahun 938 H",
+    "authorDied": "Malabar, India, tahun 987 H",
+    "authorCentury": "Abad ke-10 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah Kitab",
+      "titleArabic": "مُقَدِّمَةُ الْكِتَابِ",
+      "arabic": "الْحَمْدُ للهِ الَّذِي جَعَلَ النِّكَاحَ سَبَبًا لِبَقَاءِ نَسْلِ الْأَنَامِ، وَأَحَلَّ الْفُرُوجَ بِالْعَقْدِ الشَّرْعِيِّ الْمُنَزَّهِ عَنِ الْآثَامِ، وَأَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، الْمَلِكُ الْعَلَّامُ، وَأَشْهَدُ أَنَّ سَيِّدَنَا مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ هَادِي الْأَنَامِ، صَلَّى اللهُ عَلَيْهِ وَعَلَى آلِهِ وَأَصْحَابِهِ الْبَرَرَةِ الْكِرَامِ، صَلَاةً وَتَسْلِيمًا دَائِمَيْنِ بِالْأَيَّامِ. أَمَّا بَعْدُ: فَهَذِهِ رِسَالَةٌ لَطِيفَةٌ فِي أَحْكَامِ الْوَلِيِّ الْحَاكِمِ فِي النِّكَاحِ، يَحْتَاجُ إِلَيْهَا الْقُضَاةُ وَالْحُكَّامُ وَعَامَّةُ الْأَنَامِ.",
+      "translation": "Segala puji bagi Allah yang telah menjadikan pernikahan sebagai sebab lestarinya keturunan manusia, dan menghalalkan persetubuhan melalui akad syar'i yang bersih dari dosa. Aku bersaksi bahwa tiada Tuhan selain Allah yang Maha Esa, tiada sekutu bagi-Nya, Raja yang Maha Mengetahui. Dan aku bersaksi bahwa junjungan kita Nabi Muhammad adalah hamba dan utusan-Nya yang memberi petunjuk kepada manusia, semoga shalawat dan salam senantiasa tercurah kepadanya, keluarganya, dan para sahabatnya yang mulia selama berjalannya hari. Adapun setelah itu: Maka ini adalah risalah ringkas mengenai hukum-hukum Wali Hakim dalam pernikahan, yang sangat dibutuhkan oleh para qadhi, penguasa, dan manusia pada umumnya."
+    },
+    {
+      "title": "Definisi Wali dalam Pernikahan",
+      "titleArabic": "تَعْرِيفُ الْوَلِيِّ فِي النِّكَاحِ",
+      "arabic": "الْوَلَايَةُ فِي النِّكَاحِ هِيَ قُدْرَةٌ شَرْعِيَّةٌ عَلَى إِنْشَاءِ عَقْدِ النِّكَاحِ نَافِذًا عَلَى الْغَيْرِ بِدُونِ رِضَاهُ فِي الْمُجْبَرِ، وَبِرِضَاهُ فِي غَيْرِهِ. وَالْوَلِيُّ هُوَ مَنْ لَهُ هَذِهِ الْقُدْرَةُ الشَّرْعِيَّةُ بِسَبَبِ قَرَابَةٍ أَوْ عِتْقٍ أَوْ سُلْطَةٍ.",
+      "translation": "Perwalian dalam pernikahan adalah kemampuan syar'i untuk melangsungkan akad nikah yang sah atas orang lain tanpa kerelaannya pada kasus wali mujbir, atau dengan kerelaannya pada selain wali mujbir. Sedangkan wali adalah orang yang memiliki kemampuan syar'i tersebut disebabkan hubungan kekerabatan, memerdekakan budak, atau kekuasaan pemerintahan."
+    },
+    {
+      "title": "Dasar Hukum Perwalian",
+      "titleArabic": "أَصْلُ مَشْرُوعِيَّةِ الْوِلَايَةِ",
+      "arabic": "وَالْأَصْلُ فِي اشْتِرَاطِ الْوَلِيِّ فِي النِّكَاحِ قَوْلُهُ تَعَالَى: {وَأَنْكِحُوا الْأَيَامَى مِنْكُمْ}، وَقَوْلُهُ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: (لَا نِكَاحَ إِلَّا بِوَلِيٍّ) رَوَاهُ أَحْمَدُ وَأَبُو دَاوُدَ، وَقَوْلُهُ: (أَيُّمَا امْرَأَةٍ نَكَحَتْ بِغَيْرِ إِذْنِ وَلِيِّهَا فَنِكَاحُهَا بَاطِلٌ) فَصَحَّ أَنَّ الْوَلِيَّ رُكْنٌ مِنْ أَرْكَانِ النِّكَاحِ لَا يَصِحُّ بِدُونِهِ.",
+      "translation": "Dasar hukum disyaratkannya wali dalam pernikahan adalah firman Allah Ta'ala: 'Dan nikahkanlah orang-orang yang sendirian di antara kamu' (QS. An-Nur: 32), dan sabda Nabi SAW: 'Tidak sah nikah kecuali dengan wali' (HR. Ahmad dan Abu Dawud), serta sabdanya: 'Wanita mana saja yang menikah tanpa izin walinya, maka nikahnya batal'. Maka sah secara hukum bahwa wali adalah salah satu rukun nikah yang tidak sah tanpanya."
+    },
+    {
+      "title": "Definisi Wali Hakim",
+      "titleArabic": "تَعْرِيفُ الْوَلِيِّ الْحَاكِمِ",
+      "arabic": "الْوَلِيُّ الْحَاكِمُ هُوَ السُّلْطَانُ أَوْ مَنْ نَابَ عَنْهُ كَالْقَاضِي الَّذِي فُوِّضَ إِلَيْهِ أَمْرُ التَّزْوِيجِ فِي نَاحِيَتِهِ، لِيَقُومَ بِمَصَالِحِ مَنْ لَا وَلِيَّ لَهُ مِنَ النِّسَاءِ، أَوْ مَنْ عَمِيَ عَلَيْهِ أَمْرُ وَلِيِّهِ.",
+      "translation": "Wali Hakim adalah sultan (penguasa tertinggi) atau orang yang mewakilinya seperti qadhi (hakim) yang diserahkan kepadanya urusan menikahkan di wilayahnya, guna melaksanakan kemaslahatan bagi wanita yang tidak memiliki wali nasab, atau wanita yang terhalang dari walinya."
+    },
+    {
+      "title": "Dalil Legalitas Wali Hakim",
+      "titleArabic": "الدَّلِيلُ عَلَى وِلَايَةِ الْحَاكِمِ",
+      "arabic": "وَالْأَصْلُ فِي وِلَايَةِ الْحَاكِمِ قَوْلُهُ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: (فَالسُّلْطَانُ وَلِيُّ مَنْ لَا وَلِيَّ لَهُ) رَوَاهُ التِّرْمِذِيُّ وَصَحَّحَهُ، وَلِأَنَّ السُّلْطَانَ نُصِّبَ لِلْمَصَالِحِ الْعَامَّةِ، وَتَزْوِيجُ مَنْ لَا وَلِيَّ لَهَا مِنْ مَصَالِحِهَا فَيَتَعَيَّنُ عَلَيْهِ.",
+      "translation": "Dasar hukum perwalian hakim adalah sabda Nabi SAW: 'Maka sultan adalah wali bagi orang yang tidak memiliki wali' (HR. Tirmidzi dan ia mensahihkannya), dan karena sultan diangkat untuk kemaslahatan umum, sedangkan menikahkan wanita yang tidak memiliki wali termasuk dari kemaslahatannya, maka hal itu wajib baginya."
+    },
+    {
+      "title": "Syarat-Syarat Wali Hakim",
+      "titleArabic": "شُرُوطُ الْوَلِيِّ الْحَاكِمِ",
+      "arabic": "وَيُشْتَرَطُ فِي الْوَلِيِّ الْحَاكِمِ مَا يُشْتَرَطُ فِي الْقَاضِي وَالْوَلِيِّ النَّسَبِ مِنَ: الْإِسْلَامِ، وَالذُّكُورَةِ، وَالْبُلُوغِ، وَالْعَقْلِ، وَالْحُرِّيَّةِ، وَالْعَدَالَةِ، وَالْمَعْرِفَةِ بِأَحْكَامِ النِّكَاحِ، فَلَا تَصِحُّ وِلَايَةُ كَافِرٍ عَلَى مُسْلِمَةٍ، وَلَا امْرَأَةٍ، وَلَا صَبِيٍّ، وَلَا مَجْنُونٍ، وَلَا عَبْدٍ، وَلَا فَاسِقٍ.",
+      "translation": "Disyaratkan bagi wali hakim apa yang disyaratkan pada qadhi dan wali nasab, yaitu: Islam, laki-laki, baligh, berakal, merdeka, adil, dan mengetahui hukum-hukum pernikahan. Maka tidak sah perwalian orang kafir atas wanita muslimah, tidak sah pula perwalian wanita, anak kecil, orang gila, budak, dan orang fasik."
+    },
+    {
+      "title": "Hierarki Kewenangan Wali Nasab",
+      "titleArabic": "تَرْتِيبُ أَوْلِيَاءِ النَّسَبِ",
+      "arabic": "أَوْلَى النَّاسِ بِالتَّزْوِيجِ: الْأَبُ، ثُمَّ الْجَدُّ أَبُو الْأَبِ وَإِنْ عَلَا، ثُمَّ الْأَخُ الشَّقِيقُ، ثُمَّ الْأَخُ لِأَبٍ، ثُمَّ ابْنُ الْأَخِ الشَّقِيقِ وَإِنْ نَزَلَ، ثُمَّ ابْنُ الْأَخِ لِأَبٍ وَإِنْ نَزَلَ، ثُمَّ الْعَمُّ الشَّقِيقُ، ثُمَّ الْعَمُّ لِأَبٍ، ثُمَّ ابْنُ الْعَمِّ الشَّقِيقِ وَإِنْ نَزَلَ، ثُمَّ ابْنُ الْعَمِّ لِأَبٍ وَإِنْ نَزَلَ، ثُمَّ الْحَاكِمُ عِنْدَ فَقْدِ هَؤُلَاءِ كُلِّهِمْ.",
+      "translation": "Orang yang paling berhak menikahkan adalah: ayah, kemudian kakek (ayahnya ayah) ke atas, kemudian saudara laki-laki sekandung, kemudian saudara laki-laki seayah, kemudian anak laki-laki dari saudara laki-laki sekandung ke bawah, kemudian anak laki-laki dari saudara laki-laki seayah ke bawah, kemudian paman sekandung, kemudian paman seayah, kemudian anak laki-laki paman sekandung ke bawah, kemudian anak laki-laki paman seayah ke bawah, kemudian barulah Hakim ketika semua wali nasab tersebut tidak ada."
+    },
+    {
+      "title": "Sebab Perpindahan Perwalian kepada Hakim",
+      "titleArabic": "أَسْبَابُ انْتِقَالِ الْوِلَايَةِ إِلَى الْحَاكِمِ",
+      "arabic": "تَنْتَقِلُ الْوِلَايَةُ إِلَى الْحَاكِمِ فِي ثَمَانِيَةِ مَوَاضِعَ: فَقْدُ الْوَلِيِّ النَّسَبِ، وَغَيْبَتُهُ بَعِيدًا، وَعَضْلُهُ، وَإِحْرَامُهُ، وَفِسْقُهُ، وَجُنُونُهُ أَوْ صِغَرُهُ مَعَ فَقْدِ غَيْرِهِ، وَخَفَاؤُهُ، وَتَعَذُّرُ نِكَاحِ الْمَوْلِيَّةِ بِسَبَبِ عَدَاوَةِ الْوَلِيِّ.",
+      "translation": "Perwalian berpindah kepada hakim dalam delapan keadaan: tidak adanya wali nasab, perginya wali ke tempat yang jauh (ghaib), keengganan wali menikahkan (adhal), wali sedang ihram, kefasikan wali, gila atau kecilnya wali sementara tidak ada wali lain, tidak ketahuannya keberadaan wali, dan sulitnya menikahkan wanita karena permusuhan dari walinya."
+    },
+    {
+      "title": "Sebab Pertama: Wali Nasab Tidak Ada",
+      "titleArabic": "السَّبَبُ الْأَوَّلُ: فَقْدُ الْوَلِيِّ النَّسَبِ",
+      "arabic": "إِذَا لَمْ يَكُنْ لِلْمَرْأَةِ وَلِيٌّ مِنَ النَّسَبِ بِالْكُلِّيَّةِ، أَوْ كَانَ وَمَاتَ وَلَمْ يَبْقَ أَحَدٌ مِنْ عَصَبَتِهَا الْمُسْتَحِقِّينَ لِلْوِلَايَةِ، زَوَّجَهَا الْحَاكِمُ؛ لِأَنَّهُ وَلِيُّ مَنْ لَا وَلِيَّ لَهُ.",
+      "translation": "Sebab Pertama: Jika seorang wanita sama sekali tidak memiliki wali dari jalur nasab, atau dahulunya ada namun telah meninggal dan tidak tersisa seorang pun dari kalangan ashabah (kerabat laki-laki) yang berhak atas perwalian, maka hakim yang menikahkannya; karena hakim adalah wali bagi orang yang tidak memiliki wali."
+    },
+    {
+      "title": "Sebab Kedua: Wali Ghaib (Bepergian Jauh)",
+      "titleArabic": "السَّبَبُ الثَّانِي: الْوَلِيُّ الْغَائِبُ",
+      "arabic": "إِذَا غَابَ الْوَلِيُّ الْأَقْرَبُ إِلَى مَسَافَةِ الْقَصْرِ وَهِيَ مَرْحَلَتَانِ فَأَكْثَرَ، وَلَمْ يُوَكِّلْ مَنْ يُزَوِّجُهَا، زَوَّجَهَا الْحَاكِمُ وَلَا تَنْتَقِلُ الْوِلَايَةُ إِلَى الْوَلِيِّ الْأَبْعَدِ؛ لِأَنَّ غَيْبَتَهُ كَمَوْتِهِ فِي تَعَذُّرِ اسْتِيفَاءِ الْحَقِّ مِنْهُ مَعَ بَقَاءِ أَهْلِيَّتِهِ.",
+      "translation": "Sebab Kedua: Jika wali terdekat bepergian jauh hingga mencapai jarak qashar (dua marhalah / sekitar 80,6 km atau lebih) dan ia tidak mewakilkan kepada orang lain untuk menikahkannya, maka hakim yang menikahkannya, dan hak perwalian tidak berpindah kepada wali yang lebih jauh (ab'ad); karena kepergiannya dihukumi seperti kematiannya dalam hal sulitnya meminta hak perwalian darinya, sementara ia tetap memiliki kelayakan wali."
+    },
+    {
+      "title": "Batasan Jarak Safar Wali Ghaib",
+      "titleArabic": "حَدُّ الْمَسَافَةِ فِي الْوَلِيِّ الْغَائِبِ",
+      "arabic": "وَالْعِبْرَةُ فِي الْغَيْبَةِ بِالْمَسَافَةِ الَّتِي تَجُوزُ فِيهَا قَصْرُ الصَّلَاةِ، فَإِنْ كَانَ دُونَهَا فَلَا يُزَوِّجُ الْحَاكِمُ بَلْ يُرْسَلُ إِلَيْهِ أَوْ يُسْتَأْذَنُ، إِلَّا أَنْ يَكُونَ الطَّرِيقُ مَخُوفًا لَا يُمْكِنُ الْوُصُولُ إِلَيْهِ فَيُزَوِّجُ الْحَاكِمُ حِينَئِذٍ.",
+      "translation": "Kriteria kepergian (ghaib) adalah jarak yang membolehkan mengqashar shalat. Jika jaraknya kurang dari itu, maka hakim tidak boleh menikahkan, melainkan harus mengirim utusan kepadanya atau meminta izinnya, kecuali jika jalan menuju ke sana berbahaya dan tidak memungkinkan untuk mencapainya, maka dalam kondisi demikian hakim boleh menikahkan."
+    },
+    {
+      "title": "Sebab Ketiga: Wali Adhal (Enggan Menikahkan)",
+      "titleArabic": "السَّبَبُ الثَّالِثُ: الْوَلِيُّ الْعَاضِلُ",
+      "arabic": "إِذَا امْتَنَعَ الْوَلِيُّ الْأَقْرَبُ عَنْ تَزْوِيجِ الْمَرْأَةِ بِكُفْءٍ طَلَبَتْهُ وَرَضِيَتْ بِهِ وَبِمَهْرِ الْمِثْلِ، فَهَذَا هُوَ الْعَضْلُ، وَيُزَوِّجُهَا الْحَاكِمُ بَعْدَ ثُبُوتِ الْعَضْلِ عِنْدَهُ، وَلَا تَنْتَقِلُ الْوِلَايَةُ إِلَى الْأَبْعَدِ؛ لِأَنَّهُ حَقٌّ عَلَى الْأَقْرَبِ فَتَعَدَّى بِامْتِنَاعِهِ فَأُخِذَ مِنْهُ.",
+      "translation": "Sebab Ketiga: Jika wali terdekat menolak menikahkan wanita dengan laki-laki yang sekufu (setara) yang diminta oleh wanita tersebut dan ia ridha dengannya serta dengan mahar mitsil (mahar standar), maka ini dinamakan adhal. Hakim yang akan menikahkannya setelah terbukti adanya tindakan adhal di hadapannya, dan hak perwalian tidak berpindah kepada wali yang lebih jauh (ab'ad); karena hal itu merupakan kewajiban wali terdekat, lalu ia berlaku zalim dengan keengganannya, sehingga hak tersebut diambil alih darinya."
+    },
+    {
+      "title": "Prosedur Penetapan Wali Adhal",
+      "titleArabic": "إِثْبَاتُ الْعَضْلِ عِنْدَ الْقَاضِي",
+      "arabic": "وَيَثْبُتُ الْعَضْلُ عِنْدَ الْقَاضِي بِأَنْ تَطْلُبَ الْمَرْأَةُ التَّزْوِيجَ مِنَ الْكُفْءِ، فَيَدْعُوَ الْقَاضِي الْوَلِيَّ وَيَأْمُرَهُ بِالتَّزْوِيجِ، فَإِنْ أَبَى وَأَصَرَّ عَلَى الِامْتِنَاعِ بِغَيْرِ عُذْرٍ شَرْعِيٍّ، زَوَّجَهَا الْقَاضِي بِنَفْسِهِ أَوْ بِإِذْنِهِ.",
+      "translation": "Tindakan adhal ditetapkan di hadapan qadhi dengan cara sang wanita meminta dinikahkan dengan laki-laki sekufu, lalu qadhi memanggil wali tersebut dan memerintahkannya untuk menikahkan. Jika ia menolak dan bersikeras tidak mau menikahkan tanpa uzur syar'i, maka qadhi sendiri yang menikahkannya atau dengan izin dari qadhi."
+    },
+    {
+      "title": "Sebab Keempat: Wali Sedang Ihram",
+      "titleArabic": "السَّبَبُ الرَّابِعُ: الْوَلِيُّ الْمُحْرِمُ",
+      "arabic": "إِذَا كَانَ الْوَلِيُّ الْأَقْرَبُ مُحْرِمًا بِحَجٍّ أَوْ عُمْرَةٍ، لَمْ يَجُزْ لَهُ أَنْ يُزَوِّجَ وَلَا أَنْ يُوَكِّلَ؛ لِقَوْلِهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: (لَا يَنْكِحُ الْمُحْرِمُ وَلَا يُنْكِحُ)، وَتَنْتَقِلُ الْوِلَايَةُ حِينَئِذٍ إِلَى الْحَاكِمِ لَا إِلَى الْوَلِيِّ الْأَبْعَدِ عَلَى الْأَصَحِّ.",
+      "translation": "Sebab Keempat: Jika wali terdekat sedang melakukan ihram haji atau umrah, maka ia tidak boleh menikahkan dan tidak boleh pula mewakilkan, berdasarkan sabda Nabi SAW: 'Orang yang sedang ihram tidak boleh menikah dan tidak boleh menikahkan'. Maka dalam keadaan ini, perwalian berpindah kepada hakim, bukan kepada wali yang lebih jauh menurut pendapat yang paling sahih."
+    },
+    {
+      "title": "Sebab Kelima: Wali Fasik",
+      "titleArabic": "السَّبَبُ الْخَامِسُ: فِسْقُ الْوَلِيِّ",
+      "arabic": "الْعَدَالَةُ شَرْطٌ فِي الْوَلِيِّ عَلَى الْمَشْهُورِ، فَإِنْ كَانَ الْوَلِيُّ الْأَقْرَبُ فَاسِقًا بِارْتِكَابِ كَبِيرَةٍ أَوْ إِصْرَارٍ عَلَى صَغِيرَةٍ، انْتَقَلَتْ الْوِلَايَةُ إِلَى السُّلْطَانِ أَوْ نَائِبِهِ، وَفِي قَوْلٍ تَنْتَقِلُ إِلَى الْأَبْعَدِ، وَالْمُعْتَمَدُ أَنَّهَا تَنْتَقِلُ إِلَى السُّلْطَانِ.",
+      "translation": "Sebab Kelima: Sifat adil merupakan syarat bagi wali menurut pendapat yang masyhur. Jika wali terdekat adalah orang fasik karena melakukan dosa besar atau terus-menerus melakukan dosa kecil, maka perwalian berpindah kepada sultan atau wakilnya. Menurut satu kaum pendapat berpindah kepada wali yang lebih jauh, namun pendapat yang muktamad (kuat) adalah berpindah kepada sultan (hakim)."
+    },
+    {
+      "title": "Sebab Keenam: Wali Belum Baligh atau Gila",
+      "titleArabic": "السَّبَبُ السَّادِسُ: صِغَرُ الْوَلِيِّ أَوْ جُنُونُهُ",
+      "arabic": "إِذَا كَانَ الْوَلِيُّ الْأَقْرَبُ صَبِيًّا لَمْ يَبْلُغْ، أَوْ مَجْنُونًا لَا يَفِيقُ، وَلَمْ يَكُنْ لَهَا وَلِيٌّ آخَرُ فِي مَرْتَبَتِهِ، زَوَّجَهَا الْحَاكِمُ؛ لِعَجْزِ الْوَلِيِّ الْأَصْلِيِّ عَنِ النَّظَرِ وَالْمَصْلَحَةِ.",
+      "translation": "Sebab Keenam: Jika wali terdekat masih kecil belum baligh, atau gila yang tidak kunjung sembuh, dan wanita tersebut tidak memiliki wali lain yang sederajat dengannya, maka hakim yang menikahkannya; karena ketidakmampuan wali asli untuk memikirkan kemaslahatan."
+    },
+    {
+      "title": "Sebab Ketujuh: Keberadaan Wali Tersembunyi",
+      "titleArabic": "السَّبَبُ السَّابِعُ: تَوَارِي الْوَلِيِّ",
+      "arabic": "إِذَا غَابَ الْوَلِيُّ وَلَمْ يُعْرَفْ مَكَانُهُ، أَوْ خَفِيَ أَثَرُهُ بِحَيْثُ لَا يَدْرِي أَحَدٌ أَحَيٌّ هُوَ أَمْ مَيِّتٌ، فَهَذَا فِي حُكْمِ الْمَفْقُودِ، فَيُزَوِّجُهَا الْحَاكِمُ بَعْدَ الْبَحْثِ وَالِاجْتِهَادِ.",
+      "translation": "Sebab Ketujuh: Jika wali pergi dan tidak diketahui keberadaannya, atau jejaknya tersembunyi sedemikian rupa sehingga tidak ada seorang pun yang tahu apakah ia masih hidup atau sudah mati, maka ia dihukumi sebagai mafqud (orang hilang). Maka hakim yang menikahkannya setelah dilakukan pencarian dan ijtihad (upaya keras)."
+    },
+    {
+      "title": "Sebab Kedelapan: Permusuhan Wali",
+      "titleArabic": "السَّبَبُ الثَّامِنُ: عَدَاوَةُ الْوَلِيِّ",
+      "arabic": "إِذَا كَانَ بَيْنَ الْمَرْأَةِ وَوَلِيِّهَا الْأَقْرَبِ عَدَاوَةٌ ظَاهِرَةٌ يَخَافُ مَعَهَا أَنْ لَا يَنْظُرَ فِي مَصْلَحَتِهَا أَوْ يَضُرَّ بِهَا، وَرَفَعَتْ أَمْرَهَا إِلَى الْقَاضِي، زَوَّجَهَا الْقَاضِي دَفْعًا لِلضَّرَرِ عَنْهَا.",
+      "translation": "Sebab Kedelapan: Jika antara wanita dan wali terdekatnya terdapat permusuhan yang nyata, yang dikhawatirkan wali tersebut tidak akan memperhatikan kemaslahatannya atau sengaja mencelakakannya, lalu sang wanita mengadukan perkaranya kepada qadhi, maka qadhi yang menikahkannya demi menghindarkan kemudaratan darinya."
+    },
+    {
+      "title": "Kewajiban Hakim Meneliti Syarat Kafa'ah",
+      "titleArabic": "وُجُوبُ نَظَرِ الْحَاكِمِ فِي الْكَفَاءَةِ",
+      "arabic": "يَجِبُ عَلَى الْوَلِيِّ الْحَاكِمِ أَنْ يَبْحَثَ عَنْ كَفَاءَةِ الزَّوْجِ قَبْلَ التَّزْوِيجِ، فَلَا يَجُوزُ لَهُ أَنْ يُزَوِّجَهَا بِغَيْرِ كُفْءٍ وَإِنْ رَضِيَتْ هِيَ بِذَلِكَ؛ لِأَنَّ الْكَفَاءَةَ حَقٌّ للهِ تَعَالَى وَلِلْمُسْلِمِينَ فَلَا يَصِحُّ إِسْقَاطُهَا مِنَ الْحَاكِمِ.",
+      "translation": "Wajib bagi Wali Hakim untuk meneliti kesetaraan (kafa'ah) calon suami sebelum menikahkan. Maka ia tidak boleh menikahkannya dengan laki-laki yang tidak sekufu meskipun sang wanita ridha dengan hal itu; karena kafa'ah merupakan hak Allah Ta'ala dan kaum muslimin secara umum, sehingga tidak boleh digugurkan oleh hakim."
+    },
+    {
+      "title": "Ketentuan Mahar Mitsil bagi Wali Hakim",
+      "titleArabic": "اشْتِرَاطُ مَهْرِ الْمِثْلِ فِي نِكَاحِ الْحَاكِمِ",
+      "arabic": "لَا يَجُوزُ لِلْحَاكِمِ أَنْ يُزَوِّجَ الْمَرْأَةَ بِدُونِ مَهْرِ الْمِثْلِ مِنْ نَقْدِ الْبَلَدِ حَالًّا، فَإِنْ زَوَّجَهَا بِدُونِ مَهْرِ الْمِثْلِ لَمْ يَصِحَّ التَّسْمِيَةُ وَوَجَبَ مَهْرُ الْمِثْلِ بِالْقَضَاءِ.",
+      "translation": "Tidak boleh bagi hakim menikahkan wanita dengan mahar yang kurang dari mahar mitsil (mahar standar wanita setara dirinya) dengan mata uang setempat secara kontan. Jika hakim menikahkannya dengan mahar di bawah mahar mitsil, maka penentuan mahar tersebut tidak sah dan tetap wajib membayar mahar mitsil berdasarkan keputusan hakim."
+    },
+    {
+      "title": "Larangan Wali Hakim Menikahkan untuk Dirinya Sendiri",
+      "titleArabic": "امْتِنَاعُ تَزْوِيجِ الْحَاكِمِ لِنَفْسِهِ",
+      "arabic": "لَا يَجُوزُ لِلْحَاكِمِ أَنْ يُزَوِّجَ مَنْ لَهُ وِلَايَةُ تَزْوِيجِهَا مِنْ نَفْسِهِ، وَلَا مِنْ أُصُولِهِ كَأَبِيهِ، وَلَا مِنْ فُرُوعِهِ كَابْنِهِ؛ لِأَنَّهُ يَتَّهِمُ فِي ذَلِكَ، فَإِنْ أَرَادَ تَزْوِيجَهَا لِنَفْسِهِ أَوْ لِمَنْ ذُكِرَ، رَفَعَ الْأَمْرَ إِلَى حَاكِمٍ آخَرَ أَوْ زَوَّجَهَا خَلِيفَتُهُ بِإِذْنِهِ.",
+      "translation": "Tidak boleh bagi hakim menikahkan wanita yang berada di bawah perwaliannya dengan dirinya sendiri, tidak boleh pula dengan usul-nya (leluhurnya) seperti ayahnya, dan tidak boleh dengan furu'-nya (keturunannya) seperti anak laki-lakinya; karena ia tertuduh ada kepentingan dalam hal tersebut. Jika ia ingin menikahkannya untuk dirinya sendiri atau untuk kerabat yang disebutkan tadi, maka ia harus menyerahkan perkara tersebut kepada hakim yang lain, atau wakilnya yang menikahkan dengan izinnya."
+    },
+    {
+      "title": "Wali Hakim bagi Mualaf Baru",
+      "titleArabic": "وِلَايَةُ الْحَاكِمِ عَلَى الْمُسْلِمَةِ الْجَدِيدَةِ",
+      "arabic": "إِذَا أَسْلَمَتِ الْمَرْأَةُ وَبَقِيَ أَبُوهَا وَأَقَارِبُهَا عَلَى الْكُفْرِ، فَلَا وِلَايَةَ لِأَحَدٍ مِنْهُمْ عَلَيْهَا؛ لِقَوْلِهِ تَعَالَى: {وَلَنْ يَجْعَلَ اللهُ لِلْكَافِرِينَ عَلَى الْمُؤْمِنِينَ سَبِيلًا}، وَيَكُونُ وَلِيُّهَا الْحَاكِمُ الشَّرْعِيُّ.",
+      "translation": "Jika seorang wanita masuk Islam sedangkan ayahnya dan kerabatnya tetap dalam keadaan kafir, maka tidak ada hak perwalian bagi seorang pun dari mereka atas wanita tersebut, berdasarkan firman Allah Ta'ala: 'Dan Allah sekali-kali tidak akan memberi jalan kepada orang-orang kafir untuk memusnahkan orang-orang yang beriman' (QS. An-Nisa: 141). Maka yang menjadi walinya adalah Hakim Syar'i."
+    },
+    {
+      "title": "Hukum Tahkim (Arbitrase) Saat Tidak Ada Wali Hakim",
+      "titleArabic": "أَحْكَامُ التَّحْكِيمِ عِنْدَ فَقْدِ الْحَاكِمِ",
+      "arabic": "إِذَا عَدِمَ الْحَاكِمُ فِي مَوْضِعٍ بِأَنْ لَمْ يَكُنْ سُلْطَانٌ وَلَا قَاضٍ مَنْصُوبٌ، أَوْ كَانَ بَعِيدًا يَشُقُّ الْوُصُولُ إِلَيْهِ، جَازَ لِلْمَرْأَةِ أَنْ تُحَكِّمَ رَجُلًا فَقِيهًا عَدْلًا يُزَوِّجُهَا بِكُفْءٍ، وَيُسَمَّى هَذَا (الْمُحَكَّمَ) وَيَقُومُ مَقَامَ الْقَاضِي فِي ذَلِكَ.",
+      "translation": "Apabila tidak ada hakim di suatu tempat, seperti tidak adanya sultan maupun qadhi yang diangkat secara resmi, atau keberadaannya sangat jauh sehingga sulit untuk ditemui, maka boleh bagi wanita tersebut untuk mengangkat seorang laki-laki yang faqih (ahli fiqih) lagi adil untuk bertindak sebagai hakim (arbitrator) guna menikahkannya dengan laki-laki sekufu. Ini dinamakan 'Muhakkam', dan ia menempati kedudukan qadhi dalam urusan tersebut."
+    },
+    {
+      "title": "Syarat-Syarat Muhakkam (Hakim Ad-Hoc)",
+      "titleArabic": "شُرُوطُ الْمُحَكَّمِ",
+      "arabic": "وَيُشْتَرَطُ فِي الْمُحَكَّمِ أَنْ يَكُونَ ذَكَرًا مُسْلِمًا حُرًّا بَالِغًا عاقِلًا عَدْلًا فَقِيهًا بِأَحْكَامِ النِّكَاحِ، فَلَا يَجُوزُ تَحْكِيمُ الْعَامِّيِّ الْجَاهِلِ بِأَحْكَامِ الشَّرِيعَةِ، وَلَا تَصِحُّ الْعُقُودُ بِتَحْكِيمِهِ.",
+      "translation": "Disyaratkan pada Muhakkam (hakim ad-hoc) berupa seorang laki-laki, muslim, merdeka, baligh, berakal, adil, serta memahami hukum-hukum pernikahan. Maka tidak boleh mengangkat Muhakkam dari kalangan orang awam yang bodoh akan hukum-hukum syariat, dan akad nikah tidak sah dengan mengangkatnya sebagai arbitrator."
+    },
+    {
+      "title": "Mewakilkan Akad Pernikahan oleh Wali Hakim",
+      "titleArabic": "تَوْكِيلُ الْوَلِيِّ الْحَاكِمِ لِغَيْرِهِ",
+      "arabic": "يَجُوزُ لِلْقَاضِي أَوْ لِلْوَالِيِّ الشَّرْعِيِّ أَنْ يُوَكِّلَ عَدْلًا فِي تَزْوِيجِ الْمَرْأَةِ الَّتِي تَحْتَ وِلَايَتِهِ، كَمَا يَجُوزُ لِلْوَلِيِّ النَّسَبِ ذَلِكَ، لِأَنَّ الْإِذْنَ بِالتَّزْوِيجِ يَقْبَلُ النِّيَابَةَ.",
+      "translation": "Boleh bagi qadhi atau wali syar'i untuk mewakilkan kepada orang yang adil dalam melangsungkan akad nikah wanita yang berada di bawah perwaliannya, sebagaimana bolehnya wali nasab melakukan hal itu, karena pemberian izin dalam pernikahan menerima perwakilan (niyabah)."
+    },
+    {
+      "title": "Khatimah (Penutup)",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ",
+      "arabic": "نَسْأَلُ اللهَ الْعَلِيَّ الْقَدِيرَ أَنْ يَجْعَلَ هَذِهِ الرِّسَالَةَ خَالِصَةً لِوَجْهِهِ الْكَرِيمِ، وَأَنْ يَنْفَعَ بِهَا طُلَّابَ الْعِلْمِ وَالْقُضَاةَ، وَصَلَّى اللهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلَّمَ، وَالْحَمْدُ للهِ رَبِّ الْعَالَمِينَ.",
+      "translation": "Kami memohon kepada Allah yang Maha Tinggi lagi Maha Kuasa agar menjadikan risalah ini murni karena mengharap rida-Nya yang mulia, dan menjadikannya bermanfaat bagi para penuntut ilmu serta para qadhi. Dan semoga shalawat serta salam senantiasa tercurah kepada junjungan kita Nabi Muhammad, keluarga, dan para sahabatnya. Dan segala puji bagi Allah, Tuhan semesta alam."
+    }
+  ]
+}
