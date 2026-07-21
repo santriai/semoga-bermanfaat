@@ -1,0 +1,398 @@
+{
+  "profile": {
+    "name": "Mabadi'ul Fiqhiyyah",
+    "originalTitle": "المَبَادِئُ الفِقْهِيَّةُ عَلَى مَذْهَبِ الإِمَامِ الشَّافِعِيِّ",
+    "author": "Syaikh Umar Abdul Jabbar",
+    "field": "Fiqih (Syafi'i)",
+    "about": "Kitab Al-Mabadi'ul Fiqhiyyah adalah kitab ringkas fiqih mazhab Syafi'i yang disusun khusus untuk tingkat dasar atau pemula dalam bentuk tanya jawab (hiwar). Kitab ini sangat populer di kalangan pesantren Asia Tenggara karena bahasanya yang lugas, sistematis, dan mudah dihafal oleh para santri. Pembahasannya mencakup dasar-dasar syariat Islam mulai dari konsep ketuhanan, rukun Islam, thaharah, shalat, zakat, puasa, hingga haji. Penyusunannya berfokus pada pengenalan hukum-hukum fardhu 'ain yang wajib diketahui oleh setiap muslim mukallaf sejak usia dini guna membentuk pondasi ibadah yang sah dan sesuai dengan manhaj fiqih Syafi'iyyah.",
+    "authorBorn": "Mekkah, Arab Saudi (1318 H / 1900 M)",
+    "authorDied": "Mekkah, Arab Saudi (1391 H / 1971 M)",
+    "authorCentury": "Abad ke-14 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah",
+      "titleArabic": "المُقَدِّمَةُ",
+      "arabic": "بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ. الْحَمْدُ للهِ رَبِّ الْعَالَمِينَ، وَالصَّلَاةُ وَالسَّلَامُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ أَجْمَعِينَ. أَمَّا بَعْدُ: فَهَذِهِ خُلَاصَةٌ مِنَ الْفِقْهِ عَلَى مَذْهَبِ الْإِمَامِ الشَّافِعِيِّ رَضِيَ اللهُ عَنْهُ تَعَالَى، جَمَعْتُهَا لِتَلَامِيذِ الْمَدَارِسِ الِابْتِدَائِيَّةِ.",
+      "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, Tuhan semesta alam. Shalawat dan salam semoga senantiasa tercurah kepada junjungan kita Nabi Muhammad, beserta keluarga dan para sahabatnya sekalian. Amma Ba'du: Ini adalah ringkasan ilmu fiqih menurut Mazhab Imam Syafi'i radhiyallahu 'anhu, yang saya himpun khusus untuk murid-murid madrasah tingkat dasar (Ibtidaiyah)."
+    },
+    {
+      "title": "Agama Islam",
+      "titleArabic": "دِينُ الإِسْلَامِ",
+      "arabic": "س: مَا هُوَ الْإِسْلَامُ؟ ج: الْإِسْلَامُ هُوَ الِانْقِيَادُ لِمَا جَاءَ بِهِ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ تَسْلِيمًا، وَالْإِقْرَارُ بِهِ بِاللِّسَانِ وَالتَّصْدِيقُ بِالْقَلْبِ وَالْعَمَلُ بِالْأَرْكَانِ.",
+      "translation": "Tanya: Apakah Islam itu? Jawab: Islam adalah kepasrahan dan ketundukan secara penuh terhadap apa saja yang dibawa oleh Nabi shallallahu 'alaihi wa sallam, yang disertai dengan pengakuan lisan, pembenaran dalam hati, serta pengamalan dengan anggota badan."
+    },
+    {
+      "title": "Rukun Islam",
+      "titleArabic": "أَرْكَانُ الإِسْلَامِ",
+      "arabic": "س: كَمْ أَرْكَانُ الْإِسْلَامِ؟ ج: أَرْكَانُ الْإِسْلَامِ خَمْسَةٌ: ١. شَهَادَةُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللهِ، ٢. وَإِقَامُ الصَّلَاةِ، ٣. وَإِيتَاءُ الزَّكَاةِ، ٤. وَصَوْمُ رَمَضَانَ، ٥. وَحِجُّ الْبَيْتِ لِمَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلًا.",
+      "translation": "Tanya: Ada berapakah rukun Islam? Jawab: Rukun Islam itu ada lima: 1. Bersaksi bahwa tidak ada tuhan selain Allah dan Muhammad adalah utusan Allah, 2. Mendirikan shalat, 3. Menunaikan zakat, 4. Berpuasa di bulan Ramadhan, 5. Melaksanakan ibadah haji ke Baitullah bagi yang mampu menempuh perjalanannya."
+    },
+    {
+      "title": "Iman dan Rukun Iman",
+      "titleArabic": "الإِيمَانُ وَأَرْكَانُهُ",
+      "arabic": "س: مَا هُوَ الْإِيمَانُ وَكَمْ أَرْكَانُهُ؟ ج: الْإِيمَانُ هُوَ التَّصْدِيقُ الْقَلْبِيُّ الْجَازِمُ بِمَا جَاءَ بِهِ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ. وَأَرْكَانُهُ سِتَّةٌ: أَنْ تُؤْمِنَ بِاللهِ، وَمَلَائِكَتِهِ، وَكُتُبِهِ، وَرُسُلِهِ، وَالْيَوْمِ الْآخِرِ، وَالْقَدَرِ خَيْرِهِ وَشَرِّهِ مِنَ اللهِ تَعَالَى.",
+      "translation": "Tanya: Apakah iman itu dan berapa rukunnya? Jawab: Iman adalah pembenaran hati yang mantap tanpa ragu atas segala hal yang dibawa oleh Nabi shallallahu 'alaihi wa sallam. Rukun iman itu ada enam: Engkau beriman kepada Allah, malaikat-malaikat-Nya, kitab-kitab-Nya, rasul-rasul-Nya, hari akhir (kiamat), dan takdir yang baik maupun yang buruk yang semuanya berasal dari Allah Ta'ala."
+    },
+    {
+      "title": "Pengertian Thaharah (Bersuci)",
+      "titleArabic": "مَعْنَى الطَّهَارَةِ",
+      "arabic": "س: مَا هِيَ الطَّهَارَةُ؟ ج: الطَّهَارَةُ لُغَةً النَّظَافَةُ، وَشَرْعًا: رَفْعُ الْحَدَثِ أَوْ زَوَالُ النَّجَسِ أَوْ مَا فِي مَعْنَاهُمَا أَوْ عَلَى صُورَتِهِمَا.",
+      "translation": "Tanya: Apakah bersuci (thaharah) itu? Jawab: Bersuci secara bahasa bermakna kebersihan. Sedangkan secara syariat adalah menghilangkan hadats, atau melenyapkan najis, atau apa saja yang memiliki makna serupa atau serupa bentuknya dengan keduanya."
+    },
+    {
+      "title": "Jenis-Jenis Air untuk Bersuci",
+      "titleArabic": "أَقْسَامُ المِيَاهِ",
+      "arabic": "س: مَا هِيَ الْمِيَاهُ الَّتِي يَجُوزُ التَّطْهِيرُ بِهَا؟ ج: الْمِيَاهُ الَّتِي يَجُوزُ التَّطْهِيرُ بِهَا سَبْعَةُ مِيَاهٍ: مَاءُ السَّمَاءِ (الْمَطَرُ)، وَمَاءُ الْبَحْرِ، وَمَاءُ النَّهْرِ، وَمَاءُ الْبِئْرِ، وَمَاءُ الْعَيْنِ، وَمَاءُ الثَّلْجِ، وَمَاءُ الْبَرَدِ.",
+      "translation": "Tanya: Air jenis apa sajakah yang boleh dipergunakan untuk bersuci? Jawab: Air yang boleh dipergunakan bersuci ada tujuh macam: air langit (hujan), air laut, air sungai, air sumur, air sumber (mata air), air salju, dan air es (hujan es)."
+    },
+    {
+      "title": "Pembagian Hukum Air",
+      "titleArabic": "أَحْكَامُ المِيَاهِ",
+      "arabic": "س: إِلَى كَمْ قِسْمٍ تَنْقَسِمُ الْمِيَاهُ مِنْ حَيْثُ اسْتِعْمَالُهَا؟ ج: تَنْقَسِمُ إِلَى أَرْبَعَةِ أَقْسَامٍ: ١. طَاهِرٌ مُطَهِّرٌ غَيْرُ مَكْرُوهٍ (الْمَاءُ الْمُطْلَقُ)، ٢. طَاهِرٌ مُطَهِّرٌ مَكْرُوهٌ اسْتِعْمَالُهُ (الْمَاءُ الْمُشَمَّسُ)، ٣. طَاهِرٌ غَيْرُ مُطَهِّرٍ (الْمُسْتَعْمَلُ وَالْمُتَغَيِّرُ)، ٤. مَاءٌ نَجِسٌ (الْمُتَنَجِّسُ).",
+      "translation": "Tanya: Air terbagi menjadi berapa macam jika ditinjau dari segi penggunaannya? Jawab: Air terbagi menjadi empat macam: 1. Air suci lagi menyucikan yang tidak makruh digunakan (air mutlak), 2. Air suci lagi menyucikan namun makruh digunakan (air musyammas/yang dipanaskan matahari), 3. Air suci tetapi tidak menyucikan (air musta'mal atau air yang mengalami perubahan sifat), 4. Air najis (air yang terkena najis)."
+    },
+    {
+      "title": "Pengertian Najis",
+      "titleArabic": "تَعْرِيفُ النَّجَاسَةِ",
+      "arabic": "س: مَا هِيَ النَّجَاسَةُ؟ ج: النَّجَاسَةُ هِيَ كُلُّ مُسْتَقْذَرٍ يَمْنَعُ صِحَّةَ الصَّلَاةِ حَيْثُ لَا مُرَخِّصَ.",
+      "translation": "Tanya: Apakah yang dimaksud dengan najis? Jawab: Najis adalah segala benda kotor yang dapat menghalangi keabsahan shalat selama tidak ada rukhshah (keringanan syari'at)."
+    },
+    {
+      "title": "Macam-Macam Najis",
+      "titleArabic": "أَقْسَامُ النَّجَاسَاتِ",
+      "arabic": "س: كَمْ أَقْسَامُ النَّجَاسَاتِ؟ ج: أَقْسَامُ النَّجَاسَاتِ ثَلَاثَةٌ: ١. مُخَفَّفَةٌ (بَوْلُ الصَّبِيِّ الَّذِي لَمْ يَطْعَمْ غَيْرَ اللَّبَنِ)، ٢. مُغَلَّظَةٌ (نَجَاسَةُ الْكَلْبِ وَالْخِنْزِيرِ)، ٣. مُتَوَسِّطَةٌ (بَاقِي النَّجَاسَاتِ كَالْبَوْلِ وَالْغَائِطِ وَالدَّمِ).",
+      "translation": "Tanya: Ada berapakah pembagian najis? Jawab: Pembagian najis ada tiga: 1. Mukhaffafah/najis ringan (air kencing bayi laki-laki yang belum mengonsumsi makanan selain air susu ibu), 2. Mughalladhah/najis berat (najis anjing dan babi), 3. Mutawassithah/najis sedang (najis-najis lainnya seperti air pipis dewasa, kotoran, dan darah)."
+    },
+    {
+      "title": "Cara Menyucikan Najis",
+      "titleArabic": "كَيْفِيَّةُ تَطْهِيرِ النَّجَاسَةِ",
+      "arabic": "س: كَيْفَ تُطَهَّرُ هَذِهِ النَّجَاسَاتُ؟ ج: تُطَهَّرُ الْمُخَفَّفَةُ بِرَشِّ الْمَاءِ عَلَيْهَا مَعَ الْجَفَافِ. وَالْمُغَلَّظَةُ بِغَسْلِهَا سَبْعَ مَرَّاتٍ إِحْدَاهُنَّ بِالتُّرَابِ. وَالْمُتَوَسِّطَةُ بِإِزَالَةِ عَيْنِهَا ثُمَّ إِجْرَاءِ الْمَاءِ عَلَيْهَا حَتَّى يَزُولَ الطَّعْمُ وَالرِّيحُ وَاللَّوْنُ.",
+      "translation": "Tanya: Bagaimanakah cara menyucikan najis-najis tersebut? Jawab: Najis mukhaffafah disucikan dengan memercikkan air ke atasnya secara merata setelah mengeringkan najisnya. Najis mughalladhah disucikan dengan membasuhnya sebanyak tujuh kali basuhan yang salah satunya dicampur dengan debu/tanah suci. Najis mutawassithah disucikan dengan menghilangkan wujud fisiknya terlebih dahulu, kemudian mengalirkan air ke tempat tersebut hingga rasa, bau, dan warnanya hilang."
+    },
+    {
+      "title": "Istinja",
+      "titleArabic": "الِاسْتِنْجَاءُ",
+      "arabic": "س: مَا هُوَ الِاسْتِنْجَاءُ وَبِمَاذَا يَكُونُ؟ ج: الِاسْتِنْجَاءُ هُوَ إِزَالَةُ مَا خَرَجَ مِنَ السَّبِيلَيْنِ. وَيَكُونُ بِالْمَاءِ أَوْ بِثَلَاثَةِ أَحْجَارٍ طَاهِرَةٍ قَالِعَةٍ لِلنَّجَاسَةِ.",
+      "translation": "Tanya: Apakah istinja itu dan menggunakan apa pelaksanaannya? Jawab: Istinja adalah membersihkan sisa kotoran yang keluar dari salah satu dari dua jalan (lubang depan atau belakang). Istinja dapat dilakukan dengan air mutlak atau dengan tiga buah batu yang suci lagi dapat mengikis najis."
+    },
+    {
+      "title": "Adab Buang Air",
+      "titleArabic": "آدَابُ قَضَاءِ الحَاجَةِ",
+      "arabic": "س: مَا الَّذِي يَجِبُ عَلَى مَنْ يَقْضِي الْحَاجَةَ؟ ج: يَجِبُ عَلَيْهِ أَنْ لَا يَسْتَقْبِلَ الْقِبْلَةَ وَلَا يَسْتَدْبِرَهَا فِي الْفَضَاءِ، وَأَنْ لَا يَبُولَ فِي الْمَاءِ الرَّاكِدِ، وَلَا تَحْتَ الشَّجَرَةِ الْمُثْمِرَةِ، وَلَا فِي الطَّرِيقِ، وَلَا فِي الظِّلِّ.",
+      "translation": "Tanya: Apa sajakah hal yang wajib atau patut dijaga bagi orang yang sedang buang air? Jawab: Wajib baginya untuk tidak menghadap kiblat dan tidak membelakanginya saat buang air di tempat terbuka (tanpa penghalang), tidak kencing di air yang tenang (menggenang), tidak di bawah pohon yang sedang berbuah, tidak di jalanan umum, dan tidak di tempat orang berteduh."
+    },
+    {
+      "title": "Wudhu",
+      "titleArabic": "الوُضُوءُ",
+      "arabic": "س: مَا هُوَ الْوُضُوءُ؟ ج: الْوُضُوءُ هُوَ اسْتِعْمَالُ مَاءٍ طَهُورٍ فِي أَعْضَاءٍ مَخْصُوصَةٍ مُفْتَتَحًا بِنِيَّةٍ.",
+      "translation": "Tanya: Apakah wudhu itu? Jawab: Wudhu adalah penggunaan air yang suci lagi menyucikan pada anggota-anggota tubuh tertentu yang diawali dengan niat."
+    },
+    {
+      "title": "Fardhu Wudhu",
+      "titleArabic": "فُرُوضُ الوُضُوءِ",
+      "arabic": "س: كَمْ فُرُوضُ الْوُضُوءِ؟ ج: فُرُوضُ الْوُضُوءِ سِتَّةٌ: ١. النِّيَّةُ عِنْدَ غَسْلِ الْوَجْهِ، ٢. غَسْلُ الْوَجْهِ، ٣. غَسْلُ الْيَدَيْنِ مَعَ الْمِرْفَقَيْنِ، ٤. مَسْحُ شَيْءٍ مِنَ الرَّأْسِ، ٥. غَسْلُ الرِّجْلَيْنِ مَعَ الْكَعْبَيْنِ، ٦. التَّرْتِيبُ عَلَى مَا ذَكَرْنَاهُ.",
+      "translation": "Tanya: Ada berapakah fardhu (rukun) wudhu? Jawab: Fardhu wudhu ada enam perkara: 1. Niat bersamaan dengan saat membasuh wajah, 2. Membasuh seluruh wajah, 3. Membasuh kedua belah tangan hingga siku-siku, 4. Menyapu sebagian kecil dari kepala (kulit atau rambut), 5. Membasuh kedua kaki hingga mata kaki, 6. Tertib (berurutan) sesuai dengan urutan yang telah disebutkan."
+    },
+    {
+      "title": "Sunnah-Sunnah Wudhu",
+      "titleArabic": "سُنَنُ الوُضُوءِ",
+      "arabic": "س: كَمْ سُنَنُ الْوُضُوءِ؟ ج: سُنَنُ الْوُضُوءِ كَثِيرَةٌ، مِنْهَا: التَّسْمِيَةُ فِي أَوَّلِهِ، وَغَسْلُ الْكَفَّيْنِ قَبْلَ إِدْخَالِهِمَا الْإِنَاءَ، وَالْمَضْمَضَةُ، وَالِاسْتِنْشَاقُ، وَتَثْلِيثُ الْغَسْلِ، وَتَقْدِيمُ الْيُمْنَى عَلَى الْيُسْرَى.",
+      "translation": "Tanya: Ada berapakah sunnah-sunnah wudhu? Jawab: Sunnah wudhu sangat banyak, di antaranya: Membaca basmalah di awal wudhu, membasuh kedua telapak tangan sebelum memasukkannya ke wadah air, berkumur-kumur, menghirup air ke hidung, mengulangi setiap basuhan sebanyak tiga kali, dan mendahulukan anggota bagian kanan atas kiri."
+    },
+    {
+      "title": "Pembatal-Pembatal Wudhu",
+      "titleArabic": "نَوَاقِضُ الوُضُوءِ",
+      "arabic": "س: كَمْ الَّذِي يُبْطِلُ الْوُضُوءَ؟ ج: يَبْطُلُ الْوُضُوءُ بِأَرْبَعَةِ أَشْيَاءَ: ١. الْخَارِجُ مِنْ أَحَدِ السَّبِيلَيْنِ، ٢. زَوَالُ الْعَقْلِ بِنَوْمٍ أَوْ غَيْرِهِ إِلَّا نَوْمَ مُمَكِّنٍ مَقْعَدَهُ مِنَ الْأَرْضِ، ٣. لَمْسُ بَشَرَةِ الرَّجُلِ وَالْمَرْأَةِ الْأَجْنَبِيَّيْنِ مِنْ غَيْرِ حَائِلٍ، ٤. مَسُّ قُبُلِ الْآدَمِيِّ أَوْ حَلْقَةِ دُبُرِهِ بِبَطْنِ الْكَفِّ.",
+      "translation": "Tanya: Ada berapakah perkara yang membatalkan wudhu? Jawab: Wudhu batal karena empat perkara: 1. Keluarnya sesuatu dari salah satu lubang bawah (depan/belakang), 2. Hilangnya kesadaran akal disebabkan tidur atau lainnya, kecuali tidurnya orang yang menetapkan pantatnya secara rapat di atas lantai, 3. Bersentuhan kulit antara laki-laki dan perempuan yang bukan mahram tanpa adanya penghalang, 4. Menyentuh kemaluan manusia atau lingkaran dubur dengan bagian dalam telapak tangan."
+    },
+    {
+      "title": "Mandi Wajib (Al-Ghuslu)",
+      "titleArabic": "الغُسْلُ",
+      "arabic": "س: مَا هُوَ الْغُسْلُ وَمَا مُوجِبَاتُهُ؟ ج: الْغُسْلُ هُوَ سَيَلَانُ الْمَاءِ عَلَى جَمِيعِ الْبَدَنِ بِنِيَّةٍ مَخْصُوصَةٍ. وَمُوجِبَاتُهُ سِتَّةٌ: ثَلَاثَةٌ تَشْتَرِكُ فِيهَا الرِّجَالُ وَالنِّسَاءُ وَهِيَ (الْتِقَاءُ الْخِتَانَيْنِ، وَإِنْزَالُ الْمَنِيِّ، وَالْمَوْتُ)، وَثَلَاثَةٌ تَخْتَصُّ بِهَا النِّسَاءُ وَهِيَ (الْحَيْضُ، وَالنِّفَاسُ، وَالْوِلَادَةُ).",
+      "translation": "Tanya: Apakah mandi wajib itu dan apa saja penyebabnya? Jawab: Mandi wajib adalah mengalirkan air ke seluruh tubuh disertai niat khusus. Penyebabnya ada enam perkara: tiga perkara dialami bersama oleh laki-laki dan perempuan yaitu (bersetubuh, keluarnya air mani, dan wafat), serta tiga perkara khusus dialami perempuan yaitu (haid, nifas, dan melahirkan)."
+    },
+    {
+      "title": "Fardhu Mandi",
+      "titleArabic": "فُرُوضُ الغُسْلِ",
+      "arabic": "س: كَمْ فُرُوضُ الْغُسْلِ؟ ج: فُرُوضُ الْغُسْلِ اثْنَانِ: ١. النِّيَّةُ عِنْدَ أَوَّلِ غَسْلِ عُضْوٍ مِنَ الْبَدَنِ، ٢. تَعْمِيمُ الْبَدَنِ بِالْمَاءِ شَعْرًا وَبَشَرَةً.",
+      "translation": "Tanya: Ada berapakah fardhu mandi wajib? Jawab: Fardhu mandi ada dua perkara: 1. Niat bersamaan dengan basuhan pertama anggota tubuh, 2. Meratakan air ke seluruh bagian tubuh baik kulit maupun rambut hingga pangkalnya."
+    },
+    {
+      "title": "Sunnah Mandi Wajib",
+      "titleArabic": "سُنَنُ الغُسْلِ",
+      "arabic": "س: مَا هِيَ سُنَنُ الْغُسْلِ؟ ج: سُنَنُهُ كَثِيرَةٌ، مِنْهَا: التَّسْمِيَةُ، وَالْوُضُوءُ كَامِلًا قَبْلَهُ، وَإِمْرَارُ الْيَدِ عَلَى الْجَسَدِ (الدَّلْكُ)، وَتَقْدِيمُ الشِّقِّ الْأَيْمَنِ عَلَى الْأَيْسَرِ.",
+      "translation": "Tanya: Apa sajakah sunnah-sunnah dalam mandi wajib? Jawab: Sunnah mandi sangat banyak, di antaranya: Membaca basmalah, berwudhu dengan sempurna sebelum mulai mandi, menggosok kulit dengan tangan (dalk), dan mendahulukan tubuh bagian kanan atas bagian kiri."
+    },
+    {
+      "title": "Tayammum",
+      "titleArabic": "التَّيَمُّمُ",
+      "arabic": "س: مَا هُوَ التَّيَمُّمُ؟ ج: التَّيَمُّمُ هُوَ إِيصَالُ تُرَابٍ طَهُورٍ لِلْوَجْهِ وَالْيَدَيْنِ بِشَرَائِطَ مَخْصُوصَةٍ بَدَلًا عَنِ الْوُضُوءِ أَوِ الْغُسْلِ.",
+      "translation": "Tanya: Apakah tayammum itu? Jawab: Tayammum adalah menyampaikan debu yang suci ke wajah dan kedua belah tangan dengan syarat-syarat tertentu sebagai pengganti wudhu atau mandi wajib."
+    },
+    {
+      "title": "Syarat Tayammum",
+      "titleArabic": "شُرُوطُ التَّيَمُّمُ",
+      "arabic": "س: كَمْ شُرُوطُ التَّيَمُّمِ؟ ج: شُرُوطُهُ خَمْسَةٌ: ١. وُجُودُ الْعُذْرِ بِسَفَرٍ أَوْ مَرَضٍ، ٢. دُخُولُ وَقْتِ الصَّلَاةِ، ٣. طَلَبُ الْمَاءِ بَعْدَ دُخُولِ الْوَقْتِ، ٤. تَعَذُّرُ اسْتِعْمَالِ الْمَاءِ، ٥. التُّرَابُ الطَّاهِرُ الَّذِي لَهُ غُبَارٌ.",
+      "translation": "Tanya: Ada berapakah syarat-syarat diperbolehkannya tayammum? Jawab: Syarat tayammum ada lima: 1. Adanya udzur (halangan) seperti dalam bepergian atau karena sakit, 2. Sudah masuk waktu shalat, 3. Mengupayakan mencari air terlebih dahulu setelah masuknya waktu shalat, 4. Adanya kendala menggunakan air, 5. Menggunakan tanah/debu suci yang berdebu."
+    },
+    {
+      "title": "Fardhu Tayammum",
+      "titleArabic": "فُرُوضُ التَّيَمُّمِ",
+      "arabic": "س: كَمْ فُرُوضُ التَّيَمُّمِ؟ ج: فُرُوضُ التَّيَمُّمِ أَرْبَعَةٌ: ١. النِّيَّةُ، ٢. مَسْحُ الْوَجْهِ، ٣. مَسْحُ الْيَدَيْنِ مَعَ الْمِرْفَقَيْنِ، ٤. التَّرْتِيبُ.",
+      "translation": "Tanya: Ada berapakah fardhu (rukun) tayammum? Jawab: Fardhu tayammum ada empat perkara: 1. Niat, 2. Mengusap wajah dengan debu, 3. Mengusap kedua belah tangan hingga ke siku, 4. Tertib (berurutan)."
+    },
+    {
+      "title": "Pembatal Tayammum",
+      "titleArabic": "مُبْطِلَاتُ التَّيَمُّمِ",
+      "arabic": "س: مَا الَّذِي يُبْطِلُ التَّيَمُّمَ؟ ج: يُبْطِلُ التَّيَمُّمَ ثَلَاثَةُ أَشْيَاءَ: ١. كُلُّ مَا أَبْطَلَ الْوُضُوءَ، ٢. رُؤْيَةُ الْمَاءِ فِي غَيْرِ وَقْتِ الصَّلَاةِ لِمَنْ فَقَدَهُ، ٣. الرِّدَّةُ.",
+      "translation": "Tanya: Apa sajakah perkara yang membatalkan tayammum? Jawab: Tayammum batal karena tiga perkara: 1. Segala hal yang membatalkan wudhu, 2. Melihat atau menemukan air di luar waktu shalat bagi orang yang bertayammum karena ketiadaan air, 3. Murtad (keluar dari Islam)."
+    },
+    {
+      "title": "Shalat dan Kedudukannya",
+      "titleArabic": "الصَّلَاةُ وَمَكَانَتُهَا",
+      "arabic": "س: مَا هِيَ الصَّلَاةُ شَرْعًا؟ ج: الصَّلَاةُ هِيَ أَقْوَالٌ وَأَفْعَالٌ مَخْصُوصَةٌ مُفْتَتَحَةٌ بِالتَّكْبِيرِ مُخْتَتَمَةٌ بِالتَّسْلِيمِ بِشَرَائِطَ مَخْصُوصَةٍ.",
+      "translation": "Tanya: Apakah definisi shalat menurut syariat? Jawab: Shalat adalah ucapan-ucapan dan gerakan-gerakan tertentu yang diawali dengan takbir (takbiratul ihram) dan diakhiri dengan salam, disertai syarat-syarat yang khusus."
+    },
+    {
+      "title": "Waktu-Waktu Shalat Fardhu",
+      "titleArabic": "أَوْقَاتُ الصَّلَاةِ",
+      "arabic": "س: كَمْ الصَّلَوَاتُ الْمَفْرُوضَةُ فِي الْيَوْمِ وَاللَّيْلَةِ وَمَا أَوْقَاتُهَا؟ ج: خَمْسُ صَلَوَاتٍ: ١. الظُّهْرُ (مِنْ زَوَالِ الشَّمْسِ إِلَى مَصِيرِ ظِلِّ الشَّيْءِ مِثْلَهُ)، ٢. الْعَصْرُ (مِنْ زِيَادَةِ الظِّلِّ عَنِ الْمِثْلِ إِلَى غُرُوبِ الشَّمْسِ)، ٣. الْمَغْرِبُ (مِنْ غُرُوبِ الشَّمْسِ إِلَى غَيْبُوبَةِ الشَّفَقِ الْأَحْمَرِ)، ٤. الْعِشَاءُ (مِنْ غَيْبُوبَةِ الشَّفَقِ إِلَى طُلُوعِ الْفَجْرِ الصَّادِقِ)، ٥. الصُّبْحُ (مِنْ طُلُوعِ الْفَجْرِ الصَّادِقِ إِلَى طُلُوعِ الشَّمْسِ).",
+      "translation": "Tanya: Ada berapakah shalat fardhu dalam sehari semalam dan kapan saja waktunya? Jawab: Shalat fardhu ada lima waktu: 1. Zhuhur (dari tergelincirnya matahari hingga panjang bayangan benda sama dengan tinggi aslinya), 2. Ashar (dari bertambahnya panjang bayangan melebihi tinggi benda hingga terbenamnya matahari), 3. Maghrib (dari terbenamnya matahari hingga hilangnya mega merah di ufuk), 4. Isya (dari hilangnya mega merah hingga terbit fajar shadiq), 5. Shubuh (dari terbit fajar shadiq hingga terbitnya matahari)."
+    },
+    {
+      "title": "Syarat Wajib Shalat",
+      "titleArabic": "شُرُوطُ وُجُوبِ الصَّلَاةِ",
+      "arabic": "س: عَلَى مَنْ تَجِبُ الصَّلَاةُ؟ ج: تَجِبُ الصَّلَاةُ عَلَى كُلِّ مُسْلِمٍ، بَالِغٍ، عَاقِلٍ، طَاهِرٍ مِنَ الْحَيْضِ وَالنِّفَاسِ.",
+      "translation": "Tanya: Kepada siapakah shalat diwajibkan? Jawab: Shalat diwajibkan atas setiap orang yang beragama Islam, telah baligh, berakal sehat, serta suci dari haid dan nifas."
+    },
+    {
+      "title": "Syarat Sah Shalat",
+      "titleArabic": "شُرُوطُ صِحَّةِ الصَّلَاةِ",
+      "arabic": "س: كَمْ شُرُوطُ صِحَّةِ الصَّلَاةِ قَبْلَ الدُّخُولِ فِيهَا؟ ج: شُرُوطُ صِحَّتِهَا خَمْسَةٌ: ١. طَهَارَةُ الْأَعْضَاءِ مِنَ الْحَدَثِ وَالنَّجَسِ، ٢. سَتْرُ الْعَوْرَةِ بِلِبَاسٍ طَاهِرٍ، ٣. الْوُقُوفُ عَلَى مَكَانٍ طَاهِرٍ، ٤. الْعِلْمُ بِدُخُولِ الْوَقْتِ، ٥. اسْتِقْبَالُ الْقِبْلَةِ.",
+      "translation": "Tanya: Ada berapakah syarat sah shalat sebelum memulai shalat? Jawab: Syarat sahnya ada lima perkara: 1. Suci seluruh anggota tubuh dari hadats dan najis, 2. Menutup aurat dengan pakaian yang suci, 3. Berdiri/berada di atas tempat yang suci, 4. Yakin atau tahu bahwa waktu shalat telah masuk, 5. Menghadap ke arah Kiblat."
+    },
+    {
+      "title": "Batasan Aurat",
+      "titleArabic": "حُدُودُ العَوْرَةِ",
+      "arabic": "س: مَا عَوْرَةُ الرَّجُلِ وَالْمَرْأَةِ فِي الصَّلَاةِ؟ ج: عَوْرَةُ الرَّجُلِ مَا بَيْنَ السُّرَّةِ وَالرُّكْبَةِ. وَعَوْرَةُ الْمَرْأَةِ جَمِيعُ بَدَنِهَا إِلَّا الْوَجْهَ وَالْكَفَّيْنِ.",
+      "translation": "Tanya: Bagaimanakah batasan aurat bagi laki-laki dan perempuan di dalam shalat? Jawab: Aurat laki-laki adalah bagian tubuh antara pusar hingga lutut. Sedangkan aurat perempuan adalah seluruh anggota tubuhnya kecuali wajah dan kedua telapak tangan."
+    },
+    {
+      "title": "Rukun-Rukun Shalat",
+      "titleArabic": "أَرْكَانُ الصَّلَاةِ",
+      "arabic": "س: كَمْ أَرْكَانُ الصَّلَاةِ؟ ج: أَرْكَانُ الصَّلَاةِ سَبْعَةَ عَشَرَ رُكْنًا: ١. النِّيَّةُ، ٢. تَكْبِيرَةُ الْإِحْرَامِ، ٣. الْقِيَامُ مَعَ الْقُدْرَةِ، ٤. قِرَاءَةُ الْفَاتِحَةِ، ٥. الرُّكُوعُ، ٦. الطُّمَأْنِينَةُ فِيهِ، ٧. الِاعْتِدَالُ، ٨. الطُّمَأْنِينَةُ فِيهِ، ٩. السُّجُودُ مَرَّتَيْنِ، ١٠. الطُّمَأْنِينَةُ فِيهِ، ١١. الْجُلُوسُ بَيْنَ السَّجْدَتَيْنِ، ١٢. الطُّمَأْنِينَةُ فِيهِ، ١٣. الْجُلُوسُ لِلتَّشَهُّدِ الْأَخِيرِ، ١٤. التَّشَهُّدُ الْأَخِيرُ، ١٥. الصَّلَاةُ عَلَى النَّبِيِّ فِيهِ، ١٦. التَّسْلِيمَةُ الْأُولَى، ١٧. التَّرْتِيبُ.",
+      "translation": "Tanya: Ada berapakah rukun-rukun di dalam shalat? Jawab: Rukun shalat ada tujuh belas: 1. Niat, 2. Takbiratul Ihram, 3. Berdiri bagi yang mampu, 4. Membaca surat Al-Fatihah, 5. Ruku', 6. Thuma'ninah (tenang sejenak) saat ruku', 7. I'tidal (bangkit dari ruku'), 8. Thuma'ninah saat i'tidal, 9. Sujud sebanyak dua kali, 10. Thuma'ninah saat sujud, 11. Duduk di antara dua sujud, 12. Thuma'ninah saat duduk di antara dua sujud, 13. Duduk untuk tasyahhud akhir, 14. Membaca tasyahhud akhir, 15. Membaca shalawat untuk Nabi pada tasyahhud akhir, 16. Mengucapkan salam yang pertama, 17. Tertib."
+    },
+    {
+      "title": "Niat Shalat",
+      "titleArabic": "الخُصُوصُ فِي النِّيَّةِ",
+      "arabic": "س: كَيْفَ تَكُونُ النِّيَّةُ فِي الصَّلَاةِ؟ ج: يَجِبُ فِيهَا قَصْدُ الْفِعْلِ (أُصَلِّي)، وَالتَّعْيِينُ (الظُّهْرَ مَثَلًا)، وَالْفَرْضِيَّةُ إِنْ كَانَتْ فَرْضًا.",
+      "translation": "Tanya: Bagaimanakah keharusan niat di dalam shalat? Jawab: Di dalam niat wajib memuat tiga perkara: menyengaja melakukan shalat (lafazh: ushalli), menentukan jenis shalat (seperti: Zhuhur), dan menyebutkan kefardhuannya jika shalat tersebut bersifat wajib."
+    },
+    {
+      "title": "Membaca Surat Al-Fatihah",
+      "titleArabic": "قِرَاءَةُ الفَاتِحَةِ",
+      "arabic": "س: مَا الَّذِي يَجِبُ فِي قِرَاءَةِ الْفَاتِحَةِ؟ ج: يَجِبُ إِخْرَاجُ حُرُوفِهَا مِنْ مَخَارِجِهَا، وَرِعَايَةُ تَشْدِيدَاتِهَا، وَعَدَمُ اللَّحْنِ الْمُخِلِّ بِالْمَعْنَى، وَقِرَاءَتُهَا كَامِلَةً بِمَا فِيهَا الْبَسْمَلَةُ.",
+      "translation": "Tanya: Apa sajakah ketentuan wajib saat membaca surat Al-Fatihah? Jawab: Wajib melafazkan huruf-hurufnya secara tepat dari makhrajnya, menjaga tasydid-tasydidnya, tidak melakukan kesalahan baca yang merusak makna, serta membacanya utuh termasuk ayat basmalah."
+    },
+    {
+      "title": "Sujud yang Sah",
+      "titleArabic": "السُّجُودُ وَأَعْضَاؤُهُ",
+      "arabic": "س: عَلَى كَمْ عُضْوٍ يَكُونُ السُّجُودُ؟ ج: يَكُونُ السُّجُودُ عَلَى سَبْعَةِ أَعْضَاءٍ: الْجَبْهَةِ مَكْشُوفَةً، وَبُطُونِ كَفَّيْ الْيَدَيْنِ، وَالرُّكْبَتَيْنِ، وَبُطُونِ أَصَابِعِ الرِّجْلَيْنِ.",
+      "translation": "Tanya: Bersandarkan pada berapa anggota tubuh sujud dilakukan? Jawab: Sujud wajib bertumpu pada tujuh anggota badan: Dahi dalam keadaan terbuka langsung menyentuh tempat sujud, bagian dalam kedua telapak tangan, kedua lutut, dan bagian dalam jari-jari kedua kaki."
+    },
+    {
+      "title": "Sunnah-Sunnah Ab'ad",
+      "titleArabic": "أَبْعَاضُ الصَّلَاةِ",
+      "arabic": "س: مَا هِيَ أَبْعَاضُ الصَّلَاةِ الَّتِي تُجْبَرُ بِسُجُودِ السَّهْوِ؟ ج: هِيَ أَمْرَانِ: ١. التَّشَهُّدُ الْأَوَّلُ وَقُعُودُهُ، ٢. الْقُنُوتُ فِي الصُّبْحِ وَفِي وِتْرِ النِّصْفِ الثَّانِي مِنْ رَمَضَانَ وَقِيَامُهُ.",
+      "translation": "Tanya: Apakah sunnah ab'ad shalat yang apabila ditinggalkan wajib diganti dengan sujud sahwi? Jawab: Sunnah ab'ad ada dua perkara utama: 1. Tasyahhud awal serta posisi duduknya, 2. Membaca doa Qunut pada shalat Shubuh dan shalat Witir pada paruh kedua bulan Ramadhan serta posisi berdirinya."
+    },
+    {
+      "title": "Sunnah-Sunnah Hai'at",
+      "titleArabic": "هَيْئَاتُ الصَّلَاةِ",
+      "arabic": "س: مَا هِيَ هَيْئَاتُ الصَّلَاةِ الَّتِي لَا تُجْبَرُ بِالسُّجُودِ؟ ج: هِيَ كَثِيرَةٌ، مِنْهَا: رَفْعُ الْيَدَيْنِ عِنْدَ التَّكْبِيرِ، وَوَضْعُ الْيَمِينِ عَلَى الشِّمَالِ، وَدُعَاءُ الِافْتِتَاحِ، وَالِاسْتِعَاذَةُ، وَقِرَاءَةُ السُّورَةِ بَعْدَ الْفَاتِحَةِ، وَالتَّكْبِيرَاتُ عِنْدَ الْخَفْضِ وَالرَّفْعِ.",
+      "translation": "Tanya: Apakah sunnah hai'at shalat yang tidak perlu diganti dengan sujud sahwi bila ditinggalkan? Jawab: Sunnah hai'at sangat banyak, di antaranya: Mengangkat kedua tangan saat takbir, meletakkan tangan kanan di atas tangan kiri, membaca doa istiftah (افتتاح), membaca ta'awwudz, membaca surat Al-Qur'an setelah Al-Fatihah, dan melafalkan takbir intiqal ketika naik-turun gerakan."
+    },
+    {
+      "title": "Pembatal-Pembatal Shalat",
+      "titleArabic": "مُبْطِلَاتُ الصَّلَاةِ",
+      "arabic": "س: كَمْ الَّذِي يُبْطِلُ الصَّلَاةَ؟ ج: تُبْطِلُ الصَّلَاةُ بِأَحَدَ عَشَرَ شَيْئًا: ١. الْكَلَامُ الْعَمْدُ، ٢. الْعَمَلُ الْكَثِيرُ الْمُتَوَالِي (كَثَلَاثِ حَرَكَاتٍ)، ٣. الْحَدَثُ، ٤. حُدُوثُ النَّجَاسَةِ، ٥. انْكِشَافُ الْعَوْرَةِ عَمْدًا، ٦. تَغْيِيرُ النِّيَّةِ، ٧. اسْتِدْبَارُ الْقِبْلَةِ، ٨. الْأَكْلُ وَالشُّرْبُ عَمْدًا، ٩. الْقَهْقَهَةُ، ١٠. الرِّدَّةُ، ١١. زِيَادَةُ رُكْنٍ فِعْلِيٍّ عَمْدًا.",
+      "translation": "Tanya: Ada berapakah perkara yang membatalkan ibadah shalat? Jawab: Shalat batal disebabkan sebelas perkara: 1. Berbicara dengan sengaja, 2. Melakukan banyak gerakan beruntun (sebanyak tiga kali gerakan atau lebih), 3. Hadats, 4. Terkena najis yang tidak segera dibuang, 5. Terbukanya aurat dengan sengaja, 6. Berubahnya niat, 7. Membelakangi kiblat, 8. Makan atau minum dengan sengaja, 9. Tertawa terbahak-bahak, 10. Murtad, 11. Menambah rukun fi'li (gerakan) secara sengaja."
+    },
+    {
+      "title": "Hal-Hal yang Makruh dalam Shalat",
+      "titleArabic": "مَكْرُوهَاتُ الصَّلَاةِ",
+      "arabic": "س: مَا الَّذِي يُكْرَهُ فِي الصَّلَاةِ؟ ج: يُكْرَهُ فِيهَا الْاِلْتِفَاتُ بِالْوَجْهِ بِلَا حَاجَةٍ، وَالنَّظَرُ إِلَى السَّمَاءِ، وَكَفُّ الثِّيَابِ أَوِ الشَّعْرِ، وَالصَّلَاةُ بِحَضْرَةِ الطَّعَامِ أَوْ دَافِعًا لِلْأَخْبَثَيْنِ.",
+      "translation": "Tanya: Hal apa sajakah yang makruh dilakukan saat shalat? Jawab: Dimakruhkan memalingkan wajah tanpa ada keperluan darurat, menengadah memandang langit, melipat pakaian atau rambut, serta shalat saat hidangan makanan telah siap atau saat sedang menahan buang air kecil maupun besar (ikhbatsain)."
+    },
+    {
+      "title": "Shalat Berjamaah",
+      "titleArabic": "صَلَاةُ الجَمَاعَةِ",
+      "arabic": "س: مَا حُكْمُ صَلَاةِ الْجَمَاعَةِ؟ ج: صَلَاةُ الْجَمَاعَةِ فِي الْمَكْتُوبَاتِ سُنَّةٌ مُؤَكَّدَةٌ لِلرِّجَالِ (وَقِيلَ فَرْضُ كِفَايَةٍ)، وَتَفْضُلُ صَلَاةَ الْمُنْفَرِدِ بِسَبْعٍ وَعِشْرِينَ دَرَجَةً.",
+      "translation": "Tanya: Apakah hukum melaksanakan shalat secara berjamaah? Jawab: Shalat berjamaah untuk shalat fardhu lima waktu hukumnya adalah sunnah muakkad bagi laki-laki (dan menurut pendapat yang kuat adalah fardhu kifayah), yang mana pahalanya melebihi shalat sendirian sebanyak dua puluh tujuh derajat."
+    },
+    {
+      "title": "Ketentuan Makmum Masbuq dan Muwafiq",
+      "titleArabic": "المَسْبُوقُ وَالمُوَافِقُ",
+      "arabic": "س: مَنِ الْمُوَافِقُ وَمَنِ الْمَسْبُوقُ؟ ج: الْمُوَافِقُ هُوَ مَنْ أَدْرَكَ مَعَ الْإِمَامِ زَمَنًا يَسَعُ قِرَاءَةَ الْفَاتِحَةِ. وَالْمَسْبُوقُ هُوَ مَنْ لَمْ يُدْرِكْ مَعَهُ ذَلِكَ، فَيَقْرَأُ مَا تَيَسَّرَ ثُمَّ يَرْكَعُ مَعَ الْإِمَامِ وَيَحْسِبُ رَكْعَتَهُ إِذَا أَدْرَكَهُ فِي الرُّكُوعِ.",
+      "translation": "Tanya: Siapakah yang disebut makmum muwafiq dan makmum masbuq? Jawab: Makmum muwafiq adalah makmum yang mendapati waktu bersama imam yang cukup untuk menyelesaikan bacaan Al-Fatihah. Sedangkan makmum masbuq adalah makmum yang tidak mendapati waktu yang cukup untuk itu, maka ia membaca Al-Fatihah sebisanya lalu ikut ruku' bersama imam, dan rakaatnya terhitung sah bila sempat ruku' yang thuma'ninah bersama imam."
+    },
+    {
+      "title": "Shalat Jamak dan Qashar (Shalat Musafir)",
+      "titleArabic": "صَلَاةُ المُسَافِرِ",
+      "arabic": "س: هَلْ يَجُوزُ لِلْمُسَافِرِ قَصْرُ الصَّلَاةِ وَجَمْعُهَا؟ ج: نَعَمْ، يَجُوزُ لَهُ قَصْرُ الرُّبَاعِيَّةِ إِلَى رَكْعَتَيْنِ، وَجَمْعُ الظُّهْرِ مَعَ الْعَصْرِ، وَالْمَغْرِبِ مَعَ الْعِشَاءِ تَقْدِيمًا أَوْ تَأْخِيرًا بِشُرُوطٍ مَعْلُومَةٍ.",
+      "translation": "Tanya: Bolehkah seorang musafir (bepergian) menjamak dan mengqashar shalatnya? Jawab: Ya, diperbolehkan mengqashar (meringkas) shalat yang empat rakaat menjadi dua rakaat, serta menjamak (menggabung) Zhuhur dengan Ashar, serta Maghrib dengan Isya, baik dengan cara jamak taqdim maupun jamak ta'khir berdasarkan syarat-syarat yang telah ditentukan."
+    },
+    {
+      "title": "Shalat Jum'at",
+      "titleArabic": "صَلَاةُ الجُمُعَةِ",
+      "arabic": "س: مَا حُكْمُ صَلَاةِ الْجُمُعَةِ؟ ج: صَلَاةُ الْجُمُعَةِ فَرْضُ عَيْنٍ عَلَى كُلِّ مَنْ تَوَفَّرَتْ فِيهِ الشُّرُوطُ، وَهِيَ رَكْعَتَانِ فِي وَقْتِ الظُّهْرِ بَعْدَ خُطْبَتَيْنِ.",
+      "translation": "Tanya: Apakah hukum melaksanakan shalat Jum'at? Jawab: Shalat Jum'at hukumnya fardhu 'ain (kewajiban individu) bagi setiap orang yang memenuhi kriterianya. Shalat Jum'at dikerjakan sebanyak dua rakaat di waktu Zhuhur setelah penyampaian dua khutbah."
+    },
+    {
+      "title": "Syarat Wajib Shalat Jum'at",
+      "titleArabic": "شُرُوطُ وُجُوبِ الجُمُعَةِ",
+      "arabic": "س: عَلَى مَنْ تَجِبُ الْجُمُعَةُ؟ ج: تَجِبُ الْجُمُعَةُ عَلَى سَبْعَةٍ: ١. الْإِسْلَامُ، ٢. الْبُلُوغُ، ٣. الْعَقْلُ، ٤. الْحُرِّيَّةُ، ٥. الذُّكُورِيَّةُ، ٦. الصِّحَّةُ، ٧. الْإِقَامَةُ (الْاِسْتِيطَانُ).",
+      "translation": "Tanya: Kepada siapakah shalat Jum'at diwajibkan? Jawab: Shalat Jum'at wajib bagi individu yang memenuhi tujuh syarat: 1. Islam, 2. Baligh, 3. Berakal sehat, 4. Merdeka, 5. Laki-laki, 6. Sehat wal afiat, 7. Bermukim (bukan musafir)."
+    },
+    {
+      "title": "Syarat Sah Shalat Jum'at",
+      "titleArabic": "شُرُوطُ صِحَّةِ الجُمُعَةِ",
+      "arabic": "س: كَمْ شُرُوطُ صِحَّةِ الْجُمُعَةِ؟ ج: شُرُوطُ صِحَّتِهَا ثَلَاثَةٌ: ١. أَنْ تُقَامَ كُلُّهَا فِي وَقْتِ الظُّهْرِ، ٢. أَنْ تُقَامَ فِي خِطَّةِ الْبَلَدِ، ٣. أَنْ تُقَامَ جَمَاعَةً بِأَرْبَعِينَ أَحْرَارًا ذُكُورًا مُكَلَّفِينَ مُسْتَوْطِنِينَ.",
+      "translation": "Tanya: Ada berapakah syarat sah pelaksanaan shalat Jum'at? Jawab: Syarat sah shalat Jum'at ada tiga perkara: 1. Seluruh rangkaiannya dilaksanakan di waktu Zhuhur, 2. Dilaksanakan di dalam batas wilayah pemukiman, 3. Dilaksanakan secara berjamaah dengan jumlah minimal empat puluh orang jemaah yang merdeka, laki-laki, mukallaf, dan penduduk tetap."
+    },
+    {
+      "title": "Rukun Dua Khutbah",
+      "titleArabic": "أَرْكَانُ الخُطْبَتَيْنِ",
+      "arabic": "س: كَمْ أَرْكَانُ الْخُطْبَتَيْنِ؟ ج: أَرْكَانُ الْخُطْبَتَيْنِ خَمْسَةٌ: ١. حَمْدُ اللهِ فِيهِمَا، ٢. الصَّلَاةُ عَلَى النَّبِيِّ فِيهِمَا، ٣. الْوَصِيَّةُ بِالتَّقْوَى فِيهِمَا، ٤. قِرَاءَةُ آيَةٍ مِنَ الْقُرْآنِ فِي إِحْدَاهُمَا، ٥. الدُّعَاءُ لِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ فِي الْأَخِيرَةِ.",
+      "translation": "Tanya: Ada berapakah rukun dalam dua khutbah Jum'at? Jawab: Rukun dua khutbah ada lima: 1. Memuji Allah di kedua khutbah, 2. Membaca shalawat untuk Nabi di kedua khutbah, 3. Memberikan wasiat takwa di kedua khutbah, 4. Membaca satu ayat Al-Qur'an secara utuh di salah satu khutbah, 5. Mendoakan kaum mukminin dan mukminat di khutbah yang kedua."
+    },
+    {
+      "title": "Syarat Sah Dua Khutbah",
+      "titleArabic": "شُرُوطُ الخُطْبَتَيْنِ",
+      "arabic": "س: مَا شُرُوطُ الْخُطْبَتَيْنِ؟ ج: شُرُوطُهُمَا: الطَّهَارَةُ عَنِ الْحَدَثَيْنِ وَالنَّجَاسَةِ، وَسَتْرُ الْعَوْرَةِ، وَالْقِيَامُ مَعَ الْقُدْرَةِ، وَالْجُلُوسُ بَيْنَهُمَا، وَالْمُوَالَاةُ بَيْنَهُمَا وَبَيْنَ الصَّلَاةِ، وَأَنْ تَكُونَا بِالْعَرَبِيَّةِ.",
+      "translation": "Tanya: Apa sajakah syarat sah dua khutbah Jum'at? Jawab: Syaratnya adalah: Suci dari hadats besar/kecil serta najis, menutup aurat, khatib berdiri jika mampu, duduk di antara dua khutbah, berkesinambungan (muwalat) antara keduanya serta dengan shalat, dan rukun khutbah wajib disampaikan dalam bahasa Arab."
+    },
+    {
+      "title": "Shalat Dua Hari Raya (Idul Fitri dan Idul Adha)",
+      "titleArabic": "صَلَاةُ العِيدَيْنِ",
+      "arabic": "س: مَا حُكْمُ صَلَاةِ الْعِيدَيْنِ وَكَيْفَ تُصَلَّى؟ ج: هِيَ سُنَّةٌ مُؤَكَّدَةٌ، وَهِيَ رَكْعَتَانِ: يُكَبِّرُ فِي الْأُولَى سَبْعًا غَيْرَ تَكْبِيرَةِ الْإِحْرَامِ، وَفِي الثَّانِيَةِ خَمْسًا غَيْرَ تَكْبِيرَةِ الْقِيَامِ، ثُمَّ يَخْطُبُ بَعْدَهَا الْإِمَامُ خُطْبَتَيْنِ.",
+      "translation": "Tanya: Apakah hukum shalat dua hari raya dan bagaimanakah cara pengerjaannya? Jawab: Shalat Idul Fitri dan Idul Adha hukumnya sunnah muakkad. Dikerjakan dua rakaat: pada rakaat pertama takbir sebanyak tujuh kali selain takbiratul ihram, pada rakaat kedua takbir lima kali selain takbir bangkit, lalu sesudahnya imam menyampaikan dua khutbah."
+    },
+    {
+      "title": "Shalat Gerhana (Kusufain)",
+      "titleArabic": "صَلَاةُ الكُسُوفَيْنِ",
+      "arabic": "س: مَا هِيَ صَلَاةُ الْكُسُوفَيْنِ؟ ج: هِيَ صَلَاةُ كُسُوفِ الشَّمْسِ وَخُسُوفِ الْقَمَرِ، وَهِيَ سُنَّةٌ مُؤَكَّدَةٌ، تُصَلَّى رَكْعَتَيْنِ، فِي كُلِّ رَكْعَةٍ قِيَامَانِ وَقِرَاءَتَانِ وَرُكُوعَانِ وَسُجُودَانِ.",
+      "translation": "Tanya: Apakah shalat gerhana (kusufain) itu? Jawab: Shalat kusufain adalah shalat sunnah gerhana matahari dan gerhana bulan. Hukumnya sunnah muakkad, dikerjakan dua rakaat dengan rincian di tiap rakaatnya ada dua kali berdiri, dua kali membaca surat Al-Fatihah, dua kali ruku', dan dua kali sujud."
+    },
+    {
+      "title": "Shalat Istisqa' (Minta Hujan)",
+      "titleArabic": "صَلَاةُ الِاسْتِسْقَاءِ",
+      "arabic": "س: مَا هِيَ صَلَاةُ الِاسْتِسْقَاءِ؟ ج: هِيَ صَلَاةٌ لِطَلَبِ السُّقْيَا مِنَ اللهِ تَعَالَى عِنْدَ جَدْبِ الْأَرْضِ، وَهِيَ سُنَّةٌ، يُؤْمَرُ النَّاسُ قَبْلَهَا بِالتَّوْبَةِ وَالصَّدَقَةِ وَالْخُرُوجِ إِلَى الْمُصَلَّى بِثِيَابِ بِذْلَةٍ وَتَوَاضُعٍ.",
+      "translation": "Tanya: Apakah shalat Istisqa' itu? Jawab: Shalat istisqa' adalah shalat memohon diturunkannya hujan kepada Allah Ta'ala di kala terjadinya kemarau panjang yang tandus. Shalat ini hukumnya sunnah, dan umat Islam dianjurkan bertaubat, bersedekah, serta keluar menuju tanah lapang dengan pakaian kerja biasa yang menunjukkan rasa rendah diri."
+    },
+    {
+      "title": "Kewajiban Mengurus Jenazah",
+      "titleArabic": "حُقُوقُ المَيِّتِ",
+      "arabic": "س: مَا الَّذِي يَجِبُ عَلَى الْأَحْيَاءِ لِلْمَيِّتِ الْمُسْلِمِ؟ ج: يَجِبُ عَلَيْهِمْ عَلَى سَبِيلِ فَرْضِ الْكِفَايَةِ أَرْبَعَةُ أَشْيَاءَ: غُسْلُهُ، وَتَكْفِينُهُ، وَالصَّلَاةُ عَلَيْهِ، وَدَفْنُهُ.",
+      "translation": "Tanya: Apakah kewajiban kaum muslimin yang masih hidup terhadap jenazah muslim? Jawab: Hukumnya fardhu kifayah bagi yang hidup untuk menunaikan empat perkara atas jenazah: memandikan, mengkafani, menshalati, dan menguburkannya."
+    },
+    {
+      "title": "Tata Cara Shalat Jenazah",
+      "titleArabic": "صَلَاةُ الجَنَازَةِ",
+      "arabic": "س: كَمْ أَرْكَانُ صَلَاةِ الْجَنَازَةِ؟ ج: أَرْكَانُهَا سَبْعَةٌ: ١. النِّيَّةُ، ٢. أَرْبَعُ تَكْبِيرَاتٍ، ٣. الْقِيَامُ لِلْقَادِرِ، ٤. قِرَاءَةُ الْفَاتِحَةِ بَعْدَ التَّكْبِيرَةِ الْأُولَى، ٥. الصَّلَاةُ عَلَى النَّبِيِّ بَعْدَ الثَّانِيَةِ، ٦. الدُّعَاءُ لِلْمَيِّتِ بَعْدَ الثَّالِثَةِ، ٧. السَّلَامُ بَعْدَ الرَّابِعَةِ.",
+      "translation": "Tanya: Ada berapakah rukun dalam pelaksanaan shalat Jenazah? Jawab: Rukun shalat jenazah ada tujuh: 1. Niat, 2. Berdiri bagi yang mampu, 3. Melakukan empat kali takbir, 4. Membaca Al-Fatihah setelah takbir pertama, 5. Membaca shalawat Nabi setelah takbir kedua, 6. Mendoakan jenazah setelah takbir ketiga, 7. Mengucapkan salam setelah takbir keempat."
+    },
+    {
+      "title": "Zakat",
+      "titleArabic": "الزَّكَاةُ",
+      "arabic": "س: مَا هِيَ الزَّكَاةُ وَعَلَى مَنْ تَجِبُ؟ ج: الزَّكَاةُ هِيَ إِخْرَاجُ جُزْءٍ مَخْصُوصٍ مِنْ مَالٍ مَخْصُوصٍ لِطَائِفَةٍ مَخْصُوصَةٍ. وَتَجِبُ عَلَى كُلِّ مُسْلِمٍ حُرٍّ مَلَكَ نِصَابًا مَعَ حَوْلٍ فِي بَعْضِ الْأَمْوَالِ.",
+      "translation": "Tanya: Apakah zakat itu dan kepada siapakah diwajibkan? Jawab: Zakat adalah pengeluaran kadar harta tertentu dari jenis harta tertentu untuk diberikan kepada golongan tertentu (mustahiq). Zakat wajib atas muslim yang merdeka, yang memiliki harta mencapai batas nishab dan genap masa kepemilikan satu tahun (haul) untuk beberapa jenis harta."
+    },
+    {
+      "title": "Harta yang Wajib Dizakati",
+      "titleArabic": "الأَمْوَالُ الَّتِي تَجِبُ فِيهَا الزَّكَاةُ",
+      "arabic": "س: مَا هِيَ الْأَمْوَالُ الَّتِي تَجِبُ فِيهَا الزَّكَاةُ؟ ج: تَجِبُ الزَّكَاةُ فِي سِتَّةِ أَنْوَاعٍ: الْمَوَاشِي (الْإِبِلُ وَالْبَقَرُ وَالْغَنَمُ)، وَالنَّقْدَيْنِ (الذَّهَبُ وَالْفِضَّةُ)، وَالْمُعَشَّرَاتِ (الزُّرُوعُ وَالثِّمَارُ الَّتِي تَقْتَاتُ)، وَأَمْوَالِ التِّجَارَةِ، وَالرِّكَازِ، وَالْمَعْدِنِ.",
+      "translation": "Tanya: Jenis harta apa sajakah yang wajib dikenakan zakat? Jawab: Zakat wajib dikeluarkan pada enam jenis harta: binatang ternak (unta, sapi, kambing/domba), dua mata uang (emas dan perak), makanan pokok hasil bumi (biji-bijian dan buah-buahan yang mengenyangkan), harta perdagangan, barang temuan kuno (rikaz), dan hasil tambang (ma'din)."
+    },
+    {
+      "title": "Zakat Fitrah",
+      "titleArabic": "زَكَاةُ الفِطْرِ",
+      "arabic": "س: مَا هِيَ زَكَاةُ الْفِطْرِ وَمَا قَدْرُهَا؟ ج: هِيَ زَكَاةٌ تَجِبُ بِفِطْرِ رَمَضَانَ عَلَى كُلِّ مُسْلِمٍ فَضَلَ عَنْ قُوتِهِ وَقُوتِ عِيَالِهِ فِي يَوْمِ الْعِيدِ وَلَيْلَتِهِ. وَقَدْرُهَا صَاعٌ (أَرْبَعَةُ أَمْدَادٍ) مِنْ قُوتِ الْبَلَدِ الْغَالِبِ عَنْ كُلِّ نَفْسٍ.",
+      "translation": "Tanya: Apakah zakat fitrah itu dan berapakah kadarnya? Jawab: Zakat fitrah adalah zakat wajib karena berakhirnya bulan Ramadhan, dibayarkan oleh setiap muslim yang memiliki kelebihan persediaan makanan untuk dirinya dan keluarganya pada hari raya dan malamnya. Kadarnya adalah satu sha' (sekitar 4 mud atau 2,7 kg hingga 3 kg) makanan pokok daerah setempat untuk setiap jiwa."
+    },
+    {
+      "title": "Puasa Ramadhan",
+      "titleArabic": "صَوْمُ رَمَضَانَ",
+      "arabic": "س: مَا هُوَ الصَّوْمُ وَمَا حُكْمُ صَوْمِ رَمَضَانَ؟ ج: الصَّوْمُ هُوَ الْإِمْسَاكُ عَنِ الْمُفْطِرَاتِ مِنْ طُلُوعِ الْفَجْرِ إِلَى غُرُوبِ الشَّمْسِ بِنِيَّةٍ مَخْصُوصَةٍ. وَصَوْمُ رَمَضَانَ فَرْضُ عَيْنٍ عَلَى كُلِّ مُكَلَّفٍ.",
+      "translation": "Tanya: Apakah puasa itu dan apa hukum puasa di bulan Ramadhan? Jawab: Puasa adalah menahan diri dari segala hal yang membatalkannya mulai dari terbit fajar shadiq hingga terbenamnya matahari dengan niat khusus. Puasa Ramadhan hukumnya fardhu 'ain bagi setiap mukallaf."
+    },
+    {
+      "title": "Syarat Wajib Puasa",
+      "titleArabic": "شُرُوطُ وُجُوبِ الصَّوْمِ",
+      "arabic": "س: كَمْ شُرُوطُ وُجُوبِ الصَّوْمِ؟ ج: شُرُوطُ وُجُوبِهِ خَمْسَةُ أَشْيَاءَ: ١. الْإِسْلَامُ، ٢. الْبُلُوغُ، ٣. الْعَقْلُ، ٤. الْقُدْرَةُ عَلَيْهِ، ٥. الصِّحَّةُ وَالْإِقَامَةُ.",
+      "translation": "Tanya: Ada berapakah syarat-syarat wajibnya puasa? Jawab: Syarat wajib puasa ada lima perkara: 1. Islam, 2. Baligh, 3. Berakal sehat, 4. Kuat (mampu secara fisik) melakukannya, 5. Sehat dan tidak berstatus musafir."
+    },
+    {
+      "title": "Syarat Sah Puasa",
+      "titleArabic": "شُرُوطُ صِحَّةِ الصَّوْمِ",
+      "arabic": "س: كَمْ شُرُوطُ صِحَّةِ الصَّوْمِ؟ ج: شُرُوطُ صِحَّتِهِ أَرْبَعَةٌ: ١. الْإِسْلَامُ، ٢. الْعَقْلُ (التَّمْيِيزُ)، ٣. النَّقَاءُ عَنِ الْحَيْضِ وَالنِّفَاسِ طُولَ النَّهَارِ، ٤. كَوْنُ الْوَقْتِ قَابِلًا لِلصَّوْمِ.",
+      "translation": "Tanya: Ada berapakah syarat sahnya puasa? Jawab: Syarat sah puasa ada empat perkara: 1. Islam, 2. Berakal sehat (tamyiz), 3. Suci dari haid dan nifas sepanjang siang hari puasa, 4. Berada pada hari yang diperbolehkan berpuasa (bukan hari yang dilarang)."
+    },
+    {
+      "title": "Rukun Puasa",
+      "titleArabic": "أَرْكَانُ الصَّوْمِ",
+      "arabic": "س: كَمْ أَرْكَانُ الصَّوْمِ؟ ج: أَرْكَانُ الصَّوْمِ ثَلَاثَةٌ: ١. النِّيَّةُ لَيْلًا لِكُلِّ يَوْمٍ فِي الْفَرْضِ، ٢. تَرْكُ الْمُفْطِرَاتِ، ٣. الصَّائِمُ.",
+      "translation": "Tanya: Ada berapakah rukun puasa? Jawab: Rukun puasa ada tiga perkara: 1. Berniat pada malam hari untuk setiap hari pada puasa wajib, 2. Menghindari segala hal yang membatalkan puasa, 3. Orang yang berpuasa."
+    },
+    {
+      "title": "Pembatal-Pembatal Puasa",
+      "titleArabic": "مُبْطِلَاتُ الصَّوْمِ",
+      "arabic": "س: مَا الَّذِي يُبْطِلُ الصَّوْمَ؟ ج: يُبْطِلُهُ: ١. دُخُولُ عَيْنٍ إِلَى الْجَوْفِ عَمْدًا مِنَ الْمَنَافِذِ الْمَفْتُوحَةِ، ٢. الْقَيْءُ عَمْدًا، ٣. الْجِمَاعُ عَمْدًا، ٤. الْإِنْزَالُ عَنْ مُبَاشَرَةٍ، ٥. الْحَيْضُ وَالنِّفَاسُ، ٦. الْجُنُونُ وَالرِّدَّةُ.",
+      "translation": "Tanya: Apa sajakah perkara yang membatalkan puasa? Jawab: Perkara yang membatalkan puasa adalah: 1. Masuknya benda asing secara sengaja ke dalam rongga tubuh melalui lubang terbuka, 2. Sengaja muntah, 3. Berhubungan intim secara sengaja, 4. Keluar mani karena persentuhan kulit secara langsung, 5. Mengalami haid dan nifas, 6. Gangguan jiwa (gila) dan murtad."
+    },
+    {
+      "title": "Haji dan Umrah",
+      "titleArabic": "الحَجُّ وَالعُمْرَةُ",
+      "arabic": "س: مَا هُوَ الْحَجُّ وَالْعُمْرَةُ وَمَا حُكْمُهُمَا؟ ج: الْحَجُّ هُوَ قَصْدُ بَيْتِ اللهِ الْحَرَامِ لِلْعَمَلِ الْمَخْصُوصِ فِي وَقْتٍ مَخْصُوصٍ. وَالْعُمْرَةُ زِيَارَتُهُ بِلَا وَقْتٍ مَخْصُوصٍ. وَهُمَا فَرْضَانِ فِي الْعُمْرِ مَرَّةً عَلَى الْمُسْتَطِيعِ.",
+      "translation": "Tanya: Apakah ibadah Haji dan Umrah itu dan apa hukumnya? Jawab: Haji adalah menyengaja berkunjung ke Baitullah untuk mengamalkan ibadah khusus pada waktu tertentu. Umrah adalah berziarah ke Baitullah tanpa terikat waktu khusus. Keduanya fardhu dilakukan sekali seumur hidup bagi orang yang mampu."
+    },
+    {
+      "title": "Syarat Wajib Haji",
+      "titleArabic": "شُرُوطُ وُجُوبِ الحَجِّ",
+      "arabic": "س: كَمْ شُرُوطُ وُجُوبِ الْحَجِّ؟ ج: شُرُوطُهُ سَبْعَةٌ: ١. الْإِسْلَامُ، ٢. الْبُلُوغُ، ٣. الْعَقْلُ، ٤. الْحُرِّيَّةُ، ٥. الِاسْتِطَاعَةُ (بِالزَّادِ وَالرَّاحِلَةِ)، ٦. أَمْنُ الطَّرِيقِ، ٧. إِمْكَانُ الْمَسِيرِ.",
+      "translation": "Tanya: Ada berapakah syarat wajib ibadah haji? Jawab: Syarat wajib haji ada tujuh perkara: 1. Islam, 2. Baligh, 3. Berakal sehat, 4. Merdeka, 5. Mampu (bekal harta dan alat transportasi), 6. Aman dalam perjalanan, 7. Memungkinkan untuk menempuh perjalanan."
+    },
+    {
+      "title": "Rukun-Rukun Haji",
+      "titleArabic": "أَرْكَانُ الحَجِّ",
+      "arabic": "س: كَمْ أَرْكَانُ الْحَجِّ؟ ج: أَرْكَانُ الْحَجِّ سِتَّةٌ: ١. الْإِحْرَامُ مَعَ النِّيَّةِ، ٢. الْوُقُوفُ بِعَرَفَةَ، ٣. الطَّوَافُ بِالْبَيْتِ، ٤. السَّعْيُ بَيْنَ الصَّفَا وَالْمَرْوَةِ، ٥. الْحَلْقُ أَوِ التَّقْصِيرُ، ٦. التَّرْتِيبُ فِي مُعْظَمِ الْأَرْكَانِ.",
+      "translation": "Tanya: Ada berapakah rukun-rukun dalam haji? Jawab: Rukun haji ada enam perkara: 1. Ihram disertai niat, 2. Wukuf di Arafah, 3. Thawaf mengelilingi Baitullah (Thawaf Ifadhah), 4. Sa'i di antara bukit Shafa dan Marwah, 5. Mencukur atau memotong rambut, 6. Tertib pada sebagian besar rukun."
+    },
+    {
+      "title": "Rukun-Rukun Umrah",
+      "titleArabic": "أَرْكَانُ العُمْرَةِ",
+      "arabic": "س: كَمْ أَرْكَانُ الْعُمْرَةِ؟ ج: أَرْكَانُ الْعُمْرَةِ خَمْسَةٌ: ١. الْإِحْرَامُ مَعَ النِّيَّةِ، ٢. الطَّوَافُ، ٣. السَّعْيُ، ٤. الْحَلْقُ أَوِ التَّقْصِيرُ، ٥. التَّرْتِيبُ.",
+      "translation": "Tanya: Ada berapakah rukun ibadah umrah? Jawab: Rukun umrah ada lima perkara: 1. Ihram disertai niat, 2. Thawaf, 3. Sa'i, 4. Mencukur atau memotong sebagian rambut, 5. Tertib."
+    },
+    {
+      "title": "Wajib-Wajib Haji",
+      "titleArabic": "وَاجِبَاتُ الحَجِّ",
+      "arabic": "س: كَمْ وَاجِبَاتُ الْحَجِّ الَّتِي يَصِحُّ الْحَجُّ بِدُونِهَا مَعَ الْفِدْيَةِ؟ ج: وَاجِبَاتُهُ خَمْسَةٌ: ١. الْإِحْرَامُ مِنَ الْمِيقَاتِ، ٢. الْمَبِيتُ بِمُزْدَلِفَةَ، ٣. الْمَبِيتُ بِمِنًى، ٤. رَمْيُ الْجِمَارِ، ٥. طَوَافُ الْوَدَاعِ.",
+      "translation": "Tanya: Ada berapakah wajib haji yang jika ditinggalkan hajinya tetap sah namun harus membayar fidyah (dam)? Jawab: Wajib haji ada lima perkara: 1. Memulai ihram dari miqat yang telah ditentukan, 2. Mabit (menginap) di Muzdalifah, 3. Mabit di Mina pada hari-hari Tasyriq, 4. Melontar jumrah, 5. Melaksanakan Thawaf Wada' saat hendak meninggalkan Mekkah."
+    },
+    {
+      "title": "Larangan Selama Ihram",
+      "titleArabic": "مَحْظُورَاتُ الإِحْرَامِ",
+      "arabic": "س: مَا الَّذِي يَحْرُمُ عَلَى الْمُحْرِمِ بِحَجٍّ أَوْ عُمْرَةٍ؟ ج: يَحْرُمُ عَلَيْهِ: لُبْسُ الْمَخِيطِ لِلرِّجَالِ، وَتَغْطِيَةُ الرَّأْسِ لِلرِّجَالِ وَالْوَجْهِ لِلنِّسَاءِ، وَتَقْلِيمُ الْأَظْفَارِ، وَقَصُّ الشَّعْرِ، وَالتَّطَيُّبُ، وَعَقْدُ النِّكَاحِ، وَالْجِمَاعُ، وَقَتْلُ صَيْدِ الْبَرِّ.",
+      "translation": "Tanya: Apa sajakah larangan yang harus dihindari oleh orang yang sedang ihram haji atau umrah? Jawab: Dilarang keras bagi jemaah ihram: mengenakan pakaian berjahit bagi laki-laki, menutup kepala bagi laki-laki, menutup wajah bagi perempuan, memotong kuku, mencukur/mencabut rambut, memakai wewangian, melangsungkan akad nikah, bersenggama (jima'), serta membunuh hewan buruan darat."
+    },
+    {
+      "title": "Khatimah (Penutup)",
+      "titleArabic": "الخَاتِمَةُ",
+      "arabic": "س: مَا الَّذِي يَجِبُ عَلَى الْمُسْلِمِ أَنْ يُلَازِمَهُ فِي حَيَاتِهِ؟ ج: يَجِبُ عَلَيْهِ أَنْ يُلَازِمَ تَقْوَى اللهِ فِي السِّرِّ وَالْعَلَنِ، وَأَنْ يَحْفَظَ جَوَارِحَهُ عَنِ الْمَعَاصِي، وَيُؤَدِّيَ الْفَرَائِضَ، وَيَتَمَسَّكَ بِسُنَّةِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَأَخْلَاقِهِ الْجَمِيلَةِ. تَمَّتْ بِحَمْدِ اللهِ.",
+      "translation": "Tanya: Hal apakah yang wajib senantiasa dipegang teguh oleh seorang muslim dalam kehidupannya? Jawab: Wajib baginya untuk selalu bertakwa kepada Allah dalam keadaan sunyi (sendiri) maupun ramai, menjaga seluruh anggota tubuhnya dari perbuatan maksiat, menjalankan kewajiban-kewajiban agama, serta berpegang teguh pada sunnah Nabi shallallahu 'alaihi wa sallam dan akhlak beliau yang luhur. Kitab ini telah selesai dengan memuji Allah."
+    }
+  ]
+}
