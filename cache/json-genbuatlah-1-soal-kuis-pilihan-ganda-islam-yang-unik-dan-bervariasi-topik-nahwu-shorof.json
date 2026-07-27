@@ -1,11 +1,11 @@
 {
-  "question": "Dalam ilmu Shorof, bagaimanakah bentuk Fi'il Amar (kata kerja perintah) untuk satu orang laki-laki (mufrad mudzakkar) yang berasal dari fi'il madhi 'قَالَ' (qaala)?",
+  "question": "Dalam kajian ilmu Nahwu dasar (seperti kitab Matan Al-Ajurrumiyyah), setiap jenis kata memiliki tanda pengenal tersendiri. Manakah di antara ciri berikut yang BUKAN merupakan tanda bagi Isim (kata benda), melainkan ciri khusus dari Fi'il (kata kerja)?",
   "options": [
-    "قُلْ (Qul)",
-    "يَقُولُ (Yaqoolu)",
-    "قَائِلٌ (Qaa'ilun)",
-    "قَوْلٌ (Qaulun)"
+    "Dapat menerima Tanwin (ـٌـٍـً)",
+    "Kemasukan Alif dan Lam (ال)",
+    "Didahului oleh huruf Qad (قَدْ)",
+    "Didahului oleh Huruf Jar (seperti مِنْ atau إِلَى)"
   ],
-  "correctIndex": 0,
-  "explanation": "Bentuk Fi'il Amar dari 'قَالَ' (qaala) adalah 'قُلْ' (qul). Proses pembentukannya berasal dari fi'il mudhari 'يَقُولُ', di mana huruf mudhara'ah (ya) dibuang, huruf akhir disukunkan, dan huruf illat (wau) dibuang karena terjadi iltiqa' as-sakinain (bertemunya dua huruf sukun)."
+  "correctIndex": 2,
+  "explanation": "Huruf 'Qad' (قَدْ) merupakan tanda khusus yang masuk pada Fi'il (kata kerja), baik Fi'il Madhi maupun Mudhari', sebagaimana dijelaskan dalam Matan Al-Ajurrumiyyah: 'Wal fi'lu yu'rofu bi qad...'. Sedangkan Tanwin, Alif-Lam (ال), dan kemasukan huruf Jar adalah ciri khas yang khusus dimiliki oleh Isim."
 }
