@@ -1,11 +1,11 @@
 {
-  "question": "Dalam kalimat 'ذَهَبَ أَحْمَدُ إِلَى الْمَسْجِدِ' (Dzahaba Ahmadu ilal-masjidi), kata manakah yang berkedudukan sebagai Isim Majrur karena didahului oleh huruf jar?",
+  "question": "Dalam ilmu Nahwu, manakah di antara tanda berikut yang menunjukkan bahwa suatu kata termasuk kategori kata kerja (Fi'il Mādhī) dan TIDAK BISA masuk pada kata benda (Isim)?",
   "options": [
-    "ذَهَبَ (Dzahaba)",
-    "أَحْمَدُ (Ahmadu)",
-    "إِلَى (Ila)",
-    "الْمَسْجِدِ (Al-Masjidi)"
+    "Kemasukan Alif Lam (ال) di awal kata",
+    "Kemasukan Tanwin di akhir kata",
+    "Diakhiri dengan Ta' Ta'nīts as-Sākinah (تْ)",
+    "Berada dalam kondisi Jar/Khafadh"
   ],
-  "correctIndex": 3,
-  "explanation": "Kata 'الْمَسْجِدِ' (Al-Masjidi) adalah Isim Majrur karena didahului langsung oleh huruf jar yaitu 'إِلَى' (Ila), sehingga harakat huruf terakhirnya dibaca kasrah sebagai tanda majrur."
+  "correctIndex": 2,
+  "explanation": "Ta' Ta'nīts as-Sākinah (huruf ta' sukun di akhir kata, seperti pada kata قَرَأَتْ) merupakan tanda khusus untuk Fi'il Mādhī yang menunjukkan pelakunya adalah perempuan. Sebaliknya, Alif Lam, Tanwin, dan Jar/Khafadh adalah tanda-tanda kekhususan bagi Isim sebagaimana disebutkan dalam kitab Matan al-Ājurrūmiyyah."
 }
