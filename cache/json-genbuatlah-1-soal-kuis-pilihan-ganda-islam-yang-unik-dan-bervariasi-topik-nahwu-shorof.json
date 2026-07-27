@@ -1,11 +1,11 @@
 {
-  "question": "Dalam ilmu Nahwu, manakah di antara tanda berikut yang menunjukkan bahwa suatu kata termasuk kategori kata kerja (Fi'il Mādhī) dan TIDAK BISA masuk pada kata benda (Isim)?",
+  "question": "Dalam dasar ilmu Nahwu, salah satu tanda utama sebuah kata dikategorikan sebagai 'Isim' (kata benda/sifat) adalah memiliki tanwin. Manakah di antara pilihan berikut yang merupakan Isim?",
   "options": [
-    "Kemasukan Alif Lam (ال) di awal kata",
-    "Kemasukan Tanwin di akhir kata",
-    "Diakhiri dengan Ta' Ta'nīts as-Sākinah (تْ)",
-    "Berada dalam kondisi Jar/Khafadh"
+    "يَكْتُبُ (Yaktubu)",
+    "كِتَابٌ (Kitābun)",
+    "إِلَى (Ilā)",
+    "كَتَبَ (Kataba)"
   ],
-  "correctIndex": 2,
-  "explanation": "Ta' Ta'nīts as-Sākinah (huruf ta' sukun di akhir kata, seperti pada kata قَرَأَتْ) merupakan tanda khusus untuk Fi'il Mādhī yang menunjukkan pelakunya adalah perempuan. Sebaliknya, Alif Lam, Tanwin, dan Jar/Khafadh adalah tanda-tanda kekhususan bagi Isim sebagaimana disebutkan dalam kitab Matan al-Ājurrūmiyyah."
+  "correctIndex": 1,
+  "explanation": "Dalam Matan Al-Ajurrumiyyah disebutkan bahwa Isim dapat dikenali melalui tanwin (فَالِاسْمُ يُعْرَفُ بِالْخَفْضِ وَالتَّنْوِينِ...). Kata 'كِتَابٌ' diakhiri dengan tanwin sehingga termasuk Isim. Adapun 'كَتَبَ' (fi'il madhi) dan 'يَكْتُبُ' (fi'il mudhari') adalah kata kerja, sedangkan 'إِلَى' adalah huruf jar."
 }
