@@ -1,11 +1,11 @@
 {
-  "question": "Dalam ilmu Shorof, perubahan kata dari bentuk lampau (Fi'il Madhi) 'كَتَبَ' (Kataba) menjadi kata kerja perintah (Fi'il Amar) untuk satu orang laki-laki (mufrad mudzakkar) adalah...",
+  "question": "Dalam ilmu Shorof, bagaimanakah bentuk Fi'il Amar (kata kerja perintah) untuk satu orang laki-laki (mufrad mudzakkar) yang berasal dari fi'il madhi 'قَالَ' (qaala)?",
   "options": [
-    "يَكْتُبُ (Yaktubu)",
-    "اُكْتُبْ (Uktub)",
-    "كَاتِبٌ (Katibun)",
-    "كِتَابَةً (Kitabatan)"
+    "قُلْ (Qul)",
+    "يَقُولُ (Yaqoolu)",
+    "قَائِلٌ (Qaa'ilun)",
+    "قَوْلٌ (Qaulun)"
   ],
-  "correctIndex": 1,
-  "explanation": "Kata 'اُكْتُبْ' (Uktub) adalah bentuk Fi'il Amar (kata kerja perintah) untuk mufrad mudzakkar dari fi'il tsulatsi mujarrad 'كَتَبَ - يَكْتُبُ'. Adapun 'يَكْتُبُ' adalah Fi'il Mudhari' (kata kerja sedang/akan dilakukan), 'كَاتِبٌ' adalah Isim Fa'il (pelaku/penulis), dan 'كِتَابَةً' adalah Masdar (kata benda/tulisan)."
+  "correctIndex": 0,
+  "explanation": "Bentuk Fi'il Amar dari 'قَالَ' (qaala) adalah 'قُلْ' (qul). Proses pembentukannya berasal dari fi'il mudhari 'يَقُولُ', di mana huruf mudhara'ah (ya) dibuang, huruf akhir disukunkan, dan huruf illat (wau) dibuang karena terjadi iltiqa' as-sakinain (bertemunya dua huruf sukun)."
 }
