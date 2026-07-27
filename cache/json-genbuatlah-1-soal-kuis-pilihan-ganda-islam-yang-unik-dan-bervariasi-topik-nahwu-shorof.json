@@ -1,11 +1,11 @@
 {
-  "question": "Dalam ilmu Shorof, kata yang menunjuk pada pelaku suatu perbuatan disebut Isim Fa'il. Jika fi'il madhi-nya adalah كَتَبَ (kataba - menulis), manakah bentuk Isim Fa'il yang tepat berdasarkan pola (wazan) tsulatsi mujarrad?",
+  "question": "Dalam kalimat 'ذَهَبَ أَحْمَدُ إِلَى الْمَسْجِدِ' (Dzahaba Ahmadu ilal-masjidi), kata manakah yang berkedudukan sebagai Isim Majrur karena didahului oleh huruf jar?",
   "options": [
-    "مَكْتُوْبٌ (Maktuubun)",
-    "كَاتِبٌ (Kaatibun)",
-    "مَكْتَبٌ (Maktabun)",
-    "كِتَابٌ (Kitaabun)"
+    "ذَهَبَ (Dzahaba)",
+    "أَحْمَدُ (Ahmadu)",
+    "إِلَى (Ila)",
+    "الْمَسْجِدِ (Al-Masjidi)"
   ],
-  "correctIndex": 1,
-  "explanation": "Dalam Tashrif Ishtilahi fi'il tsulatsi mujarrad, Isim Fa'il (kata benda penunjuk pelaku) mengikuti wazan فَاعِلٌ (Fa'ilun). Oleh karena itu, kata كَتَبَ (kataba) berubah menjadi كَاتِبٌ (kaatibun) yang bermakna 'penulis/orang yang menulis'. Sedangkan Maktuubun adalah Isim Maf'ul (yang ditulis), Maktabun adalah Isim Makan (meja/tempat menulis), dan Kitaabun adalah Masdar (buku/tulisan)."
+  "correctIndex": 3,
+  "explanation": "Kata 'الْمَسْجِدِ' (Al-Masjidi) adalah Isim Majrur karena didahului langsung oleh huruf jar yaitu 'إِلَى' (Ila), sehingga harakat huruf terakhirnya dibaca kasrah sebagai tanda majrur."
 }
