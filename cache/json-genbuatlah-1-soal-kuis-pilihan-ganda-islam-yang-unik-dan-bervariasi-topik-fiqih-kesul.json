@@ -1,11 +1,13 @@
 {
-  "question": "Dalam kajian Fiqih Ibadah, manakah di antara hal berikut yang termasuk dalam kategori 'Sunnah Ab'ad' dalam shalat, yang jika terlupa disunnahkan untuk diganti dengan Sujud Sahwi?",
+  "question": "Dalam kajian Fiqih Thaharah, air yang telah digunakan untuk membasuh anggota wudhu yang wajib (basuhan pertama) dan volumenya kurang dari dua qullah disebut air Musta'mal. Bagaimanakah status hukum air tersebut jika ingin digunakan kembali untuk berwudhu?",
   "options": [
-    "Membaca surat pendek setelah Al-Fatihah",
-    "Membaca doa Iftitah di rakaat pertama",
-    "Duduk Tasyahud Awal",
-    "Membaca tasbih saat ruku' dan sujud"
+    "Suci dan dapat mensucikan (Thahir Muthahhir)",
+    "Suci namun tidak dapat mensucikan (Thahir Ghairu Muthahhir)",
+    "Najis karena telah menyentuh kulit (Mutanajjis)",
+    "Makruh untuk digunakan kembali namun tetap sah"
   ],
-  "correctIndex": 2,
-  "explanation": "Dalam Madzhab Syafi'i, Tasyahud Awal termasuk 'Sunnah Ab'ad'. Berbeda dengan 'Sunnah Haiat', jika Sunnah Ab'ad tertinggal (sengaja atau tidak), maka disunnahkan melakukan Sujud Sahwi sebelum salam untuk menyempurnakan kekurangan tersebut."
+  "correctIndex": 1,
+  "explanation": "Air Musta'mal adalah air yang telah digunakan untuk mengangkat hadats (seperti basuhan pertama pada wudhu atau mandi wajib). Dalam Madzhab Syafi'i, air ini dihukumi suci secara zatnya (tidak najis jika terkena pakaian), namun tidak lagi memiliki kekuatan untuk mensucikan (tidak bisa dipakai untuk wudhu/mandi wajib lagi) karena sifat mensucikannya telah hilang setelah penggunaan pertama.",
+  "difficulty": "Mudah",
+  "topic": "Fiqih Thaharah"
 }
