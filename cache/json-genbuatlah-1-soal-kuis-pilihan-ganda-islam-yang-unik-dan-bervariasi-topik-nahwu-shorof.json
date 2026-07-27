@@ -1,11 +1,11 @@
 {
-  "question": "Dalam kaidah ilmu Nahwu, manakah di antara kata berikut yang merupakan 'Isim Mufrad' dan menggunakan tanda Dhommah Zhahirah (nampak) saat dalam keadaan Rafa'?",
+  "question": "Dalam ilmu Shorof, kata kerja dasar yang terdiri dari 3 huruf asli tanpa ada huruf tambahan (ziyadah) disebut Fi'il Thulathi Mujarrad. Manakah di antara kata berikut yang merupakan contoh Fi'il Thulathi Mujarrad?",
   "options": [
-    "مُعَلِّمُوْنَ (Mu'allimuuna)",
-    "قَلَمٌ (Qalamun)",
-    "الزَّيْدَانِ (Az-Zaydaani)",
-    "الفَتَى (Al-Fataa)"
+    "كَتَبَ (Kataba)",
+    "أَكْرَمَ (Akrama)",
+    "تَعَلَّمَ (Ta'allama)",
+    "اِسْتَغْفَرَ (Istaghfara)"
   ],
-  "correctIndex": 1,
-  "explanation": "Qalamun adalah Isim Mufrad (kata benda tunggal) dengan akhiran huruf shahih, sehingga tanda Rafa'-nya adalah Dhommah Zhahirah. Pilihan lain salah karena: Mu'allimuuna menggunakan Wawu (Jama' Mudzakkar Salim), Az-Zaydaani menggunakan Alif (Tasniyah), dan Al-Fataa menggunakan Dhommah Muqaddarah/tersembunyi (Isim Maqshur)."
+  "correctIndex": 0,
+  "explanation": "Kata كَتَبَ (kataba) hanya terdiri dari 3 huruf asli (ك - ت - ب) tanpa ada huruf tambahan, sehingga tergolong Fi'il Thulathi Mujarrad. Adapun أَكْرَمَ (tambahan Alif/Hamzah), تَعَلَّمَ (tambahan Ta' dan Tasydid), dan اِسْتَغْفَرَ (tambahan Alif, Sin, Tha') merupakan contoh Fi'il Thulathi Maziid."
 }
