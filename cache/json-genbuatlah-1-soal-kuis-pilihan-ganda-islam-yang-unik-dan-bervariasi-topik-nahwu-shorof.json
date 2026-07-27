@@ -1,11 +1,11 @@
 {
-  "question": "Dalam dasar ilmu Nahwu, salah satu tanda utama sebuah kata dikategorikan sebagai 'Isim' (kata benda/sifat) adalah memiliki tanwin. Manakah di antara pilihan berikut yang merupakan Isim?",
+  "question": "Dalam kalimat \"ذَهَبَ زَيْدٌ إِلَى الْمَسْجِدِ\" (Zaid pergi ke masjid), kata \"الْمَسْجِدِ\" tergolong sebagai Isim (kata benda). Tanda-tanda Isim apa sajakah yang melekat pada kata tersebut?",
   "options": [
-    "يَكْتُبُ (Yaktubu)",
-    "كِتَابٌ (Kitābun)",
-    "إِلَى (Ilā)",
-    "كَتَبَ (Kataba)"
+    "Didahului alif lam (ال) dan didahului huruf jar (إِلَى)",
+    "Diakhiri tanwin dan didahului huruf jar (إِلَى)",
+    "Didahului alif lam (ال) dan memiliki harakat sukun (jazm)",
+    "Mengikuti wazan fi'il amar dan diakhiri kasrah"
   ],
-  "correctIndex": 1,
-  "explanation": "Dalam Matan Al-Ajurrumiyyah disebutkan bahwa Isim dapat dikenali melalui tanwin (فَالِاسْمُ يُعْرَفُ بِالْخَفْضِ وَالتَّنْوِينِ...). Kata 'كِتَابٌ' diakhiri dengan tanwin sehingga termasuk Isim. Adapun 'كَتَبَ' (fi'il madhi) dan 'يَكْتُبُ' (fi'il mudhari') adalah kata kerja, sedangkan 'إِلَى' adalah huruf jar."
+  "correctIndex": 0,
+  "explanation": "Berdasarkan kaidah Nahwu (seperti dalam kitab Matan al-Ajurrumiyyah), di antara tanda-tanda Isim adalah kemasukan Alif Lam (ال) dan didahului oleh Huruf Jar (salah satunya adalah إِلَى). Kata \"الْمَسْجِدِ\" memiliki kedua tanda tersebut sekaligus."
 }
