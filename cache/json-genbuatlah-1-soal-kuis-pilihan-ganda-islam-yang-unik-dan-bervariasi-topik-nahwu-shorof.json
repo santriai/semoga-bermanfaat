@@ -1,11 +1,11 @@
 {
-  "question": "Dalam ilmu Shorof, manakah bentuk Isim Fa'il (kata benda yang menunjukkan pelaku) dari kata kerja dasar (Fi'il Tsulatsi Mujarrad) 'عَلِمَ' ('Alima - mengetahui)?",
+  "question": "Dalam dasar ilmu Nahwu (seperti dijelaskan dalam Matan Al-Ajurrumiyyah), manakah di antara pilihan berikut yang merupakan salah satu tanda khusus untuk mengenali 'Kalimah Isim' (kata benda)?",
   "options": [
-    "مَعْلُوْمٌ (Ma'luum)",
-    "عَالِمٌ ('Aalim)",
-    "عِلْمٌ ('Ilm)",
-    "يَعْلَمُ (Ya'lamu)"
+    "Dapat menerima Tanwin di akhir kata",
+    "Dapat didahului oleh huruf Jazam seperti 'Lam' (لَمْ)",
+    "Dapat bersambung dengan Ta' Ta'nits Sakinah (تْ)",
+    "Dapat didahului oleh huruf 'Saufa' (سَوْفَ)"
   ],
-  "correctIndex": 1,
-  "explanation": "Bentuk Isim Fa'il (pelaku) untuk kata kerja tiga huruf (Tsulatsi Mujarrad) umumnya mengikuti wazan/pola 'فَاعِلٌ' (Faa'ilun). Maka, kata 'عَلِمَ' ('Alima) menjadi 'عَالِمٌ' ('Aalim) yang artinya 'orang yang mengetahui/berilmu'. Pilihan A adalah Isim Maf'ul (yang diketahui), C adalah Masdar (pengetahuan/ilmu), dan D adalah Fi'il Mudhari' (sedang/akan mengetahui)."
+  "correctIndex": 0,
+  "explanation": "Menurut penjelasan dalam ilmu Nahwu, ciri-ciri Kalimah Isim antara lain: ber-harakat kasrah (khafadh), menerima Tanwin, kemasukan Alif-Lam (ال), dan diawali huruf Khafadh/Jar. Sementara itu, dapat didahului 'Lam', 'Saufa', atau bersambung 'Ta Ta'nits Sakinah' merupakan tanda-tanda khusus untuk Kalimah Fi'il (kata kerja)."
 }
