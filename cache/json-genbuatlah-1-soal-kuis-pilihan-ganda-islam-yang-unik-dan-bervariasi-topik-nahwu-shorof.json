@@ -1,11 +1,11 @@
 {
-  "question": "Dalam kajian ilmu Nahwu dasar (seperti kitab Matan Al-Ajurrumiyyah), setiap jenis kata memiliki tanda pengenal tersendiri. Manakah di antara ciri berikut yang BUKAN merupakan tanda bagi Isim (kata benda), melainkan ciri khusus dari Fi'il (kata kerja)?",
+  "question": "Dalam ilmu Nahwu, salah satu tanda khusus yang menunjukkan bahwa suatu kata tergolong 'Isim' (kata benda/sifat) dan TIDAK MUNGKIN masuk pada 'Fi'il' (kata kerja) adalah...",
   "options": [
-    "Dapat menerima Tanwin (ـٌـٍـً)",
-    "Kemasukan Alif dan Lam (ال)",
-    "Didahului oleh huruf Qad (قَدْ)",
-    "Didahului oleh Huruf Jar (seperti مِنْ atau إِلَى)"
+    "Dapat menerima Tanwin (التَّنْوِيْنُ)",
+    "Dapat diawali oleh huruf Qad (قَدْ)",
+    "Dapat diawali oleh huruf Sin (السِّيْنُ)",
+    "Dapat diakhiri oleh Ta' Ta'nits Sakinah (تَاءِ التَّأْنِيثِ السَّاكِنَةِ)"
   ],
-  "correctIndex": 2,
-  "explanation": "Huruf 'Qad' (قَدْ) merupakan tanda khusus yang masuk pada Fi'il (kata kerja), baik Fi'il Madhi maupun Mudhari', sebagaimana dijelaskan dalam Matan Al-Ajurrumiyyah: 'Wal fi'lu yu'rofu bi qad...'. Sedangkan Tanwin, Alif-Lam (ال), dan kemasukan huruf Jar adalah ciri khas yang khusus dimiliki oleh Isim."
+  "correctIndex": 0,
+  "explanation": "Berdasarkan kaidah dasar dalam Matan Al-Ajrumiyyah, tanda-tanda Isim antara lain adalah menerima I'rab Jar/Khafadh, Tanwin, serta kemasukan Alif-Lam (ال). Sedangkan Qad, Sin, dan Ta' Ta'nits Sakinah merupakan tanda-tanda khusus yang hanya bisa masuk pada Fi'il."
 }
