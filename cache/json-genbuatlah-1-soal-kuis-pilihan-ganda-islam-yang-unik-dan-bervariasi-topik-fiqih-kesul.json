@@ -1,11 +1,11 @@
 {
-  "question": "Dalam kajian Fiqih Thaharah, terdapat istilah 'Air Musyammas', yaitu air yang dipanaskan di bawah terik matahari dalam wadah logam selain emas dan perak. Bagaimanakah hukum menggunakan air tersebut untuk berwudhu?",
+  "question": "Dalam madzhab Syafi'i, air yang telah digunakan untuk membasuh anggota wudhu yang wajib (basuhan pertama) dan volumenya kurang dari dua qullah disebut air musta'mal. Bagaimanakah status hukum air tersebut?",
   "options": [
-    "Suci dan mensucikan, namun makruh digunakan pada anggota badan",
-    "Suci namun tidak dapat mensucikan (Ghairu Muthahhir)",
-    "Najis karena telah mengalami perubahan suhu yang ekstrem",
-    "Mubah (boleh) secara mutlak tanpa ada kemakruhan"
+    "Suci dan dapat menyucikan (Thahir Muthahhir)",
+    "Suci namun tidak dapat menyucikan (Thahir Ghairu Muthahhir)",
+    "Najis karena telah bercampur dengan bekas anggota badan",
+    "Makruh digunakan namun tetap sah untuk wudhu kembali"
   ],
-  "correctIndex": 0,
-  "explanation": "Air Musyammas hukumnya suci dan mensucikan (Thahir Muthahhir), namun makruh digunakan untuk badan (seperti wudhu atau mandi) karena alasan kesehatan, yaitu dikhawatirkan dapat menyebabkan penyakit kusta (baras). Hal ini merujuk pada literatur Fiqih Syafi'iyah seperti Kitab Fathul Qarib."
+  "correctIndex": 1,
+  "explanation": "Air musta'mal adalah air yang telah digunakan untuk mengangkat hadats (wudhu/mandi wajib). Menurut jumhur ulama Syafi'iyyah, air ini hukumnya suci (tidak najis) sehingga jika terkena pakaian tidak perlu dicuci, namun tidak bisa digunakan kembali untuk bersuci (wudhu/mandi) karena kekuatan menyucikannya telah hilang setelah pemakaian pertama yang wajib."
 }
