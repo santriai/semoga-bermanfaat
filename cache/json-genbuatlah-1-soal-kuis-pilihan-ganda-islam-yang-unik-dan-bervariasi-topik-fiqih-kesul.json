@@ -1,13 +1,11 @@
 {
-  "question": "Dalam kajian Fiqih Thaharah, air yang telah digunakan untuk membasuh anggota wudhu yang wajib (basuhan pertama) dan volumenya kurang dari dua qullah disebut air Musta'mal. Bagaimanakah status hukum air tersebut jika ingin digunakan kembali untuk berwudhu?",
+  "question": "Dalam kajian Fiqh dasar (seperti kitab Safinatun Najah), jika seseorang melakukan istinja' (bersuci setelah buang air) menggunakan batu karena tidak ada air, berapakah jumlah minimal usapan atau sisi batu yang wajib digunakan agar dianggap sah?",
   "options": [
-    "Suci dan dapat mensucikan (Thahir Muthahhir)",
-    "Suci namun tidak dapat mensucikan (Thahir Ghairu Muthahhir)",
-    "Najis karena telah menyentuh kulit (Mutanajjis)",
-    "Makruh untuk digunakan kembali namun tetap sah"
+    "1 usapan atau 1 sisi batu",
+    "2 usapan atau 2 sisi batu",
+    "3 usapan atau 3 sisi batu",
+    "7 usapan atau 7 sisi batu"
   ],
-  "correctIndex": 1,
-  "explanation": "Air Musta'mal adalah air yang telah digunakan untuk mengangkat hadats (seperti basuhan pertama pada wudhu atau mandi wajib). Dalam Madzhab Syafi'i, air ini dihukumi suci secara zatnya (tidak najis jika terkena pakaian), namun tidak lagi memiliki kekuatan untuk mensucikan (tidak bisa dipakai untuk wudhu/mandi wajib lagi) karena sifat mensucikannya telah hilang setelah penggunaan pertama.",
-  "difficulty": "Mudah",
-  "topic": "Fiqih Thaharah"
+  "correctIndex": 2,
+  "explanation": "Berdasarkan literatur Fiqh Syafi'iyyah, salah satu syarat sah beristinja dengan batu (istijmar) adalah menggunakan minimal tiga buah batu atau satu batu besar yang memiliki tiga sisi/permukaan berbeda yang dapat membersihkan tempat keluarnya najis secara sempurna."
 }
