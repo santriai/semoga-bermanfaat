@@ -1,11 +1,11 @@
 {
-  "question": "Dalam disiplin ilmu Ushul Fiqih, sumber hukum Islam terbagi menjadi yang disepakati (muttafaq 'alaih) dan yang diperselisihkan (mukhtalaf 'fih). Manakah di antara berikut yang TIDAK termasuk dalam empat sumber hukum utama yang disepakati oleh jumhur ulama?",
+  "question": "Dalam kajian Ushul Fiqih, frasa penyifat (*al-washf*) umumnya menimbulkan *Mafhum Mukhalafah* (pemahaman terbalik). Namun, pada ayat keharaman menikahi anak tiri '...yang ada dalam pemeliharaanmu' (QS. An-Nisa: 23), mayoritas ulama sepakat *Mafhum Mukhalafah* tidak berlaku sehingga anak tiri yang tidak dalam pemeliharaan tetap haram dinikahi. Apa alasan ushuliyyah pembatalan *Mafhum Mukhalafah* pada ayat tersebut?",
   "options": [
-    "Al-Qur'an",
-    "As-Sunnah",
-    "Ijma'",
-    "Istihsan"
+    "Frasa tersebut berstatus Makhraj al-Ghalib (menyebutkan kebiasaan umum yang terjadi), bukan untuk membatasi hukum.",
+    "Ayat tersebut tergolong ayat Mansukh yang hukumnya telah digantikan oleh hadis mutawatir.",
+    "Mafhum Mukhalafah hanya berlaku dalam bab Muamalah dan Jinayah, bukan Fikih Munakahat.",
+    "Kedudukan frasa tersebut merupakan Dalalatu al-Iqtida' yang membutuhkan penakwilan khusus dari Mujtahid."
   ],
-  "correctIndex": 3,
-  "explanation": "Empat sumber hukum utama yang disepakati (muttafaq 'alaih) oleh mayoritas ulama ushul fiqih secara berurutan adalah Al-Qur'an, As-Sunnah, Ijma', dan Qiyas. Adapun Istihsan tergolong dalam sumber hukum sekunder yang masih diperselisihkan (mukhtalaf 'fih) penggunaannya di antara para imam mazhab."
+  "correctIndex": 0,
+  "explanation": "Salah satu syarat berlakunya Mafhum Mukhalafah adalah frasa pembatas (sifat/syarat) tersebut tidak boleh berstatus 'Kharaja Makhraja al-Ghalib' (keluar atas dasar kebiasaan umum). Pada QS. An-Nisa: 23, frasa 'dalam pemeliharaanmu' hanya menggambarkan kebiasaan masyarakat Arab saat itu di mana anak tiri umumnya ikut tinggal dan dipelihara oleh ayah tiri. Karena itu, pembatasan ini tidak berfungsi mengecualikan hukum (tidak ada mafhum mukhalafah), sehingga anak tiri tetap haram dinikahi secara mutlak."
 }
