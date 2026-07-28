@@ -1,11 +1,11 @@
 {
-  "question": "Dalam fiqih mazhab Syafi'i, bagaimanakah ketentuan hukum bagi seorang makmum masbuq jika imamnya melakukan sujud sahwi di akhir shalat?",
+  "question": "Dalam madzhab Syafi'i, seorang imam lupa membaca Tasyahhud Awal dan langsung berdiri sempurna (intishab) ke rakaat ketiga. Seorang makmum yang menyadari hal tersebut justru sengaja tetap duduk membaca Tasyahhud Awal hingga selesai tanpa berniat mufaraqah, baru kemudian berdiri menyusul imam. Bagaimana hukum shalat makmum tersebut?",
   "options": [
-    "Wajib ikut sujud sahwi bersama imam, dan tidak perlu mengulanginya di akhir shalat pribadinya.",
-    "Wajib ikut sujud sahwi bersama imam, dan wajib mengulanginya kembali di akhir shalat pribadinya sebelum salam.",
-    "Tidak boleh ikut sujud sahwi bersama imam, melainkan harus menunggu imam salam dalam posisi duduk tasyahud.",
-    "Sunnah ikut sujud sahwi bersama imam, dan haram mengulanginya di akhir shalat pribadinya."
+    "Shalat makmum batal karena melanggar kewajiban mutaba'ah (mengikuti imam) pada sunnah ab'adh yang telah ditinggalkan imam",
+    "Shalat makmum tetap sah karena Tasyahhud Awal adalah sunnah ab'adh, namun makmum wajib sujud sahwi secara mandiri",
+    "Shalat makmum tetap sah dan tidak makruh karena makmum bertujuan menyempurnakan sunnah yang ditinggalkan imam",
+    "Shalat makmum tidak batal, tetapi hubungan jamaahnya terputus secara otomatis (menjadi shalat munfarid)"
   ],
-  "correctIndex": 1,
-  "explanation": "Berdasarkan literatur fiqih Syafi'iyyah (seperti dalam Kitab Fathul Mu'in dan Nihayatuz Zain), makmum masbuq wajib mengikuti sujud sahwi imam demi kewajiban mutaba'ah (mengikuti imam). Namun, karena tempat hakiki sujud sahwi adalah di akhir shalat dan cacat (khalal) shalat tersebut turut menanggung kepada makmum, maka masbuq tersebut wajib mengulangi sujud sahwi di akhir shalatnya sendiri sebelum salam."
+  "correctIndex": 0,
+  "explanation": "Dalam fiqih Syafi'iyyah (sebagaimana dijelaskan dalam Fathul Mu'in & Tuhfatul Muhtaj), apabila imam telah berdiri sempurna (intishab) meninggalkan sunnah ab'adh seperti Tasyahhud Awal, maka makmum haram berpisah gerakan dan WAJIB mengikuti (mutaba'ah) berdiri bersama imam. Jika makmum sengaja tetap duduk untuk tasyahhud tanpa berniat mufaraqah (memisahkan diri), maka shalat makmum tersebut batal karena menyalahi kedudukan imam tanpa uzur syar'i."
 }
