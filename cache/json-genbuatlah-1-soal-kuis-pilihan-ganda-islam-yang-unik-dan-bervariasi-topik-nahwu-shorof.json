@@ -1,11 +1,11 @@
 {
-  "question": "Dalam ilmu Nahwu dasar (seperti kitab Matan Al-Ajurrumiyyah), manakah di antara pilihan berikut yang merupakan salah satu tanda khas bahwa suatu kata tergolong sebagai Isim (kata benda)?",
+  "question": "Dalam kaidah ilmu Nahwu, setiap pelaku (Fa'il) dari sebuah kata kerja harus dibaca 'Rafa'. Jika terdapat kalimat 'جَلَسَ الطَّالِبُ' (Jalasa at-Tholibu), manakah kata yang berkedudukan sebagai Fa'il dan apa tanda i'rab-nya?",
   "options": [
-    "Dapat menerima Tanwin di akhir kata",
-    "Dapat didahului oleh huruf Jazam (لم)",
-    "Selalu diakhiri dengan harakat Sukun",
-    "Dapat didahului oleh huruf 'Saufa' (سَوْفَ)"
+    "Jalasa, tanda i'rab-nya Fathah",
+    "At-Tholibu, tanda i'rab-nya Dhammah",
+    "At-Tholibu, tanda i'rab-nya Kasrah",
+    "Jalasa, tanda i'rab-nya Sukun"
   ],
-  "correctIndex": 0,
-  "explanation": "Dalam Matan Al-Ajurrumiyyah disebutkan bahwa Isim dapat dikenali dengan beberapa tanda, yaitu: Al-Khafadh (Jar), Tanwin, kemasukan Alif-Lam (ال), dan kemasukan Huruf Jar. Sedangkan kemasukan huruf Jazam dan 'Saufa' merupakan ciri khusus untuk Fi'il (kata kerja)."
+  "correctIndex": 1,
+  "explanation": "At-Tholibu adalah Fa'il (pelaku) karena dialah yang melakukan pekerjaan 'duduk' (jalasa). Dalam ilmu Nahwu, Fa'il hukumnya wajib Marfu', dan tanda Rafa' untuk Isim Mufrad (kata benda tunggal) adalah Dhammah."
 }
