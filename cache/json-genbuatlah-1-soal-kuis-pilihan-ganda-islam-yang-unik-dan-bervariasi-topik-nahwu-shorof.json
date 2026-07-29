@@ -1,11 +1,11 @@
 {
-  "question": "Dalam kaidah Nahwu, jika kita ingin menunjuk dua buah buku (كِتَابَانِ) yang merupakan isim mudzakkar (laki-laki) dalam bentuk mutsanna (dua), manakah Isim Isyarah yang paling tepat digunakan?",
+  "question": "Dalam ilmu Nahwu, manakah di antara kata berikut yang termasuk kategori 'Isim Mabni' (kata yang harakat akhirnya tetap dan tidak berubah meskipun kedudukannya dalam kalimat berubah)?",
   "options": [
-    "هَذَا (Hādzā)",
-    "هَذِهِ (Hādzihī)",
-    "هَذَانِ (Hādzāni)",
-    "هَاتَانِ (Hātāni)"
+    "كِتَابٌ (Kitabun)",
+    "هُوَ (Huwa)",
+    "زَيْدٌ (Zaidun)",
+    "مَدْرَسَةٌ (Madrasatun)"
   ],
-  "correctIndex": 2,
-  "explanation": "Kata 'كِتَابَانِ' (Kitābāni) adalah bentuk mutsanna (dua) dari 'كِتَابٌ'. Dalam kaidah Isim Isyarah, untuk menunjuk dua benda laki-laki (Mutsanna Mudzakkar), digunakan kata 'هَذَانِ'. Sedangkan 'هَذَا' untuk tunggal laki-laki, 'هَذِهِ' untuk tunggal perempuan, dan 'هَاتَانِ' untuk dua perempuan."
+  "correctIndex": 1,
+  "explanation": "Isim Mabni adalah kata benda yang harakat akhirnya bersifat tetap (fixed). Salah satu kelompok Isim Mabni yang paling umum adalah Isim Dhamir (kata ganti) seperti 'Huwa'. Sedangkan pilihan lainnya (Kitabun, Zaidun, dan Madrasatun) adalah Isim Mu'rab yang harakat akhirnya dapat berubah (seperti menjadi -un, -an, atau -in) tergantung kedudukannya dalam kalimat."
 }
