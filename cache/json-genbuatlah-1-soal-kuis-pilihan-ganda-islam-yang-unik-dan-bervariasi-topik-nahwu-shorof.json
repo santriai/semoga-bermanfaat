@@ -1,11 +1,11 @@
 {
-  "question": "Dalam ilmu Nahwu, manakah di antara kata berikut yang termasuk kategori 'Isim Mabni' (kata yang harakat akhirnya tetap dan tidak berubah meskipun kedudukannya dalam kalimat berubah)?",
+  "question": "Dalam ilmu Nahwu, manakah di antara kata berikut yang termasuk kategori Isim Muannas (perempuan) meskipun tidak memiliki tanda Ta Marbutah (ة) di akhirnya?",
   "options": [
+    "شَمْسٌ (Syamsun)",
+    "حَمْزَةُ (Hamzah)",
     "كِتَابٌ (Kitabun)",
-    "هُوَ (Huwa)",
-    "زَيْدٌ (Zaidun)",
-    "مَدْرَسَةٌ (Madrasatun)"
+    "قَلَمٌ (Qalamun)"
   ],
-  "correctIndex": 1,
-  "explanation": "Isim Mabni adalah kata benda yang harakat akhirnya bersifat tetap (fixed). Salah satu kelompok Isim Mabni yang paling umum adalah Isim Dhamir (kata ganti) seperti 'Huwa'. Sedangkan pilihan lainnya (Kitabun, Zaidun, dan Madrasatun) adalah Isim Mu'rab yang harakat akhirnya dapat berubah (seperti menjadi -un, -an, atau -in) tergantung kedudukannya dalam kalimat."
+  "correctIndex": 0,
+  "explanation": "Kata 'Syamsun' (matahari) dikategorikan sebagai Muannas Majazi berdasarkan penggunaan orang Arab (Sima'i), meskipun tidak memiliki tanda fisik Ta Marbutah. Sebaliknya, 'Hamzah' adalah Isim Muzakkar (laki-laki) meskipun memiliki Ta Marbutah karena merujuk pada laki-laki, sedangkan 'Kitabun' dan 'Qalamun' adalah Isim Muzakkar murni."
 }
