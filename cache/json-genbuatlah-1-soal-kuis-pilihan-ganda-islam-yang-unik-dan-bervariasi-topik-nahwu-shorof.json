@@ -1,11 +1,11 @@
 {
-  "question": "Dalam kaidah ilmu Nahwu, isim Ghairu Munsharif (kata yang tidak boleh bertanwin) biasanya di-jar-kan dengan tanda fathah. Namun, pada kalimat 'زُرْتُ مَسَاجِدِ الْمَدِيْنَةِ', mengapa kata 'مَسَاجِدِ' dibaca dengan kasrah?",
+  "question": "Dalam kaidah ilmu Nahwu, manakah alasan yang paling tepat mengapa kata 'Ahmada' (أَحْمَدَ) dalam kalimat 'Sallamtu 'ala Ahmada' dibaca dengan harakat fathah meskipun didahului oleh huruf jar?",
   "options": [
-    "Karena ia merupakan isim jamak taksir yang munsyarif",
-    "Karena ia berkedudukan sebagai Mudhaf",
-    "Karena ia didahului oleh Fi'il Madhi",
-    "Karena ia merupakan Maf'ul Bih yang bersifat khusus"
+    "Karena Ahmada adalah Isim Ghairu Munsharif yang memiliki illat 'Alamiyah dan Wazan Fi'il.",
+    "Karena Ahmada adalah Isim Mabni yang harakat akhirnya tidak pernah berubah.",
+    "Karena Ahmada merupakan bentuk Jamak Taksir yang mengikuti pola Muntahal Jumu'.",
+    "Karena Ahmada adalah Isim Maqshur yang tanda i'rabnya dikira-kirakan (muqaddarah)."
   ],
-  "correctIndex": 1,
-  "explanation": "Isim Ghairu Munsharif (seperti wazan Shighat Muntahal Jumu' 'Masajid') akan kembali menggunakan tanda kasrah saat Jar dalam dua kondisi: pertama, jika kemasukan Alif Lam (ال); kedua, jika ia berkedudukan sebagai Mudhaf (disandarkan pada kata setelahnya). Dalam kalimat tersebut, 'Masajid' adalah Mudhaf kepada 'Al-Madinah'."
+  "correctIndex": 0,
+  "explanation": "Kata 'Ahmad' termasuk Isim Ghairu Munsharif (kata benda yang tidak boleh menerima tanwin). Ia memiliki dua sebab ('illat) yang mencegahnya dari tanwin dan kasrah, yaitu: 1) 'Alamiyah (nama orang), dan 2) Wazan Fi'il (mengikuti pola kata kerja 'Af'alu'). Dalam kaidah Nahwu, Isim Ghairu Munsharif ketika dalam posisi Jar (majrur) tanda i'rabnya adalah fathah, selama tidak ber-Alif Lam dan tidak menjadi Mudhaf."
 }
