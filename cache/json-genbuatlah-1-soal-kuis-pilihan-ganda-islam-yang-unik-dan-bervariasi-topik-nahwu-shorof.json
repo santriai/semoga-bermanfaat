@@ -1,11 +1,11 @@
 {
-  "question": "Dalam kalimat 'رَأَيْتُ أَبِيْ فِي الْمَسْجِدِ' (Saya melihat ayahku di masjid), apakah tanda i'rab nashab pada kata 'أَبِيْ'?",
+  "question": "Dalam kalimat 'حَضَرَ قَاضٍ إِلَى الْمَحْكَمَةِ' (Hadhara qadhin ilal mahkamati), apakah kedudukan i'rab dan tanda (alamat) yang tepat bagi kata 'قَاضٍ'?",
   "options": [
-    "Alif, karena termasuk bagian dari Asma'ul Khamsah",
-    "Fathah Muqaddarah (fathah yang dikira-kirakan) sebelum Ya' al-Mutakallim",
-    "Ya', karena merupakan tanda i'rab nashab pada isim mu'rab",
-    "Kasrah, karena mengikuti harakat Ya' al-Mutakallim"
+    "Fa'il, marfu' dengan dhommah zhahirah di akhir kata.",
+    "Fa'il, marfu' dengan dhommah muqaddarah di atas huruf ya' yang dibuang.",
+    "Maf'ul bih, mansub dengan fathah muqaddarah karena tsiqal.",
+    "Mudhaf ilaih, majrur dengan tanda kasrah zhahirah karena kemasukan amil jar."
   ],
   "correctIndex": 1,
-  "explanation": "Syarat agar Asma'ul Khamsah (Abun, Akhun, dsb) di-i'rab dengan huruf (Wawu, Alif, Ya') adalah harus 'Mudhaf' kepada selain 'Ya' al-Mutakallim'. Karena kata 'أَبِيْ' diidhafatkan kepada Ya' al-Mutakallim, maka i'rabnya tidak lagi menggunakan huruf, melainkan harakat yang dikira-kirakan (Muqaddarah) karena harakat munasabah (kasrah) yang menyertai Ya' tersebut."
+  "explanation": "Kata 'قاضٍ' adalah Isim Manqus (isim yang berakhiran ya' lazimah). Dalam kaidah Nahwu, jika Isim Manqus dalam keadaan nakirah dan berada dalam posisi marfu' (sebagai fa'il) atau majrur, maka huruf ya'-nya harus dibuang dan diganti dengan tanwin 'iwadh. I'rabnya tetap marfu' dengan dhommah muqaddarah (disembunyikan) di atas huruf ya' yang terbuang tersebut karena alasan tsiqal (berat diucapkan)."
 }
