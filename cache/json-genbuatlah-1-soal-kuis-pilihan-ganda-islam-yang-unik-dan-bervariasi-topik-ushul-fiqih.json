@@ -1,11 +1,11 @@
 {
-  "question": "Dalam ilmu Ushul Fiqih, kaidah dasar 'Al-Amru yafīdul-wujūb' (الأَمْرُ يُفِيْدُ الوُجُُوْبَ) memiliki arti bahwa...",
+  "question": "Dalam ilmu Ushul Fiqih, mayoritas ulama (Jumhur) menerima kehujahan 'Mafhum Mukhalafah' (pemahaman implisit yang bertolak belakang dari al-manthuq). Namun, kehujahannya gugur dalam kondisi tertentu. Manakah di antara kondisi berikut yang menyebabkan Mafhum Mukhalafah TIDAK BISA dijadikan sebagai dalil?",
   "options": [
-    "Setiap larangan dalam syariat secara otomatis menghasilkan hukum haram",
-    "Pada dasarnya setiap perintah menunjukkan hukum wajib, kecuali ada dalil lain yang memalingkannya",
-    "Perintah yang diulang-ulang dalam Al-Qur'an secara otomatis hukumnya berubah menjadi sunnah",
-    "Suatu perintah hanya wajib dilaksanakan jika disertai ancaman siksa"
+    "Sifat atau pembatasan dalam nash keluar berdasarkan kebiasaan yang umum terjadi (Kharaja Makhraja al-Ghalib).",
+    "Nash memiliki pembatasan berupa syarat yang jelas (Mafhum ash-Syarth).",
+    "Sifat yang disebutkan dalam nash merupakan sifat yang mengikat (Mafhum al-Washf).",
+    "Nash yang menjadi dasar hukum bersumber dari Hadis Ahad yang shahih."
   ],
-  "correctIndex": 1,
-  "explanation": "Kaidah 'Al-Amru yafīdul-wujūb' merupakan kaidah dasar penetapan hukum dari bentuk perintah (sighat amr) dalam ilmu Ushul Fiqih. Kaidah ini menegaskan bahwa setiap kalimat perintah pada dasarnya menuntut kewajiban (wajib), kecuali jika terdapat 'karinah' (indikator atau dalil lain) yang memalingkan hukumnya menjadi sunnah atau mubah."
+  "correctIndex": 0,
+  "explanation": "Salah satu syarat diterimanya Mafhum Mukhalafah menurut Jumhur Ulama adalah qayyid (pengikat) dalam nash tidak boleh keluar berdasarkan kebiasaan umum yang terjadi (Kharaja Makhraja al-Ghalib). Contohnya pada firman Allah tentang haramnya menikahi anak tiri 'yang dalam pemeliharaanmu' (QS. An-Nisa: 23). Frasa 'dalam pemeliharaanmu' adalah gambaran kebiasaan umum saat itu, sehingga Mafhum Mukhalafah-nya tidak berlaku—anak tiri tetap haram dinikahi meskipun tidak berada dalam pemeliharaan."
 }
