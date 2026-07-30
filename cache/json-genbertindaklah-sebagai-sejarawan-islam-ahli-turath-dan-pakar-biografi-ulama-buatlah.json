@@ -1,78 +1,89 @@
 {
-  "fullName": "Imam Jamaluddin Abu al-Mahasin Yusuf bin Ibrahim al-Ardabili al-Syafi'i (الإمام جمال الدين أبو المحاسن يوسف بن إبراهيم الأردبيلي الشافعي)",
-  "titles": "Al-Imam al-Allamah, Faqih al-Asr, Taj al-Fuqaha, Qudwat al-Ulama",
-  "birthYear": "Sekitar 720 H / 1320 M",
-  "deathYear": "799 H / 1397 M",
-  "century": "Abad ke-8 Hijriyah",
-  "birthDeath": "Lahir di Ardabil (Persia/Iran), Wafat di Ardabil",
-  "tombLocation": "Kawasan Kota Ardabil, Provinsi Ardabil, Iran",
-  "googleMapsLink": "https://maps.google.com/?q=Ardabil+Iran",
-  "intro": "Imam Jamaluddin Yusuf bin Ibrahim al-Ardabili adalah seorang ulama besar, faqih ulung bermadzhab Syafi'i, dan cendekiawan Muslim terkemuka pada abad ke-8 Hijriyah. Beliau dikenal secara luas di seluruh dunia Islam melalui karya monumentalnya dalam ranah fiqih Syafi'iyyah, yaitu kitab 'Al-Anwar li A'mal al-Abrar', yang menjadi rujukan utama para fuqaha dan santri hingga era modern. Dedikasi beliau dalam menyederhanakan, merangkum, dan mentahrir hukum-hukum fiqih menjadikan karyanya sangat digemari dan diajarkan di berbagai madrasah serta pesantren di Asia Tengah, Timur Tengah, hingga Nusantara.",
+  "fullName": "Al-Imam Abu 'Abdillah Muhammad bin Idris al-Syafi'i al-Muththalibi al-Qurasyi (الإمام أبو عبد الله محمد بن إدريس الشافعي المطلبي القرشي)",
+  "titles": "Nasir us-Sunnah (Pembela Sunnah), Mujaddid Abad ke-2 H, Imam al-Aimmah, Syaikhul Islam, Mujtahid Mutlaq",
+  "birthYear": "150 H / 767 M",
+  "deathYear": "204 H / 820 M",
+  "century": "Abad ke-2 H / Abad ke-3 H",
+  "birthDeath": "Lahir di Gaza (Palestina), Wafat di Fustat (Mesir)",
+  "tombLocation": "Kubah Imam Syafi'i, Kawasan Al-Qarafah (City of the Dead), Kairo, Mesir",
+  "googleMapsLink": "https://maps.app.goo.gl/343M2C4zB9E5J14CA",
+  "intro": "Al-Imam al-Syafi'i adalah pilar utama dalam pemikiran hukum Islam yang mempertemukan metodologi Teks (Ahl al-Hadith) dan Rasio (Ahl al-Ra'yi). Beliau merupakan peletak batu pertama ilmu Usul Fiqih melalui karya monumental Al-Risalah, yang merevolusi cara para ulama menggali hukum dari Al-Qur'an dan Sunnah. Gelar 'Nasir us-Sunnah' disematkan kepadanya atas kegigihannya mensistematisasikan kedudukan hadis Nabi sebagai hujjah hukum yang otoritatif.",
   "teachers": [
-    "Imam Jamaluddin al-Isnawi (Pengarang Nihayatul Sul)",
-    "Imam Taqiyuddin al-Subki (Syaikhul Islam)",
-    "Imam Adhududdin al-Iji (Pakar Kalam & Ushul)",
-    "Imam Tajuddin al-Subki (Pengarang Tabaqat al-Syafi'iyyah)",
-    "Syaikh Shamsuddin al-Khatib al-Waziri"
+    "Imam Malik bin Anas (Madinah - Penyusun Al-Muwatta')",
+    "Sufyan bin 'Uyaynah (Makkah - Ahli Hadis & Tafsir)",
+    "Muslim bin Khalid al-Zanji (Mufti Makkah)",
+    "Muhammad bin al-Hasan al-Syaibani (Baghdad - Murid Utama Imam Abu Hanifah)",
+    "Waki' bin al-Jarrah (Kufah - Ahli Hadis & Zuhud)",
+    "Fudhayl bin 'Iyadh (Makkah - Tokoh Sufi & Muhaddith)"
   ],
   "students": [
-    "Syaikh Zainuddin Ridwan al-Aqbi",
-    "Syaikh Ibn al-Haim al-Maqdisi (Pakar Faraidh & Fiqih)",
-    "Syaikh Tajuddin al-Ardabili (Putra/Murid beliau)",
-    "Syaikh Shihabuddin al-Ghazzi",
-    "Syaikh Ibn Fahd al-Makki"
+    "Imam Ahmad bin Hanbal (Pendiri Mazhab Hanbali)",
+    "Abu Ya'qub Yusuf bin Yahya al-Buwaiti (Penerus Majelis Imam Syafi'i)",
+    "Abu Ibrahim Ismail bin Yahya al-Muzani (Penulis Mukhtasar al-Muzani)",
+    "Al-Rabi' bin Sulaiman al-Muradi (Perawi Utama Kitab Al-Umm)",
+    "Hasan bin Muhammad al-Za'farani (Perawi Mazhab Qadim di Baghdad)",
+    "Abu Thawr Ibrahim bin Khalid al-Baghdadi (Mujtahid & Ulama Baghdad)"
   ],
   "works": [
-    "Al-Anwar li A'mal al-Abrar (الأنوار لأعمال الأبرار)",
-    "Sharh Masabih al-Sunnah al-Baghawi (شرح مصابيح السنة)",
-    "Sharh al-Hawi al-Saghir (شرح الحاوي الصغير)",
-    "Al-I'jaz fi al-Fiqh al-Syafi'i (الإيجاز في الفقه)",
-    "Ta'liqat 'ala al-Raudhah (تعليقات على الروضة)"
+    "Al-Risalah (Kitab Pertama dalam Ilmu Usul Fiqih)",
+    "Al-Umm (Enciklopedi Fiqih Mazhab Jadid)",
+    "Musnad al-Syafi'i (Kompilasi Hadis-Hadis Riwayat Beliau)",
+    "Ahkam al-Qur'an (Kajian Hukum-Hukum berbasis Ayat Al-Qur'an)",
+    "Ikhtilaf al-Hadith (Kajian Metodologis Pemecahan Hadis-Hadis Kontradiktif)",
+    "Diwan al-Syafi'i (Kumpulan Puisi Hikmah dan Sastra)"
   ],
-  "sanad": "Mata rantai keilmuan (sanad) Imam al-Ardabili bersambung kuat melalui para puncak ulama Madzhab Syafi'i abad ke-8 Hijriyah, seperti Imam al-Isnawi dan Imam Taqiyuddin al-Subki. Melalui gurunya, sanad beliau tersambung kepada Imam al-Nawawi, Imam al-Rafi'i, Hujjatul Islam Imam al-Ghazali, Imam al-Haramain al-Juwayni, hingga sampai kepada Imam Muhammad bin Idris al-Syafi'i. Jalur keilmuan ini berlanjut kepada Imam Malik bin Anas, Imam Nafi', Sayyiduna Abdullah bin Umar RA, hingga bermuara langsung kepada Rasulullah SAW.",
-  "manhaj": "Dalam Fiqih, Imam al-Ardabili menganut Madzhab Syafi'i dengan metodologi yang menitikberatkan pada tarjih (pemilihan pendapat terkuat) dan tahrir (penelitian ulang hukum) dari kitab Al-Raudhah karya Imam al-Nawawi dan Al-Wajiz karya Imam al-Ghazali. Dalam Akidah, beliau konsisten berada di atas manhaj Ahlus Sunnah wal Jama'ah (Asy'ariyah). Dalam ranah amaliyah dan spiritual, beliau mengintegrasikan Fiqih lahiriah dengan penyucian jiwa (Tasawuf), sehingga karya-karyanya tidak hanya membahas hukum teknis tetapi juga nilai-nilai keiklasan dan keimanan.",
+  "sanad": "Mata rantai keilmuan Imam Syafi'i menghubungkan dua mazhab besar pada zamannya. Dalam tradisi Hadis Hijaz, beliau berguru langsung kepada Imam Malik bin Anas yang menerima ilmu dari Nafi', dari Abdullah bin Umar, dari Rasulullah SAW (dikenal sebagai Silsilah al-Dzahab / Rantai Emas). Di Makkah, beliau mengambil sanad dari Sufyan bin 'Uyaynah dan Muslim bin Khalid al-Zanji. Dalam tradisi Ra'yi Irak, beliau menyerap fiqih Kufah langsung dari Muhammad bin al-Hasan al-Syaibani, murid terdekat Imam Abu Hanifah. Sintesis sanad Hijaz dan Irak ini menjadikan beliau mujtahid mandiri yang mampu menyaring keunggulan kedua tradisi.",
+  "manhaj": "Metodologi (Manhaj) Imam Syafi'i berpusat pada kodifikasi kaidah inferensi hukum (istinbath). Beliau menetapkan hierarki sumber hukum secara rinci: (1) Al-Qur'an dan As-Sunnah pada tingkatan sejajar sebagai wahyu, (2) Ijma' (kesepakatan ulama), dan (3) Qiyas (analogis) sebagai instrumen ijtihad darurat. Beliau tegas menolak Istihsan tanpa dasar teks riwayat. Dalam ranah Amaliyah/Fiqih, mazhabnya terbagi menjadi Qawl Qadim (pendapat periode Irak) dan Qawl Jadid (pendapat periode Mesir) yang disesuaikan dengan metodologi yang kian matang serta perkembangan realitas sosial. Dalam Akidah, beliau memegang teguh pilar Ahlus Sunnah wal Jama'ah menolak kalam Mu'tazilah, yang kelak diartikulasi secara matematis oleh Imam al-Asy'ari dan Imam al-Maturidi.",
   "timeline": [
     {
-      "year": "720 H",
-      "event": "Lahir di kota Ardabil, sebuah pusat kebudayaan dan keilmuan di wilayah Azerbaijan/Persia."
+      "year": "150 H",
+      "event": "Lahir di Gaza, Palestina pada tahun yang sama dengan wafatnya Imam Abu Hanifah."
     },
     {
-      "year": "740 H",
-      "event": "Melakukan rihlah ilmiah ke pusat-pusat peradaban Islam seperti Tabriz, Damaskus, dan Kairo untuk berguru kepada ulama-ulama ternama."
+      "year": "152 H",
+      "event": "Dibawa oleh ibunya ke Makkah untuk menjaga nasab Quraisy dan tumbuh dalam keadaan yatim."
     },
     {
-      "year": "765 H",
-      "event": "Menyelesaikan penyusunan karya masterpiece-nya, kitab 'Al-Anwar li A'mal al-Abrar', yang langsung mendapat pujian dari para ulama sezamannya."
+      "year": "163 H",
+      "event": "Menghafal Al-Qur'an usia 7 tahun, menghafal kitab Al-Muwatta' usia 10 tahun, lalu berangkat ke Madinah berguru kepada Imam Malik."
     },
     {
-      "year": "780 H",
-      "event": "Aktif mengajar, mengeluarkan fatwa, serta melatih generasi muda ulama di kawasan Persia dan Hijaz."
+      "year": "184 H",
+      "event": "Bertugas sebagai Qadhi di Yaman, ditangkap atas tuduhan fitnah politik Alawiyyin, lalu dibebaskan oleh Khalifah Harun al-Rasyid di Baghdad."
     },
     {
-      "year": "799 H",
-      "event": "Wafat di kota lahirnya, Ardabil, dan dimakamkan dengan penghormatan besar dari masyarakat dan para penuntut ilmu."
+      "year": "195 H",
+      "event": "Mulai mengajar di Masjid Jami' al-Gharbi Baghdad, merumuskan Al-Risalah edisi awal, dan melahirkan Qawl Qadim."
+    },
+    {
+      "year": "199 H",
+      "event": "Pindah dan menetap di Fustat, Mesir; mendiktekan karya monumental Al-Umm serta merevisi ijtihadnya (Qawl Jadid)."
+    },
+    {
+      "year": "204 H",
+      "event": "Wafat pada malam Jumat akhir bulan Rajab di Mesir dalam usia 54 tahun."
     }
   ],
   "narrativeSections": [
     {
       "title": "Nasab & Kelahiran",
-      "content": "Imam Jamaluddin Abu al-Mahasin Yusuf bin Ibrahim al-Ardabili lahir di kota Ardabil (sekarang masuk wilayah Iran barat laut dekat perbatasan Azerbaijan) pada awal abad ke-8 Hijriyah. Beliau tumbuh dalam lingkungan masyarakat yang kaya akan tradisi keilmuan Islam. Sejak kecil, kecerdasan dan kecenderungannya terhadap ilmu agama sudah terlihat menonjol. Keluarga beliau memberikan dorongan penuh baginya untuk mendalami Al-Qur'an, bahasa Arab, dan dasar-dasar ilmu syariat."
+      "content": "Al-Imam Muhammad bin Idris berasal dari garis keturunan mulia Bani Muththalib, bersambung langsung nasabnya dengan Rasulullah SAW pada Manaf bin Qushai. Beliau lahir di Gaza, Palestina pada tahun 150 H. Ibunya, seorang wanita cerdas dari kabilah Azd, membawa Syafi'i kecil kembali ke Makkah dalam usia dua tahun agar tumbuh di tanah kelahiran nenek moyangnya serta terjaga keutuhan bahasa Arab fushah-nya."
     },
     {
       "title": "Masa Menuntut Ilmu (Rihlah)",
-      "content": "Demi memuaskan dahaga keilmuannya, Imam al-Ardabili melakukan perjalanan ilmiah (rihlah 'ilmiyyah) ke berbagai pusat kebudayaan Islam. Beliau mendatangi kota Tabriz, Kairo, dan Syam yang kala itu dipenuhi oleh para pakar keilmuan Syafi'iyyah. Di Mesir dan Syam, beliau menimba ilmu dari tokoh-tokoh besar seperti Imam Jamaluddin al-Isnawi dan Syaikhul Islam Taqiyuddin al-Subki. Penguasaannya terhadap cabang-cabang ilmu fiqih, ushul fiqih, kebahasaan, dan hadits membuatnya diakui sebagai salah satu ulama paling cerdas di generasinya."
+      "content": "Kehidupan masa muda Imam Syafi'i diwarnai keteguhan di tengah keterbatasan ekonomi. Beliau mencatat pelajaran di atas tulang-belulang dan pelepah kurma. Untuk mendalami kedalaman bahasa, beliau hidup bersama Suku Huzail di padang pasir selama bertahun-tahun. Setelah menguasai Al-Muwatta', beliau berguru kepada Imam Malik di Madinah hingga wafatnya sang guru (179 H). Perjalanan ilmiahnya dilanjutkan ke Yaman, Kufah, dan Baghdad, menyerap khazanah keilmuan dari para tokoh terkemuka zaman itu."
     },
     {
       "title": "Masa Pengabdian & Karya",
-      "content": "Setelah matang dalam keilmuan, Imam al-Ardabili mencurahkan hidupnya untuk mengajar, mentahqiq masalah-masalah fiqih, dan menulis. Karya terbesarnya, 'Al-Anwar li A'mal al-Abrar', menjadi saksi keilmuan beliau yang luar biasa. Kitab ini merupakan ringkasan dan penyempurnaan dari kitab-kitab fiqih Syafi'i sebelumnya, khususnya ringkasan dari kitab Al-Raudhah karya Imam al-Nawawi. Kitab 'Al-Anwar' dikenal karena bahasa yang lugas, sistematika yang rapi, serta penyertaan hukum-hukum praktis amaliyah harian, sehingga sangat diminati oleh para ulama dan penuntut ilmu di berbagai penjuru dunia Islam."
+      "content": "Puncak pemikiran ilmiah beliau ditandai dengan penulisan Al-Risalah atas permintaan Abdurrahman bin Mahdi untuk meletakkan kaidah sahih dalam memahami teks hukum. Di Baghdad, beliau melahirkan Mazhab Qadim. Namun, ketika pindah ke Mesir (199 H) dan menyaksikan kondisi sosial, ilat hukum, serta riwayat hadis baru, beliau melakukan re-evaluasi ijtihad secara radikal. Hasilnya direkam dalam Mazhab Jadid dan dikodifikasikan dalam kitab Al-Umm oleh murid terdekatnya, Al-Rabi' bin Sulaiman."
     },
     {
       "title": "Karakter & Keteladanan",
-      "content": "Selain dikenal sebagai ulama yang berpengetahuan luas, Imam al-Ardabili adalah sosok yang sangat tawadhu, wara', dan memiliki kedalaman spiritual. Beliau tidak pernah menjadikan ilmunya sebagai sarana meraih kekuasaan atau kekayaan duniawi. Gaya hidupnya yang zuhud dan integritas moralnya yang tinggi membuat beliau sangat disegani, baik oleh jelata, kalangan akademisi, maupun para penguasa pada masa tersebut. Keikhlasannya dalam menyusun kitab terbukti dari bertahannya karya-karya beliau yang terus dibaca dan dicetak hingga abad ke-21."
+      "content": "Imam Syafi'i memadukan kedalaman intelektual dengan spiritualitas yang tinggi. Beliau membagi malamnya menjadi tiga bagian: sepertiga untuk menulis dan meneliti, sepertiga untuk shalat malam, dan sepertiga untuk istirahat. Di bulan Ramadan, beliau dikenal mengkhatamkan Al-Qur'an sebanyak 60 kali di luar shalat. Ketundukannya pada kebenaran tercermin dari ucapannya yang masyhur: 'Jika hadis itu shahih, maka itulah mazhabku,' serta keterbukaannya terhadap kebenaran dari siapapun lawan diskusinya."
     },
     {
       "title": "Wafat & Warisan Keilmuan",
-      "content": "Imam Jamaluddin al-Ardabili berpulang ke rahmatullah pada tahun 799 Hijriyah (1397 Masehi) di Ardabil. Beliau meninggalkan warisan intelektual yang luar biasa berharga bagi Umat Islam. Kitab 'Al-Anwar li A'mal al-Abrar' sampai saat ini terus menjadi syarh, hasyiyah, dan bahan kajian wajib di lembaga-lembaga pendidikan Islam tradisional, seperti Universitas Al-Azhar Mesir dan berbagai pesantren di Asia Tenggara, membuktikan betapa besarnya berkah dan kontribusi keilmuan yang beliau tinggalkan."
+      "content": "Imam Syafi'i wafat pada hari Jumat akhir bulan Rajab tahun 204 H akibat penyakit hemoroid (bawasir) kronis yang dideritanya karena intensitas mengajar dan menulis. Beliau dimakamkan di pemakaman Bani Zuhrah, Fustat (Kairo). Warisan metodologinya tidak hanya melahirkan Mazhab Syafi'i yang mendominasi kawasan Asia Tenggara, Timur Tengah, dan Afrika Timur, melainkan juga membidani lahirnya struktur hukum Islam sistematis yang digunakan oleh seluruh jurist Muslim hingga era modern."
     }
   ]
 }
