@@ -1,129 +1,149 @@
 {
-  "title": "Panduan Praktis Ilmu Tajwid Al-Qur'an: Dari Nol Sampai Lancar & Benar",
-  "intro": "Selamat datang! Modul ini dirancang khusus untuk Anda yang ingin belajar membaca Al-Qur'an dari dasar dengan hukum Tajwid yang benar. Tanpa rumus yang rumit, kita akan belajar langkah demi langkah menggunakan pendekatan praktis agar Anda bisa langsung menerapkannya saat membaca Al-Qur'an.",
+  "title": "Modul Praktis Belajar Naghom (Irama) Al-Qur'an dari Nol untuk Pemula",
+  "intro": "Selamat datang di panduan belajar Naghom (Seni Irama Al-Qur'an) paling praktis! Modul ini dirancang khusus bagi Anda yang ingin membaca Al-Qur'an dengan irama merdu, indah, dan menyentuh hati tanpa mengabaikan kaidah Tajwid. Dalam modul ini, Anda akan belajar dari tingkat paling dasar (nol) hingga mampu menyanyikan irama populer seperti Bayyati dan Nahawand secara mandiri.",
   "steps": [
     {
       "stepNumber": 1,
-      "title": "Langkah 1: Mengenal Nun Sukun (نْ) & Tanwin (ً ٍ ٌ) - Hukum Izhar (Dibaca Jelas)",
-      "explanation": "Langkah awal belajar Tajwid adalah memahami Nun Mati (نْ) dan Tanwin (ً ٍ ٌ). Ketika Nun Mati atau Tanwin bertemu salah satu dari 6 huruf Tenggorokan (أ , هـ , ع , ح , غ , خ), hukum bacanya adalah IZHAR HALQI. 'Izhar' artinya TERANG / JELAS. Suara Nun mati dibaca sangat jelas tanpa mendengung sedikit pun.",
+      "title": "Langkah 1: Memahami 3 Pola Nada Dasar (Naik, Datar, Turun)",
+      "explanation": "Seni irama Al-Qur'an (Naghom) pada dasarnya dibentuk oleh pergerakan nada suara. Sebelum mempelajari jenis-jenis irama, Anda wajib menguasai 3 pola pergerakan nada dasar: 1) Nada Naik (Suara diangkat sedikit), 2) Nada Datar (Suara stabil di tengah), dan 3) Nada Turun (Suara dihenyakkan/diturunkan lembut). Kunci utamanya adalah konsistensi tinggi rendah suara.",
       "examples": [
         {
-          "arabic": "مَنْ أَمَنَ",
-          "read": "Man āmana",
-          "meaning": "Barangsiapa yang beriman",
-          "note": "Nun sukun bertemu huruf Alif/Hamzah (أ), maka huruf Nun dibaca jelas 'Man', bukan 'Manmm' atau mendengung."
+          "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+          "read": "Al-ḥamdu lillāhi rabbil-'ālamīn",
+          "meaning": "Segala puji bagi Allah, Tuhan seluruh alam.",
+          "note": "Pola 1 (Nada Naik): Naikkan nada suara Anda pada kata 'rabbil-' lalu melayang di kata ''ālamīn'."
         },
         {
-          "arabic": "عَلِيمٌ حَكِيمٌ",
-          "read": "‘Alīmun ḥakīm",
-          "meaning": "Maha Mengetahui lagi Maha Bijaksana",
-          "note": "Dhammatain (tanwin) bertemu huruf Ha (ح), dibaca jelas 'Un' tanpa dengung."
+          "arabic": "الرَّحْمَٰنِ الرَّحِيمِ",
+          "read": "Ar-raḥmānir-raḥīm",
+          "meaning": "Yang Maha Pengasih, Maha Penyayang.",
+          "note": "Pola 2 (Nada Datar): Gunakan nada suara sedang dan rata dari awal hingga akhir kalimat."
+        },
+        {
+          "arabic": "مَالِكِ يَوْمِ الدِّينِ",
+          "read": "Māliki yaumid-dīn",
+          "meaning": "Pemilik hari pembalasan.",
+          "note": "Pola 3 (Nada Turun): Turunkan nada suara secara lembut di ujung ayat pada kata 'ad-dīn' sebagai penutup."
         }
       ],
-      "actionTip": "Rumus Cepat: Jika Nun Mati/Tanwin bertemu huruf yang keluar dari tenggorokan (seperti Hamzah, Ha, 'Ain, Ha, Ghain, Kha), baca huruf 'N'-nya secara tegas dan bersih!"
+      "actionTip": "Cobalah mengucapkan kata 'Satu' (dengan nada naik), 'Dua' (dengan nada datar), dan 'Tiga' (dengan nada turun). Ulangi pada ayat di atas sampai Anda merasakan perbedaan tinggi rendahnya suara."
     },
     {
       "stepNumber": 2,
-      "title": "Langkah 2: Hukum Idgham - Memasukkan Suara dengan / Tanpa Dengung",
-      "explanation": "Idgham artinya 'memasukkan'. Jadi, suara Nun mati/tanwin LELEH atau MASUK ke huruf berikutnya. Idgham terbagi 2: (1) Idgham Bighunnah (Dengung): jika bertemu huruf ي , ن , م , و (Disingkat: Ya-Na-Ma-Wa). Suara masuk sambil ditahan 2 ketukan. (2) Idgham Bilaghunnah (Tanpa Dengung): jika bertemu huruf ل dan ر. Suara masuk LANGSUNG tanpa ditahan/dengung.",
+      "title": "Langkah 2: Menguasai Naghom Bayyati (Irama Wajib & Induk Semua Irama)",
+      "explanation": "Bayyati adalah irama paling utama dan wajib dikuasai oleh setiap pembaca Al-Qur'an (Qari/Qariah). Irama ini memiliki sifat hangat, agung, dan tenang. Rumus cepat menyanyikan Bayyati adalah kombinasi 3 tingkatan nada: Qarar (Nada Rendah/Pembuka), Nawa (Nada Sedang/Naik), dan Jawab (Nada Tinggi/Puncak).",
       "examples": [
         {
-          "arabic": "مَنْ يَقُولُ",
-          "read": "May-yaqūlu",
-          "meaning": "Orang yang berkata",
-          "note": "Nun sukun bertemu Ya (ي). Suara Nun hilang, masuk ke Ya sambil didengungkan: 'Mayyy-yaqulu'."
+          "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+          "read": "Bismillāhir-raḥmānir-raḥīm",
+          "meaning": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang.",
+          "note": "Tingkat Qarar (Nada Rendah): Dibaca dengan nada suara dada, rendah, tenang, dan siap memasuki bacaan."
         },
         {
-          "arabic": "مِنْ رَبِّهِمْ",
-          "read": "Mir-rabbihim",
-          "meaning": "Dari Tuhan mereka",
-          "note": "Nun sukun bertemu Ra (ر). Suara Nun hilang total, langsung ke Ra tanpa dengung: 'Mir-rabbihim'."
+          "arabic": "اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ",
+          "read": "Iqra' bismi rabbikallażī khalaq",
+          "meaning": "Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan.",
+          "note": "Tingkat Nawa (Nada Naik): Angkat nada suara satu tingkat lebih tinggi dari pembuka, memberikan penekanan yang tegas."
+        },
+        {
+          "arabic": "خَلَقَ الْإِنْسَانَ مِنْ عَلَقٍ",
+          "read": "Khalaqal-insāna min 'alaq",
+          "meaning": "Dia telah menciptakan manusia dari segumpal darah.",
+          "note": "Tingkat Jawab (Nada Tinggi/Turun Penutup): Nada melonjak tinggi di awal kata 'Khalaqa', lalu meluncur turun melandai di akhir ayat."
         }
       ],
-      "actionTip": "Rumus Cepat: Bertemu Y-N-M-W = Tahan & Dengungkan 2 ketukan. Bertemu L & R = Masuk lurus tanpa ditahan!"
+      "actionTip": "Dengarkan rekaman rekaman Qari (seperti Syaikh Abdul Basit) saat membaca Basmalah irama Bayyati, lalu tirukan dengan teknik 'Latihan Cermin' (meniru nada demi nada)."
     },
     {
       "stepNumber": 3,
-      "title": "Langkah 3: Hukum Iqlab (Tukar) dan Ikhfa (Samarkan)",
-      "explanation": "1. IQLAB (Menukar): Terjadi HANYA jika Nun Mati/Tanwin bertemu huruf Ba (ب). Suara 'N' berubah jadi 'M' samar. 2. IKHFA HAQIQI (Menyamarkan): Terjadi jika bertemu 15 huruf sisa (seperti ت, ث, ج, د, ذ, ز, س, ش, ص, ض, ط, ظ, ف, ق, ك). Suara 'N' disamarkan ke arah huruf berikutnya sambil didengungkan.",
+      "title": "Langkah 3: Menguasai Naghom Nahawand (Irama Sedih & Lembut)",
+      "explanation": "Setelah Bayyati, irama Nahawand adalah irama yang paling favorit karena karakternya yang sangat syahdu, lembut, emosional, dan terkesan sedih. Sangat cocok digunakan untuk membaca ayat-ayat tentang doa, ampunan, kisah, atau surga dan neraka.",
       "examples": [
         {
-          "arabic": "مِنْ بَعْدِ",
-          "read": "Mim-ba‘di",
-          "meaning": "Setelah / Sesudah",
-          "note": "Nun sukun bertemu Ba (ب). Suara 'N' berubah menjadi 'M' halus: 'Mim ba'di'."
+          "arabic": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
+          "read": "Iżā jā'a naṣrullāhi wal-fatḥ",
+          "meaning": "Apabila telah datang pertolongan Allah dan kemenangan.",
+          "note": "Nahawand Naik: Nada agak mengayun lembut ke atas, menghasilkan kesan puitis dan penuh harapan."
         },
         {
-          "arabic": "مِنْ دُونِ",
-          "read": "Minng-dūni",
-          "meaning": "Selain / Selain dari",
-          "note": "Nun sukun bertemu Dal (د). Suara 'N' samar siap-siap membentuk huruf D sambil didengungkan."
+          "arabic": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا",
+          "read": "Wa ra'aitan-nāsa yadkhulūna fī dīnillāhi afwājā",
+          "meaning": "Dan engkau melihat manusia berbondong-bondong masuk agama Allah.",
+          "note": "Nahawand Datar/Sedang: Nada mengalir bergelombang halus di tengah-tengah rentang suara."
+        },
+        {
+          "arabic": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا",
+          "read": "Fa sabbiḥ biḥamdi rabbika wastaghfirh, innahū kāna tawwābā",
+          "meaning": "Maka bertasbihlah dengan memuji Tuhanmu dan mohonlah ampunan kepada-Nya. Sungguh, Dia Maha Penerima tobat.",
+          "note": "Nahawand Turun Penutup: Suara meliuk merdu ke arah bawah dengan penekanan emosional di kata 'Tawwābā'."
         }
       ],
-      "actionTip": "Rumus Cepat: Ada huruf Ba (ب) = ganti suara 'N' jadi 'M'. Ada 15 huruf Ikhfa = samarkan huruf 'N' menjadi dengung 'NG/N' yang gantung!"
+      "actionTip": "Praktikkan irama Nahawand saat membaca Surah Ad-Dhuha atau Surah An-Nasr untuk merasakan getaran emosi bacaan yang syahdu."
     },
     {
       "stepNumber": 4,
-      "title": "Langkah 4: Hukum Mim Sukun (مْ) & Ghunnah Musyaddadah",
-      "explanation": "1. Ghunnah Musyaddadah: Setiap kali melihat huruf Nun (نّ) atau Mim (مّ) yang memiliki bertasydid, WAJIB didengungkan dan ditahan 2-3 ketukan. 2. Mim Sukun (مْ): Jika bertemu Mim (م) = Idgham Mislain (dengung). Jika bertemu Ba (ب) = Ikhfa Syafawi (dengung samar). Jika bertemu huruf selain Mim & Ba = Izhar Syafawi (dibaca jelas bibir merapat).",
+      "title": "Langkah 4: Mengawinkan Irama (Naghom) dengan Hukum Tajwid",
+      "explanation": "Aturan Emas Naghom: 'Tajwid adalah Raja, Naghom adalah Mahkota'. Jangan pernah merusak bacaan Tajwid demi mengejar irama indah! Tempatkan cengkok irama pada hukum bacaan yang panjang (seperti Mad Jaiz/Wajib) atau bacaan dengung (Ghunnah, Ikhfa, Idgham), BUKAN pada bacaan pendek (Qashar).",
       "examples": [
         {
-          "arabic": "إِنَّ مَعَ",
-          "read": "Innn-na ma‘a",
-          "meaning": "Sesungguhnya bersama",
-          "note": "Nun bertasydid (نّ) wajib didengungkan dan ditahan agak lama sebelum masuk vokal 'a'."
+          "arabic": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ",
+          "read": "Innā a'ṭainākal-kauṡar",
+          "meaning": "Sungguh, Kami telah memberimu nikmat yang banyak.",
+          "note": "Penempatan Cengkok: Mainkan keindahan variasi nada pada huruf 'Innā' (Ghunnah 2 harakat) dan 'a'ṭainā' (Mad Jaiz 4-5 harakat). Sisa huruf pendek dibaca tegas tanpa diseret."
         },
         {
-          "arabic": "لَهُمْ مَا",
-          "read": "Lahumm-mā",
-          "meaning": "Bagi mereka apa yang...",
-          "note": "Mim sukun bertemu Mim (م). Bibir mengatup dan ditahan didengungkan."
+          "arabic": "فَصَلِّ لِرَبِّكَ وَانْحَرْ",
+          "read": "Fa ṣalli lirabbika wan-ḥar",
+          "meaning": "Maka laksanakanlah salat karena Tuhanmu dan berkurbanlah.",
+          "note": "Penerapan Nada Pendek: Karena tidak ada bacaan panjang yang dominan, nada diselesaikan secara lugas dan tidak diulur-ulur."
         }
       ],
-      "actionTip": "Rumus Cepat: Ketemu Nun/Mim bertasydid (نّ / مّ) = Tahan suara dengung agak lama! Jangan terburu-buru melompat."
+      "actionTip": "Tandai ayat yang memiliki Mad Panjang (seperti bendera/mad wajib) atau Ghunnah. Hanya di titik-titik itulah Anda boleh memasukkan variasi liukan nada (cengkok)."
     },
     {
       "stepNumber": 5,
-      "title": "Langkah 5: Memahami Mad Thabi'i (Panjang Dasar 2 Harakat) & Praktek Surah",
-      "explanation": "Mad artinya memanjangkan suara. Mad Thabi'i (Mad Asli) adalah fondasi panjang-pendek. Aturannya sangat mudah: (1) Alif (ا) setelah Fathah ( َ ), (2) Ya Sukun (يْ) setelah Kasrah ( ِ ), (3) Wau Sukun (و) setelah Dhammah ( ُ ). Semua pola ini dibaca PANJANG 2 HARAKAT (sekitar 2 ayunan/ketukan santai).",
+      "title": "Langkah 5: Praktek Mandiri Menerapkan Naghom pada Surah Al-Fatihah",
+      "explanation": "Kini saatnya Anda menggabungkan seluruh pengetahuan langkah 1 hingga 4 secara mandiri. Kita akan mempraktekkan irama Bayyati utuh pada Surah Al-Fatihah dari ayat 1 sampai 7.",
       "examples": [
         {
-          "arabic": "قَالَ",
-          "read": "Qāla",
-          "meaning": "Dia (laki-laki) telah berkata",
-          "note": "Huruf Qaf berharakat Fathah bertemu Alif. Dibaca panjang 2 ketukan 'Qā'."
+          "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+          "read": "Bismillāhir-raḥmānir-raḥīm",
+          "meaning": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang.",
+          "note": "Ayat 1 (Bayyati Qarar/Rendah): Nada pembuka yang tenang dan datar."
         },
         {
-          "arabic": "قِيلَ",
-          "read": "Qīla",
-          "meaning": "Dikatakan",
-          "note": "Huruf Qaf berharakat Kasrah bertemu Ya sukun. Dibaca panjang 2 ketukan 'Qī'."
+          "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+          "read": "Al-ḥamdu lillāhi rabbil-'ālamīn",
+          "meaning": "Segala puji bagi Allah, Tuhan seluruh alam.",
+          "note": "Ayat 2 (Bayyati Naik): Nada mulai diangkat di akhir ayat ('-lāmīn')."
         },
         {
-          "arabic": "يَقُولُ",
-          "read": "Yaqūlu",
-          "meaning": "Dia sedang berkata",
-          "note": "Huruf Qaf berharakat Dhammah bertemu Wau sukun. Dibaca panjang 2 ketukan 'Qū'."
+          "arabic": "الرَّحْمَٰنِ الرَّحِيمِ",
+          "read": "Ar-raḥmānir-raḥīm",
+          "meaning": "Yang Maha Pengasih, Maha Penyayang.",
+          "note": "Ayat 3 (Bayyati Tinggi/Jawab): Suara diangkat lebih tinggi pada kata 'Ar-raḥmān'."
+        },
+        {
+          "arabic": "مَالِكِ يَوْمِ الدِّينِ",
+          "read": "Māliki yaumid-dīn",
+          "meaning": "Pemilik hari pembalasan.",
+          "note": "Ayat 4 (Bayyati Turun/Penutup 1): Nada diturunkan lembut menuju tangga nada dasar."
         }
       ],
-      "actionTip": "Cobalah buka Surah Al-Ikhlas atau Al-Falaq. Praktikkan membaca dengan menahan dengung Nun/Mim tasydid dan memanjangkan Mad Asli persis 2 ketukan!"
+      "actionTip": "Rekam suara Anda sendiri membaca 4 ayat Al-Fatihah di atas menggunakan ponsel, lalu dengarkan kembali untuk mengevaluasi ketepatan nada dan tajwidnya."
     }
   ],
   "sections": [
     {
-      "title": "Ringkasan Kaidah Penting Hukum Nun Mati & Tanwin",
-      "content": "1. Izhar (6 huruf: أ هـ ع ح غ خ) = Dibaca JELAS tanpa dengung.\n2. Idgham Bighunnah (4 huruf: ي ن م و) = DITAHAN & DEDENGUNGKAN.\n3. Idgham Bilaghunnah (2 huruf: ل ر) = MASUK LANGSUNG tanpa dengung.\n4. Iqlab (1 huruf: ب) = UBAH suara N jadi M.\n5. Ikhfa (15 huruf sisa) = DISAMARKAN gantung suara N."
-    },
-    {
-      "title": "Kunci Utama Sukses Membaca Al-Qur'an bagi Pemula",
-      "content": "Jangan takut salah di awal. Fokuslah pada 3 hal utama terlebih dahulu: (1) Ketepatan huruf (Makhraj), (2) Kejelasan Panjang Pendek (Mad 2 Harakat), dan (3) Penahanan Dengung pada Nun/Mim Tasydid. Jika tiga hal ini konsisten, bacaan Anda sudah terdengar sangat indah dan sesuai standar Tajwid dasar."
+      "title": "Ringkasan Kaidah Penting Naghom",
+      "content": "1. Tajwid > Naghom: Hukum Tajwid (Makhraj, Harakat, Mad, Dengung) adalah pondasi mutlak yang tidak boleh dikorbankan demi irama.\n2. Tiga Gerak Nada Utama: Naik (Muntaha/Nawa), Datar (Tawassuth), dan Turun (Jawab/Qarar).\n3. Dua Irama Utama Pemula: Bayyati (Karakter tenang/agung) dan Nahawand (Karakter syahdu/sedih).\n4. Larangan 'Tathrib': Dilarang memanjangkan bacaan yang seharusnya pendek hanya agar iramanya pas dengan lagu."
     }
   ],
   "tips": [
-    "Gunakan jari tangan Anda untuk mengetuk perlahan saat mengukur panjang Mad Thabi'i (2 ketukan santai).",
-    "Selalu dengarkan murottal Sheikh/Qari ternama (seperti Syaikh Mishary Rashid) sambil menyimak mushaf Al-Qur'an untuk melatih pendengaran.",
-    "Beli atau gunakan Al-Qur'an Tajwid Berwarna untuk memudahkan pemula mengenali mana yang harus didengungkan atau dibaca panjang.",
-    "Luangkan waktu minimal 10-15 menit setiap hari setelah shalat untuk latihan mempraktikkan hukum tajwid ini secara konsisten."
+    "Gunakan teknik 'Pernapasan Perut' (Diafragma) agar napas Anda panjang dan nada tinggi tidak terdengar tercekik.",
+    "Lakukan metode 'Talaqqi' (mendengar dan meniru) rekaman Qari populer seperti Syaikh Mishary Rashid Al-Afasy atau Qari lokal favorit Anda setiap hari minimal 15 menit.",
+    "Fokus menguasai 1 jenis Naghom (misalnya Bayyati) sampai mahir sebelum berpindah mempelajari jenis naghom lainnya (Saba, Rast, Hijaz, dll).",
+    "Jangan malu merekam suara sendiri. Mendengar rekam jejak suara sendiri adalah cara tercepat memperbaiki kesalahan nada."
   ],
-  "summary": "Selamat! Anda telah mempelajari dasar-dasar ilmu Tajwid yang paling sering muncul di dalam Al-Qur'an. Kunci mahir membaca Al-Qur'an bukan sekadar menghafal teori, melainkan membiasakan lisan untuk mempraktikkannya setiap hari. Mulailah membaca surah-surah pendek Juz 30 hari ini dan rasakan perbedaannya. Semoga Allah memberikan kemudahan dan keberkahan dalam belajar Al-Qur'an!"
+  "summary": "Membaca Al-Qur'an dengan irama merdu (Naghom) adalah sunnah yang sangat dianjurkan untuk memperindah bacaan Al-Qur'an dan menyentuh hati pendengarnya. Ingatlah bahwa kunci utama menguasai naghom adalah konsistensi, kelenturan vokal, dan menjaga ketepatan hukum Tajwid. Mulailah dari irama Bayyati yang sederhana, latih setiap hari, dan nikmati setiap proses mendekatkan diri kepada Al-Qur'an!"
 }
