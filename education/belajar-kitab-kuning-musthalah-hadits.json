@@ -1,34 +1,148 @@
 {
-  "title": "Belajar Kitab Kuning: Musthalah Hadits (Dirasah Ta'shiliyah)",
-  "intro": "Musthalah Hadits adalah ilmu tentang dasar-dasar dan kaidah untuk mengetahui kondisi sanad (jalur periwayatan) dan matan (teks hadits) dari sisi diterima (maqbul) atau ditolaknya (mardud). Ilmu ini berfungsi sebagai filter utama dalam menjaga kemurnian ajaran Rasulullah SAW dari distorsi dan pemalsuan.",
+  "title": "Modul Panduan Praktis Musthalah Hadits: Dari Nol Sampai Paham Istilah Kitab Kuning",
+  "intro": "Selamat datang di modul pembelajaran Musthalah Hadits! Modul ini dirancang khusus untuk pemula dari tingkat nol agar dapat memahami istilah-istilah penting dalam ilmu hadits, struktur hadits, dan pembagian kualitas hadits dengan cara yang sangat sederhana, rinci, dan langsung dapat dipraktekkan saat membaca kitab kuning.",
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Langkah 1: Memahami Anatomi Utama Hadits (Sanad, Matan, dan Rawi)",
+      "explanation": "Sebelum menilai suatu hadits, kita harus tahu dulu struktur bangunan hadits. Sebuah hadits secara umum terdiri dari 3 bagian utama: Sanad (rantai penyampai), Matan (isi teks hadits), dan Rawi/Mukharrij (orang yang membukukan hadits). Bayangkan sanad seperti pipa air dan matan adalah airnya; air akan bersih jika pipa yang dilaluinya bersih.",
+      "examples": [
+        {
+          "arabic": "سَنَدٌ",
+          "read": "Sanad",
+          "meaning": "Silsilah perawi/jalur penutur yang menyambung sampai ke Nabi",
+          "note": "Contoh kalimat sanad: 'Haddatsana Fulanun 'an Fulanin' (Telah menceritakan kepada kami si A dari si B)."
+        },
+        {
+          "arabic": "مَتْنٌ",
+          "read": "Matan",
+          "meaning": "Teks/isi ucapan, perbuatan, atau ketetapan Nabi",
+          "note": "Matan adalah redaksi sabda Nabi, misalnya kalimat 'Innamal a'malu bin-niyyat'."
+        },
+        {
+          "arabic": "رَاوِي",
+          "read": "Rawi",
+          "meaning": "Orang yang meriwayatkan atau mencatat hadits",
+          "note": "Seperti Imam Bukhari, Imam Muslim, Abu Dawud, dan At-Tirmidzi."
+        }
+      ],
+      "actionTip": "Buka satu hadits pendek di kitab riwayat, lalu pisahkan dengan pensil mana bagian Sanad (nama-nama perawi) dan mana bagian Matan (isi sabda)."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Langkah 2: Mengenal Klasifikasi Hadits Berdasarkan Jumlah Jalur (Mutawatir vs Ahad)",
+      "explanation": "Hadits sampai kepada kita melalui jalur riwayat. Jika jalurnya sangat banyak di setiap tingkatan sehingga mustahil para perawinya sepakat berbohong, disebut Mutawatir (pasti benar). Jika jalurnya terbatas, disebut 'Ahad'. Hadits Ahad inilah yang nantinya diteliti kualitasnya.",
+      "examples": [
+        {
+          "arabic": "مُتَوَاتِرٌ",
+          "read": "Mutawatir",
+          "meaning": "Hadits yang diriwayatkan oleh orang banyak dalam setiap tingkatan generasi",
+          "note": "Hukumnya wajib dipercayai secara pasti (Yaqini)."
+        },
+        {
+          "arabic": "آحَادٌ",
+          "read": "Ahad",
+          "meaning": "Hadits yang perawinya tidak mencapai jumlah mutawatir",
+          "note": "Membawa faedah dugaan kuat (Zhanni) dan perlu diteliti kesahihannya."
+        }
+      ],
+      "actionTip": "Ingat rumus sederhana: Mutawatir = Jalur Sangat Banyak (Pasti), Ahad = Jalur Terbatas (Perlu Diteliti)."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Langkah 3: Menguasai 5 Syarat Utama Hadits Shahih",
+      "explanation": "Bagaimana sebuah hadits dinyatakan Shahih (Sangat Kuat & Sah)? Kitab-kitab Musthalah Hadits menyimpulkan 5 syarat mutlak yang wajib dipenuhi. Jika 1 saja gugur, tingkatannya turun menjadi Hasan atau Dha'if.",
+      "examples": [
+        {
+          "arabic": "اِتِّصَالُ السَّنَدِ",
+          "read": "Ittishalus-Sanad",
+          "meaning": "Sanadnya Bersambung",
+          "note": "Setiap murid benar-benar menerima langsung dari gurunya tanpa terputus."
+        },
+        {
+          "arabic": "عَدَالَةُ الرُّوَاةِ",
+          "read": "'Adalatur-Ruwah",
+          "meaning": "Perawinya Berakhlaq Mulia ('Adil)",
+          "note": "Perawi seorang muslim, baligh, berakal, tidak suka maksiat, dan menjaga kehormatan."
+        },
+        {
+          "arabic": "ضَبْطُ الرُّوَاةِ",
+          "read": "Dhabtur-Ruwah",
+          "meaning": "Hafalan Perawi Sangat Kuat (Dhabith)",
+          "note": "Baik hafalan di ingatan maupun kecermatan catatan kitabnya."
+        },
+        {
+          "arabic": "عَدَمُ الشُّذُوذِ",
+          "read": "'Adamush-Syudzudz",
+          "meaning": "Tidak Syadz (Tidak Menyelisihi Perawi Lain yang Lebih Tsiqah)",
+          "note": "Isi/jalur hadits tidak bertentangan dengan periwayatan orang yang lebih tepercaya."
+        },
+        {
+          "arabic": "عَدَمُ الْعِلَّةِ",
+          "read": "'Adamul-'Illah",
+          "meaning": "Tidak Memiliki 'Cacat' Tersembunyi ('Illah)",
+          "note": "Bebas dari cacat terselubung yang hanya bisa diketahui oleh ahli hadits tingkat tinggi."
+        }
+      ],
+      "actionTip": "Hafalkan 5 syarat ini dengan kuncinya: (1) Sambung, (2) Jujur, (3) Kuat Hafalan, (4) Tak Janggal, (5) Tak Cacat."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Langkah 4: Memahami Tingkatan Kualitas Hadits (Shahih, Hasan, Dha'if)",
+      "explanation": "Setelah menguji dengan 5 syarat di atas, hadits dikelompokkan menjadi 3 tingkatan utama: Shahih (Sempurna), Hasan (Hafalan agak kurang sedikit tapi tetap bisa dijadikan hujjah), dan Dha'if (Lemah/Gugur syaratnya).",
+      "examples": [
+        {
+          "arabic": "صَحِيحٌ",
+          "read": "Shahih",
+          "meaning": "Hadits yang memenuhi 5 syarat secara sempurna",
+          "note": "Wajib diamalkan dan dijadikan landasan hukum Islam."
+        },
+        {
+          "arabic": "حَسَنٌ",
+          "read": "Hasan",
+          "meaning": "Hadits yang memenuhi syarat shahih, namun tingkat hafalan perawinya sedikit di bawah shahih",
+          "note": "Tetap sah digunakan sebagai hujjah hukum."
+        },
+        {
+          "arabic": "ضَعِيفٌ",
+          "read": "Dha'if",
+          "meaning": "Hadits yang tidak memenuhi salah satu atau lebih dari syarat Shahih/Hasan",
+          "note": "Tidak bisa dijadikan landasan utama hukum aqidah/figh."
+        }
+      ],
+      "actionTip": "Saat membaca kitab fiqih kuning, perhatikan catatan di footnote status haditsnya: apakah ditulis 'Haditsun Shahihun' atau 'Haditsun Dha'ifun'."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Langkah 5: Praktek Membaca Teks Kitab Kuning Musthalah Hadits",
+      "explanation": "Sekarang mari kita praktekkan membaca potongan Matan Al-Bayquniyyah (kitab standar pemula Musthalah Hadits) kata demi kata beserta harakat dan maknanya.",
+      "examples": [
+        {
+          "arabic": "أَوَّلُهَا الصَّحِيحُ وَهُوَ مَا اتَّصَلْ",
+          "read": "Awwaluhas-shahihu wa huwa mat-tashal",
+          "meaning": "Yang pertama adalah Hadits Shahih, yaitu hadits yang bersambung...",
+          "note": "أَوَّلُهَا (awwaluha = yang pertama darinya), الصَّحِيحُ (as-shahihu = adalah hadits shahih), وَهُوَ (wa huwa = dan dia), مَا (ma = apa/hadits yang), اتَّصَلْ (ittashal = bersambung sanadnya)."
+        },
+        {
+          "arabic": "إِسْنَادُهُ وَلَمْ يَشُذَّ أَوْ يُعَلَّ",
+          "read": "Isnaduhu wa lam yasyudzza aw yu'al",
+          "meaning": "...sanadnya, serta tidak janggal (syadz) dan tidak bercacat ('illat).",
+          "note": "إِسْنَادُهُ (isnaduhu = sanadnya), وَلَمْ (wa lam = dan tidak), يَشُذَّ (yasyudzza = janggal), أَوْ (aw = atau), يُعَلَّ (yu'al = diberi cacat)."
+        }
+      ],
+      "actionTip": "Baca teks Arab di atas berulang-ulang sampai lancar, lalu cocokkan maknanya kata demi kata tanpa melihat terjemahannya."
+    }
+  ],
   "sections": [
     {
-      "title": "Urgensi dan Tujuan Ilmu Musthalah",
-      "content": "Dalam tradisi pesantren, Musthalah Hadits dipelajari untuk membangun nalar kritis (naqd) terhadap informasi. Tujuannya adalah membedakan antara sabda Nabi yang valid (Sahih) dengan yang lemah (Dha'if) atau bahkan palsu (Maudhu'). Tanpa ilmu ini, seseorang berisiko menyandarkan sesuatu yang bukan dari Nabi kepada Nabi, yang merupakan dosa besar."
-    },
-    {
-      "title": "Klasifikasi Hadits Berdasarkan Kualitas",
-      "content": "Hadits secara umum terbagi menjadi tiga kategori utama: 1. Sahih: Hadits yang bersambung sanadnya, diriwayatkan oleh perawi yang adil dan dhabith (kuat hafalan/catatan), serta tidak mengandung syadz (janggal) maupun 'illah (cacat tersembunyi). 2. Hasan: Mirip dengan Sahih namun tingkat kedhabithan perawinya sedikit di bawah Sahih. 3. Dha'if: Hadits yang tidak memenuhi satu atau lebih syarat hadits Sahih maupun Hasan."
-    },
-    {
-      "title": "Struktur Sanad dan Matan",
-      "content": "Setiap hadits terdiri dari dua bagian: Sanad dan Matan. Sanad adalah silsilah para perawi yang menghubungkan kita kepada teks hadits. Matan adalah redaksi atau isi pembicaraan yang disampaikan. Analisis Musthalah Hadits menitikberatkan pada ketersambungan rantai sanad (Ittishal as-Sanad) dan integritas moral serta intelektual setiap individu dalam rantai tersebut."
-    },
-    {
-      "title": "Terminologi Kuantitas Perawi",
-      "content": "Berdasarkan jumlah perawi di setiap tingkatan sanad, hadits dibagi menjadi: 1. Mutawatir: Diriwayatkan oleh orang banyak yang mustahil sepakat berbohong (memberikan keyakinan pasti). 2. Ahad: Hadits yang jumlah perawinya tidak mencapai derajat mutawatir, terbagi lagi menjadi Masyhur (min. 3 perawi), Aziz (min. 2 perawi), dan Gharib (hanya 1 perawi di satu titik sanad)."
-    },
-    {
-      "title": "Kitab Rujukan Utama (Maraji')",
-      "content": "Dalam kurikulum pesantren, kitab yang lazim dikaji antara lain: 1. Al-Baiquniyyah (Nazhom ringkas untuk pemula). 2. Taysir Musthalah al-Hadith karya Dr. Mahmud Thahhan (Sistematis/Modern). 3. Nukhbatul Fikar karya Ibnu Hajar al-Asqalani (Materi fundamental yang padat)."
+      "title": "Ringkasan Kaidah Penting Musthalah Hadits",
+      "content": "1. Sanad = Silsilah Perawi. Matan = Isi Sabda. Mukharrij = Penulis Kitab Hadits.\n2. Syarat Hadits Shahih ada 5: Sanad Bersambung, Perawi 'Adil, Perawi Dhabith, Tidak Syadz, Tidak 'Illat.\n3. Perbedaan Shahih dan Hasan terletak pada tingkat ke-Dhabith-an (kekuatan hafalan) perawinya.\n4. Hadits Dha'if terjadi karena adanya mata rantai sanad yang terputus atau adanya perawi yang bermasalah dalam kejujuran/hafalan."
     }
   ],
   "tips": [
-    "Hafalkan Nazhom Al-Baiquniyyah untuk memudahkan mengingat definisi dasar secara cepat.",
-    "Gunakan metode skema atau pohon sanad saat menganalisis jalur periwayatan hadits.",
-    "Bedakan antara 'Adalah (integritas moral) dan Dhabth (kekuatan memori) perawi.",
-    "Seringlah merujuk pada kitab Rijalul Hadits untuk mengenal biografi para perawi.",
-    "Jangan terburu-buru menghukumi sebuah hadits tanpa melihat verifikasi dari para ulama pakar (Nuqqad)."
+    "Gunakan istilah kunci Bahasa Indonesia untuk mengingat 5 syarat shahih: SAMBUNG - JUJUR - INGATAN KUAT - TIDAK ANEH - TIDAK CACAT.",
+    "Jangan terburu-buru menghafal seluruh istilah rumit, kuasai dulu 3 istilah dasar: Shahih, Hasan, dan Dha'if.",
+    "Saat membaca kitab kuning, fokuslah melatih pemisahan antara teks Sanad (حَدَّثَنَا...) dan isi Matan (قَالَ رَسُولُ اللهِ...)."
   ],
-  "summary": "Ilmu Musthalah Hadits adalah instrumen metodologis paling objektif dalam sejarah peradaban manusia untuk menguji validitas sebuah informasi sejarah. Menguasai ilmu ini adalah syarat mutlak bagi siapapun yang ingin mendalami syariat Islam secara kaffah dan ilmiah."
+  "summary": "Selamat! Anda telah mempelajari fondasi dasar Musthalah Hadits dari nol. Kunci utama dalam menguasai kitab kuning adalah konsistensi mengulang latihan membaca teks dan memahami istilah dasarnya. Teruslah berlatih, nikmati prosesnya, dan jadikan ilmu ini sebagai sarana mendekatkan diri pada ajaran Rasulullah SAW secara murni dan tepat."
 }
