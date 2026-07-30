@@ -1,148 +1,112 @@
 {
-  "title": "Modul Panduan Praktis Musthalah Hadits: Dari Nol Sampai Paham Istilah Kitab Kuning",
-  "intro": "Selamat datang di modul pembelajaran Musthalah Hadits! Modul ini dirancang khusus untuk pemula dari tingkat nol agar dapat memahami istilah-istilah penting dalam ilmu hadits, struktur hadits, dan pembagian kualitas hadits dengan cara yang sangat sederhana, rinci, dan langsung dapat dipraktekkan saat membaca kitab kuning.",
+  "title": "Modul Kilat Ushul Fiqih: Cara Mudah Memahami Kaidah Hukum Islam dari Kitab Kuning untuk Pemula",
+  "intro": "Selamat datang di modul panduan praktis Ushul Fiqih! Modul ini dirancang khusus untuk pemula yang ingin memahami bagaimana para ulama menetapkan hukum Islam (seperti Wajib, Haram, Sunnah) langsung dari teks Kitab Kuning dan Al-Qur'an. Setelah mempelajari modul ini, Anda akan mampu membaca teks dasar Ushul Fiqih serta menganalisis kaidah hukum sederhana secara mandiri.",
   "steps": [
     {
       "stepNumber": 1,
-      "title": "Langkah 1: Memahami Anatomi Utama Hadits (Sanad, Matan, dan Rawi)",
-      "explanation": "Sebelum menilai suatu hadits, kita harus tahu dulu struktur bangunan hadits. Sebuah hadits secara umum terdiri dari 3 bagian utama: Sanad (rantai penyampai), Matan (isi teks hadits), dan Rawi/Mukharrij (orang yang membukukan hadits). Bayangkan sanad seperti pipa air dan matan adalah airnya; air akan bersih jika pipa yang dilaluinya bersih.",
+      "title": "Langkah 1: Mengenal Fondasi Hukum Syara' (5 Hukum Taklifi)",
+      "explanation": "Sebelum membaca kitab, kita wajib memahami 5 status hukum utama dalam Islam: Wajib (dikerjakan pahala, ditinggalkan dosa), Sunnah (dikerjakan pahala, ditinggalkan tidak dosa), Haram (ditinggalkan pahala, dikerjakan dosa), Makruh (ditinggalkan pahala, dikerjakan tidak dosa), dan Mubah (dikerjakan atau ditinggalkan tidak berdosa/berpahala). Dalam kitab kuning, istilah-istilah ini sering muncul sebagai kosa kata dasar.",
       "examples": [
         {
-          "arabic": "سَنَدٌ",
-          "read": "Sanad",
-          "meaning": "Silsilah perawi/jalur penutur yang menyambung sampai ke Nabi",
-          "note": "Contoh kalimat sanad: 'Haddatsana Fulanun 'an Fulanin' (Telah menceritakan kepada kami si A dari si B)."
+          "arabic": "الْوَاجِبُ مَا يُثَابُ عَلَى فِعْلِهِ وَيُعَاقَبُ عَلَى تَرْكِهِ",
+          "read": "Al-waajibu maa yuthaabu 'alaa fi'lihi wa yu'aaqabu 'alaa tarkihi",
+          "meaning": "Wajib adalah apa yang diberi pahala atas mengerjakannya dan dihukum atas meninggalkannya.",
+          "note": "Kata 'الْوَاجِبُ' (Al-Waajib) bermakna hukum wajib. Perhatikan kata kerja 'يُثَابُ' (yuthaabu = diberi pahala) dan 'يُعَاقَبُ' (yu'aaqabu = disiksa/dihukum)."
         },
         {
-          "arabic": "مَتْنٌ",
-          "read": "Matan",
-          "meaning": "Teks/isi ucapan, perbuatan, atau ketetapan Nabi",
-          "note": "Matan adalah redaksi sabda Nabi, misalnya kalimat 'Innamal a'malu bin-niyyat'."
-        },
-        {
-          "arabic": "رَاوِي",
-          "read": "Rawi",
-          "meaning": "Orang yang meriwayatkan atau mencatat hadits",
-          "note": "Seperti Imam Bukhari, Imam Muslim, Abu Dawud, dan At-Tirmidzi."
+          "arabic": "الْحَرَامُ مَا يُثَابُ عَلَى تَرْكِهِ وَيُعَاقَبُ عَلَى فِعْلِهِ",
+          "read": "Al-haraamu maa yuthaabu 'alaa tarkihi wa yu'aaqabu 'alaa fi'lihi",
+          "meaning": "Haram adalah apa yang diberi pahala atas meninggalkannya dan dihukum atas mengerjakannya.",
+          "note": "Kebalikan dari wajib. Kunci membedakannya ada pada posisi kata 'تَرْكِهِ' (meninggalkannya) dan 'فِعْلِهِ' (mengerjakannya)."
         }
       ],
-      "actionTip": "Buka satu hadits pendek di kitab riwayat, lalu pisahkan dengan pensil mana bagian Sanad (nama-nama perawi) dan mana bagian Matan (isi sabda)."
+      "actionTip": "Hafalkan 5 istilah hukum ini (Wajib, Sunnah, Haram, Makruh, Mubah) beserta definisi sederhananya."
     },
     {
       "stepNumber": 2,
-      "title": "Langkah 2: Mengenal Klasifikasi Hadits Berdasarkan Jumlah Jalur (Mutawatir vs Ahad)",
-      "explanation": "Hadits sampai kepada kita melalui jalur riwayat. Jika jalurnya sangat banyak di setiap tingkatan sehingga mustahil para perawinya sepakat berbohong, disebut Mutawatir (pasti benar). Jika jalurnya terbatas, disebut 'Ahad'. Hadits Ahad inilah yang nantinya diteliti kualitasnya.",
+      "title": "Langkah 2: Kaidah Perintah (الأَمْرُ) - Rumus Mengubah Teks Menjadi Wajib",
+      "explanation": "Bagaimana ulama tahu suatu ayatAl-Qur'an memerintahkan hukum Wajib? Rumus dasarnya adalah: Setiap kata kerja perintah (Fi'il Amar) dalam Al-Qur'an atau Hadis pada dasarnya menunjukkan hukum WAJIB, kecuali ada dalil lain yang mengubahnya menjadi sunnah.",
       "examples": [
         {
-          "arabic": "مُتَوَاتِرٌ",
-          "read": "Mutawatir",
-          "meaning": "Hadits yang diriwayatkan oleh orang banyak dalam setiap tingkatan generasi",
-          "note": "Hukumnya wajib dipercayai secara pasti (Yaqini)."
+          "arabic": "الأَصْلُ فِي الأَمْرِ لِلْوُجُوبِ",
+          "read": "Al-aslu fil amri lil wujuub",
+          "meaning": "Hukum asal dari sebuah perintah adalah menunjukkan Wajib.",
+          "note": "Ini adalah kaidah emas Ushul Fiqih! Kata 'الأَصْلُ' artinya hukum dasar, 'الأَمْرِ' artinya perintah, dan 'لِلْوُجُوبِ' artinya untuk kewajiban."
         },
         {
-          "arabic": "آحَادٌ",
-          "read": "Ahad",
-          "meaning": "Hadits yang perawinya tidak mencapai jumlah mutawatir",
-          "note": "Membawa faedah dugaan kuat (Zhanni) dan perlu diteliti kesahihannya."
+          "arabic": "وَأَقِيمُوا الصَّلَاةَ",
+          "read": "Wa aqimush-shalaah",
+          "meaning": "Dan dirikanlah olehmu shalat.",
+          "note": "Kata 'أَقِيمُوا' (aqimuu) adalah Fi'il Amar (kata kerja perintah). Berdasarkan rumus di atas, maka mendirikan shalat hukumnya Wajib."
         }
       ],
-      "actionTip": "Ingat rumus sederhana: Mutawatir = Jalur Sangat Banyak (Pasti), Ahad = Jalur Terbatas (Perlu Diteliti)."
+      "actionTip": "Setiap kali membaca teks Arab dengan bentuk kata kerja perintah (Fi'il Amar), langsung ingat rumusnya: Ini berarti Wajib!"
     },
     {
       "stepNumber": 3,
-      "title": "Langkah 3: Menguasai 5 Syarat Utama Hadits Shahih",
-      "explanation": "Bagaimana sebuah hadits dinyatakan Shahih (Sangat Kuat & Sah)? Kitab-kitab Musthalah Hadits menyimpulkan 5 syarat mutlak yang wajib dipenuhi. Jika 1 saja gugur, tingkatannya turun menjadi Hasan atau Dha'if.",
+      "title": "Langkah 3: Kaidah Larangan (النَّهْيُ) - Rumus Mengubah Teks Menjadi Haram",
+      "explanation": "Sama seperti perintah, bagaimana ulama menentukan sesuatu itu Haram? Rumusnya: Setiap bentuk larangan (biasanya diawali kata 'لا' / Laa yang berarti Jangan) menunjukkan hukum HARAM, kecuali ada indikasi lain yang menurunkan derajatnya menjadi makruh.",
       "examples": [
         {
-          "arabic": "اِتِّصَالُ السَّنَدِ",
-          "read": "Ittishalus-Sanad",
-          "meaning": "Sanadnya Bersambung",
-          "note": "Setiap murid benar-benar menerima langsung dari gurunya tanpa terputus."
+          "arabic": "الأَصْلُ فِي النَّهْيِ لِلتَّحْرِيمِ",
+          "read": "Al-aslu fin-nahyi lit-tahriim",
+          "meaning": "Hukum asal dari sebuah larangan adalah menunjukkan Haram.",
+          "note": "Kaidah ini adalah pasangan dari kaidah amar. 'النَّهْيِ' bermakna larangan, sedangkan 'لِلتَّحْرِيمِ' bermakna pengharaman."
         },
         {
-          "arabic": "عَدَالَةُ الرُّوَاةِ",
-          "read": "'Adalatur-Ruwah",
-          "meaning": "Perawinya Berakhlaq Mulia ('Adil)",
-          "note": "Perawi seorang muslim, baligh, berakal, tidak suka maksiat, dan menjaga kehormatan."
-        },
-        {
-          "arabic": "ضَبْطُ الرُّوَاةِ",
-          "read": "Dhabtur-Ruwah",
-          "meaning": "Hafalan Perawi Sangat Kuat (Dhabith)",
-          "note": "Baik hafalan di ingatan maupun kecermatan catatan kitabnya."
-        },
-        {
-          "arabic": "عَدَمُ الشُّذُوذِ",
-          "read": "'Adamush-Syudzudz",
-          "meaning": "Tidak Syadz (Tidak Menyelisihi Perawi Lain yang Lebih Tsiqah)",
-          "note": "Isi/jalur hadits tidak bertentangan dengan periwayatan orang yang lebih tepercaya."
-        },
-        {
-          "arabic": "عَدَمُ الْعِلَّةِ",
-          "read": "'Adamul-'Illah",
-          "meaning": "Tidak Memiliki 'Cacat' Tersembunyi ('Illah)",
-          "note": "Bebas dari cacat terselubung yang hanya bisa diketahui oleh ahli hadits tingkat tinggi."
+          "arabic": "وَلَا تَقْرَبُوا الزِّنَى",
+          "read": "Wa laa taqrabuz-zinaa",
+          "meaning": "Dan janganlah kamu mendekati zina.",
+          "note": "Kata 'لَا تَقْرَبُوا' (laa taqrabuu) adalah Fi'il Nahyi (larangan). Karena ada kata 'لا' melarang, maka hukum mendekati zina adalah Haram."
         }
       ],
-      "actionTip": "Hafalkan 5 syarat ini dengan kuncinya: (1) Sambung, (2) Jujur, (3) Kuat Hafalan, (4) Tak Janggal, (5) Tak Cacat."
+      "actionTip": "Cari huruf 'لا' (Jangan) yang diikuti kata kerja di Al-Qur'an/Kitab Kuning, itu adalah tanda hukum Haram."
     },
     {
       "stepNumber": 4,
-      "title": "Langkah 4: Memahami Tingkatan Kualitas Hadits (Shahih, Hasan, Dha'if)",
-      "explanation": "Setelah menguji dengan 5 syarat di atas, hadits dikelompokkan menjadi 3 tingkatan utama: Shahih (Sempurna), Hasan (Hafalan agak kurang sedikit tapi tetap bisa dijadikan hujjah), dan Dha'if (Lemah/Gugur syaratnya).",
+      "title": "Langkah 4: Memahami Lafaz Umum ('Aam) dan Khusus (Khaas)",
+      "explanation": "Dalam Ushul Fiqih, suatu perintah bisa berlaku untuk semua orang ('Aam/Umum) atau hanya untuk kelompok tertentu (Khaas/Khusus). Mengenali kata-kata berlafaz umum sangat penting agar kita tidak salah menerapkan hukum.",
       "examples": [
         {
-          "arabic": "صَحِيحٌ",
-          "read": "Shahih",
-          "meaning": "Hadits yang memenuhi 5 syarat secara sempurna",
-          "note": "Wajib diamalkan dan dijadikan landasan hukum Islam."
+          "arabic": "كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ",
+          "read": "Kullu nafsin dzaa-iqatul maut",
+          "meaning": "Setiap yang bernyawa akan merasakan mati.",
+          "note": "Kata 'كُلُّ' (Kullu) berarti 'setiap/semua'. Ini adalah salah satu lafaz 'Aam (umum) paling tegas dalam bahasa Arab."
         },
         {
-          "arabic": "حَسَنٌ",
-          "read": "Hasan",
-          "meaning": "Hadits yang memenuhi syarat shahih, namun tingkat hafalan perawinya sedikit di bawah shahih",
-          "note": "Tetap sah digunakan sebagai hujjah hukum."
-        },
-        {
-          "arabic": "ضَعِيفٌ",
-          "read": "Dha'if",
-          "meaning": "Hadits yang tidak memenuhi salah satu atau lebih dari syarat Shahih/Hasan",
-          "note": "Tidak bisa dijadikan landasan utama hukum aqidah/figh."
+          "arabic": "وَأَحَلَّ اللَّهُ الْبَيْعَ",
+          "read": "Wa ahallallaahul bai'a",
+          "meaning": "Dan Allah telah menghalalkan jual beli.",
+          "note": "Kata 'الْبَيْعَ' berawalan Alif-Lam (ال). Kata benda yang memiliki 'ال' jenis ini mencakup seluruh jenis jual beli secara umum."
         }
       ],
-      "actionTip": "Saat membaca kitab fiqih kuning, perhatikan catatan di footnote status haditsnya: apakah ditulis 'Haditsun Shahihun' atau 'Haditsun Dha'ifun'."
+      "actionTip": "Tandai kata 'كُلّ' (Kullu / Setiap) dan isim ber-Alif Lam (ال) sebagai penanda cakupan hukum bersifat UMUM."
     },
     {
       "stepNumber": 5,
-      "title": "Langkah 5: Praktek Membaca Teks Kitab Kuning Musthalah Hadits",
-      "explanation": "Sekarang mari kita praktekkan membaca potongan Matan Al-Bayquniyyah (kitab standar pemula Musthalah Hadits) kata demi kata beserta harakat dan maknanya.",
+      "title": "Langkah 5: Praktek Mandiri Membedah Teks Kitab Matan Al-Waraqat",
+      "explanation": "Mari kita gabungkan pemahaman dari Langkah 1-4 untuk membaca dan membedah petikan teks kitab Ushul Fiqih legendaris 'Matan Al-Waraqat' karya Imam Al-Juwaini.",
       "examples": [
         {
-          "arabic": "أَوَّلُهَا الصَّحِيحُ وَهُوَ مَا اتَّصَلْ",
-          "read": "Awwaluhas-shahihu wa huwa mat-tashal",
-          "meaning": "Yang pertama adalah Hadits Shahih, yaitu hadits yang bersambung...",
-          "note": "أَوَّلُهَا (awwaluha = yang pertama darinya), الصَّحِيحُ (as-shahihu = adalah hadits shahih), وَهُوَ (wa huwa = dan dia), مَا (ma = apa/hadits yang), اتَّصَلْ (ittashal = bersambung sanadnya)."
-        },
-        {
-          "arabic": "إِسْنَادُهُ وَلَمْ يَشُذَّ أَوْ يُعَلَّ",
-          "read": "Isnaduhu wa lam yasyudzza aw yu'al",
-          "meaning": "...sanadnya, serta tidak janggal (syadz) dan tidak bercacat ('illat).",
-          "note": "إِسْنَادُهُ (isnaduhu = sanadnya), وَلَمْ (wa lam = dan tidak), يَشُذَّ (yasyudzza = janggal), أَوْ (aw = atau), يُعَلَّ (yu'al = diberi cacat)."
+          "arabic": "وَالأَمْرُ اسْتِدْعَاءُ الْفِعْلِ بِالْقَوْلِ مِمَّنْ هُوَ دُونَهُ عَلَى سَبِيلِ الْوُجُوبِ",
+          "read": "Wal amru istid'aa-ul fi'li bil qauli mimman huwa duunahu 'alaa sabiilil wujuub",
+          "meaning": "Perintah adalah tuntunan melakukan perbuatan melalui ucapan dari pihak yang lebih tinggi kedudukannya secara wajib.",
+          "note": "Kata demi kata: وَ (dan) - الأَمْرُ (perintah itu) - اسْتِدْعَاءُ (menuntut/meminta) - الْفِعْلِ (perbuatan) - بِالْقَوْلِ (dengan ucapan) - مِمَّنْ (dari orang yang) - هُوَ دُونَهُ (lebih rendah darinya) - عَلَى سَبِيلِ (dengan cara) - الْوُجُوبِ (kewajiban)."
         }
       ],
-      "actionTip": "Baca teks Arab di atas berulang-ulang sampai lancar, lalu cocokkan maknanya kata demi kata tanpa melihat terjemahannya."
+      "actionTip": "Baca teks Arab di atas secara perlahan, sesuaikan gundulnya dengan harakat yang ada, lalu cocokkan artinya kata demi kata."
     }
   ],
   "sections": [
     {
-      "title": "Ringkasan Kaidah Penting Musthalah Hadits",
-      "content": "1. Sanad = Silsilah Perawi. Matan = Isi Sabda. Mukharrij = Penulis Kitab Hadits.\n2. Syarat Hadits Shahih ada 5: Sanad Bersambung, Perawi 'Adil, Perawi Dhabith, Tidak Syadz, Tidak 'Illat.\n3. Perbedaan Shahih dan Hasan terletak pada tingkat ke-Dhabith-an (kekuatan hafalan) perawinya.\n4. Hadits Dha'if terjadi karena adanya mata rantai sanad yang terputus atau adanya perawi yang bermasalah dalam kejujuran/hafalan."
+      "title": "Ringkasan Kaidah Penting Ushul Fiqih",
+      "content": "1. Perintah (الأَمْرُ) = Menunjukkan hukum WAJIB.\n2. Larangan (النَّهْيُ) = Menunjukkan hukum HARAM.\n3. Lafaz Kullu (كُلُّ) & Alif Lam (ال) = Menunjukkan hukum berlaku UMUM ('Aam).\n4. Hukum Syara' terbagi 5: Wajib, Sunnah, Haram, Makruh, Mubah."
     }
   ],
   "tips": [
-    "Gunakan istilah kunci Bahasa Indonesia untuk mengingat 5 syarat shahih: SAMBUNG - JUJUR - INGATAN KUAT - TIDAK ANEH - TIDAK CACAT.",
-    "Jangan terburu-buru menghafal seluruh istilah rumit, kuasai dulu 3 istilah dasar: Shahih, Hasan, dan Dha'if.",
-    "Saat membaca kitab kuning, fokuslah melatih pemisahan antara teks Sanad (حَدَّثَنَا...) dan isi Matan (قَالَ رَسُولُ اللهِ...)."
+    "Gunakan rumus 'Kata Perintah = Wajib' dan 'Kata Larangan = Haram' saat membaca ayat Al-Qur'an pertama kali.",
+    "Jangan terburu-buru menghafal seluruh isi kitab, fokuslah memahami struktur kata dan pola kaidah Ushul Fiqihnya.",
+    "Sering-seringlah berlatih memotong kalimat dalam Kitab Kuning berdasarkan makna kata demi kata (harfiyah)."
   ],
-  "summary": "Selamat! Anda telah mempelajari fondasi dasar Musthalah Hadits dari nol. Kunci utama dalam menguasai kitab kuning adalah konsistensi mengulang latihan membaca teks dan memahami istilah dasarnya. Teruslah berlatih, nikmati prosesnya, dan jadikan ilmu ini sebagai sarana mendekatkan diri pada ajaran Rasulullah SAW secara murni dan tepat."
+  "summary": "Belajar Kitab Kuning dan Ushul Fiqih ternyata tidak serumit yang dibayangkan! Kuncinya adalah memahami pola kalimat dasar dan kaidah-kaidah utamanya. Dengan menguasai 5 langkah di atas, Anda telah memiliki kunci awal untuk membuka isi Kitab Kuning secara mandiri. Tetap semangat, konsisten berlatih, dan semoga berkah!"
 }
