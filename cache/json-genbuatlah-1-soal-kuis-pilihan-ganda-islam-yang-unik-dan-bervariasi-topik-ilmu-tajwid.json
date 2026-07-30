@@ -1,11 +1,11 @@
 {
-  "question": "Dalam mushaf Al-Qur'an, terdapat tanda waqaf berupa huruf 'Mim kecil' (م) di atas suatu kata. Bagaimanakah cara membaca yang benar ketika bertemu tanda tersebut?",
+  "question": "Dalam pembacaan Fawatihus Suwar (huruf muqatta'ah) pada lafaz \"آلم\" (Alif Laam Miim), apakah hukum tajwid yang berlaku pada ejaan huruf \"Lam\" (لَامْ) ketika di-idghamkan ke dalam ejaan huruf \"Mim\" (مِيمْ) berikutnya?",
   "options": [
-    "Harus berhenti (Waqaf Lazim)",
-    "Dilarang berhenti (Waqaf Laa)",
-    "Lebih utamakan melanjutkan bacaan (Al-Washlu Aula)",
-    "Boleh memilih berhenti di salah satu dari dua tempat (Waqaf Ta'anuq)"
+    "Mad Lazim Kilmi Muthaqqal",
+    "Mad Lazim Harfi Mukhaffaf",
+    "Mad Lazim Harfi Muthaqqal",
+    "Mad Lazim Kilmi Mukhaffaf"
   ],
-  "correctIndex": 0,
-  "explanation": "Tanda 'Mim kecil' (م) adalah simbol dari Waqaf Lazim, yang artinya pembaca diwajibkan/sangat dianjurkan berhenti pada tempat tersebut agar tidak merusak atau mengubah makna ayat."
+  "correctIndex": 2,
+  "explanation": "Ejaan huruf 'Lam' terdiri dari tiga huruf (لَا مْ) yang di tengahnya merupakan huruf mad. Ketika mim sukun di akhir ejaan 'Lam' bertemu dengan huruf mim di awal ejaan 'Miim', terjadi penggabungan (idgham) yang menimbulkan tasydid (berat/muthaqqal). Oleh karena itu, hukumnya adalah Mad Lazim Harfi Muthaqqal dan dibaca panjang 6 harakat."
 }
