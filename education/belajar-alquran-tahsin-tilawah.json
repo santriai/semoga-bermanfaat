@@ -1,34 +1,143 @@
 {
-  "title": "Tahsin Tilawah: Seni dan Kaidah Memperbagus Bacaan Al-Qur'an",
-  "intro": "Tahsin secara lughawi berarti 'memperbaiki' atau 'memperbagus'. Dalam konteks tilawah, tahsin adalah disiplin ilmu untuk menyempurnakan pelafalan setiap huruf Al-Qur'an sesuai dengan makhraj dan sifatnya, guna menjaga kemurnian wahyu Allah sesuai perintah 'Tartil' dalam Surah Al-Muzzammil ayat 4.",
+  "title": "Panduan Praktis Tahsin Tilawah: Dari Nol Sampai Lancar Membaca Al-Qur'an",
+  "intro": "Selamat datang di modul Tahsin Tilawah! Modul ini dirancang khusus untuk Anda yang ingin belajar membaca Al-Qur'an dari tingkat paling dasar secara bertahap. Melalui metode yang mudah, jelas, dan langsung disertai contoh, Anda akan dibimbing untuk menguasai pengucapan huruf (Makhraj), panjang-pendek (Mad), serta hukum-hukum bacaan utama agar mampu membaca Al-Qur'an secara fasih dan benar.",
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Langkah 1: Mengenal Tempat Keluar Huruf Utama (Makharijul Huruf Dasar)",
+      "explanation": "Makhraj adalah tempat keluarnya bunyi huruf Hijaiyah. Agar bacaan Al-Qur'an kita benar, kita harus membunyikan huruf dari organ tubuh yang tepat. Ada 3 kelompok organ utama yang paling sering digunakan pemula: Tenggorokan (Halq), Lidah (Lisan), dan Dua Bibir (Syafatan). Rumus cepatnya: Perhatikan di mana udara tertahan saat huruf disukunkan/dimatikan.",
+      "examples": [
+        {
+          "arabic": "أَنْعَمْتَ",
+          "read": "An'amta",
+          "meaning": "Yang telah Engkau beri nikmat",
+          "note": "Huruf Nun (ن) keluar dari ujung lidah menempel di gusi atas, sedangkan 'Ain (ع) keluar dari tengah tenggorokan."
+        },
+        {
+          "arabic": "كُفُوًا",
+          "read": "Kufuwan",
+          "meaning": "Yang setara / seimbang",
+          "note": "Huruf Fa (ف) keluar dari bibir bawah bagian dalam yang bertemu dengan ujung gigi seri atas."
+        },
+        {
+          "arabic": "قُلْ هُوَ اللهُ",
+          "read": "Qul huwallaahu",
+          "meaning": "Katakanlah: Dia-lah Allah",
+          "note": "Huruf Qof (ق) keluar dari pangkal lidah dekat tenggorokan, sedangkan Ha (هـ) keluar dari tenggorokan paling bawah."
+        }
+      ],
+      "actionTip": "Coba ucapkan kata 'GIGU' untuk merasakan pangkal lidah, lalu ucapkan 'AA-II-UU' sambil merasakan aliran udara di tenggorokan Anda."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Langkah 2: Menguasai Panjang Pendek Bacaan (Mad Thabi'i / Mad Asli)",
+      "explanation": "Kunci utama keindahan dan kebenaran membaca Al-Qur'an terletak pada ketepatan panjang-pendeknya (Mad). Mad Thabi'i adalah hukum dasar panjang yang dibaca 2 ketukan (2 harakat). Rumus Cepat mengingat pasangan Mad Thabi'i: 1) Fathah bertemu Alif (َ + ا), 2) Kasrah bertemu Ya Sujud/Mati (ِ + يْ), 3) Dhammah bertemu Wawu Mati (ُ + وْ).",
+      "examples": [
+        {
+          "arabic": "قَالَ",
+          "read": "Qoola",
+          "meaning": "Dia (laki-laki) telah berkata",
+          "note": "Dibaca panjang 2 ketukan karena Fathah bertemu Alif (قَا)."
+        },
+        {
+          "arabic": "قِيلَ",
+          "read": "Qiila",
+          "meaning": "Dikatakan",
+          "note": "Dibaca panjang 2 ketukan karena Kasrah bertemu Ya mati (قِي)."
+        },
+        {
+          "arabic": "يَقُولُ",
+          "read": "Yaquulu",
+          "meaning": "Dia sedang berkata",
+          "note": "Huruf 'qu' (قُ) dibaca panjang 2 ketukan karena Dhammah bertemu Wawu mati (قُو)."
+        }
+      ],
+      "actionTip": "Saat membaca huruf berpola Mad Thabi'i, ayunkan suara Anda lembut sebanyak 2 ketukan (seperti ketukan jari meja), jangan terlalu panjang dan jangan diputus."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Langkah 3: Hukum Nun Sukun (نْ) & Tanwin (ً ٍ ٌ) - Bagian 1: Izhar & Idgham",
+      "explanation": "Ketika Nun Mati (نْ) atau Tanwin bertemu huruf Hijaiyah, cara bacanya berubah. Pada bagian ini kita pelajari 2 hukum utama: 1) Izhar (Jelas) = Dibaca jelas tanpa dengung jika bertemu 6 huruf tenggorokan (ء, هـ, ع, ح, غ, خ). 2) Idgham (Melebur) = Meleburkan Nun mati ke huruf berikutnya. Idgham Bighunnah (dengan dengung 2 ketukan) jika bertemu huruf (ي, ن, م, و), dan Idgham Bilaghunnah (tanpa dengung) jika bertemu (ل, ر).",
+      "examples": [
+        {
+          "arabic": "مَنْ آمَنَ",
+          "read": "Man aamana",
+          "meaning": "Barangsiapa yang beriman",
+          "note": "Hukum Izhar: Nun mati bertemu Hamzah (آ). Dibaca jelas 'MAN', tidak boleh didengungkan."
+        },
+        {
+          "arabic": "مَنْ يَقُولُ",
+          "read": "May yaquulu",
+          "meaning": "Orang yang berkata",
+          "note": "Hukum Idgham Bighunnah: Nun mati bertemu Ya (ي). Suara N masuk ke Y disertai dengung 2 ketukan."
+        },
+        {
+          "arabic": "مِنْ رَبِّهِمْ",
+          "read": "Mir rabbihim",
+          "meaning": "Dari Tuhan mereka",
+          "note": "Hukum Idgham Bilaghunnah: Nun mati bertemu Ra (ر). Suara N langsung hilang masuk ke R tanpa dengung."
+        }
+      ],
+      "actionTip": "Rumus Cepat: Jika ketemu huruf leher (Izhar) = Baca Jelas! Jika ketemu huruf YANAMU (ي-ن-م-و) = Leburkan sambil didengungkan!"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Langkah 4: Hukum Nun Sukun (نْ) & Tanwin (ً ٍ ٌ) - Bagian 2: Ikhfa & Iqlab",
+      "explanation": "Dua hukum berikutnya adalah: 1) Iqlab (Menukar) = Jika Nun Mati/Tanwin bertemu huruf Ba (ب), suara N berubah menjadi suara M (م) disertai dengung 2 ketukan. 2) Ikhfa (Samar) = Jika bertemu 15 huruf sisa (seperti ت, ث, ج, د, ذ, ز, س, ش, ص, ض, ط, ظ, ف, ق, ك), suara N dibaca samar-samar menuju ke makhraj huruf berikutnya sambil mendengung 2 ketukan.",
+      "examples": [
+        {
+          "arabic": "مِنْ بَعْدِ",
+          "read": "Mim ba'di",
+          "meaning": "Setelah / Sesudah",
+          "note": "Hukum Iqlab: Nun mati bertemu Ba (ب). Suara N berubah menjadi M halus dan didengungkan."
+        },
+        {
+          "arabic": "مِنْ قَبْلُ",
+          "read": "Ming qablu",
+          "meaning": "Sebelumnya",
+          "note": "Hukum Ikhfa: Nun mati bertemu Qof (ق). Suara N disamarkan menjadi tebal ('ng') siap mengucapkan Qof."
+        },
+        {
+          "arabic": "إِنْسَانٌ",
+          "read": "Insaanon",
+          "meaning": "Manusia",
+          "note": "Hukum Ikhfa: Nun mati bertemu Sin (س). Suara N disamarkan secara tipis mendekati bunyi S."
+        }
+      ],
+      "actionTip": "Tips Ikhfa: Siapkan lidah Anda pada posisi huruf berikutnya SEBELUM mengucapkan Nun Mati, lalu tahan dengungnya selama 2 ketukan."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Langkah 5: Praktek Mandiri Membaca Ayat Al-Qur'an & Cara Berhenti (Waqaf)",
+      "explanation": "Saat membaca Al-Qur'an, kita perlu tahu cara berhenti (Waqaf) yang benar. Aturan umum berhenti: 1) Huruf terakhir berpangkat Harakat (َ ِ ُ) dimatikan/disukunkan. 2) Tanwin Fathah (ً) saat berhenti dibaca panjang 2 harakat (Mad 'Iwadh) dan tanwinnya hilang menjadi fathah biasa.",
+      "examples": [
+        {
+          "arabic": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+          "read": "Qul a'uudzu birabbil falaq",
+          "meaning": "Katakanlah: Aku berlindung kepada Tuhan yang menguasai subuh",
+          "note": "Huruf Qof terakhir bertanda Kasrah (قِ) dibaca mati menjadi 'falaq' saat berhenti (Waqaf)."
+        },
+        {
+          "arabic": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللهِ أَفْوَاجًا",
+          "read": "Wa ra-aitan naasa yadkhuluuna fii diinillaahi afwaajaa",
+          "meaning": "Dan kamu lihat manusia masuk agama Allah dengan berbondong-bondong",
+          "note": "Kata 'Afwaajan' (أَفْوَاجًا) berpangkat Tanwin Fathah, saat berhenti dibaca panjang 'Afwaajaa' (2 ketukan)."
+        }
+      ],
+      "actionTip": "Cobalah membaca Surah Al-Falaq dan An-Nasr ayat demi ayat, terapkan cara mematikan huruf terakhir di akhir ayat dengan mantap."
+    }
+  ],
   "sections": [
     {
-      "title": "Urgensi Tahsin dalam Ibadah",
-      "content": "Mempelajari Tahsin bukan sekadar hobi, melainkan kewajiban bagi setiap Muslim (Fardhu 'Ain) untuk mencapai standar minimal bacaan yang sah dalam salat. Tahsin menjaga pembaca dari 'Lahn' (kesalahan bacaan), baik Lahn Jali (kesalahan fatal yang mengubah makna) maupun Lahn Khafi (kesalahan ringan pada kaidah tajwid)."
-    },
-    {
-      "title": "Makharijul Huruf (Titik Artikulasi)",
-      "content": "Pilar utama tahsin adalah ketepatan tempat keluarnya huruf. Terbagi menjadi 5 area utama: 1. Al-Jauf (Rongga mulut/tenggorokan untuk mad). 2. Al-Halq (Tenggorokan). 3. Al-Lisan (Lidah, mencakup 18 huruf). 4. Ash-Shafatain (Dua bibir). 5. Al-Khaisyum (Rongga hidung untuk ghunnah)."
-    },
-    {
-      "title": "Sifatul Huruf (Karakteristik Huruf)",
-      "content": "Jika Makhraj adalah 'alamat rumah', maka Sifat adalah 'penghuni' di dalamnya. Sifatul Huruf memberikan karakteristik pembeda antara huruf yang keluar dari makhraj yang sama, seperti sifat Hams (aliran nafas) vs Jahr, atau Isti’la (pangkal lidah naik) vs Istifal."
-    },
-    {
-      "title": "Ahkamul Mad wal Qashr (Hukum Panjang Pendek)",
-      "content": "Ketepatan durasi ketukan sangat krusial dalam tahsin. Materi ini mencakup Mad Ashli (2 harakat) dan Mad Far'i (seperti Mad Wajib Muttasil dan Mad Jaiz Munfasil) yang berkisar antara 4 sampai 6 harakat. Ketidakkonsistenan dalam mad seringkali menjadi tolok ukur kefasihan seorang pembaca."
-    },
-    {
-      "title": "Metode Talaqqi dan Musyafahah",
-      "content": "Dalam kurikulum pesantren, tahsin tidak bisa dipelajari hanya dari buku. Harus melalui metode Talaqqi (bertemu guru) dan Musyafahah (melihat gerakan bibir guru). Hal ini untuk memastikan bahwa pelafalan 'Dhad' atau 'Ain' benar-benar sesuai dengan transmisi sanad yang sampai kepada Rasulullah SAW."
+      "title": "Ringkasan Kaidah Penting Nun Mati & Tanwin",
+      "content": "1. IZHAR (Jelas): Pertemuan dengan huruf tenggorokan (ء, هـ, ع, ح, غ, خ) -> Tanpa Dengung.\n2. IDGHAM BIGHUNNAH (Lebur + Dengung): Pertemuan dengan huruf (ي, ن, م, و) -> Dengung 2 ketukan.\n3. IDGHAM BILAGHUNNAH (Lebur Tanpa Dengung): Pertemuan dengan huruf (ل, ر) -> Langsung masuk huruf berikutnya.\n4. IQLAB (Ubah jadi M): Pertemuan dengan huruf (ب) -> Ubah N jadi M + Dengung.\n5. IKHFA (Samar): Pertemuan dengan 15 huruf sisa -> Samarkan suara N + Dengung 2 ketukan."
     }
   ],
   "tips": [
-    "Lakukan latihan rutin minimal 15-30 menit setiap hari untuk melenturkan otot lidah.",
-    "Dengarkan murattal dari Syaikh yang memiliki standar tajwid tinggi seperti Syaikh Mahmoud Khalil Al-Hussary.",
-    "Gunakan cermin saat berlatih makhraj untuk memantau posisi bibir dan rahang.",
-    "Rekam suara sendiri saat membaca, lalu bandingkan dengan bacaan guru atau qari profesional.",
-    "Jangan terburu-buru mengejar target khatam sebelum memperbaiki kualitas bacaan per huruf."
+    "Konsisten Latihan 15 Menit Setiap Hari: Tahsin adalah latihan otot mulut dan pita suara, kelancaran diraih dengan kebiasaan.",
+    "Gunakan Metode Meniru (Talaqqi): Dengarkan murattal qari standar (seperti Syaikh Mahmoud Khalil Al-Husary) lalu tirukan artikulasinya.",
+    "Jangan Terburu-buru: Dalam belajar Tahsin, kebenaran panjang-pendek dan makhraj jauh lebih utama dibandingkan kecepatan membaca.",
+    "Gunakan Jari untuk Ketukan: Tentukan 2 ketukan Mad Thabi'i dengan cara mengetuk jari secara stabil."
   ],
-  "summary": "Tahsin Tilawah adalah jembatan spiritual untuk memahami Al-Qur'an lebih dalam. Dengan memperbaiki lahiriyah (bacaan), diharapkan batiniah (hati) lebih mudah tergetar saat berinteraksi dengan firman Allah. Kesempurnaan tilawah mencerminkan penghormatan tertinggi seorang hamba terhadap Kalamullah."
+  "summary": "Membaca Al-Qur'an dengan benar dan tartil adalah bentuk penghormatan kita terhadap kalam Allah SWT. Jangan pernah berkecil hati jika terasa kaku di awal latihan. Setiap kesulitan yang Anda jalani dalam mengeja Al-Qur'an dinilai pahala ganda di sisi Allah. Mulailah dari langkah pertama hari ini, dan nikmati setiap proses perbaikannya!"
 }
