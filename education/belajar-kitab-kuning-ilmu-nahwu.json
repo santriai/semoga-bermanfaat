@@ -1,29 +1,118 @@
 {
-  "title": "Materi Mendalam: Akselerasi Penguasaan Kitab Kuning Melalui Ilmu Nahwu",
-  "intro": "Ilmu Nahwu sering dijuluki sebagai 'Abul Ulum' (Ayah Segala Ilmu) karena fungsinya sebagai kunci utama untuk membuka gembok pemahaman literatur klasik Islam (Kitab Kuning). Tanpa Nahwu, seseorang akan terjerumus dalam 'Lahn' atau kesalahan gramatikal yang berakibat pada distorsi makna teks agama.",
+  "title": "Modul Praktis Belajar Ilmu Nahwu dari Nol: Cara Cepat Bisa Baca Kitab Kuning",
+  "intro": "Modul ini dirancang khusus untuk pemula yang ingin memahami dasar-dasar Ilmu Nahwu secara bertahap. Melalui pendekatan praktis dari tingkat nol, Anda akan dibimbing memahami konsep kata, struktur kalimat, hingga mampu menganalisis dan membaca teks Arab gundul (Kitab Kuning) dengan benar.",
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Langkah 1: Mengenal 3 Jenis Kata dalam Bahasa Arab",
+      "explanation": "Dalam bahasa Arab, seluruh kata di dalam Al-Qur'an maupun Kitab Kuning hanya terbagi menjadi 3 jenis utama: Isim (Kata Benda/Sifat), Fi'il (Kata Kerja), dan Huruf (Kata Hubung/Tugas). Mengetahui jenis kata adalah kunci utama sebelum membaca kalimat.",
+      "examples": [
+        {
+          "arabic": "كِتَابٌ",
+          "read": "Kitābun",
+          "meaning": "Sebuah buku",
+          "note": "Termasuk Isim (Kata Benda) karena memiliki tanda Tanwin di akhir kata."
+        },
+        {
+          "arabic": "كَتَبَ",
+          "read": "Kataba",
+          "meaning": "Dia (laki-laki) telah menulis",
+          "note": "Termasuk Fi'il (Kata Kerja) karena menunjukkan suatu pekerjaan pada waktu lampau."
+        },
+        {
+          "arabic": "فِي",
+          "read": "Fī",
+          "meaning": "Di dalam",
+          "note": "Termasuk Huruf (Kata Hubung/Jar) yang tidak memiliki arti sempurna jika berdiri sendiri."
+        }
+      ],
+      "actionTip": "Buka Surah Al-Fatihah, lalu coba kelompokkan kata-katanya mana yang Isim (diawali Alif Lam 'ال'), mana yang Huruf (seperti 'مِنْ' atau 'بِ')."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Langkah 2: Memahami Kalimat Benda (Jumlah Ismiyyah: Mubtada' & Khabar)",
+      "explanation": "Jumlah Ismiyyah adalah kalimat yang diawali oleh Isim. Kalimat ini terdiri dari 2 unsur wajib: Mubtada' (Subjek/Topik utama) dan Khabar (Predikat/Keterangan). Rumus dasarnya: Mubtada' umumnya ber-Alif Lam (ال) dan berakhiran Dhammah, sedangkan Khabar umumnya bertanwin dan berakhiran Dhammah.",
+      "examples": [
+        {
+          "arabic": "اَلْمَسْجِدُ كَبِيرٌ",
+          "read": "Al-masjidu kabīrun",
+          "meaning": "Masjid itu besar",
+          "note": "'Al-masjidu' adalah Mubtada' (Subjek berakhiran Dhammah), dan 'kabīrun' adalah Khabar (Predikat berakhiran Dhammah Tanwin)."
+        },
+        {
+          "arabic": "اَلْعِلْمُ نُورٌ",
+          "read": "Al-'ilmu nūrun",
+          "meaning": "Ilmu itu adalah cahaya",
+          "note": "'Al-'ilmu' sebagai Mubtada' (Pokok pembicaraan), 'nūrun' sebagai Khabar (Pemberi informasi tentang ilmu)."
+        }
+      ],
+      "actionTip": "Buatlah kalimat sederhana dengan pola ini, misalnya menggabungkan kata 'اَلْوَلَدُ' (Anak laki-laki itu) + 'صَالِحٌ' (Sholeh)."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Langkah 3: Memahami Kalimat Kerja (Jumlah Fi'liyyah: Fi'il & Fa'il)",
+      "explanation": "Jumlah Fi'liyyah adalah kalimat yang diawali oleh Kata Kerja (Fi'il). Struktur dasarnya adalah Fi'il (Kata Kerja) + Fa'il (Pelaku/Subjek). Rumus penting: Fa'il (Pelaku) harakat akhirnya SELALU berbunyi U / Dhammah (Marfu').",
+      "examples": [
+        {
+          "arabic": "جَلَسَ الطَّالِبُ",
+          "read": "Jalasa at-thālibu",
+          "meaning": "Siswa itu telah duduk",
+          "note": "'Jalasa' adalah Fi'il (Kata Kerja 'duduk'), 'at-Thālibu' adalah Fa'il (Pelaku) sehingga harakat akhirnya wajib Dhammah (u)."
+        },
+        {
+          "arabic": "حَضَرَ الأُسْتَاذُ",
+          "read": "Hadhara al-ustādhu",
+          "meaning": "Guru itu telah hadir",
+          "note": "'Hadhara' (Hadir) + 'al-Ustādhu' (Guru sebagai pelaku, berharakat akhir Dhammah)."
+        }
+      ],
+      "actionTip": "Ingat rumus cepat: Setiap ada kata kerja, langsung cari siapa pelakunya dan berikan harakat Dhammah pada huruf terakhir pelaku tersebut."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Langkah 4: Mengenal Posisi Objek (Maf'ul Bih) dan Pengaruh Huruf Jar",
+      "explanation": "Untuk melengkapi kalimat kerja, kita sering membutuhkan Objek (Maf'ul Bih). Rumus Objek: Akhir kata berharakat A / Fathah (Manshub). Selain itu, jika ada Isim yang didahului Huruf Jar (seperti فِي, مِنْ, إِلَى, عَلَى), harakat akhirnya berubah menjadi I / Kasrah (Majrur).",
+      "examples": [
+        {
+          "arabic": "قَرَأَ زَيْدٌ الْكِتَابَ",
+          "read": "Qara'a Zaidun al-kitāba",
+          "meaning": "Zaid telah membaca buku itu",
+          "note": "'Qara'a' (Kata Kerja), 'Zaidun' (Pelaku/Dhammah), 'al-Kitāba' (Objek/Fathah)."
+        },
+        {
+          "arabic": "ذَهَبَ زَيْدٌ إِلَى الْمَسْجِدِ",
+          "read": "Dhahaba Zaidun ilā al-masjidi",
+          "meaning": "Zaid telah pergi ke masjid",
+          "note": "'al-Masjidi' berharakat akhir Kasrah (i) karena didahului kata 'ilā' (Huruf Jar)."
+        }
+      ],
+      "actionTip": "Perhatikan perbedaan harakat akhir pada kata yang sama tergantung posisinya: Zaidun (Pelaku = u), al-Kitaba (Objek = a), ilal Masjidi (Didahului Kata Hubung = i)."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Langkah 5: Praktek Membaca Teks Arab Gundul (Kitab Kuning)",
+      "explanation": "Sekarang kita gabungkan semua rumus untuk membaca teks tanpa harakat. Langkahnya: 1. Tentukan jenis kalimatnya (diawali kata benda atau kata kerja). 2. Cari mana Subjek/Pelaku (u), Objek (a), atau kata setelah Huruf Jar (i).",
+      "examples": [
+        {
+          "arabic": "يَكْتُبُ الطَّالِبُ الدَّرْسَ فِي الْمَدْرَسَةِ",
+          "read": "Yaktubu at-thālibu ad-darsa fī al-madrasati",
+          "meaning": "Siswa itu sedang menulis pelajaran di sekolah",
+          "note": "Yaktubu (Fi'il) -> at-Thālibu (Pelaku: u) -> ad-Darsa (Objek: a) -> fī (Huruf Jar) -> al-Madrasati (Didahului Jar: i)."
+        }
+      ],
+      "actionTip": "Coba ambil satu kalimat gundul pendek dari kitab safinah/takhrij, tentukan harakat akhir setiap kata berdasarkan fungsi kedudukannya."
+    }
+  ],
   "sections": [
     {
-      "title": "Urgensi dan Definisi Ilmu Nahwu",
-      "content": "Secara terminologi, Ilmu Nahwu adalah ilmu yang mempelajari kaidah-kaidah untuk mengetahui keadaan akhir suatu kata (I'rab dan Bina') dalam susunan kalimat. Fokus utamanya bukan sekadar menghafal kosakata, melainkan memahami relasi antar kata. Dalam tradisi pesantren, penguasaan ini krusial karena teks Kitab Kuning tidak memiliki harakat (gundul), sehingga posisi sebuah kata (apakah sebagai subjek/Fa'il, objek/Ma'ful Bih, atau keterangan) ditentukan oleh pemahaman Nahwu."
-    },
-    {
-      "title": "Pondasi Dasar: Al-Kalam dan Pembagian Kata",
-      "content": "Langkah awal adalah memahami 'Kalam', yaitu susunan lafadz yang memberikan faedah sempurna. Kata dalam bahasa Arab dibagi menjadi tiga: 1) Isim (kata benda/sifat), 2) Fi'il (kata kerja), dan 3) Harf (kata tugas/hubung). Santri harus mampu mengidentifikasi ciri-ciri Isim seperti adanya Tanwin atau Alif Lam, serta mengenali tanda-tanda Fi'il berdasarkan dimensi waktunya (Madhi, Mudhari', dan Amr)."
-    },
-    {
-      "title": "Jantung Nahwu: Konsep I'rab",
-      "content": "I'rab adalah perubahan akhir kata karena perbedaan 'Amil (faktor yang memengaruhi). Terdapat empat macam I'rab: 1) Raf' (identik dengan Dhammah), 2) Nashab (identik dengan Fathah), 3) Khafadh/Jarr (identik dengan Kasrah), dan 4) Jazm (identik dengan Sukun). Memahami posisi I'rab adalah inti dari membaca Kitab Kuning; misalnya, mengetahui kapan sebuah kata harus dibaca 'u' sebagai Marfu' karena berkedudukan sebagai Mubtada' (Subjek)."
-    },
-    {
-      "title": "Metodologi Pembelajaran Berjenjang (Hierarki Kitab)",
-      "content": "Kurikulum pesantren modern biasanya menggunakan tangga literasi: Dimulai dari Matn Al-Ajurrumiyyah (dasar-dasar pola kalimat), berlanjut ke Nazham Imriti (penguatan kaidah dalam bentuk bait syair), dan puncaknya pada Alfiyyah Ibn Malik yang terdiri dari 1000 bait. Pendekatan ini menggabungkan hafalan kaidah (tahfidz) dan praktik langsung pada teks-teks klasik (tathbiq)."
+      "title": "Ringkasan Kaidah Utama Harakat Akhir (I'rab Dasar)",
+      "content": "1. Marfu' (Pelaku / Subjek Utama / Mubtada'-Khabar) -> Harakat Akhir Utamanya: Dhammah ( -ُ / -ٌ ).\n2. Manshub (Objek / Penderita / Maf'ul Bih) -> Harakat Akhir Utamanya: Fathah ( -َ / -ً ).\n3. Majrur (Kata setelah Huruf Jar seperti min, ila, fi, 'ala) -> Harakat Akhir Utamanya: Kasrah ( -ِ / -ٍ )."
     }
   ],
   "tips": [
-    "Lakukan praktik 'Taqrir' atau membaca teks di depan guru secara rutin untuk mengoreksi harakat akhir.",
-    "Jangan memisahkan Nahwu dari Sharaf; Nahwu menjaga akhir kata, Sharaf menjaga struktur tengah kata.",
-    "Gunakan metode 'I'rab Ijmali' (garis besar) terlebih dahulu sebelum masuk ke rincian yang rumit.",
-    "Hafalkan bait-bait penting (Nazham) sebagai rumus cepat untuk mengingat kaidah saat membaca kitab gundul."
+    "Rumus 'SPO' Arab: Cari Kata Kerjanya dulu, lalu tanya 'Siapa yang melakukan?' (Pelaku = Dhammah), lalu 'Apa yang dilakukan?' (Objek = Fathah).",
+    "Fokus utama Ilmu Nahwu adalah menentukan harakat pada HURUF TERAKHIR suatu kata, bukan huruf depan atau tengah.",
+    "Jangan dihafal istilah rumitnya dulu, tapi biasakan mengenali pola perubahan bunyi u - a - i berdasarkan posisinya dalam kalimat."
   ],
-  "summary": "Ilmu Nahwu adalah instrumen metodologis yang tak tergantikan dalam studi Islam. Dengan menguasai konsep Kalam, pembagian kata, dan I'rab, seorang pelajar akan memiliki kemandirian dalam menggali khazanah intelektual ulama salaf secara akurat dan saintifik."
+  "summary": "Membaca Kitab Kuning bukanlah hal yang rumit jika Anda memahami pola dasar perubahan harakat akhir kata. Dengan menguasai 3 jenis kata dan 3 harakat utama (Dhammah untuk Pelaku, Fathah untuk Objek, Kasrah setelah Kata Hubung), Anda sudah memegang kunci 70% membaca teks Arab dengan benar. Teruslah berlatih menelaah kalimat sederhana setiap hari!"
 }
