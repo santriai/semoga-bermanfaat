@@ -1,29 +1,129 @@
 {
-  "title": "Ilmu Tajwid: Seni Menghias Bacaan Al-Qur'an dengan Kaidah Mutawatir",
-  "intro": "Ilmu Tajwid secara bahasa berarti 'tahsin' atau memperbagus. Secara istilah, Tajwid adalah disiplin ilmu untuk memberikan hak-hak huruf (haqqul huruf) dan sifat-sifatnya (mustahaqqul huruf) agar bacaan sesuai dengan apa yang diajarkan oleh Rasulullah SAW. Mempelajari teorinya adalah fardhu kifayah, namun mempraktikkannya saat membaca Al-Qur'an adalah fardhu 'ain bagi setiap Muslim.",
+  "title": "Panduan Praktis Ilmu Tajwid Al-Qur'an: Dari Nol Sampai Lancar & Benar",
+  "intro": "Selamat datang! Modul ini dirancang khusus untuk Anda yang ingin belajar membaca Al-Qur'an dari dasar dengan hukum Tajwid yang benar. Tanpa rumus yang rumit, kita akan belajar langkah demi langkah menggunakan pendekatan praktis agar Anda bisa langsung menerapkannya saat membaca Al-Qur'an.",
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Langkah 1: Mengenal Nun Sukun (نْ) & Tanwin (ً ٍ ٌ) - Hukum Izhar (Dibaca Jelas)",
+      "explanation": "Langkah awal belajar Tajwid adalah memahami Nun Mati (نْ) dan Tanwin (ً ٍ ٌ). Ketika Nun Mati atau Tanwin bertemu salah satu dari 6 huruf Tenggorokan (أ , هـ , ع , ح , غ , خ), hukum bacanya adalah IZHAR HALQI. 'Izhar' artinya TERANG / JELAS. Suara Nun mati dibaca sangat jelas tanpa mendengung sedikit pun.",
+      "examples": [
+        {
+          "arabic": "مَنْ أَمَنَ",
+          "read": "Man āmana",
+          "meaning": "Barangsiapa yang beriman",
+          "note": "Nun sukun bertemu huruf Alif/Hamzah (أ), maka huruf Nun dibaca jelas 'Man', bukan 'Manmm' atau mendengung."
+        },
+        {
+          "arabic": "عَلِيمٌ حَكِيمٌ",
+          "read": "‘Alīmun ḥakīm",
+          "meaning": "Maha Mengetahui lagi Maha Bijaksana",
+          "note": "Dhammatain (tanwin) bertemu huruf Ha (ح), dibaca jelas 'Un' tanpa dengung."
+        }
+      ],
+      "actionTip": "Rumus Cepat: Jika Nun Mati/Tanwin bertemu huruf yang keluar dari tenggorokan (seperti Hamzah, Ha, 'Ain, Ha, Ghain, Kha), baca huruf 'N'-nya secara tegas dan bersih!"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Langkah 2: Hukum Idgham - Memasukkan Suara dengan / Tanpa Dengung",
+      "explanation": "Idgham artinya 'memasukkan'. Jadi, suara Nun mati/tanwin LELEH atau MASUK ke huruf berikutnya. Idgham terbagi 2: (1) Idgham Bighunnah (Dengung): jika bertemu huruf ي , ن , م , و (Disingkat: Ya-Na-Ma-Wa). Suara masuk sambil ditahan 2 ketukan. (2) Idgham Bilaghunnah (Tanpa Dengung): jika bertemu huruf ل dan ر. Suara masuk LANGSUNG tanpa ditahan/dengung.",
+      "examples": [
+        {
+          "arabic": "مَنْ يَقُولُ",
+          "read": "May-yaqūlu",
+          "meaning": "Orang yang berkata",
+          "note": "Nun sukun bertemu Ya (ي). Suara Nun hilang, masuk ke Ya sambil didengungkan: 'Mayyy-yaqulu'."
+        },
+        {
+          "arabic": "مِنْ رَبِّهِمْ",
+          "read": "Mir-rabbihim",
+          "meaning": "Dari Tuhan mereka",
+          "note": "Nun sukun bertemu Ra (ر). Suara Nun hilang total, langsung ke Ra tanpa dengung: 'Mir-rabbihim'."
+        }
+      ],
+      "actionTip": "Rumus Cepat: Bertemu Y-N-M-W = Tahan & Dengungkan 2 ketukan. Bertemu L & R = Masuk lurus tanpa ditahan!"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Langkah 3: Hukum Iqlab (Tukar) dan Ikhfa (Samarkan)",
+      "explanation": "1. IQLAB (Menukar): Terjadi HANYA jika Nun Mati/Tanwin bertemu huruf Ba (ب). Suara 'N' berubah jadi 'M' samar. 2. IKHFA HAQIQI (Menyamarkan): Terjadi jika bertemu 15 huruf sisa (seperti ت, ث, ج, د, ذ, ز, س, ش, ص, ض, ط, ظ, ف, ق, ك). Suara 'N' disamarkan ke arah huruf berikutnya sambil didengungkan.",
+      "examples": [
+        {
+          "arabic": "مِنْ بَعْدِ",
+          "read": "Mim-ba‘di",
+          "meaning": "Setelah / Sesudah",
+          "note": "Nun sukun bertemu Ba (ب). Suara 'N' berubah menjadi 'M' halus: 'Mim ba'di'."
+        },
+        {
+          "arabic": "مِنْ دُونِ",
+          "read": "Minng-dūni",
+          "meaning": "Selain / Selain dari",
+          "note": "Nun sukun bertemu Dal (د). Suara 'N' samar siap-siap membentuk huruf D sambil didengungkan."
+        }
+      ],
+      "actionTip": "Rumus Cepat: Ada huruf Ba (ب) = ganti suara 'N' jadi 'M'. Ada 15 huruf Ikhfa = samarkan huruf 'N' menjadi dengung 'NG/N' yang gantung!"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Langkah 4: Hukum Mim Sukun (مْ) & Ghunnah Musyaddadah",
+      "explanation": "1. Ghunnah Musyaddadah: Setiap kali melihat huruf Nun (نّ) atau Mim (مّ) yang memiliki bertasydid, WAJIB didengungkan dan ditahan 2-3 ketukan. 2. Mim Sukun (مْ): Jika bertemu Mim (م) = Idgham Mislain (dengung). Jika bertemu Ba (ب) = Ikhfa Syafawi (dengung samar). Jika bertemu huruf selain Mim & Ba = Izhar Syafawi (dibaca jelas bibir merapat).",
+      "examples": [
+        {
+          "arabic": "إِنَّ مَعَ",
+          "read": "Innn-na ma‘a",
+          "meaning": "Sesungguhnya bersama",
+          "note": "Nun bertasydid (نّ) wajib didengungkan dan ditahan agak lama sebelum masuk vokal 'a'."
+        },
+        {
+          "arabic": "لَهُمْ مَا",
+          "read": "Lahumm-mā",
+          "meaning": "Bagi mereka apa yang...",
+          "note": "Mim sukun bertemu Mim (م). Bibir mengatup dan ditahan didengungkan."
+        }
+      ],
+      "actionTip": "Rumus Cepat: Ketemu Nun/Mim bertasydid (نّ / مّ) = Tahan suara dengung agak lama! Jangan terburu-buru melompat."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Langkah 5: Memahami Mad Thabi'i (Panjang Dasar 2 Harakat) & Praktek Surah",
+      "explanation": "Mad artinya memanjangkan suara. Mad Thabi'i (Mad Asli) adalah fondasi panjang-pendek. Aturannya sangat mudah: (1) Alif (ا) setelah Fathah ( َ ), (2) Ya Sukun (يْ) setelah Kasrah ( ِ ), (3) Wau Sukun (و) setelah Dhammah ( ُ ). Semua pola ini dibaca PANJANG 2 HARAKAT (sekitar 2 ayunan/ketukan santai).",
+      "examples": [
+        {
+          "arabic": "قَالَ",
+          "read": "Qāla",
+          "meaning": "Dia (laki-laki) telah berkata",
+          "note": "Huruf Qaf berharakat Fathah bertemu Alif. Dibaca panjang 2 ketukan 'Qā'."
+        },
+        {
+          "arabic": "قِيلَ",
+          "read": "Qīla",
+          "meaning": "Dikatakan",
+          "note": "Huruf Qaf berharakat Kasrah bertemu Ya sukun. Dibaca panjang 2 ketukan 'Qī'."
+        },
+        {
+          "arabic": "يَقُولُ",
+          "read": "Yaqūlu",
+          "meaning": "Dia sedang berkata",
+          "note": "Huruf Qaf berharakat Dhammah bertemu Wau sukun. Dibaca panjang 2 ketukan 'Qū'."
+        }
+      ],
+      "actionTip": "Cobalah buka Surah Al-Ikhlas atau Al-Falaq. Praktikkan membaca dengan menahan dengung Nun/Mim tasydid dan memanjangkan Mad Asli persis 2 ketukan!"
+    }
+  ],
   "sections": [
     {
-      "title": "Makharijul Huruf (Tempat Keluarnya Huruf)",
-      "content": "Pondasi utama tajwid adalah memahami dari mana suara huruf berasal. Terdapat 5 tempat keluar huruf utama (Makharij al-Ammah): 1. Al-Jauf (Rongga Mulut & Tenggorokan) untuk huruf mad. 2. Al-Halq (Tenggorokan) untuk huruf-huruf halqi seperti Hamzah dan Ha. 3. Al-Lisan (Lidah) yang mencakup 18 huruf. 4. Ash-Shafatain (Dua Bibir) untuk huruf Ba, Mim, Wau, Fa. 5. Al-Khaisyum (Pangkal Hidung) untuk suara dengung (ghunnah)."
+      "title": "Ringkasan Kaidah Penting Hukum Nun Mati & Tanwin",
+      "content": "1. Izhar (6 huruf: أ هـ ع ح غ خ) = Dibaca JELAS tanpa dengung.\n2. Idgham Bighunnah (4 huruf: ي ن م و) = DITAHAN & DEDENGUNGKAN.\n3. Idgham Bilaghunnah (2 huruf: ل ر) = MASUK LANGSUNG tanpa dengung.\n4. Iqlab (1 huruf: ب) = UBAH suara N jadi M.\n5. Ikhfa (15 huruf sisa) = DISAMARKAN gantung suara N."
     },
     {
-      "title": "Sifatul Huruf (Karakteristik Huruf)",
-      "content": "Jika Makhraj adalah 'rumah', maka Sifat adalah 'penghuninya'. Sifatul huruf memberikan karakter khas pada bunyi, seperti Hams (berembus) vs Jahr (tertahan), atau Syiddah (kuat) vs Rakhawah (lunak). Memahami sifat huruf sangat krusial untuk membedakan dua huruf yang keluar dari makhraj yang sama, seperti Ta dan Tha, agar tidak tertukar maknanya."
-    },
-    {
-      "title": "Ahkamul Huruf: Hukum Nun Sukun dan Tanwin",
-      "content": "Salah satu bab paling populer dalam tajwid yang mengatur pertemuan Nun mati/Tanwin dengan huruf hijaiyah. Terbagi menjadi empat hukum: 1. Izhar (Jelas) jika bertemu huruf tenggorokan. 2. Idgham (Melebur) baik dengan dengung (Bighunnah) maupun tanpa dengung (Bilaghunnah). 3. Iqlab (Menukar bunyi menjadi Mim) saat bertemu Ba. 4. Ikhfa (Menyamarkan) dengan sentuhan dengung pada 15 huruf tertentu."
-    },
-    {
-      "title": "Ahkamul Madd (Hukum Pemanjangan Suara)",
-      "content": "Mad secara bahasa berarti 'tambah'. Dalam tajwid, mad adalah memperpanjang suara saat bertemu huruf mad (Alif, Wau, Ya). Mad terbagi dua: Mad Ashli (Thabi'i) dengan panjang 2 harakat, dan Mad Far'i (Cabang) yang panjangnya bisa 4 hingga 6 harakat karena bertemu Hamzah atau Sukun. Ketepatan durasi mad sangat menentukan keindahan dan ritme tartil."
+      "title": "Kunci Utama Sukses Membaca Al-Qur'an bagi Pemula",
+      "content": "Jangan takut salah di awal. Fokuslah pada 3 hal utama terlebih dahulu: (1) Ketepatan huruf (Makhraj), (2) Kejelasan Panjang Pendek (Mad 2 Harakat), dan (3) Penahanan Dengung pada Nun/Mim Tasydid. Jika tiga hal ini konsisten, bacaan Anda sudah terdengar sangat indah dan sesuai standar Tajwid dasar."
     }
   ],
   "tips": [
-    "Lakukan Talaqqi (belajar langsung tatap muka) dengan guru yang bersanad untuk mengoreksi posisi lisan secara akurat.",
-    "Gunakan metode Istima' (mendengarkan) murottal qari-qari internasional seperti Syaikh Mahmoud Khalil Al-Hussary untuk membiasakan telinga dengan dialek Qur'ani.",
-    "Praktikkan 'Riyadhatul Lisan' (latihan otot lidah) setiap hari agar pelafalan huruf tidak kaku.",
-    "Fokuslah pada satu kaidah hingga mahir sebelum pindah ke kaidah tajwid berikutnya."
+    "Gunakan jari tangan Anda untuk mengetuk perlahan saat mengukur panjang Mad Thabi'i (2 ketukan santai).",
+    "Selalu dengarkan murottal Sheikh/Qari ternama (seperti Syaikh Mishary Rashid) sambil menyimak mushaf Al-Qur'an untuk melatih pendengaran.",
+    "Beli atau gunakan Al-Qur'an Tajwid Berwarna untuk memudahkan pemula mengenali mana yang harus didengungkan atau dibaca panjang.",
+    "Luangkan waktu minimal 10-15 menit setiap hari setelah shalat untuk latihan mempraktikkan hukum tajwid ini secara konsisten."
   ],
-  "summary": "Ilmu Tajwid bukan sekadar aturan teknis, melainkan bentuk adab tertinggi seorang hamba terhadap Kalamullah. Dengan menguasai tajwid, seorang pembaca Al-Qur'an terjaga dari Lahnu (kesalahan baca) yang dapat merusak makna, sehingga ia termasuk dalam golongan hamba yang membaca Al-Qur'an dengan sebenar-benarnya bacaan (Haqqa Tilawatih)."
+  "summary": "Selamat! Anda telah mempelajari dasar-dasar ilmu Tajwid yang paling sering muncul di dalam Al-Qur'an. Kunci mahir membaca Al-Qur'an bukan sekadar menghafal teori, melainkan membiasakan lisan untuk mempraktikkannya setiap hari. Mulailah membaca surah-surah pendek Juz 30 hari ini dan rasakan perbedaannya. Semoga Allah memberikan kemudahan dan keberkahan dalam belajar Al-Qur'an!"
 }
