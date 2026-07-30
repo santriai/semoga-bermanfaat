@@ -1,11 +1,11 @@
 {
-  "question": "Dalam ilmu Nahwu, manakah di antara kata berikut yang termasuk kategori Isim Muannas (perempuan) meskipun tidak memiliki tanda Ta Marbutah (ة) di akhirnya?",
+  "question": "Dalam kaidah ilmu Nahwu, tanda harakat asli (utama) bagi Isim Mufrad yang berada dalam keadaan I'rab Rafa' (Marfu') adalah...",
   "options": [
-    "شَمْسٌ (Syamsun)",
-    "حَمْزَةُ (Hamzah)",
-    "كِتَابٌ (Kitabun)",
-    "قَلَمٌ (Qalamun)"
+    "Fathah",
+    "Dhammah",
+    "Kasrah",
+    "Sukun"
   ],
-  "correctIndex": 0,
-  "explanation": "Kata 'Syamsun' (matahari) dikategorikan sebagai Muannas Majazi berdasarkan penggunaan orang Arab (Sima'i), meskipun tidak memiliki tanda fisik Ta Marbutah. Sebaliknya, 'Hamzah' adalah Isim Muzakkar (laki-laki) meskipun memiliki Ta Marbutah karena merujuk pada laki-laki, sedangkan 'Kitabun' dan 'Qalamun' adalah Isim Muzakkar murni."
+  "correctIndex": 1,
+  "explanation": "Tanda asli (utama) untuk I'rab Rafa' pada Isim Mufrad adalah Dhammah (contoh: جَاءَ زَيْدٌ - Jā'a Zaidu). Adapun Fathah adalah tanda asli untuk Nasab, Kasrah untuk Jar/Khafadh, dan Sukun untuk Jazm."
 }
