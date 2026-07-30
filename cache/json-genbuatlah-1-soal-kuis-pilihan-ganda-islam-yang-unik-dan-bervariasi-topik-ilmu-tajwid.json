@@ -1,11 +1,11 @@
 {
-  "question": "Dalam pembacaan Fawatihus Suwar (huruf muqatta'ah) pada lafaz \"آلم\" (Alif Laam Miim), apakah hukum tajwid yang berlaku pada ejaan huruf \"Lam\" (لَامْ) ketika di-idghamkan ke dalam ejaan huruf \"Mim\" (مِيمْ) berikutnya?",
+  "question": "Dalam kaidah Ilmu Tajwid riwayat Hafsh 'an 'Ashim, terdapat pengecualian khusus pada hukum Mad Silah Qasirah. Manakah di antara potongan ayat berikut yang Ha Dhamir-nya dibaca pendek (tanpa mad) meskipun diapit oleh dua huruf yang keduanya berharakat hidup?",
   "options": [
-    "Mad Lazim Kilmi Muthaqqal",
-    "Mad Lazim Harfi Mukhaffaf",
-    "Mad Lazim Harfi Muthaqqal",
-    "Mad Lazim Kilmi Mukhaffaf"
+    "يَرْضَهُ لَكُمْ (QS. Az-Zumar: 7)",
+    "أَرْجِهْ وَأَخَاهُ (QS. Al-A'raf: 111)",
+    "فَأَلْقِهْ إِلَيْهِمْ (QS. An-Naml: 28)",
+    "فِيهِ مُهَانًا (QS. Al-Furqan: 69)"
   ],
-  "correctIndex": 2,
-  "explanation": "Ejaan huruf 'Lam' terdiri dari tiga huruf (لَا مْ) yang di tengahnya merupakan huruf mad. Ketika mim sukun di akhir ejaan 'Lam' bertemu dengan huruf mim di awal ejaan 'Miim', terjadi penggabungan (idgham) yang menimbulkan tasydid (berat/muthaqqal). Oleh karena itu, hukumnya adalah Mad Lazim Harfi Muthaqqal dan dibaca panjang 6 harakat."
+  "correctIndex": 0,
+  "explanation": "Pada QS. Az-Zumar ayat 7, lafaz 'Yardhohu' (يَرْضَهُ) dibaca pendek (Qashr) tanpa Mad Silah menurut riwayat Hafsh 'an 'Ashim meskipun secara kaidah memenuhi syarat (Ha Dhamir diapit dua huruf berharakat). Pilihan B dan C dibaca sukun pada Ha-nya, sedangkan pilihan D adalah pengecualian sebaliknya (dibaca panjang meskipun syarat tidak terpenuhi)."
 }
