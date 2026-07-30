@@ -1,185 +1,148 @@
 {
-  "title": "Modul Panduan Praktis Ilmu Shorof dari Nol: Kuasai Perubahan Kata Arab & Buka Kunci Membaca Kitab Kuning",
-  "intro": "Selamat datang! Modul ini dirancang khusus untuk Anda yang ingin belajar Ilmu Shorof dari tingkat paling dasar (nol) tanpa pusing. Ilmu Shorof adalah 'seni mengubah bentuk kata' dalam Bahasa Arab untuk menghasilkan berbagai makna berbeda. Setelah mempelajari modul step-by-step ini, Anda akan mampu mengenali pola kata (Wazan), menebak harakat kitab gundul dengan tepat, dan memahami arti kata tanpa harus membuka kamus setiap saat.",
+  "title": "Modul Panduan Praktis Musthalah Hadits: Dari Nol Sampai Paham Istilah Kitab Kuning",
+  "intro": "Selamat datang di modul pembelajaran Musthalah Hadits! Modul ini dirancang khusus untuk pemula dari tingkat nol agar dapat memahami istilah-istilah penting dalam ilmu hadits, struktur hadits, dan pembagian kualitas hadits dengan cara yang sangat sederhana, rinci, dan langsung dapat dipraktekkan saat membaca kitab kuning.",
   "steps": [
     {
       "stepNumber": 1,
-      "title": "Langkah 1: Mengenal Fondasi Shorof - Konsep Cetakan (Wazan) dan Kata (Mauzun)",
-      "explanation": "Dalam bahasa Arab, hampir 90% kata berasal dari 3 huruf akar dasar. Dalam Ilmu Shorof, 3 huruf akar ini diumpamakan dengan huruf Fā' (ف), 'Ain (ع), dan Lām (ل) yang membentuk cetakan standar yaitu 'Fa'ala' (فَعَلَ). Cetakan ini disebut Wazan. Kata apapun yang dimasukkan ke cetakan ini dinamakan Mauzun. Jika Anda paham cetakannya, Anda bisa membaca ribuan kata Arab meskipun tanpa harakat!",
+      "title": "Langkah 1: Memahami Anatomi Utama Hadits (Sanad, Matan, dan Rawi)",
+      "explanation": "Sebelum menilai suatu hadits, kita harus tahu dulu struktur bangunan hadits. Sebuah hadits secara umum terdiri dari 3 bagian utama: Sanad (rantai penyampai), Matan (isi teks hadits), dan Rawi/Mukharrij (orang yang membukukan hadits). Bayangkan sanad seperti pipa air dan matan adalah airnya; air akan bersih jika pipa yang dilaluinya bersih.",
       "examples": [
         {
-          "arabic": "فَعَلَ",
-          "read": "Fa'ala",
-          "meaning": "Dia (laki-laki) telah berbuat",
-          "note": "Wazan (Cetakan Standar 3 Huruf). Fā = Huruf ke-1, 'Ain = Huruf ke-2, Lām = Huruf ke-3."
+          "arabic": "سَنَدٌ",
+          "read": "Sanad",
+          "meaning": "Silsilah perawi/jalur penutur yang menyambung sampai ke Nabi",
+          "note": "Contoh kalimat sanad: 'Haddatsana Fulanun 'an Fulanin' (Telah menceritakan kepada kami si A dari si B)."
         },
         {
-          "arabic": "كَتَبَ",
-          "read": "Kataba",
-          "meaning": "Dia (laki-laki) telah menulis",
-          "note": "Mauzun (Kata Hasil Cetakan). Kâf menggantikan Fā, Tâ menggantikan 'Ain, Bâ menggantikan Lām."
+          "arabic": "مَتْنٌ",
+          "read": "Matan",
+          "meaning": "Teks/isi ucapan, perbuatan, atau ketetapan Nabi",
+          "note": "Matan adalah redaksi sabda Nabi, misalnya kalimat 'Innamal a'malu bin-niyyat'."
         },
         {
-          "arabic": "فَتَحَ",
-          "read": "Fataha",
-          "meaning": "Dia (laki-laki) telah membuka",
-          "note": "Mengikuti pola Fâ- 'Ain - Lâm dengan harakat fathah semua (Fa'ala)."
-        },
-        {
-          "arabic": "عَلِمَ",
-          "read": "'Alima",
-          "meaning": "Dia (laki-laki) telah mengetahui",
-          "note": "Mengikuti cetakan 'Fa'ila' (فَعِلَ), di mana huruf tengahnya berharakat kasrah."
+          "arabic": "رَاوِي",
+          "read": "Rawi",
+          "meaning": "Orang yang meriwayatkan atau mencatat hadits",
+          "note": "Seperti Imam Bukhari, Imam Muslim, Abu Dawud, dan At-Tirmidzi."
         }
       ],
-      "actionTip": "Coba cari 3 huruf akar dari kata 'Masjid' (مَسْجِدٌ). Hilangkan huruf tambahan 'M', maka Anda akan menemukan akar katanya yaitu S-J-D (س-ج-د) yang berarti 'Sujud'."
+      "actionTip": "Buka satu hadits pendek di kitab riwayat, lalu pisahkan dengan pensil mana bagian Sanad (nama-nama perawi) dan mana bagian Matan (isi sabda)."
     },
     {
       "stepNumber": 2,
-      "title": "Langkah 2: Menguasai Tashrif Istilahi - Perubahan 1 Kata Menjadi 10 Bentuk Makna",
-      "explanation": "Tashrif Istilahi adalah perubahan bentuk kata kerja dasar menjadi bentuk-bentuk turunan seperti kata kerja lampau, kata kerja sekarang, kata benda, kata perintah, hingga penunjuk tempat. Ini adalah Rumus Emas Shorof yang wajib diketahui.",
+      "title": "Langkah 2: Mengenal Klasifikasi Hadits Berdasarkan Jumlah Jalur (Mutawatir vs Ahad)",
+      "explanation": "Hadits sampai kepada kita melalui jalur riwayat. Jika jalurnya sangat banyak di setiap tingkatan sehingga mustahil para perawinya sepakat berbohong, disebut Mutawatir (pasti benar). Jika jalurnya terbatas, disebut 'Ahad'. Hadits Ahad inilah yang nantinya diteliti kualitasnya.",
       "examples": [
         {
-          "arabic": "كَتَبَ",
-          "read": "Kataba",
-          "meaning": "Dia telah menulis",
-          "note": "Fi'il Madhi (Kata Kerja Lampau)"
+          "arabic": "مُتَوَاتِرٌ",
+          "read": "Mutawatir",
+          "meaning": "Hadits yang diriwayatkan oleh orang banyak dalam setiap tingkatan generasi",
+          "note": "Hukumnya wajib dipercayai secara pasti (Yaqini)."
         },
         {
-          "arabic": "يَكْتُبُ",
-          "read": "Yaktubu",
-          "meaning": "Dia sedang/akan menulis",
-          "note": "Fi'il Mudhari' (Kata Kerja Sekarang/Akan Datang)"
-        },
-        {
-          "arabic": "كِتَابَةً",
-          "read": "Kitābatan",
-          "meaning": "Penulisan / Tulisan",
-          "note": "Masdar (Kata Benda / Nama Tindakan)"
-        },
-        {
-          "arabic": "كَاتِبٌ",
-          "read": "Kātibun",
-          "meaning": "Penulis (Orang yang menulis)",
-          "note": "Isim Fa'il (Subjek / Pelaku)"
-        },
-        {
-          "arabic": "مَكْتُوْبٌ",
-          "read": "Maktūbun",
-          "meaning": "Yang ditulis / Surat",
-          "note": "Isim Maf'ul (Objek / Yang Dikenai Pekerjaan)"
-        },
-        {
-          "arabic": "اُكْتُبْ",
-          "read": "Uktub",
-          "meaning": "Tulislah!",
-          "note": "Fi'il Amar (Kata Kerja Perintah)"
-        },
-        {
-          "arabic": "لاَ تَكْتُبْ",
-          "read": "Lā Taktub",
-          "meaning": "Jangan tulis!",
-          "note": "Fi'il Nahi (Kata Kerja Larangan)"
-        },
-        {
-          "arabic": "مَكْتَبٌ",
-          "read": "Maktabun",
-          "meaning": "Meja tulis / Kantor / Tempat menulis",
-          "note": "Isim Makan/Zaman (Keterangan Tempat/Waktu)"
+          "arabic": "آحَادٌ",
+          "read": "Ahad",
+          "meaning": "Hadits yang perawinya tidak mencapai jumlah mutawatir",
+          "note": "Membawa faedah dugaan kuat (Zhanni) dan perlu diteliti kesahihannya."
         }
       ],
-      "actionTip": "Ulangi membaca urutan kata: Kataba - Yaktubu - Kitabatan - Katibun - Maktubun - Uktub - La Taktub - Maktabun sebanyak 3 kali agar lidah Anda terbiasa dengan iramanya."
+      "actionTip": "Ingat rumus sederhana: Mutawatir = Jalur Sangat Banyak (Pasti), Ahad = Jalur Terbatas (Perlu Diteliti)."
     },
     {
       "stepNumber": 3,
-      "title": "Langkah 3: Mengenal Imbuhan Huruf (Fi'il Mazid) untuk Mengubah Fungsi Kata",
-      "explanation": "Dalam bahasa Indonesia, kita mengenal awalan/akhiran seperti 'duduk' menjadi 'mendudukkan'. Dalam Shorof, hal ini dilakukan dengan menambahkan 1, 2, atau 3 huruf pada kata dasar (disebut Fi'il Mazid). Rumus utamanya: Menambah huruf = Menambah makna.",
+      "title": "Langkah 3: Menguasai 5 Syarat Utama Hadits Shahih",
+      "explanation": "Bagaimana sebuah hadits dinyatakan Shahih (Sangat Kuat & Sah)? Kitab-kitab Musthalah Hadits menyimpulkan 5 syarat mutlak yang wajib dipenuhi. Jika 1 saja gugur, tingkatannya turun menjadi Hasan atau Dha'if.",
       "examples": [
         {
-          "arabic": "خَرَجَ",
-          "read": "Kharaja",
-          "meaning": "Dia telah keluar",
-          "note": "Kata Dasar (3 Huruf / Tsulatsy Mujarrad)"
+          "arabic": "اِتِّصَالُ السَّنَدِ",
+          "read": "Ittishalus-Sanad",
+          "meaning": "Sanadnya Bersambung",
+          "note": "Setiap murid benar-benar menerima langsung dari gurunya tanpa terputus."
         },
         {
-          "arabic": "أَخْرَجَ",
-          "read": "Akhraja",
-          "meaning": "Dia telah mengeluarkan",
-          "note": "Ditambah Hamzah (أ) di depan = Makna berubah dari 'keluar' menjadi 'mengeluarkan' (membuat keluar)."
+          "arabic": "عَدَالَةُ الرُّوَاةِ",
+          "read": "'Adalatur-Ruwah",
+          "meaning": "Perawinya Berakhlaq Mulia ('Adil)",
+          "note": "Perawi seorang muslim, baligh, berakal, tidak suka maksiat, dan menjaga kehormatan."
         },
         {
-          "arabic": "عَلِمَ",
-          "read": "'Alima",
-          "meaning": "Dia telah tahu",
-          "note": "Kata Dasar (3 Huruf)"
+          "arabic": "ضَبْطُ الرُّوَاةِ",
+          "read": "Dhabtur-Ruwah",
+          "meaning": "Hafalan Perawi Sangat Kuat (Dhabith)",
+          "note": "Baik hafalan di ingatan maupun kecermatan catatan kitabnya."
         },
         {
-          "arabic": "عَلَّمَ",
-          "read": "'Allama",
-          "meaning": "Dia telah mengajarkan",
-          "note": "Penambahan Tasydid pada huruf tengah = Makna berubah dari 'tahu' menjadi 'membuat tahu / mengajarkan'."
+          "arabic": "عَدَمُ الشُّذُوذِ",
+          "read": "'Adamush-Syudzudz",
+          "meaning": "Tidak Syadz (Tidak Menyelisihi Perawi Lain yang Lebih Tsiqah)",
+          "note": "Isi/jalur hadits tidak bertentangan dengan periwayatan orang yang lebih tepercaya."
+        },
+        {
+          "arabic": "عَدَمُ الْعِلَّةِ",
+          "read": "'Adamul-'Illah",
+          "meaning": "Tidak Memiliki 'Cacat' Tersembunyi ('Illah)",
+          "note": "Bebas dari cacat terselubung yang hanya bisa diketahui oleh ahli hadits tingkat tinggi."
         }
       ],
-      "actionTip": "Ingat Rumus Cepat: Jika ada kata kerja diawali Hamzah 'A' (أَ), biasanya bermakna 'Menjadikan/Membuat...' (seperti Dakhala = Masuk, Adkhala = Memasukkan)."
+      "actionTip": "Hafalkan 5 syarat ini dengan kuncinya: (1) Sambung, (2) Jujur, (3) Kuat Hafalan, (4) Tak Janggal, (5) Tak Cacat."
     },
     {
       "stepNumber": 4,
-      "title": "Langkah 4: Rahasia Menebak Harakat Kata Gundul Menggunakan Pola Visual",
-      "explanation": "Mengapa santri bisa membaca Kitab Kuning tanpa harakat? Karena mereka tidak membaca huruf demi huruf, melainkan mengenali 'Bentuk Visual Kata' sesuai Wazan. Anda pun bisa melakukannya!",
+      "title": "Langkah 4: Memahami Tingkatan Kualitas Hadits (Shahih, Hasan, Dha'if)",
+      "explanation": "Setelah menguji dengan 5 syarat di atas, hadits dikelompokkan menjadi 3 tingkatan utama: Shahih (Sempurna), Hasan (Hafalan agak kurang sedikit tapi tetap bisa dijadikan hujjah), dan Dha'if (Lemah/Gugur syaratnya).",
       "examples": [
         {
-          "arabic": "مَعْلُوْمٌ",
-          "read": "Ma'lūmun",
-          "meaning": "Hal yang diketahui (Maklum)",
-          "note": "Pola Visual: M - _ - _ - U - M (Berawalan 'Ma' dan ada 'Wawu Mati' sebelum akhir) pasti dibaca berpola 'MAF'ŪLUN'."
+          "arabic": "صَحِيحٌ",
+          "read": "Shahih",
+          "meaning": "Hadits yang memenuhi 5 syarat secara sempurna",
+          "note": "Wajib diamalkan dan dijadikan landasan hukum Islam."
         },
         {
-          "arabic": "حَاكِمٌ",
-          "read": "Hākimun",
-          "meaning": "Orang yang menghukumi / Hakim",
-          "note": "Pola Visual: _ - A - _ - I - M (Huruf kedua Alif) pasti dibaca berpola 'FĀ'ILUN' (Pelaku)."
+          "arabic": "حَسَنٌ",
+          "read": "Hasan",
+          "meaning": "Hadits yang memenuhi syarat shahih, namun tingkat hafalan perawinya sedikit di bawah shahih",
+          "note": "Tetap sah digunakan sebagai hujjah hukum."
         },
         {
-          "arabic": "مَسْجِدٌ",
-          "read": "Masjidun",
-          "meaning": "Tempat sujud / Masjid",
-          "note": "Pola Visual: M - A - _ - I - D (Awalan Mim berharakat Fathah) biasanya menunjukkan Nama Tempat (MAFI'LUN / MAF'ALUN)."
+          "arabic": "ضَعِيفٌ",
+          "read": "Dha'if",
+          "meaning": "Hadits yang tidak memenuhi salah satu atau lebih dari syarat Shahih/Hasan",
+          "note": "Tidak bisa dijadikan landasan utama hukum aqidah/figh."
         }
       ],
-      "actionTip": "Buka Al-Qur'an, cari kata yang berawalan huruf Mim (مـ). Jika polanya berbunyi 'Mu-...-un' (seperti Muslimun, Mukminun), itu adalah tanda Pelaku dari Fi'il Mazid!"
+      "actionTip": "Saat membaca kitab fiqih kuning, perhatikan catatan di footnote status haditsnya: apakah ditulis 'Haditsun Shahihun' atau 'Haditsun Dha'ifun'."
     },
     {
       "stepNumber": 5,
-      "title": "Langkah 5: Praktek Mandiri Mengurai dan Membaca Teks Arab Gundul",
-      "explanation": "Langkah terakhir adalah mempraktikkan analisis kata saat menjumpai teks kitab gundul. Gunakan 'Teknik Kelupas Kulit': Buang huruf imbuhan di depan/belakang untuk menemukan kata dasarnya.",
+      "title": "Langkah 5: Praktek Membaca Teks Kitab Kuning Musthalah Hadits",
+      "explanation": "Sekarang mari kita praktekkan membaca potongan Matan Al-Bayquniyyah (kitab standar pemula Musthalah Hadits) kata demi kata beserta harakat dan maknanya.",
       "examples": [
         {
-          "arabic": "يَعْلَمُوْنَ",
-          "read": "Ya'lamūna",
-          "meaning": "Mereka (laki-laki) sedang mengetahui",
-          "note": "Langkah Kelupas: Kelupas awalan 'Ya' (ي) dan akhiran 'Una' (ون). Tersisa huruf 'Ain-Lam-Mim (ع-ل-م) = 'Alima (Tahu)."
+          "arabic": "أَوَّلُهَا الصَّحِيحُ وَهُوَ مَا اتَّصَلْ",
+          "read": "Awwaluhas-shahihu wa huwa mat-tashal",
+          "meaning": "Yang pertama adalah Hadits Shahih, yaitu hadits yang bersambung...",
+          "note": "أَوَّلُهَا (awwaluha = yang pertama darinya), الصَّحِيحُ (as-shahihu = adalah hadits shahih), وَهُوَ (wa huwa = dan dia), مَا (ma = apa/hadits yang), اتَّصَلْ (ittashal = bersambung sanadnya)."
         },
         {
-          "arabic": "المُسْتَغْفِرِيْنَ",
-          "read": "Al-Mustaghfirīna",
-          "meaning": "Orang-orang yang memohon ampunan",
-          "note": "Langkah Kelupas: Buang 'Al' (ال), 'I na' (ين), dan imbuhan 'Musta' (مست). Tersisa akar kata Gha-Fa-Ra (غ-ف-ر) = Ampun."
+          "arabic": "إِسْنَادُهُ وَلَمْ يَشُذَّ أَوْ يُعَلَّ",
+          "read": "Isnaduhu wa lam yasyudzza aw yu'al",
+          "meaning": "...sanadnya, serta tidak janggal (syadz) dan tidak bercacat ('illat).",
+          "note": "إِسْنَادُهُ (isnaduhu = sanadnya), وَلَمْ (wa lam = dan tidak), يَشُذَّ (yasyudzza = janggal), أَوْ (aw = atau), يُعَلَّ (yu'al = diberi cacat)."
         }
       ],
-      "actionTip": "Latihlah mata Anda membuang huruf tambahan seperti 'Al' (ال), 'Wawu-Nun' (ون), atau 'Ya-Nun' (ين) saat melihat kata yang panjang."
+      "actionTip": "Baca teks Arab di atas berulang-ulang sampai lancar, lalu cocokkan maknanya kata demi kata tanpa melihat terjemahannya."
     }
   ],
   "sections": [
     {
-      "title": "Ringkasan Kaidah & Rumus Cepat Shorof",
-      "content": "1. Wazan Dasar = فَعَلَ (Fa-'a-la) sebagai cetakan utama 3 huruf.\n2. Rumus Pelaku (Isim Fa'il) = Cetakan فَاعِلٌ (Fā'il - ada Alif di huruf kedua). Contoh: 'Ālim (Orang berilmu).\n3. Rumus Objek (Isim Maf'ul) = Cetakan مَفْعُوْلٌ (Maf'ūl - berawalan Ma- dan ada Wawu sukun). Contoh: Ma'lūm (Yang diketahui).\n4. Rumus Kata Tempat (Isim Makan) = Berawalan Mim berharakat fathah (مَفْعَلٌ / مَفْعِلٌ). Contoh: Maktab (Meja/Kantor), Majlis (Tempat duduk).\n5. Rumus Kata Kerja Sekarang (Mudhari') = Wajib diawali salah satu huruf ANITA (Alif, Nun, Ya, Ta)."
+      "title": "Ringkasan Kaidah Penting Musthalah Hadits",
+      "content": "1. Sanad = Silsilah Perawi. Matan = Isi Sabda. Mukharrij = Penulis Kitab Hadits.\n2. Syarat Hadits Shahih ada 5: Sanad Bersambung, Perawi 'Adil, Perawi Dhabith, Tidak Syadz, Tidak 'Illat.\n3. Perbedaan Shahih dan Hasan terletak pada tingkat ke-Dhabith-an (kekuatan hafalan) perawinya.\n4. Hadits Dha'if terjadi karena adanya mata rantai sanad yang terputus atau adanya perawi yang bermasalah dalam kejujuran/hafalan."
     }
   ],
   "tips": [
-    "Jangan dihafal secara kaku dengan pusing, utamakan hafalan nada/iramanya (seperti menyanyikan pola Tashrif).",
-    "Fokus pada pengenalan pola bentuk kata visual, bukan menghafal istilah teoritisnya.",
-    "Selalu kembalikan kata yang panjang ke bentuk 3 huruf dasarnya untuk menebak artinya di kamus.",
-    "Luangkan waktu 10 menit sehari untuk mengurai 3 kata dalam Al-Qur'an atau kitab gundul."
+    "Gunakan istilah kunci Bahasa Indonesia untuk mengingat 5 syarat shahih: SAMBUNG - JUJUR - INGATAN KUAT - TIDAK ANEH - TIDAK CACAT.",
+    "Jangan terburu-buru menghafal seluruh istilah rumit, kuasai dulu 3 istilah dasar: Shahih, Hasan, dan Dha'if.",
+    "Saat membaca kitab kuning, fokuslah melatih pemisahan antara teks Sanad (حَدَّثَنَا...) dan isi Matan (قَالَ رَسُولُ اللهِ...)."
   ],
-  "summary": "Selamat! Anda telah menguasai fondasi Ilmu Shorof dari NOL. Kunci utama Shorof adalah mengenali 'pola cetakan kata'. Ketika Anda sudah terbiasa melihat pola kata, membaca Kitab Kuning gundul tidak lagi menjadi hal yang menakutkan, melainkan seperti merangkai puzzle yang seru. Teruslah berlatih membedah kata dan rasakan kemudahan dalam memahami bahasa Al-Qur'an!"
+  "summary": "Selamat! Anda telah mempelajari fondasi dasar Musthalah Hadits dari nol. Kunci utama dalam menguasai kitab kuning adalah konsistensi mengulang latihan membaca teks dan memahami istilah dasarnya. Teruslah berlatih, nikmati prosesnya, dan jadikan ilmu ini sebagai sarana mendekatkan diri pada ajaran Rasulullah SAW secara murni dan tepat."
 }
