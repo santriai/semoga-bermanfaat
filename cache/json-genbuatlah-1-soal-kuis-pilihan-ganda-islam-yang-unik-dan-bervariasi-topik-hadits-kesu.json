@@ -1,11 +1,11 @@
 {
-  "question": "Dalam ilmu Hadits, jika sebuah hadits memiliki keterangan \"Muttafaq 'Alaih\" (disepakati atasnya), artinya hadits tersebut diriwayatkan secara bersamaan oleh dua imam perawi utama, yaitu...",
+  "question": "Dalam klasifikasi Hadits Ahad berdasarkan jumlah perawi, manakah kriteria yang paling tepat untuk mendefinisikan sebuah Hadits Aziz?",
   "options": [
-    "Imam Abu Dawud dan Imam At-Tirmidzi",
-    "Imam Al-Bukhari dan Imam Muslim",
-    "Imam Ahmad dan Imam Syafi'i",
-    "Imam Malik dan Imam An-Nasa'i"
+    "Hadits yang diriwayatkan oleh minimal dua orang perawi pada setiap tingkatan (thabaqah) sanadnya.",
+    "Hadits yang hanya memiliki satu jalur sanad pada salah satu tingkatan sanadnya.",
+    "Hadits yang diriwayatkan oleh tiga orang atau lebih pada setiap tingkatan namun belum mencapai derajat mutawatir.",
+    "Hadits yang memiliki sanad sangat kuat dan diriwayatkan oleh minimal dua orang sahabat Nabi."
   ],
-  "correctIndex": 1,
-  "explanation": "Istilah \"Muttafaq 'Alaih\" (متفق عليه) merujuk pada hadits yang diriwayatkan oleh Imam Al-Bukhari dan Imam Muslim dalam kitab Sahih mereka masing-masing dari sahabat yang sama, yang menempatkannya pada tingkatan kesahihan tertinggi."
+  "correctIndex": 0,
+  "explanation": "Hadits Aziz secara terminologi Mustalah al-Hadith adalah hadits yang diriwayatkan oleh tidak kurang dari dua perawi di setiap tingkatan (thabaqah) sanadnya. Jika dalam salah satu tingkatan hanya ada satu perawi, ia disebut Gharib. Jika ada tiga atau lebih (namun tidak mencapai mutawatir), ia disebut Masyhur."
 }
