@@ -1,143 +1,118 @@
 {
-  "title": "Panduan Praktis Tahsin Tilawah: Dari Nol Sampai Lancar Membaca Al-Qur'an",
-  "intro": "Selamat datang di modul Tahsin Tilawah! Modul ini dirancang khusus untuk Anda yang ingin belajar membaca Al-Qur'an dari tingkat paling dasar secara bertahap. Melalui metode yang mudah, jelas, dan langsung disertai contoh, Anda akan dibimbing untuk menguasai pengucapan huruf (Makhraj), panjang-pendek (Mad), serta hukum-hukum bacaan utama agar mampu membaca Al-Qur'an secara fasih dan benar.",
+  "title": "Modul Praktis Belajar Ilmu Nahwu dari Nol: Cara Cepat Bisa Baca Kitab Kuning",
+  "intro": "Modul ini dirancang khusus untuk pemula yang ingin memahami dasar-dasar Ilmu Nahwu secara bertahap. Melalui pendekatan praktis dari tingkat nol, Anda akan dibimbing memahami konsep kata, struktur kalimat, hingga mampu menganalisis dan membaca teks Arab gundul (Kitab Kuning) dengan benar.",
   "steps": [
     {
       "stepNumber": 1,
-      "title": "Langkah 1: Mengenal Tempat Keluar Huruf Utama (Makharijul Huruf Dasar)",
-      "explanation": "Makhraj adalah tempat keluarnya bunyi huruf Hijaiyah. Agar bacaan Al-Qur'an kita benar, kita harus membunyikan huruf dari organ tubuh yang tepat. Ada 3 kelompok organ utama yang paling sering digunakan pemula: Tenggorokan (Halq), Lidah (Lisan), dan Dua Bibir (Syafatan). Rumus cepatnya: Perhatikan di mana udara tertahan saat huruf disukunkan/dimatikan.",
+      "title": "Langkah 1: Mengenal 3 Jenis Kata dalam Bahasa Arab",
+      "explanation": "Dalam bahasa Arab, seluruh kata di dalam Al-Qur'an maupun Kitab Kuning hanya terbagi menjadi 3 jenis utama: Isim (Kata Benda/Sifat), Fi'il (Kata Kerja), dan Huruf (Kata Hubung/Tugas). Mengetahui jenis kata adalah kunci utama sebelum membaca kalimat.",
       "examples": [
         {
-          "arabic": "أَنْعَمْتَ",
-          "read": "An'amta",
-          "meaning": "Yang telah Engkau beri nikmat",
-          "note": "Huruf Nun (ن) keluar dari ujung lidah menempel di gusi atas, sedangkan 'Ain (ع) keluar dari tengah tenggorokan."
+          "arabic": "كِتَابٌ",
+          "read": "Kitābun",
+          "meaning": "Sebuah buku",
+          "note": "Termasuk Isim (Kata Benda) karena memiliki tanda Tanwin di akhir kata."
         },
         {
-          "arabic": "كُفُوًا",
-          "read": "Kufuwan",
-          "meaning": "Yang setara / seimbang",
-          "note": "Huruf Fa (ف) keluar dari bibir bawah bagian dalam yang bertemu dengan ujung gigi seri atas."
+          "arabic": "كَتَبَ",
+          "read": "Kataba",
+          "meaning": "Dia (laki-laki) telah menulis",
+          "note": "Termasuk Fi'il (Kata Kerja) karena menunjukkan suatu pekerjaan pada waktu lampau."
         },
         {
-          "arabic": "قُلْ هُوَ اللهُ",
-          "read": "Qul huwallaahu",
-          "meaning": "Katakanlah: Dia-lah Allah",
-          "note": "Huruf Qof (ق) keluar dari pangkal lidah dekat tenggorokan, sedangkan Ha (هـ) keluar dari tenggorokan paling bawah."
+          "arabic": "فِي",
+          "read": "Fī",
+          "meaning": "Di dalam",
+          "note": "Termasuk Huruf (Kata Hubung/Jar) yang tidak memiliki arti sempurna jika berdiri sendiri."
         }
       ],
-      "actionTip": "Coba ucapkan kata 'GIGU' untuk merasakan pangkal lidah, lalu ucapkan 'AA-II-UU' sambil merasakan aliran udara di tenggorokan Anda."
+      "actionTip": "Buka Surah Al-Fatihah, lalu coba kelompokkan kata-katanya mana yang Isim (diawali Alif Lam 'ال'), mana yang Huruf (seperti 'مِنْ' atau 'بِ')."
     },
     {
       "stepNumber": 2,
-      "title": "Langkah 2: Menguasai Panjang Pendek Bacaan (Mad Thabi'i / Mad Asli)",
-      "explanation": "Kunci utama keindahan dan kebenaran membaca Al-Qur'an terletak pada ketepatan panjang-pendeknya (Mad). Mad Thabi'i adalah hukum dasar panjang yang dibaca 2 ketukan (2 harakat). Rumus Cepat mengingat pasangan Mad Thabi'i: 1) Fathah bertemu Alif (َ + ا), 2) Kasrah bertemu Ya Sujud/Mati (ِ + يْ), 3) Dhammah bertemu Wawu Mati (ُ + وْ).",
+      "title": "Langkah 2: Memahami Kalimat Benda (Jumlah Ismiyyah: Mubtada' & Khabar)",
+      "explanation": "Jumlah Ismiyyah adalah kalimat yang diawali oleh Isim. Kalimat ini terdiri dari 2 unsur wajib: Mubtada' (Subjek/Topik utama) dan Khabar (Predikat/Keterangan). Rumus dasarnya: Mubtada' umumnya ber-Alif Lam (ال) dan berakhiran Dhammah, sedangkan Khabar umumnya bertanwin dan berakhiran Dhammah.",
       "examples": [
         {
-          "arabic": "قَالَ",
-          "read": "Qoola",
-          "meaning": "Dia (laki-laki) telah berkata",
-          "note": "Dibaca panjang 2 ketukan karena Fathah bertemu Alif (قَا)."
+          "arabic": "اَلْمَسْجِدُ كَبِيرٌ",
+          "read": "Al-masjidu kabīrun",
+          "meaning": "Masjid itu besar",
+          "note": "'Al-masjidu' adalah Mubtada' (Subjek berakhiran Dhammah), dan 'kabīrun' adalah Khabar (Predikat berakhiran Dhammah Tanwin)."
         },
         {
-          "arabic": "قِيلَ",
-          "read": "Qiila",
-          "meaning": "Dikatakan",
-          "note": "Dibaca panjang 2 ketukan karena Kasrah bertemu Ya mati (قِي)."
-        },
-        {
-          "arabic": "يَقُولُ",
-          "read": "Yaquulu",
-          "meaning": "Dia sedang berkata",
-          "note": "Huruf 'qu' (قُ) dibaca panjang 2 ketukan karena Dhammah bertemu Wawu mati (قُو)."
+          "arabic": "اَلْعِلْمُ نُورٌ",
+          "read": "Al-'ilmu nūrun",
+          "meaning": "Ilmu itu adalah cahaya",
+          "note": "'Al-'ilmu' sebagai Mubtada' (Pokok pembicaraan), 'nūrun' sebagai Khabar (Pemberi informasi tentang ilmu)."
         }
       ],
-      "actionTip": "Saat membaca huruf berpola Mad Thabi'i, ayunkan suara Anda lembut sebanyak 2 ketukan (seperti ketukan jari meja), jangan terlalu panjang dan jangan diputus."
+      "actionTip": "Buatlah kalimat sederhana dengan pola ini, misalnya menggabungkan kata 'اَلْوَلَدُ' (Anak laki-laki itu) + 'صَالِحٌ' (Sholeh)."
     },
     {
       "stepNumber": 3,
-      "title": "Langkah 3: Hukum Nun Sukun (نْ) & Tanwin (ً ٍ ٌ) - Bagian 1: Izhar & Idgham",
-      "explanation": "Ketika Nun Mati (نْ) atau Tanwin bertemu huruf Hijaiyah, cara bacanya berubah. Pada bagian ini kita pelajari 2 hukum utama: 1) Izhar (Jelas) = Dibaca jelas tanpa dengung jika bertemu 6 huruf tenggorokan (ء, هـ, ع, ح, غ, خ). 2) Idgham (Melebur) = Meleburkan Nun mati ke huruf berikutnya. Idgham Bighunnah (dengan dengung 2 ketukan) jika bertemu huruf (ي, ن, م, و), dan Idgham Bilaghunnah (tanpa dengung) jika bertemu (ل, ر).",
+      "title": "Langkah 3: Memahami Kalimat Kerja (Jumlah Fi'liyyah: Fi'il & Fa'il)",
+      "explanation": "Jumlah Fi'liyyah adalah kalimat yang diawali oleh Kata Kerja (Fi'il). Struktur dasarnya adalah Fi'il (Kata Kerja) + Fa'il (Pelaku/Subjek). Rumus penting: Fa'il (Pelaku) harakat akhirnya SELALU berbunyi U / Dhammah (Marfu').",
       "examples": [
         {
-          "arabic": "مَنْ آمَنَ",
-          "read": "Man aamana",
-          "meaning": "Barangsiapa yang beriman",
-          "note": "Hukum Izhar: Nun mati bertemu Hamzah (آ). Dibaca jelas 'MAN', tidak boleh didengungkan."
+          "arabic": "جَلَسَ الطَّالِبُ",
+          "read": "Jalasa at-thālibu",
+          "meaning": "Siswa itu telah duduk",
+          "note": "'Jalasa' adalah Fi'il (Kata Kerja 'duduk'), 'at-Thālibu' adalah Fa'il (Pelaku) sehingga harakat akhirnya wajib Dhammah (u)."
         },
         {
-          "arabic": "مَنْ يَقُولُ",
-          "read": "May yaquulu",
-          "meaning": "Orang yang berkata",
-          "note": "Hukum Idgham Bighunnah: Nun mati bertemu Ya (ي). Suara N masuk ke Y disertai dengung 2 ketukan."
-        },
-        {
-          "arabic": "مِنْ رَبِّهِمْ",
-          "read": "Mir rabbihim",
-          "meaning": "Dari Tuhan mereka",
-          "note": "Hukum Idgham Bilaghunnah: Nun mati bertemu Ra (ر). Suara N langsung hilang masuk ke R tanpa dengung."
+          "arabic": "حَضَرَ الأُسْتَاذُ",
+          "read": "Hadhara al-ustādhu",
+          "meaning": "Guru itu telah hadir",
+          "note": "'Hadhara' (Hadir) + 'al-Ustādhu' (Guru sebagai pelaku, berharakat akhir Dhammah)."
         }
       ],
-      "actionTip": "Rumus Cepat: Jika ketemu huruf leher (Izhar) = Baca Jelas! Jika ketemu huruf YANAMU (ي-ن-م-و) = Leburkan sambil didengungkan!"
+      "actionTip": "Ingat rumus cepat: Setiap ada kata kerja, langsung cari siapa pelakunya dan berikan harakat Dhammah pada huruf terakhir pelaku tersebut."
     },
     {
       "stepNumber": 4,
-      "title": "Langkah 4: Hukum Nun Sukun (نْ) & Tanwin (ً ٍ ٌ) - Bagian 2: Ikhfa & Iqlab",
-      "explanation": "Dua hukum berikutnya adalah: 1) Iqlab (Menukar) = Jika Nun Mati/Tanwin bertemu huruf Ba (ب), suara N berubah menjadi suara M (م) disertai dengung 2 ketukan. 2) Ikhfa (Samar) = Jika bertemu 15 huruf sisa (seperti ت, ث, ج, د, ذ, ز, س, ش, ص, ض, ط, ظ, ف, ق, ك), suara N dibaca samar-samar menuju ke makhraj huruf berikutnya sambil mendengung 2 ketukan.",
+      "title": "Langkah 4: Mengenal Posisi Objek (Maf'ul Bih) dan Pengaruh Huruf Jar",
+      "explanation": "Untuk melengkapi kalimat kerja, kita sering membutuhkan Objek (Maf'ul Bih). Rumus Objek: Akhir kata berharakat A / Fathah (Manshub). Selain itu, jika ada Isim yang didahului Huruf Jar (seperti فِي, مِنْ, إِلَى, عَلَى), harakat akhirnya berubah menjadi I / Kasrah (Majrur).",
       "examples": [
         {
-          "arabic": "مِنْ بَعْدِ",
-          "read": "Mim ba'di",
-          "meaning": "Setelah / Sesudah",
-          "note": "Hukum Iqlab: Nun mati bertemu Ba (ب). Suara N berubah menjadi M halus dan didengungkan."
+          "arabic": "قَرَأَ زَيْدٌ الْكِتَابَ",
+          "read": "Qara'a Zaidun al-kitāba",
+          "meaning": "Zaid telah membaca buku itu",
+          "note": "'Qara'a' (Kata Kerja), 'Zaidun' (Pelaku/Dhammah), 'al-Kitāba' (Objek/Fathah)."
         },
         {
-          "arabic": "مِنْ قَبْلُ",
-          "read": "Ming qablu",
-          "meaning": "Sebelumnya",
-          "note": "Hukum Ikhfa: Nun mati bertemu Qof (ق). Suara N disamarkan menjadi tebal ('ng') siap mengucapkan Qof."
-        },
-        {
-          "arabic": "إِنْسَانٌ",
-          "read": "Insaanon",
-          "meaning": "Manusia",
-          "note": "Hukum Ikhfa: Nun mati bertemu Sin (س). Suara N disamarkan secara tipis mendekati bunyi S."
+          "arabic": "ذَهَبَ زَيْدٌ إِلَى الْمَسْجِدِ",
+          "read": "Dhahaba Zaidun ilā al-masjidi",
+          "meaning": "Zaid telah pergi ke masjid",
+          "note": "'al-Masjidi' berharakat akhir Kasrah (i) karena didahului kata 'ilā' (Huruf Jar)."
         }
       ],
-      "actionTip": "Tips Ikhfa: Siapkan lidah Anda pada posisi huruf berikutnya SEBELUM mengucapkan Nun Mati, lalu tahan dengungnya selama 2 ketukan."
+      "actionTip": "Perhatikan perbedaan harakat akhir pada kata yang sama tergantung posisinya: Zaidun (Pelaku = u), al-Kitaba (Objek = a), ilal Masjidi (Didahului Kata Hubung = i)."
     },
     {
       "stepNumber": 5,
-      "title": "Langkah 5: Praktek Mandiri Membaca Ayat Al-Qur'an & Cara Berhenti (Waqaf)",
-      "explanation": "Saat membaca Al-Qur'an, kita perlu tahu cara berhenti (Waqaf) yang benar. Aturan umum berhenti: 1) Huruf terakhir berpangkat Harakat (َ ِ ُ) dimatikan/disukunkan. 2) Tanwin Fathah (ً) saat berhenti dibaca panjang 2 harakat (Mad 'Iwadh) dan tanwinnya hilang menjadi fathah biasa.",
+      "title": "Langkah 5: Praktek Membaca Teks Arab Gundul (Kitab Kuning)",
+      "explanation": "Sekarang kita gabungkan semua rumus untuk membaca teks tanpa harakat. Langkahnya: 1. Tentukan jenis kalimatnya (diawali kata benda atau kata kerja). 2. Cari mana Subjek/Pelaku (u), Objek (a), atau kata setelah Huruf Jar (i).",
       "examples": [
         {
-          "arabic": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
-          "read": "Qul a'uudzu birabbil falaq",
-          "meaning": "Katakanlah: Aku berlindung kepada Tuhan yang menguasai subuh",
-          "note": "Huruf Qof terakhir bertanda Kasrah (قِ) dibaca mati menjadi 'falaq' saat berhenti (Waqaf)."
-        },
-        {
-          "arabic": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللهِ أَفْوَاجًا",
-          "read": "Wa ra-aitan naasa yadkhuluuna fii diinillaahi afwaajaa",
-          "meaning": "Dan kamu lihat manusia masuk agama Allah dengan berbondong-bondong",
-          "note": "Kata 'Afwaajan' (أَفْوَاجًا) berpangkat Tanwin Fathah, saat berhenti dibaca panjang 'Afwaajaa' (2 ketukan)."
+          "arabic": "يَكْتُبُ الطَّالِبُ الدَّرْسَ فِي الْمَدْرَسَةِ",
+          "read": "Yaktubu at-thālibu ad-darsa fī al-madrasati",
+          "meaning": "Siswa itu sedang menulis pelajaran di sekolah",
+          "note": "Yaktubu (Fi'il) -> at-Thālibu (Pelaku: u) -> ad-Darsa (Objek: a) -> fī (Huruf Jar) -> al-Madrasati (Didahului Jar: i)."
         }
       ],
-      "actionTip": "Cobalah membaca Surah Al-Falaq dan An-Nasr ayat demi ayat, terapkan cara mematikan huruf terakhir di akhir ayat dengan mantap."
+      "actionTip": "Coba ambil satu kalimat gundul pendek dari kitab safinah/takhrij, tentukan harakat akhir setiap kata berdasarkan fungsi kedudukannya."
     }
   ],
   "sections": [
     {
-      "title": "Ringkasan Kaidah Penting Nun Mati & Tanwin",
-      "content": "1. IZHAR (Jelas): Pertemuan dengan huruf tenggorokan (ء, هـ, ع, ح, غ, خ) -> Tanpa Dengung.\n2. IDGHAM BIGHUNNAH (Lebur + Dengung): Pertemuan dengan huruf (ي, ن, م, و) -> Dengung 2 ketukan.\n3. IDGHAM BILAGHUNNAH (Lebur Tanpa Dengung): Pertemuan dengan huruf (ل, ر) -> Langsung masuk huruf berikutnya.\n4. IQLAB (Ubah jadi M): Pertemuan dengan huruf (ب) -> Ubah N jadi M + Dengung.\n5. IKHFA (Samar): Pertemuan dengan 15 huruf sisa -> Samarkan suara N + Dengung 2 ketukan."
+      "title": "Ringkasan Kaidah Utama Harakat Akhir (I'rab Dasar)",
+      "content": "1. Marfu' (Pelaku / Subjek Utama / Mubtada'-Khabar) -> Harakat Akhir Utamanya: Dhammah ( -ُ / -ٌ ).\n2. Manshub (Objek / Penderita / Maf'ul Bih) -> Harakat Akhir Utamanya: Fathah ( -َ / -ً ).\n3. Majrur (Kata setelah Huruf Jar seperti min, ila, fi, 'ala) -> Harakat Akhir Utamanya: Kasrah ( -ِ / -ٍ )."
     }
   ],
   "tips": [
-    "Konsisten Latihan 15 Menit Setiap Hari: Tahsin adalah latihan otot mulut dan pita suara, kelancaran diraih dengan kebiasaan.",
-    "Gunakan Metode Meniru (Talaqqi): Dengarkan murattal qari standar (seperti Syaikh Mahmoud Khalil Al-Husary) lalu tirukan artikulasinya.",
-    "Jangan Terburu-buru: Dalam belajar Tahsin, kebenaran panjang-pendek dan makhraj jauh lebih utama dibandingkan kecepatan membaca.",
-    "Gunakan Jari untuk Ketukan: Tentukan 2 ketukan Mad Thabi'i dengan cara mengetuk jari secara stabil."
+    "Rumus 'SPO' Arab: Cari Kata Kerjanya dulu, lalu tanya 'Siapa yang melakukan?' (Pelaku = Dhammah), lalu 'Apa yang dilakukan?' (Objek = Fathah).",
+    "Fokus utama Ilmu Nahwu adalah menentukan harakat pada HURUF TERAKHIR suatu kata, bukan huruf depan atau tengah.",
+    "Jangan dihafal istilah rumitnya dulu, tapi biasakan mengenali pola perubahan bunyi u - a - i berdasarkan posisinya dalam kalimat."
   ],
-  "summary": "Membaca Al-Qur'an dengan benar dan tartil adalah bentuk penghormatan kita terhadap kalam Allah SWT. Jangan pernah berkecil hati jika terasa kaku di awal latihan. Setiap kesulitan yang Anda jalani dalam mengeja Al-Qur'an dinilai pahala ganda di sisi Allah. Mulailah dari langkah pertama hari ini, dan nikmati setiap proses perbaikannya!"
+  "summary": "Membaca Kitab Kuning bukanlah hal yang rumit jika Anda memahami pola dasar perubahan harakat akhir kata. Dengan menguasai 3 jenis kata dan 3 harakat utama (Dhammah untuk Pelaku, Fathah untuk Objek, Kasrah setelah Kata Hubung), Anda sudah memegang kunci 70% membaca teks Arab dengan benar. Teruslah berlatih menelaah kalimat sederhana setiap hari!"
 }
