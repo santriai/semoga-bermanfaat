@@ -1,11 +1,11 @@
 {
-  "question": "Dalam klasifikasi ilmu Musthalah al-Hadith, jika terdapat sebuah hadis yang pada salah satu tingkatan sanadnya (thabaqat) hanya diriwayatkan oleh dua orang perawi saja, maka hadis tersebut dikategorikan sebagai hadis...",
+  "question": "Dalam klasifikasi ilmu hadits, terdapat jenis hadits yang maknanya berasal dari Allah SWT namun redaksi bahasanya disusun oleh Nabi Muhammad SAW. Apakah nama jenis hadits tersebut?",
   "options": [
-    "Hadis Aziz",
-    "Hadis Gharib",
-    "Hadis Masyhur",
-    "Hadis Mutawatir"
+    "Hadits Qudsi",
+    "Hadits Mutawatir",
+    "Hadits Marfu'",
+    "Hadits Mauquf"
   ],
   "correctIndex": 0,
-  "explanation": "Hadis Aziz adalah hadis yang diriwayatkan oleh minimal dua orang perawi pada setiap tingkatan sanadnya. Jika hanya satu perawi disebut Gharib, dan jika tiga perawi atau lebih (namun belum mencapai derajat mutawatir) disebut Masyhur. Istilah ini merujuk pada kuantitas perawi dalam klasifikasi hadis Ahad."
+  "explanation": "Hadits Qudsi adalah hadits yang berisi firman Allah SWT yang disampaikan kepada Nabi Muhammad SAW melalui ilham atau mimpi, kemudian Nabi menyampaikannya dengan redaksi kata-kata beliau sendiri. Perbedaannya dengan Al-Qur'an adalah Al-Qur'an redaksi dan maknanya langsung dari Allah serta bernilai mukjizat, sedangkan Hadits Qudsi tidak."
 }
