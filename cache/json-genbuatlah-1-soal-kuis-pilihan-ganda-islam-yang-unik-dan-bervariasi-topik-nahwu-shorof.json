@@ -1,11 +1,11 @@
 {
-  "question": "Dalam ilmu Nahwu (kitab Matan Al-Ajurrumiyyah), manakah di antara tanda berikut yang merupakan ciri khas dari kalimah isim (kata benda/sifat) dan tidak dapat masuk pada kalimah fi'il (kata kerja)?",
+  "question": "Dalam diskursus 'Tanazu' al-'Amalain' (تنازع العملين) pada susunan kalimat 'ضَرَبْتُ وَضَرَبَنِيْ زَيْدٌ', manakah analisis i'rab yang paling akurat menurut Madzhab Bashrah (Basriyyun) beserta konsekuensi kaidahnya?",
   "options": [
-    "Kemasukan huruf Qad (قَدْ)",
-    "Kemasukan Tanwin (التَّنْوِينُ)",
-    "Kemasukan Ta' Ta'nis Sakinah (تَاءُ التَّأْنِيثِ السَّاكِنَةُ)",
-    "Kemasukan huruf Sin (السِّينُ)"
+    "Zaid adalah Fa'il bagi fi'il kedua (dharabani), sedangkan fi'il pertama (dharabtu) menyimpan dhamir maf'ul yang wajib dibuang (hadzf) karena kedudukannya sebagai fadhlah.",
+    "Zaid adalah Maf'ul bagi fi'il pertama (dharabtu), sedangkan fi'il kedua (dharabani) menyimpan dhamir fa'il yang wajib dimustatirkan.",
+    "Zaid adalah Fa'il bagi fi'il kedua (dharabani), dan fi'il pertama (dharabtu) wajib menampakkan dhamir maf'ul-nya (idzhur) untuk menghindari kerancuan makna.",
+    "Zaid berkedudukan sebagai Fa'il bagi kedua fi'il tersebut secara kolektif (Isytirak al-Amal), sehingga tidak ada dhamir yang disimpan."
   ],
-  "correctIndex": 1,
-  "explanation": "Dalam Matan Al-Ajurrumiyyah disebutkan: 'فَالِاسْمُ يُعْرَفُ بِالْخَفْضِ وَالتَّنْوِينِ وَدُخُولِ الْأَلِفِ وَاللَّامِ' (Isim dikenali dengan khafad/jar, tanwin, dan kemasukan Alif-Lam). Tanwin adalah tanda khusus isim. Sedangkan Qad, Sin, dan Ta' Ta'nis Sakinah merupakan tanda khusus untuk kalimah fi'il."
+  "correctIndex": 0,
+  "explanation": "Menurut Madzhab Bashrah, jika dua amil berebut satu ma'mul, maka amil kedua lebih utama untuk beramal (I'mal al-Thani) karena faktor kedekatan posisi (li qurbihi). Konsekuensinya, jika amil pertama yang tidak beramal (al-muhmal) membutuhkan 'fadhlah' (seperti maf'ul bih), maka dhamirnya wajib dibuang (hadzf). Sebaliknya, jika ia membutuhkan 'umdah' (seperti fa'il), maka dhamirnya wajib dimunculkan. Hal ini merujuk pada kaidah dalam bait Alfiyah Ibn Malik: 'wa athni haytsu faza...'"
 }
