@@ -1,11 +1,11 @@
 {
-  "question": "Dalam klasifikasi ilmu hadits, terdapat jenis hadits yang maknanya berasal dari Allah SWT namun redaksi bahasanya disusun oleh Nabi Muhammad SAW. Apakah nama jenis hadits tersebut?",
+  "question": "Dalam diskursus Musthalah al-Hadits, manakah pernyataan yang paling tepat untuk membedakan antara 'Tadlis al-Isnad' dan 'al-Mursal al-Khafi' menurut metodologi yang dipertegas oleh para ulama seperti Ibn al-Shalah dan al-Iraqi?",
   "options": [
-    "Hadits Qudsi",
-    "Hadits Mutawatir",
-    "Hadits Marfu'",
-    "Hadits Mauquf"
+    "Tadlis terjadi pada perawi yang sezaman namun tidak pernah bertemu, sedangkan Mursal Khafi terjadi pada perawi yang pernah bertemu.",
+    "Tadlis terjadi ketika seorang perawi meriwayatkan dari guru yang pernah ia temui namun ia tidak mendengar hadits tersebut secara langsung, sedangkan Mursal Khafi terjadi ketika perawi meriwayatkan dari orang yang sezaman namun tidak pernah bertemu (liqa').",
+    "Tadlis adalah menggugurkan sanad di bagian akhir (sahabat), sedangkan Mursal Khafi adalah menggugurkan sanad di bagian awal (musannif).",
+    "Tadlis berkaitan dengan cacat pada keadilan ('adalah) perawi, sedangkan Mursal Khafi berkaitan dengan cacat pada hafalan (dhabth) perawi."
   ],
-  "correctIndex": 0,
-  "explanation": "Hadits Qudsi adalah hadits yang berisi firman Allah SWT yang disampaikan kepada Nabi Muhammad SAW melalui ilham atau mimpi, kemudian Nabi menyampaikannya dengan redaksi kata-kata beliau sendiri. Perbedaannya dengan Al-Qur'an adalah Al-Qur'an redaksi dan maknanya langsung dari Allah serta bernilai mukjizat, sedangkan Hadits Qudsi tidak."
+  "correctIndex": 1,
+  "explanation": "Perbedaan mendasar antara keduanya terletak pada aspek pertemuan (liqa'). Tadlis al-Isnad dilakukan oleh perawi yang meriwayatkan dari gurunya (yang sudah pernah bertemu/liqa') sesuatu yang tidak didengarnya langsung dengan lafadz yang memberi kesan mendengar (seperti 'An atau Qala). Sedangkan Mursal Khafi adalah periwayatan dari orang yang sezaman (mu'asharah) namun diketahui tidak pernah bertemu (ghairu liqa') atau tidak memiliki sima' (pendengaran hadits) sama sekali darinya."
 }
