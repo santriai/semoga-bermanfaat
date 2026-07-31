@@ -1,11 +1,11 @@
 {
-  "question": "Dalam klasifikasi Hadits Ahad berdasarkan jumlah perawi, manakah kriteria yang paling tepat untuk mendefinisikan sebuah Hadits Aziz?",
+  "question": "Dalam ilmu Musthalah Hadits, apakah istilah bagi hadits dha'if yang pada sanadnya gugur dua orang perawi atau lebih secara berturut-turut?",
   "options": [
-    "Hadits yang diriwayatkan oleh minimal dua orang perawi pada setiap tingkatan (thabaqah) sanadnya.",
-    "Hadits yang hanya memiliki satu jalur sanad pada salah satu tingkatan sanadnya.",
-    "Hadits yang diriwayatkan oleh tiga orang atau lebih pada setiap tingkatan namun belum mencapai derajat mutawatir.",
-    "Hadits yang memiliki sanad sangat kuat dan diriwayatkan oleh minimal dua orang sahabat Nabi."
+    "Hadits Mu'allaq",
+    "Hadits Mu'dal",
+    "Hadits Munqati'",
+    "Hadits Mursal"
   ],
-  "correctIndex": 0,
-  "explanation": "Hadits Aziz secara terminologi Mustalah al-Hadith adalah hadits yang diriwayatkan oleh tidak kurang dari dua perawi di setiap tingkatan (thabaqah) sanadnya. Jika dalam salah satu tingkatan hanya ada satu perawi, ia disebut Gharib. Jika ada tiga atau lebih (namun tidak mencapai mutawatir), ia disebut Masyhur."
+  "correctIndex": 1,
+  "explanation": "Hadits Mu'dal adalah hadits yang gugur dari sanadnya dua orang perawi atau lebih secara berturut-turut. Jika yang gugur dua perawi tetapi tidak berurutan, maka dikategorikan sebagai Munqati'. Jika terputus di awal sanad dinamakan Mu'allaq, dan jika perawi tingkat Sahabat yang gugur (Tabi'in langsung menyandarkan ke Nabi) dinamakan Mursal."
 }
