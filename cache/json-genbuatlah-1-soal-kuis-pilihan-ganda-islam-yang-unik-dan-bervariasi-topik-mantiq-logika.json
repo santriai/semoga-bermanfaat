@@ -1,11 +1,11 @@
 {
-  "question": "Dalam pembagian ilmu Mantiq, proses menangkap gambaran suatu objek di dalam pikiran tanpa memberikan penilaian (hukum) benar atau salah terhadap objek tersebut disebut...",
+  "question": "Dalam kajian Qiyas Istitsna'i yang disusun dari Qadhiyah Syarthiyyah Munfashilah kategori 'Mani'atul Khuluw Faqath', manakah prosedur inferensi (istidlal) berikut yang menghasilkan simpulan (natijah) yang valid?",
   "options": [
-    "Tasdiq",
-    "Tasawwur",
-    "Qadhiyah",
-    "Silogisme"
+    "Wad'u al-Awwal yuntiju Raf'a al-Tsani (Menetapkan bagian pertama menghasilkan penafian bagian kedua)",
+    "Raf'u al-Awwal yuntiju Isbat al-Tsani (Menafikan bagian pertama menghasilkan penetapan bagian kedua)",
+    "Wad'u al-Awwal yuntiju Isbat al-Tsani (Menetapkan bagian pertama menghasilkan penetapan bagian kedua)",
+    "Raf'u al-Awwal yuntiju Raf'a al-Tsani (Menafikan bagian pertama menghasilkan penafian bagian kedua)"
   ],
   "correctIndex": 1,
-  "explanation": "Tasawwur adalah persepsi sederhana atau gambaran mental terhadap suatu makna tunggal tanpa adanya penyandaran hukum (isbat atau nafi). Sebaliknya, jika sudah ada penilaian benar atau salah terhadap hubungan dua konsep, maka disebut Tasdiq."
+  "explanation": "Mani'atul Khuluw adalah proposisi disjungtif yang tidak memperbolehkan kedua unsurnya salah secara bersamaan (khuluw), namun memperbolehkan keduanya benar (ijtima'). Berdasarkan kaidah Mantiq dalam kitab Sullam al-Munawraq, jika kita menafikan (Raf'u) salah satu bagiannya, maka bagian yang lain wajib ditetapkan (Isbat/Wad'u) agar tidak terjadi kekosongan (khuluw). Sebaliknya, jika kita menetapkan (Wad'u) salah satu bagian, tidak ada simpulan valid yang dihasilkan karena keduanya boleh benar secara bersamaan."
 }
