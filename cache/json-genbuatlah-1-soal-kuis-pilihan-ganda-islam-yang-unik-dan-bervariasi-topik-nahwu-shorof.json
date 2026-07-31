@@ -1,11 +1,11 @@
 {
-  "question": "Dalam kaidah ilmu Shorof, kata 'تَكْتُبُ' (Taktubu) diawali dengan salah satu huruf Mudhara'ah yaitu 'Ta'. Manakah pasangan dhomir (kata ganti) yang tepat yang dapat menggunakan bentuk kata tersebut?",
+  "question": "Dalam kajian ilmu Nahwu, kata 'أَبِي' (Abii) pada kalimat 'رَأَيْتُ أَبِي' (Ra'aitu Abii) tidak di-i'rab dengan huruf Alif sebagaimana kaidah Asmaul Khamsah pada umumnya. Manakah alasan dan status I'rab yang paling tepat untuk kata tersebut?",
   "options": [
-    "Huwa (Dia Laki-laki) dan Anta (Kamu Laki-laki)",
-    "Anta (Kamu Laki-laki) dan Hiya (Dia Perempuan)",
-    "Antum (Kalian Laki-laki) dan Nahnu (Kami)",
-    "Hiya (Dia Perempuan) dan Huma (Mereka Berdua)"
+    "Manshub dengan tanda Fathah Muqaddarah karena adanya kesibukan tempat (Isytighal al-Mahal) oleh harakat yang sesuai untuk Ya' Mutakallim.",
+    "Manshub dengan tanda Alif karena ia merupakan bagian dari Asmaul Khamsah yang berkedudukan sebagai Maf'ul Bih.",
+    "Majrur dengan tanda Kasrah Zhahirah karena Ya' Mutakallim berfungsi sebagai huruf jer yang menjerkan isim sebelumnya.",
+    "Manshub dengan tanda Fathah Zhahirah karena syarat Asmaul Khamsah haruslah berupa Isim Tashghir."
   ],
-  "correctIndex": 1,
-  "explanation": "Dalam sistem Tashrif Fi'il Mudhari', bentuk 'Taf'ulu' (seperti Taktubu) memiliki keunikan karena digunakan untuk dua subjek yang berbeda: dhomir Anta (kamu laki-laki tunggal) dan dhomir Hiya (dia perempuan tunggal ghaibah)."
+  "correctIndex": 0,
+  "explanation": "Asmaul Khamsah (Abun, Akhun, dsb) hanya bisa di-i'rab dengan huruf (Wawu, Alif, Ya) jika memenuhi syarat, salah satunya adalah 'Mudhaf ila ghairi Ya al-Mutakallim' (disandarkan kepada selain Ya' Mutakallim). Karena kata 'Abii' bersambung dengan Ya' Mutakallim, maka i'rabnya kembali menggunakan harakat (fathah untuk manshub) namun bersifat Muqaddarah (tersirat) karena tempatnya sudah terisi oleh kasrah munasabah (penyesuaian) bagi Ya' Mutakallim."
 }
