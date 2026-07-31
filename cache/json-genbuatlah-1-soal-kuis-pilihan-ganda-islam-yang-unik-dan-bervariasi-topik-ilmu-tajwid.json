@@ -1,11 +1,11 @@
 {
-  "question": "Dalam riwayat Hafs 'an 'Asim thariqasy-Syathibiyyah, bagaimanakah hukum memulai bacaan (ibtida') pada lafadz 'الِاسْمُ' dalam surah Al-Hujurat ayat 11 (بِئْسَ الِاسْمُ الْفُسُوقُ)?",
+  "question": "Dalam disiplin ilmu Tajwid, manakah di antara contoh berikut yang merupakan penerapan hukum Idgham Mutajanisain, di mana dua huruf bertemu dengan makhraj yang sama namun memiliki sifat yang berbeda?",
   "options": [
-    "Hanya boleh dibaca 'Al-ismu' dengan menetapkan Hamzah Washal yang difathahkan.",
-    "Hanya boleh dibaca 'Lismu' dengan membuang Hamzah Washal dan memulai dari huruf Lam yang dikasrahkan.",
-    "Boleh dibaca dengan dua wajah: 'Al-ismu' (menetapkan Hamzah Washal) atau 'Lismu' (memulai dari Lam).",
-    "Wajib dibaca dengan Saktah antara huruf Lam dan Sin tanpa memutuskan nafas."
+    "قُلْ رَبِّ (Qul rabbi)",
+    "قَدْ تَبَيَّنَ (Qad tabayyana)",
+    "مِنْ وَالٍ (Min waalin)",
+    "أَلَمْ نَخْلُقْكُمْ (Alam nakhluqkum)"
   ],
-  "correctIndex": 2,
-  "explanation": "Pada lafadz 'bi’sal-ismu', terjadi pertemuan dua sukun (Lam ta'rif dan Sin). Hamzah washal pada kata 'ismu' gugur dalam washal. Saat ibtida' (memulai bacaan dari kata tersebut), para ulama tajwid menetapkan dua wajah yang diperbolehkan: 1) 'Al-ismu' (dimulai dengan Hamzah Washal yang difathahkan) dengan menganggap harakat kasrah pada Lam adalah 'Aridh (baru/tambahan), atau 2) 'Lismu' (langsung memulai dari Lam yang dikasrahkan) karena harakat kasrah tersebut sudah cukup untuk menghindari bertemunya dua sukun (iltiqa' as-sakinain)."
+  "correctIndex": 1,
+  "explanation": "Idgham Mutajanisain terjadi apabila dua huruf bertemu yang memiliki makhraj (tempat keluar suara) yang sama tetapi berbeda sifatnya. Contohnya adalah huruf Dal (د) sukun bertemu Ta (ت) dalam 'Qad tabayyana'. Pilihan A dan D adalah Idgham Mutaqaribain (makhraj berdekatan), sedangkan pilihan C adalah Idgham Bighunnah."
 }
