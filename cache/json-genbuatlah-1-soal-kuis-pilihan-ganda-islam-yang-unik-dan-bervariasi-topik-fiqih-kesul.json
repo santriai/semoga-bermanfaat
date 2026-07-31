@@ -1,11 +1,11 @@
 {
-  "question": "Dalam klasifikasi hukum air menurut Madzhab Syafi'i, air yang suci secara zatnya namun tidak dapat digunakan untuk bersuci (wudhu atau mandi wajib) karena telah digunakan untuk membasuh anggota tubuh yang wajib disebut...",
+  "question": "Dalam diskursus Fiqh Syafi'iyyah (Kitab Kuning), bagaimana status hukum shalat seseorang yang mengantongi botol tertutup rapat berisi darah (najis), di mana darah tersebut tidak merembes keluar dan tidak menyentuh pakaian maupun tubuhnya secara langsung?",
   "options": [
-    "Air Mutanajis",
-    "Air Musyammas",
-    "Air Thahir Ghairu Mutahhir (Musta'mal)",
-    "Air Mutlaq"
+    "Sah, karena najis berada di dalam wadah tertutup sehingga tidak terjadi persentuhan langsung (mulasah).",
+    "Tidak sah, karena ia dianggap membawa (haml) najis, dan syarat sah shalat adalah tidak membawa najis meskipun tidak bersentuhan.",
+    "Sah, asalkan botol tersebut suci bagian luarnya dan tidak mengganggu kekhusyukan atau gerakan rukun shalat.",
+    "Tafshil (rincian): Sah jika darah tersebut adalah darahnya sendiri yang sedikit (ma'fu), dan tidak sah jika darah orang lain."
   ],
-  "correctIndex": 2,
-  "explanation": "Air Musta'mal adalah air yang telah digunakan untuk mengangkat hadats (seperti basuhan pertama yang wajib dalam wudhu) atau menghilangkan najis. Status hukumnya adalah suci (boleh diminum atau terkena pakaian), namun tidak dapat menyucikan (tidak bisa digunakan untuk wudhu/mandi lagi) jika volumenya kurang dari dua qullah."
+  "correctIndex": 1,
+  "explanation": "Berdasarkan referensi kitab-kitab mu'tabarah seperti Tuhfatul Muhtaj dan Fathul Mu'in, salah satu syarat sah shalat adalah suci dari najis pada badan, pakaian, dan tempat. Membawa (haml) benda najis, meskipun berada dalam wadah yang tertutup rapat (mushahhab) dan tidak menyentuh kulit atau pakaian, tetap membatalkan shalat. Hal ini dikarenakan orang tersebut dianggap 'mutalabbis bin-najasah' (berinteraksi/membawa najis) saat ibadah, yang berbeda hukumnya dengan sekadar berhadapan (muqabalah) dengan najis."
 }
