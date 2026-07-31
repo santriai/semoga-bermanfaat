@@ -1,11 +1,11 @@
 {
-  "question": "Dalam dasar ilmu Nahwu (seperti dijelaskan dalam Matan Al-Ajurrumiyyah), manakah di antara tanda berikut yang KHUSUS menjadi ciri kata Isim (kata benda) dan tidak mungkin ada pada kata Fi'il (kata kerja)?",
+  "question": "Dalam ilmu Nahwu dasar (seperti dalam kitab Matan Al-Ajurrumiyyah), manakah di antara ciri berikut yang menandakan bahwa sebuah kata merupakan Isim (kata benda)?",
   "options": [
-    "Jazam (Sukun di akhir kata)",
-    "Tanwin (Baris ganda di akhir kata)",
-    "Fathah (Baris atas)",
-    "Dammah (Baris depan)"
+    "Dapat diawali dengan huruf 'Qad' (قَدْ)",
+    "Memiliki harakat Tanwin di akhir kata",
+    "Dapat mengalami hukum Jazam (sukun)",
+    "Dapat diawali dengan huruf 'Saufa' (سَوْفَ)"
   ],
   "correctIndex": 1,
-  "explanation": "Menurut kaidah Nahwu dalam Matan Al-Ajurrumiyyah: 'Fal-ismu yu'rafu bil-khafdi wat-tanwiini...'. Tanwin dan Jar/Khafd adalah tanda khusus yang hanya masuk pada Isim. Sebaliknya, Jazam adalah ciri khusus yang hanya ada pada Fi'il, sedangkan Fathah dan Dammah bisa masuk pada keduanya."
+  "explanation": "Dalam Matan Al-Ajurrumiyyah disebutkan: 'Falismu yu'rafu bil-khafdi wat-tanwiini wa dukhuulil-alifi wal-laam...'. Jadi, tanwin adalah salah satu ciri utama Isim. Sedangkan 'Qad', 'Saufa', dan hukum Jazam adalah ciri khusus untuk Fi'il (kata kerja)."
 }
