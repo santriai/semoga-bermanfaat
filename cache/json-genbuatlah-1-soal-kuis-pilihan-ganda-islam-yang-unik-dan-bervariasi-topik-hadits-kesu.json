@@ -1,11 +1,11 @@
 {
-  "question": "Dalam istilah ilmu Musthalah Hadits, perkataan, perbuatan, atau persetujuan (taqrir) yang disandarkan secara langsung kepada Nabi Muhammad SAW disebut sebagai hadits...",
+  "question": "Dalam klasifikasi ilmu Musthalah al-Hadith, jika terdapat sebuah hadis yang pada salah satu tingkatan sanadnya (thabaqat) hanya diriwayatkan oleh dua orang perawi saja, maka hadis tersebut dikategorikan sebagai hadis...",
   "options": [
-    "Marfu'",
-    "Mauquf",
-    "Maqtu'",
-    "Mursal"
+    "Hadis Aziz",
+    "Hadis Gharib",
+    "Hadis Masyhur",
+    "Hadis Mutawatir"
   ],
   "correctIndex": 0,
-  "explanation": "Hadits Marfu' adalah hadits yang disandarkan langsung kepada Nabi Muhammad SAW, baik berupa perkataan, perbuatan, maupun taqrir. Sedangkan perkataan atau perbuatan yang disandarkan kepada Sahabat disebut Mauquf, dan yang disandarkan kepada Tabi'in disebut Maqtu'."
+  "explanation": "Hadis Aziz adalah hadis yang diriwayatkan oleh minimal dua orang perawi pada setiap tingkatan sanadnya. Jika hanya satu perawi disebut Gharib, dan jika tiga perawi atau lebih (namun belum mencapai derajat mutawatir) disebut Masyhur. Istilah ini merujuk pada kuantitas perawi dalam klasifikasi hadis Ahad."
 }
