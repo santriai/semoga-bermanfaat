@@ -1,11 +1,11 @@
 {
-  "question": "Dalam diskursus Musthalah al-Hadits, manakah pernyataan yang paling tepat untuk membedakan antara 'Tadlis al-Isnad' dan 'al-Mursal al-Khafi' menurut metodologi yang dipertegas oleh para ulama seperti Ibn al-Shalah dan al-Iraqi?",
+  "question": "Dalam ilmu Musthalah Hadits, terdapat perbedaan syarat antara Imam Al-Bukhari dan Imam Muslim dalam menerima sanad berbentuk 'Mu'an'an' (menggunakan kata 'dari/‘an'). Syarat khusus yang diwajibkan oleh Imam Al-Bukhari namun tidak diwajibkan secara mutlak oleh Imam Muslim adalah...",
   "options": [
-    "Tadlis terjadi pada perawi yang sezaman namun tidak pernah bertemu, sedangkan Mursal Khafi terjadi pada perawi yang pernah bertemu.",
-    "Tadlis terjadi ketika seorang perawi meriwayatkan dari guru yang pernah ia temui namun ia tidak mendengar hadits tersebut secara langsung, sedangkan Mursal Khafi terjadi ketika perawi meriwayatkan dari orang yang sezaman namun tidak pernah bertemu (liqa').",
-    "Tadlis adalah menggugurkan sanad di bagian akhir (sahabat), sedangkan Mursal Khafi adalah menggugurkan sanad di bagian awal (musannif).",
-    "Tadlis berkaitan dengan cacat pada keadilan ('adalah) perawi, sedangkan Mursal Khafi berkaitan dengan cacat pada hafalan (dhabth) perawi."
+    "Thubut al-Liqa' (terbuktinya perjumpaan fisik antara murid dan guru minimal satu kali)",
+    "Ad-Dhabth al-Tamm (kesempurnaan daya ingat dan pencatatan setiap perawi)",
+    "Al-'Adalah (sifat keadilan dan ketaatan agama dari seluruh perawi)",
+    "Al-Mu'asharah (perawi dan gurunya hidup dalam satu zaman yang sama)"
   ],
-  "correctIndex": 1,
-  "explanation": "Perbedaan mendasar antara keduanya terletak pada aspek pertemuan (liqa'). Tadlis al-Isnad dilakukan oleh perawi yang meriwayatkan dari gurunya (yang sudah pernah bertemu/liqa') sesuatu yang tidak didengarnya langsung dengan lafadz yang memberi kesan mendengar (seperti 'An atau Qala). Sedangkan Mursal Khafi adalah periwayatan dari orang yang sezaman (mu'asharah) namun diketahui tidak pernah bertemu (ghairu liqa') atau tidak memiliki sima' (pendengaran hadits) sama sekali darinya."
+  "correctIndex": 0,
+  "explanation": "Imam Al-Bukhari mensyaratkan 'Thubut al-Liqa' (harus ada bukti pasti perjumpaan fisik minimal satu kali antara perawi dan gurunya) untuk keabsahan hadits Mu'an'an. Sebaliknya, Imam Muslim menganggap cukup dengan 'Al-Mu'asharah' (hidup dalam satu zaman) dan 'Imkan al-Liqa'' (memungkinkan untuk bertemu) tanpa keharusan bukti tertulis perjumpaan fisik tersebut."
 }
