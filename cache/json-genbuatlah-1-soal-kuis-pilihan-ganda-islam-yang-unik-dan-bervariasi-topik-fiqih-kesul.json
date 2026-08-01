@@ -1,11 +1,11 @@
 {
-  "question": "Dalam diskursus Fiqh Syafi'iyyah (Kitab Kuning), bagaimana status hukum shalat seseorang yang mengantongi botol tertutup rapat berisi darah (najis), di mana darah tersebut tidak merembes keluar dan tidak menyentuh pakaian maupun tubuhnya secara langsung?",
+  "question": "Dalam fiqih mazhab Syafi'i, air suci yang jumlahnya kurang dari dua qullah dan telah digunakan untuk bersuci dari hadas wajib (seperti wudhu) disebut air...",
   "options": [
-    "Sah, karena najis berada di dalam wadah tertutup sehingga tidak terjadi persentuhan langsung (mulasah).",
-    "Tidak sah, karena ia dianggap membawa (haml) najis, dan syarat sah shalat adalah tidak membawa najis meskipun tidak bersentuhan.",
-    "Sah, asalkan botol tersebut suci bagian luarnya dan tidak mengganggu kekhusyukan atau gerakan rukun shalat.",
-    "Tafshil (rincian): Sah jika darah tersebut adalah darahnya sendiri yang sedikit (ma'fu), dan tidak sah jika darah orang lain."
+    "Mutlaq",
+    "Musta'mal",
+    "Mutanajjis",
+    "Musyammas"
   ],
   "correctIndex": 1,
-  "explanation": "Berdasarkan referensi kitab-kitab mu'tabarah seperti Tuhfatul Muhtaj dan Fathul Mu'in, salah satu syarat sah shalat adalah suci dari najis pada badan, pakaian, dan tempat. Membawa (haml) benda najis, meskipun berada dalam wadah yang tertutup rapat (mushahhab) dan tidak menyentuh kulit atau pakaian, tetap membatalkan shalat. Hal ini dikarenakan orang tersebut dianggap 'mutalabbis bin-najasah' (berinteraksi/membawa najis) saat ibadah, yang berbeda hukumnya dengan sekadar berhadapan (muqabalah) dengan najis."
+  "explanation": "Air Musta'mal adalah air yang hukumnya 'suci tetapi tidak dapat menyucikan' (thahir ghairu muthahhir). Air ini suci untuk diminum/dipakai biasa, namun tidak bisa lagi digunakan untuk menghilangkan hadas atau najis karena telah terpakai untuk bersuci wajib."
 }
