@@ -1,11 +1,11 @@
 {
-  "question": "Dalam Fiqih Madzhab Syafi'i, air berskala kecil (kurang dari dua qullah) yang telah digunakan untuk bersuci wajib seperti wudhu dinamakan air...",
+  "question": "Dalam ilmu Fiqih, air yang telah berubah salah satu sifatnya (warna, rasa, atau bau) karena tercampur benda suci seperti sabun atau teh sehingga tidak lagi disebut 'air mutlak', dikategorikan sebagai air...",
   "options": [
     "Mutanajjis",
-    "Musta'mal",
-    "Musyammas",
-    "Mutlaq"
+    "Thahir Muthohhir",
+    "Thahir Ghairu Muthohhir",
+    "Musta'mal"
   ],
-  "correctIndex": 1,
-  "explanation": "Air Musta'mal adalah air yang telah digunakan untuk mengangkat hadas (seperti wudhu atau mandi wajib) dan jumlahnya kurang dari dua qullah. Hukum air ini adalah 'Thahir Ghairu Muthahir', yaitu suci pada dirinya sendiri tetapi tidak dapat digunakan kembali untuk mensucikan."
+  "correctIndex": 2,
+  "explanation": "Air tersebut berstatus suci (boleh dikonsumsi) namun tidak dapat menyucikan (tidak sah untuk wudhu atau mandi wajib) karena telah kehilangan kemutlakannya akibat percampuran benda suci (mukhalit) yang mengubah sifat air secara signifikan."
 }
