@@ -1,11 +1,11 @@
 {
-  "question": "Dalam kaidah ilmu Nahwu, Isim Ghairu Munsharif (isim yang tidak menerima tanwin) secara umum ditandai dengan harakat Fathah saat keadaan Jar (Majrur). Bagaimanakah tanda Jar yang berlaku bagi Isim Ghairu Munsharif apabila isim tersebut bersambung dengan Alif Lam (ال) atau disandarkan sebagai Mudhaf?",
+  "question": "Dalam dasar ilmu Nahwu (kitab Matan Al-Ajurrumiyyah), manakah di antara pilihan berikut yang merupakan ciri khas bahwa suatu kata tergolong sebagai Kalimah Isim (kata benda)?",
   "options": [
-    "Tetap di-jar-kan dengan tanda Fathah sesuai hukum asalnya",
-    "Di-jar-kan dengan tanda Kasrah sebagaimana Isim Mu'rab standar",
-    "Di-jar-kan dengan tanda Ya' karena memuat fungsi Idhafah",
-    "Menjadi Mabni Sukun karena terikat oleh susunan kalimat"
+    "Dapat menerima Tanwin pada akhir kata",
+    "Dapat kemasukan huruf Jazam seperti 'Lam' (لَمْ)",
+    "Dapat diawali dengan huruf 'Qad' (قَدْ)",
+    "Bersambung dengan Ta' Ta'nits Sakinah (تَاءُ التَّأْنِيثِ السَّاكِنَةُ)"
   ],
-  "correctIndex": 1,
-  "explanation": "Berdasarkan kaidah Nahwu (sebagaimana disebutkan dalam Matan Alfiyah: وَجُرَّ بِالْفَتْحَةِ مَا لاَ يَنْصَرِفْ مَا لَمْ يُضَفْ أَوْ يَكُ بَعْدَ أَلْ رَدِفْ), Isim Ghairu Munsharif hanya di-jar-kan dengan Fathah selama TIDAK di-idhafahkan dan TIDAK kemasukan Alif Lam (ال). Jika di-idhafahkan atau kemasukan 'Al', maka hukum kekhususannya gugur dan tanda Jar-nya kembali menggunakan Kasrah."
+  "correctIndex": 0,
+  "explanation": "Dalam Matan Al-Ajurrumiyyah disebutkan: 'فَالاسْمُ يُعْرَفُ بِالخَفْضِ وَالتَّنْوِينِ وَدُخُولِ الأَلِفِ وَاللاَّمِ' (Isim dapat dikenali dengan i'rab khafadh/jer, tanwin, dan kemasukan Alif-Lam). Sedangkan pilihan B, C, dan D merupakan tanda-tanda khusus untuk Kalimah Fi'il (kata kerja)."
 }
