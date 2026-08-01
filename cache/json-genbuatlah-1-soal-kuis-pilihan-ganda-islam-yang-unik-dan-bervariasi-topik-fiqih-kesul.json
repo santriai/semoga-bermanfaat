@@ -1,11 +1,11 @@
 {
-  "question": "Dalam bab Thaharah, jika seseorang melakukan 'Istijmar' (bersuci menggunakan batu atau benda padat), berapakah jumlah minimal usapan atau sisi batu yang wajib digunakan menurut madzhab Syafi'i, meskipun najis sudah dianggap hilang sebelum jumlah tersebut tercapai?",
+  "question": "Dalam diskursus Fiqih Syafi'iyah, bagaimana status shalat seseorang yang di pakaiannya terdapat percikan darah nyamuk yang mati tertindih saat ia sedang sujud?",
   "options": [
-    "1 usapan",
-    "2 usapan",
-    "3 usapan",
-    "7 usapan"
+    "Shalatnya batal karena darah adalah najis yang menghalangi keabsahan shalat secara mutlak.",
+    "Shalatnya tetap sah karena darah tersebut termasuk 'najis ma'fu' (dimaafkan) selama jumlahnya tidak banyak dan tidak disengaja.",
+    "Shalatnya sah namun ia berdosa karena tidak teliti dalam menjaga kesucian pakaian.",
+    "Shalatnya batal dan ia wajib mengulang wudunya karena menyentuh najis membatalkan thaharah."
   ],
-  "correctIndex": 2,
-  "explanation": "Berdasarkan hadits Nabi SAW riwayat Imam Muslim, syarat sah istijmar adalah menggunakan minimal tiga buah batu atau satu batu yang memiliki tiga sisi/permukaan, meskipun kebersihan sudah tercapai sebelum usapan ketiga. Ini merupakan ketentuan 'ta'abbudi' dalam hal jumlah minimal."
+  "correctIndex": 1,
+  "explanation": "Berdasarkan literatur Kitab Kuning (seperti Fathul Qarib atau Safinatun Najah), darah serangga yang tidak memiliki darah mengalir (seperti nyamuk, kutu, atau lalat) dikategorikan sebagai najis yang dimaafkan (ma'fu 'anhu) dalam shalat, selama jumlahnya sedikit dan tidak dilakukan dengan sengaja (seperti sengaja memencet nyamuk agar darahnya mengenai baju)."
 }
