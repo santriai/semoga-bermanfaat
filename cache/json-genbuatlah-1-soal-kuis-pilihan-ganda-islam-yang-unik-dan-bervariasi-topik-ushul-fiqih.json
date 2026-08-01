@@ -1,11 +1,11 @@
 {
-  "question": "Dalam disiplin ilmu Ushul Fiqih, sumber hukum Islam terbagi menjadi yang disepakati (muttafaq) dan yang diperselisihkan (mukhtalaf). Manakah di antara pilihan berikut yang termasuk dalam sumber hukum yang disepakati oleh mayoritas ulama?",
+  "question": "Dalam metode Qiyas (analogi) pada ilmu Ushul Fiqih, terdapat empat rukun utama. Apakah istilah untuk kejadian atau masalah baru yang belum memiliki ketetapan hukum eksplisit dalam nash (Al-Qur'an atau Hadis)?",
   "options": [
-    "Istihsan",
-    "Maslahah Mursalah",
-    "Ijma'",
-    "Sadd adz-Dzari'ah"
+    "Ashl",
+    "Far'u",
+    "'Illat",
+    "Hukm al-Ashl"
   ],
-  "correctIndex": 2,
-  "explanation": "Jumhur ulama Ushul Fiqih menyepakati empat sumber hukum utama (muttafaq 'alaih), yaitu Al-Qur'an, As-Sunnah, Al-Ijma', dan Al-Qiyas. Adapun Istihsan, Maslahah Mursalah, dan Sadd adz-Dzari'ah termasuk dalam kelompok sumber hukum yang diperselisihkan penggunaannya (mukhtalaf 'fih)."
+  "correctIndex": 1,
+  "explanation": "Far'u secara bahasa berarti cabang, sedangkan dalam istilah Ushul Fiqih adalah kasus baru yang belum ada nash hukumnya. Hukum Far'u ditentukan dengan cara disamakan kepada Ashl (kasus pokok) karena adanya kesamaan 'Illat (alasan penetapan hukum)."
 }
