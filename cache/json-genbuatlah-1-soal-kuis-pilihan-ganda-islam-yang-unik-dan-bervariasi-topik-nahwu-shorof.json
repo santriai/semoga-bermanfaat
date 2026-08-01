@@ -1,11 +1,11 @@
 {
-  "question": "Dalam kajian ilmu Nahwu, kata 'أَبِي' (Abii) pada kalimat 'رَأَيْتُ أَبِي' (Ra'aitu Abii) tidak di-i'rab dengan huruf Alif sebagaimana kaidah Asmaul Khamsah pada umumnya. Manakah alasan dan status I'rab yang paling tepat untuk kata tersebut?",
+  "question": "Dalam kaidah ilmu Nahwu, Isim Ghairu Munsharif (isim yang tidak menerima tanwin) secara umum ditandai dengan harakat Fathah saat keadaan Jar (Majrur). Bagaimanakah tanda Jar yang berlaku bagi Isim Ghairu Munsharif apabila isim tersebut bersambung dengan Alif Lam (ال) atau disandarkan sebagai Mudhaf?",
   "options": [
-    "Manshub dengan tanda Fathah Muqaddarah karena adanya kesibukan tempat (Isytighal al-Mahal) oleh harakat yang sesuai untuk Ya' Mutakallim.",
-    "Manshub dengan tanda Alif karena ia merupakan bagian dari Asmaul Khamsah yang berkedudukan sebagai Maf'ul Bih.",
-    "Majrur dengan tanda Kasrah Zhahirah karena Ya' Mutakallim berfungsi sebagai huruf jer yang menjerkan isim sebelumnya.",
-    "Manshub dengan tanda Fathah Zhahirah karena syarat Asmaul Khamsah haruslah berupa Isim Tashghir."
+    "Tetap di-jar-kan dengan tanda Fathah sesuai hukum asalnya",
+    "Di-jar-kan dengan tanda Kasrah sebagaimana Isim Mu'rab standar",
+    "Di-jar-kan dengan tanda Ya' karena memuat fungsi Idhafah",
+    "Menjadi Mabni Sukun karena terikat oleh susunan kalimat"
   ],
-  "correctIndex": 0,
-  "explanation": "Asmaul Khamsah (Abun, Akhun, dsb) hanya bisa di-i'rab dengan huruf (Wawu, Alif, Ya) jika memenuhi syarat, salah satunya adalah 'Mudhaf ila ghairi Ya al-Mutakallim' (disandarkan kepada selain Ya' Mutakallim). Karena kata 'Abii' bersambung dengan Ya' Mutakallim, maka i'rabnya kembali menggunakan harakat (fathah untuk manshub) namun bersifat Muqaddarah (tersirat) karena tempatnya sudah terisi oleh kasrah munasabah (penyesuaian) bagi Ya' Mutakallim."
+  "correctIndex": 1,
+  "explanation": "Berdasarkan kaidah Nahwu (sebagaimana disebutkan dalam Matan Alfiyah: وَجُرَّ بِالْفَتْحَةِ مَا لاَ يَنْصَرِفْ مَا لَمْ يُضَفْ أَوْ يَكُ بَعْدَ أَلْ رَدِفْ), Isim Ghairu Munsharif hanya di-jar-kan dengan Fathah selama TIDAK di-idhafahkan dan TIDAK kemasukan Alif Lam (ال). Jika di-idhafahkan atau kemasukan 'Al', maka hukum kekhususannya gugur dan tanda Jar-nya kembali menggunakan Kasrah."
 }
