@@ -1,11 +1,11 @@
 {
-  "question": "Dalam ilmu Fiqih, jika tidak ada air, seseorang diperbolehkan melakukan istinja (bersuci setelah buang air) menggunakan batu. Berapakah jumlah minimal usapan atau sisi batu yang harus digunakan agar dianggap sah menurut mayoritas ulama?",
+  "question": "Dalam kajian Fiqih Thaharah, air yang telah digunakan untuk membasuh anggota wudhu yang wajib (basuhan pertama) dan volumenya kurang dari dua qullah disebut air Musta'mal. Bagaimanakah status hukum air tersebut untuk digunakan kembali berwudhu?",
   "options": [
-    "1 usapan saja",
-    "2 usapan saja",
-    "3 usapan (atau 3 sisi batu)",
-    "7 usapan"
+    "Suci dan dapat menyucikan (Thahir Muthahhir)",
+    "Suci namun tidak dapat menyucikan (Thahir Ghairu Muthahhir)",
+    "Najis sehingga tidak boleh disentuh",
+    "Mutanajis karena telah bercampur hadats"
   ],
-  "correctIndex": 2,
-  "explanation": "Berdasarkan hadits Nabi SAW dan penjelasan dalam kitab-kitab Fiqih dasar seperti Safinatun Najah, syarat istinja dengan batu adalah minimal menggunakan tiga buah batu atau satu batu yang memiliki tiga sisi yang berbeda, serta dilakukan hingga tempat keluarnya najis benar-benar bersih (an-naqa')."
+  "correctIndex": 1,
+  "explanation": "Air Musta'mal adalah air yang telah digunakan untuk kewajiban bersuci (seperti basuhan pertama wudhu). Dalam madzhab Syafi'i, air ini statusnya tetap suci (tidak najis), namun tidak bisa lagi digunakan untuk menghilangkan hadats atau menyucikan benda lain karena sifat menyucikannya telah hilang."
 }
