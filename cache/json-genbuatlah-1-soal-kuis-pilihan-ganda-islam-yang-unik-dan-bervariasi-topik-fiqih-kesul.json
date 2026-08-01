@@ -1,11 +1,11 @@
 {
-  "question": "Dalam kajian Fiqih Ibadah (Thaharah), air yang telah digunakan untuk membasuh anggota wudu yang wajib (basuhan pertama) dan volumenya kurang dari dua qullah disebut sebagai air...",
+  "question": "Dalam madzhab Syafi'i, seorang makmum masbuq dianggap mendapatkan satu rakaat bersama imam apabila ia sempat melakukan ruku' bersama imam. Manakah syarat yang paling tepat agar rakaat tersebut dianggap sah bagi makmum?",
   "options": [
-    "Mutanajis",
-    "Musta'mal",
-    "Mutlaq",
-    "Musyammas"
+    "Makmum melakukan Takbiratul Ihram, lalu ruku' dan mencapai posisi thuma'ninah sebelum imam mulai bangkit (intiqal) menuju i'tidal.",
+    "Makmum cukup melakukan Takbiratul Ihram secara sempurna sebelum imam mengucapkan 'Sami'allahu liman hamidah'.",
+    "Makmum harus sempat membaca minimal satu ayat dari surat Al-Fatihah sebelum imam melakukan ruku'.",
+    "Makmum mencapai posisi ruku' tepat saat imam sedang berada di posisi paling bawah ruku' meskipun tanpa thuma'ninah."
   ],
-  "correctIndex": 1,
-  "explanation": "Air Musta'mal adalah air yang suci secara zatnya namun tidak dapat menyucikan (thahir ghairu muthahhir). Status ini terjadi jika air tersebut telah digunakan untuk menghilangkan hadas atau najis dan volumenya sedikit (kurang dari dua qullah), sehingga tidak boleh digunakan kembali untuk wudu atau mandi wajib."
+  "correctIndex": 0,
+  "explanation": "Berdasarkan literatur Fiqh Syafi'iyyah (seperti dalam Kitab Fathul Mu'in), makmum masbuq dianggap mendapatkan satu rakaat jika ia mendapati imam dalam keadaan ruku' dan makmum tersebut sempat melakukan thuma'ninah (diam sejenak seukuran bacaan tasbih) dalam posisi ruku' yang sempurna sebelum imam mulai bergerak naik (intiqal) untuk i'tidal. Jika imam sudah mulai bangkit sebelum makmum thuma'ninah, maka rakaat tersebut tidak terhitung."
 }
