@@ -1,11 +1,11 @@
 {
-  "question": "Dalam kajian Fiqih Syafi'iyyah, air yang telah digunakan untuk membasuh anggota wudhu yang wajib (basuhan pertama) disebut air Musta'mal. Bagaimanakah status hukum air tersebut jika ingin digunakan kembali untuk berwudhu?",
+  "question": "Dalam kajian Fiqih Ibadah (Thaharah), air yang telah digunakan untuk membasuh anggota wudu yang wajib (basuhan pertama) dan volumenya kurang dari dua qullah disebut sebagai air...",
   "options": [
-    "Suci dan dapat mensucikan (Thahir Muthahhir)",
-    "Suci namun tidak dapat mensucikan (Thahir Ghairu Muthahhir)",
-    "Najis karena telah terkena anggota tubuh (Mutanajjis)",
-    "Makruh untuk digunakan namun tetap sah"
+    "Mutanajis",
+    "Musta'mal",
+    "Mutlaq",
+    "Musyammas"
   ],
   "correctIndex": 1,
-  "explanation": "Air Musta'mal adalah air yang volumenya kurang dari dua qullah dan telah digunakan untuk menghilangkan hadats (basuhan wajib). Dalam madzhab Syafi'i, air ini berstatus 'Thahir Ghairu Muthahhir', artinya zat airnya suci (tidak najis jika terkena pakaian), namun tidak bisa lagi digunakan untuk bersuci (wudhu/mandi) karena kekuatannya telah hilang setelah digunakan untuk kewajiban sebelumnya."
+  "explanation": "Air Musta'mal adalah air yang suci secara zatnya namun tidak dapat menyucikan (thahir ghairu muthahhir). Status ini terjadi jika air tersebut telah digunakan untuk menghilangkan hadas atau najis dan volumenya sedikit (kurang dari dua qullah), sehingga tidak boleh digunakan kembali untuk wudu atau mandi wajib."
 }
