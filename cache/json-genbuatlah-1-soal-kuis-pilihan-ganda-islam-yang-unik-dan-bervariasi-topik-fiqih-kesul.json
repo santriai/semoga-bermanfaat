@@ -1,11 +1,13 @@
 {
-  "question": "Dalam madzhab Syafi'i, seorang makmum masbuq dianggap mendapatkan satu rakaat bersama imam apabila ia sempat melakukan ruku' bersama imam. Manakah syarat yang paling tepat agar rakaat tersebut dianggap sah bagi makmum?",
+  "question": "Dalam kajian Fiqih Thaharah Madzhab Syafi'i, air musyammas (air yang dipanaskan matahari dalam wadah logam) dihukumi makruh untuk digunakan pada anggota badan. Manakah di antara keadaan berikut yang menyebabkan hukum makruh tersebut terangkat (hilang)?",
   "options": [
-    "Makmum melakukan Takbiratul Ihram, lalu ruku' dan mencapai posisi thuma'ninah sebelum imam mulai bangkit (intiqal) menuju i'tidal.",
-    "Makmum cukup melakukan Takbiratul Ihram secara sempurna sebelum imam mengucapkan 'Sami'allahu liman hamidah'.",
-    "Makmum harus sempat membaca minimal satu ayat dari surat Al-Fatihah sebelum imam melakukan ruku'.",
-    "Makmum mencapai posisi ruku' tepat saat imam sedang berada di posisi paling bawah ruku' meskipun tanpa thuma'ninah."
+    "Air tersebut digunakan di wilayah yang beriklim sangat panas seperti daerah Hijaz.",
+    "Air tersebut digunakan untuk membasuh pakaian yang terkena najis.",
+    "Wadah air tersebut terbuat dari logam besi yang mudah berkarat.",
+    "Air tersebut digunakan saat matahari sedang berada di puncak kulminasi (tengah hari)."
   ],
-  "correctIndex": 0,
-  "explanation": "Berdasarkan literatur Fiqh Syafi'iyyah (seperti dalam Kitab Fathul Mu'in), makmum masbuq dianggap mendapatkan satu rakaat jika ia mendapati imam dalam keadaan ruku' dan makmum tersebut sempat melakukan thuma'ninah (diam sejenak seukuran bacaan tasbih) dalam posisi ruku' yang sempurna sebelum imam mulai bergerak naik (intiqal) untuk i'tidal. Jika imam sudah mulai bangkit sebelum makmum thuma'ninah, maka rakaat tersebut tidak terhitung."
+  "correctIndex": 1,
+  "explanation": "Hukum makruh pada air musyammas bersifat 'irsyadi' (medis) karena dikhawatirkan dapat menyebabkan penyakit kusta (baras). Kemakruhan ini hanya berlaku jika air digunakan pada badan (manusia atau hewan yang bisa terkena kusta). Jika air tersebut digunakan untuk mensucikan pakaian atau benda mati lainnya, maka hukum makruhnya hilang. Selain itu, makruh juga hilang jika air sudah mendingin kembali atau wadahnya terbuat dari emas/perak karena molekulnya yang stabil.",
+  "difficulty": "Sedang",
+  "subtopic": "Thaharah (Air Musyammas)"
 }
