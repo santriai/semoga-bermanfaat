@@ -1,11 +1,11 @@
 {
-  "question": "Dalam literatur Fiqih (seperti kitab Safinatun Najah), seseorang diperbolehkan beristinja menggunakan batu jika tidak ada air. Manakah salah satu syarat agar istinja dengan batu tersebut dianggap sah?",
+  "question": "Dalam ilmu Fiqih (madzhab Syafi'i), air yang telah digunakan untuk membasuh anggota wudhu yang wajib dan volumenya kurang dari dua qullah disebut air Musta'mal. Bagaimanakah status hukum air tersebut?",
   "options": [
-    "Menggunakan minimal dua buah batu yang permukaannya halus",
-    "Najis yang dibersihkan belum kering dan belum berpindah tempat",
-    "Batu yang digunakan harus memiliki suhu yang hangat",
-    "Boleh menggunakan batu yang sudah terkena percikan air (musta'mal)"
+    "Suci dan dapat menyucikan (Thahir Mutahhir)",
+    "Suci namun tidak dapat menyucikan (Thahir Ghairu Mutahhir)",
+    "Najis karena telah terkena hadas (Mutanajjis)",
+    "Makruh jika digunakan untuk berwudhu kembali"
   ],
   "correctIndex": 1,
-  "explanation": "Salah satu syarat sah istinja menggunakan batu (istijmar) adalah najis tersebut belum kering dan belum berpindah dari tempat keluarnya. Jika najis sudah kering atau bergeser jauh dari tempat keluarnya, maka penggunaan batu tidak lagi mencukupi dan wajib menggunakan air."
+  "explanation": "Air Musta'mal adalah air yang telah digunakan untuk mengangkat hadas (seperti basuhan pertama wudhu yang wajib). Menurut madzhab Syafi'i, air ini hukumnya suci (tidak najis), namun tidak bisa lagi digunakan untuk bersuci (wudhu atau mandi wajib) karena kekuatan menyucikannya telah hilang setelah pemakaian pertama."
 }
