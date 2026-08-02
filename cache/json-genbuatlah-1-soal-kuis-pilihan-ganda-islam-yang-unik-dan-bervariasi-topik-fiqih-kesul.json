@@ -1,11 +1,11 @@
 {
-  "question": "Dalam literatur Fiqih Syafi'iyyah, air yang dipanaskan di bawah terik matahari menggunakan wadah logam (selain emas dan perak) di daerah yang beriklim panas disebut 'Air Musyammas'. Bagaimana hukum penggunaan air tersebut untuk berwudhu?",
+  "question": "Dalam kajian Fiqih Thaharah, air yang suci secara zatnya namun tidak dapat digunakan untuk mensucikan hadats atau najis karena telah digunakan untuk membasuh anggota wudhu yang wajib disebut dengan air...",
   "options": [
-    "Suci mensucikan dan tidak makruh digunakan",
-    "Suci mensucikan namun makruh digunakan pada anggota badan",
-    "Najis dan tidak sah digunakan untuk bersuci",
-    "Suci namun tidak dapat mensucikan (Ghairu Mutahhir)"
+    "Mutlak",
+    "Musyammas",
+    "Musta'mal",
+    "Mutanajis"
   ],
-  "correctIndex": 1,
-  "explanation": "Air Musyammas adalah air yang dipanaskan matahari dalam wadah logam yang dapat berkarat (seperti besi atau tembaga). Menurut madzhab Syafi'i, hukumnya adalah suci dan mensucikan, namun makruh digunakan untuk badan (seperti wudhu atau mandi) karena dikhawatirkan dapat menyebabkan penyakit kusta (baras) akibat reaksi kimia logam tersebut."
+  "correctIndex": 2,
+  "explanation": "Air Musta'mal adalah air suci yang telah digunakan untuk mengangkat hadats (seperti basuhan pertama pada wudhu atau mandi wajib). Air ini tetap suci (boleh diminum), namun tidak lagi memiliki sifat mensucikan (ghairu muthahhir) untuk digunakan bersuci kembali."
 }
