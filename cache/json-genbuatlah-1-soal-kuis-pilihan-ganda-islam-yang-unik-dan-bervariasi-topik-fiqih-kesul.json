@@ -1,11 +1,11 @@
 {
-  "question": "Dalam Fiqih Thaharah, terdapat istilah 'Air Musta'mal'. Manakah dari pernyataan berikut yang paling tepat menggambarkan pengertian Air Musta'mal menurut jumhur ulama (khususnya mazhab Syafi'i)?",
+  "question": "Dalam fiqih madzhab Syafi'i, air sedikit (kurang dari 2 qullah) yang telah digunakan untuk membasuh anggota tubuh dalam rukun wudhu dinamakan air...",
   "options": [
-    "Air yang terkena najis tetapi ukurannya mencapai dua qullah atau lebih dan tidak berubah salah satu sifatnya.",
-    "Air sedikit (kurang dari dua qullah) yang telah digunakan untuk bersuci wajib seperti wudhu atau mandi janabah.",
-    "Air suci yang bercampur dengan benda suci lainnya (seperti teh atau sabun) hingga berubah sifat dan namanya.",
-    "Air yang dipanaskan di bawah terik matahari menggunakan wadah dari logam selain emas dan perak."
+    "Air Mutlak",
+    "Air Musyammas",
+    "Air Musta'mal",
+    "Air Mutanajjis"
   ],
-  "correctIndex": 1,
-  "explanation": "Air Musta'mal adalah air yang berstatus 'suci tetapi tidak dapat menyucikan kembali' (thahir gairu muthahhir). Ciri utamanya adalah air tersebut berjumlah sedikit (kurang dari 2 qullah) dan telah digunakan untuk bersuci yang hukumnya wajib, seperti membasuh anggota wudhu atau mandi janabah."
+  "correctIndex": 2,
+  "explanation": "Air Musta'mal adalah air yang telah digunakan untuk bersuci wajib (seperti wudhu fardhu atau mandi wajib) dan ukurannya kurang dari dua qullah. Hukum air ini adalah suci pada dirinya sendiri (thahir), tetapi tidak bisa lagi digunakan untuk menyucikan/bersuci kembali (ghairu muthahhir)."
 }
