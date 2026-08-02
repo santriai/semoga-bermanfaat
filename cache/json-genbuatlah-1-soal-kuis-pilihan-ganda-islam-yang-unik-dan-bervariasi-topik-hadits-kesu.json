@@ -1,11 +1,11 @@
 {
-  "question": "Dalam ilmu Musthalah Hadits, terdapat perbedaan syarat antara Imam Al-Bukhari dan Imam Muslim dalam menerima sanad berbentuk 'Mu'an'an' (menggunakan kata 'dari/‘an'). Syarat khusus yang diwajibkan oleh Imam Al-Bukhari namun tidak diwajibkan secara mutlak oleh Imam Muslim adalah...",
+  "question": "Dalam ilmu Musthalah Hadis, silsilah atau urutan para perawi yang menyampaikan hingga sampai kepada isi/redaksi hadis disebut...",
   "options": [
-    "Thubut al-Liqa' (terbuktinya perjumpaan fisik antara murid dan guru minimal satu kali)",
-    "Ad-Dhabth al-Tamm (kesempurnaan daya ingat dan pencatatan setiap perawi)",
-    "Al-'Adalah (sifat keadilan dan ketaatan agama dari seluruh perawi)",
-    "Al-Mu'asharah (perawi dan gurunya hidup dalam satu zaman yang sama)"
+    "Matan",
+    "Sanad",
+    "Takhrij",
+    "Rijalul Hadis"
   ],
-  "correctIndex": 0,
-  "explanation": "Imam Al-Bukhari mensyaratkan 'Thubut al-Liqa' (harus ada bukti pasti perjumpaan fisik minimal satu kali antara perawi dan gurunya) untuk keabsahan hadits Mu'an'an. Sebaliknya, Imam Muslim menganggap cukup dengan 'Al-Mu'asharah' (hidup dalam satu zaman) dan 'Imkan al-Liqa'' (memungkinkan untuk bertemu) tanpa keharusan bukti tertulis perjumpaan fisik tersebut."
+  "correctIndex": 1,
+  "explanation": "Sanad secara bahasa berarti 'sandaran', sedangkan dalam istilah ilmu hadis adalah silsilah atau rangkaian perawi yang menghubungkan sampai ke isi redaksi hadis. Adapun teks atau isi pesan dari hadis itu sendiri dinamakan Matan."
 }
