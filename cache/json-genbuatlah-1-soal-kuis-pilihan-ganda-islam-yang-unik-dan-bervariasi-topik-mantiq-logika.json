@@ -1,11 +1,11 @@
 {
-  "question": "Dalam kajian Qiyas Istitsna'i yang disusun dari Qadhiyah Syarthiyyah Munfashilah kategori 'Mani'atul Khuluw Faqath', manakah prosedur inferensi (istidlal) berikut yang menghasilkan simpulan (natijah) yang valid?",
+  "question": "Dalam ilmu Mantiq, penunjukan suatu lafadz (kata) pada keseluruhan makna yang dibuat untuknya secara penuh—seperti menyebut kata 'rumah' untuk merujuk pada bangunan utuh beserta pondasi, dinding, dan atapnya—disebut dilalah...",
   "options": [
-    "Wad'u al-Awwal yuntiju Raf'a al-Tsani (Menetapkan bagian pertama menghasilkan penafian bagian kedua)",
-    "Raf'u al-Awwal yuntiju Isbat al-Tsani (Menafikan bagian pertama menghasilkan penetapan bagian kedua)",
-    "Wad'u al-Awwal yuntiju Isbat al-Tsani (Menetapkan bagian pertama menghasilkan penetapan bagian kedua)",
-    "Raf'u al-Awwal yuntiju Raf'a al-Tsani (Menafikan bagian pertama menghasilkan penafian bagian kedua)"
+    "Muthabaqah",
+    "Tadhammun",
+    "Iltizam",
+    "Thabi'iyyah"
   ],
-  "correctIndex": 1,
-  "explanation": "Mani'atul Khuluw adalah proposisi disjungtif yang tidak memperbolehkan kedua unsurnya salah secara bersamaan (khuluw), namun memperbolehkan keduanya benar (ijtima'). Berdasarkan kaidah Mantiq dalam kitab Sullam al-Munawraq, jika kita menafikan (Raf'u) salah satu bagiannya, maka bagian yang lain wajib ditetapkan (Isbat/Wad'u) agar tidak terjadi kekosongan (khuluw). Sebaliknya, jika kita menetapkan (Wad'u) salah satu bagian, tidak ada simpulan valid yang dihasilkan karena keduanya boleh benar secara bersamaan."
+  "correctIndex": 0,
+  "explanation": "Dilalah Muthabaqah adalah penunjukan lafadz pada seluruh makna yang dirumuskan untuk lafadz tersebut secara cocok/utuh. Adapun Tadhammun hanya menunjukkan sebagian makna (misal: 'rumah' merujuk atapnya saja), dan Iltizam menunjukkan konsekuensi di luar makna hakiki (misal: 'rumah' mengisyaratkan adanya tukang yang membangunnya)."
 }
