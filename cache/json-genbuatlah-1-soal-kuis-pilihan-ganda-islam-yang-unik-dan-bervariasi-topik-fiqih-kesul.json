@@ -1,11 +1,11 @@
 {
-  "question": "Dalam kajian Fiqih Thaharah, air yang suci secara zatnya namun tidak dapat digunakan untuk mensucikan hadats atau najis karena telah digunakan untuk membasuh anggota wudhu yang wajib disebut dengan air...",
+  "question": "Dalam ilmu Fiqih (Madzhab Syafi'i), air yang telah digunakan untuk membasuh anggota wudhu yang wajib dan volumenya kurang dari dua qullah disebut air Musta'mal. Bagaimanakah status hukum air tersebut?",
   "options": [
-    "Mutlak",
-    "Musyammas",
-    "Musta'mal",
-    "Mutanajis"
+    "Suci dan mensucikan (Thahir Mutahhir)",
+    "Suci namun tidak dapat mensucikan (Thahir Ghairu Mutahhir)",
+    "Najis karena telah digunakan (Mutanajjis)",
+    "Makruh untuk digunakan kembali"
   ],
-  "correctIndex": 2,
-  "explanation": "Air Musta'mal adalah air suci yang telah digunakan untuk mengangkat hadats (seperti basuhan pertama pada wudhu atau mandi wajib). Air ini tetap suci (boleh diminum), namun tidak lagi memiliki sifat mensucikan (ghairu muthahhir) untuk digunakan bersuci kembali."
+  "correctIndex": 1,
+  "explanation": "Air Musta'mal adalah air yang telah digunakan untuk menghilangkan hadas (seperti basuhan pertama pada wudhu). Menurut Madzhab Syafi'i, air ini tetap suci zatnya (tidak najis), namun tidak bisa lagi digunakan untuk bersuci (wudhu/mandi) kembali karena sifat mensucikannya telah hilang."
 }
