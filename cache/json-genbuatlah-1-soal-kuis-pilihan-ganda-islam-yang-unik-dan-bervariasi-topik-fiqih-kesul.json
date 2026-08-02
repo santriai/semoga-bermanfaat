@@ -1,11 +1,11 @@
 {
-  "question": "Dalam fiqih madzhab Syafi'i, apabila seseorang lupa tidak melaksanakan Tasyahhud Awal dan telah berdiri tegak (intishab) menuju rakaat ketiga, tindakan yang tepat dan sah menurut syariat adalah...",
+  "question": "Dalam Fiqh madzhab Syafi'i, air bekas bersuci dikategorikan sebagai air Musta'mal (suci tetapi tidak dapat mensucikan). Manakah kondisi berikut yang secara tepat menyebabkan air berstatus Musta'mal?",
   "options": [
-    "Kembali duduk untuk membaca Tasyahhud Awal agar rakaatnya sempurna",
-    "Membatalkan shalatnya dan mengulanginya kembali dari awal",
-    "Melanjutkan shalat hingga selesai tanpa perlu melakukan sujud sahwi",
-    "Tidak kembali duduk, melanjutkan shalat, dan melakukan sujud sahwi sebelum salam"
+    "Air kurang dari dua qullah yang telah terpisah dari anggota tubuh setelah digunakan untuk bersuci yang fardhu (wajib).",
+    "Air lebih dari dua qullah yang terkena cipratan air bekas basuhan wudhu sunnah.",
+    "Air kurang dari dua qullah yang mengalami perubahan warna dan rasa karena bercampur dengan sabun mandi.",
+    "Air yang tersisa di dalam bejana setelah diminum oleh hewan yang halal dimakan dagingnya."
   ],
-  "correctIndex": 3,
-  "explanation": "Tasyahhud Awal merupakan bagian dari Sunnah Ab'adh. Dalam fiqih Syafi'iyah (sebagaimana dijelaskan dalam Safinatun Najah dan Fathul Qarib), jika orang yang shalat sudah berdiri tegak (intishab), haram baginya untuk kembali duduk. Jika ia sengaja kembali duduk padahal tahu hukumnya, shalatnya batal. Solusi yang benar adalah melanjutkan shalat dan menambal kekurangan tersebut dengan sujud sahwi sebelum salam."
+  "correctIndex": 0,
+  "explanation": "Dalam madzhab Syafi'i (sebagaimana dijelaskan dalam kitab Fathul Qarib), air dikategorikan Musta'mal jika memenuhi kriteria: jumlahnya kurang dari dua qullah, telah digunakan untuk thaharah yang hukumnya wajib/fardhu (seperti wudhu wajib atau mandi janabat), dan air tersebut telah terpisah (infishal) dari anggota tubuh."
 }
