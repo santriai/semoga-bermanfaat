@@ -1,11 +1,11 @@
 {
-  "question": "Dalam metode Qiyas (analogi) pada ilmu Ushul Fiqih, terdapat empat rukun utama. Apakah istilah untuk kejadian atau masalah baru yang belum memiliki ketetapan hukum eksplisit dalam nash (Al-Qur'an atau Hadis)?",
+  "question": "Dalam kajian Ushul Fiqih, terdapat berbagai jenis 'Mafhum al-Mukhalafah' (pemahaman kebalikan). Manakah di antara jenis mafhum berikut yang secara mayoritas ulama (termasuk dalam madzhab Syafi'i) dianggap paling lemah dan tidak dapat dijadikan hujjah dalam penetapan hukum?",
   "options": [
-    "Ashl",
-    "Far'u",
-    "'Illat",
-    "Hukm al-Ashl"
+    "Mafhum al-Ghayah",
+    "Mafhum al-Hashr",
+    "Mafhum al-Laqab",
+    "Mafhum al-Syarth"
   ],
-  "correctIndex": 1,
-  "explanation": "Far'u secara bahasa berarti cabang, sedangkan dalam istilah Ushul Fiqih adalah kasus baru yang belum ada nash hukumnya. Hukum Far'u ditentukan dengan cara disamakan kepada Ashl (kasus pokok) karena adanya kesamaan 'Illat (alasan penetapan hukum)."
+  "correctIndex": 2,
+  "explanation": "Mafhum al-Laqab adalah mengambil hukum kebalikan dari sebuah nama atau kata benda (isim jamid). Mayoritas ulama Ushul Fiqih menganggapnya sebagai jenis mafhum yang paling lemah dan tidak bisa dijadikan dalil (hujjah), karena penyebutan suatu subjek (isim) tidak secara otomatis menafikan hukum bagi subjek lainnya secara logika bahasa maupun syara'."
 }
