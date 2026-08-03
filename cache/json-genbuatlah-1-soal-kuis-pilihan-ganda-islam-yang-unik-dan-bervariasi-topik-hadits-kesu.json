@@ -1,11 +1,11 @@
 {
-  "question": "Dalam klasifikasi ilmu hadits, terdapat jenis hadits yang maknanya bersumber dari Allah SWT namun redaksi bahasanya disusun oleh Nabi Muhammad SAW. Apakah nama jenis hadits tersebut?",
+  "question": "Dalam diskursus Ilmu Musthalah al-Hadits, manakah istilah yang paling tepat untuk mendefinisikan sebuah hadits yang di dalamnya terdapat sisipan kata-kata dari perawi (baik di awal, tengah, atau akhir matan) yang bukan merupakan sabda Rasulullah SAW, namun diucapkan secara bersambung sehingga pendengar menyangka bahwa kalimat tersebut adalah bagian dari hadits asli?",
   "options": [
-    "Hadits Qudsi",
-    "Hadits Mutawatir",
-    "Hadits Marfu'",
-    "Hadits Mauquf"
+    "Hadits Maqlub",
+    "Hadits Mudraj",
+    "Hadits Mudaltas",
+    "Hadits Mu'allal"
   ],
-  "correctIndex": 0,
-  "explanation": "Hadits Qudsi adalah hadits yang maknanya berasal dari Allah SWT (disampaikan melalui ilham atau mimpi) namun redaksi kalimatnya disusun oleh Nabi Muhammad SAW. Hal ini berbeda dengan Al-Qur'an yang baik makna maupun redaksinya bersifat mukjizat dan langsung dari Allah, serta berbeda dengan Hadits Nabawi biasa yang mencakup perkataan, perbuatan, dan ketetapan Nabi secara umum."
+  "correctIndex": 1,
+  "explanation": "Hadits Mudraj (Idraj) adalah hadits yang mengalami penyisipan unsur luar ke dalam sanad atau matannya. Pada jenis 'Mudraj al-Matn', perawi menambahkan penjelasan, istinbath hukum, atau kutipan lain ke dalam teks hadits tanpa memberikan pemisah (fashl) yang jelas, sehingga seolah-olah merupakan bagian dari sabda Nabi SAW. Contoh klasiknya adalah tambahan kata 'wa hiya al-tahannuth' sebagai penjelasan aktivitas ibadah Nabi di Gua Hira dalam hadits riwayat Imam Bukhari."
 }
