@@ -1,11 +1,11 @@
 {
-  "question": "Dalam dasar ilmu Nahwu (kitab Matan Al-Ajurrumiyyah), manakah di antara pilihan berikut yang merupakan ciri khas bahwa suatu kata tergolong sebagai Kalimah Isim (kata benda)?",
+  "question": "Dalam ilmu Shorof, perubahan bentuk kata kerja (tashrif) memiliki makna dan waktu yang berbeda. Manakah di antara kata berikut yang merupakan bentuk 'Fi'il Madhi' (kata kerja bentuk lampau) dengan makna 'ia (seorang laki-laki) telah menulis'?",
   "options": [
-    "Dapat menerima Tanwin pada akhir kata",
-    "Dapat kemasukan huruf Jazam seperti 'Lam' (لَمْ)",
-    "Dapat diawali dengan huruf 'Qad' (قَدْ)",
-    "Bersambung dengan Ta' Ta'nits Sakinah (تَاءُ التَّأْنِيثِ السَّاكِنَةُ)"
+    "يَكْتُبُ (Yaktubu)",
+    "كَتَبَ (Kataba)",
+    "اُكْتُبْ (Uktub)",
+    "كَاتِبٌ (Katibun)"
   ],
-  "correctIndex": 0,
-  "explanation": "Dalam Matan Al-Ajurrumiyyah disebutkan: 'فَالاسْمُ يُعْرَفُ بِالخَفْضِ وَالتَّنْوِينِ وَدُخُولِ الأَلِفِ وَاللاَّمِ' (Isim dapat dikenali dengan i'rab khafadh/jer, tanwin, dan kemasukan Alif-Lam). Sedangkan pilihan B, C, dan D merupakan tanda-tanda khusus untuk Kalimah Fi'il (kata kerja)."
+  "correctIndex": 1,
+  "explanation": "Kata 'كَتَبَ' (Kataba) adalah Fi'il Madhi yang menunjukkan pekerjaan di masa lalu (telah menulis). Adapun 'يَكْتُبُ' adalah Fi'il Mudhari' (sedang/akan menulis), 'اُكْتُبْ' adalah Fi'il Amr (kata kerja perintah: tulislah!), dan 'كَاتِبٌ' adalah Isim Fa'il (subjek/penulis)."
 }
