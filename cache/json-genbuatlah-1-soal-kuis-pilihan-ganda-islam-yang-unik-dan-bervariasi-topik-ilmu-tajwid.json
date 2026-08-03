@@ -1,11 +1,11 @@
 {
-  "question": "Dalam kajian Ilmu Tajwid, dengung (Ghunnah) memiliki tingkatan kekuatan dan kesempurnaan pengucapan yang dikenal dengan istilah Marātib al-Ghunnah. Manakah urutan tingkatan Ghunnah yang paling tepat dari yang paling sempurna (Atamm/Akmal) hingga yang paling lemah (Anqas)?",
+  "question": "Dalam ilmu tajwid, apabila terdapat Nun Sukun (نْ) atau Tanwin (ً ٍ ٌ) bertemu dengan huruf Lam (ل) atau Ra (ر), maka hukum bacaannya dibaca melebur tanpa disertai dengung. Hukum bacaan ini disebut...",
   "options": [
-    "Al-Musyaddad/Al-Mudgham -> Al-Mukhfa/Al-Muqlab -> Al-Sakin Al-Mudh-har -> Al-Mutaharrik",
-    "Al-Mukhfa/Al-Muqlab -> Al-Musyaddad/Al-Mudgham -> Al-Sakin Al-Mudh-har -> Al-Mutaharrik",
-    "Al-Musyaddad/Al-Mudgham -> Al-Sakin Al-Mudh-har -> Al-Mukhfa/Al-Muqlab -> Al-Mutaharrik",
-    "Al-Sakin Al-Mudh-har -> Al-Musyaddad/Al-Mudgham -> Al-Mukhfa/Al-Muqlab -> Al-Mutaharrik"
+    "Idgham Bighunnah",
+    "Idgham Bilaghunnah",
+    "Izhar Halqi",
+    "Ikhfa Haqiqi"
   ],
-  "correctIndex": 0,
-  "explanation": "Para ulama Tajwid membagi Maratib al-Ghunnah (tingkatan dengung) menjadi 4 tingkatan dari yang paling sempurna: 1) Akmal/Atamm ma takun (pada Nun/Mim bertasydid & Idgham Bighunnah), 2) Kamilah (pada Nun/Mim yang dibaca Ikhfa dan Iqlab), 3) Naqishah (pada Nun/Mim sukun yang dibaca Izhar), dan 4) Anqas ma takun (pada huruf Nun/Mim yang berharakat/Mutaharrik, di mana asal sifat Ghunnah tetap ada pada zat hurufnya namun durasi dengungnya paling pendek)."
+  "correctIndex": 1,
+  "explanation": "Hukum bacaan tersebut adalah Idgham Bilaghunnah. Secara bahasa, Idgham berarti memasukkan atau meleburkan, sedangkan Bilaghunnah berarti tanpa dengung. Hukum ini berlaku khusus ketika Nun Sukun atau Tanwin bertemu dengan dua huruf tajwid, yaitu Lam (ل) dan Ra (ر)."
 }
