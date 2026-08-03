@@ -1,11 +1,11 @@
 {
-  "question": "Dalam ilmu musthalah hadits, sebutan untuk hadits yang perkataan, perbuatan, atau penetapannya disandarkan langsung kepada Nabi Muhammad SAW adalah...",
+  "question": "Dalam klasifikasi ilmu hadits, terdapat jenis hadits yang maknanya bersumber dari Allah SWT namun redaksi bahasanya disusun oleh Nabi Muhammad SAW. Apakah nama jenis hadits tersebut?",
   "options": [
+    "Hadits Qudsi",
+    "Hadits Mutawatir",
     "Hadits Marfu'",
-    "Hadits Mauquf",
-    "Hadits Maqthu'",
-    "Hadits Qudsi"
+    "Hadits Mauquf"
   ],
   "correctIndex": 0,
-  "explanation": "Hadits Marfu' adalah hadits yang disandarkan secara khusus kepada Nabi Muhammad SAW, baik berupa perkataan, perbuatan, persetujuan (taqrir), maupun sifat beliau. Adapun Hadits Mauquf disandarkan kepada Sahabat, sedangkan Hadits Maqthu' disandarkan kepada Tabi'in."
+  "explanation": "Hadits Qudsi adalah hadits yang maknanya berasal dari Allah SWT (disampaikan melalui ilham atau mimpi) namun redaksi kalimatnya disusun oleh Nabi Muhammad SAW. Hal ini berbeda dengan Al-Qur'an yang baik makna maupun redaksinya bersifat mukjizat dan langsung dari Allah, serta berbeda dengan Hadits Nabawi biasa yang mencakup perkataan, perbuatan, dan ketetapan Nabi secara umum."
 }
