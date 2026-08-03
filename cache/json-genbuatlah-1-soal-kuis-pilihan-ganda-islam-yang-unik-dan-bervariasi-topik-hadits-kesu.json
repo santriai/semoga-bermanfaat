@@ -1,11 +1,11 @@
 {
-  "question": "Dalam klasifikasi ilmu Mustalahul Hadits, apa sebutan bagi sebuah hadits yang pada salah satu tingkatan sanadnya hanya diriwayatkan oleh satu orang perawi saja?",
+  "question": "Dalam ilmu musthalah hadits, sebutan untuk hadits yang perkataan, perbuatan, atau penetapannya disandarkan langsung kepada Nabi Muhammad SAW adalah...",
   "options": [
-    "Hadits Mutawatir",
-    "Hadits Aziz",
-    "Hadits Gharib",
-    "Hadits Masyhur"
+    "Hadits Marfu'",
+    "Hadits Mauquf",
+    "Hadits Maqthu'",
+    "Hadits Qudsi"
   ],
-  "correctIndex": 2,
-  "explanation": "Hadits Gharib adalah bagian dari kategori Hadits Ahad yang secara bahasa berarti 'asing' atau 'sendiri'. Secara istilah, ia didefinisikan sebagai hadits yang diriwayatkan oleh hanya satu orang perawi pada tingkatan (thabaqat) tertentu dalam sanadnya, meskipun pada tingkatan lain jumlah perawinya lebih banyak. Hal ini membedakannya dengan Hadits Aziz (minimal dua perawi) dan Hadits Masyhur (minimal tiga perawi pada setiap tingkatan)."
+  "correctIndex": 0,
+  "explanation": "Hadits Marfu' adalah hadits yang disandarkan secara khusus kepada Nabi Muhammad SAW, baik berupa perkataan, perbuatan, persetujuan (taqrir), maupun sifat beliau. Adapun Hadits Mauquf disandarkan kepada Sahabat, sedangkan Hadits Maqthu' disandarkan kepada Tabi'in."
 }
