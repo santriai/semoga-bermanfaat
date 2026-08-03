@@ -1,11 +1,11 @@
 {
-  "question": "Dalam struktur Hukum Taklifi pada ilmu Ushul Fiqih, manakah istilah yang merujuk pada perbuatan yang diberikan kebebasan oleh syariat untuk memilih antara melakukannya atau meninggalkannya, tanpa ada konsekuensi pahala maupun dosa secara langsung?",
+  "question": "Dalam metodologi Ushul Fiqih kalangan Hanafiyyah terkait hierarki kejelasan petunjuk lafaz (Tabaqat ad-Dilalah), bagaimana penyelesaian hukum jika terjadi pertentangan (ta'arud) antara Dilalah al-Ibarah dan Dilalah al-Isyarah?",
   "options": [
-    "Mandub",
-    "Makruh",
-    "Mubah",
-    "Wajib"
+    "Memprioritaskan Dilalah al-Ibarah karena menunjukkan makna yang dituju secara langsung (al-maqsud asalat) oleh nash.",
+    "Memprioritaskan Dilalah al-Isyarah karena mengandung makna implisit yang lebih mendalam dibanding teks eksplisit.",
+    "Membatalkan kedua dilalah (tasaqut) lalu beralih menggunakan Qiyas sebagai dalil sekunder.",
+    "Menyamakan kedudukan keduanya sehingga seorang Mujtahid bebas memilih salah satunya melalui metode Istihsan."
   ],
-  "correctIndex": 2,
-  "explanation": "Mubah (atau Ja'iz) adalah khitab Allah yang memberikan pilihan kepada mukallaf untuk melakukan atau meninggalkan suatu perbuatan. Secara zatnya, perbuatan mubah tidak mendatangkan pahala jika dikerjakan dan tidak mendatangkan dosa jika ditinggalkan."
+  "correctIndex": 0,
+  "explanation": "Menurut fuqaha Hanafiyyah, urutan kekuatan Dilalah al-Lafz dari yang tertinggi adalah: (1) Dilalah al-Ibarah, (2) Dilalah al-Isyarah, (3) Dilalah ad-Dilalah, dan (4) Dilalah al-Iqtidha. Jika terjadi ta'arud (pertentangan), maka Dilalah al-Ibarah harus didahulukan daripada Dilalah al-Isyarah. Hal ini dikarenakan al-Ibarah menetapkan hukum berdasarkan maksud utama teks (al-maqsud asalat), sedangkan al-Isyarah menetapkan hukum dari maksud sekunder/pengikut (al-maqsud tabi'an)."
 }
