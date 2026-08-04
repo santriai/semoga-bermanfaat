@@ -1,11 +1,11 @@
 {
-  "question": "Dalam klasifikasi ilmu Mustalahul Hadits berdasarkan jumlah perawi, apakah sebutan bagi sebuah hadits yang diriwayatkan oleh minimal tiga orang perawi pada setiap tingkatan sanadnya, namun belum mencapai derajat Mutawatir?",
+  "question": "Dalam disiplin ilmu Musthalah Hadits, apabila pada sanad suatu hadits terdapat dua orang perawi atau lebih yang gugur (terputus) secara berurutan, maka status hadits tersebut dinamakan...",
   "options": [
-    "Hadits Aziz",
-    "Hadits Mashhur",
-    "Hadits Gharib",
-    "Hadits Mutawatir"
+    "Hadits Mursal",
+    "Hadits Mu'dhal",
+    "Hadits Munqati'",
+    "Hadits Mu'allaq"
   ],
   "correctIndex": 1,
-  "explanation": "Hadits Mashhur secara terminologi adalah hadits yang diriwayatkan oleh tiga orang atau lebih pada setiap tingkatan (thabaqat) sanad, namun jumlahnya tidak mencapai batas minimal hadits Mutawatir. Sebagai perbandingan, Hadits Aziz diriwayatkan oleh minimal dua orang perawi, sedangkan Hadits Gharib hanya diriwayatkan oleh satu orang perawi pada salah satu atau setiap tingkatan sanadnya."
+  "explanation": "Hadits Mu'dhal (المعضل) menurut istilah para ahli hadits (seperti Ibnu Hajar al-'Asqalani dalam Nukhbatul Fikar) adalah hadits yang sanadnya terputus karena gugurnya dua orang perawi atau lebih secara berturut-turut. Berbeda dengan Mursal (terputus pada tingkat sahabat), Munqati' (terputus satu perawi saja atau tidak berurutan), dan Mu'allaq (terputus dari awal sanad oleh mukharrij)."
 }
