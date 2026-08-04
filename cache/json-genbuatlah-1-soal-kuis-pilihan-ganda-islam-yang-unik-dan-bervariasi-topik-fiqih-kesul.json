@@ -1,11 +1,11 @@
 {
-  "question": "Dalam diskursus Fiqih Syafi'iyah, air yang telah digunakan untuk basuhan kedua atau ketiga pada anggota wudhu (yang hukumnya sunnah) dan volumenya kurang dari dua qullah, maka status hukum air tersebut adalah...",
+  "question": "Dalam fiqih Thaharah mazhab Syafi'i, air kurang dari dua qullah yang telah digunakan untuk membasuh anggota tubuh dalam rukun bersuci yang wajib (seperti wudhu wajib) dikategorikan sebagai...",
   "options": [
-    "Najis (Mutanajjis) karena telah bercampur dengan bekas anggota tubuh",
-    "Musta'mal (Suci namun tidak dapat mensucikan)",
-    "Mutlaq (Suci dan tetap dapat mensucikan)",
-    "Makruh (Boleh digunakan namun dibenci)"
+    "Air Mutlaq",
+    "Air Musta'mal",
+    "Air Mutanajjis",
+    "Air Musyammas"
   ],
-  "correctIndex": 2,
-  "explanation": "Berdasarkan literatur Kitab Kuning (seperti Fathul Qarib dan Fathul Mu'in), air menjadi 'Musta'mal' hanya jika digunakan untuk basuhan yang wajib (fardhu) dalam mengangkat hadats. Karena basuhan kedua dan ketiga dalam wudhu hukumnya sunnah, maka air tersebut tidak kehilangan sifat mensucikannya dan tetap berstatus air Mutlaq (Thahir Mutahhir)."
+  "correctIndex": 1,
+  "explanation": "Air Musta'mal adalah air yang hukumnya suci pada dirinya sendiri (thahir), namun tidak dapat digunakan lagi untuk menyucikan atau bersuci kembali (ghairu muthahhir). Syaratnya adalah air tersebut ukurannya kurang dari dua qullah dan telah terpisah dari anggota tubuh setelah digunakan untuk thaharah yang wajib (fardhu)."
 }
