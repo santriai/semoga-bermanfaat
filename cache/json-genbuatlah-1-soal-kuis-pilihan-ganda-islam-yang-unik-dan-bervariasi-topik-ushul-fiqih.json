@@ -1,11 +1,11 @@
 {
-  "question": "Dalam ilmu Ushul Fiqih, metode penetapan hukum dengan cara menyamakan hukum suatu kasus baru dengan kasus lama yang telah memiliki nash karena adanya persamaan 'illat dinamakan Qiyas. Manakah di antara pilihan berikut yang TIDAK termasuk ke dalam rukun Qiyas?",
+  "question": "Di antara sumber hukum Islam (dalil syar'i) berikut, manakah yang termasuk ke dalam kelompok dalil yang disepakati oleh mayoritas ulama (muttafaq 'alaih)?",
   "options": [
-    "Ashl (permasalahan pokok yang ada nashnya)",
-    "Far'u (permasalahan cabang/kasus baru)",
-    "'Illat (sifat/sebab timbulnya hukum)",
-    "Istishhab (keberlanjutan hukum asal)"
+    "Istihsan",
+    "Qiyas",
+    "Maslahah Mursalah",
+    "'Urf"
   ],
-  "correctIndex": 3,
-  "explanation": "Rukun Qiyas terdiri dari 4 perkara: (1) Ashl (kasus utama), (2) Far'u (kasus turunan/baru), (3) Hukum Ashl (hukum syariat pada kasus utama), dan (4) 'Illat (persamaan sebab hukum). Adapun Istishhab adalah salah satu metode ijtihad/sumber hukum tersendiri dalam Ushul Fiqih, bukan bagian dari rukun Qiyas."
+  "correctIndex": 1,
+  "explanation": "Dalam ilmu Ushul Fiqih, dalil syar'i yang disepakati (muttafaq 'alaih) oleh mayoritas ulama (jumhur) ada empat, yaitu: Al-Qur'an, As-Sunnah, Al-Ijma', dan Al-Qiyas. Sedangkan Istihsan, Maslahah Mursalah, dan 'Urf termasuk dalam kelompok dalil yang diperselisihkan (mukhtalaf 'fih)."
 }
