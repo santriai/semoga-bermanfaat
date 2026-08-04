@@ -1,11 +1,11 @@
 {
-  "question": "Dalam kaidah ilmu Nahwu, Isim Ghoiru Munsharif (isim yang tidak boleh menerima tanwin) umumnya di-jer-kan dengan harakat fatah. Namun, tanda jer tersebut akan kembali menggunakan kasrah dalam kondisi tertentu. Manakah di antara kalimat berikut yang memuat Isim Ghoiru Munsharif yang di-jer-kan dengan tanda kasrah?",
+  "question": "Dalam disiplin ilmu Nahwu, pada bab al-Isytighal (الاشتغال), manakah kondisi yang MENYEBABKAN isim yang terletak di awal kalimat (sebelum fi'il) WAJIB dibaca Nashab?",
   "options": [
-    "A. صَلَّيْتُ فِي مَسَاجِدَ كَثِيْرَةٍ",
-    "B. مَرَرْتُ بِأَحْمَدَ فِي الْمَسْجِدِ",
-    "C. صَلَّيْتُ فِي مَسَاجِدِ الْقَرْيَةِ",
-    "D. سَافَرْتُ إِلَى بَغْدَادَ"
+    "Jika isim tersebut didahului oleh piranti (adat) yang khusus masuk pada fi'il, seperti kata syarat (إِنْ) atau tahdhidh (هَلَّا)",
+    "Jika isim tersebut didahului oleh Hamzah Istifham (أ) dan setelah fi'il terdapat isim amir (dhamir muttashil)",
+    "Jika fi'il yang beramal pada dhamir didahului oleh Wawu Athaf yang menghubungkannya dengan jumlah fi'liyyah",
+    "Jika isim tersebut berfungsi sebagai khabar mu'akhar dari mubtada' yang dibuang pada struktur kalimat syarthiyyah"
   ],
-  "correctIndex": 2,
-  "explanation": "Isim Ghoiru Munsharif (seperti lafaz 'مَسَاجِد' yang mengikuti shighat muntahal jumu') hukum asalnya di-jer-kan dengan harakat fatah. Namun, tanda jer-nya kembali menjadi kasrah apabila isim tersebut dimasuki Alif-Lam (ال) atau di-idhafah-kan (dimudhafkan) sebagaimana dijelaskan dalam Nadhom Alfiyah: 'وَجُرَّ بِالْفَتْحَةِ مَا لَا يَنْصَرِفْ # مَا لَمْ يُضَفْ أَوْ يَأْتِ بَعْدَ أَلْ رَدِفْ'. Pada opsi C, lafaz 'مَسَاجِدِ' berfungsi sebagai mudhaf kepada 'الْقَرْيَةِ', sehingga di-jer-kan dengan kasrah."
+  "correctIndex": 0,
+  "explanation": "Dalam kaidah bab al-Isytighal, isim yang terletak sebelum fi'il WAJIB dibaca nashab (dikira-kirakan sebagai maf'ul bih dari fi'il yang terbuang/mahdzuf) apabila isim tersebut berada setelah piranti (adat) yang khusus masuk pada fi'il, seperti In Syarthiyyah (إِنْ) atau Halla (هَلَّا). Sebab, piranti tersebut secara kaidah tata bahasa Arab menuntut keberadaan fi'il langsung setelahnya baik secara lafazh maupun taqdir."
 }
