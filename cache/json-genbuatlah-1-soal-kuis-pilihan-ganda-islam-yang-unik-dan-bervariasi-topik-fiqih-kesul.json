@@ -1,11 +1,11 @@
 {
-  "question": "Dalam diskursus Fiqih Syafi'iyyah, jika seseorang berwudhu menggunakan air di dalam wadah yang kurang dari dua qullah, kemudian setelah membasuh wajah ia memasukkan tangannya ke dalam wadah tersebut dengan tujuan membasuh tangan namun lupa tidak berniat 'ightiraf' (menciduk), maka status air yang tersisa di wadah tersebut adalah...",
+  "question": "Dalam diskursus Fiqih Syafi'iyyah, apa hukum menggunakan 'Air Musyammas' (air yang terjemur matahari dalam wadah logam selain emas dan perak) untuk bersuci pada anggota tubuh?",
   "options": [
-    "Tetap suci mensucikan (Mutlaq) karena volume air tidak berkurang",
-    "Suci namun tidak mensucikan (Musta'mal) karena telah tercampur air bekas basuhan wajib",
-    "Menjadi najis (Mutanajjis) karena terkena anggota tubuh yang belum suci",
-    "Makruh digunakan (Makruh Tanzih) namun tetap sah untuk menyempurnakan wudhu"
+    "Makruh",
+    "Haram",
+    "Mubah (Boleh)",
+    "Sunnah"
   ],
-  "correctIndex": 1,
-  "explanation": "Berdasarkan literatur Kitab Kuning seperti Fathul Qarib dan Minhajut Thalibin, air yang kurang dari dua qullah akan menjadi 'musta'mal' (suci tapi tidak mensucikan) jika anggota tubuh yang wajib dibasuh (dalam hal ini tangan setelah membasuh wajah) masuk ke dalam air tanpa niat 'ightiraf' (mengambil air). Tanpa niat ightiraf, perbuatan tersebut dianggap sebagai 'membasuh di dalam wadah', sehingga air yang tersisa di dalam wadah tersebut statusnya telah digunakan untuk menghilangkan hadats pada bagian tangan yang tercelup."
+  "correctIndex": 0,
+  "explanation": "Berdasarkan penjelasan dalam kitab Fathul Qarib, air musyammas dihukumi makruh tanzih untuk digunakan pada badan karena dikhawatirkan dapat menyebabkan penyakit kusta (baras). Hukum makruh ini berlaku dengan syarat: air berada di daerah beriklim panas, disimpan dalam wadah logam yang dapat berkarat (selain emas dan perak), dan digunakan saat air tersebut masih dalam kondisi panas."
 }
