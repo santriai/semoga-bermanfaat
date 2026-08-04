@@ -1,11 +1,11 @@
 {
-  "question": "Dalam metodologi Ushul Fiqih kalangan Hanafiyyah terkait hierarki kejelasan petunjuk lafaz (Tabaqat ad-Dilalah), bagaimana penyelesaian hukum jika terjadi pertentangan (ta'arud) antara Dilalah al-Ibarah dan Dilalah al-Isyarah?",
+  "question": "Dalam ilmu Ushul Fiqih, metode penetapan hukum dengan cara menyamakan hukum suatu kasus baru dengan kasus lama yang telah memiliki nash karena adanya persamaan 'illat dinamakan Qiyas. Manakah di antara pilihan berikut yang TIDAK termasuk ke dalam rukun Qiyas?",
   "options": [
-    "Memprioritaskan Dilalah al-Ibarah karena menunjukkan makna yang dituju secara langsung (al-maqsud asalat) oleh nash.",
-    "Memprioritaskan Dilalah al-Isyarah karena mengandung makna implisit yang lebih mendalam dibanding teks eksplisit.",
-    "Membatalkan kedua dilalah (tasaqut) lalu beralih menggunakan Qiyas sebagai dalil sekunder.",
-    "Menyamakan kedudukan keduanya sehingga seorang Mujtahid bebas memilih salah satunya melalui metode Istihsan."
+    "Ashl (permasalahan pokok yang ada nashnya)",
+    "Far'u (permasalahan cabang/kasus baru)",
+    "'Illat (sifat/sebab timbulnya hukum)",
+    "Istishhab (keberlanjutan hukum asal)"
   ],
-  "correctIndex": 0,
-  "explanation": "Menurut fuqaha Hanafiyyah, urutan kekuatan Dilalah al-Lafz dari yang tertinggi adalah: (1) Dilalah al-Ibarah, (2) Dilalah al-Isyarah, (3) Dilalah ad-Dilalah, dan (4) Dilalah al-Iqtidha. Jika terjadi ta'arud (pertentangan), maka Dilalah al-Ibarah harus didahulukan daripada Dilalah al-Isyarah. Hal ini dikarenakan al-Ibarah menetapkan hukum berdasarkan maksud utama teks (al-maqsud asalat), sedangkan al-Isyarah menetapkan hukum dari maksud sekunder/pengikut (al-maqsud tabi'an)."
+  "correctIndex": 3,
+  "explanation": "Rukun Qiyas terdiri dari 4 perkara: (1) Ashl (kasus utama), (2) Far'u (kasus turunan/baru), (3) Hukum Ashl (hukum syariat pada kasus utama), dan (4) 'Illat (persamaan sebab hukum). Adapun Istishhab adalah salah satu metode ijtihad/sumber hukum tersendiri dalam Ushul Fiqih, bukan bagian dari rukun Qiyas."
 }
