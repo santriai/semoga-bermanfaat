@@ -1,11 +1,11 @@
 {
-  "question": "Dalam ilmu Tajwid, terdapat lima huruf yang memiliki sifat Qalqalah (pantulan suara saat mati/sukun). Manakah di antara huruf berikut yang BUKAN merupakan huruf Qalqalah?",
+  "question": "Apabila terdapat Nun Sukun (نْ) bertemu dengan huruf Ya (ي) atau Wau (و) dalam SATU kata (kalimah) yang sama, hukum bacaannya tidak dileburkan (idgham), melainkan harus dibaca jelas. Hukum bacaan khusus ini disebut...",
   "options": [
-    "Qaf (ق)",
-    "Sin (س)",
-    "Ba (ب)",
-    "Jim (ج)"
+    "Izhhar Mutlaq",
+    "Izhhar Syafawi",
+    "Idgham Bilaghunnah",
+    "Iqlab Haqiqi"
   ],
-  "correctIndex": 1,
-  "explanation": "Huruf Qalqalah terdiri dari 5 huruf yang tersusun dalam ringkasan 'Qutbu Jadin' (قُطْبُ جَدٍّ), yaitu Qaf (ق), Tha (ط), Ba (ب), Jim (ج), dan Dal (د). Huruf Sin (س) tidak termasuk huruf Qalqalah, melainkan memiliki sifat Shafir (berdesis)."
+  "correctIndex": 0,
+  "explanation": "Hukum bacaan tersebut dinamakan Izhhar Mutlaq (atau Izhhar Wajib). Pengecualian dari aturan Idgham Bighunnah ini terjadi jika Nun Sukun bertemu huruf Ya atau Wau dalam satu kata utuh, seperti pada lafaz 'الدُّنْيَا' (Ad-Dunya) atau 'بُنْيَانٌ' (Bunyanun), guna menjaga keaslian makna kata tersebut."
 }
