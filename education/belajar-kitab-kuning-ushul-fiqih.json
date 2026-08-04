@@ -1,29 +1,118 @@
 {
-  "title": "Metodologi Penggalian Hukum: Pendalaman Ushul Fiqih melalui Kitab Kuning",
-  "intro": "Ushul Fiqih adalah fondasi intelektual dalam Islam yang merumuskan kaidah-kaidah untuk menyimpulkan hukum syariat (istinbath al-ahkam) dari dalil-dalil yang terperinci. Mempelajarinya melalui kitab kuning memberikan kedalaman pemahaman metodologis yang tidak ditemukan dalam literatur kontemporer biasa.",
+  "title": "Modul Pembelajaran Ushul Fiqih Dasar: Cara Mudah Memahami Pondasi Hukum Islam dari Nol",
+  "intro": "Selamat datang di modul pembelajaran Ushul Fiqih interaktif! Jika Fiqih adalah 'buah' (hukum-hukum praktis seperti shalat dan zakat), maka Ushul Fiqih adalah 'akar dan batangnya' (metode atau cara mengambil hukum dari Al-Qur'an dan Hadis). Modul ini dirancang khusus untuk pemula yang ingin memahami konsep dasar Ushul Fiqih dan mampu membaca teks Kitab Kuning dasar dengan mudah dan tepat.",
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Mengenal Pondasi: Apa itu Ushul Fiqih dan 5 Hukum Taklifi",
+      "explanation": "Ushul Fiqih adalah ilmu tentang kaidah-kaidah untuk mengeluarkan hukum syariat dari dalil-dalilnya. Sebelum membedah teks, kita wajib memahami 5 Hukum Taklifi dasar yang menjadi muara dari seluruh pembahasan Fiqih: Wajib, Sunnah, Haram, Makruh, dan Mubah.",
+      "examples": [
+        {
+          "arabic": "الْوَاجِبُ مَا يُثَابُ عَلَى فِعْلِهِ وَيُعَاقَبُ عَلَى تَرْكِهِ",
+          "read": "Al-waajibu maa yuthaabu 'alaa fi'lihi wa yu'aaqabu 'alaa tarkihi",
+          "meaning": "Wajib adalah apa yang diberi pahala jika dikerjakan dan dihukum/diberi dosa jika ditinggalkan.",
+          "note": "Kata 'الْوَاجِبُ' adalah Isim Fa'il/Mubtada' (Subjek), 'مَا' adalah Isim Mashul, 'يُثَابُ' adalah Fi'il Mudhari' Majhul (Pasif: Diberi pahala)."
+        },
+        {
+          "arabic": "الْحَرَامُ مَا يُثَابُ عَلَى تَرْكِهِ وَيُعَاقَبُ عَلَى فِعْلِهِ",
+          "read": "Al-haraamu maa yuthaabu 'alaa tarkihi wa yu'aaqabu 'alaa fi'lihi",
+          "meaning": "Haram adalah apa yang diberi pahala jika ditinggalkan dan dihukum jika dikerjakan.",
+          "note": "Kebalikan dari Wajib. Perhatikan perubahan posisi 'تَرْكِهِ' (meninggalkannya) dan 'فِعْلِهِ' (mengerjakannya)."
+        }
+      ],
+      "actionTip": "Hafalkan definisi Wajib dan Haram di atas beserta pola bahasa Arabnya, karena definisi ini selalu diulang dalam kitab-kitab Ushul Fiqih seperti Matan Al-Waraqat."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Kaidah Perintah (Al-Amru): Menemukan Hukum Wajib",
+      "explanation": "Bagaimana para ulama menyimpulkan bahwa shalat itu Wajib? Mereka menggunakan kaidah 'Al-Amru' (Kalimat Perintah). Rumus dasarnya: Setiap bentuk perintah asal hukumnya menunjukkan kewajiban, kecuali ada dalil lain yang memalingkannya menjadi sunnah.",
+      "examples": [
+        {
+          "arabic": "الأَصْلُ فِي الأَمْرِ لِلْوُجُوبِ",
+          "read": "Al-aslu fil-amri lil-wujuubi",
+          "meaning": "Hukum asal dari sebuah perintah adalah menunjukkan Wajib.",
+          "note": "Kaidah emas dalam Ushul Fiqih. 'الأَصْلُ' (Asal/Pondasi), 'الأَمْرِ' (Perintah), 'لِلْوُجُوبِ' (Untuk Kewajiban)."
+        },
+        {
+          "arabic": "وَأَقِيمُوا الصَّلَاةَ",
+          "read": "Wa aqiimus-shalaata",
+          "meaning": "Dan dirikanlah oleh kalian akan shalat.",
+          "note": "'أَقِيمُوا' adalah Fi'il Amar (Kata Kerja Perintah) untuk jamak. Karena ada perintah, maka hukum shalat menjadi WAJIB."
+        }
+      ],
+      "actionTip": "Setiap kali Anda membaca Al-Qur'an dan menemukan kata kerja bentuk Perintah (Fi'il Amar), langsung ingat bahwa hukum asalnya adalah WAJIB!"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Kaidah Larangan (An-Nahyu): Menemukan Hukum Haram",
+      "explanation": "Kebalikan dari perintah adalah larangan (An-Nahyu). Rumus praktisnya: Setiap kata yang mengandung larangan melarang sesuatu, hukum asalnya adalah HARAM untuk dikerjakan.",
+      "examples": [
+        {
+          "arabic": "الأَصْلُ فِي النَّهْيِ لِلتَّحْرِيمِ",
+          "read": "Al-aslu fin-nahyi lit-tahriimi",
+          "meaning": "Hukum asal dari suatu larangan adalah menunjukkan Haram.",
+          "note": "'النَّهْيِ' bermakna larangan (biasanya diawali huruf Laa Nahiyah + Fi'il Mudhari'). 'لِلتَّحْرِيمِ' artinya untuk pengharaman."
+        },
+        {
+          "arabic": "وَلَا تَقْرَبُوا الزِّنَى",
+          "read": "Wa laa taqrabuz-zinaa",
+          "meaning": "Dan janganlah kalian mendekati zina.",
+          "note": "'لَا تَقْرَبُوا' adalah Laa Nahiyah (Jangan) + Fi'il Mudhari'. Karena berbentuk larangan, maka mendekati zina hukumnya HARAM."
+        }
+      ],
+      "actionTip": "Cari bentuk 'لا' (Jangan) yang diikuti kata kerja di Al-Qur'an, itu adalah tanda tegas bahwa perbuatan tersebut bernilai Haram."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Cakupan Lafazh: Mana yang Umum ('Am) dan Khusus (Khash)",
+      "explanation": "Teks syariat ada yang sifatnya mencakup semua orang/kejadian (Lafazh 'Am / Umum), dan ada yang hanya berlaku untuk orang/kondisi tertentu (Lafazh Khash / Khusus). Menyaring mana yang umum dan khusus adalah keahlian utama ahli Ushul Fiqih.",
+      "examples": [
+        {
+          "arabic": "إِنَّ الْإِنْسَانَ لَفِي خُسْرٍ",
+          "read": "Innal-insaana lafii khusr",
+          "meaning": "Sungguh, seluruh manusia itu benar-benar berada dalam kerugian.",
+          "note": "Kata 'الْإِنْسَانَ' diawali Alif Lam (ال) Istighraqiyah, yang berarti mencakup SELURUH manusia tanpa terkecuali (Lafazh 'Am)."
+        },
+        {
+          "arabic": "إِلَّا الَّذِينَ آمَنُوا",
+          "read": "Illal-ladhiina aamanuu",
+          "meaning": "Kecuali orang-orang yang beriman.",
+          "note": "Kata 'إِلَّا' (Kecuali) adalah alat Takhsish (pengecualian) yang mengeluarkan orang beriman dari hukum rugi tersebut (Lafazh Khash)."
+        }
+      ],
+      "actionTip": "Perhatikan kata kunci umum seperti 'كُلّ' (Setiap/Semua) atau 'ال' (Seluruh), dan kata pengecualian seperti 'إِلَّا' (Kecuali)."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Mengenal Dalil Kesepakatan dan Analogi: Ijma' & Qiyas",
+      "explanation": "Jika suatu masalah baru tidak tertulis secara eksplisit kata-per-kata di Al-Qur'an/Hadis (seperti narkoba, zakat beras), ulama menggunakan Ijma' (Konsensus Ulama) atau Qiyas (Analogi Hukum berdasarkan persamaan 'Illat/sebab).",
+      "examples": [
+        {
+          "arabic": "الْإِجْمَاعُ حُجَّةٌ قَاطِعَةٌ",
+          "read": "Al-ijmaa'u hujjatu qaathi'atun",
+          "meaning": "Ijma' (kesepakatan ulama) adalah argumentasi hukum yang pasti.",
+          "note": "'الْإِجْمَاعُ' adalah Mubtada' (Subjek), 'حُجَّةٌ' adalah Khabar (Predikat), 'قَاطِعَةٌ' adalah Sifat/Na'at (yang pasti)."
+        },
+        {
+          "arabic": "الْقِيَاسُ إِلْحَاقُ فَرْعٍ بِأَصْلٍ فِي حُكْمٍ",
+          "read": "Al-qiyaasu ilhaaqu far'in bi-ashlin fii hukmin",
+          "meaning": "Qiyas adalah menyamakan kasus cabang (baru) dengan kasus pokok (lama) dalam hukumnya.",
+          "note": "Contoh: Mengkiaskan Narkoba (Far'un) dengan Khamar (Ashl) karena sama-sama memabukkan ('Illat), sehingga hukumnya sama-sama HARAM."
+        }
+      ],
+      "actionTip": "Gunakan rumus Qiyas sederhana: [Masalah Baru] + [Masalah Lama di Qur'an] + [Sebab Sama] = [Hukum Sama]."
+    }
+  ],
   "sections": [
     {
-      "title": "Hakikat Ushul Fiqih dan Perannya",
-      "content": "Ushul Fiqih secara etimologi terdiri dari dua kata: 'Ushul' (dasar/fondasi) dan 'Fiqih' (pemahaman mendalam). Dalam kurikulum pesantren, ia dipelajari sebagai 'ilmu alat' yang berfungsi menjaga akal agar tidak salah dalam memahami nash Al-Qur'an dan As-Sunnah. Jika Fiqih adalah produk hukumnya (seperti wajib, sunnah, haram), maka Ushul Fiqih adalah pabrik atau mesin yang mengolah bahan mentah (dalil) menjadi produk tersebut."
-    },
-    {
-      "title": "Struktur Hierarki Dalil (Al-Adillah As-Syar'iyyah)",
-      "content": "Pembahasan utama dalam kitab kuning Ushul Fiqih diawali dengan pengenalan dalil-dalil hukum. Terbagi menjadi dua kategori: 1) Dalil Muttafaq (disepakati) yang meliputi Al-Qur'an, Al-Hadits, Ijma', dan Qiyas. 2) Dalil Mukhtalaf (diperselisihkan) seperti Istihsan, Maslahah Mursalah, Urf, dan Syar'u Man Qablana. Pemahaman terhadap hierarki ini penting agar seorang penuntut ilmu tidak sembarang dalam mengunggulkan satu dalil di atas dalil lainnya."
-    },
-    {
-      "title": "Kaidah Kebahasaan (Lughawiyyah) dalam Istinbath",
-      "content": "Kitab kuning menekankan bahwa hukum tidak bisa lepas dari bahasa. Di sini dipelajari konsep Amr (perintah) yang pada dasarnya menunjukkan kewajiban, Nahy (larangan) yang menunjukkan keharaman, serta 'Amm (umum) dan Khash (khusus). Kemampuan membedakan apakah sebuah teks bersifat mutlaq (tanpa batasan) atau muqayyad (dibatasi) menjadi kunci utama dalam menghindari penafsiran yang tekstualis-kaku atau liberal-liar."
-    },
-    {
-      "title": "Jenjang Kitab Rujukan (Marhalah)",
-      "content": "Pembelajaran dilakukan secara bertahap: 1) Tingkat Pemula: Mabadi' al-Awwaliyah karya Syeikh Abdul Hamid Hakim yang lugas. 2) Tingkat Menengah: Al-Waraqat karya Imam al-Haramain al-Juwayni yang ringkas namun padat. 3) Tingkat Lanjut: Lathaif al-Isyarat atau Jam'ul Jawami' karya Imam As-Subki yang mengulas perdebatan lintas madzhab secara mendalam."
+      "title": "Ringkasan Kaidah Penting Ushul Fiqih yang Wajib Dihafal",
+      "content": "1. الأَصْلُ فِي الأَمْرِ لِلْوُجُوبِ (Perintah asal hukumnya Wajib)\n2. الأَصْلُ فِي النَّهْيِ لِلتَّحْرِيمِ (Larangan asal hukumnya Haram)\n3. العَادَةُ مُحَكَّمَةٌ (Adat istiadat bisa menjadi pertimbangan hukum)\n4. اليَقِينُ لَا يَزُولُ بِالشَّكِّ (Keyakinan tidak bisa digoyahkan oleh keraguan)\n5. المَشَقَّةُ تَجْلِبُ التَّيْسِيرَ (Kesulitan membawa kepada kemudahan/rukhsah)"
     }
   ],
   "tips": [
-    "Kuasai Ilmu Nahwu dan Sharf terlebih dahulu, karena teks Ushul Fiqih sangat bergantung pada struktur bahasa Arab.",
-    "Gunakan metode Talaqqi (belajar langsung di bawah bimbingan guru) untuk menghindari salah paham dalam logika mantig (logika formal).",
-    "Latihlah dengan mencari contoh kasus (Tathbiq) kontemporer untuk setiap kaidah yang dipelajari agar ilmu tidak sekadar teori.",
-    "Hafalkan matan-matan ringkas seperti Al-Waraqat untuk mengunci kerangka berpikir dalam otak."
+    "Pahami logika hukumnya terlebih dahulu sebelum menghafal istilah Arabnya.",
+    "Latih kemampuan membaca Kitab Kuning tanpa harakat dengan sering mencocokkan kata-kata kunci Ushul Fiqih seperti (الأصل, الأمر, النهي, العام, الخاص).",
+    "Gunakan kaidah Ushul Fiqih saat membaca Al-Qur'an untuk memahami ALASAN di balik penetapan suatu hukum Fiqih."
   ],
-  "summary": "Mempelajari Ushul Fiqih melalui kitab kuning adalah upaya melestarikan tradisi intelektual Islam yang presisi. Dengan memahami kaidah istinbath, seorang Muslim tidak hanya tahu 'apa' hukumnya, tetapi juga mengerti 'mengapa' dan 'bagaimana' hukum tersebut dirumuskan, sehingga melahirkan sikap beragama yang moderat dan berbasis argumentasi kuat."
+  "summary": "Selamat! Anda telah mempelajari konsep dasar dan kaidah-kaidah utama Ushul Fiqih. Dengan memahami rumus-rumus sederhana ini, membaca dan menganalisis Kitab Kuning tidak lagi menjadi hal yang menakutkan, melainkan sebuah proses berpikir ilmiah yang sangat sistematis dan indah. Kuncinya adalah istiqamah dan terus berlatih membaca teks-teks klasik!"
 }
