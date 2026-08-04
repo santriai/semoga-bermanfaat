@@ -1,11 +1,11 @@
 {
-  "question": "Dalam diskursus Fiqih Syafi'iyyah, apa hukum menggunakan 'Air Musyammas' (air yang terjemur matahari dalam wadah logam selain emas dan perak) untuk bersuci pada anggota tubuh?",
+  "question": "Dalam diskursus Fiqih Syafi'iyah, air yang telah digunakan untuk basuhan kedua atau ketiga pada anggota wudhu (yang hukumnya sunnah) dan volumenya kurang dari dua qullah, maka status hukum air tersebut adalah...",
   "options": [
-    "Makruh",
-    "Haram",
-    "Mubah (Boleh)",
-    "Sunnah"
+    "Najis (Mutanajjis) karena telah bercampur dengan bekas anggota tubuh",
+    "Musta'mal (Suci namun tidak dapat mensucikan)",
+    "Mutlaq (Suci dan tetap dapat mensucikan)",
+    "Makruh (Boleh digunakan namun dibenci)"
   ],
-  "correctIndex": 0,
-  "explanation": "Berdasarkan penjelasan dalam kitab Fathul Qarib, air musyammas dihukumi makruh tanzih untuk digunakan pada badan karena dikhawatirkan dapat menyebabkan penyakit kusta (baras). Hukum makruh ini berlaku dengan syarat: air berada di daerah beriklim panas, disimpan dalam wadah logam yang dapat berkarat (selain emas dan perak), dan digunakan saat air tersebut masih dalam kondisi panas."
+  "correctIndex": 2,
+  "explanation": "Berdasarkan literatur Kitab Kuning (seperti Fathul Qarib dan Fathul Mu'in), air menjadi 'Musta'mal' hanya jika digunakan untuk basuhan yang wajib (fardhu) dalam mengangkat hadats. Karena basuhan kedua dan ketiga dalam wudhu hukumnya sunnah, maka air tersebut tidak kehilangan sifat mensucikannya dan tetap berstatus air Mutlaq (Thahir Mutahhir)."
 }
