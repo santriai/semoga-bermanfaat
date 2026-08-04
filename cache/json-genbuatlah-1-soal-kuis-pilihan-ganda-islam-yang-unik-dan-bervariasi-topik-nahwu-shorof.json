@@ -1,11 +1,11 @@
 {
-  "question": "Dalam disiplin ilmu Nahwu, pada bab al-Isytighal (الاشتغال), manakah kondisi yang MENYEBABKAN isim yang terletak di awal kalimat (sebelum fi'il) WAJIB dibaca Nashab?",
+  "question": "Dalam kaidah Nahwu, jika kita ingin menunjuk sebuah benda yang bersifat 'Muannats' (feminin) dan letaknya dekat, manakah Isim Isyarah yang benar untuk melengkapi kalimat '.... مَكْتَبَةٌ' (.... adalah sebuah perpustakaan)?",
   "options": [
-    "Jika isim tersebut didahului oleh piranti (adat) yang khusus masuk pada fi'il, seperti kata syarat (إِنْ) atau tahdhidh (هَلَّا)",
-    "Jika isim tersebut didahului oleh Hamzah Istifham (أ) dan setelah fi'il terdapat isim amir (dhamir muttashil)",
-    "Jika fi'il yang beramal pada dhamir didahului oleh Wawu Athaf yang menghubungkannya dengan jumlah fi'liyyah",
-    "Jika isim tersebut berfungsi sebagai khabar mu'akhar dari mubtada' yang dibuang pada struktur kalimat syarthiyyah"
+    "هَذَا (Hadza)",
+    "هَذِهِ (Hadzihi)",
+    "ذَلِكَ (Dzalika)",
+    "تِلْكَ (Tilka)"
   ],
-  "correctIndex": 0,
-  "explanation": "Dalam kaidah bab al-Isytighal, isim yang terletak sebelum fi'il WAJIB dibaca nashab (dikira-kirakan sebagai maf'ul bih dari fi'il yang terbuang/mahdzuf) apabila isim tersebut berada setelah piranti (adat) yang khusus masuk pada fi'il, seperti In Syarthiyyah (إِنْ) atau Halla (هَلَّا). Sebab, piranti tersebut secara kaidah tata bahasa Arab menuntut keberadaan fi'il langsung setelahnya baik secara lafazh maupun taqdir."
+  "correctIndex": 1,
+  "explanation": "Kata 'مَكْتَبَةٌ' (Maktabatun) merupakan Isim Muannats karena memiliki tanda Ta' Marbuthah (ة) di akhirnya. Dalam ilmu Nahwu, Isim Isyarah (kata tunjuk) yang digunakan untuk benda Muannats dalam jarak dekat adalah 'هَذِهِ' (Hadzihi). Pilihan 'هَذَا' digunakan untuk Mudzakkar (maskulin) dekat, 'ذَلِكَ' untuk Mudzakkar jauh, dan 'تِلْكَ' untuk Muannats jauh."
 }
