@@ -1,11 +1,11 @@
 {
-  "question": "Dalam disiplin ilmu Musthalah Hadits, apabila pada sanad suatu hadits terdapat dua orang perawi atau lebih yang gugur (terputus) secara berurutan, maka status hadits tersebut dinamakan...",
+  "question": "Dalam sistematika penulisan sebuah hadits, terdapat bagian yang berisi redaksi kalimat atau isi pesan yang disampaikan oleh Rasulullah SAW. Apakah istilah yang tepat untuk menyebut bagian isi teks hadits tersebut?",
   "options": [
-    "Hadits Mursal",
-    "Hadits Mu'dhal",
-    "Hadits Munqati'",
-    "Hadits Mu'allaq"
+    "Sanad",
+    "Matan",
+    "Rawi",
+    "Makhraj"
   ],
   "correctIndex": 1,
-  "explanation": "Hadits Mu'dhal (المعضل) menurut istilah para ahli hadits (seperti Ibnu Hajar al-'Asqalani dalam Nukhbatul Fikar) adalah hadits yang sanadnya terputus karena gugurnya dua orang perawi atau lebih secara berturut-turut. Berbeda dengan Mursal (terputus pada tingkat sahabat), Munqati' (terputus satu perawi saja atau tidak berurutan), dan Mu'allaq (terputus dari awal sanad oleh mukharrij)."
+  "explanation": "Dalam ilmu Mustalah al-Hadits, Matan adalah redaksi atau isi pesan (kalam) yang terletak di akhir sanad. Sedangkan Sanad adalah silsilah atau rantai para perawi yang menghubungkan kita kepada isi hadits tersebut. Rawi adalah orang yang meriwayatkannya, dan Makhraj adalah tempat keluarnya hadits (sumber kitab)."
 }
