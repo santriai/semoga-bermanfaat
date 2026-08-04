@@ -1,7 +1,252 @@
-{
-  "syarah": "[\n  {\n    \"name\": \"Siraj at-Thalibin\",\n    \"author\": \"Syaikh Ihsan Muhammad Dahlan al-Jampasi\",\n    \"desc\": \"Syarah kitab Minhajul Abidin yang membahas tahapan ibadah dan penyucian jiwa.\"\n  },\n  {\n    \"name\": \"Al-Fath al-Rabbani wa al-Fayd al-Rahmani\",\n    \"author\": \"Syaikh Abdul Qadir al-Jilani\",\n    \"desc\": \"Kumpulan nasihat spiritual dan khotbah penyuci jiwa dari Syekh Abdul Qadir.\"\n  },\n  {\n    \"name\": \"Sirr al-Asrar fi Ma Yahtaj Ilaih al-Abrar\",\n    \"author\": \"Syaikh Abdul Qadir al-Jilani\",\n    \"desc\": \"Panduan tasawuf mendalam mengenai rahasia-rahasia ruhani dan perjalanan spiritual.\"\n  },\n  {\n    \"name\": \"Risalah al-Mustarsyidin\",\n    \"author\": \"Al-Harits al-Muhasibi\",\n    \"desc\": \"Panduan murni akhlak, pengawasan diri (muraqabah), dan mawas diri (muhasabah).\"\n  },\n  {\n    \"name\": \"Talbis Iblis\",\n    \"author\": \"Ibn al-Jauzi\",\n    \"desc\": \"Peringatan atas tipu daya Iblis yang sering mengecoh ahli ibadah dan penuntut ilmu.\"\n  },\n  {\n    \"name\": \"Shifatus Safwah\",\n    \"author\": \"Ibn al-Jauzi\",\n    \"desc\": \"Kisah keteladanan, akhlak, dan kepribadian para Nabi, Sahabat, dan wali Allah.\"\n  },\n  {\n    \"name\": \"Dhamm al-Hawa\",\n    \"author\": \"Ibn al-Jauzi\",\n    \"desc\": \"Kajian mendalam tentang bahaya memperturutkan hawa nafsu dan cara menundukkannya.\"\n  },\n  {\n    \"name\": \"Tanbih al-Mughtarrin\",\n    \"author\": \"Abdul Wahhab asy-Sya'rani\",\n    \"desc\": \"Peringatan bagi orang-orang terperdaya agar kembali pada akhlak Salafush Shalih.\"\n  },\n  {\n    \"name\": \"Lawaqih al-Anwar al-Qudsiyyah\",\n    \"author\": \"Abdul Wahhab asy-Sya'rani\",\n    \"desc\": \"Prinsip etika spiritual dan ikrar janji para sufi dalam menjaga ketaatan.\"\n  },\n  {\n    \"name\": \"Al-Bahr al-Mawrud fi al-Mawathiq wa al-'Uhud\",\n    \"author\": \"Abdul Wahhab asy-Sya'rani\",\n    \"desc\": \"Komitmen spiritual dan janji-janji akhlak sufi dalam menjalani kehidupan bermasyarakat.\"\n  },\n  {\n    \"name\": \"Miftah al-Falah wa Misbah al-Arwah\",\n    \"author\": \"Ibn 'Ata'illah al-Iskandari\",\n    \"desc\": \"Keutamaan zikir dan tata cara pembersihan jiwa untuk mendekatkan diri kepada Allah.\"\n  },\n  {\n    \"name\": \"Al-Qasdh al-Mujarrad fi Ma'rifat al-Ism al-Mufrad\",\n    \"author\": \"Ibn 'Ata'illah al-Iskandari\",\n    \"desc\": \"Pembahasan tasawuf mengenai rahasia dan keagungan nama Allah (Lafdzul Jalalah).\"\n  },\n  {\n    \"name\": \"Mizan al-'Amal\",\n    \"author\": \"Abu Hamid al-Ghazali\",\n    \"desc\": \"Timbangan amal untuk mencapai kebahagiaan akhlak dan keseimbangan keilmuan.\"\n  },\n  {\n    \"name\": \"Raudhat at-Thalibin wa 'Umdat al-Salikin\",\n    \"author\": \"Abu Hamid al-Ghazali\",\n    \"desc\": \"Panduan praktis bagi penempuh jalan spiritual menuju ma'rifatullah.\"\n  },\n  {\n    \"name\": \"Kimiya' as-Sa'adah\",\n    \"author\": \"Abu Hamid al-Ghazali\",\n    \"desc\": \"Kajian tentang alkimia kebahagiaan sejati melalui pengenalan diri dan Tuhan.\"\n  },\n  {\n    \"name\": \"Taisir al-Khallaq fi 'Ilm al-Akhlaq\",\n    \"author\": \"Hafizh Hasan al-Mas'udi\",\n    \"desc\": \"Ringkasan dasar-dasar ilmu akhlak mulia bagi para pelajar pemula.\"\n  },\n  {\n    \"name\": \"Al-Akhlaq li al-Banin\",\n    \"author\": \"Umar bin Ahmad Baradja\",\n    \"desc\": \"Panduan akhlak terapan sehari-hari untuk anak-anak dan pemuda Muslim.\"\n  },\n  {\n    \"name\": \"Wasaya al-Aba' lil Abna'\",\n    \"author\": \"Muhammad Syakir al-Iskandari\",\n    \"desc\": \"Wasiat dan nasihat orang tua kepada anak tentang pembentukan karakter islami.\"\n  },\n  {\n    \"name\": \"Al-Madkhal\",\n    \"author\": \"Ibn al-Hajj al-Abdari\",\n    \"desc\": \"Pedoman perilaku, etika pergaulan, dan larangan bid'ah dalam keseharian.\"\n  },\n  {\n    \"name\": \"Kitab az-Zuhd\",\n    \"author\": \"Abdullah bin al-Mubarak\",\n    \"desc\": \"Kumpulan riwayat salaf tentang kesederhanaan, kerendahan hati, dan zuhud.\"\n  },\n  {\n    \"name\": \"Kitab az-Zuhd\",\n    \"author\": \"Ahmad bin Hanbal\",\n    \"desc\": \"Himpunan atsar salafus shalih mengenai perilaku tidak silau dunia.\"\n  },\n  {\n    \"name\": \"Makarim al-Akhlaq\",\n    \"author\": \"Ibn Abi ad-Dunya\",\n    \"desc\": \"Kumpulan hadis dan riwayat tentang keluhuran budi pekerti manusia.\"\n  },\n  {\n    \"name\": \"Al-Sabil al-Maddakar\",\n    \"author\": \"Habib Abdullah bin Alawi al-Haddad\",\n    \"desc\": \"Peringatan dan dorongan spiritual untuk memperbanyak bekal akhirat.\"\n  },\n  {\n    \"name\": \"Al-Fusul al-Ilmiyyah wa al-Usul al-Imaniyyah\",\n    \"author\": \"Habib Abdullah bin Alawi al-Haddad\",\n    \"desc\": \"Prinsip-prinsip keimanan, penyucian hati, dan penyempurnaan akhlak.\"\n  },\n  {\n    \"name\": \"Al-Mabahith al-Asliyyah\",\n    \"author\": \"Ahmad bin 'Ajiba\",\n    \"desc\": \"Syarah atas kaidah-kaidah ilmu tasawuf dan tata cara tazkiyatun nufs.\"\n  },\n  {\n    \"name\": \"Al-Mi'raj ila Ma'arij al-Tasawwuf\",\n    \"author\": \"Ahmad bin 'Ajiba\",\n    \"desc\": \"Tangga naik spiritual dan tahapan maqamat dalam jalan sufi.\"\n  },\n  {\n    \"name\": \"Al-Hadiqat an-Nadiyyah\",\n    \"author\": \"Abdul Ghani an-Nablusi\",\n    \"desc\": \"Syarah rinci mengenai penyucian jiwa dan etika dalam At-Thariqah al-Muhammadiyyah.\"\n  },\n  {\n    \"name\": \"At-Thariqah al-Muhammadiyyah\",\n    \"",
-  "modernTranslation": "[\n  {\n    \"name\": \"Siraj at-Thalibin\",\n    \"author\": \"Syaikh Ihsan Muhammad Dahlan al-Jampasi\",\n    \"desc\": \"Syarah kitab Minhajul Abidin yang membahas tahapan ibadah dan penyucian jiwa.\"\n  },\n  {\n    \"name\": \"Al-Fath al-Rabbani wa al-Fayd al-Rahmani\",\n    \"author\": \"Syaikh Abdul Qadir al-Jilani\",\n    \"desc\": \"Kumpulan nasihat spiritual dan khotbah penyuci jiwa dari Syekh Abdul Qadir.\"\n  },\n  {\n    \"name\": \"Sirr al-Asrar fi Ma Yahtaj Ilaih al-Abrar\",\n    \"author\": \"Syaikh Abdul Qadir al-Jilani\",\n    \"desc\": \"Panduan tasawuf mendalam mengenai rahasia-rahasia ruhani dan perjalanan spiritual.\"\n  },\n  {\n    \"name\": \"Risalah al-Mustarsyidin\",\n    \"author\": \"Al-Harits al-Muhasibi\",\n    \"desc\": \"Panduan murni akhlak, pengawasan diri (muraqabah), dan mawas diri (muhasabah).\"\n  },\n  {\n    \"name\": \"Talbis Iblis\",\n    \"author\": \"Ibn al-Jauzi\",\n    \"desc\": \"Peringatan atas tipu daya Iblis yang sering mengecoh ahli ibadah dan penuntut ilmu.\"\n  },\n  {\n    \"name\": \"Shifatus Safwah\",\n    \"author\": \"Ibn al-Jauzi\",\n    \"desc\": \"Kisah keteladanan, akhlak, dan kepribadian para Nabi, Sahabat, dan wali Allah.\"\n  },\n  {\n    \"name\": \"Dhamm al-Hawa\",\n    \"author\": \"Ibn al-Jauzi\",\n    \"desc\": \"Kajian mendalam tentang bahaya memperturutkan hawa nafsu dan cara menundukkannya.\"\n  },\n  {\n    \"name\": \"Tanbih al-Mughtarrin\",\n    \"author\": \"Abdul Wahhab asy-Sya'rani\",\n    \"desc\": \"Peringatan bagi orang-orang terperdaya agar kembali pada akhlak Salafush Shalih.\"\n  },\n  {\n    \"name\": \"Lawaqih al-Anwar al-Qudsiyyah\",\n    \"author\": \"Abdul Wahhab asy-Sya'rani\",\n    \"desc\": \"Prinsip etika spiritual dan ikrar janji para sufi dalam menjaga ketaatan.\"\n  },\n  {\n    \"name\": \"Al-Bahr al-Mawrud fi al-Mawathiq wa al-'Uhud\",\n    \"author\": \"Abdul Wahhab asy-Sya'rani\",\n    \"desc\": \"Komitmen spiritual dan janji-janji akhlak sufi dalam menjalani kehidupan bermasyarakat.\"\n  },\n  {\n    \"name\": \"Miftah al-Falah wa Misbah al-Arwah\",\n    \"author\": \"Ibn 'Ata'illah al-Iskandari\",\n    \"desc\": \"Keutamaan zikir dan tata cara pembersihan jiwa untuk mendekatkan diri kepada Allah.\"\n  },\n  {\n    \"name\": \"Al-Qasdh al-Mujarrad fi Ma'rifat al-Ism al-Mufrad\",\n    \"author\": \"Ibn 'Ata'illah al-Iskandari\",\n    \"desc\": \"Pembahasan tasawuf mengenai rahasia dan keagungan nama Allah (Lafdzul Jalalah).\"\n  },\n  {\n    \"name\": \"Mizan al-'Amal\",\n    \"author\": \"Abu Hamid al-Ghazali\",\n    \"desc\": \"Timbangan amal untuk mencapai kebahagiaan akhlak dan keseimbangan keilmuan.\"\n  },\n  {\n    \"name\": \"Raudhat at-Thalibin wa 'Umdat al-Salikin\",\n    \"author\": \"Abu Hamid al-Ghazali\",\n    \"desc\": \"Panduan praktis bagi penempuh jalan spiritual menuju ma'rifatullah.\"\n  },\n  {\n    \"name\": \"Kimiya' as-Sa'adah\",\n    \"author\": \"Abu Hamid al-Ghazali\",\n    \"desc\": \"Kajian tentang alkimia kebahagiaan sejati melalui pengenalan diri dan Tuhan.\"\n  },\n  {\n    \"name\": \"Taisir al-Khallaq fi 'Ilm al-Akhlaq\",\n    \"author\": \"Hafizh Hasan al-Mas'udi\",\n    \"desc\": \"Ringkasan dasar-dasar ilmu akhlak mulia bagi para pelajar pemula.\"\n  },\n  {\n    \"name\": \"Al-Akhlaq li al-Banin\",\n    \"author\": \"Umar bin Ahmad Baradja\",\n    \"desc\": \"Panduan akhlak terapan sehari-hari untuk anak-anak dan pemuda Muslim.\"\n  },\n  {\n    \"name\": \"Wasaya al-Aba' lil Abna'\",\n    \"author\": \"Muhammad Syakir al-Iskandari\",\n    \"desc\": \"Wasiat dan nasihat orang tua kepada anak tentang pembentukan karakter islami.\"\n  },\n  {\n    \"name\": \"Al-Madkhal\",\n    \"author\": \"Ibn al-Hajj al-Abdari\",\n    \"desc\": \"Pedoman perilaku, etika pergaulan, dan larangan bid'ah dalam keseharian.\"\n  },\n  {\n    \"name\": \"Kitab az-Zuhd\",\n    \"author\": \"Abdullah bin al-Mubarak\",\n    \"desc\": \"Kumpulan riwayat salaf tentang kesederhanaan, kerendahan hati, dan zuhud.\"\n  },\n  {\n    \"name\": \"Kitab az-Zuhd\",\n    \"author\": \"Ahmad bin Hanbal\",\n    \"desc\": \"Himpunan atsar salafus shalih mengenai perilaku tidak silau dunia.\"\n  },\n  {\n    \"name\": \"Makarim al-Akhlaq\",\n    \"author\": \"Ibn Abi ad-Dunya\",\n    \"desc\": \"Kumpulan hadis dan riwayat tentang keluhuran budi pekerti manusia.\"\n  },\n  {\n    \"name\": \"Al-Sabil al-Maddakar\",\n    \"author\": \"Habib Abdullah bin Alawi al-Haddad\",\n    \"desc\": \"Peringatan dan dorongan spiritual untuk memperbanyak bekal akhirat.\"\n  },\n  {\n    \"name\": \"Al-Fusul al-Ilmiyyah wa al-Usul al-Imaniyyah\",\n    \"author\": \"Habib Abdullah bin Alawi al-Haddad\",\n    \"desc\": \"Prinsip-prinsip keimanan, penyucian hati, dan penyempurnaan akhlak.\"\n  },\n  {\n    \"name\": \"Al-Mabahith al-Asliyyah\",\n    \"author\": \"Ahmad bin 'Ajiba\",\n    \"desc\": \"Syarah atas kaidah-kaidah ilmu tasawuf dan tata cara tazkiyatun nufs.\"\n  },\n  {\n    \"name\": \"Al-Mi'raj ila Ma'arij al-Tasawwuf\",\n    \"author\": \"Ahmad bin 'Ajiba\",\n    \"desc\": \"Tangga naik spiritual dan tahapan maqamat dalam jalan sufi.\"\n  },\n  {\n    \"name\": \"Al-Hadiqat an-Nadiyyah\",\n    \"author\": \"Abdul Ghani an-Nablusi\",\n    \"desc\": \"Syarah rinci mengenai penyucian jiwa dan etika dalam At-Thariqah al-Muhammadiyyah.\"\n  },\n  {\n    \"name\": \"At-Thariqah al-Muhammadiyyah\",\n    \"",
-  "maknaGandul": "Makna gandul otomatis belum dapat dimuat secara rinci.",
-  "nahwuShorof": "Periksa kitab syarah untuk analisis i'rab mendalam.",
-  "aiExplanation": "[\n  {\n    \"name\": \"Siraj at-Thalibin\",\n    \"author\": \"Syaikh Ihsan Muhammad Dahlan al-Jampasi\",\n    \"desc\": \"Syarah kitab Minhajul Abidin yang membahas tahapan ibadah dan penyucian jiwa.\"\n  },\n  {\n    \"name\": \"Al-Fath al-Rabbani wa al-Fayd al-Rahmani\",\n    \"author\": \"Syaikh Abdul Qadir al-Jilani\",\n    \"desc\": \"Kumpulan nasihat spiritual dan khotbah penyuci jiwa dari Syekh Abdul Qadir.\"\n  },\n  {\n    \"name\": \"Sirr al-Asrar fi Ma Yahtaj Ilaih al-Abrar\",\n    \"author\": \"Syaikh Abdul Qadir al-Jilani\",\n    \"desc\": \"Panduan tasawuf mendalam mengenai rahasia-rahasia ruhani dan perjalanan spiritual.\"\n  },\n  {\n    \"name\": \"Risalah al-Mustarsyidin\",\n    \"author\": \"Al-Harits al-Muhasibi\",\n    \"desc\": \"Panduan murni akhlak, pengawasan diri (muraqabah), dan mawas diri (muhasabah).\"\n  },\n  {\n    \"name\": \"Talbis Iblis\",\n    \"author\": \"Ibn al-Jauzi\",\n    \"desc\": \"Peringatan atas tipu daya Iblis yang sering mengecoh ahli ibadah dan penuntut ilmu.\"\n  },\n  {\n    \"name\": \"Shifatus Safwah\",\n    \"author\": \"Ibn al-Jauzi\",\n    \"desc\": \"Kisah keteladanan, akhlak, dan kepribadian para Nabi, Sahabat, dan wali Allah.\"\n  },\n  {\n    \"name\": \"Dhamm al-Hawa\",\n    \"author\": \"Ibn al-Jauzi\",\n    \"desc\": \"Kajian mendalam tentang bahaya memperturutkan hawa nafsu dan cara menundukkannya.\"\n  },\n  {\n    \"name\": \"Tanbih al-Mughtarrin\",\n    \"author\": \"Abdul Wahhab asy-Sya'rani\",\n    \"desc\": \"Peringatan bagi orang-orang terperdaya agar kembali pada akhlak Salafush Shalih.\"\n  },\n  {\n    \"name\": \"Lawaqih al-Anwar al-Qudsiyyah\",\n    \"author\": \"Abdul Wahhab asy-Sya'rani\",\n    \"desc\": \"Prinsip etika spiritual dan ikrar janji para sufi dalam menjaga ketaatan.\"\n  },\n  {\n    \"name\": \"Al-Bahr al-Mawrud fi al-Mawathiq wa al-'Uhud\",\n    \"author\": \"Abdul Wahhab asy-Sya'rani\",\n    \"desc\": \"Komitmen spiritual dan janji-janji akhlak sufi dalam menjalani kehidupan bermasyarakat.\"\n  },\n  {\n    \"name\": \"Miftah al-Falah wa Misbah al-Arwah\",\n    \"author\": \"Ibn 'Ata'illah al-Iskandari\",\n    \"desc\": \"Keutamaan zikir dan tata cara pembersihan jiwa untuk mendekatkan diri kepada Allah.\"\n  },\n  {\n    \"name\": \"Al-Qasdh al-Mujarrad fi Ma'rifat al-Ism al-Mufrad\",\n    \"author\": \"Ibn 'Ata'illah al-Iskandari\",\n    \"desc\": \"Pembahasan tasawuf mengenai rahasia dan keagungan nama Allah (Lafdzul Jalalah).\"\n  },\n  {\n    \"name\": \"Mizan al-'Amal\",\n    \"author\": \"Abu Hamid al-Ghazali\",\n    \"desc\": \"Timbangan amal untuk mencapai kebahagiaan akhlak dan keseimbangan keilmuan.\"\n  },\n  {\n    \"name\": \"Raudhat at-Thalibin wa 'Umdat al-Salikin\",\n    \"author\": \"Abu Hamid al-Ghazali\",\n    \"desc\": \"Panduan praktis bagi penempuh jalan spiritual menuju ma'rifatullah.\"\n  },\n  {\n    \"name\": \"Kimiya' as-Sa'adah\",\n    \"author\": \"Abu Hamid al-Ghazali\",\n    \"desc\": \"Kajian tentang alkimia kebahagiaan sejati melalui pengenalan diri dan Tuhan.\"\n  },\n  {\n    \"name\": \"Taisir al-Khallaq fi 'Ilm al-Akhlaq\",\n    \"author\": \"Hafizh Hasan al-Mas'udi\",\n    \"desc\": \"Ringkasan dasar-dasar ilmu akhlak mulia bagi para pelajar pemula.\"\n  },\n  {\n    \"name\": \"Al-Akhlaq li al-Banin\",\n    \"author\": \"Umar bin Ahmad Baradja\",\n    \"desc\": \"Panduan akhlak terapan sehari-hari untuk anak-anak dan pemuda Muslim.\"\n  },\n  {\n    \"name\": \"Wasaya al-Aba' lil Abna'\",\n    \"author\": \"Muhammad Syakir al-Iskandari\",\n    \"desc\": \"Wasiat dan nasihat orang tua kepada anak tentang pembentukan karakter islami.\"\n  },\n  {\n    \"name\": \"Al-Madkhal\",\n    \"author\": \"Ibn al-Hajj al-Abdari\",\n    \"desc\": \"Pedoman perilaku, etika pergaulan, dan larangan bid'ah dalam keseharian.\"\n  },\n  {\n    \"name\": \"Kitab az-Zuhd\",\n    \"author\": \"Abdullah bin al-Mubarak\",\n    \"desc\": \"Kumpulan riwayat salaf tentang kesederhanaan, kerendahan hati, dan zuhud.\"\n  },\n  {\n    \"name\": \"Kitab az-Zuhd\",\n    \"author\": \"Ahmad bin Hanbal\",\n    \"desc\": \"Himpunan atsar salafus shalih mengenai perilaku tidak silau dunia.\"\n  },\n  {\n    \"name\": \"Makarim al-Akhlaq\",\n    \"author\": \"Ibn Abi ad-Dunya\",\n    \"desc\": \"Kumpulan hadis dan riwayat tentang keluhuran budi pekerti manusia.\"\n  },\n  {\n    \"name\": \"Al-Sabil al-Maddakar\",\n    \"author\": \"Habib Abdullah bin Alawi al-Haddad\",\n    \"desc\": \"Peringatan dan dorongan spiritual untuk memperbanyak bekal akhirat.\"\n  },\n  {\n    \"name\": \"Al-Fusul al-Ilmiyyah wa al-Usul al-Imaniyyah\",\n    \"author\": \"Habib Abdullah bin Alawi al-Haddad\",\n    \"desc\": \"Prinsip-prinsip keimanan, penyucian hati, dan penyempurnaan akhlak.\"\n  },\n  {\n    \"name\": \"Al-Mabahith al-Asliyyah\",\n    \"author\": \"Ahmad bin 'Ajiba\",\n    \"desc\": \"Syarah atas kaidah-kaidah ilmu tasawuf dan tata cara tazkiyatun nufs.\"\n  },\n  {\n    \"name\": \"Al-Mi'raj ila Ma'arij al-Tasawwuf\",\n    \"author\": \"Ahmad bin 'Ajiba\",\n    \"desc\": \"Tangga naik spiritual dan tahapan maqamat dalam jalan sufi.\"\n  },\n  {\n    \"name\": \"Al-Hadiqat an-Nadiyyah\",\n    \"author\": \"Abdul Ghani an-Nablusi\",\n    \"desc\": \"Syarah rinci mengenai penyucian jiwa dan etika dalam At-Thariqah al-Muhammadiyyah.\"\n  },\n  {\n    \"name\": \"At-Thariqah al-Muhammadiyyah\",\n    \""
-}
+[
+  {
+    "name": "Sirr al-Asrar",
+    "author": "Syekh Abdul Qadir al-Jilani",
+    "desc": "Panduan tasawuf mendalam tentang rahasia spiritual dan tahapan penyucian jiwa menuju Allah."
+  },
+  {
+    "name": "Al-Fath al-Rabbani",
+    "author": "Syekh Abdul Qadir al-Jilani",
+    "desc": "Kumpulan nasihat dan khotbah penyejuk jiwa untuk memperkuat iman dan akhlak."
+  },
+  {
+    "name": "Risalat al-Mustarshidin",
+    "author": "Al-Harits al-Muhasibi",
+    "desc": "Kitab etika dan perbaikan akhlak dasar untuk pembimbing spiritual dan penuntut ilmu."
+  },
+  {
+    "name": "Kitab al-Zuhd",
+    "author": "Abdullah bin al-Mubarak",
+    "desc": "Kumpulan riwayat dan petunjuk tentang keutamaan pola hidup zuhud dan kesederhanaan."
+  },
+  {
+    "name": "Mathali' al-Masarrat",
+    "author": "Muhammad al-Mahdi al-Fasi",
+    "desc": "Syarah kitab Dala'il al-Khairat yang menekankan mahabbah dan adab bersalawat."
+  },
+  {
+    "name": "Al-Anwar al-Qudsiya fi Ma'rifat Qawa'id al-Sufiyya",
+    "author": "Abdul Wahhab asy-Sya'rani",
+    "desc": "Penjelasan rinci mengenai kaidah-kaidah ilmu tasawuf dan adab-adab tarekat."
+  },
+  {
+    "name": "Al-Thabaqat al-Kubra",
+    "author": "Abdul Wahhab asy-Sya'rani",
+    "desc": "Biografi dan riwayat hidup tokoh-tokoh sufi beserta teladan akhlak mereka."
+  },
+  {
+    "name": "Al-Bahr al-Mawrud fi al-Mawatsiq wa al-Uhud",
+    "author": "Abdul Wahhab asy-Sya'rani",
+    "desc": "Memuat janji-janji spiritual dan komitmen akhlak bagi para peniti jalan sufi."
+  },
+  {
+    "name": "Sabil al-Maddakar wa al-I'tibar",
+    "author": "Habib Abdullah bin Alawi al-Haddad",
+    "desc": "Pelajaran moral dan pengingat akan tahapan kehidupan manusia dari dunia hingga akhirat."
+  },
+  {
+    "name": "Al-Fusul al-Ilmiyyah wa al-Usul al-Hukmiyyah",
+    "author": "Habib Abdullah bin Alawi al-Haddad",
+    "desc": "Ringkasan kaidah keilmuan, hikmah, dan petunjuk pembersihan hati."
+  },
+  {
+    "name": "Risalat al-Mudzakarah",
+    "author": "Habib Abdullah bin Alawi al-Haddad",
+    "desc": "Risalah singkat tentang pentingnya saling menasihati dalam kebaikan dan ketakwaan."
+  },
+  {
+    "name": "Ithaf al-Sada al-Muttaqin",
+    "author": "Al-Murtadha al-Zabidi",
+    "desc": "Syarah monumental atas Ihya Ulumiddin yang mengulas detail ilmu akhlak dan tasawuf."
+  },
+  {
+    "name": "Al-Ibriz",
+    "author": "Ahmad bin al-Mubarak al-Sijilmasi",
+    "desc": "Catatan ajaran dan mutiara hikmah tasawuf dari Syekh Abdul Aziz al-Dabbagh."
+  },
+  {
+    "name": "Taysir al-Khallaq fi Ilm al-Akhlaq",
+    "author": "Hafizh Hasan al-Mas'udi",
+    "desc": "Ringkasan dasar-dasar etika Islam untuk pembentukan karakter terpuji."
+  },
+  {
+    "name": "Akhlaq al-Ulama",
+    "author": "Abu Bakr al-Ajurri",
+    "desc": "Panduan kepribadian, kewajiban, dan moralitas ideal bagi para ulama dan penuntut ilmu."
+  },
+  {
+    "name": "Al-Akhlaq wa al-Siyar",
+    "author": "Ibn Hazm al-Andalusi",
+    "desc": "Refleksi mendalam tentang pengobatan penyakit jiwa dan pembenahan akhlak."
+  },
+  {
+    "name": "Makarim al-Akhlaq",
+    "author": "Ibn Abi al-Dunya",
+    "desc": "Kumpulan hadis dan atsar tentang keutamaan akhlak-akhlak mulia."
+  },
+  {
+    "name": "Al-Samt wa Adab al-Lisan",
+    "author": "Ibn Abi al-Dunya",
+    "desc": "Petunjuk menjaga lisan, keutamaan diam, dan etika berbicara dalam Islam."
+  },
+  {
+    "name": "Muhasabat al-Nafs",
+    "author": "Ibn Abi al-Dunya",
+    "desc": "Panduan metode introspeksi diri dan mengendalikan hawa nafsu."
+  },
+  {
+    "name": "Kitab al-Zuhd",
+    "author": "Ahmad bin Hanbal",
+    "desc": "Himpunan riwayat zuhud dari para nabi, sahabat, dan generasi salaf."
+  },
+  {
+    "name": "Al-Munqidh min al-Dalal",
+    "author": "Abu Hamid al-Ghazali",
+    "desc": "Autobiografi spiritual al-Ghazali dalam pencarian kebenaran sejati melalui tasawuf."
+  },
+  {
+    "name": "Mizan al-Amal",
+    "author": "Abu Hamid al-Ghazali",
+    "desc": "Matriks penilaian kebahagiaan jiwa melalui perpaduan ilmu dan amal akhlaki."
+  },
+  {
+    "name": "Al-Maqsad al-Asna",
+    "author": "Abu Hamid al-Ghazali",
+    "desc": "Meneladani sifat-sifat Allah lewat pemahaman Asmaul Husna untuk pembentukan akhlak."
+  },
+  {
+    "name": "Al-Kibrit al-Ahmar",
+    "author": "Abdul Wahhab asy-Sya'rani",
+    "desc": "Ringkasan dan inti ajaran spiritual dari karya monumental Syekh Ibn Arabi."
+  },
+  {
+    "name": "Mawaki' al-Nujum",
+    "author": "Muhyiddin Ibn Arabi",
+    "desc": "Panduan derajat spiritual dan cara penyucian panca indera serta hati."
+  },
+  {
+    "name": "Al-Tadbirat al-Ilahiyyah",
+    "author": "Muhyiddin Ibn Arabi",
+    "desc": "Konsep tasawuf allegoris mengenai tata kelola kerajaan diri manusia."
+  },
+  {
+    "name": "Haqaiq 'an al-Tasawwuf",
+    "author": "Abdul Qadir Isa",
+    "desc": "Penjelasan komprehensif hakikat tasawuf modern, dalil, dan manfaat praktisnya."
+  },
+  {
+    "name": "Al-Ta'arruf li Madzhab Ahl al-Tasawwuf",
+    "author": "Abu Bakr al-Kalabadzi",
+    "desc": "Studi klasik kesesuaian doktrin tasawuf dengan akidah dan syariat Islam."
+  },
+  {
+    "name": "Manazil al-Sa'irin",
+    "author": "Abu Ismail al-Harawi",
+    "desc": "Peta maqamat (tahapan spiritual) peniti jalan menuju Allah secara sistematis."
+  },
+  {
+    "name": "Al-Mawaqif wa al-Mukhatabat",
+    "author": "Muhammad bin Abdi al-Jabbar al-Niffari",
+    "desc": "Kumpulan penyingkiran spiritual dan dialog kesadaran ketuhanan."
+  },
+  {
+    "name": "Al-Mafakhir al-Aliyyah",
+    "author": "Ahmad bin Muhammad Ibn Ayyad",
+    "desc": "Sejarah dan pokok-pokok ajaran moral spiritual dari Thariqah Syadziliyyah."
+  },
+  {
+    "name": "Al-Qasd al-Mujarrad",
+    "author": "Ibn 'Atha'illah al-Iskandari",
+    "desc": "Kajian ketauhidan dan adab spiritual berdzikir dengan Nama Agung (Ism al-Mufrad)."
+  },
+  {
+    "name": "Miftah al-Falah wa Misbah al-Arwah",
+    "author": "Ibn 'Atha'illah al-Iskandari",
+    "desc": "Panduan keutamaan zikir dan tata cara pembersihan jiwa."
+  },
+  {
+    "name": "Tanbih al-Mughtarrin",
+    "author": "Abdul Wahhab asy-Sya'rani",
+    "desc": "Kritik dan peringatan terhadap kekhilafan akhlak yang kerap menimpa ahli ibadah."
+  },
+  {
+    "name": "Istilahat al-Sufiyyah",
+    "author": "Abd al-Razzaq al-Qashani",
+    "desc": "Glosarium terminologi khusus yang digunakan dalam tradisi tasawuf."
+  },
+  {
+    "name": "Adab al-Suluk",
+    "author": "Muhyiddin Ibn Arabi",
+    "desc": "Petunjuk praktis adab berisolasi (khalwat) dan perjalanan suluk bagi murid."
+  },
+  {
+    "name": "Akhlaq an-Nabi wa Adabuhu",
+    "author": "Abu al-Syaikh al-Ashbahani",
+    "desc": "Dokumentasi hadis-hadis mengenai keagungan kelakuan dan etika Nabi Muhammad."
+  },
+  {
+    "name": "Makarim al-Akhlaq",
+    "author": "Abu Bakr al-Khara'iti",
+    "desc": "Himpunan norma moral kesopanan dan karakter mulia dalam kebiasaan salaf."
+  },
+  {
+    "name": "Al-Tuhfat al-Mursalah",
+    "author": "Muhammad bin Fadhlullah al-Burhanpuri",
+    "desc": "Risalah tasawuf filsafat tentang konsep Martabat Tujuh dan konsep wujud."
+  },
+  {
+    "name": "Al-Insan al-Kamil",
+    "author": "Abdul Karim al-Jili",
+    "desc": "Kajian metafisika tasawuf tentang prototipe manusia sempurna."
+  },
+  {
+    "name": "Siraj al-Talibin",
+    "author": "Syekh Ihsan Muhammad Dahlan al-Jampasi",
+    "desc": "Syarah komprehensif Minhajul Abidin karya ulama Nusantara asal Kediri."
+  },
+  {
+    "name": "Al-Hadiyyah al-Sadiyyah",
+    "author": "Muhammad Amin al-Kurdi",
+    "desc": "Ulasan etika spiritual dan prinsip dasar Thariqah Naqshbandiyyah."
+  },
+  {
+    "name": "Tanwir al-Qulub",
+    "author": "Muhammad Amin al-Kurdi",
+    "desc": "Ringkasan lengkap mencakup fiqih, akidah, dan pembinaan tasawuf/akhlak."
+  },
+  {
+    "name": "Mi'raj al-Tasyawwuf",
+    "author": "Ahmad bin Ajiba",
+    "desc": "Kamus dan penjelasan terminologi hakikat serta tingkatan tasawuf."
+  },
+  {
+    "name": "Al-Futuhat al-Ilahiyyah",
+    "author": "Ahmad bin Ajiba",
+    "desc": "Syarah pokok ajaran tasawuf dasar tentang pembersihan cela diri."
+  },
+  {
+    "name": "Al-Minan al-Kubra",
+    "author": "Abdul Wahhab asy-Sya'rani",
+    "desc": "Ungkapan rasa syukur atas karunia spiritual dan latihan kerendahan hati."
+  },
+  {
+    "name": "Nasihat al-Muluk",
+    "author": "Abu Hamid al-Ghazali",
+    "desc": "Etika kepemimpinan dan panduan akhlak politik bagi para penguasa."
+  },
+  {
+    "name": "Akhlaq al-Abrar wa Najaat al-Akhyar",
+    "author": "Muhyiddin Ibn Arabi",
+    "desc": "Panduan amalan harian, zikir, dan perilaku para hamba berbakti."
+  },
+  {
+    "name": "Mukhtasar Minhaj al-Qasidin",
+    "author": "Ibn Qudamah al-Maqdisi",
+    "desc": "Ringkasan pemikiran etika al-Ghazali yang diselaraskan dengan mazhab Hanbali."
+  },
+  {
+    "name": "Al-Hadiqah al-Nadiyyah",
+    "author": "Abdul Ghani al-Nabulsi",
+    "desc": "Syarah etika Islam menyeluruh tentang bahaya kejahatan batin dan lisan."
+  }
+]
