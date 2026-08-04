@@ -1,11 +1,11 @@
 {
-  "question": "Dalam hukum bacaan Nun Sukun (نْ) atau Tanwin, terdapat satu hukum yang secara khusus hanya memiliki 1 (satu) huruf hijaiyah saja, yaitu huruf Ba (ب). Apakah nama hukum tajwid tersebut beserta cara membacanya yang tepat?",
+  "question": "Dalam ilmu Tajwid riwayat Hafs 'an 'Ashim jalur Asy-Syatibiyyah, Mad Farq (مد الفرق) terjadi ketika Hamzah Istifham bertemu dengan Hamzah Washal pada Isim yang diawali Alif Lam (ال). Manakah di antara lafaz berikut yang TIDAK termasuk dalam tempat terjadinya hukum Mad Farq?",
   "options": [
-    "Ikhfa Hakiki; menyamarkan suara nun ke huruf berikutnya disertai dengung",
-    "Iqlab; mengubah suara nun atau tanwin menjadi suara mim sukun disertai dengung",
-    "Izhar Halqi; membaca suara nun atau tanwin dengan jelas dan tegas tanpa dengung",
-    "Idgham Bighunnah; memasukkan suara nun ke huruf berikutnya disertai dengung"
+    "آلذَّكَرَيْنِ (QS. Al-An'am: 143)",
+    "آللَّهُ (QS. Yunus: 59)",
+    "ءَأَعْجَمِيٌّ (QS. Fussilat: 44)",
+    "آلْآنَ (QS. Yunus: 51)"
   ],
-  "correctIndex": 1,
-  "explanation": "Secara bahasa, Iqlab artinya membalikkan atau mengubah. Menurut istilah ilmu tajwid, Iqlab terjadi apabila Nun Sukun (نْ) atau Tanwin bertemu dengan huruf Ba (ب). Cara membacanya adalah dengan mengganti/mengubah bunyi Nun Sukun atau Tanwin menjadi bunyi Mim sukun (مْ) yang samar disertai dengan dengung (ghunnah)."
+  "correctIndex": 2,
+  "explanation": "Mad Farq dinamakan demikian karena berfungsi membedakan (fariq) antara kalimat tanya (istifham) dan berita (khabar). Hukum ini hanya terjadi pada 3 lafaz dalam 6 tempat di Al-Qur'an, yaitu: آلذَّكَرَيْنِ (QS. Al-An'am: 143, 144), آللَّهُ (QS. Yunus: 59 & QS. An-Naml: 59), serta آلْآنَ (QS. Yunus: 51, 91). Adapun lafaz ءَأَعْجَمِيٌّ pada QS. Fussilat: 44 dibaca dengan hukum Tashil (memperingankan sebutan hamzah kedua antara bunyi hamzah dan alif), bukan Mad Farq, karena hamzah kedua pada lafaz tersebut adalah hamzah qatha', bukan hamzah washal pada Alif Lam."
 }
