@@ -1,11 +1,11 @@
 {
-  "question": "Dalam sistematika penulisan sebuah hadits, terdapat bagian yang berisi redaksi kalimat atau isi pesan yang disampaikan oleh Rasulullah SAW. Apakah istilah yang tepat untuk menyebut bagian isi teks hadits tersebut?",
+  "question": "Dalam klasifikasi ilmu Mustalahul Hadits, apa sebutan bagi suatu riwayat yang sanadnya terhenti dan disandarkan hanya kepada seorang Sahabat Nabi, baik berupa perkataan maupun perbuatannya, tanpa menyambungkannya kepada Rasulullah SAW?",
   "options": [
-    "Sanad",
-    "Matan",
-    "Rawi",
-    "Makhraj"
+    "Hadits Marfu'",
+    "Hadits Mauquf",
+    "Hadits Maqtu'",
+    "Hadits Qudsi"
   ],
   "correctIndex": 1,
-  "explanation": "Dalam ilmu Mustalah al-Hadits, Matan adalah redaksi atau isi pesan (kalam) yang terletak di akhir sanad. Sedangkan Sanad adalah silsilah atau rantai para perawi yang menghubungkan kita kepada isi hadits tersebut. Rawi adalah orang yang meriwayatkannya, dan Makhraj adalah tempat keluarnya hadits (sumber kitab)."
+  "explanation": "Hadits Mauquf secara bahasa berarti 'yang dihentikan'. Dalam istilah ahli hadits, ia adalah riwayat yang disandarkan kepada Sahabat (seperti Ali bin Abi Thalib atau Ibnu Abbas) dan berhenti di sana. Berbeda dengan Marfu' yang sampai kepada Nabi, atau Maqtu' yang sampai kepada Tabi'in."
 }
