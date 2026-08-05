@@ -1,11 +1,13 @@
 {
-  "question": "Dalam ilmu Shorof, jika kita ingin mengubah kata kerja 'كَتَبَ' (kataba - menulis) menjadi Isim Makan (kata benda penunjuk tempat) dengan mengikuti wazan 'مَفْعَلٌ', maka bentuknya adalah...",
+  "question": "Dalam kaidah Nahwu, kata tunjuk (Isim Isyarah) yang digunakan untuk menunjukkan satu objek laki-laki yang berada pada jarak jauh (ba'id), seperti pada awal Surah Al-Baqarah 'ذَلِكَ الْكِتَابُ', adalah...",
   "options": [
-    "كَاتِبٌ (Katibun)",
-    "مَكْتُوْبٌ (Maktubun)",
-    "مَكْتَبٌ (Maktabun)",
-    "يَكْتُبُ (Yaktubu)"
+    "هَذَا (Hadza)",
+    "ذَلِكَ (Dzalika)",
+    "تِلْكَ (Tilka)",
+    "هَذِهِ (Hadzihi)"
   ],
-  "correctIndex": 2,
-  "explanation": "Isim Makan adalah isim yang menunjukkan tempat terjadinya suatu perbuatan. Untuk Fi'il Tsulatsi Mujarrad (kata kerja 3 huruf dasar) seperti 'Kataba', ia mengikuti wazan 'Maf'alun', sehingga menjadi 'Maktabun' yang berarti tempat menulis atau meja/kantor. Pilihan A adalah Isim Fa'il (pelaku), B adalah Isim Maf'ul (objek), dan D adalah Fi'il Mudhari' (kata kerja sedang/akan)."
+  "correctIndex": 1,
+  "explanation": "Dalam ilmu Nahwu, 'Dzalika' adalah Isim Isyarah yang digunakan untuk Mufrad Mudzakkar Ba'id (tunggal, laki-laki, jarak jauh). Pilihan 'Hadza' digunakan untuk jarak dekat, 'Tilka' untuk perempuan jarak jauh, dan 'Hadzihi' untuk perempuan jarak dekat.",
+  "topic": "Nahwu & Shorof",
+  "difficulty": "Mudah"
 }
