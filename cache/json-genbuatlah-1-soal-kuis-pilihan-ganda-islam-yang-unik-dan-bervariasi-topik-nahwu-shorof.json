@@ -1,11 +1,11 @@
 {
-  "question": "Dalam ilmu Shorof, perubahan kata kerja bentuk lampau (Fi'il Madhi) 'كَتَبَ' (Kataba: dia telah menulis) menjadi kata kerja perintah (Fi'il Amar) untuk subjek 'kamu (1 orang laki-laki)' adalah...",
+  "question": "Dalam ilmu Nahwu (seperti dijelaskan dalam kitab Matan Al-Ajurrumiyah), manakah di antara pilihan berikut yang merupakan ciri khas dari Kalimat Fi'il (kata kerja) dan TIDAK mungkin masuk pada Kalimat Isim?",
   "options": [
-    "يَكْتُبُ (Yaktubu)",
-    "اُكْتُبْ (Uktub)",
-    "كَاتِبٌ (Katibun)",
-    "كِتَابَةً (Kitabatan)"
+    "Kemasukan Alif Lam (ال)",
+    "Kemasukan Tanwin",
+    "Kemasukan huruf Sin (سَـ) atau Saufa (سَوْفَ)",
+    "Kemasukan huruf Jar/Khafadh"
   ],
-  "correctIndex": 1,
-  "explanation": "Dalam ilmu Shorof, Fi'il Amar (kata kerja perintah) dari wazan فَعَلَ - يَفْعُلُ (كَتَبَ - يَكْتُبُ) untuk dhomir anta (kamu laki-laki) adalah اُكْتُبْ (Uktub) yang berarti 'Tulislah!'. Adapun pilihan 'Yaktubu' adalah Fi'il Mudhari' (sedang/akan menulis), 'Katibun' adalah Isim Fa'il (penulis), dan 'Kitabatan' adalah Masdar (penulisan)."
+  "correctIndex": 2,
+  "explanation": "Berdasarkan kitab Matan Al-Ajurrumiyah, tanda khusus Kalimat Fi'il antara lain dapat didahului oleh huruf Qad (قَدْ), Sin (سَـ), Saufa (سَوْفَ), serta Ta' Ta'nits As-Sakinah (تَـ). Sementara itu, Alif Lam (ال), Tanwin, dan kemasukan huruf Jar/Khafadh adalah tanda-tanda khusus yang hanya dimiliki oleh Kalimat Isim."
 }
