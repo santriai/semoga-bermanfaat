@@ -1,22 +1,252 @@
 [
   {
-    "name": "Umdatul Qari Syarah Shahih al-Bukhari",
-    "author": "Badruddin al-Ayni",
-    "desc": "Kitab syarah Shahih Bukhari yang sangat detail dengan fokus pada aspek lughah dan perbandingan madzhab."
+    "name": "Fathul Qarib al-Mujib fi Syarhi Alfazh at-Taqrib",
+    "author": "Ibnu Qasim al-Ghazzi",
+    "desc": "Kitab syarah fikih Syafi'i dasar hingga menengah yang menjelaskan matan Ghayah wat Taqrib karya Abu Syuja'."
   },
   {
-    "name": "Fayd al-Qadir Syarah al-Jami' al-Saghir",
-    "author": "Abdurrauf al-Munawi",
-    "desc": "Syarah luas atas kitab hadits Al-Jami' al-Saghir karya Imam al-Suyuti yang mencakup penjelasan tasawuf dan etika."
+    "name": "Kifayatul Akhyar fi Hilli Ghayatil Ikhtishar",
+    "author": "Taqiyuddin al-Hishni",
+    "desc": "Syarah fikih mazhab Syafi'i atas matan Abu Syuja' yang disertai dengan dalil-dalil al-Qur'an dan al-Hadits."
   },
   {
-    "name": "Al-Hawi al-Kabir",
-    "author": "Abul Hasan al-Mawardi",
-    "desc": "Ensiklopedia fiqh Syafi'i yang merupakan syarah atas Mukhtashar al-Muzani dengan pembahasan dalil yang sangat mendalam."
+    "name": "Al-Iqna' fi Hilli Alfazhi Abi Syuja'",
+    "author": "Khatib asy-Syirbini",
+    "desc": "Kitab syarah luas terhadap Matan Abu Syuja' yang menjadi rujukan standar fikih Syafi'i di tingkat menengah-lanjut."
   },
   {
-    "name": "Al-Aziz Syarah al-Wajiz",
-    "author": "Abul Qasim al-Rafi'i",
-    "desc": "Kitab rujukan utama dalam madzhab Syafi'i yang mensyarah kitab Al-Wajiz karya Imam al-Ghazali."
+    "name": "Nihayatu az-Zain fi Irsyadi al-Mubtadi'in",
+    "author": "Syekh Nawawi al-Bantani",
+    "desc": "Syarah atas kitab Qurratul 'Ain karya Syekh Zainuddin al-Malibari yang mengulas hukum-hukum fikih Syafi'i secara terperinci."
+  },
+  {
+    "name": "Al-Manhaj al-Qawim Syarah al-Muqaddimah al-Hadhramiyyah",
+    "author": "Ibnu Hajar al-Haitami",
+    "desc": "Syarah mendalam atas kitab fikih Muqaddimah Hadhramiyyah karya Abdullah Bafadhal mengenai ibadah dalam mazhab Syafi'i."
+  },
+  {
+    "name": "Hasyiyah at-Tarmasi 'ala Syarh al-Manhaj al-Qawim",
+    "author": "Syekh Mahfuzh at-Tarmasi",
+    "desc": "Hasyiyah monumental karya ulama Nusantara yang memperkaya dan memperjelas syarah Al-Manhaj al-Qawim karya Ibnu Hajar al-Haitami."
+  },
+  {
+    "name": "Mirqat Su'ud at-Tasdiq Syarah Sullam at-Taufiq",
+    "author": "Syekh Nawawi al-Bantani",
+    "desc": "Syarah atas matan Sullam at-Taufiq karya Habib Abdullah bin Husain bin Thahir yang mencakup akidah, fikih, dan tasawuf."
+  },
+  {
+    "name": "Kasyifatu ar-Raja Syarah Safinatin Naja",
+    "author": "Ahmad bin Umar ash-Syathiri",
+    "desc": "Syarah kontemporer yang sangat rinci terhadap matan fikih Safinatun Naja untuk tingkatan menengah pesantren."
+  },
+  {
+    "name": "Syarah Yaqut an-Nafis",
+    "author": "Muhammad bin Ahmad ash-Syathiri",
+    "desc": "Syarah fikih Syafi'i modern atas matan Yaqut an-Nafis yang menyajikan hukum-hukum fikih dengan bahasa lugas dan sistematis."
+  },
+  {
+    "name": "Al-Fawaid al-Janiyyah Syarah al-Qawa'id al-Fiqhiyyah",
+    "author": "Syekh Yasin al-Fadani",
+    "desc": "Syarah mendalam mengenai kaidah-kaidah fikih terperinci yang dirangkum oleh ulama berdarah Minang di Mekkah."
+  },
+  {
+    "name": "Syarah al-Mahalli 'ala Jam'il Jawami'",
+    "author": "Jalaluddin al-Mahalli",
+    "desc": "Syarah standar dalam disiplin ushul fikih yang menjelaskan matan Jam'ul Jawami' karya Tajuddin as-Subki."
+  },
+  {
+    "name": "Nihayat as-Sul Syarah Minhaj al-Wusul",
+    "author": "Jalaluddin al-Isnawi",
+    "desc": "Syarah ushul fikih atas kitab Minhaj al-Wusul karya Al-Baidhawi yang sangat populer di pesantren tingkat tinggi."
+  },
+  {
+    "name": "Syarah al-Waraqat fi Ushulil Fiqh",
+    "author": "Jalaluddin al-Mahalli",
+    "desc": "Syarah ringkas namun padat atas dasar-dasar ushul fikih dalam kitab Al-Waraqat karya Imam al-Haramain al-Juwaini."
+  },
+  {
+    "name": "Hasyiyah al-'Aththar 'ala Syarhi Jalaliddin al-Mahalli",
+    "author": "Hasan al-'Aththar",
+    "desc": "Catatan pinggir kritis atas syarah Jalaluddin al-Mahalli terhadap matan Jam'ul Jawami' dalam ilmu ushul fikih."
+  },
+  {
+    "name": "Syarah al-Kharidah al-Bahiyyah",
+    "author": "Ahmad ad-Dardir",
+    "desc": "Penjelasan atas matan tauhid al-Kharidah al-Bahiyyah karya pengarangnya sendiri menurut mazhab Asy'ariyah."
+  },
+  {
+    "name": "Hasyiyah as-Sawi 'ala Syarh al-Kharidah al-Bahiyyah",
+    "author": "Ahmad as-Sawi",
+    "desc": "Catatan penjelas lanjutan atas syarah Imam ad-Dardir terhadap Al-Kharidah al-Bahiyyah dalam ilmu kalam."
+  },
+  {
+    "name": "Syarah al-'Aqa'id an-Nasafiyah",
+    "author": "Sa'duddin at-Taftazani",
+    "desc": "Kitab syarah klasik ilmu tauhid yang membedah pokok-pokok akidah Islam berdasarkan matan an-Nasafi."
+  },
+  {
+    "name": "Hasyiyah al-Bajuri 'ala Kifayatil 'Awam",
+    "author": "Ibrahim al-Bajuri",
+    "desc": "Hasyiyah yang mengulas rinci ilmu tauhid berdasarkan kitab Kifayatul 'Awam karya Syekh Muhammad al-Fadhali."
+  },
+  {
+    "name": "Fath al-Majid Syarah al-Durrah al-Yatimah",
+    "author": "Syekh Nawawi al-Bantani",
+    "desc": "Syarah akidah Asy'ariyah yang menguraikan منظومة الدرة اليتيمة secara mendalam."
+  },
+  {
+    "name": "Hasyiyah ad-Dusuqi 'ala ash-Syarh al-Kabir",
+    "author": "Muhammad ad-Dusuqi",
+    "desc": "Hasyiyah penting dalam rujukan fikih mazhab Maliki atas Syarah al-Kabir karya Imam ad-Dardir."
+  },
+  {
+    "name": "Audhah al-Masalik ila Alfiyah Ibnu Malik",
+    "author": "Ibnu Hisham al-Anshari",
+    "desc": "Kitab penjelasan tata bahasa Arab yang sangat komprehensif atas bait-bait Alfiyah Ibnu Malik."
+  },
+  {
+    "name": "Syarah Syudzur adz-Dzahab",
+    "author": "Ibnu Hisham al-Anshari",
+    "desc": "Syarah atas ilmu nahwu karya Ibnu Hisham sendiri yang memperjelas struktur kaidah tata bahasa Arab tingkat lanjut."
+  },
+  {
+    "name": "Syarah al-Makkudi 'ala al-Alfiyyah",
+    "author": "Abdurrahman al-Makkudi",
+    "desc": "Syarah tata bahasa Arab atas bait Alfiyah Ibnu Malik yang berfokus pada penguasaan اعراب dan struktur kalimat."
+  },
+  {
+    "name": "Hasyiyah Ibnu Hamdun 'ala Syarh al-Makkudi",
+    "author": "Ibnu Hamdun",
+    "desc": "Catatan kritis dan ulasan mendalam atas Syarah al-Makkudi dalam membedah Alfiyah Ibnu Malik."
+  },
+  {
+    "name": "Idhah al-Mubham min Ma'ani as-Sullam",
+    "author": "Ahmad ad-Damanhuri",
+    "desc": "Syarah populer dalam disiplin ilmu logika (mantiq) atas matan Sullam al-Munawraq karya al-Akhdhari."
+  },
+  {
+    "name": "Hasyiyah al-Azhari 'ala Syarhis Sullam",
+    "author": "Mustafa al-Azhari",
+    "desc": "Catatan pinggir yang memperjelas kaidah-kaidah logika Aristotelian yang diadaptasi dalam ilmu kalam."
+  },
+  {
+    "name": "Hilyat al-Lubb al-Masun Syarah al-Jauhar al-Maknun",
+    "author": "Ahmad ad-Damanhuri",
+    "desc": "Syarah lengkap mengenai tiga cabang ilmu balagah (ma'ani, bayan, badi') atas bait Al-Jauhar al-Maknun."
+  },
+  {
+    "name": "Syarah 'Uqud al-Juman",
+    "author": "Jalaluddin as-Suyuthi",
+    "desc": "Syarah karya Imam as-Suyuthi atas منظومة عقود الجمان dalam ilmu balagah tingkat tinggi."
+  },
+  {
+    "name": "Syarah al-Kafiyah fi an-Nahw",
+    "author": "Razi ad-Din al-Astarabadi",
+    "desc": "Syarah otoritatif mengenai ilmu nahwu atas matan al-Kafiyah karya Ibnu al-Hajib."
+  },
+  {
+    "name": "Syarah al-Maqshud fi ash-Sarf",
+    "author": "Imam Birgivi",
+    "desc": "Syarah mendalam mengenai perubahan kata dan bentuk verba dalam ilmu saraf berdasarkan Matan al-Maqshud."
+  },
+  {
+    "name": "Syarah Marah al-Arwah",
+    "author": "Shamsuddin Ahmad",
+    "desc": "Syarah atas ilmu saraf karya Ahmad bin Ali bin Mas'ud yang fokus pada morfologi bahasa Arab."
+  },
+  {
+    "name": "Fath al-Mughits Syarah Alfiyyat al-Hadith",
+    "author": "Syamsuddin as-Sakhawi",
+    "desc": "Syarah paling komprehensif atas matan Alfiyah al-Iraqi dalam disiplin ilmu musthalah hadis."
+  },
+  {
+    "name": "Syarah al-Manzhumah al-Baiquniyah",
+    "author": "Muhammad az-Zurqani",
+    "desc": "Syarah populer yang mengulas kriteria dan istilah-istilah dasar pembagian ilmu hadis dari matan al-Baiquniyah."
+  },
+  {
+    "name": "Al-Manhaj al-Lathif Syarah al-Arba'in",
+    "author": "Syekh Yasin al-Fadani",
+    "desc": "Syarah atas al-Arba'in an-Nawawiyah dengan pendekatan riwayat hadis dan sanad yang sangat teratur."
+  },
+  {
+    "name": "Syarah Ibnu Daqiq al-'Id 'ala al-Arba'in an-Nawawiyah",
+    "author": "Ibnu Daqiq al-'Id",
+    "desc": "Syarah klasik penjelas kandungan hukum dan hikmah dari 42 hadis utama dalam susunan Imam an-Nawawi."
+  },
+  {
+    "name": "Syarah al-Jauhar an-Nafis",
+    "author": "Ahmad ad-Damanhuri",
+    "desc": "Syarah mengenai seni dan kaidah balagah dalam sastra Arab atas matan Al-Jauhar an-Nafis."
+  },
+  {
+    "name": "Fath al-Ilah fi Syarh al-Misykah",
+    "author": "Ibnu Hajar al-Haitami",
+    "desc": "Syarah atas kitab kumpulan hadis Misykat al-Masabih karya al-Khatib at-Tibrizi."
+  },
+  {
+    "name": "Syarah ar-Risalah al-Qushayriyah",
+    "author": "Zakariyya al-Anshari",
+    "desc": "Syarah atas kitab induk tasawuf ar-Risalah al-Qushayriyah yang memadukan ajaran syariat dan hakikat."
+  },
+  {
+    "name": "Daqaiq al-Muhkamah Syarah al-Muqaddimah al-Jazariyah",
+    "author": "Zakariyya al-Anshari",
+    "desc": "Syarah atas matan tajwid Al-Jazariyah yang membedah makhraj dan sifat-sifat huruf al-Qur'an."
+  },
+  {
+    "name": "Radd al-Muhtar 'ala ad-Durr al-Mukhtar (Hasyiyah Ibnu 'Abidin)",
+    "author": "Ibnu 'Abidin",
+    "desc": "Kitab rujukan tertinggi dalam mazhab Hanafi yang berisi fatwa dan pembahasan hukum fikih terlengkap."
+  },
+  {
+    "name": "Mawahib al-Jalil fi Syarh Mukhtasar Khalil",
+    "author": "Al-Hattab al-Ru'ayni",
+    "desc": "Syarah ensiklopedis atas mukhtashar Khalil yang menjadi pegangan utama fikih mazhab Maliki."
+  },
+  {
+    "name": "Kasyf al-Qina' 'an Matn al-Iqna'",
+    "author": "Mansur al-Buhuti",
+    "desc": "Kitab syarah fikih Hanbali yang sangat mendalam atas matan al-Iqna' karya al-Hajjawi."
+  },
+  {
+    "name": "Mukhtashar al-Ma'ani",
+    "author": "Sa'duddin at-Taftazani",
+    "desc": "Syarah atas Talkhis al-Miftah karya al-Qazwini yang menjadi standar kajian balagah tingkat lanjut."
+  },
+  {
+    "name": "Tajrid al-Bughyah (Hasyiyah al-Bujairami 'ala Syarhil Manhaj)",
+    "author": "Suleiman al-Bujairami",
+    "desc": "Hasyiyah fikih Syafi'i atas Syarah Manhaj at-Thullab karya Zakariyya al-Anshari."
+  },
+  {
+    "name": "Bughyatul Mustarsyidin fi Talkhis Fatawa Ba'dh al-Muta'akhkhirin",
+    "author": "Abdurrahman al-Masyhur",
+    "desc": "Kumpulan fatwa fikih kontemporer dari ulama-ulama Syafi'iyyah terkemuka di Hadhramaut."
+  },
+  {
+    "name": "Syarah Sullam al-Munajah",
+    "author": "Syekh Nawawi al-Bantani",
+    "desc": "Syarah atas Safinat ash-Shalah karya Sayyid Abdullah al-Hadhrami mengenai tata cara salat dan spiritualitasnya."
+  },
+  {
+    "name": "Syarah al-'Aqidah ath-Thahawiyah",
+    "author": "Ibnu Abil 'Izz al-Hanafi",
+    "desc": "Syarah mendalam atas pokok-pokok akidah Islam yang dirumuskan oleh Imam at-Thahawi."
+  },
+  {
+    "name": "Syarah Risalah al-Jami'ah",
+    "author": "Ahmad bin Zayn al-Habsyi",
+    "desc": "Syarah atas kitab ringkas Risalatul Jami'ah yang mencakup pilar tauhid, fikih dasar, dan akhlak."
+  },
+  {
+    "name": "Syarah az-Zurqani 'ala al-Muwaththa'",
+    "author": "Muhammad az-Zurqani",
+    "desc": "Syarah atas kitab kumpulan hadis dan fikih Muwaththa' Imam Malik."
+  },
+  {
+    "name": "Fath al-Manna fi Syarh Zubad Ibni Raslan",
+    "author": "Shihabuddin ar-Ramli",
+    "desc": "Syarah atas matan Zubad berupa bait-bait nasyid fikih Syafi'i beserta dasar-dasar tasawuf."
   }
 ]
