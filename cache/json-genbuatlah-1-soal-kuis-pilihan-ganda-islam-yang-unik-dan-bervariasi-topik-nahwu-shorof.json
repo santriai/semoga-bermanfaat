@@ -1,11 +1,11 @@
 {
-  "question": "Dalam kaidah ilmu Nahwu, manakah Isim Isyarah (kata tunjuk) yang tepat untuk menunjuk benda jamak yang tidak berakal (jamak ghairu 'aqil) seperti kata 'Kutubun' (Buku-buku) dengan arti 'Ini'?",
+  "question": "Dalam kaidah Nahwu, manakah alasan yang paling tepat mengapa kita menggunakan kata tunjuk (Isim Isyarah) 'هَذِهِ' (Hadzihi) dalam kalimat 'هَذِهِ مَدْرَسَةٌ'?",
   "options": [
-    "Haula'i (هؤلاء)",
-    "Hadzihi (هذه)",
-    "Hadza (هذا)",
-    "Hadzani (هذان)"
+    "Karena kata 'مَدْرَسَةٌ' adalah Isim Muannas (perempuan) yang ditandai dengan Ta' Marbutah",
+    "Karena kata 'مَدْرَسَةٌ' adalah Isim Mudzakkar (laki-laki) yang menunjukkan tempat",
+    "Karena 'هَذِهِ' digunakan khusus untuk menunjuk benda yang letaknya sangat jauh",
+    "Karena 'هَذِهِ' merupakan Fi'il Madhi yang menunjukkan pekerjaan di masa lampau"
   ],
-  "correctIndex": 1,
-  "explanation": "Dalam kaidah bahasa Arab, terdapat prinsip 'Kullu jam'in muannatsun' (setiap jamak adalah muannats), khususnya bagi benda-benda yang tidak berakal (ghairu 'aqil). Oleh karena itu, kata 'Kutubun' yang merupakan bentuk jamak dari 'Kitabun' diperlakukan sebagai mufrad muannats (tunggal perempuan), sehingga kata tunjuk yang benar adalah 'Hadzihi'. Adapun 'Haula'i' digunakan khusus untuk jamak yang berakal (manusia)."
+  "correctIndex": 0,
+  "explanation": "Dalam ilmu Nahwu, Isim Isyarah (kata tunjuk) harus menyesuaikan dengan jenis kelamin (gender) kata yang ditunjuk (Musyar Ilaih). Kata 'مَدْرَسَةٌ' (sekolah) tergolong Isim Muannas karena memiliki ciri 'Ta' Marbutah' (ة) di akhirnya. Oleh karena itu, kata tunjuk jarak dekat yang digunakan adalah 'هَذِهِ' (untuk perempuan), bukan 'هَذَا' (untuk laki-laki)."
 }
