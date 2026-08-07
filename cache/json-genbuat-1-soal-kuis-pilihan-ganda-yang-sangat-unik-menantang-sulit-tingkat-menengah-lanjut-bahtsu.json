@@ -1,11 +1,11 @@
 {
-  "question": "Dalam Fiqh Syafi'iyyah (sebagaimana dijelaskan dalam kitab Fath al-Mu'in dan I'anat al-Thalibin), seorang musafir hendak melaksanakan shalat Dzuhur secara Qashar (2 rakaat) dan bermakmum kepada orang yang tidak diketahui statusnya (apakah musafir atau muqim). Jika makmum tersebut berniat Qashar secara mutlak tanpa melakukan ta'liq (persyaratan niat), lalu di tengah shalat terbukti bahwa imamnya ternyata adalah seorang musafir yang juga berniat Qashar, bagaimanakah hukum shalat makmum tersebut?",
+  "question": "Dalam diskursus Fiqh Syafi'iyyah (sebagaimana dirinci dalam kitab Tuhfat al-Muhtaj dan Nihayat al-Muhtaj), pada dasarnya imam menanggung kekeliruan (sahw) yang dilakukan oleh ma'mum selama dalam jamaah. Bagaimanakah hukum sujud sahwi bagi seorang ma'mum yang melakukan kekeliruan (seperti meninggalkan sunnah ab'adh) saat masih mengikuti imam, namun kemudian ma'mum tersebut melakukan mufaraqah (memisahkan diri) atau shalat imam mendadak batal sebelum salam?",
   "options": [
-    "Shalatnya sah sebagai shalat Qashar (2 rakaat) karena secara faktual (fi al-nafs al-amr) imamnya adalah seorang musafir.",
-    "Shalatnya batal secara mutlak sejak Takbiratul Ihram karena rusaknya syarat jazm (kepastian) dalam niat shalat fardhu.",
-    "Shalatnya tetap sah namun ia wajib menyempurnakannya menjadi 4 rakaat (itmam), karena ia meragukan syarat kebolehan Qashar saat Ihram.",
-    "Shalatnya otomatis berubah menjadi shalat sunnah mutlak sehingga ia wajib mengulang shalat Dzuhur 4 rakaat secara munfarid."
+    "Gugur sunnah sujud sahwinya secara mutlak karena kekeliruan tersebut sudah sah ditanggung (tahammul) oleh imam sejak awal terjadinya lupa.",
+    "Disunnahkan bagi ma'mum untuk melakukan sujud sahwi di akhir shalatnya, karena gugurnya fungsi tanggungan (tahammul) imam akibat terputusnya jamaah sebelum salam.",
+    "Wajib bagi ma'mum untuk langsung melakukan sujud sahwi seketika itu juga saat niat mufaraqah, baru kemudian melanjutkan sisa rukun shalatnya.",
+    "Batal shalat ma'mum tersebut secara otomatis karena terjadi keraguan dalam penanggungan sujud (taddakhul al-sahw)."
   ],
-  "correctIndex": 2,
-  "explanation": "Dalam madzhab Syafi'i, jika seorang musafir bermakmum kepada orang yang tidak diketahui statusnya (jahila halahu) dan ia berniat Qashar secara mutlak tanpa ta'liq (misal: 'Jika imam musafir maka saya Qashar, jika muqim maka saya Itmam'), maka ia diwajibkan melakukan Itmam (4 rakaat). Hukum ini tetap berlaku meskipun di kemudian hari terbukti bahwa imamnya adalah seorang musafir. Alasan hukumnya (illat) adalah karena hukum asal shalat adalah sempurna (Itmam 4 rakaat), dan makmum tersebut mengalami keraguan (syakk) terhadap adanya syarat mubihi al-qashr (keringanan qashar) pada saat Takbiratul Ihram (sebagaimana dijelaskan dalam Fath al-Mu'in & I'anat al-Thalibin bab Shalat al-Musafir)."
+  "correctIndex": 1,
+  "explanation": "Dalam Fiqh Madzhab Syafi'i (sebagaimana dijelaskan dalam Tuhfat al-Muhtaj karya Imam Ibn Hajar al-Haitami dan Nihayat al-Muhtaj karya Imam ar-Ramli), syarat agar imam dapat menanggung (tahammul) kekeliruan/lupa (sahw) ma'mum adalah berlanjutnya ikatan jamaah hingga akhir shalat (salamnya imam). Apabila ma'mum melakukan mufaraqah (memutus hubungan) atau shalat imam batal sebelum imam mengucapkan salam, maka fungsi tahammul dari imam menjadi gugur. Akibatnya, kekeliruan yang pernah dilakukan ma'mum sewaktu masih menjadi ma'mum kembali ditanggung oleh dirinya sendiri, sehingga ia disunnahkan melakukan sujud sahwi sebelum salam di akhir shalatnya."
 }
