@@ -1,11 +1,11 @@
 {
-  "question": "Dalam ilmu Nahwu (seperti dijelaskan dalam kitab Matan Al-Ajurrumiyah), manakah di antara pilihan berikut yang merupakan ciri khas dari Kalimat Fi'il (kata kerja) dan TIDAK mungkin masuk pada Kalimat Isim?",
+  "question": "Dalam kitab Matan Al-Ajrumiyyah, setiap jenis kata (kalimah) memiliki tanda pembeda. Manakah di antara pilihan berikut yang MERUPAKAN tanda khusus untuk mengenali Kalimah Isim (kata benda)?",
   "options": [
-    "Kemasukan Alif Lam (ال)",
-    "Kemasukan Tanwin",
-    "Kemasukan huruf Sin (سَـ) atau Saufa (سَوْفَ)",
-    "Kemasukan huruf Jar/Khafadh"
+    "Kemasukan huruf 'Qad' (قَدْ)",
+    "Dapat menerima Tanwin (التَّنْوِينُ)",
+    "Kemasukan huruf Jazam (جَازِمٌ)",
+    "Bisa bersambung dengan Ta' Ta'nits As-Sakinah (تَاءُ التَّأْنِيثِ السَّاكِنَةُ)"
   ],
-  "correctIndex": 2,
-  "explanation": "Berdasarkan kitab Matan Al-Ajurrumiyah, tanda khusus Kalimat Fi'il antara lain dapat didahului oleh huruf Qad (قَدْ), Sin (سَـ), Saufa (سَوْفَ), serta Ta' Ta'nits As-Sakinah (تَـ). Sementara itu, Alif Lam (ال), Tanwin, dan kemasukan huruf Jar/Khafadh adalah tanda-tanda khusus yang hanya dimiliki oleh Kalimat Isim."
+  "correctIndex": 1,
+  "explanation": "Dalam ilmu Nahwu (sebagaimana disebutkan dalam Matan Al-Ajrumiyyah: 'فَالإِسْمُ يُعْرَفُ بِالخَفْضِ وَالتَّنْوِينِ وَدُخُولِ الأَلِفِ وَاللاَّمِ...'), Tanwin adalah salah satu ciri khas utama Kalimah Isim. Pilihan A dan D merupakan tanda khusus Kalimah Fi'il, sedangkan pilihan C (Jazam) adalah I'rab yang khusus masuk pada Fi'il Mudhari'."
 }
