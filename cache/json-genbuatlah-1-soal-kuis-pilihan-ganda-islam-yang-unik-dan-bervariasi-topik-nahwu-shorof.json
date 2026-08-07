@@ -1,11 +1,11 @@
 {
-  "question": "Dalam kitab Matan Al-Ajrumiyyah, setiap jenis kata (kalimah) memiliki tanda pembeda. Manakah di antara pilihan berikut yang MERUPAKAN tanda khusus untuk mengenali Kalimah Isim (kata benda)?",
+  "question": "Dalam kajian mendalam kitab Alfiyah Ibn Malik dan Syarh Ibn 'Aqil, terdapat pembahasan mengenai 'Idhafah' dzharaf 'Haytsu' (حَيْثُ). Manakah analisis yang paling tepat mengenai alasan wajibnya membaca Kasrah pada Hamzah 'Inna' (إِنَّ) dalam kalimat 'اجْلِسْ حَيْثُ إِنَّ زَيْدًا جَالِسٌ' menurut mayoritas ulama Bashrah?",
   "options": [
-    "Kemasukan huruf 'Qad' (قَدْ)",
-    "Dapat menerima Tanwin (التَّنْوِينُ)",
-    "Kemasukan huruf Jazam (جَازِمٌ)",
-    "Bisa bersambung dengan Ta' Ta'nits As-Sakinah (تَاءُ التَّأْنِيثِ السَّاكِنَةُ)"
+    "Karena 'حَيْثُ' secara prinsipil hanya dapat di-idhafah-kan kepada 'jumlah' (kalimat), dan 'إِنَّ' (dengan kasrah) berfungsi menjaga integritas 'jumlah' tersebut, sedangkan 'أَنَّ' (dengan fathah) akan mengubahnya menjadi 'mufrad' (masdar mu'awwal).",
+    "Karena 'حَيْثُ' dalam posisi tersebut berstatus 'Munqathi' 'an al-Idhafah' (terputus dari penyandaran), sehingga kalimat setelahnya dianggap sebagai 'Jumlah Isti'nafiyyah' yang tidak memiliki kedudukan i'rab.",
+    "Karena terdapat kaidah 'Taqdirul Mufrad' yang mewajibkan 'Inna' dibaca fathah (Anna) agar bisa menempati posisi 'Mudhaf Ilaih' secara hakiki sebagaimana dzharaf pada umumnya.",
+    "Karena 'حَيْثُ' merupakan dzharaf yang 'mabni' atas dhommah, sehingga ia mencegah amil sesudahnya untuk beramal (ta'liq), yang mengakibatkan Hamzah 'Inna' harus dibaca kasrah."
   ],
-  "correctIndex": 1,
-  "explanation": "Dalam ilmu Nahwu (sebagaimana disebutkan dalam Matan Al-Ajrumiyyah: 'فَالإِسْمُ يُعْرَفُ بِالخَفْضِ وَالتَّنْوِينِ وَدُخُولِ الأَلِفِ وَاللاَّمِ...'), Tanwin adalah salah satu ciri khas utama Kalimah Isim. Pilihan A dan D merupakan tanda khusus Kalimah Fi'il, sedangkan pilihan C (Jazam) adalah I'rab yang khusus masuk pada Fi'il Mudhari'."
+  "correctIndex": 0,
+  "explanation": "Menurut Jumhur Ulama Bashrah, 'حَيْثُ' adalah dzharaf yang wajib di-idhafah-kan kepada 'jumlah' (baik ismiyyah maupun fi'liyyah). Jika setelah 'حَيْثُ' terdapat 'إِنَّ', maka Hamzah-nya wajib dibaca kasrah karena 'إِنَّ' yang kasrah menandakan awal sebuah 'jumlah'. Jika dibaca fathah (أَنَّ), maka ia akan mentakwil kalimat sesudahnya menjadi 'Masdar Mu'awwal' yang berstatus 'mufrad'. Hal ini dilarang dalam mazhab Bashrah karena 'حَيْثُ' tidak boleh di-idhafah-kan kepada 'mufrad'. Perdebatan ini merupakan salah satu materi 'Bahtsul Masail' yang krusial dalam menentukan struktur i'rab dalam teks-teks klasik."
 }
