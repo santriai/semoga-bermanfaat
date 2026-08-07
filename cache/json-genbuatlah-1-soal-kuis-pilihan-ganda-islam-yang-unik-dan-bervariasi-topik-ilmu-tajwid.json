@@ -1,11 +1,11 @@
 {
-  "question": "Dalam ilmu Tajwid, apabila Nun Sukun (نْ) bertemu dengan huruf Ya (ي) atau Wawu (و) dalam SATU KATA yang sama (seperti pada lafaz الدُّنْيَا), bacaan tersebut TIDAK BOLEH di-idgham-kan, melainkan harus dibaca jelas. Apakah nama hukum bacaan tersebut?",
+  "question": "Dalam kaidah ilmu tajwid, manakah syarat utama yang harus terpenuhi agar 'Ha Dhamir' (ه) dapat dibaca sebagai Mad Shilah Qashirah?",
   "options": [
-    "Izhar Halqi",
-    "Izhar Mutlaq",
-    "Ikhfa Shafawi",
-    "Idgham Bighunnah"
+    "Ha Dhamir terletak di antara dua huruf yang berharakat (hidup)",
+    "Ha Dhamir didahului oleh huruf yang berharakat sukun (mati)",
+    "Ha Dhamir bertemu dengan huruf Hamzah pada kata berikutnya",
+    "Ha Dhamir berada di posisi waqaf atau akhir kalimat"
   ],
-  "correctIndex": 1,
-  "explanation": "Hukum tersebut dinamakan Izhar Mutlaq (atau Wajib Izhar). Kebiasaan Nun Sukun bertemu Ya atau Wawu dibaca Idgham Bighunnah jika terjadi dalam dua kata terpisah. Namun, jika bertemu dalam satu kata (seperti pada 4 lafaz dalam Al-Qur'an: Ad-Dunya, Bunyan, Qinwan, dan Sinwan), maka wajib dibaca jelas (Izhar) agar tidak merusak struktur dan makna kata."
+  "correctIndex": 0,
+  "explanation": "Mad Shilah Qashirah terjadi apabila Ha Dhamir (kata ganti orang ketiga tunggal laki-laki) diapit oleh dua huruf yang berharakat hidup (bukan sukun) dan tidak bertemu dengan Hamzah setelahnya. Jika huruf sebelumnya sukun, maka tidak dibaca panjang (kecuali pada QS. Al-Furqan: 69 menurut riwayat Hafsh). Jika bertemu Hamzah, hukumnya berubah menjadi Mad Shilah Thawilah."
 }
