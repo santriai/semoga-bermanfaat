@@ -1,118 +1,125 @@
 {
-  "title": "Modul Pembelajaran Ushul Fiqih Dasar: Cara Mudah Memahami Pondasi Hukum Islam dari Nol",
-  "intro": "Selamat datang di modul pembelajaran Ushul Fiqih interaktif! Jika Fiqih adalah 'buah' (hukum-hukum praktis seperti shalat dan zakat), maka Ushul Fiqih adalah 'akar dan batangnya' (metode atau cara mengambil hukum dari Al-Qur'an dan Hadis). Modul ini dirancang khusus untuk pemula yang ingin memahami konsep dasar Ushul Fiqih dan mampu membaca teks Kitab Kuning dasar dengan mudah dan tepat.",
+  "title": "Modul Cepat Kuasai Ilmu Nahwu: Dari Nol Sampai Bisa Baca Kitab Kuning",
+  "intro": "Selamat datang di perjalanan memahami bahasa Al-Qur'an dan Kitab Kuning. Modul ini dirancang khusus untuk pemula agar bisa memahami struktur kalimat bahasa Arab dengan cara yang paling sederhana. Targetnya, Anda akan memahami mengapa sebuah kata dibaca 'u', 'a', atau 'i' di akhir kalimat, sehingga Anda bisa mulai membaca teks Arab gundul secara mandiri.",
   "steps": [
     {
       "stepNumber": 1,
-      "title": "Mengenal Pondasi: Apa itu Ushul Fiqih dan 5 Hukum Taklifi",
-      "explanation": "Ushul Fiqih adalah ilmu tentang kaidah-kaidah untuk mengeluarkan hukum syariat dari dalil-dalilnya. Sebelum membedah teks, kita wajib memahami 5 Hukum Taklifi dasar yang menjadi muara dari seluruh pembahasan Fiqih: Wajib, Sunnah, Haram, Makruh, dan Mubah.",
+      "title": "Mengenal Bahan Bangunan Kalimat (Al-Kalam)",
+      "explanation": "Sebelum membangun rumah, kita harus tahu bahannya. Dalam bahasa Arab, setiap kata hanya terbagi menjadi 3 jenis: 1. Isim (Nama/Benda), 2. Fi'il (Kata Kerja), dan 3. Huruf (Kata Sambung). Kuncinya: Isim biasanya berakhiran Tanwin atau diawali 'Al'. Fi'il berkaitan dengan waktu. Huruf tidak punya arti sempurna jika sendirian.",
       "examples": [
         {
-          "arabic": "الْوَاجِبُ مَا يُثَابُ عَلَى فِعْلِهِ وَيُعَاقَبُ عَلَى تَرْكِهِ",
-          "read": "Al-waajibu maa yuthaabu 'alaa fi'lihi wa yu'aaqabu 'alaa tarkihi",
-          "meaning": "Wajib adalah apa yang diberi pahala jika dikerjakan dan dihukum/diberi dosa jika ditinggalkan.",
-          "note": "Kata 'الْوَاجِبُ' adalah Isim Fa'il/Mubtada' (Subjek), 'مَا' adalah Isim Mashul, 'يُثَابُ' adalah Fi'il Mudhari' Majhul (Pasif: Diberi pahala)."
+          "arabic": "كِتَابٌ",
+          "read": "Kitaabun",
+          "meaning": "Sebuah Buku",
+          "note": "Ini adalah ISIM karena berakhiran tanwin (un)."
         },
         {
-          "arabic": "الْحَرَامُ مَا يُثَابُ عَلَى تَرْكِهِ وَيُعَاقَبُ عَلَى فِعْلِهِ",
-          "read": "Al-haraamu maa yuthaabu 'alaa tarkihi wa yu'aaqabu 'alaa fi'lihi",
-          "meaning": "Haram adalah apa yang diberi pahala jika ditinggalkan dan dihukum jika dikerjakan.",
-          "note": "Kebalikan dari Wajib. Perhatikan perubahan posisi 'تَرْكِهِ' (meninggalkannya) dan 'فِعْلِهِ' (mengerjakannya)."
+          "arabic": "قَرَأَ",
+          "read": "Qara-a",
+          "meaning": "Dia telah membaca",
+          "note": "Ini adalah FI'IL karena menunjukkan aktivitas di masa lampau."
+        },
+        {
+          "arabic": "فِي",
+          "read": "Fii",
+          "meaning": "Di dalam",
+          "note": "Ini adalah HURUF karena hanya berfungsi sebagai penyambung."
         }
       ],
-      "actionTip": "Hafalkan definisi Wajib dan Haram di atas beserta pola bahasa Arabnya, karena definisi ini selalu diulang dalam kitab-kitab Ushul Fiqih seperti Matan Al-Waraqat."
+      "actionTip": "Coba ambil satu ayat Al-Qur'an, lalu tunjuk mana kata yang berakhiran tanwin. Itu pasti Isim!"
     },
     {
       "stepNumber": 2,
-      "title": "Kaidah Perintah (Al-Amru): Menemukan Hukum Wajib",
-      "explanation": "Bagaimana para ulama menyimpulkan bahwa shalat itu Wajib? Mereka menggunakan kaidah 'Al-Amru' (Kalimat Perintah). Rumus dasarnya: Setiap bentuk perintah asal hukumnya menunjukkan kewajiban, kecuali ada dalil lain yang memalingkannya menjadi sunnah.",
+      "title": "Memahami Perubahan Bunyi Akhir (I'rab)",
+      "explanation": "Nahwu adalah ilmu tentang 'bunyi akhir'. Perubahan ini disebut I'rab. Ada 3 yang utama untuk pemula: 1. Marfu' (biasanya berbunyi 'U'), 2. Manshub (biasanya berbunyi 'A'), dan 3. Majrur (biasanya berbunyi 'I'). Perubahan ini terjadi tergantung posisi kata tersebut dalam kalimat.",
       "examples": [
         {
-          "arabic": "الأَصْلُ فِي الأَمْرِ لِلْوُجُوبِ",
-          "read": "Al-aslu fil-amri lil-wujuubi",
-          "meaning": "Hukum asal dari sebuah perintah adalah menunjukkan Wajib.",
-          "note": "Kaidah emas dalam Ushul Fiqih. 'الأَصْلُ' (Asal/Pondasi), 'الأَمْرِ' (Perintah), 'لِلْوُجُوبِ' (Untuk Kewajiban)."
+          "arabic": "جَاءَ زَيْدٌ",
+          "read": "Jaa-a Zaidun",
+          "meaning": "Zaid telah datang",
+          "note": "Zaidun dibaca 'un' (Marfu') karena dia adalah Pelaku (Fa'il)."
         },
         {
-          "arabic": "وَأَقِيمُوا الصَّلَاةَ",
-          "read": "Wa aqiimus-shalaata",
-          "meaning": "Dan dirikanlah oleh kalian akan shalat.",
-          "note": "'أَقِيمُوا' adalah Fi'il Amar (Kata Kerja Perintah) untuk jamak. Karena ada perintah, maka hukum shalat menjadi WAJIB."
+          "arabic": "رَأَيْتُ زَيْدًا",
+          "read": "Ra-aitu Zaidan",
+          "meaning": "Aku melihat Zaid",
+          "note": "Zaidan dibaca 'an' (Manshub) karena dia adalah Objek (Ma'ful Bih)."
+        },
+        {
+          "arabic": "مَرَرْتُ بِزَيْدٍ",
+          "read": "Marartu bi Zaidin",
+          "meaning": "Aku berpapasan dengan Zaid",
+          "note": "Zaidin dibaca 'in' (Majrur) karena didahului huruf jar 'bi'."
         }
       ],
-      "actionTip": "Setiap kali Anda membaca Al-Qur'an dan menemukan kata kerja bentuk Perintah (Fi'il Amar), langsung ingat bahwa hukum asalnya adalah WAJIB!"
+      "actionTip": "Ingat rumus ini: Pelaku = U, Objek = A, Setelah kata depan = I."
     },
     {
       "stepNumber": 3,
-      "title": "Kaidah Larangan (An-Nahyu): Menemukan Hukum Haram",
-      "explanation": "Kebalikan dari perintah adalah larangan (An-Nahyu). Rumus praktisnya: Setiap kata yang mengandung larangan melarang sesuatu, hukum asalnya adalah HARAM untuk dikerjakan.",
+      "title": "Menyusun Kalimat Kerja (Jumlah Fi'liyyah)",
+      "explanation": "Dalam Kitab Kuning, kalimat sering diawali dengan kata kerja. Rumus dasarnya adalah: FI'IL (Kata Kerja) + FA'IL (Pelaku). Aturan emasnya: Pelaku (Fa'il) harus selalu MARFU' (berharakat dhommah/bunyi 'U').",
       "examples": [
         {
-          "arabic": "الأَصْلُ فِي النَّهْيِ لِلتَّحْرِيمِ",
-          "read": "Al-aslu fin-nahyi lit-tahriimi",
-          "meaning": "Hukum asal dari suatu larangan adalah menunjukkan Haram.",
-          "note": "'النَّهْيِ' bermakna larangan (biasanya diawali huruf Laa Nahiyah + Fi'il Mudhari'). 'لِلتَّحْرِيمِ' artinya untuk pengharaman."
+          "arabic": "نَصَرَ اللهُ",
+          "read": "Nasharallahu",
+          "meaning": "Allah telah menolong",
+          "note": "Lafadz Allah berakhiran 'u' karena berposisi sebagai Pelaku (Fa'il)."
         },
         {
-          "arabic": "وَلَا تَقْرَبُوا الزِّنَى",
-          "read": "Wa laa taqrabuz-zinaa",
-          "meaning": "Dan janganlah kalian mendekati zina.",
-          "note": "'لَا تَقْرَبُوا' adalah Laa Nahiyah (Jangan) + Fi'il Mudhari'. Karena berbentuk larangan, maka mendekati zina hukumnya HARAM."
+          "arabic": "يَكْتُبُ التِّلْمِيْذُ",
+          "read": "Yaktubu at-tilmiidzu",
+          "meaning": "Murid itu sedang menulis",
+          "note": "At-tilmiidzu berakhiran 'u' karena dia yang melakukan pekerjaan menulis."
         }
       ],
-      "actionTip": "Cari bentuk 'لا' (Jangan) yang diikuti kata kerja di Al-Qur'an, itu adalah tanda tegas bahwa perbuatan tersebut bernilai Haram."
+      "actionTip": "Setiap menemukan kata kerja, langsung cari siapa pelakunya dan beri harakat dhommah di akhirnya."
     },
     {
       "stepNumber": 4,
-      "title": "Cakupan Lafazh: Mana yang Umum ('Am) dan Khusus (Khash)",
-      "explanation": "Teks syariat ada yang sifatnya mencakup semua orang/kejadian (Lafazh 'Am / Umum), dan ada yang hanya berlaku untuk orang/kondisi tertentu (Lafazh Khash / Khusus). Menyaring mana yang umum dan khusus adalah keahlian utama ahli Ushul Fiqih.",
+      "title": "Menyusun Kalimat Berita (Jumlah Ismiyyah)",
+      "explanation": "Jika kalimat diawali dengan Isim (Kata Benda), maka rumusnya adalah: MUBTADA' (Subjek) + KHABAR (Predikat/Berita). Keduanya harus kompak berakhiran 'U' (Marfu'). Mubtada' biasanya ada 'Al', sedangkan Khabar biasanya Tanwin.",
       "examples": [
         {
-          "arabic": "إِنَّ الْإِنْسَانَ لَفِي خُسْرٍ",
-          "read": "Innal-insaana lafii khusr",
-          "meaning": "Sungguh, seluruh manusia itu benar-benar berada dalam kerugian.",
-          "note": "Kata 'الْإِنْسَانَ' diawali Alif Lam (ال) Istighraqiyah, yang berarti mencakup SELURUH manusia tanpa terkecuali (Lafazh 'Am)."
+          "arabic": "اَلْمَسْجِدُ كَبِيْرٌ",
+          "read": "Al-masjidu kabiirun",
+          "meaning": "Masjid itu besar",
+          "note": "Al-masjidu (Subjek) dan Kabiirun (Berita) keduanya berakhiran 'u'."
         },
         {
-          "arabic": "إِلَّا الَّذِينَ آمَنُوا",
-          "read": "Illal-ladhiina aamanuu",
-          "meaning": "Kecuali orang-orang yang beriman.",
-          "note": "Kata 'إِلَّا' (Kecuali) adalah alat Takhsish (pengecualian) yang mengeluarkan orang beriman dari hukum rugi tersebut (Lafazh Khash)."
+          "arabic": "اَلْعِلْمُ نُوْرٌ",
+          "read": "Al-'ilmu nuurun",
+          "meaning": "Ilmu itu cahaya",
+          "note": "Ini adalah struktur dasar kalimat informasi dalam bahasa Arab."
         }
       ],
-      "actionTip": "Perhatikan kata kunci umum seperti 'كُلّ' (Setiap/Semua) atau 'ال' (Seluruh), dan kata pengecualian seperti 'إِلَّا' (Kecuali)."
+      "actionTip": "Coba buat kalimat pendek: (Benda) itu (Sifat). Contoh: Al-Babu Maftuhun (Pintu itu terbuka)."
     },
     {
       "stepNumber": 5,
-      "title": "Mengenal Dalil Kesepakatan dan Analogi: Ijma' & Qiyas",
-      "explanation": "Jika suatu masalah baru tidak tertulis secara eksplisit kata-per-kata di Al-Qur'an/Hadis (seperti narkoba, zakat beras), ulama menggunakan Ijma' (Konsensus Ulama) atau Qiyas (Analogi Hukum berdasarkan persamaan 'Illat/sebab).",
+      "title": "Praktek Membaca Teks Tanpa Harakat",
+      "explanation": "Sekarang kita gabungkan semuanya. Untuk membaca kitab gundul, lihat posisi katanya. Apakah dia pelaku? Apakah dia diawali kata depan? Apakah dia subjek di awal kalimat?",
       "examples": [
         {
-          "arabic": "الْإِجْمَاعُ حُجَّةٌ قَاطِعَةٌ",
-          "read": "Al-ijmaa'u hujjatu qaathi'atun",
-          "meaning": "Ijma' (kesepakatan ulama) adalah argumentasi hukum yang pasti.",
-          "note": "'الْإِجْمَاعُ' adalah Mubtada' (Subjek), 'حُجَّةٌ' adalah Khabar (Predikat), 'قَاطِعَةٌ' adalah Sifat/Na'at (yang pasti)."
-        },
-        {
-          "arabic": "الْقِيَاسُ إِلْحَاقُ فَرْعٍ بِأَصْلٍ فِي حُكْمٍ",
-          "read": "Al-qiyaasu ilhaaqu far'in bi-ashlin fii hukmin",
-          "meaning": "Qiyas adalah menyamakan kasus cabang (baru) dengan kasus pokok (lama) dalam hukumnya.",
-          "note": "Contoh: Mengkiaskan Narkoba (Far'un) dengan Khamar (Ashl) karena sama-sama memabukkan ('Illat), sehingga hukumnya sama-sama HARAM."
+          "arabic": "ذَهَبَ مُحَمَّدٌ إِلَى الْمَدْرَسَةِ",
+          "read": "Dzahaba Muhammadun ilal-madrasati",
+          "meaning": "Muhammad pergi ke sekolah",
+          "note": "Muhammadun (u) karena pelaku, Al-madrasati (i) karena setelah kata depan 'ila'."
         }
       ],
-      "actionTip": "Gunakan rumus Qiyas sederhana: [Masalah Baru] + [Masalah Lama di Qur'an] + [Sebab Sama] = [Hukum Sama]."
+      "actionTip": "Jangan takut salah. Mulailah dengan menentukan mana kata kerja dan mana pelakunya dalam satu paragraf pendek."
     }
   ],
   "sections": [
     {
-      "title": "Ringkasan Kaidah Penting Ushul Fiqih yang Wajib Dihafal",
-      "content": "1. الأَصْلُ فِي الأَمْرِ لِلْوُجُوبِ (Perintah asal hukumnya Wajib)\n2. الأَصْلُ فِي النَّهْيِ لِلتَّحْرِيمِ (Larangan asal hukumnya Haram)\n3. العَادَةُ مُحَكَّمَةٌ (Adat istiadat bisa menjadi pertimbangan hukum)\n4. اليَقِينُ لَا يَزُولُ بِالشَّكِّ (Keyakinan tidak bisa digoyahkan oleh keraguan)\n5. المَشَقَّةُ تَجْلِبُ التَّيْسِيرَ (Kesulitan membawa kepada kemudahan/rukhsah)"
+      "title": "Ringkasan Kaidah Penting",
+      "content": "1. Isim = Nama, Fi'il = Kerja, Huruf = Sambung. 2. Pelaku (Fa'il) wajib Dhommah (U). 3. Objek (Ma'ful) wajib Fathah (A). 4. Kata setelah Huruf Jar (seperti: min, ila, 'an, 'ala, fii) wajib Kasrah (I). 5. Subjek di awal (Mubtada') wajib Dhommah (U)."
     }
   ],
   "tips": [
-    "Pahami logika hukumnya terlebih dahulu sebelum menghafal istilah Arabnya.",
-    "Latih kemampuan membaca Kitab Kuning tanpa harakat dengan sering mencocokkan kata-kata kunci Ushul Fiqih seperti (الأصل, الأمر, النهي, العام, الخاص).",
-    "Gunakan kaidah Ushul Fiqih saat membaca Al-Qur'an untuk memahami ALASAN di balik penetapan suatu hukum Fiqih."
+    "Fokuslah pada harakat akhir kata saja, karena itulah inti dari Ilmu Nahwu.",
+    "Hafalkan 5-10 kosakata (Isim dan Fi'il) setiap hari untuk memperkaya perbendaharaan.",
+    "Sering-seringlah melihat Al-Qur'an ber-harakat untuk membiasakan mata melihat pola I'rab.",
+    "Gunakan rumus 'U-A-I' (Pelaku-Objek-Keterangan) sebagai pegangan utama."
   ],
-  "summary": "Selamat! Anda telah mempelajari konsep dasar dan kaidah-kaidah utama Ushul Fiqih. Dengan memahami rumus-rumus sederhana ini, membaca dan menganalisis Kitab Kuning tidak lagi menjadi hal yang menakutkan, melainkan sebuah proses berpikir ilmiah yang sangat sistematis dan indah. Kuncinya adalah istiqamah dan terus berlatih membaca teks-teks klasik!"
+  "summary": "Belajar Nahwu bukanlah menghafal rumus mati, melainkan memahami logika kalimat. Dengan memahami 5 langkah di atas, Anda sudah memegang kunci utama untuk membuka gerbang pemahaman Kitab Kuning. Teruslah berlatih, karena ilmu Nahwu adalah 'ilmu alat' yang akan semakin tajam jika sering digunakan. Semangat belajar, semoga berkah!"
 }
