@@ -1,11 +1,11 @@
 {
-  "question": "Dalam ilmu tajwid, apabila Mim Sukun (مْ) bertemu secara langsung dengan huruf Mim (م), maka hukum bacaannya adalah...",
+  "question": "Apabila terdapat Nun Sukun (نْ) bertemu dengan huruf Wawu (و) atau Ya (ي) dalam satu kata (kalimat) yang sama seperti pada kata 'الدُّنْيَا' (Ad-Dunya), maka hukum bacaannya adalah...",
   "options": [
-    "Izh-har Syafawi",
-    "Idgham Mimi (Mutsamasilain)",
-    "Ikhfa Syafawi",
-    "Idgham Bighunnah"
+    "Idgham Bighunnah",
+    "Izhar Mutlaq",
+    "Ikhfa Haqiqi",
+    "Izhar Halqi"
   ],
   "correctIndex": 1,
-  "explanation": "Hukum Mim Sukun (مْ) dibagi menjadi tiga: Ikhfa Syafawi (bertemu Ba), Idgham Mimi/Mutsamasilain (bertemu Mim), dan Izh-har Syafawi (bertemu selain Ba dan Mim). Jadi, Mim Sukun bertemu Mim dibaca Idgham Mimi dengan cara memasukkan mim pertama ke mim kedua disertai dengung (ghunnah)."
+  "explanation": "Secara umum, Nun Sukun bertemu Wawu atau Ya dibaca Idgham Bighunnah jika terjadi dalam dua kata berbeda. Namun, jika terjadi dalam satu kata (seperti kata الدُّنْيَا, بُنْيَان, قِنْوَان, صِنْوَان), hukumnya menjadi Izhar Mutlaq (Izhar Wajib), yaitu wajib dibaca jelas tanpa mendengung untuk menjaga keutuhan makna kata."
 }
