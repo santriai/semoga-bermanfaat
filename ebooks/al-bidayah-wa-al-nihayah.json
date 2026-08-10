@@ -1,0 +1,338 @@
+{
+  "profile": {
+    "name": "Al-Bidayah wa al-Nihayah",
+    "originalTitle": "الْبِدَايَةُ وَالنِّهَايَةُ",
+    "author": "Al-Hafizh Imaduddin Abul Fida' Ismail ibn Umar ibn Kathir al-Qurashi ad-Dimashqi (الْحَافِظُ عِمَادُ الدِّينِ أَبُو الْفِدَاءِ إِسْمَاعِيلُ بْنُ عُمَرَ بْنِ كَثِيرٍ الْقُرَشِيُّ الدِّمَشْقِيُّ)",
+    "field": "Tarikh (Sejarah Islam), Qisas al-Anbiya', dan Al-Fitan wa al-Malahim (Eschatologi)",
+    "about": "Kitab Al-Bidayah wa al-Nihayah merupakan maha karya monumental dalam jajaran literatur sejarah Islam yang disusun oleh Al-Hafizh Ibn Kathir. Kitab ini menyajikan historiografi komprehensif mulai dari awal mula penciptaan alam semesta, Arsy, Kursi, malaikat, jin, hingga penciptaan Nabi Adam AS dan kisah para nabi. Selanjutanya, kitab ini menguraikan Sirah Nabawiyah secara terperinci, masa Khulafaur Rasyidin, serta kronik sejarah dinasti-dinasti Islam hingga zaman penulis pada abad ke-8 Hijriyah. Tidak hanya merekam peristiwa masa lalu (al-bidayah), kitab ini secara unik membentangkan peristiwa masa depan (al-nihayah) yang mencakup tanda-tanda hari kiamat, fitnah akhir zaman, huru-hara kebangkitan, hisab, sirat, hingga keadaan akhir penghuni surga dan neraka. Metodologi penyusunan kitab ini sangat kuat karena bersandar pada ayat-ayat Al-Qur'an dan riwayat hadis yang disaring secara kritis.",
+    "authorBorn": "Tahun 701 H / 1301 M di Mjdal, Busra, Suriah",
+    "authorDied": "Tahun 774 H / 1373 M di Damaskus, Suriah",
+    "authorCentury": "Abad ke-8 Hijriyah / Abad ke-14 Masehi"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah Kitab",
+      "titleArabic": "مُقَدِّمَةُ الْكِتَابِ",
+      "arabic": "الْحَمْدُ لِلَّهِ الْأَوَّلِ الْآخِرِ، الْبَاطِنِ الظَّاهِرِ، الَّذِي كَانَ وَلَا شَيْءَ مَعَهُ، ثُمَّ خَلَقَ الْخَلْقَ لِيَعْبُدُوهُ، وَقَدَّرَ الْأَقْدَارَ لِيَعْرِفُوهُ. هَذَا كِتَابٌ أَبْدَأُ فِيهِ بِذِكْرِ بَدْءِ الْخَلْقِ، مِنْ خَلْقِ الْعَرْشِ وَالْكُرْسِيِّ وَالسَّمَاوَاتِ وَالْأَرَضِينَ، وَمَا فِيهِنَّ وَمَا بَيْنَهُنَّ مِنَ الْمَلَائِكَةِ وَالْجَانِّ وَالشَّيَاطِينِ، وَكَيْفِيَّةِ خَلْقِ آدَمَ عَلَيْهِ السَّلَامُ، ثُمَّ نَذْكُرُ قِصَصَ الْأَنْبِيَاءِ ثُمَّ الْأُمَمِ الْمَاضِيَةِ، حَتَّى تَنْتَهِيَ النِّبَاءَةُ إِلَى سَيِّدِنَا مُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، ثُمَّ نَذْكُرُ الْحَوَادِثَ بَعْدَهُ إِلَى زَمَانِنَا، ثُمَّ نَذْكُرُ الْفِتَنَ وَالْمَلَاحِمَ وَأَشْرَاطَ السَّاعَةِ وَالْبَعْثَ وَالنُّشُورَ وَصِفَةَ الْجَنَّةِ وَالنَّارِ.",
+      "translation": "Segala puji bagi Allah, Yang Maha Awal dan Maha Akhir, Yang Maha Batin dan Maha Zhahir, Yang telah ada ketika belum ada sesuatu pun bersama-Nya, kemudian Dia menciptakan makhluk agar mereka menyembah-Nya, dan menentukan takdir-takdir agar mereka mengenal-Nya. Ini adalah kitab yang aku mulai dengan menyebutkan awal mula penciptaan, mulai dari penciptaan Arsy, Kursi, langit, bumi, serta apa yang ada pada keduanya dan di antara keduanya berupa malaikat, jin, dan setan, serta tata cara penciptaan Adam 'alaihis salam. Kemudian kami sebutkan kisah-kisah para nabi lalu umat-umat terdahulu, hingga kenabian berakhir pada junjungan kita Muhammad SAW, lalu kami sebutkan peristiwa-peristiwa setelahnya hingga zaman kita, kemudian kami sebutkan fitnah-fitnah, perang-perang besar, tanda-tanda hari kiamat, kebangkitan, serta sifat surga dan neraka."
+    },
+    {
+      "title": "Penciptaan Arsy dan Kursi",
+      "titleArabic": "بَابُ خَلْقِ الْعَرْشِ وَالْكُرْسِيِّ",
+      "arabic": "قَالَ اللهُ تَعَالَى: {وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ}. وَالْعَرْشُ فِي اللُّغَةِ هُوَ السَّرِيرُ لِلْمَلِكِ، وَهُوَ سَقْفُ الْمَخْلُوقَاتِ وَأَعْظَمُهَا وَأَكْبَرُهَا. وَعَنْ أَبِي ذَرٍّ رَضِيَ اللهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «مَا السَّمَاوَاتُ السَّبْعُ فِي الْكُرْسِيِّ إِلَّا كَحَلْقَةٍ مُلْقَاةٍ بِأَرْضٍ فَلاَةٍ، وَفَضْلُ الْعَرْشِ عَلَى الْكُرْسِيِّ كَفَضْلِ تِلْكَ الْفَلَاةِ عَلَى تِلْكَ الْحَلْقَةِ».",
+      "translation": "Allah Ta'ala berfirman: 'Dan Dia adalah Rabb Arsy yang agung.' Arsy secara bahasa adalah singgasana bagi raja, dan ia merupakan atap bagi seluruh makhluk, yang paling agung dan paling besar. Dari Abu Dharr RA berkata: Rasulullah SAW bersabda: 'Tidaklah langit yang tujuh dibandingkan dengan Kursi melainkan seperti sebuah cincin yang dilemparkan di padang pasir yang luas, dan keunggulan Arsy atas Kursi adalah seperti keunggulan padang pasir yang luas itu atas cincin tersebut.'"
+    },
+    {
+      "title": "Penciptaan Lauhul Mahfuzh dan Al-Qalam",
+      "titleArabic": "بَابُ خَلْقِ اللَّوْحِ الْمَحْفُوظِ وَالْقَلَمِ",
+      "arabic": "عَنْ عُبَادَةَ بْنِ الصَّامِتِ رَضِيَ اللهُ عَنْهُ قَالَ: سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «إِنَّ أَوَّلَ مَا خَلَقَ اللهُ الْقَلَمَ، فَقَالَ لَهُ: اكْتُبْ، قَالَ: رَبِّ وَمَاذَا أَكْتُبُ؟ قَالَ: اكْتُبْ مَقَادِيرَ كُلِّ شَيْءٍ حَتَّى تَقُومَ السَّاعَةُ». وَاللَّوْحُ الْمَحْفُوظُ هُوَ الَّذِي كُتِبَتْ فِيهِ مَقَادِيرُ الْخَلَائِقِ قَبْلَ أَنْ يُخْلَقُوا.",
+      "translation": "Dari 'Ubadah bin ash-Shamit RA berkata: Aku mendengar Rasulullah SAW bersabda: 'Sesungguhnya hal pertama yang diciptakan Allah adalah Al-Qalam (pena), lalu Dia berfirman kepadanya: Tuliskanlah! Pena bertanya: Wahai Rabbku, apa yang harus aku tulis? Allah berfirman: Tuliskanlah takdir-takdir segala sesuatu hingga berdirinya hari kiamat.' Dan Lauhul Mahfuzh adalah tempat tertulisnya takdir-takdir seluruh makhluk sebelum mereka diciptakan."
+    },
+    {
+      "title": "Penciptaan Langit, Bumi, dan Isinya",
+      "titleArabic": "بَابُ خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا",
+      "arabic": "قَالَ اللهُ تَعَالَى: {إِنَّ رَبَّكُمُ اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ}. خَلَقَ اللهُ الأَرْضَ فِي يَوْمَيْنِ، وَقَدَّرَ فِيهَا أَقْوَاتَهَا فِي أَرْبَعَةِ أَيَّامٍ سَوَاءً لِلسَّائِلِينَ، ثُمَّ اسْتَوَى إِلَى السَّمَاءِ وَهِيَ دُخَانٌ فَقَالَ لَهَا وَلِلْأَرْضِ ائْتِيَا طَوْعًا أَوْ كَرْهًا قَالَتَا أَتَيْنَا طَائِعِينَ.",
+      "translation": "Allah Ta'ala berfirman: 'Sesungguhnya Rabb kalian adalah Allah yang menciptakan langit dan bumi dalam enam masa kemudian Dia bersemayam di atas Arsy.' Allah menciptakan bumi dalam dua masa, dan menentukan makanan-makanan penghuninya dalam empat masa yang cukup bagi orang-orang yang bertanya, kemudian Dia menuju kepada penciptaan langit dan langit itu masih berupa asap, lalu Dia berfirman kepadanya dan kepada bumi: 'Datanglah kamu keduanya menurut perintah-Ku dengan suka hati atau terpaksa.' Keduanya menjawab: 'Kami datang dengan suka hati.'"
+    },
+    {
+      "title": "Penciptaan Malaikat dan Sifat-sifat Mereka",
+      "titleArabic": "بَابُ خَلْقِ الْمَلَائِكَةِ وَصِفَاتِهِمْ",
+      "arabic": "عَنْ عَائِشَةَ رَضِيَ اللهُ عَنْهَا قَالَتْ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «خُلِقَتِ الْمَلَائِكَةُ مِنْ نُورٍ، وَخُلِقَ الْجَانُّ مِنْ مَارِجٍ مِنْ نَارٍ، وَخُلِقَ آدَمُ مِمَّا وُصِفَ لَكُمْ». وَالْمَلَائِكَةُ عِبَادٌ مُكْرَمُونَ، لَا يَعْصُونَ اللهَ مَا أَمَرَهُمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ.",
+      "translation": "Dari Aisyah RA berkata: Rasulullah SAW bersabda: 'Malaikat diciptakan dari cahaya, jin diciptakan dari nyala api tanpa asap, dan Adam diciptakan dari apa yang telah dijelaskan kepada kalian.' Dan para malaikat adalah hamba-hamba yang dimuliakan, mereka tidak mendurhakai Allah terhadap apa yang Diperintahkan-Nya kepada mereka dan selalu mengerjakan apa yang diperintahkan."
+    },
+    {
+      "title": "Penciptaan Jin dan Pembangkangan Iblis",
+      "titleArabic": "بَابُ خَلْقِ الْجَانِّ وَقِصَّةِ إِبْلِيسَ",
+      "arabic": "وَالْجَانُّ خُلِقُوا قَبْلَ آدَمَ عَلَيْهِ السَّلَامُ مِنْ مَارِجٍ مِنْ نَارٍ. وَكَانَ إِبْلِيسُ مَعَ الْمَلَائِكَةِ فِي الْبِدَايَةِ يَعْبُدُ اللهَ، فَلَمَّا أُمِرَ بِالسُّجُودِ لآدَمَ أَبَى وَاسْتَكْبَرَ وَكَانَ مِنَ الْكَافِرِينَ، فَقَالَ: {أَنَا خَيْرٌ مِنْهُ خَلَقْتَنِي مِنْ نَارٍ وَخَلَقْتَهُ مِنْ طِينٍ}.",
+      "translation": "Dan jin diciptakan sebelum Nabi Adam 'alaihis salam dari nyala api tanpa asap. Adalah Iblis pada mulanya berada bersama para malaikat beribadah kepada Allah, namun ketika diperintahkan untuk bersujud kepada Adam, ia enggan dan menyombongkan diri serta termasuk golongan yang kafir, lalu ia berkata: 'Aku lebih baik daripadanya, Engkau ciptakan aku dari api sedangkan Engkau ciptakan dia dari tanah.'"
+    },
+    {
+      "title": "Penciptaan Nabi Adam 'Alaihis Salam",
+      "titleArabic": "بَابُ خَلْقِ آدَمَ عَلَيْهِ السَّلَامُ",
+      "arabic": "خَلَقَ اللهُ آدَمَ بِيَدِهِ مِنْ قَبْضَةٍ قَبَضَهَا مِنْ جَمِيعِ الْأَرْضِ، فَجَاءَ بَنُوهُ عَلَى قَدْرِ الْأَرْضِ، مِنْهُمُ الْأَحْمَرُ وَالْأَبْيَضُ وَالْأَسْوَدُ وَبَيْنَ ذَلِكَ. وَنَفَخَ فِيهِ مِنْ رُوحِهِ، وَأَمَرَ الْمَلَائِكَةَ بِالسُّجُودِ لَهُ سُجُودَ تَحِيَّةٍ وَإِكْرَامٍ، وَعَلَّمَهُ الْأَسْمَاءَ كُلَّهَا.",
+      "translation": "Allah menciptakan Adam dengan tangan-Nya dari segenggam tanah yang diambil dari seluruh penjuru bumi, maka anak cucunya datang sesuai dengan kadar unsur bumi tersebut, di antara mereka ada yang berkulit merah, putih, hitam, dan di antara warna-warna tersebut. Dan Allah meniupkan ruh-Nya ke dalam tubuhnya, serta memerintahkan para malaikat untuk bersujud kepadanya sebagai sujud penghormatan dan pemuliaan, lalu mengajarkan kepadanya nama-nama benda seluruhnya."
+    },
+    {
+      "title": "Kisah Habil dan Qabil",
+      "titleArabic": "قِصَّةُ هَابِيلَ وَقَابِيلَ",
+      "arabic": "وَذَكَرَ اللهُ تَعَالَى قِصَّةَ ابْنَيْ آدَمَ لِصُلْبِهِ هَابِيلَ وَقَابِيلَ، حِينَ قَرَّبَا قُرْبَانًا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَهُوَ هَابِيلُ، وَلَمْ يُتَقَبَّلْ مِنَ الْآخَرِ وَهُوَ قَابِيلُ. فَحَسَدَ قَابِيلُ أَخَاهُ وَقَتَلَهُ، فَكَانَ أَوَّلَ مَنْ سَنَّ الْقَتْلَ فِي الْأَرْضِ.",
+      "translation": "Dan Allah Ta'ala menyebutkan kisah dua putra kandung Adam, yaitu Habil dan Qabil, ketika keduanya mempersembahkan kurban, maka diterima dari salah satunya yaitu Habil, dan tidak diterima dari yang lain yaitu Qabil. Maka Qabil merasa dengki kepada saudaranya lalu membunuhnya, sehingga ia menjadi orang pertama yang mencontohkan pembunuhan di muka bumi."
+    },
+    {
+      "title": "Kisah Nabi Sheth dan Nabi Idris 'Alaihimas Salam",
+      "titleArabic": "قِصَّةُ شِيثَ وَإِدْرِيسَ عَلَيْهِمَا السَّلَامُ",
+      "arabic": "فَلَمَّا مَاتَ آدَمُ عَلَيْهِ السَّلَامُ، قَامَ بِالْأَمْرِ بَعْدَهُ ابْنُهُ شِيثُ عَلَيْهِ السَّلَامُ، وَمَعْنَاهُ هِبَةُ اللهِ. ثُمَّ كَانَ بَعْدَهُ نَبِيُّ اللهِ إِدْرِيسُ عَلَيْهِ السَّلَامُ، وَهُوَ أَوَّلُ مَنْ خَطَّ بِالْقَلَمِ، وَأَثْنَى اللهُ عَلَيْهِ فَقَالَ: {وَاذْكُرْ فِي الْكِتَابِ إِدْرِيسَ إِنَّهُ كَانَ صِدِّيقًا نَبِيًّا وَرَفَعْنَاهُ مَكَانًا عَلِيًّا}.",
+      "translation": "Maka tatkala Nabi Adam 'alaihis salam wafat, urusan kenabian dilanjutkan oleh putranya Sheth 'alaihis salam, yang artinya 'Anugerah Allah'. Kemudian setelahnya adalah Nabi Allah Idris 'alaihis salam, dan beliau adalah orang pertama yang menulis dengan pena, dan Allah memujinya dengan firman-Nya: 'Dan ceritakanlah kisah Idris di dalam Al-Kitab, sesungguhnya ia adalah seorang yang sangat membenarkan dan seorang nabi, dan Kami telah mengangkatnya ke tempat yang tinggi.'"
+    },
+    {
+      "title": "Kisah Nabi Nuh 'Alaihis Salam dan Peristiwa Tufan",
+      "titleArabic": "قِصَّةُ نُوحٍ عَلَيْهِ السَّلَامُ وَالطُّوفَانِ",
+      "arabic": "بَعَثَ اللهُ نُوحًا عَلَيْهِ السَّلَامُ لَمَّا عُبِدَتِ الْأَصْنَامُ فِي الْأَرْضِ، فَدَعَا قَوْمَهُ أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ عَامًا، فَلَمْ يُؤْمِنْ مَعَهُ إِلَّا قَلِيلٌ. فَأَمَرَهُ اللهُ بِبِنَاءِ السَّفِينَةِ، وَأَرْسَلَ اللهُ الطُّوفَانَ الْعَظِيمَ فَأَغْرَقَ الْكَافِرِينَ جَمِيعًا وَأَنْجَى اللهُ نُوحًا وَمَنْ مَعَهُ فِي السَّفِينَةِ.",
+      "translation": "Allah mengutus Nuh 'alaihis salam ketika berhala-berhala mulai disembah di bumi, maka beliau menyeru kaumnya selama seribu tahun kurang lima puluh tahun, namun tidak ada yang beriman bersamanya melainkan sedikit. Lalu Allah memerintahkannya membuat kapal, dan Allah mengirimkan taufan (banjir bandang) yang dahsyat hingga menenggelamkan seluruh orang kafir, dan Allah menyelamatkan Nuh beserta orang-orang yang bersamanya di dalam kapal."
+    },
+    {
+      "title": "Kisah Nabi Hud 'Alaihis Salam dan Kaum 'Ad",
+      "titleArabic": "قِصَّةُ هُودٍ عَلَيْهِ السَّلَامُ وَعَادٍ",
+      "arabic": "أَرْسَلَ اللهُ هُودًا عَلَيْهِ السَّلَامُ إِلَى قَوْمِ عِادٍ، وَكَانُوا أُولِي قُوَّةٍ وَبَطْشٍ وَأَجْسَامٍ طِوَالٍ، يَبْنُونَ بِكُلِّ رِيعٍ آيَةً يَعْبَثُونَ. فَلَمَّا كَذَّبُوهُ، أَرْسَلَ اللهُ عَلَيْهِمْ رِيحًا صَرْصَرًا عَاتِيَةً، سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ وَثَمَانِيَةَ أَيَّامٍ حُسُومًا فَهَلَكُوا.",
+      "translation": "Allah mengutus Hud 'alaihis salam kepada kaum 'Ad, yang mana mereka adalah pemilik kekuatan, keperkasaan, dan tubuh yang tinggi, mereka membangun istana-istana di setiap tempat yang tinggi untuk bermain-main. Namun ketika mereka mendustakannya, Allah mengirimkan kepada mereka angin sakal yang sangat dingin dan kencang, yang Menimpa mereka selama tujuh malam dan delapan hari terus menerus hingga mereka binasa."
+    },
+    {
+      "title": "Kisah Nabi Salih 'Alaihis Salam dan Kaum Thamud",
+      "titleArabic": "قِصَّةُ صَالِحٍ عَلَيْهِ السَّلَامُ وَثَمُودَ",
+      "arabic": "وَبَعَثَ اللهُ صَالِحًا إِلَى ثَمُودَ الَّذِينَ يَنْحِتُونَ مِنَ الْجِبَالِ بُيُوتًا فَارِهِينَ. وَآتَاهُمُ اللهُ النَّاقَةَ آيَةً وَفِتْنَةً لَهُمْ، فَعَقَرُوا النَّاقَةَ وَعَتَوْا عَنْ أَمْرِ رَبِّهِمْ، فَأَخَذَتْهُمُ الصَّيْحَةُ وَالرَّجْفَةُ فَأَصْبَحُوا فِي دَارِهِمْ جَاثِمِينَ.",
+      "translation": "Dan Allah mengutus Salih kepada kaum Thamud yang memahat gunung-gunung batu menjadi rumah-rumah dengan mahir. Dan Allah memberikan kepada mereka unta betina sebagai mukjizat dan ujian bagi mereka, lalu mereka menyembelih unta itu dan berlaku angkuh terhadap perintah Rabb mereka, maka mereka ditimpa suara menggelegar dan gempa dahsyat sehingga jadilah mereka mati bergelimpangan di rumah-rumah mereka."
+    },
+    {
+      "title": "Kisah Nabi Ibrahim Khalilullah 'Alaihis Salam",
+      "titleArabic": "قِصَّةُ إِبْرَاهِيمَ خَلِيلِ الرَّحْمَنِ عَلَيْهِ السَّلَامُ",
+      "arabic": "إِبْرَاهِيمُ عَلَيْهِ السَّلَامُ هُوَ خَلِيلُ اللهِ وَإِمَامُ الْحُنَفَاءِ. كَسَّرَ الْأَصْنَامَ الَّتِي كَانَ يَعْبُدُهَا قَوْمُهُ، فَأَلْقَوْهُ فِي النَّارِ فَجَعَلَهَا اللهُ بَرْدًا وَسَلَامًا عَلَيْهِ. وَهُوَ الَّذِي بَنَى الْبَيْتَ الْعَتِيقَ مَعَ ابْنِهِ إِسْمَاعِيلَ بِأَمْرِ اللهِ تَعَالَى.",
+      "translation": "Ibrahim 'alaihis salam adalah kekasih Allah (Khalilullah) dan imam orang-orang yang lurus. Beliau menghancurkan berhala-berhala yang disembah oleh kaumnya, lalu mereka melemparkannya ke dalam api, namun Allah menjadikannya dingin dan selamat bagi Ibrahim. Dan beliaulah yang membangun Baitullah bersama putranya Ismail atas perintah Allah Ta'ala."
+    },
+    {
+      "title": "Kisah Nabi Lut 'Alaihis Salam dan Negeri Sodom",
+      "titleArabic": "قِصَّةُ لُوطٍ عَلَيْهِ السَّلَامُ وَقَوْمِهِ",
+      "arabic": "كَانَ لُوطٌ عَلَيْهِ السَّلَامُ ابْنَ أَخِي إِبْرَاهِيمَ، أُرْسِلَ إِلَى أَهْلِ سَدُومَ الَّذِينَ كَانُوا يَأْتُونَ الْفَاحِشَةَ مَا سَبَقَهُمْ بِهَا مِنْ أَحَدٍ مِنَ الْعَالَمِينَ. فَلَمَّا لَمْ يَنْتَهُوا، جَعَلَ اللهُ عَالِيَهَا سَافِلَهَا وَأَمْطَرَ عَلَيْهِمْ حِجَارَةً مِنْ سِجِّيلٍ مَنْضُودٍ.",
+      "translation": "Lut 'alaihis salam adalah keponakan Nabi Ibrahim, dikirim kepada penduduk Sodom yang melakukan perbuatan keji yang belum pernah dilakukan oleh seorang pun di alam semesta sebelumnya. Ketika mereka tidak mau berhenti, Allah membalikkan negeri mereka (bagian atas menjadi di bawah) dan melempar mereka dengan batu-batu dari tanah yang terbakar secara bertubi-tubi."
+    },
+    {
+      "title": "Kisah Nabi Ismail dan Nabi Ishaq 'Alaihimas Salam",
+      "titleArabic": "قِصَّةُ إِسْمَاعِيلَ وَإِسْحَاقَ عَلَيْهِمَا السَّلَامُ",
+      "arabic": "إِسْمَاعِيلُ هُوَ الذَّبِيحُ، أَبُو الْعَرَبِ الْمُسْتَعْرِبَةِ، الصَّابِرُ الْمُوفِي بِالْوَعْدِ. وَإِسْحَاقُ هُوَ أَبُو يَعْقُوبَ (إِسْرَائِيلَ)، وَمِنْ ذُرِّيَّتِهِ أَنْبِيَاءُ بَنِي إِسْرَائِيلَ. وَكِلَاهُمَا مِنْ بَشَارَةِ اللهِ لِإِبْرَاهِيمَ الْخَلِيلِ.",
+      "translation": "Ismail adalah orang yang dikurbankan (al-Dhabih), nenek moyang bangsa Arab Musta'ribah, seorang yang sabar dan menepati janji. Sedangkan Ishaq adalah ayah dari Ya'qub (Israel), dan dari keturunannya lahirlah para nabi Bani Israil. Dan keduanya merupakan kabar gembira dari Allah untuk Ibrahim sang Khalil."
+    },
+    {
+      "title": "Kisah Nabi Yusuf as-Siddiq 'Alaihis Salam",
+      "titleArabic": "قِصَّةُ يُوسُفَ الصِّدِّيقِ عَلَيْهِ السَّلَامُ",
+      "arabic": "قِصَّةُ يُوسُفَ هِيَ أَحْسَنُ الْقَصَصِ فِي الْقُرْآنِ. أَلْقَاهُ إِخْوَتُهُ فِي الْجُبِّ حَسَدًا، ثُمَّ بِيعَ فِي مِصْرَ، وَابْتُلِيَ بِامْرَأَةِ الْعَزِيزِ فَصَبَرَ وَاعْتَصَمَ، ثُمَّ سُجِنَ، ثُمَّ مَكَّنَ اللهُ لَهُ فِي الْأَرْضِ وَجَعَلَهُ عَلَى خَزَائِنِ مِصْرَ.",
+      "translation": "Kisah Yusuf merupakan kisah terbaik dalam Al-Qur'an. Sdr-saudaranya melemparkannya ke dalam sumur karena dengki, kemudian ia dijual di Mesir, lalu diuji dengan godaan istri Al-Aziz namun ia bersabar dan memegang teguh kesucian, kemudian dipenjara, lalu Allah memberikan kedudukan kepadanya di bumi dan menjadikannya penguasa perbendaharaan Mesir."
+    },
+    {
+      "title": "Kisah Nabi Ayyub dan Nabi Shu'aib 'Alaihimas Salam",
+      "titleArabic": "قِصَّةُ أَيُّوبَ وَشُعَيْبٍ عَلَيْهِمَا السَّلَامُ",
+      "arabic": "أَيُّوبُ عَلَيْهِ السَّلَامُ ضُرِبَ بِهِ الْمَثَلُ فِي الصَّبْرِ عَلَى الْبَلَاءِ فِي الْجَسَدِ وَالْمَالِ وَالْوَلَدِ حَتَّى كَشَفَ اللهُ ضُرَّهُ. وَشُعَيْبٌ هُوَ خَطِيبُ الْأَنْبِيَاءِ، أُرْسِلَ إِلَى أَهْلِ مَدْيَنَ وَأَصْحَابِ الْأَيْكَةِ الَّذِينَ كَانُوا يَبْخَسُونَ الْمِكْيَالَ وَالْمِيزَانَ.",
+      "translation": "Nabi Ayyub 'alaihis salam dijadikan permisalan dalam hal kesabaran menghadapi ujian pada tubuh, harta, dan anak hingga Allah menghilangkan penderitaannya. Dan Nabi Shu'aib adalah khatib para nabi, diutus kepada penduduk Madyan dan Ashabul Aykah yang kerap mengurangi takaran dan timbangan."
+    },
+    {
+      "title": "Kisah Nabi Musa dan Nabi Harun Bersama Firaun",
+      "titleArabic": "قِصَّةُ مُوسَى وَهَارُونَ عَلَيْهِمَا السَّلَامُ مَعَ فِرْعَوْنَ",
+      "arabic": "أَرْسَلَ اللهُ مُوسَى كَلِيمَ اللهِ وَأَخَاهُ هَارُونَ إِلَى فِرْعَوْنَ بَالْآيَاتِ الْبَيِّنَاتِ، فَاسْتَكْبَرَ فِرْعَوْنُ وَادَّعَى الرُّبُوبِيَّةَ، فَأَغْرَقَهُ اللهُ وَجُنُودَهُ فِي الْبَحْرِ وَأَنْجَى بَنِي إِسْرَائِيلَ.",
+      "translation": "Allah mengutus Musa yang diajak bicara langsung oleh Allah (Kalimullah) dan saudaranya Harun kepada Firaun dengan membawa mukjizat-mukjizat yang nyata, namun Firaun menyombongkan diri dan mengaku sebagai tuhan, maka Allah tenggelamkan dia dan pasukannya di laut dan menyelamatkan Bani Israil."
+    },
+    {
+      "title": "Kisah Perjalanan Nabi Musa Bersama Nabi Khidir",
+      "titleArabic": "قِصَّةُ مُوسَى مَعَ الْخَضِرِ عَلَيْهِ السَّلَامُ",
+      "arabic": "سَافَرَ مُوسَى عَلَيْهِ السَّلَامُ لِلِقَاءِ الْخَضِرِ لِيَتَعَلَّمَ مِنْهُ مِنَ الْعِلْمِ الَّذِي خَصَّهُ اللهُ بِهِ، فَخَرَقَ السَّفِينَةَ، وَقَتَلَ الْغُلَامَ، وَأَقَامَ الْجِدَارَ، وَبَيَّنَ لِمُوسَى الْحِكْمَةَ الْبَاطِنَةَ مِنْ تِلْكَ الْأَفْعَالِ.",
+      "translation": "Nabi Musa 'alaihis salam melakukan perjalanan untuk menemui Nabi Khidir agar dapat belajar darinya ilmu yang telah dikhususkan Allah kepadanya. Khidir melubangi perahu, membunuh seorang anak, dan menegakkan dinding rumah yang roboh, lalu menjelaskan kepada Musa hikmah tersirat di balik perbuatan-perbuatan tersebut."
+    },
+    {
+      "title": "Kisah Yusha' bin Nun dan Dawud serta Sulaiman",
+      "titleArabic": "قِصَّةُ يُوشَعَ بْنِ نُونٍ وَدَاوُدَ وَسُلَيْمَانَ",
+      "arabic": "قَادَ يُوشَعُ بَنِي إِسْرَائِيلَ وَفَتَحَ بَيْتَ الْمَقْدِسِ وَحُبِسَتْ لَهُ الشَّمْسُ. ثُمَّ كَانَ دَاوُدُ الَّذِي قَتَلَ جَالُوتَ وَآتَاهُ اللهُ الْمُلْكَ وَالزَّبُورَ، ثُمَّ وَرِثَهُ سُلَيْمَانُ الَّذِي سَخَّرَ اللهُ لَهُ الرِّيحَ وَالْجِنَّ وَعَلَّمَهُ مَنْطِقَ الطَّيْرِ.",
+      "translation": "Yusha' bin Nun memimpin Bani Israil menaklukkan Baitul Maqdis dan matahari ditahan untuknya. Kemudian datang Nabi Dawud yang membunuh Jalut dan Allah memberinya kerajaan serta kitab Zabur, lalu diwarisi oleh Nabi Sulaiman yang mana Allah menundukkan angin dan jin baginya serta mengajarkan bahasa burung."
+    },
+    {
+      "title": "Kisah Yunus, Zakariya, dan Yahya 'Alaihimas Salam",
+      "titleArabic": "قِصَّةُ يُونُسَ وَزَكَرِيَّا وَيَحْيَى عَلَيْهِمُ السَّلَامُ",
+      "arabic": "يُونُسُ (ذُو النُّونِ) الْتَقَمَهُ الْحُوتُ فَنَادَى فِي الظُّلُمَاتِ أَنْ لَا إِلَهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ فَنَجَّاهُ اللهُ. وَزَكَرِيَّا وَابْنُهُ يَحْيَى كَانَا مِنَ الصَّالِحِينَ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللهِ.",
+      "translation": "Nabi Yunus (Dhun Nun) ditelan oleh ikan nun/paus lalu ia berdoa dalam kegelapan: 'Tidak ada tuhan selain Engkau, Maha Suci Engkau sesungguhnya aku termasuk orang-orang yang zalim', maka Allah menyelamatkannya. Dan Zakariya beserta putranya Yahya adalah hamba-hamba shalih yang gugur di jalan Allah."
+    },
+    {
+      "title": "Kisah Nabi Isa bin Maryam 'Alaihis Salam",
+      "titleArabic": "قِصَّةُ عِيسَى ابْنِ مَرْيَمَ عَلَيْهِ السَّلَامُ",
+      "arabic": "عِيسَى ابْنُ مَرْيَمَ عَبْدُ اللهِ وَرَسُولُهُ وَكَلِمَتُهُ أَلْقَاهَا إِلَى مَرْيَمَ وَرُوحٌ مِنْهُ. وُلِدَ مِنْ غَيْرِ أَبٍ، وَأَبْرَأَ الْأَكْمَهَ وَالْأَبْرَصَ وَأَحْيَا الْمَوْتَى بِإِذْنِ اللهِ، وَرَفَعَهُ اللهُ إِلَيْهِ وَلَمْ يَمُتْ وَلَمْ يُصْلَبْ.",
+      "translation": "Isa bin Maryam adalah hamba Allah, utusan-Nya, serta kalimat-Nya yang disampaikan kepada Maryam dan ruh dari-Nya. Beliau dilahirkan tanpa ayah, menyembuhkan orang buta sejak lahir, penderita kusta, dan menghidupkan orang mati dengan izin Allah. Allah mengangkatnya ke langit dan beliau belum mati serta tidak disalib."
+    },
+    {
+      "title": "Nasab Suci Rasulullah SAW",
+      "titleArabic": "بَابُ النَّسَبِ النَّبَوِيِّ الشَّرِيفِ",
+      "arabic": "هُوَ مُحَمَّدُ بْنُ عَبْدِ اللهِ بْنِ عَبْدِ الْمُطَّلِبِ بْنِ هَاشِمِ بْنِ عَبْدِ مَنَافِ بْنِ قُصَيِّ بْنِ كِلَابٍ... يَنْتَهِي نَسَبُهُ الشَّرِيفُ إِلَى إِسْمَاعِيلَ بْنِ إِبْرَاهِيمَ خَلِيلِ الرَّحْمَنِ عَلَيْهِمَا الصَّلَاةُ وَالسَّلَامُ.",
+      "translation": "Beliau adalah Muhammad bin Abdullah bin Abdul Muttalib bin Hashim bin Abdu Manaf bin Qusay bin Kilab... silsilah nasab beliau yang mulia bersambung hingga Nabi Ismail bin Ibrahim Khalilur Rahman 'alaihimas shalatu was salam."
+    },
+    {
+      "title": "Kelahiran Nabi Muhammad SAW dan Masa Kanak-kanak",
+      "titleArabic": "بَابُ مَوْلِدِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَرَضَاعِهِ",
+      "arabic": "وُلِدَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِي عَامِ الْفِيلِ بِمَكَّةَ الْمُكَرَّمَةِ يَوْمَ الْاِثْنَيْنِ مِنْ شَهْرِ رَبِيعٍ الْأَوَّلِ. وَأَرْضَعَتْهُ حَلِيمَةُ السَّعْدِيَّةُ، وَجَرَتْ لَهُ حَادِثَةُ شَقِّ الصَّدْرِ فِي صِغَرِهِ.",
+      "translation": "Nabi SAW dilahirkan pada Tahun Gajah di Makkah al-Mukarramah pada hari Senin bulan Rabi'ul Awwal. Beliau disusui oleh Halimah as-Sa'diyyah, dan terjadi peristiwa pembelahan dada pada masa kecil beliau."
+    },
+    {
+      "title": "Pengutusan Kenabian (Kerasulan) dan Dakwah Makkah",
+      "titleArabic": "بَابُ بَعْثَةِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَالدَّعْوَةِ بِمَكَّةَ",
+      "arabic": "بُعِثَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِي سِنِّ الْأَرْبَعِينَ فِي غَارِ حِرَاءٍ بِـ {اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ}. فَدَعَا إِلَى التَّوْحِيدِ سِرًّا ثُمَّ جَهْرًا، وَاحْتَمَلَ الأَذَى هُوَ وَأَصْحَابُهُ مِنْ قُرَيْشٍ.",
+      "translation": "Nabi SAW diutus menjadi Rasul pada usia empat puluh tahun di Gua Hira dengan turunnya ayat 'Iqra' bismi rabbikalladhi khalaq'. Beliau menyeru kepada tauhid secara sembunyi-sembunyi lalu secara terang-terangan, serta menanggung berbagai gangguan bersama para sahabatnya dari kaum Quraisy."
+    },
+    {
+      "title": "Peristiwa Isra' dan Mi'raj",
+      "titleArabic": "بَابُ الْإِسْرَاءِ وَالْمِعْرَاجِ",
+      "arabic": "أُسْرِيَ بِالنَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بَجَسَدِهِ وَرُوحِهِ مِنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى، ثُمَّ عُرِجَ بِهِ إِلَى السَّمَاوَاتِ الْعُلَى حَتَّى سِدْرَةِ الْمُنْتَهَى، وَفُرِضَتْ عَلَيْهِ الصَّلَوَاتُ الْخَمْسُ.",
+      "translation": "Nabi SAW diperjalankan malam hari (Isra') dengan jasad dan ruhnya dari Masjidil Haram ke Masjidil Aqsa, kemudian diangkat (Mi'raj) ke langit yang tinggi hingga Sidratul Muntaha, dan diwajibkan atasnya shalat lima waktu."
+    },
+    {
+      "title": "Hijrah ke Madinah al-Munawwarah",
+      "titleArabic": "بَابُ الْهِجْرَةِ النَّبَوِيَّةِ إِلَى الْمَدِينَةِ",
+      "arabic": "هَاجَرَ الرَّسُولُ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مَعَ أَبِي بَكْرٍ الصِّدِّيقِ رَضِيَ اللهُ عَنْهُ إِلَى الْمَدِينَةِ، وَتَوَارَيَا فِي غَارِ ثَوْرٍ، ثُمَّ وَصَلَا إِلَى قُبَاءٍ وَأَسَّسَا مَسْجِدَهَا، ثُمَّ دَخَلَا الْمَدِينَةَ وَآخَى بَيْنَ الْمُهَاجِرِينَ وَالْأَنْصَارِ.",
+      "translation": "Rasulullah SAW berhijrah bersama Abu Bakar as-Siddiq RA ke Madinah, keduanya bersembunyi di Gua Thawr, kemudian sampai di Quba dan mendirikan masjidnya, lalu memasuki Madinah dan mempersaudarakan antara kaum Muhajirin dan Anshar."
+    },
+    {
+      "title": "Perang Badr al-Kubra (Tahun 2 H)",
+      "titleArabic": "بَابُ غَزْوَةِ بَدْرٍ الْكُبْرَى",
+      "arabic": "وَقَعَتْ غَزْوَةُ بَدْرٍ فِي 17 رَمَضَانَ مِنَ السَّنَةِ الثَّانِيَةِ لِلْهِجْرَةِ. وَكَانَ عَدَدُ الْمُسْلِمِينَ ثَلَاثَمِائَةٍ وَبِضْعَةَ عَشَرَ، وَالْمُشْرِكِينَ نَحْوَ أَلْفٍ، فَأَيَّدَ اللهُ الْمُسْلِمِينَ بِالْمَلَائِكَةِ وَانْتَصَرُوا نَصْرًا عَظِيمًا.",
+      "translation": "Perang Badar terjadi pada tanggal 17 Ramadan tahun ke-2 Hijriyah. Jumlah pasukan Muslim saat itu tiga ratus belasan orang, sedangkan musyrikin sekitar seribu orang, maka Allah menguatkan kaum Muslimin dengan pasukan malaikat dan memenangkan mereka dengan kemenangan yang agung."
+    },
+    {
+      "title": "Perang Uhud (Tahun 3 H)",
+      "titleArabic": "بَابُ غَزْوَةِ أُحُدٍ",
+      "arabic": "وَقَعَتْ فِي شَوَّالٍ مِنَ السَّنَةِ الثَّالِثَةِ. ابْتُلِيَ فِيهَا الْمُسْلِمُونَ بِسَبَبِ مُخَالَفَةِ الرُّمَاةِ لِأَمْرِ الرَّسُولِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَاسْتُشْهِدَ فِيهَا سَبْعُونَ مِنَ الصَّحَابَةِ مِنْهُمْ حَمْزَةُ بْنُ عَبْدِ الْمُطَّلِبِ.",
+      "translation": "Terjadi pada bulan Syawal tahun ke-3 Hijriyah. Kaum Muslimin diuji pada perang ini disebabkan pelanggaran pasukan pemanah terhadap perintah Rasulullah SAW, dan gugur sebagai syahid tujuh puluh orang sahabat di antaranya Hamzah bin Abdul Muttalib."
+    },
+    {
+      "title": "Perang Ahzab / Khandaq (Tahun 5 H)",
+      "titleArabic": "بَابُ غَزْوَةِ الْأَحْزَابِ (الْخَنْدَقِ)",
+      "arabic": "تَجَمَّعَتِ الْقَبَائِلُ لِإِبَادَةِ الْمُسْلِمِينَ، فَأَشَارَ سَلْمَانُ الْفَارِسِيُّ بِحَفْرِ الْخَنْدَقِ حَوْلَ الْمَدِينَةِ. وَأَرْسَلَ اللهُ عَلَى الْأَحْزَابِ رِيحًا وَجُنُودًا لَمْ يَرَوْهَا فَهَزَمَهُمُ اللهُ.",
+      "translation": "Suku-suku Arab bersatu untuk memusnahkan kaum Muslimin, lalu Salman al-Farisi mengusulkan penggalian parit (khandaq) di sekeliling Madinah. Dan Allah mengirimkan kepada pasukan sekutu angin kencang dan tentara yang tidak terlihat sehingga Allah menghancurkan mereka."
+    },
+    {
+      "title": "Perjanjian Hudaibiyyah (Tahun 6 H)",
+      "titleArabic": "بَابُ صُلْحِ الْحُدَيْبِيَةِ",
+      "arabic": "خَرَجَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مُعْتَمِرًا، فَصَدَّتْهُ قُرَيْشٌ، فَجَرَى الصُّلْحُ عَلَى وَضْعِ الْحَرْبِ عَشْرَ سِنِينَ. وَسَمَّاهُ اللهُ فَتْحًا مُبِينًا لِمَا تَرَتَّبَ عَلَيْهِ مِنْ خَيْرٍ عَمِيمٍ.",
+      "translation": "Nabi SAW keluar hendak melaksanakan umrah, lalu dihalangi oleh Quraisy, maka terjadilah perjanjian damai untuk menghentikan perang selama sepuluh tahun. Dan Allah menyebutnya sebagai 'Fathan Mubina' (kemenangan yang nyata) karena dampak kebaikan luas yang dihasilkannya."
+    },
+    {
+      "title": "Penaklukan Kota Makkah / Fath Makkah (Tahun 8 H)",
+      "titleArabic": "بَابُ فَتْحِ مَكَّةَ الْمُكَرَّمَةِ",
+      "arabic": "دَخَلَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مَكَّةَ فَاتِحًا فِي رَمَضَانَ سَنَةَ ثَمَانٍ لِلْهِجْرَةِ بِجَيْشٍ قَوَّامُهُ عَشَرَةُ آلَافٍ، فَكَسَّرَ الْأَصْنَامَ حَوْلَ الْكَعْبَةِ وَقَالَ: {جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ}، وَعَفَا عَنْ أَهْلِ مَكَّةَ.",
+      "translation": "Nabi SAW memasuki Makkah sebagai pemenang pada bulan Ramadan tahun ke-8 Hijriyah dengan pasukan berjumlah sepuluh ribu orang, lalu beliau menghancurkan berhala-berhala di sekitar Ka'bah seraya membaca: 'Yang benar telah datang dan yang batil telah lenyap', serta memaafkan penduduk Makkah."
+    },
+    {
+      "title": "Haji Wada' (Haji Perpisahan - Tahun 10 H)",
+      "titleArabic": "بَابُ حَجَّةِ الْوَدَاعِ",
+      "arabic": "حَجَّ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِي السَّنَةِ الْعَاشِرَةِ، وَخَطَبَ خُطْبَتَهُ الشَّهِيرَةَ فِي عَرَفَاتٍ مُوَضِّحًا مَعَالِمَ الْإِسْلَامِ وَحُرْمَةَ الدِّمَاءِ وَالْأَمْوَالِ، وَنَزَلَ قَوْلُهُ: {الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ}.",
+      "translation": "Nabi SAW menunaikan ibadah haji pada tahun ke-10 Hijriyah, dan menyampaikan khotbahnya yang terkenal di Arafah menjelaskan pilar-pilar Islam serta keharaman darah dan harta, dan turunlah firman Allah: 'Pada hari ini telah Kusempurnakan untuk kamu agamamu.'"
+    },
+    {
+      "title": "Wafatnya Rasulullah SAW (Tahun 11 H)",
+      "titleArabic": "بَابُ وَفَاةِ سَيِّدِ الْمُرْسَلِينَ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ",
+      "arabic": "تُوُفِّيَ الرَّسُولُ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَوْمَ الْاِثْنَيْنِ 12 رَبِيعٍ الْأَوَّلِ سَنَةَ إِحْدَى عَشْرَةَ لِلْهِجْرَةِ فِي حُجْرَةِ عَائِشَةَ، وَكَانَ آخِرُ كَلَامِهِ: «اللَّهُمَّ الرَّفِيقَ الْأَعْلَى».",
+      "translation": "Rasulullah SAW wafat pada hari Senin tanggal 12 Rabi'ul Awwal tahun ke-11 Hijriyah di kamar Aisyah, dan kalimat terakhir yang beliau ucapkan adalah: 'Ya Allah, (hamba memilih) Kekasih Yang Maha Tinggi.'"
+    },
+    {
+      "title": "Khilafat Abu Bakr as-Siddiq RA (11 - 13 H)",
+      "titleArabic": "بَابُ خِلَافَةِ أَبِي بَكْرٍ الصِّدِّيقِ رَضِيَ اللهُ عَنْهُ",
+      "arabic": "تَوَلَّى أَبُو بَكْرٍ الْخِلَافَةَ بَعْدَ بَيْعَةِ السَّقِيفَةِ، فَقَاتَلَ أَهْلَ الرِّدَّةِ وَمَانِعِي الزَّكَاةِ، وَجَمَعَ الْقُرْآنَ الْكَرِيمَ فِي الْمُصْحَفِ، وَبَدَأَ الْفُتُوحَاتِ الْإِسْلَامِيَّةَ فِي الشَّامِ وَالْعِرَاقِ.",
+      "translation": "Abu Bakar memegang tampuk kekhalifahan setelah baiat di Saqifah, lalu beliau memerangi orang-orang murtad dan penolak zakat, mengumpulkan Al-Qur'an ke dalam satu mushaf, serta memulai penaklukan Islam di Syam dan Irak."
+    },
+    {
+      "title": "Khilafat 'Umar ibn al-Khattab RA (13 - 23 H)",
+      "titleArabic": "بَابُ خِلَافَةِ عُمَرَ بْنِ الْخَطَّابِ رَضِيَ اللهُ عَنْهُ",
+      "arabic": "اتَّسَعَتِ الْفُتُوحَاتُ فِي عَهْدِهِ فُتِحَتِ الْمَدَائِنُ وَبَيْتُ الْمَقْدِسِ وَمِصْرُ. وَدَوَّنَ الدَّوَاوِينَ وَأَرَّخَ بِالْهِجْرَةِ، وَاسْتُشْهِدَ بِخَنْجَرِ أَبِي لُؤْلُؤَةَ الْمَجُوسِيِّ.",
+      "translation": "Wilayah penaklukan meluas pada masanya hingga ditaklukkannya Ctesiphon (Madain), Baitul Maqdis, dan Mesir. Beliau mendirikan lembaga-lembaga pemerintahan (dewan) dan menetapkan penanggalan Hijriyah, serta gugur syahid oleh tikaman belati Abu Lu'lu'ah al-Majusi."
+    },
+    {
+      "title": "Khilafat 'Uthman ibn 'Affan RA (23 - 35 H)",
+      "titleArabic": "بَابُ خِلَافَةِ عُثْمَانَ بْنِ عَفَّانَ رَضِيَ اللهُ عَنْهُ",
+      "arabic": "فِي عَهْدِهِ نُسِخَتِ الْمَصَاحِفُ وَوُزِّعَتْ عَلَى الْأَمْصَارِ، وَتَوَسَّعَتِ الْفُتُوحَاتُ بَحْرًا وَبَرًّا، ثُمَّ وَقَعَتِ الْفِتْنَةُ فِي آخِرِ عَهْدِهِ حَتَّى اسْتُشْهِدَ مَظْلُومًا فِي دَارِهِ.",
+      "translation": "Pada masa kekhalifahannya mushaf Al-Qur'an disalin dan didistribusikan ke berbagai provinsi, penaklukan meluas di laut dan darat, kemudian timbul fitnah di akhir masanya hingga beliau gugur secara terzalimi di rumahnya."
+    },
+    {
+      "title": "Khilafat 'Ali ibn Abi Talib RA (35 - 40 H)",
+      "titleArabic": "بَابُ خِلَافَةِ عَلِيِّ بْنِ أَبِي طَالِبٍ رَضِيَ اللهُ عَنْهُ",
+      "arabic": "تَوَلَّى الْخِلَافَةَ فِي ظُرُوفٍ صَعْبَةٍ، وَوَقَعَتْ مَعْرَكَةُ الْجَمَلِ وَصِفِّينَ، وَظَهَرَتِ الْخَوَارِجُ فَقَاتَلَهُمْ فِي النَّهْرَوَانِ، وَاسْتُشْهِدَ عَلَى يَدِ عَبْدِ الرَّحْمَنِ بْنِ مُلْجَمٍ.",
+      "translation": "Beliau menjabat khalifah dalam kondisi yang sangat sulit, terjadi Perang Jamal dan Siffin, serta muncul kelompok Khawarij yang kemudian diperanginya di Nahrawan, dan beliau gugur di tangan Abdul Rahman bin Muljam."
+    },
+    {
+      "title": "Pemerintahan Dinasti Umayyah dan Abbasiyah",
+      "titleArabic": "بَابُ الدَّوْلَةِ الْأُمَوِيَّةِ وَالدَّوْلَةِ الْعَبَّاسِيَّةِ",
+      "arabic": "يَسْتَعْرِضُ الْكِتَابُ تَارِيخَ الْخُلَفَاءِ مِنَ بَنِي أُمَيَّةَ وَابْتِدَاءَ دَوْلَتِهِمْ بِمُعَاوِيَةَ، ثُمَّ قِيَامَ الدَّوْلَةِ الْعَبَّاسِيَّةِ وَسُقُوطَهَا عَلَى يَدِ التَّتَارِ، وَسِيَر المُلُوكِ وَالأُمَرَاءِ عَبْرَ الْقُرُونِ.",
+      "translation": "Kitab ini mengulas sejarah para khalifah Bani Umayyah yang dimulai dari Mu'awiyah, kemudian berdirinya Dinasti Abbasiyah hingga kejatuhannya di tangan bangsa Tartar/Mongol, serta biografi para raja dan penguasa melintasi abad demi abad."
+    },
+    {
+      "title": "Kitab Al-Fitan wa al-Malahim (Fitnah Akhir Zaman)",
+      "titleArabic": "كِتَابُ الْفِتَنِ وَالْمَلَاحِمِ",
+      "arabic": "هَذَا الْقِسْمُ يَتَنَاوَلُ مَا أَخْبَرَ بِهِ الرَّسُولُ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مِنْ أُمُورِ الْمُسْتَقْبَلِ مِنَ الْفِتَنِ وَالْحُرُوبِ وَالتَّغَيُّرَاتِ فِي الْأُمَّةِ قَبْلَ قِيَامِ السَّاعَةِ.",
+      "translation": "Bagian ini membahas apa yang dikabarkan oleh Rasulullah SAW mengenai perkara masa depan berupa fitnah-fitnah, peperangan besar (malahim), serta perubahan-perubahan pada umat sebelum tibanya hari Kiamat."
+    },
+    {
+      "title": "Tanda-tanda Kecil Hari Kiamat",
+      "titleArabic": "بَابُ أَشْرَاطِ السَّاعَةِ الصُّغْرَى",
+      "arabic": "مِنْ أَشْرَاطِ السَّاعَةِ الصُّغْرَى: بَعْثَةُ النَّبِيِّ وَوَفَاتُهُ، فَتْحُ بَيْتِ الْمَقْدِسِ، كَثْرَةُ الْمَالِ، ظُهُورُ الْفَحْشَاءِ، تَقَارُبُ الزَّمَانِ، وَتَطَاوُلُ الْحُفَاةِ الْعُرَاةِ فِي الْبُنْيَانِ.",
+      "translation": "Di antara tanda-tanda kecil Kiamat: diutusnya Nabi SAW dan wafatnya beliau, penaklukan Baitul Maqdis, melimpahnya harta, maraknya kekejian, waktu terasa makin singkat, serta para penggembala miskin berlomba-lomba meninggikan bangunan."
+    },
+    {
+      "title": "Kemunculan Al-Mahdi",
+      "titleArabic": "بَابُ خُرُوجِ الْمَهْدِيِّ الْمُنْتَظَرِ",
+      "arabic": "يَخْرُجُ فِي آخِرِ الزَّمَانِ رَجُلٌ مِنْ أَهْلِ بَيْتِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يُسَمَّى مُحَمَّدَ بْنَ عَبْدِ اللهِ، يَمْلَأُ الْأَرْضَ قِسْطًا وَعَدْلًا كَمَا مُلِئَتْ جَوْرًا وَظُلْمًا.",
+      "translation": "Akan keluar pada akhir zaman seorang lelaki dari ahli bait Nabi SAW bernama Muhammad bin Abdullah, ia memenuhan bumi dengan keadilan dan kejujuran sebagaimana sebelumnya telah dipenuhi dengan kezaliman dan kesewenang-wenangan."
+    },
+    {
+      "title": "Fitnah Al-Masih ad-Dajjal",
+      "titleArabic": "بَابُ خُرُوجِ الْمَسِيحِ الدَّجَّالِ",
+      "arabic": "الدَّجَّالُ أَعْظَمُ فِتْنَةٍ عَلَى وَجْهِ الْأَرْضِ، مَكْتُوبٌ بَيْنَ عَيْنَيْهِ كَافِرٌ، يَمْكُثُ فِي الْأَرْضِ أَرْبَعِينَ يَوْمًا، يَوْمٌ كَسَنَةٍ وَيَوْمٌ كَشَهْرٍ وَيَوْمٌ كَجُمُعَةٍ وَسَائِرُ أَيَّامِهِ كَأَيَّامِكُمْ.",
+      "translation": "Dajjal adalah fitnah terbesar di muka bumi, tertulis di antara kedua matanya kata 'Kafir', ia tinggal di bumi selama empat puluh hari: satu hari serasa setahun, satu hari serasa sebulan, satu hari serasa sejumat (seminggu), dan hari-hari lainnya seperti hari-hari kalian."
+    },
+    {
+      "title": "Turunnya Nabi Isa 'Alaihis Salam Akhir Zaman",
+      "titleArabic": "بَابُ نُزُولِ عِيسَى ابْنِ مَرْيَمَ عَلَيْهِ السَّلَامُ",
+      "arabic": "يَنْزِلُ عِيسَى عَلَيْهِ السَّلَامُ عِنْدَ الْمَنَارَةِ الْبَيْضَاءِ شَرْقِيَّ دِمَشْقَ، فَيَكْسِرُ الصَّلِيبَ، وَيَقْتُلُ الْخِنْزِيرَ، وَيَضَعُ الْجِزْيَةَ، وَيَقْتُلُ الدَّجَّالَ عِنْدَبَابِ لُدٍّ.",
+      "translation": "Nabi Isa 'alaihis salam akan turun di menara putih sebelah timur Damaskus, lalu beliau mematahkan salib, membunuh babi, menghapuskan jizyah, dan membunuh Dajjal di pintu Ludd."
+    },
+    {
+      "title": "Keluarnya Ya'juj dan Ma'juj",
+      "titleArabic": "بَابُ خُرُوجِ يَأْجُوجَ وَمَأْجُوجَ",
+      "arabic": "يَخْرُجُونَ مِنْ كُلِّ حَدَبٍ يَنْسِلُونَ بَعْدَ هَدْمِ السَّدِّ الَّذِي بَنَاهُ ذُو الْقَرْنَيْنِ، فَيَفْسُدُونَ فِي الْأَرْضِ، فَيَدْعُو عِيسَى عَلَيْهِمْ فَيُهْلِكُهُمُ اللهُ بِالنَّغَفِ فِي أَعْنَاقِهِمْ.",
+      "translation": "Mereka keluar dan turun dengan cepat dari seluruh tempat yang tinggi setelah jebolnya benteng yang dibangun Dhul Qarnayn, lalu berbuat kerusakan di bumi, maka Nabi Isa berdoa melawan mereka hingga Allah membinasakan mereka dengan ulat-ulat yang menyerang leher mereka."
+    },
+    {
+      "title": "Terbitnya Matahari dari Barat dan Keluarnya Dabbah",
+      "titleArabic": "بَابُ طُلُوعِ الشَّمْسِ مِنْ مَغْرِبِهَا وَخُرُوجِ الدَّابَّةِ",
+      "arabic": "إِذَا طَلَعَتِ الشَّمْسُ مِنْ مَغْرِبِهَا أُغْلِقَ بَابُ التَّوْبَةِ، وَتَخْرُجُ دَابَّةُ الْأَرْضِ تُكَلِّمُ النَّاسَ وَتَسِمُ الْمُؤْمِنَ وَالْكَافِرَ.",
+      "translation": "Apabila matahari terbit dari arah barat maka tertutuplah pintu taubat, dan akan keluar binatang melata dari bumi (Dabbah) yang dapat berbicara kepada manusia serta menandai mana orang beriman dan mana orang kafir."
+    },
+    {
+      "title": "Tiupan Sangkakala (An-Nafkh fi as-Sur)",
+      "titleArabic": "بَابُ النَّفْخِ فِي الصُّورِ",
+      "arabic": "يَنْفُخُ إِسْرَافِيلُ فِي الصُّورِ نَفْخَتَيْنِ: نَفْخَةَ الصَّعَقِ فَيَصْعَقُ مَنْ فِي السَّمَاوَاتِ وَمَنْ فِي الْأَرْضِ إِلَّا مَنْ شَاءَ اللهُ، ثُمَّ نَفْخَةَ الْبَعْثِ فَقِيَامٌ يَنْظُرُونَ.",
+      "translation": "Malaikat Israfil mentiup sangkakala sebanyak dua kali: tiupan kejut (shakq) yang membinasakan siapapun yang ada di langit dan bumi kecuali yang dikehendaki Allah, kemudian tiupan kebangkitan sehingga mereka bangkit berdiri menanti."
+    },
+    {
+      "title": "Hari Kebangkitan dan Padang Mahshar",
+      "titleArabic": "بَابُ الْبَعْثِ وَالْحَشْرِ",
+      "arabic": "يُحْشَرُ النَّاسُ يَوْمَ الْقِيَامَةِ حُفَاةً عُرَاةً غُرْلًا عَلَى أَرْضٍ بَيْضَاءَ عَفْرَاءَ، وَتَدْنُو الشَّمْسُ مِنَ الْخَلْقِ مِقْدَارَ مِيلٍ فَيَلْجَمُهُمُ الْعَرَقُ.",
+      "translation": "Manusia dikumpulkan pada hari kiamat dalam keadaan tidak beralas kaki, telanjang, dan belum dikhitan di atas bumi yang putih bersih, dan matahari didekatkan kepada makhluk sejauh satu mil hingga keringat mengekang mereka."
+    },
+    {
+      "title": "Syafa'at Al-Uzhma dan Hisab",
+      "titleArabic": "بَابُ الشَّفَاعَةِ الْعُظْمَى وَالْحِسَابِ",
+      "arabic": "يَطْلُبُ النَّاسُ الشَّفَاعَةَ مِنَ الْأَنْبِيَاءِ فَيَعْتَذِرُونَ، حَتَّى يَنْتَهُوا إِلَى مُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فَيَقُولُ: «أَنَا لَهَا»، فَيَشْفَعُ لِفَصْلِ الْقَضَاءِ وَيَبْدَأُ الْحِسَابُ.",
+      "translation": "Manusia meminta syafaat kepada para nabi namun mereka minta maaf (menolak), hingga sampai kepada Muhammad SAW lalu beliau bersabda: 'Aku pemegang syafaat itu', maka beliau memberikan syafaat agar keputusan hukum dimulai dan hisab dijalankan."
+    },
+    {
+      "title": "Penimbangan Amal (Al-Mizan) dan Penyerahan Catatan",
+      "titleArabic": "بَابُ الْمِيزَانِ وَتَطَايُرِ الصُّحُفِ",
+      "arabic": "تُوضَعُ الْمَوَازِينُ الْقِسْطُ لِيَوْمِ الْقِيَامَةِ، وَتَتَطَايَرُ الصُّحُفُ فَمَآخِذٌ كِتَابَهُ بِيَمِينِهِ وَمَآخِذٌ كِتَابَهُ بِشِمَالِهِ أَوْ مِنْ وَرَاءِ ظَهْرِهِ.",
+      "translation": "Ditimbanglah amal-amal dengan timbangan yang adil pada hari kiamat, dan lembaran-lembaran catatan penerima terbang: ada yang menerima kitabnya dengan tangan kanannya dan ada yang menerima kitabnya dari tangan kirinya atau dari belakang punggungnya."
+    },
+    {
+      "title": "Telaga Nabi (Al-Hawd) dan Titian Sirat",
+      "titleArabic": "بَابُ الْحَوْضِ وَالصِّرَاطِ",
+      "arabic": "حَوْضُ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مَاؤُهُ أَشَدُّ بَيَاضًا مِنَ اللَّبَنِ وَأَحْلَى مِنَ الْعَسَلِ. وَالصِّرَاطُ جِسْرٌ مَمْدُودٌ عَلَى جَهَنَّمَ، أَدَقُّ مِنَ الشَّعْرِ وَأَحَدُّ مِنَ السَّيْفِ يَمُرُّ عَلَيْهِ النَّاسُ عَلَى قَدْرِ أَعْمَالِهِمْ.",
+      "translation": "Telaga Nabi SAW airnya lebih putih dari susu dan lebih manis dari madu. Dan As-Sirat adalah jembatan yang dibentangkan di atas neraka Jahannam, lebih tipis dari sehelai rambut dan lebih tajam dari pedang, dilewati manusia sesuai kadar amal perbuatan mereka."
+    },
+    {
+      "title": "Sifat Surga dan Kenikmatannya",
+      "titleArabic": "بَابُ صِفَةِ الْجَنَّةِ وَنَعِيمِهَا",
+      "arabic": "الْجَنَّةُ فِيهَا مَا لَا عَيْنٌ رَأَتْ، وَلَا أُذُنٌ سَمِعَتْ، وَلَا خَطَرَ عَلَى قَلْبِ بَشَرٍ. دَرَجَاتُهَا عَالِيَةٌ، وَأَنْهَارُهَا جَارِيَةٌ، وَأَعْظَمُ نَعِيمِهَا النَّظَرُ إِلَى وَجْهِ اللهِ الْكَرِيمِ.",
+      "translation": "Surga di dalamnya terdapat kenikmatan yang belum pernah dilihat oleh mata, belum pernah didengar oleh telinga, dan belum pernah terlintas dalam hati manusia. Derajatnya tinggi, sungai-sungainya mengalir, dan kenikmatan terbesarnya adalah memandang Wajah Allah Yang Maha Mulia."
+    },
+    {
+      "title": "Sifat Neraka dan Azabnya",
+      "titleArabic": "بَابُ صِفَةِ النَّارِ وَعَذَابِهَا",
+      "arabic": "النَّارُ قَعْرُهَا بَعِيدٌ، وَحَرُّهَا شَدِيدٌ، نَارُ الدُّنْيَا جُزْءٌ مِنْ سَبْعِينَ جُزْءًا مِنْ نَارِ جَهَنَّمَ. طَعَامُ أَهْلِهَا الزَّقُّومُ وَشَرَابُهُمُ الْحَمِيمُ، وَعَذَابُهُمٌ مُقِيمٌ.",
+      "translation": "Neraka itu dasarnya sangat dalam, panasnya sangat dahsyat, api dunia hanyalah satu dari tujuh puluh bagian api Jahannam. Makanan penghuninya adalah pohon Zaqqum dan minuman mereka adalah air mendidih, serta azab mereka kekal."
+    },
+    {
+      "title": "Khatimah Kitab",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ",
+      "arabic": "هَذَا آخِرُ مَا يَسَّرَهُ اللهُ تَعَالَى مِنْ جَمْعِ هَذَا الْكِتَابِ الْمُبَارَكِ «الْبِدَايَةُ وَالنِّهَايَةُ»، نَسْأَلُ اللهَ الْكَرِيمَ أَنْ يَجْعَلَهُ خَالِصًا لِوَجْهِهِ، وَأَنْ يَرْزُقَنَا الْجَنَّةَ وَيُجِيرَنَا مِنَ النَّارِ، وَصَلَّى اللهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَآلِهِ وَصَحْبِهِ وَسَلَّمَ.",
+      "translation": "Inilah akhir dari apa yang dimudahkan oleh Allah Ta'ala dalam menghimpun kitab yang diberkahi ini 'Al-Bidayah wa al-Nihayah'. Kami memohon kepada Allah Yang Maha Mulia agar menjadikannya ikhlas karena Wajah-Nya, serta mengaruniai kita surga dan melindungi kita dari neraka, dan semoga shalawat serta salam tercurah kepada junjungan kita Nabi Muhammad beserta keluarga dan para sahabatnya."
+    }
+  ]
+}
