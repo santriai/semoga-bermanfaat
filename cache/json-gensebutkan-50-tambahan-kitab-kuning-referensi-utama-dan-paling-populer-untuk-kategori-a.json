@@ -1,252 +1,252 @@
 [
   {
-    "name": "Lawami' al-Anwar al-Bahiyyah",
-    "author": "Muhammad bin Ahmad al-Saffarini",
-    "desc": "Kitab akidah Athariyyah yang menguraikan konsep tauhid, sifat Allah, dan eschatology secara rinci."
+    "name": "Akhlaq lil Banin",
+    "author": "Umar bin Ahmad Baradja",
+    "desc": "Panduan etika dan akhlak mulia sehari-hari khusus untuk anak laki-laki."
   },
   {
-    "name": "Dar' Ta'arud al-Aql wa al-Naql",
-    "author": "Ibn Taymiyyah",
-    "desc": "Karya monumental yang membuktikan tidak adanya pertentangan antara akal sehat dan wahyu ilahi."
+    "name": "Akhlaq lil Banat",
+    "author": "Umar bin Ahmad Baradja",
+    "desc": "Kitab tuntunan akhlak dan adab Islami khusus untuk anak perempuan."
   },
   {
-    "name": "Bayan Talbis al-Jahmiyyah",
-    "author": "Ibn Taymiyyah",
-    "desc": "Kritik mendalam terhadap penafsiran teologis kaum Mutakallimin dan Jahmiyyah terkait sifat Allah."
+    "name": "Taysirul Khalaq",
+    "author": "Hafizh Hasan al-Mas'udi",
+    "desc": "Ringkasan dasar-dasar akhlak terpuji dan tercela untuk pelajar pemula."
   },
   {
-    "name": "Ijtima' al-Juyush al-Islamiyyah",
+    "name": "Wasaya al-Abaa' lil Abnaa'",
+    "author": "Muhammad Syakir",
+    "desc": "Wasiat dan nasihat penting seorang ayah kepada anaknya tentang moralitas."
+  },
+  {
+    "name": "Al-Adab al-Mufrad",
+    "author": "Imam al-Bukhari",
+    "desc": "Kumpulan hadis Nabi SAW yang khusus membahas adab dan akhlak kemasyarakatan."
+  },
+  {
+    "name": "Al-Wabil al-Sayyib",
     "author": "Ibn Qayyim al-Jawziyyah",
-    "desc": "Penjelasan tentang prinsip tauhid asma wa sifat dan pembelaan terhadap sifat ketinggian Allah."
+    "desc": "Panduan penyuci jiwa melalui zikir, doa, dan keutamaan ibadah."
   },
   {
-    "name": "Al-Sawa'iq al-Mursalah",
+    "name": "Tariq al-Hijratain",
     "author": "Ibn Qayyim al-Jawziyyah",
-    "desc": "Bantahan sistematis terhadap paham Ta'thil dan Ta'wil menyimpang dalam pemahaman sifat Allah."
+    "desc": "Konsep pembersihan jiwa menuju Allah melalui dua hijrah spiritual."
   },
   {
-    "name": "Al-Muhassal",
-    "author": "Fakhr al-Din al-Razi",
-    "desc": "Ringkasan pemikiran kalam klasik yang merangkum argumen pemikir terdahulu dan belakangan."
+    "name": "Mukhtasar Minhaj al-Qasidin",
+    "author": "Ibn Qudamah al-Maqdisi",
+    "desc": "Ringkasan perbaikan diri dan penataan hati berbasis karya Ibn al-Jawzi."
   },
   {
-    "name": "Ma'alim Ushul ad-Din",
-    "author": "Fakhr al-Din al-Razi",
-    "desc": "Ringkasan kaidah-kaidah utama ilmu kalam Ash'ariyyah yang disajikan secara sistematis."
-  },
-  {
-    "name": "Sharh al-Ushul al-Khamsah",
-    "author": "Qadi Abd al-Jabbar",
-    "desc": "Kitab induk teologi aliran Mu'tazilah yang menjelaskan lima prinsip utama ajaran mereka."
-  },
-  {
-    "name": "Ghayat al-Maram fi 'Ilm al-Kalam",
-    "author": "Saif al-Din al-Amidi",
-    "desc": "Pembahasan teologi mendalam mengenai bukti keberadaan Allah, sifat-sifat-Nya, dan kenabian."
-  },
-  {
-    "name": "Kitab al-Arsh",
-    "author": "Ibn Taymiyyah",
-    "desc": "Kajian mendalam mengenai 'Arsy Allah dan sifat al-'Uluw berdasarkan dalil al-Qur'an dan Sunnah."
-  },
-  {
-    "name": "Sharh al-Fiqh al-Akbar",
-    "author": "Mulla Ali al-Qari",
-    "desc": "Syarah komprehensif atas matn teologi al-Fiqh al-Akbar yang dinisbatkan kepada Imam Abu Hanifah."
-  },
-  {
-    "name": "Al-Aqa'id al-Adudiyyah",
-    "author": "Adud al-Din al-Iji",
-    "desc": "Matn ringkas ilmu kalam Ash'ariyyah yang menjadi rujukan utama pengajaran teologi di madrasah klasik."
-  },
-  {
-    "name": "Sharh al-Aqa'id al-Adudiyyah",
-    "author": "Jalal al-Din al-Dawani",
-    "desc": "Penjelasan terperinci atas kitab teologi karya Adud al-Din al-Iji dengan tinjauan filsafat kalam."
-  },
-  {
-    "name": "Al-Musayarah fi al-Aqa'id al-Munjiyah",
-    "author": "Ibn al-Humam",
-    "desc": "Karya teologi yang memadukan pendekatan Hanafi-Maturidi dan Ash'ari dalam masalah akidah."
-  },
-  {
-    "name": "Al-Musamarah Sharh al-Musayarah",
-    "author": "Kamal al-Din al-Maqdisi",
-    "desc": "Syarah rinci atas kitab Al-Musayarah yang memperluas diskusi masalah kalam dan tauhid."
-  },
-  {
-    "name": "A'lam al-Sunnah al-Manshurah",
-    "author": "Hafiz ibn Ahmad al-Hakami",
-    "desc": "Kitab tanya-jawab populer yang memuat pokok-pokok akidah Islam berdasarkan dalil shahih."
-  },
-  {
-    "name": "Kitab al-Tawhid",
-    "author": "Ibn Mandah",
-    "desc": "Kumpulan hadis dan atsar klasik yang menjadi rujukan utama bab tauhid dan ikhlas beribadah."
-  },
-  {
-    "name": "Kitab al-Iman",
-    "author": "Ibn Mandah",
-    "desc": "Ensiklopedi hadis mengenai hakikat iman, rukun-rukunnya, dan hal-hal yang membatalkannya."
-  },
-  {
-    "name": "Ibtal al-Ta'wilat li-Akhbar al-Sifat",
-    "author": "Abu Ya'la al-Hanbali",
-    "desc": "Pembelaan akidah Hanabilah terhadap penakwilan ayat dan hadis tentang sifat-sifat Allah."
-  },
-  {
-    "name": "Daf' Shubah al-Tashbih",
+    "name": "Sayd al-Khatir",
     "author": "Ibn al-Jawzi",
-    "desc": "Kritik terhadap penyimpangan anthropomorfisme dan penegasan kesucian Allah dari keserupaan."
+    "desc": "Catatan perenungan spiritual dan perbaikan akhlak pribadi sang ulama."
   },
   {
-    "name": "Tathir al-I'tiqad 'an Asnas al-Ilhad",
-    "author": "Muhammad bin Ismail al-San'ani",
-    "desc": "Risalah murninya tauhid dari perbuatan syirik, tawasul tidak syar'i, dan pengagungan kubur."
+    "name": "Dhamm al-Hawa",
+    "author": "Ibn al-Jawzi",
+    "desc": "Bahaya menuruti hawa nafsu serta panduan mengendalikannya."
   },
   {
-    "name": "Al-Durr al-Nadhid",
-    "author": "Muhammad bin Ali al-Shawkani",
-    "desc": "Penjelasan lugas tentang kemurnian kalimat tauhid dan pembebasan diri dari kesyirikan."
+    "name": "Sifat as-Safwah",
+    "author": "Ibn al-Jawzi",
+    "desc": "Kisah-kisah keteladanan para wali dan hamba saleh pembersih jiwa."
   },
   {
-    "name": "Taysir al-Aziz al-Hamid",
-    "author": "Sulaiman bin Abdullah Al al-Sheikh",
-    "desc": "Syarah pertama dan sangat rinci untuk Kitab at-Tauhid karya Sheikh Muhammad bin Abdil Wahhab."
+    "name": "Hilyatul Auliya'",
+    "author": "Abu Nu'aim al-Isfahani",
+    "desc": "Ensiklopedi biografi spiritual dan keteladanan para sufi era salaf."
   },
   {
-    "name": "Qurrat 'Uyun al-Muwahhidin",
-    "author": "Abd al-Rahman bin Hasan Al al-Sheikh",
-    "desc": "Ringkasan penjelasan pemurnian ibadah dan penghambaan diri hanya kepada Allah Ta'ala."
+    "name": "Sirr al-Asrar",
+    "author": "Syekh Abdul Qadir al-Jilani",
+    "desc": "Singkapan rahasia-rahasia spiritual dan tahapan maqamat sufi."
   },
   {
-    "name": "I'tiqad A'immat al-Hadith",
-    "author": "Abu Bakr al-Isma'ili",
-    "desc": "Penjelasan prinsip-prinsip keimanan yang disepakati oleh para imam ahli hadis klasik."
+    "name": "Al-Fath ar-Rabbani",
+    "author": "Syekh Abdul Qadir al-Jilani",
+    "desc": "Kumpulan khutbah dan nasihat spiritual pembuka jiwa."
   },
   {
-    "name": "Sarih al-Sunnah",
-    "author": "Ibn Jarir al-Tabari",
-    "desc": "Risalah singkat yang menetapkan pokok-pokok keyakinan Ahlussunnah wal Jama'ah."
+    "name": "Al-Ta'arruf li-Madhhab Ahl al-Tasawwuf",
+    "author": "Abu Bakr al-Kalabadhi",
+    "desc": "Penjelasan prinsip dan keabsahan ajaran tasawuf dalam Islam."
   },
   {
-    "name": "Tabyin Kadhib al-Muftari",
-    "author": "Ibn Asakir",
-    "desc": "Biografi Imam Abu al-Hasan al-Ash'ari dan pembelaan historis atas kebenaran mazhabnya."
+    "name": "Tanbihul Mughtarrin",
+    "author": "Imam ash-Sha'rani",
+    "desc": "Peringatan bagi ahli ibadah agar terhindar dari penyakit hati."
   },
   {
-    "name": "Al-Kifayah fi al-Hidayah",
-    "author": "Nur al-Din al-Sabuni",
-    "desc": "Buku pegangan teologi Maturidiyyah yang ringkas namun padat akan argumentasi rasional."
+    "name": "Al-Anwar al-Qudsiyyah",
+    "author": "Imam ash-Sha'rani",
+    "desc": "Kaidah-kaidah dasar tasawuf dan tata cara penyucian jiwa."
   },
   {
-    "name": "Al-Bidayah fi Ushul ad-Din",
-    "author": "Nur al-Din al-Sabuni",
-    "desc": "Pengantar dasar teologi Islam menurut mazhab Maturidiyyah untuk pemula."
+    "name": "Al-Akhlaq al-Matbuliyyah",
+    "author": "Imam ash-Sha'rani",
+    "desc": "Panduan akhlak spiritual berdasarkan tuntunan Syekh al-Matbuli."
   },
   {
-    "name": "Hashiyah al-Bajuri 'ala Kifayat al-Awwam",
-    "author": "Ibrahim al-Bajuri",
-    "desc": "Catatan pinggir populer yang memperjelas pembahasan sifat 20 dalam Kifayat al-Awwam."
+    "name": "Al-Kimiya' as-Sa'adah",
+    "author": "Imam al-Ghazali",
+    "desc": "Formula kebahagiaan sejati melalui pengenalan diri dan Tuhan."
   },
   {
-    "name": "Hashiyah al-Dasuqi 'ala Umm al-Barahin",
-    "author": "Muhammad al-Dasuqi",
-    "desc": "Kajian mendalam dan penjelasan istilah teologi atas matn Umm al-Barahin karya al-Sanusi."
+    "name": "Rawdhatut Thalibin",
+    "author": "Imam al-Ghazali",
+    "desc": "Taman spiritual bagi penuntut ilmu dalam meniti jalan Allah."
   },
   {
-    "name": "Hashiyah al-Sawi 'ala Jawharat al-Tawhid",
-    "author": "Ahmad al-Sawi",
-    "desc": "Penjelasan komprehensif atas matn bait Jawharat al-Tawhid dalam mazhab Ash'ari."
+    "name": "Al-Munqidh min ad-Dalal",
+    "author": "Imam al-Ghazali",
+    "desc": "Otobiografi spiritual pencarian kebenaran hakiki dan tasawuf."
   },
   {
-    "name": "Al-Aqidah al-Sanusiyyah al-Kubra",
-    "author": "Muhammad ibn Yusuf al-Sanusi",
-    "desc": "Teks dasar utama ilmu tauhid yang memuat dalil-dalil rasional dan naqli tentang ketuhanan."
+    "name": "Mizan al-Amal",
+    "author": "Imam al-Ghazali",
+    "desc": "Timbangan amal untuk mencapai kebahagiaan akhirat dan kesempurnaan jiwa."
   },
   {
-    "name": "Al-Aqidah al-Sanusiyyah al-Wustha",
-    "author": "Muhammad ibn Yusuf al-Sanusi",
-    "desc": "Tingkatan menengah dari rangkaian kitab akidah Sanusiyyah yang disusun secara sistematis."
+    "name": "Ithafus Sa'adatal Muttaqin",
+    "author": "Al-Murtadha az-Zabidi",
+    "desc": "Syarah komprehensif atas Ihya' Ulumiddin karangan al-Ghazali."
   },
   {
-    "name": "Sharh al-Sanusiyyah al-Kubra",
-    "author": "Muhammad ibn Yusuf al-Sanusi",
-    "desc": "Penjelasan langsung dari pengarang terhadap teks Al-Aqidah al-Sanusiyyah al-Kubra."
+    "name": "Kitab al-Zuhd",
+    "author": "Abdullah bin al-Mubarak",
+    "desc": "Kumpulan riwayat salaf tentang kesederhanaan dan ketertarikan akhiri."
   },
   {
-    "name": "Hashiyah al-Amir 'ala Ithaf al-Murid",
-    "author": "Muhammad al-Amir",
-    "desc": "Hasyiyah teologis yang mengulas ilmu tauhid Ash'ariyyah secara terperinci."
+    "name": "Kitab al-Zuhd",
+    "author": "Imam Ahmad bin Hanbal",
+    "desc": "Hadis dan atsar tentang gaya hidup zuhud para nabi dan sahabat."
   },
   {
-    "name": "Kitab al-Intisar",
-    "author": "Abu al-Husayn al-Khayyat",
-    "desc": "Bantahan teologis klasik terhadap kritikus ajaran Mu'tazilah dan pembelaan pandangan mereka."
+    "name": "Muhasabat an-Nafs",
+    "author": "Ibn Abi al-Dunya",
+    "desc": "Metode introspeksi diri dan pengendalian hawa nafsu."
   },
   {
-    "name": "Kitab al-Radd 'ala al-Marrisi",
-    "author": "Uthman bin Sa'id ad-Darimi",
-    "desc": "Bantahan keras terhadap pemikiran Bishr al-Marrisi mengenai sifat-sifat Allah."
+    "name": "Makarim al-Akhlaq",
+    "author": "Ibn Abi al-Dunya",
+    "desc": "Keutamaan dan bentuk-bentuk kemuliaan akhlak dalam ajaran Islam."
   },
   {
-    "name": "Al-Qawl al-Mufid 'ala Kitab al-Tawhid",
-    "author": "Muhammad bin Salih al-Uthaymin",
-    "desc": "Syarah kontemporer tepercaya yang mengupas tuntas bab-bab tauhid ibadah secara sistematis."
+    "name": "Haqa'iq 'an al-Tasawwuf",
+    "author": "Syekh Abdul Qadir Isa",
+    "desc": "Penjelasan lugas prinsip-prinsip tasawuf sesuai Al-Qur'an dan Sunnah."
   },
   {
-    "name": "Sharh Lum'at al-I'tiqad",
-    "author": "Muhammad bin Salih al-Uthaymin",
-    "desc": "Penjelasan praktis dan metodis atas matn akidah salaf karya Ibn Qudamah al-Maqdisi."
+    "name": "Al-Futuhat al-Ilahiyyah",
+    "author": "Ibn Ajiba",
+    "desc": "Syarah tawasuf mendalam mengenai pembersihan dan pemurnian batin."
   },
   {
-    "name": "Kitab al-Sifat",
-    "author": "Ali bin Umar al-Daraqutni",
-    "desc": "Kumpulan riwayat hadis tentang sifat-sifat Allah beserta takrij dan derajat keabsahannya."
+    "name": "Al-Mi'raj ila Allah",
+    "author": "Ibn Ajiba",
+    "desc": "Tahapan dan pendakian spiritual suluk menuju keridaan Allah."
   },
   {
-    "name": "Al-Anwar al-Jaliyyah",
-    "author": "Ahmad bin Muhammad al-Murdawi",
-    "desc": "Syarah teologi Hanabilah yang menguraikan prinsip-prinsip keimanan dan sifat Allah."
+    "name": "Risalatul Mudzakarah",
+    "author": "Imam Abdullah bin Alawi al-Haddad",
+    "desc": "Petunjuk saling menasihati dalam jalan kebaikan dan ketakwaan."
   },
   {
-    "name": "Ad-Durrah al-Mudi'ah",
-    "author": "Muhammad bin Ahmad al-Saffarini",
-    "desc": "Matn berupa bait-bait syair populer tentang pokok-pokok akidah Ahlussunnah Athariyyah."
+    "name": "Mathnawi",
+    "author": "Jalaluddin Rumi",
+    "desc": "Puisi sufistik mendalam tentang cinta ilahi dan hakikat kehidupan."
   },
   {
-    "name": "Sharh Aqidatul Awam",
-    "author": "Ahmad al-Marzuqi",
-    "desc": "Penjelasan langsung dari penyusun matn Aqidatul Awam mengenai dasar tauhid bagi pemula."
+    "name": "Mantiq at-Tayr",
+    "author": "Fariduddin Attar",
+    "desc": "Alegori perjalanan jiwa pencari Tuhan yang penuh kiasan tasawuf."
   },
   {
-    "name": "Al-Mukhtasar fi Ushul ad-Din",
-    "author": "Abu al-Hasan al-Ash'ari",
-    "desc": "Risalah ringkas pendiri mazhab Ash'ari yang memuat pokok doktrin ketuhanan dan kenabian."
+    "name": "Al-Risalah al-Tabukiyyah",
+    "author": "Ibn Qayyim al-Jawziyyah",
+    "desc": "Penjelasan perjalanan spiritual batin menuju Allah dan Rasul-Nya."
   },
   {
-    "name": "Nihayat al-Maram fi Dirayat al-Kalam",
-    "author": "Saif al-Din al-Amidi",
-    "desc": "Ensiklopedi ilmu kalam muta'akhirin yang mendiskusikan argumen filsafat dan teologi."
+    "name": "Kitab at-Tawbah",
+    "author": "Ibn Abi al-Dunya",
+    "desc": "Keutamaan taubat dan langkah-langkah pembersihan dosa."
   },
   {
-    "name": "Sharh Asma' Allah al-Husna",
-    "author": "Fakhr al-Din al-Razi",
-    "desc": "Analisis filosofis dan teologis mendalam mengenai makna nama-nama terindah Allah."
+    "name": "Dhamm al-Ghibah",
+    "author": "Ibn Abi al-Dunya",
+    "desc": "Peringatan keras dan celaan terhadap perbuatan ghibah dan lidah."
   },
   {
-    "name": "Ghayat al-Amani",
-    "author": "Abu al-Ma'ali al-Alusi",
-    "desc": "Bantahan kritis terhadap paham yang dianggap menyimpang dalam masalah tauhid dan tawasul."
+    "name": "Al-Ikhlas wan Niyyah",
+    "author": "Ibn Abi al-Dunya",
+    "desc": "Pentingnya memurnikan niat dan keikhlasan dalam setiap amal."
   },
   {
-    "name": "Al-Kashf al-Sarih",
-    "author": "Ibn al-Labban",
-    "desc": "Kajian teologis yang meluruskan prasangka dan tuduhan terhadap doktrin utama ilmu tauhid."
+    "name": "Mathlabul Aqlan",
+    "author": "Syekh Nawawi Banten",
+    "desc": "Panduan pendidikan karakter dan pola asuh anak secara Islami."
   },
   {
-    "name": "Tafsir Asma' Allah al-Husna",
-    "author": "Abu Ishaq al-Zajjaj",
-    "desc": "Kajian linguistik dan makna teologis dari nama-nama agung Allah menurut ulama salaf."
+    "name": "Ar-Risalah al-Fiqhiyyah wal Akhlaqiyyah",
+    "author": "Habib Ahmad bin Zayn al-Habshi",
+    "desc": "Gabungan fiqh praktis dan akhlak tasawuf untuk penuntut ilmu."
+  },
+  {
+    "name": "Irsyad as-Suluk ila Maliki al-Muluk",
+    "author": "Syekh Ibn Khaldun",
+    "desc": "Karya tasawuf Ibn Khaldun tentang jalan spiritual menuju Allah."
+  },
+  {
+    "name": "Kasyf al-Asrar",
+    "author": "Syekh Ruzbihan Baqli",
+    "desc": "Pengalaman dan pengungkapan rahasia-rahasia mistik tasawuf."
+  },
+  {
+    "name": "Al-Mawa'iz fi al-Ahadith al-Qudsiyyah",
+    "author": "Imam al-Ghazali",
+    "desc": "Kumpulan nasihat Allah dalam Hadis Qudsi pembakar semangat batin."
+  },
+  {
+    "name": "Sharh ar-Ratib",
+    "author": "Habib Alwi bin Ahmad al-Haddad",
+    "desc": "Syarah dan makna tasawuf di balik wirid Ratib al-Haddad."
+  },
+  {
+    "name": "Ghayat al-Ihsan fi Thabaqat as-Sufiyyah",
+    "author": "Ibn Qunfudh al-Qusantini",
+    "desc": "Tingkatan para wali dan etika kehidupan sufi."
+  },
+  {
+    "name": "Mirqat al-Mafatih Syarh Misykat al-Masabih",
+    "author": "Mulla Ali al-Qari",
+    "desc": "Syarah hadis yang sarat muatan pembersihan akhlak dan batin."
+  },
+  {
+    "name": "Miftah Dar al-Sa'adah",
+    "author": "Ibn Qayyim al-Jawziyyah",
+    "desc": "Kunci kebahagiaan melalui ilmu, keikhlasan, dan pembinaan kejiwaan."
+  },
+  {
+    "name": "Al-Adab fi ad-Din",
+    "author": "Imam al-Ghazali",
+    "desc": "Risalah singkat tentang adab-adab Islami dalam pelbagai situasi."
+  },
+  {
+    "name": "Tazkiyat an-Nufs",
+    "author": "Ibn Taymiyyah",
+    "desc": "Prinsip pembersihan jiwa berdasarkan pemahaman Al-Qur'an dan Sunnah."
+  },
+  {
+    "name": "Al-Kalam 'ala Mas'alat al-Ihsan",
+    "author": "Ibn Taymiyyah",
+    "desc": "Penjelasan tentang maqam Ihsan dan kedalaman tasawuf syar'i."
+  },
+  {
+    "name": "Adab al-Sufiyyah",
+    "author": "Abu Abdurrahman as-Sulami",
+    "desc": "Aturan dan etika perilaku para sufi dalam kehidupan sehari-hari."
   }
 ]
