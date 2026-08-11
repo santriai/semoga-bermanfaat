@@ -1,7 +1,252 @@
-{
-  "syarah": "[\n  {\n    \"name\": \"Futuh al-Syam\",\n    \"author\": \"Abu Abdullah al-Waqidi\",\n    \"desc\": \"Sejarah penaklukan wilayah Syam oleh pasukan Muslim pada era Khulafaur Rasyidin.\"\n  },\n  {\n    \"name\": \"Futuh Misr wa al-Maghrib\",\n    \"author\": \"Ibn 'Abd al-Hakam\",\n    \"desc\": \"Catatan sejarah penaklukan Mesir, Afrika Utara, dan Andalusia oleh umat Islam.\"\n  },\n  {\n    \"name\": \"Al-Mawa'iz wa al-I'tibar bi Dhikr al-Khitat wa al-Athar\",\n    \"author\": \"Taqiyuddin al-Maqrizi\",\n    \"desc\": \"Karya sejarah topografi dan sosial-politik Mesir serta Kairo klasik.\"\n  },\n  {\n    \"name\": \"Aja'ib al-Athar fi al-Tarajim wa al-Akhbar\",\n    \"author\": \"Abd al-Rahman al-Jabarti\",\n    \"desc\": \"Sejarah kronologis Mesir akhir abad ke-18 hingga awal abad ke-19.\"\n  },\n  {\n    \"name\": \"Mir'at al-Janan wa 'Ibrat al-Yaqzan\",\n    \"author\": \"Abu Muhammad al-Yafi'i\",\n    \"desc\": \"Sejarah Islam kronologis",
-  "modernTranslation": "[\n  {\n    \"name\": \"Futuh al-Syam\",\n    \"author\": \"Abu Abdullah al-Waqidi\",\n    \"desc\": \"Sejarah penaklukan wilayah Syam oleh pasukan Muslim pada era Khulafaur Rasyidin.\"\n  },\n  {\n    \"name\": \"Futuh Misr wa al-Maghrib\",\n    \"author\": \"Ibn 'Abd al-Hakam\",\n    \"desc\": \"Catatan sejarah penaklukan Mesir, Afrika Utara, dan Andalusia oleh umat Islam.\"\n  },\n  {\n    \"name\": \"Al-Mawa'iz wa al-I'tibar bi Dhikr al-Khitat wa al-Athar\",\n    \"author\": \"Taqiyuddin al-Maqrizi\",\n    \"desc\": \"Karya sejarah topografi dan sosial-politik Mesir serta Kairo klasik.\"\n  },\n  {\n    \"name\": \"Aja'ib al-Athar fi al-Tarajim wa al-Akhbar\",\n    \"author\": \"Abd al-Rahman al-Jabarti\",\n    \"desc\": \"Sejarah kronologis Mesir akhir abad ke-18 hingga awal abad ke-19.\"\n  },\n  {\n    \"name\": \"Mir'at al-Janan wa 'Ibrat al-Yaqzan\",\n    \"author\": \"Abu Muhammad al-Yafi'i\",\n    \"desc\": \"Sejarah Islam kronologis",
-  "maknaGandul": "Makna gandul otomatis belum dapat dimuat secara rinci.",
-  "nahwuShorof": "Periksa kitab syarah untuk analisis i'rab mendalam.",
-  "aiExplanation": "[\n  {\n    \"name\": \"Futuh al-Syam\",\n    \"author\": \"Abu Abdullah al-Waqidi\",\n    \"desc\": \"Sejarah penaklukan wilayah Syam oleh pasukan Muslim pada era Khulafaur Rasyidin.\"\n  },\n  {\n    \"name\": \"Futuh Misr wa al-Maghrib\",\n    \"author\": \"Ibn 'Abd al-Hakam\",\n    \"desc\": \"Catatan sejarah penaklukan Mesir, Afrika Utara, dan Andalusia oleh umat Islam.\"\n  },\n  {\n    \"name\": \"Al-Mawa'iz wa al-I'tibar bi Dhikr al-Khitat wa al-Athar\",\n    \"author\": \"Taqiyuddin al-Maqrizi\",\n    \"desc\": \"Karya sejarah topografi dan sosial-politik Mesir serta Kairo klasik.\"\n  },\n  {\n    \"name\": \"Aja'ib al-Athar fi al-Tarajim wa al-Akhbar\",\n    \"author\": \"Abd al-Rahman al-Jabarti\",\n    \"desc\": \"Sejarah kronologis Mesir akhir abad ke-18 hingga awal abad ke-19.\"\n  },\n  {\n    \"name\": \"Mir'at al-Janan wa 'Ibrat al-Yaqzan\",\n    \"author\": \"Abu Muhammad al-Yafi'i\",\n    \"desc\": \"Sejarah Islam kronologis"
-}
+[
+  {
+    "name": "Al-Tarikh al-Kabir",
+    "author": "Imam Muhammad ibn Ismail al-Bukhari",
+    "desc": "Kitab induk biografi dan sejarah perawi hadis serta kronologi tokoh Islam klasik."
+  },
+  {
+    "name": "Futuh al-Sham",
+    "author": "Abu Ismail al-Azdi",
+    "desc": "Catatan sejarah otentik mengenai penaklukan wilayah Syam oleh pasukan Muslim awal."
+  },
+  {
+    "name": "Futuh Misr wa al-Maghrib",
+    "author": "Ibn 'Abd al-Hakam",
+    "desc": "Sumber primer sejarah penaklukan Mesir, Afrika Utara, dan wilayah Al-Andalus."
+  },
+  {
+    "name": "Al-Ma'arif",
+    "author": "Ibn Qutaybah al-Dinawari",
+    "desc": "Ensiklopedia sejarah umum mulai masa penciptaan, para nabi, hingga dinasti Islam awal."
+  },
+  {
+    "name": "Al-Imamah wa al-Siyasah",
+    "author": "Ibn Qutaybah al-Dinawari (Atribusi)",
+    "desc": "Kajian sejarah kepemimpinan politik dan dinamika konflik pada awal masa Khilafah Islam."
+  },
+  {
+    "name": "Al-Tanbih wa al-Ishraf",
+    "author": "Abu al-Hasan al-Mas'udi",
+    "desc": "Ringkasan sejarah peradaban dunia, geografi politik, dan perkembangan bangsa-bangsa kuno."
+  },
+  {
+    "name": "Imta' al-Asma'",
+    "author": "Taqi al-Din al-Maqrizi",
+    "desc": "Sejarah komprehensif kehidupan Nabi Muhammad SAW, keluarga, sahabat, serta hukum perang."
+  },
+  {
+    "name": "Al-Mawaw'iz wa al-I'tibar bi Dhikr al-Khitat wa al-Athar",
+    "author": "Taqi al-Din al-Maqrizi",
+    "desc": "Karya monumental sejarah topografi, sosial, dan peninggalan arsitektur di Mesir."
+  },
+  {
+    "name": "Inba' al-Ghumr bi Abna' al-'Umr",
+    "author": "Ibn Hajar al-'Asqalani",
+    "desc": "Catatan sejarah kronologis tahunan dan biografi tokoh abad ke-8 dan 9 Hijriah."
+  },
+  {
+    "name": "Bughyat al-Talab fi Tarikh Halab",
+    "author": "Ibn al-'Adim",
+    "desc": "Kamus sejarah biografi tokoh dan peristiwa penting yang berkaitan dengan kota Aleppo."
+  },
+  {
+    "name": "Zubdat al-Halab fi Tarikh Halab",
+    "author": "Ibn al-'Adim",
+    "desc": "Ringkasan sejarah politik, militer, dan dinamika pemerintahan kota Aleppo."
+  },
+  {
+    "name": "Al-Nawadir al-Sultaniyyah wa al-Mahasin al-Yusufiyyah",
+    "author": "Baha' al-Din Ibn Shaddad",
+    "desc": "Biografi dan catatan sejarah perjuangan Sultan Salahuddin al-Ayyubi dalam Perang Salib."
+  },
+  {
+    "name": "Al-A'laq al-Khatirah fi Dhikr Umara' al-Sham wa al-Jazirah",
+    "author": "Izz al-Din Ibn Shaddad",
+    "desc": "Studi sejarah wilayah Syam dan Al-Jazirah beserta benteng dan peninggalannya."
+  },
+  {
+    "name": "Al-Uns al-Jalil bi-Tarikh al-Quds wa-al-Khalil",
+    "author": "Mujir al-Din al-'Ulaymi",
+    "desc": "Sejarah lengkap kota Yerusalem dan Hebron serta biografi ulama dan penguasanya."
+  },
+  {
+    "name": "Tarikh al-Yamini",
+    "author": "Abu Nasr al-Utbi",
+    "desc": "Sejarah kejayaan Dinasti Ghaznaviyah dan kepemimpinan Sultan Mahmud al-Ghaznawi."
+  },
+  {
+    "name": "Subh al-A'sha fi Sina'at al-Insha",
+    "author": "Ahmad al-Qalqashandi",
+    "desc": "Ensiklopedia sejarah, geografis, dan administrasi birokrasi negara Islam klasik."
+  },
+  {
+    "name": "Al-Dibaj al-Mudhahhab fi Ma'rifat A'yan Ulam' al-Madhhab",
+    "author": "Ibn Farhun al-Maliki",
+    "desc": "Sejarah biografi ulama dan tokoh-tokoh besar penerus Mazhab Maliki."
+  },
+  {
+    "name": "Tabaqat al-Shafi'iyyah al-Kubra",
+    "author": "Taj al-Din al-Subki",
+    "desc": "Enslikopedia sejarah biografi para ulama dan intelektual pengusung Mazhab Syafi'i."
+  },
+  {
+    "name": "Tabaqat al-Hanabilah",
+    "author": "Ibn Abi Ya'la",
+    "desc": "Catatan sejarah perkembangan Mazhab Hanbali dan biografi para ulama penganutnya."
+  },
+  {
+    "name": "Dhayl Tabaqat al-Hanabilah",
+    "author": "Ibn Rajab al-Hanbali",
+    "desc": "Kitab lanjutan sejarah biografi para ulama Mazhab Hanbali abad ke-5 hingga 8 H."
+  },
+  {
+    "name": "Jamharat Ansab al-'Arab",
+    "author": "Ibn Hazm al-Andalusi",
+    "desc": "Karya penting mengenai sejarah silsilah dan genealogis suku-suku bangsa Arab."
+  },
+  {
+    "name": "Jawami' al-Sirah",
+    "author": "Ibn Hazm al-Andalusi",
+    "desc": "Ringkasan sejarah perjalanan hidup Nabi Muhammad SAW secara urut dan sistematis."
+  },
+  {
+    "name": "Insan al-'Uyun fi Sirat al-Amin al-Ma'mun (Al-Sirah al-Halabiyyah)",
+    "author": "Ali ibn Burhan al-Din al-Halabi",
+    "desc": "Enslikopedia luas sejarah perjalanan hidup dan kenabian Muhammad SAW."
+  },
+  {
+    "name": "Al-Fihrist",
+    "author": "Ibn al-Nadim",
+    "desc": "Sejarah literatur, pemikiran, serta biografi para ilmuwan dan intelektual peradaban Islam."
+  },
+  {
+    "name": "Tarikh Nishapur",
+    "author": "Al-Hakim al-Nishapuri",
+    "desc": "Catatan sejarah intelektual dan biografi tokoh ulama di wilayah Nishapur."
+  },
+  {
+    "name": "Tarikh Wasit",
+    "author": "Aslam ibn Sahl al-Wasiti",
+    "desc": "Sejarah perkembangan sosial-keagamaan kota Wasit di Irak serta para ulamanya."
+  },
+  {
+    "name": "Tarikh Jurjan",
+    "author": "Hamza al-Isfahani",
+    "desc": "Karya sejarah lokal mengenai penguasa dan peristiwa penting di wilayah Jurjan."
+  },
+  {
+    "name": "Tarikh Irbil",
+    "author": "Ibn al-Mustawfi al-Irbili",
+    "desc": "Sejarah politik, budaya, dan intelektual kota Irbil di wilayah utara Irak."
+  },
+  {
+    "name": "Mukhtasar Tarikh al-Duwal",
+    "author": "Ibn al-'Ibri (Bar Hebraeus)",
+    "desc": "Ringkasan sejarah politik dinasti-dinasti dunia dari masa kuno hingga era Islam."
+  },
+  {
+    "name": "Akhbar al-Duwal wa Athar al-Uwal",
+    "author": "Ahmad ibn Yusuf al-Qaramaniah",
+    "desc": "Sejarah perkembangan dinasti-dinasti Islam dan peristiwa penting para penguasanya."
+  },
+  {
+    "name": "Al-I'tibar",
+    "author": "Usama ibn Munqidh",
+    "desc": "Otobiografi dan rekonstruksi sejarah sosial-militer pada masa Perang Salib."
+  },
+  {
+    "name": "Tarikh Meyyafariqin wa Amid",
+    "author": "Ibn al-Azraq al-Fariqi",
+    "desc": "Sejarah lokal wilayah Diyarbakir dan pemerintahan Dinasti Marwanid."
+  },
+  {
+    "name": "Al-Badr al-Tali' bi Mahasin min Ba'd al-Qarn al-Sabi'",
+    "author": "Muhammad ibn Ali al-Shawkani",
+    "desc": "Kamus sejarah biografi tokoh-tokoh terkemuka dari abad ke-7 Hijriah dan seterusnya."
+  },
+  {
+    "name": "Unwan al-Majd fi Tarikh Najd",
+    "author": "Ibn Bishr",
+    "desc": "Catatan sejarah perkembangan politik dan gerakan keagamaan di wilayah Najd."
+  },
+  {
+    "name": "Rawdat al-Afkar wa al-Afham",
+    "author": "Hussein ibn Ghannam",
+    "desc": "Sumber sejarah primer mengenai kondisi politik dan dakwah di Jazirah Arab era modern awal."
+  },
+  {
+    "name": "Al-Shama'il al-Muhammadiyyah",
+    "author": "Imam al-Tirmidhi",
+    "desc": "Dokumentasi sejarah mengenai karakter, kepribadian, dan ciri fisik Nabi Muhammad SAW."
+  },
+  {
+    "name": "Subul al-Huda wa al-Rashad",
+    "author": "Muhammad ibn Yusuf al-Salihi",
+    "desc": "Ensiklopedia sejarah sirah nabawiyah paling komprehensif susunan ulama abad ke-10 H."
+  },
+  {
+    "name": "Tarikh Sini Muluk al-Ard wa al-Anbiya'",
+    "author": "Hamza al-Isfahani",
+    "desc": "Kajian sejarah kronologis raja-raja dunia kuno, para nabi, dan dinasti pra-Islam."
+  },
+  {
+    "name": "Al-Inba' fi Tarikh al-Khulafa'",
+    "author": "Ibn al-'Amrani",
+    "desc": "Ringkasan sejarah para khalifah Islam dari masa Khulafaur Rasyidin hingga Abbasiyah."
+  },
+  {
+    "name": "Tabaqat al-Mufassirin",
+    "author": "Jalal al-Din al-Suyuti",
+    "desc": "Kamus biografi sejarah para ulama ahli tafsir Al-Qur'an sepanjang masa."
+  },
+  {
+    "name": "Tabaqat al-Mufassirin",
+    "author": "Muhammad ibn Ali al-Dawudi",
+    "desc": "Enslikopedia biografi lengkap yang memuat sejarah para mufasir dari berbagai kurun."
+  },
+  {
+    "name": "Al-Thiqat",
+    "author": "Ibn Hibban al-Busti",
+    "desc": "Biografi sejarah mengenai para perawi hadis terpercaya dalam tradisi Islam."
+  },
+  {
+    "name": "Al-Fusul fi Sirat al-Rasul",
+    "author": "Ibn Kathir",
+    "desc": "Ringkasan padat dan jelas mengenai sejarah perjalanan hidup dan peperangan Nabi Muhammad SAW."
+  },
+  {
+    "name": "Ghayat al-Nihayah fi Tabaqat al-Qurra'",
+    "author": "Ibn al-Jazari",
+    "desc": "Kamus biografi sejarah para ahli dan Imam seni bacaan (qira'at) Al-Qur'an."
+  },
+  {
+    "name": "Al-Tabaqat al-Saniyyah fi Tarajim al-Hanafiyyah",
+    "author": "Taqi al-Din al-Tamimi",
+    "desc": "Sejarah biografi ulama, fuqaha, dan pemikir yang mengabdi pada Mazhab Hanafi."
+  },
+  {
+    "name": "Tarikh al-Sultan al-Zahir Baybars",
+    "author": "Ibn 'Abd al-Zahir",
+    "desc": "Catatan biografi dan kejayaan Sultan Baybars dalam memimpin Dinasti Mamluk."
+  },
+  {
+    "name": "Mufarrij al-Kurub fi Akhbar Bani Ayyub",
+    "author": "Ibn Wasil",
+    "desc": "Sejarah mendalam mengenai Dinasti Ayyubiyah dan dinamika politik Timur Tengah."
+  },
+  {
+    "name": "Tarikh Ibn Abi Khaythamah",
+    "author": "Ibn Abi Khaythamah",
+    "desc": "Kitab awal sejarah Islam yang memuat kisah sahabat, tabi'in, dan ilmu riwayat."
+  },
+  {
+    "name": "Al-I'lam bi-Man Dakhala al-Andalus min al-A'lam",
+    "author": "Ibn Bashkuwal",
+    "desc": "Sejarah biografi tokoh ulama dan ilmuwan yang pernah tinggal atau mengunjungi Al-Andalus."
+  },
+  {
+    "name": "Tarikh Ghazawat Khayr al-Din Barbarossa",
+    "author": "Sinan Pasha",
+    "desc": "Catatan sejarah pertempuran maritim dan perjuangan laksamana Khairuddin Barbarossa."
+  }
+]
