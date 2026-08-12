@@ -1,0 +1,158 @@
+{
+  "profile": {
+    "name": "Al-Itqan fi 'Ulum al-Qur'an",
+    "originalTitle": "الإِتْقَانُ فِي عُلُومِ القُرْآنِ",
+    "author": "Imam Jalaluddin Abu al-Fadl 'Abd al-Rahman bin Abi Bakr as-Suyuti",
+    "field": "Ulumul Qur'an (Ilmu-ilmu Al-Qur'an)",
+    "about": "Kitab Al-Itqan fi 'Ulum al-Qur'an merupakan karya monumental dan ensiklopedis paling komprehensif dalam bidang studi ilmu Al-Qur'an yang disusun oleh Imam Jalaluddin as-Suyuti. Kitab ini merangkum dan mensistematisasikan seluruh cabang disiplin ilmu Al-Qur'an ke dalam 80 jenis pembahasan (An-Naw') yang mencakup aspek nuzulul Qur'an, sanad, qira'at, tajwid, gharibil Qur'an, i'rab, balaghah, hingga metode tafsir dan syarat-syarat mufassir. Ditulis sebagai kompendium utama bagi para ulama dan penuntut ilmu, kitab ini menjadi rujukan primer (turath) standar di seluruh institusi pendidikan Islam dan pesantren di dunia. Keunggulan kitab ini terletak pada kedalaman sanad, ketelitian klasifikasi, serta penyajian riwayat-riwayat yang sahih.",
+    "authorBorn": "849 H / 1445 M (Kairo, Mesir)",
+    "authorDied": "911 H / 1505 M (Kairo, Mesir)",
+    "authorCentury": "Abad ke-9 sampai ke-10 Hijriah (Abad ke-15 Masehi)"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah: Khutbah Kitab dan Tujuan Penyusunan",
+      "titleArabic": "المُقَدِّمَةُ: خُطْبَةُ الكِتَابِ وَسَبَبُ التَّأْلِيفِ",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَنْزَلَ عَلَى عَبْدِهِ الْكِتَابَ تَبْصِرَةً وَذِكْرَى لِأُولِي الْأَلْبَابِ، وَأَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ. أَمَّا بَعْدُ: فَإِنَّ العُلُومَ المَتَعَلِّقَةَ بِالقُرْآنِ العَظِيمِ كَثِيرَةٌ جِدًّا، وَقَدْ جَمَعْتُ فِي هَذَا الكِتَابِ ثَمَانِينَ نَوْعًا مِنْ عُلُومِهِ عَلَى أَبْدَعِ تَرْتِيبٍ وَأَتَمِّ تَهْذِيبٍ.",
+      "translation": "Segala puji bagi Allah yang telah menurunkan kepada hamba-Nya Al-Kitab sebagai petunjuk dan peringatan bagi orang-orang yang berakal. Aku bersaksi bahwa tidak ada tuhan selain Allah yang Maha Esa, tiada sekutu bagi-Nya, dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya. Amma ba'du: Sesungguhnya ilmu-ilmu yang berkaitan dengan Al-Qur'an yang agung sangatlah banyak, dan sungguh aku telah mengumpulkan dalam kitab ini 80 jenis ilmu Al-Qur'an dengan urutan paling indah dan penyempurnaan paling sempurna."
+    },
+    {
+      "title": "Jenis 1: Memahami Makkiyyah dan Madaniyyah",
+      "titleArabic": "النَّوْعُ الأَوَّلُ: مَعْرِفَةُ المَكِّيِّ وَالمَدَنِيِّ",
+      "arabic": "النَّوْعُ الأَوَّلُ: مَعْرِفَةُ المَكِّيِّ وَالمَدَنِيِّ. اعْلَمْ أَنَّ لِلْعُلَمَاءِ فِي حَبْرِ المَكِّيِّ وَالمَدَنِيِّ ثَلَاثَةَ اصْطِلَاحَاتٍ: أَصَحُّهَا أَنَّ المَكِّيَّ مَا نَزَلَ قَبْلَ الهِجْرَةِ وَإِنْ كَانَ بِغَيْرِ مَكَّةَ، وَالمَدَنِيَّ مَا نَزَلَ بَعْدَهَا وَإِنْ كَانَ بِمَكَّةَ.",
+      "translation": "Jenis Pertama: Pengetahuan tentang ayat Makkiyyah dan Madaniyyah. Ketahuilah bahwa para ulama memiliki tiga istilah dalam menetapkan Makkiyyah dan Madaniyyah: Yang paling sahih adalah bahwa Makkiyyah adalah apa yang diturunkan sebelum hijrah meskipun turun di luar Makkah, sedangkan Madaniyyah adalah apa yang diturunkan setelah hijrah meskipun turun di Makkah."
+    },
+    {
+      "title": "Jenis 2: Memahami Ayatan Hadhariyyah dan Safariyyah",
+      "titleArabic": "النَّوْعُ الثَّانِي: مَعْرِفَةُ الحَضَرِيِّ وَالسَّفَرِيِّ",
+      "arabic": "النَّوْعُ الثَّانِي: مَعْرِفَةُ الحَضَرِيِّ وَالسَّفَرِيِّ. الحَضَرِيُّ مَا نَزَلَ فِي مَحَلِّ الإِقَامَةِ، وَالسَّفَرِيُّ مَا نَزَلَ فِي حَالِ السَّفَرِ كَقَوْلِهِ تَعَالَى: ﴿وَاتَّخِذُوا مِنْ مَقَامِ إِبْرَاهِيمَ مُصَلًّى﴾ نَزَلَتْ بِبَطْنِ مَكَّةَ فِي الحَجِّ.",
+      "translation": "Jenis Kedua: Pengetahuan tentang ayat Hadhari (turun saat tidak bepergian) dan Safari (turun dalam perjalanan). Hadhari adalah ayat yang turun di tempat kediaman/domisili, sedangkan Safari adalah ayat yang turun dalam keadaan bepergian, seperti firman-Nya: 'Dan jadikanlah sebagian maqam Ibrahim sebagai tempat shalat' yang turun di perut kota Makkah saat haji."
+    },
+    {
+      "title": "Jenis 3: Memahami Ayat Nahariyyah dan Lailiyyah",
+      "titleArabic": "النَّوْعُ الثَّالِثُ: مَعْرِفَةُ النَّهَارِيِّ وَاللَّيْلِيِّ",
+      "arabic": "النَّوْعُ الثَّالِثُ: مَعْرِفَةُ النَّهَارِيِّ وَاللَّيْلِيِّ. الأَكْثَرُ مِنَ القُرْآنِ نَزَلَ نَهَارًا، وَاللَّيْلِيُّ لَهُ أَمْثِلَةٌ؛ مِنْهَا: آيَةُ الثَّلَاثَةِ الَّذِينَ خُلِّفُوا فِي سُورَةِ التَّوْبَةِ، نَزَلَتْ لَيْلًا فِي بَيْتِ أُمِّ سَلَمَةَ.",
+      "translation": "Jenis Ketiga: Pengetahuan tentang ayat Nahari (turun di siang hari) dan Laili (turun di malam hari). Sebagian besar Al-Qur'an turun pada siang hari. Adapun yang turun pada malam hari memiliki beberapa contoh, di antaranya: ayat tentang tiga orang yang ditangguhkan dalam Surah At-Taubah, yang turun pada malam hari di rumah Ummu Salamah."
+    },
+    {
+      "title": "Jenis 4: Memahami Ayat Shaifiyyah dan Shita'iyyah",
+      "titleArabic": "النَّوْعُ الرَّابِعُ: مَعْرِفَةُ الصَّيْفِيِّ وَالشِّتَائِيِّ",
+      "arabic": "النَّوْعُ الرَّابِعُ: مَعْرِفَةُ الصَّيْفِيِّ وَالشِّتَائِيِّ. الصَّيْفِيُّ مَا نَزَلَ فِي زَمَنِ الصَّيْفِ كَآيَةِ الكَلَالَةِ فِي آخِرِ سُورَةِ النِّسَاءِ، وَالشِّتَائِيُّ مَا نَزَلَ فِي الشِّتَاءِ كَآيَاتِ الإِفْكِ فِي سُورَةِ النُّورِ.",
+      "translation": "Jenis Keempat: Pengetahuan tentang ayat Shaifi (turun musim panas) dan Shita'i (turun musim dingin). Ayat Shaifi adalah yang turun pada musim panas seperti ayat Kalalah di akhir Surah An-Nisa', sedangkan ayat Shita'i adalah yang turun pada musim dingin seperti ayat-ayat tentang berita bohong (Haditsul Ifk) dalam Surah An-Nur."
+    },
+    {
+      "title": "Jenis 5: Memahami Ayat Firashiyyah dan Naumiyyah",
+      "titleArabic": "النَّوْعُ الخَامِسُ: مَعْرِفَةُ الفِرَاشِيِّ وَالنَّوْمِيِّ",
+      "arabic": "النَّوْعُ الخَامِسُ: مَعْرِفَةُ الفِرَاشِيِّ وَالنَّوْمِيِّ. الفِرَاشِيُّ مَا نَزَلَ وَالنَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي فِرَاشِهِ، وَالنَّوْمِيُّ مَا نَزَلَ فِي حَالَةِ النَّوْمِ كَسُورَةِ الكَوْثَرِ عَلَى قَوْلٍ.",
+      "translation": "Jenis Kelima: Pengetahuan tentang ayat Firashi (turun di tempat tidur) dan Naumi (turun saat tidur). Firashi adalah ayat yang turun ketika Nabi SAW berada di tempat tidurnya, sedangkan Naumi adalah ayat yang turun dalam kondisi tidur seperti Surah Al-Kausar menurut satu pendapat."
+    },
+    {
+      "title": "Jenis 6: Memahami Ayat Aradhiyyah dan Sama'iyyah",
+      "titleArabic": "النَّوْعُ السَّادِسُ: مَعْرِفَةُ الأَرْضِيِّ وَالسَّمَائِيِّ",
+      "arabic": "النَّوْعُ السَّادِسُ: مَعْرِفَةُ الأَرْضِيِّ وَالسَّمَائِيِّ. الأَرْضِيُّ مَا نَزَلَ فِي الأَرْضِ وَهُوَ الجُمُهُورُ، وَالسَّمَائِيُّ مَا نَزَلَ فِي السَّمَاءِ لَيْلَةَ المِعْرَاجِ كَآخِرِ سُورَةِ البَقَرَةِ.",
+      "translation": "Jenis Keenam: Pengetahuan tentang ayat Aradhi (turun di bumi) dan Sama'i (turun di langit). Ayat Aradhi adalah yang turun di bumi dan ini merupakan mayoritas Al-Qur'an, sedangkan ayat Sama'i adalah yang turun di langit pada malam Isra Mi'raj seperti akhir Surah Al-Baqarah."
+    },
+    {
+      "title": "Jenis 7: Pengetahuan tentang Awwalu Ma Nazal (Pertama Kali Turun)",
+      "titleArabic": "النَّوْعُ السَّابِعُ: مَعْرِفَةُ أَوَّلِ مَا نَزَلَ",
+      "arabic": "النَّوْعُ السَّابِعُ: مَعْرِفَةُ أَوَّلِ مَا نَزَلَ. الصَّحِيحُ المُعْتَمَدُ أَنَّ أَوَّلَ مَا نَزَلَ عَلَى الإِطْلَاقِ: ﴿اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ﴾، وَقِيلَ: ﴿يَا أَيُّهَا المُدَّثِّرُ﴾، وَالأَوَّلُ أَرْجَحُ.",
+      "translation": "Jenis Ketujuh: Pengetahuan tentang ayat yang pertama kali turun. Yang sahih dan menjadi pegangan adalah bahwa yang pertama kali turun secara mutlak adalah ayat: 'Iqra' bismi rabbikalladzi khalaq', dan ada yang berpendapat Surah Al-Muddassir, namun pendapat pertama lebih kuat."
+    },
+    {
+      "title": "Jenis 8: Pengetahuan tentang Akhiru Ma Nazal (Terakhir Kali Turun)",
+      "titleArabic": "النَّوْعُ الثَّامِنُ: مَعْرِفَةُ آخِرِ مَا نَزَلَ",
+      "arabic": "النَّوْعُ الثَّامِنُ: مَعْرِفَةُ آخِرِ مَا نَزَلَ. أَقْوَى الأَقْوَالِ فِي آخِرِ مَا نَزَلَ أَنَّهَا آيَةُ الرِّبَا، وَقِيلَ: ﴿وَاتَّقُوا يَوْمًا تُرْجَعُونَ فِيهِ إِلَى اللَّهِ﴾ وَهُوَ الأَثْبَتُ عِنْدَ المُحَقِّقِينَ.",
+      "translation": "Jenis Kedelapan: Pengetahuan tentang ayat yang terakhir kali turun. Pendapat terkuat mengenai ayat yang terakhir turun adalah ayat Riba, dan ada yang berpendapat firman-Nya: 'Wattaqu yauman turja'una fihi ilallah' (Surah Al-Baqarah: 281), dan inilah yang paling kuat di kalangan para peneliti."
+    },
+    {
+      "title": "Jenis 9: Pengetahuan tentang Asbab an-Nuzul (Sebab-Sebab Turunnya Ayat)",
+      "titleArabic": "النَّوْعُ التَّاسِعُ: مَعْرِفَةُ أَسْبَابِ النُّزُولِ",
+      "arabic": "النَّوْعُ التَّاسِعُ: مَعْرِفَةُ أَسْبَابِ النُّزُولِ. هُوَ فَنٌّ جَلِيلٌ، وَمَعْرِفَتُهُ لَازِمَةٌ لِمَنْ أَرَادَ فَهْمَ القُرْآنِ؛ إذْ لَا يُمْكِنُ تَفْسِيرُ الآيَةِ دُونَ الوُقُوفِ عَلَى قِصَّتِهَا وَسَبَبِ نُزُولِهَا. وَالعِبْرَةُ بِعُمُومِ اللَّفْظِ لَا بِخُصُوصِ السَّبَبِ.",
+      "translation": "Jenis Kesembilan: Pengetahuan tentang Asbab an-Nuzul. Ini adalah cabang ilmu yang sangat agung, dan mengetahuinya merupakan keharusan bagi siapa saja yang ingin memahami Al-Qur'an; sebab tidak mungkin menafsirkan suatu ayat tanpa mengetahui kisah dan sebab turunnya. Dan patokan hukum didasarkan pada keumuman lafaz, bukan pada kekhususan sebab."
+    },
+    {
+      "title": "Jenis 10: Ayat yang Turun Melalui Lisan Sebagian Sahabat (Muwafaqat)",
+      "titleArabic": "النَّوْعُ العَاشِرُ: مَا نَزَلَ عَلَى لِسَانِ بَعْضِ الصَّحَابَةِ",
+      "arabic": "النَّوْعُ العَاشِرُ: مَا نَزَلَ عَلَى لِسَانِ بَعْضِ الصَّحَابَةِ. وَمِنْهُ مُوَافَقَاتُ عُمَرَ بْنِ الخَطَّابِ رَضِيَ اللَّهُ عَنْهُ فِي مَقَامِ إِبْرَاهِيمَ، وَحِجَابِ أُمَّهَاتِ المُؤْمِنِينَ، وَأَسَارَى بَدْرٍ.",
+      "translation": "Jenis Kesepuluh: Ayat yang turun menyelaraskan lisan sebagian sahabat (Muwafaqat). Di antaranya adalah kesesuaian pendapat Umar bin Khattab RA dalam masalah Maqam Ibrahim, hijab istri-istri Nabi, dan tawanan perang Badr."
+    },
+    {
+      "title": "Jenis 11-12: Ayat yang Berulang Turunnya dan Hukum yang Dahulu dari Sebabnya",
+      "titleArabic": "النَّوْعُ الحَادِي عَشَرَ وَالثَّانِي عَشَرَ: مَا تَكَرَّرَ نُزُولُهُ وَمَا تَأَخَّرَ حُكْمُهُ عَنْ نُزُولِهِ",
+      "arabic": "النَّوْعُ الحَادِي عَشَرَ وَالثَّانِي عَشَرَ: مَا تَكَرَّرَ نُزُولُهُ تَعْظِيمًا لِلشَّأْنِ وَتَذْكِيرًا، وَمَا تَأَخَّرَ حُكْمُهُ عَنْ نُزُولِهِ أَوْ عَكْسُهُ كَآيَةِ الزَّكَاةِ وَقَدْ نَزَلَتْ بِمَكَّةَ وَفُرِضَتْ بِالمَدِينَةِ.",
+      "translation": "Jenis Ke-11 dan Ke-12: Ayat yang berulang kali turun untuk mengagungkan kedudukannya serta sebagai peringatan, dan ayat yang hukumnya mengakhiri/mendahului turunnya ayat seperti ayat zakat yang turun di Makkah namun diwajibkan di Madinah."
+    },
+    {
+      "title": "Jenis 13-16: Tata Cara Penurunan Al-Qur'an (Nuzul)",
+      "titleArabic": "الأَنْوَاعُ ثَالِثَ عَشَرَ إِلَى سَادِسَ عَشَرَ: كَيْفِيَّةُ إِنْزَالِ القُرْآنِ",
+      "arabic": "الأَنْوَاعُ 13-16: كَيْفِيَّةُ إِنْزَالِ القُرْآنِ. نَزَلَ القُرْآنُ جُمْلَةً وَاحِدَةً إِلَى السَّمَاءِ الدُّنْيَا فِي لَيْلَةِ القَدْرِ، ثُمَّ نَزَلَ مُفَرَّقًا فِي عِشْرِينَ أَوْ ثَلَاثٍ وَعِشْرِينَ سَنَةً بِحَسَبِ الوَقَائِعِ وَالأَحْدَاثِ.",
+      "translation": "Jenis Ke-13 sampai Ke-16: Tata cara penurunan Al-Qur'an. Al-Qur'an diturunkan sekaligus ke langit dunia pada malam Lailatul Qadar, kemudian diturunkan secara berangsur-angsur selama 20 atau 23 tahun sesuai dengan peristiwa dan kejadian."
+    },
+    {
+      "title": "Jenis 17-21: Nama-nama Al-Qur'an dan Pengumpulannya",
+      "titleArabic": "الأَنْوَاعُ 17-21: أَسْمَاءُ القُرْآنِ وَجَمْعُهُ وَتَرْتِيبُهُ",
+      "arabic": "الأَنْوَاعُ 17-21: أَنَّ اللَّهَ سَمَّى القُرْآنَ بِخَمْسِينَ اسْمًا مِنْهَا: الفُرْقَانُ، وَالذِّكْرُ، وَالتَّنْزِيلُ. وَجَمْعُهُ مَرَّ بِثَلَاثِ مَرَاحِلَ: فِي عَهْدِ النَّبِيِّ، وَفِي عَهْدِ أَبِي بَكْرٍ، وَفِي عَهْدِ عُثْمَانَ رَضِيَ اللَّهُ عَنْهُمْ.",
+      "translation": "Jenis Ke-17 sampai Ke-21: Nama-nama Al-Qur'an dan pengumpulannya. Allah menamai Al-Qur'an dengan 50 nama di antaranya: Al-Furqan, Adz-Dzikr, dan At-Tanzil. Pengumpulannya melewati tiga tahap: pada zaman Nabi SAW, zaman Abu Bakar As-Siddiq, dan zaman Utsman bin Affan RA."
+    },
+    {
+      "title": "Jenis 22-27: Sanad, Qira'at Mutawatir, Masyhur, dan Shadz",
+      "titleArabic": "الأَنْوَاعُ 22-27: مَعْرِفَةُ المُتَوَاتِرِ وَالمَشْهُورِ وَالآحَادِ وَالشَّاذِّ مِنَ القِرَاءَاتِ",
+      "arabic": "الأَنْوَاعُ 22-27: ضَبْطُ القِرَاءَاتِ المَقْبُولَةِ وَالمَرْدُودَةِ. وَأَرْكَانُ القِرَاءَةِ الصَّحِيحَةِ ثَلَاثَةٌ: صِحَّةُ السَّنَدِ، وَمُوَافَقَةُ العَرَبِيَّةِ وَلَوْ بِوَجْهٍ، وَمُوَافَقَةُ الرَّسْمِ العُثْمَانِيِّ.",
+      "translation": "Jenis Ke-22 sampai Ke-27: Pengategorian bacaan (Qira'at) yang Mutawatir, Masyhur, Ahad, dan Shadz. Rukun bacaan yang sahih ada tiga: keabsahan sanad, sesuai dengan kaidah bahasa Arab meskipun dari satu sudut pandang, dan sesuai dengan rasm Utsmani."
+    },
+    {
+      "title": "Jenis 28-35: Ketentuan Waqaf, Ibtida', Tajwid, dan Imalah",
+      "titleArabic": "الأَنْوَاعُ 28-35: آدَابُ التِّلَاوَةِ وَالوَقْفِ وَالابْتِدَاءِ وَالتَّجْوِيدِ",
+      "arabic": "الأَنْوَاعُ 28-35: مَعْرِفَةُ الوقفِ وَالابْتِدَاءِ، وَهُوَ فَنٌّ عَظِيمٌ؛ يَنْقَسِمُ إِلَى: تَامٍّ، وَكَافٍ، وَحَسَنٍ، وَقَبِيحٍ. وَيَتَضَمَّنُ أَيْضًا أَهَمَّ أَحْكَامِ التَّجْوِيدِ كَالإِدْغَامِ وَالإِظْهَارِ وَالإِمَالَةِ.",
+      "translation": "Jenis Ke-28 sampai Ke-35: Pengetahuan tentang Waqaf dan Ibtida' yang terbagi menjadi: Tām (Sempurna), Kāfi (Cukup), Hasan (Baik), dan Qabīh (Buruk). Bab ini juga mencakup hukum-hukum Tajwid seperti Idgham, Idzhar, dan Imalah."
+    },
+    {
+      "title": "Jenis 36-40: Lafaz Gharib (Asing) dan Mu'arrab dalam Al-Qur'an",
+      "titleArabic": "الأَنْوَاعُ 36-40: غَرِيبُ القُرْآنِ وَالمُعَرَّبُ وَالمُشْتَرَكُ",
+      "arabic": "الأَنْوَاعُ 36-40: مَعْرِفَةُ غَرِيبِ القُرْآنِ، وَهُوَ مَا خَفِيَ مِنَ الأَلْفَاظِ، وَالمُعَرَّبُ: مَا وَقَعَ فِيهِ مِنْ لُغَاتِ الأُمَمِ الأُخْرَى بَعْدَ أَنْ عَرَّبَتْهُ العَرَبُ، وَالمُشْتَرَكُ وَالأَضْدَادُ.",
+      "translation": "Jenis Ke-36 sampai Ke-40: Memahami kosakata asing (Gharib), kata serapan asing yang diarabkan (Mu'arrab), serta kata berpotensi ganda/berlawanan makna (Musytarak dan Adhdad) dalam Al-Qur'an."
+    },
+    {
+      "title": "Jenis 41-45: I'rab Al-Qur'an dan Kaidah-Kaidah Tata Bahasa",
+      "titleArabic": "الأَنْوَاعُ 41-45: إِعْرَابُ القُرْآنِ وَقَوَاعِدُهُ النَّحْوِيَّةُ",
+      "arabic": "الأَنْوَاعُ 41-45: إِعْرَابُ القُرْآنِ عِلْمٌ يَعْصِمُ عَنِ الخَطَأِ فِي الفَهْمِ؛ لأَنَّ المَعْنَى يَتَغَيَّرُ بِتَغَيُّرِ الإِعْرَابِ. وَشَرَطُوا فِي الإِعْرَابِ أَنْ يُوَافِقَ المَعْنَى وَالسِّيَاقَ الظَّاهِرَ.",
+      "translation": "Jenis Ke-41 sampai Ke-45: I'rab Al-Qur'an adalah ilmu yang menjaga dari kesalahan pemahaman, karena makna berubah seiring perubahan i'rab. Para ulama mensyaratkan i'rab harus sesuai dengan makna dan konteks yang jelas."
+    },
+    {
+      "title": "Jenis 46-50: Khas, 'Am, Mujmal, Mufassal, Nasikh, dan Mansukh",
+      "titleArabic": "الأَنْوَاعُ 46-50: العَامُّ وَالخَاصُّ وَالمُجْمَلُ وَالمُبَيَّنُ وَالنَّاسِخُ وَالمَنْسُوخُ",
+      "arabic": "الأَنْوَاعُ 46-50: مَعْرِفَةُ النَّاسِخِ وَالمَنْسُوخِ مِنْ أَهَمِّ الأَنْوَاعِ، وَالنَّسْخُ فِي القُرْآنِ عَلَى ثَلَاثَةِ أَقْسَامٍ: نَسْخُ الحُكْمِ وَالتِّلَاوَةِ، نَسْخُ الحُكْمِ دُونَ التِّلَاوَةِ، وَنَسْخُ التِّلَاوَةِ دُونَ الحُكْمِ.",
+      "translation": "Jenis Ke-46 sampai Ke-50: Ketentuan 'Am, Khas, Mujmal, Mufassal, serta Nasikh dan Mansukh. Ilmu tentang Nasikh dan Mansukh termasuk paling penting; nasakh dalam Al-Qur'an terbagi menjadi tiga: penghapusan hukum dan bacaan, penghapusan hukum tanpa bacaan, dan penghapusan bacaan tanpa hukum."
+    },
+    {
+      "title": "Jenis 51-60: Badai'ul Qur'an, Keindahan Bahasa, Balaghah, dan I'jaz",
+      "titleArabic": "الأَنْوَاعُ 51-60: بَلاغَةُ القُرْآنِ وَأَسَالِيبُهُ وَإِعْجَازُهُ",
+      "arabic": "الأَنْوَاعُ 51-60: بَلَاغَةُ القُرْآنِ وَإِعْجَازُهُ. يَتَنَاوَلُ هَذَا البَابُ التَّشْبِيهَ وَالمَجَازَ وَالاسْتِعَارَةَ وَالكِنَايَةَ وَالفَوَاصِلَ وَالإِعْجَازَ العِلْمِيَّ وَالبَيَانِيَّ الَّذِي أَعْجَزَ العَرَبَ وَالعَجَمَ.",
+      "translation": "Jenis Ke-51 sampai Ke-60: Balaghah, gaya bahasa, dan keutamaan kemukjizatan Al-Qur'an. Bagian ini membahas tasybih (penyerupaan), majas, istid'arah (metafora), kinayah, rima akhiran ayat (fawashil), serta kemukjizatan ilmiah dan bahasa yang melemahkan seluruh bangsa."
+    },
+    {
+      "title": "Jenis 61-70: Ayat-ayat Mutasyabihat, Amtsal (Perumpamaan), dan Aqsam (Sumpah)",
+      "titleArabic": "الأَنْوَاعُ 61-70: المِثَالُ وَالأَقْسَامُ وَالمُتَشَابِهَاتُ فِي القُرْآنِ",
+      "arabic": "الأَنْوَاعُ 61-70: فِي أَمْثَالِ القُرْآنِ وَأَقْسَامِهِ. فَالْأَمْثَالُ تُقَرِّبُ المَعَانِيَ المَعْقُولَةَ فِي الصُّوَرِ المَحْسُوسَةِ، وَالأَقْسَامُ تُؤَكِّدُ الأَخْبَارَ وَتَدُلُّ عَلَى عَظَمَةِ المُقْسَمِ بِهِ.",
+      "translation": "Jenis Ke-61 sampai Ke-70: Perumpamaan (Amtsal), Sumpah (Aqsam), dan Mutasyabihat dalam Al-Qur'an. Perumpamaan mendekatkan makna-makna abstrak ke dalam bentuk yang konkret, sedangkan sumpah menguatkan berita dan menunjukkan keagungan objek sumpah."
+    },
+    {
+      "title": "Jenis 71-75: Keutamaan Surah-Surah dan Khawash (Keistimewaan Khusus)",
+      "titleArabic": "الأَنْوَاعُ 71-75: فَضَائِلُ القُرْآنِ وَخَوَاصُّ السُوَرِ",
+      "arabic": "الأَنْوَاعُ 71-75: فِي فَضَائِلِ القُرْآنِ وَخَوَاصِّهِ. وَقَدْ صَحَّتِ الأَحَادِيثُ فِي فَضْلِ سُوَرٍ مَخْصُوصَةٍ كَالْفَاتِحَةِ وَالْبَقَرَةِ وَآيَةِ الْكُرْسِيِّ وَالإِخْلَاصِ وَالمُعَوِّذَتَيْنِ.",
+      "translation": "Jenis Ke-71 sampai Ke-75: Keutamaan Al-Qur'an dan keistimewaan surah-surahnya. Telah sahih hadits-hadits mengenai keutamaan surah-surah tertentu seperti Al-Fatihah, Al-Baqarah, Ayat Kursi, Al-Ikhlas, dan Mu'awwidzatain."
+    },
+    {
+      "title": "Jenis 76-79: Rasm Al-Qur'an (Penulisan) dan Kaidah Penyalinan Mushaf",
+      "titleArabic": "الأَنْوَاعُ 76-79: رَسْمُ المُصْحَفِ وَكِتَابَتُهُ وَتَشْكِيلُهُ",
+      "arabic": "الأَنْوَاعُ 76-79: عِلْمُ رَسْمِ المُصْحَفِ، وَهُوَ خَطُّ المُصْحَفِ العُثْمَانِيِّ الَّذِي لاَ يَجُوزُ خِلَافُهُ فِي كِتَابَةِ القُرْآنِ، وَيَقُومُ عَلَى سِتِّ قَوَاعِدَ: الحَذْفُ، الزِّيَادَةُ، الهَمْزُ، البَدَلُ، الوَصْلُ وَالفَصْلُ، وَمَا فِيهِ قِرَاءَتَانِ.",
+      "translation": "Jenis Ke-76 sampai Ke-79: Ilmu Rasm Mushaf Utsmani yang tidak boleh diselisahi dalam penulisan Al-Qur'an. Rasm ini berlandaskan 6 kaidah utama: pembuangan huruf (Al-Hadzf), penambahan huruf (Az-Ziyadah), penulisan hamzah, penggantian huruf (Al-Badal), penyambungan dan pemisahan (Al-Washl wal Fashl), serta tulisan yang memuat dua ragam bacaan."
+    },
+    {
+      "title": "Jenis 80: Syarat-Syarat Mufassir dan Metode Tafsir (Khatimah)",
+      "titleArabic": "النَّوْعُ الثَّمَانُونَ: شُرُوطُ المُفَسِّرِ وَآدَابُهُ وَطَبَقَاتُ المُفَسِّرِينَ (الخَاتِمَةُ)",
+      "arabic": "النَّوْعُ الثَّمَانُونَ: فِي طَبَقَاتِ المُفَسِّرِينَ وَشُرُوطِ المِفَسِّرِ. يُشْتَرَطُ فِي المُفَسِّرِ أَنْ يَكُونَ عََالِمًا بِاللُّغَةِ، النَّحْوِ، الصَّرْفِ، الإِشْتِقَاقِ، المَعَانِي، البَيَانِ، البَدِيعِ، أُصُولِ الفِقْهِ، وَأَسْبَابِ النُّزُولِ. وَالتَّفْسِيرُ إِمَّا بِالْمَأْثُورِ أَوْ بِالرَّأْيِ المَحْمُودِ.",
+      "translation": "Jenis Ke-80 (Penutup): Tingkatan Mufassir dan Syarat-Syarat Mufassir. Disyaratkan bagi seorang mufassir untuk menguasai ilmu bahasa Arab, nahwu, sharaf, isytiqaq, ma'ani, bayan, badi', ushul fiqih, dan asbabun nuzul. Tafsir itu sendiri terbagi menjadi Tafsir bil Ma'tsur dan Tafsir bir Ra'yi yang terpuji."
+    }
+  ]
+}
