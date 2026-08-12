@@ -1,7 +1,252 @@
-{
-  "syarah": "[\n  {\n    \"name\": \"Sharh Mufassal Ibn Ya'ish\",\n    \"author\": \"Ibn Ya'ish al-Mawshili\",\n    \"desc\": \"Syarah komprehensif atas kitab al-Mufassal karya al-Zamakhshari dalam tata bahasa Arab.\"\n  },\n  {\n    \"name\": \"Hashiyah al-Isam 'ala Sharh al-Jami\",\n    \"author\": \"Isam al-Din al-Isfarayini\",\n    \"desc\": \"Catatan pinggir mendalam untuk Sharh al-Jami karya al-Jami dalam ilmu Nahwu.\"\n  },\n  {\n    \"name\": \"Sharh al-Taftazani 'ala al-Izzi\",\n    \"author\": \"Sa'd al-Din al-Taftazani\",\n    \"desc\": \"Penjelasan rinci atas matn al-Izzi fi al-Tashrif karya al-Zanjani dalam ilmu Shorof.\"\n  },\n  {\n    \"name\": \"Nuzhat al-Tarf fi 'Ilm al-Sarf\",\n    \"author\": \"Abu al-Qasim al-Maydani\",\n    \"desc\": \"Ringkasan kaidah morfologi bahasa Arab yang ringkas dan sistematis.\"\n  },\n  {\n    \"name\": \"Al-Jana al-Dani fi Huruf al-Ma'ani\",\n    \"author\": \"Al-Hasan al-Muradi\",\n    \"desc\": \"Kajian mendalam tentang makna dan fungsi huruf-huruf ma'ani dalam Nahwu.\"\n  },\n  {\n    \"name\": \"Al-Tibyan fi I'rab al-Qur'an\",\n    \"author\": \"Abu al-Baqa' al-Ukbari\",\n    \"desc\": \"Rujukan analisis sintaksis (i'rab) untuk ayat-ayat Al-Qur'an.\"\n  },\n  {\n    \"name\": \"Sharh Lamiyat al-Af'al li Ibn an-Nazim\",\n    \"author\": \"Badruddin Ibn an-Nazim\",\n    \"desc\": \"Syarah nazham Lamiyat al-Af'al karya Ibn Malik mengenai morfologi kata kerja.\"\n  },\n  {\n    \"name\": \"Hashiyah al-Dusuqi 'ala Mughni al-Labib\",\n    \"author\": \"Muhammad al-Dusuqi\",\n    \"desc\": \"Hasyiyah atas karya klasik Ibn Hisham mengenai huruf ma'ani dan struktur kalimat.\"\n  },\n  {\n    \"name\": \"Tashrih al-Ghamid 'ala al-Muqaddimah al-Azhariyyah\",\n    \"author\": \"Khalid al-Azhari\",\n    \"desc\": \"Penjelasan atas karya sendiri tentang kaidah-kaidah dasar tata bahasa Arab.\"\n  },\n  {\n    \"name\": \"Hashiyah Yasin 'ala al-Tasrih\",\n    \"author\": \"Yasin bin Abu Bakr al-Ulimi\",\n    \"desc\": \"Hasyiyah penting atas kitab al-Tasrih karya al-Azhari dalam ilmu Nahwu.\"\n  },\n  {\n    \"name\": \"Hashiyah Amir 'ala Sharh al-Azhariyyah\",\n    \"author\": \"Muhammad al-Amir al-Kabir\",\n    \"desc\": \"Catatan kritis dan rinci atas penjelasan al-Muqaddimah al-Azhariyyah.\"\n  },\n  {\n    \"name\": \"Sharh Marah al-Arwah\",\n    \"author\": \"Dikuz (Ahmad ibn Ali ibn Mas'ud)\",\n    \"desc\": \"Syarah terkemuka atas matn Marah al-Arwah dalam tata bentuk kata (Shorof).\"\n  },\n  {\n    \"name\": \"I'rab al-Qur'an al-Karim wa Bayanuh\",\n    \"author\": \"Muhyiddin Darwish\",\n    \"desc\": \"Analisis i'rab Al-Qur'an modern yang rinci bersandarkan pada kaidah Nahwu klasik.\"\n  },\n  {\n    \"name\": \"Al-Jadwal fi I'rab al-Qur'an\",\n    \"author\": \"Mahmud Safi\",\n    \"desc\": \"Panduan sistematis i'rab dan sarf ayat-ayat Al-Qur'an dalam bentuk tabel.\"\n  },\n  {\n    \"name\": \"Sharh al-Musa'id 'ala Tashil al-Fawa'id\",\n    \"author\": \"Bahauddin Ibn 'Aqil\",\n    \"desc\": \"Penjelasan luas atas kitab Tashil al-Fawa'id karya Ibn Malik.\"\n  },\n  {\n    \"name\": \"Fath al-Jalil fi Sharh al-Tashil\",\n    \"author\": \"Badruddin al-'Ayni\",\n    \"desc\": \"Syarah komprehensif atas kitab Tashil al-Fawa'id dalam sintaksis Arab.\"\n  },\n  {\n    \"name\": \"Sharh al-Tashrif\",\n    \"author\": \"Ibn Malik al-Andalusi\",\n    \"desc\": \"Penjelasan pengarang Alfiyyah terhadap prinsip-prinsip morfologi Arab.\"\n  },\n  {\n    \"name\": \"Hashiyah al-Siyalkuti 'ala Sharh al-Jami\",\n    \"author\": \"Abdul Hakim al-Siyalkuti\",\n    \"desc\": \"Hasyiyah populer pesantren atas penjelasan al-Jami dalam Nahwu.\"\n  },\n  {\n    \"name\": \"Al-Tazkirah fi al-Nahw\",\n    \"author\": \"Abu Ali al-Farisi\",\n    \"desc\": \"Karya tata bahasa Arab klasik dari salah satu ulama Nahwu terbesarnya.\"\n  },\n  {\n    \"name\": \"Sharh Qawa'id al-I'rab\",\n    \"author\": \"Khalid al-Azhari\",\n    \"desc\": \"Penjelasan ringkas atas kitab Qawa'id al-I'rab karya Ibn Hisham al-Ansari.\"\n  },\n  {\n    \"name\": \"Hashiyah al-Hamawi 'ala Sharh al-Qawa'id\",\n    \"author\": \"Ahmad al-Hamawi\",\n    \"desc\": \"Catatan penjelas atas syarah Qawa'id al-I'rab dalam sintaksis Arab.\"\n  },\n  {\n    \"name\": \"Sharh Shudhur al-Dhahab\",\n    \"author\": \"Ibn Hisham al-Ansari\",\n    \"desc\": \"Syarah langsung oleh penyusun matn Shudhur al-Dhahab tentang ilmu Nahwu.\"\n  },\n  {\n    \"name\": \"Hashiyah Ibn al-Amir 'ala Sharh al-Shudhur\",\n    \"author\": \"Ibn al-Amir al-San'ani\",\n    \"desc\": \"Hasyiyah kritis dan mendalam atas syarah Shudhur al-Dhahab.\"\n  },\n  {\n    \"name\": \"Al-Manhaj al-Kafi fi 'Ilm al-Sarf\",\n    \"author\": \"Ahmad Abdul Latif\",\n    \"desc\": \"Buku panduan pembelajaran morfologi Arab secara aplikatif dan terstruktur.\"\n  },\n  {\n    \"name\": \"Nazm al-Ajurrumiyyah li Ibn Abba\",\n    \"author\": \"Muhammad ibn Abba al-Yalali\",\n    \"desc\": \"Gubahan bait syair (nazham) dari matn Al-Ajurrumiyyah yang populer di Afrika Utara.\"\n  },\n  {\n    \"name\": \"Sharh Nazm al-Ajurrumiyyah\",\n    \"author\": \"Muhammad al-Ameen al-Shinqiti\",\n    \"desc\": \"Penjelasan bait-bait nazham Matn Al-Ajurrumiyyah secara lugas.\"\n  },\n  {\n    \"name\": \"Al-Fawa'id al-Shanshuriyyah fi al-Shorf\",\n    \"author\": \"Al-Shanshuri\",\n    \"desc\": \"Risalah tata bentuk kata dalam ilmu Shorof untuk tingkat menengah.\"\n  },\n  {\n    \"name\": \"Hashiyah al-Hafnawi 'ala Sharh al-Azhariyyah\",\n    \"author\": \"",
-  "modernTranslation": "[\n  {\n    \"name\": \"Sharh Mufassal Ibn Ya'ish\",\n    \"author\": \"Ibn Ya'ish al-Mawshili\",\n    \"desc\": \"Syarah komprehensif atas kitab al-Mufassal karya al-Zamakhshari dalam tata bahasa Arab.\"\n  },\n  {\n    \"name\": \"Hashiyah al-Isam 'ala Sharh al-Jami\",\n    \"author\": \"Isam al-Din al-Isfarayini\",\n    \"desc\": \"Catatan pinggir mendalam untuk Sharh al-Jami karya al-Jami dalam ilmu Nahwu.\"\n  },\n  {\n    \"name\": \"Sharh al-Taftazani 'ala al-Izzi\",\n    \"author\": \"Sa'd al-Din al-Taftazani\",\n    \"desc\": \"Penjelasan rinci atas matn al-Izzi fi al-Tashrif karya al-Zanjani dalam ilmu Shorof.\"\n  },\n  {\n    \"name\": \"Nuzhat al-Tarf fi 'Ilm al-Sarf\",\n    \"author\": \"Abu al-Qasim al-Maydani\",\n    \"desc\": \"Ringkasan kaidah morfologi bahasa Arab yang ringkas dan sistematis.\"\n  },\n  {\n    \"name\": \"Al-Jana al-Dani fi Huruf al-Ma'ani\",\n    \"author\": \"Al-Hasan al-Muradi\",\n    \"desc\": \"Kajian mendalam tentang makna dan fungsi huruf-huruf ma'ani dalam Nahwu.\"\n  },\n  {\n    \"name\": \"Al-Tibyan fi I'rab al-Qur'an\",\n    \"author\": \"Abu al-Baqa' al-Ukbari\",\n    \"desc\": \"Rujukan analisis sintaksis (i'rab) untuk ayat-ayat Al-Qur'an.\"\n  },\n  {\n    \"name\": \"Sharh Lamiyat al-Af'al li Ibn an-Nazim\",\n    \"author\": \"Badruddin Ibn an-Nazim\",\n    \"desc\": \"Syarah nazham Lamiyat al-Af'al karya Ibn Malik mengenai morfologi kata kerja.\"\n  },\n  {\n    \"name\": \"Hashiyah al-Dusuqi 'ala Mughni al-Labib\",\n    \"author\": \"Muhammad al-Dusuqi\",\n    \"desc\": \"Hasyiyah atas karya klasik Ibn Hisham mengenai huruf ma'ani dan struktur kalimat.\"\n  },\n  {\n    \"name\": \"Tashrih al-Ghamid 'ala al-Muqaddimah al-Azhariyyah\",\n    \"author\": \"Khalid al-Azhari\",\n    \"desc\": \"Penjelasan atas karya sendiri tentang kaidah-kaidah dasar tata bahasa Arab.\"\n  },\n  {\n    \"name\": \"Hashiyah Yasin 'ala al-Tasrih\",\n    \"author\": \"Yasin bin Abu Bakr al-Ulimi\",\n    \"desc\": \"Hasyiyah penting atas kitab al-Tasrih karya al-Azhari dalam ilmu Nahwu.\"\n  },\n  {\n    \"name\": \"Hashiyah Amir 'ala Sharh al-Azhariyyah\",\n    \"author\": \"Muhammad al-Amir al-Kabir\",\n    \"desc\": \"Catatan kritis dan rinci atas penjelasan al-Muqaddimah al-Azhariyyah.\"\n  },\n  {\n    \"name\": \"Sharh Marah al-Arwah\",\n    \"author\": \"Dikuz (Ahmad ibn Ali ibn Mas'ud)\",\n    \"desc\": \"Syarah terkemuka atas matn Marah al-Arwah dalam tata bentuk kata (Shorof).\"\n  },\n  {\n    \"name\": \"I'rab al-Qur'an al-Karim wa Bayanuh\",\n    \"author\": \"Muhyiddin Darwish\",\n    \"desc\": \"Analisis i'rab Al-Qur'an modern yang rinci bersandarkan pada kaidah Nahwu klasik.\"\n  },\n  {\n    \"name\": \"Al-Jadwal fi I'rab al-Qur'an\",\n    \"author\": \"Mahmud Safi\",\n    \"desc\": \"Panduan sistematis i'rab dan sarf ayat-ayat Al-Qur'an dalam bentuk tabel.\"\n  },\n  {\n    \"name\": \"Sharh al-Musa'id 'ala Tashil al-Fawa'id\",\n    \"author\": \"Bahauddin Ibn 'Aqil\",\n    \"desc\": \"Penjelasan luas atas kitab Tashil al-Fawa'id karya Ibn Malik.\"\n  },\n  {\n    \"name\": \"Fath al-Jalil fi Sharh al-Tashil\",\n    \"author\": \"Badruddin al-'Ayni\",\n    \"desc\": \"Syarah komprehensif atas kitab Tashil al-Fawa'id dalam sintaksis Arab.\"\n  },\n  {\n    \"name\": \"Sharh al-Tashrif\",\n    \"author\": \"Ibn Malik al-Andalusi\",\n    \"desc\": \"Penjelasan pengarang Alfiyyah terhadap prinsip-prinsip morfologi Arab.\"\n  },\n  {\n    \"name\": \"Hashiyah al-Siyalkuti 'ala Sharh al-Jami\",\n    \"author\": \"Abdul Hakim al-Siyalkuti\",\n    \"desc\": \"Hasyiyah populer pesantren atas penjelasan al-Jami dalam Nahwu.\"\n  },\n  {\n    \"name\": \"Al-Tazkirah fi al-Nahw\",\n    \"author\": \"Abu Ali al-Farisi\",\n    \"desc\": \"Karya tata bahasa Arab klasik dari salah satu ulama Nahwu terbesarnya.\"\n  },\n  {\n    \"name\": \"Sharh Qawa'id al-I'rab\",\n    \"author\": \"Khalid al-Azhari\",\n    \"desc\": \"Penjelasan ringkas atas kitab Qawa'id al-I'rab karya Ibn Hisham al-Ansari.\"\n  },\n  {\n    \"name\": \"Hashiyah al-Hamawi 'ala Sharh al-Qawa'id\",\n    \"author\": \"Ahmad al-Hamawi\",\n    \"desc\": \"Catatan penjelas atas syarah Qawa'id al-I'rab dalam sintaksis Arab.\"\n  },\n  {\n    \"name\": \"Sharh Shudhur al-Dhahab\",\n    \"author\": \"Ibn Hisham al-Ansari\",\n    \"desc\": \"Syarah langsung oleh penyusun matn Shudhur al-Dhahab tentang ilmu Nahwu.\"\n  },\n  {\n    \"name\": \"Hashiyah Ibn al-Amir 'ala Sharh al-Shudhur\",\n    \"author\": \"Ibn al-Amir al-San'ani\",\n    \"desc\": \"Hasyiyah kritis dan mendalam atas syarah Shudhur al-Dhahab.\"\n  },\n  {\n    \"name\": \"Al-Manhaj al-Kafi fi 'Ilm al-Sarf\",\n    \"author\": \"Ahmad Abdul Latif\",\n    \"desc\": \"Buku panduan pembelajaran morfologi Arab secara aplikatif dan terstruktur.\"\n  },\n  {\n    \"name\": \"Nazm al-Ajurrumiyyah li Ibn Abba\",\n    \"author\": \"Muhammad ibn Abba al-Yalali\",\n    \"desc\": \"Gubahan bait syair (nazham) dari matn Al-Ajurrumiyyah yang populer di Afrika Utara.\"\n  },\n  {\n    \"name\": \"Sharh Nazm al-Ajurrumiyyah\",\n    \"author\": \"Muhammad al-Ameen al-Shinqiti\",\n    \"desc\": \"Penjelasan bait-bait nazham Matn Al-Ajurrumiyyah secara lugas.\"\n  },\n  {\n    \"name\": \"Al-Fawa'id al-Shanshuriyyah fi al-Shorf\",\n    \"author\": \"Al-Shanshuri\",\n    \"desc\": \"Risalah tata bentuk kata dalam ilmu Shorof untuk tingkat menengah.\"\n  },\n  {\n    \"name\": \"Hashiyah al-Hafnawi 'ala Sharh al-Azhariyyah\",\n    \"author\": \"",
-  "maknaGandul": "Makna gandul otomatis belum dapat dimuat secara rinci.",
-  "nahwuShorof": "Periksa kitab syarah untuk analisis i'rab mendalam.",
-  "aiExplanation": "[\n  {\n    \"name\": \"Sharh Mufassal Ibn Ya'ish\",\n    \"author\": \"Ibn Ya'ish al-Mawshili\",\n    \"desc\": \"Syarah komprehensif atas kitab al-Mufassal karya al-Zamakhshari dalam tata bahasa Arab.\"\n  },\n  {\n    \"name\": \"Hashiyah al-Isam 'ala Sharh al-Jami\",\n    \"author\": \"Isam al-Din al-Isfarayini\",\n    \"desc\": \"Catatan pinggir mendalam untuk Sharh al-Jami karya al-Jami dalam ilmu Nahwu.\"\n  },\n  {\n    \"name\": \"Sharh al-Taftazani 'ala al-Izzi\",\n    \"author\": \"Sa'd al-Din al-Taftazani\",\n    \"desc\": \"Penjelasan rinci atas matn al-Izzi fi al-Tashrif karya al-Zanjani dalam ilmu Shorof.\"\n  },\n  {\n    \"name\": \"Nuzhat al-Tarf fi 'Ilm al-Sarf\",\n    \"author\": \"Abu al-Qasim al-Maydani\",\n    \"desc\": \"Ringkasan kaidah morfologi bahasa Arab yang ringkas dan sistematis.\"\n  },\n  {\n    \"name\": \"Al-Jana al-Dani fi Huruf al-Ma'ani\",\n    \"author\": \"Al-Hasan al-Muradi\",\n    \"desc\": \"Kajian mendalam tentang makna dan fungsi huruf-huruf ma'ani dalam Nahwu.\"\n  },\n  {\n    \"name\": \"Al-Tibyan fi I'rab al-Qur'an\",\n    \"author\": \"Abu al-Baqa' al-Ukbari\",\n    \"desc\": \"Rujukan analisis sintaksis (i'rab) untuk ayat-ayat Al-Qur'an.\"\n  },\n  {\n    \"name\": \"Sharh Lamiyat al-Af'al li Ibn an-Nazim\",\n    \"author\": \"Badruddin Ibn an-Nazim\",\n    \"desc\": \"Syarah nazham Lamiyat al-Af'al karya Ibn Malik mengenai morfologi kata kerja.\"\n  },\n  {\n    \"name\": \"Hashiyah al-Dusuqi 'ala Mughni al-Labib\",\n    \"author\": \"Muhammad al-Dusuqi\",\n    \"desc\": \"Hasyiyah atas karya klasik Ibn Hisham mengenai huruf ma'ani dan struktur kalimat.\"\n  },\n  {\n    \"name\": \"Tashrih al-Ghamid 'ala al-Muqaddimah al-Azhariyyah\",\n    \"author\": \"Khalid al-Azhari\",\n    \"desc\": \"Penjelasan atas karya sendiri tentang kaidah-kaidah dasar tata bahasa Arab.\"\n  },\n  {\n    \"name\": \"Hashiyah Yasin 'ala al-Tasrih\",\n    \"author\": \"Yasin bin Abu Bakr al-Ulimi\",\n    \"desc\": \"Hasyiyah penting atas kitab al-Tasrih karya al-Azhari dalam ilmu Nahwu.\"\n  },\n  {\n    \"name\": \"Hashiyah Amir 'ala Sharh al-Azhariyyah\",\n    \"author\": \"Muhammad al-Amir al-Kabir\",\n    \"desc\": \"Catatan kritis dan rinci atas penjelasan al-Muqaddimah al-Azhariyyah.\"\n  },\n  {\n    \"name\": \"Sharh Marah al-Arwah\",\n    \"author\": \"Dikuz (Ahmad ibn Ali ibn Mas'ud)\",\n    \"desc\": \"Syarah terkemuka atas matn Marah al-Arwah dalam tata bentuk kata (Shorof).\"\n  },\n  {\n    \"name\": \"I'rab al-Qur'an al-Karim wa Bayanuh\",\n    \"author\": \"Muhyiddin Darwish\",\n    \"desc\": \"Analisis i'rab Al-Qur'an modern yang rinci bersandarkan pada kaidah Nahwu klasik.\"\n  },\n  {\n    \"name\": \"Al-Jadwal fi I'rab al-Qur'an\",\n    \"author\": \"Mahmud Safi\",\n    \"desc\": \"Panduan sistematis i'rab dan sarf ayat-ayat Al-Qur'an dalam bentuk tabel.\"\n  },\n  {\n    \"name\": \"Sharh al-Musa'id 'ala Tashil al-Fawa'id\",\n    \"author\": \"Bahauddin Ibn 'Aqil\",\n    \"desc\": \"Penjelasan luas atas kitab Tashil al-Fawa'id karya Ibn Malik.\"\n  },\n  {\n    \"name\": \"Fath al-Jalil fi Sharh al-Tashil\",\n    \"author\": \"Badruddin al-'Ayni\",\n    \"desc\": \"Syarah komprehensif atas kitab Tashil al-Fawa'id dalam sintaksis Arab.\"\n  },\n  {\n    \"name\": \"Sharh al-Tashrif\",\n    \"author\": \"Ibn Malik al-Andalusi\",\n    \"desc\": \"Penjelasan pengarang Alfiyyah terhadap prinsip-prinsip morfologi Arab.\"\n  },\n  {\n    \"name\": \"Hashiyah al-Siyalkuti 'ala Sharh al-Jami\",\n    \"author\": \"Abdul Hakim al-Siyalkuti\",\n    \"desc\": \"Hasyiyah populer pesantren atas penjelasan al-Jami dalam Nahwu.\"\n  },\n  {\n    \"name\": \"Al-Tazkirah fi al-Nahw\",\n    \"author\": \"Abu Ali al-Farisi\",\n    \"desc\": \"Karya tata bahasa Arab klasik dari salah satu ulama Nahwu terbesarnya.\"\n  },\n  {\n    \"name\": \"Sharh Qawa'id al-I'rab\",\n    \"author\": \"Khalid al-Azhari\",\n    \"desc\": \"Penjelasan ringkas atas kitab Qawa'id al-I'rab karya Ibn Hisham al-Ansari.\"\n  },\n  {\n    \"name\": \"Hashiyah al-Hamawi 'ala Sharh al-Qawa'id\",\n    \"author\": \"Ahmad al-Hamawi\",\n    \"desc\": \"Catatan penjelas atas syarah Qawa'id al-I'rab dalam sintaksis Arab.\"\n  },\n  {\n    \"name\": \"Sharh Shudhur al-Dhahab\",\n    \"author\": \"Ibn Hisham al-Ansari\",\n    \"desc\": \"Syarah langsung oleh penyusun matn Shudhur al-Dhahab tentang ilmu Nahwu.\"\n  },\n  {\n    \"name\": \"Hashiyah Ibn al-Amir 'ala Sharh al-Shudhur\",\n    \"author\": \"Ibn al-Amir al-San'ani\",\n    \"desc\": \"Hasyiyah kritis dan mendalam atas syarah Shudhur al-Dhahab.\"\n  },\n  {\n    \"name\": \"Al-Manhaj al-Kafi fi 'Ilm al-Sarf\",\n    \"author\": \"Ahmad Abdul Latif\",\n    \"desc\": \"Buku panduan pembelajaran morfologi Arab secara aplikatif dan terstruktur.\"\n  },\n  {\n    \"name\": \"Nazm al-Ajurrumiyyah li Ibn Abba\",\n    \"author\": \"Muhammad ibn Abba al-Yalali\",\n    \"desc\": \"Gubahan bait syair (nazham) dari matn Al-Ajurrumiyyah yang populer di Afrika Utara.\"\n  },\n  {\n    \"name\": \"Sharh Nazm al-Ajurrumiyyah\",\n    \"author\": \"Muhammad al-Ameen al-Shinqiti\",\n    \"desc\": \"Penjelasan bait-bait nazham Matn Al-Ajurrumiyyah secara lugas.\"\n  },\n  {\n    \"name\": \"Al-Fawa'id al-Shanshuriyyah fi al-Shorf\",\n    \"author\": \"Al-Shanshuri\",\n    \"desc\": \"Risalah tata bentuk kata dalam ilmu Shorof untuk tingkat menengah.\"\n  },\n  {\n    \"name\": \"Hashiyah al-Hafnawi 'ala Sharh al-Azhariyyah\",\n    \"author\": \""
-}
+[
+  {
+    "name": "Sirr Sina'at al-I'rab",
+    "author": "Ibn Jinni",
+    "desc": "Kajian mendalam fonologi dan morfologi huruf-huruf bahasa Arab."
+  },
+  {
+    "name": "Sharh al-Mufassal",
+    "author": "Ibn Ya'ish",
+    "desc": "Syarah komprehensif atas kitab al-Mufassal karya al-Zamakhshari dalam ilmu nahwu dan shorof."
+  },
+  {
+    "name": "Sharh Lamiyat al-Af'al",
+    "author": "Badr al-Din Ibn Malik",
+    "desc": "Syarah nazham morfologi Lamiyat al-Af'al karangan Ibn Malik."
+  },
+  {
+    "name": "Mizan al-Sarf",
+    "author": "Siraj al-Din al-Oshi",
+    "desc": "Matn ringkas ilmu shorof yang membahas timbangan kata dan perubahannya."
+  },
+  {
+    "name": "Kitab al-Fasih",
+    "author": "Abu al-Abbas Tha'lab",
+    "desc": "Kitab tata bahasa dan kosa kata fasih Arab klasik."
+  },
+  {
+    "name": "Al-Afa'il",
+    "author": "Ibn al-Qutta' al-Siqilli",
+    "desc": "Ensiklopedi kata kerja Arab beserta bentuk-bentuk perubahan morfologisnya."
+  },
+  {
+    "name": "Al-Tibyan fi I'rab al-Qur'an",
+    "author": "Abu al-Baqā' al-Ukbari",
+    "desc": "Kitab rujukan utama analisis i'rab tata bahasa untuk ayat-ayat Al-Qur'an."
+  },
+  {
+    "name": "Sharh al-Kafiyyah al-Shafiyyah",
+    "author": "Ibn Malik",
+    "desc": "Syarah pengarang atas bait-bait nazham tata bahasa Arab karya beliau."
+  },
+  {
+    "name": "Hashiyah al-Dusuqi 'ala Mughni al-Labib",
+    "author": "Muhammad al-Dusuqi",
+    "desc": "Catatan kritis dan penjelasan mendalam atas kitab Mughni al-Labib."
+  },
+  {
+    "name": "Hashiyah al-Amir 'ala Sharh Mughni al-Labib",
+    "author": "Muhammad bin Muhammad al-Amir",
+    "desc": "Hasyiyah mendalam atas syarah kitab sintaksis Mughni al-Labib."
+  },
+  {
+    "name": "Unwan al-Zarf fi 'Ilm al-Sarf",
+    "author": "Harun Abd al-Raziq",
+    "desc": "Ringkasan kaidah-kaidah ilmu shorof untuk tingkat menengah."
+  },
+  {
+    "name": "Hashiyah Ibn Hamdun 'ala Sharh al-Makudi",
+    "author": "Ibn Hamdun",
+    "desc": "Catatan penjelasan atas syarah al-Makudi terhadap Alfiyyah Ibn Malik."
+  },
+  {
+    "name": "Al-Maqasid al-Nahwiyyah",
+    "author": "Badr al-Din al-'Ayni",
+    "desc": "Syarah dan analisis bait-bait syi'ir referensi (syawahid) dalam kitab nahwu."
+  },
+  {
+    "name": "Sharh al-Jumal",
+    "author": "Ibn Usfur al-Isbili",
+    "desc": "Penjelasan rinci atas kitab al-Jumal fi al-Nahw karya al-Zajjaji."
+  },
+  {
+    "name": "Isfar al-Fasih",
+    "author": "Abu Sa'id al-Sirafi",
+    "desc": "Penjelasan rinci dan argumentasi bahasa atas Kitab al-Fasih."
+  },
+  {
+    "name": "Al-Unmudhaj fi al-Nahw",
+    "author": "Mahmud bin Umar al-Zamakhshari",
+    "desc": "Ringkasan kaidah nahwu yang ringkas namun padat ilmu."
+  },
+  {
+    "name": "Al-Muqtasid fi Sharh al-Idhah",
+    "author": "Abd al-Qahir al-Jurjani",
+    "desc": "Syarah mendalam atas kitab al-Idhah karya Abu Ali al-Farisi."
+  },
+  {
+    "name": "Sharh Awamil al-Jurjani",
+    "author": "Khalid al-Azhari",
+    "desc": "Penjelasan atas 100 amil pengubah hukum I'rab susunan al-Jurjani."
+  },
+  {
+    "name": "Awamil al-Birkawi",
+    "author": "Muhammad bin Pir Ali al-Birkawi",
+    "desc": "Matn amil nahwu versi al-Birkawi yang populer di pesantren dan madrasah."
+  },
+  {
+    "name": "Nuzhat al-Tarf fi 'Ilm al-Sarf",
+    "author": "Abu al-Qasim al-Maydani",
+    "desc": "Buku panduan ilmu shorof dan pembentukan kata yang sistematik."
+  },
+  {
+    "name": "Kitab al-Mudhakkar wa al-Mu'annath",
+    "author": "Ibn al-Anbari",
+    "desc": "Kajian rinci kategori pengelompokan maskulin dan feminin dalam bahasa Arab."
+  },
+  {
+    "name": "Kitab al-Maqsur wa al-Mamdud",
+    "author": "Abu Ali al-Qali",
+    "desc": "Pembahasan khusus aturan penggunaan isim maqsur dan mamdud."
+  },
+  {
+    "name": "Al-Durr al-Masun fi 'Ulum al-Kitab al-Maknun",
+    "author": "Al-Samin al-Halabi",
+    "desc": "Kajian luas i'rab, morfologi, dan balaghah Al-Qur'an."
+  },
+  {
+    "name": "Sharh al-Bahraq 'ala Lamiyat al-Af'al",
+    "author": "Jamal al-Din al-Bahraq",
+    "desc": "Syarah populer nazham Lamiyat al-Af'al dalam ilmu morfologi."
+  },
+  {
+    "name": "Hashiyah al-Hifni 'ala Sharh al-Azhariyyah",
+    "author": "Yusuf al-Hifni",
+    "desc": "Hasyiyah pelengkap pemahaman atas syarah al-Muqaddimah al-Azhariyyah."
+  },
+  {
+    "name": "Al-Anwar al-Bahiyyah fi Sharh al-Ajurrumiyyah",
+    "author": "Muhammad al-Rai",
+    "desc": "Syarah Matn al-Ajurrumiyyah yang luas dan sistematis."
+  },
+  {
+    "name": "Tarkib al-Kafrawi",
+    "author": "Hasan al-Kafrawi",
+    "desc": "Kajian penataan dan i'rab kata per kata dari kitab al-Ajurrumiyyah."
+  },
+  {
+    "name": "Abniyat al-Asma' wa al-Af'al",
+    "author": "Ibn al-Qatta' al-Siqilli",
+    "desc": "Kajian khusus bentuk struktur isim dan fi'il dalam ilmu shorof."
+  },
+  {
+    "name": "Sharh al-Muqaddimah al-Juzuliyyah",
+    "author": "Ibn al-Shalawbin",
+    "desc": "Penjelasan atas dasar-dasar nahwu al-Muqaddimah al-Juzuliyyah."
+  },
+  {
+    "name": "I'rab al-Qur'an al-Karim wa Bayanuh",
+    "author": "Muhyiddin al-Darwish",
+    "desc": "Analisis i'rab komprehensif seluruh ayat Al-Qur'an secara modern."
+  },
+  {
+    "name": "Hashiyah al-Birmawi 'ala Sharh al-Azhariyyah",
+    "author": "Ibrahim al-Birmawi",
+    "desc": "Catatan akademis mendalam atas syarah dasar-dasar ilmu nahwu."
+  },
+  {
+    "name": "Al-Bulgha fi al-Nahw",
+    "author": "Majd al-Din al-Firuzabadi",
+    "desc": "Ringkasan padat kaidah sintaksis Arab karya penyusun Al-Qamus Al-Muhit."
+  },
+  {
+    "name": "Kitab al-I'rab",
+    "author": "Ibn Faris",
+    "desc": "Kajian mendalam filosofi dan prinsip penerapan hukum i'rab."
+  },
+  {
+    "name": "Al-Fawa'id al-Shanshuriyyah",
+    "author": "Al-Shanshuri",
+    "desc": "Penjelasan rinci kaidah-kaidah nahwu dan shorof untuk para penuntut ilmu."
+  },
+  {
+    "name": "Sharh al-Razi 'ala al-Unmudhaj",
+    "author": "Fakhr al-Din al-Razi",
+    "desc": "Syarah al-Razi atas ringkasan nahwu karya Zamakhshari."
+  },
+  {
+    "name": "Sharh Tashil al-Fawa'id",
+    "author": "Ibn Malik",
+    "desc": "Syarah rinci pengarang atas kitab Tashil al-Fawa'id wa Takmil al-Maqasid."
+  },
+  {
+    "name": "Nihayat al-Arib fi Sharh Mughni al-Labib",
+    "author": "Ibn Mulla",
+    "desc": "Syarah mendalam kitab Mughni al-Labib dalam tata bahasa Arab."
+  },
+  {
+    "name": "Sharh al-Shandawili 'ala al-Ajurrumiyyah",
+    "author": "Al-Shandawili",
+    "desc": "Syarah klasik Matn al-Ajurrumiyyah yang berfokus pada penjelasan dasar."
+  },
+  {
+    "name": "Al-Jawahir al-Mudi'ah fi al-Sarf",
+    "author": "Ahmad al-Hamalawi",
+    "desc": "Panduan ringkas kaidah-kaidah shorof praktis dan penerapan pola kata."
+  },
+  {
+    "name": "I'rab al-Qur'an",
+    "author": "Abu Ja'far al-Nahas",
+    "desc": "Kajian i'rab Al-Qur'an klasik yang mendasari perkembangan sintaksis Al-Qur'an."
+  },
+  {
+    "name": "Tamrin al-Tullab fi I'rab Alfiyyah Ibn Malik",
+    "author": "Khalid al-Azhari",
+    "desc": "Panduan latihan membedah i'rab bait-bait Alfiyyah Ibn Malik."
+  },
+  {
+    "name": "Sirr al-Sarf",
+    "author": "Ibn Jinni",
+    "desc": "Analisis rahasia perubahan struktur kata dan fonomorfologi Arab."
+  },
+  {
+    "name": "Al-Mu'rab fi Ma'rifat al-Kalam al-A'jami",
+    "author": "Al-Jawaliqi",
+    "desc": "Kajian kata serapan bahasa asing dalam tata bahasa dan morfologi Arab."
+  },
+  {
+    "name": "Sharh al-Saban 'ala al-Mallawi",
+    "author": "Abu al-Irfan al-Sabban",
+    "desc": "Syarah dan catatan penjelasan mendalam ilmu shorof dan nahwu."
+  },
+  {
+    "name": "Hashiyah al-Sulaimani 'ala Sharh Ibn 'Aqil",
+    "author": "Al-Sulaimani",
+    "desc": "Catatan pinggir analitis atas Sharh Ibn 'Aqil pada Alfiyyah."
+  },
+  {
+    "name": "Manzhumat al-Shadzi fi al-Sarf",
+    "author": "Al-Shadzi",
+    "desc": "Nazham bait-bait hafalan kaidah morfologi bahasa Arab."
+  },
+  {
+    "name": "Al-Madih fi Sharh al-Ajurrumiyyah",
+    "author": "Abu al-Fadl al-Muradi",
+    "desc": "Ulasan penjelasan isi kitab Matn al-Ajurrumiyyah."
+  },
+  {
+    "name": "Kitab al-Tashrif",
+    "author": "Abu Ubaid al-Qasim bin Sallam",
+    "desc": "Kajian tata kata dan morfologi klasik Arab."
+  },
+  {
+    "name": "Al-Misbah fi al-Sarf",
+    "author": "Al-Muta'arriz",
+    "desc": "Buku acuan kaidah shorof dasar bagi penuntut ilmu tata bahasa Arab."
+  },
+  {
+    "name": "Sharh al-Muqaddimah al-Muhibbiyyah",
+    "author": "Ibn Hisham al-Ansari",
+    "desc": "Syarah muqaddimah nahwu untuk pemula karya pakar tata bahasa."
+  }
+]
