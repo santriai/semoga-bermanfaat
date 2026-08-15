@@ -1,0 +1,350 @@
+{
+  "profile": {
+    "name": "Al-Manhaj al-Salik fi Sharh Alfiyyah Ibn Malik",
+    "originalTitle": "الْمَنْهَجُ السَّالِكُ فِي شَرْحِ أَلْفِيَّةِ ابْنِ مَالِكٍ",
+    "author": "Al-Imam Badr al-Din Mahmud ibn Ahmad al-'Ayni (بَدْرُ الدِّينِ الْعَيْنِيُّ)",
+    "field": "Nahwu dan Sharaf (Grammatika & Morfologi Bahasa Arab)",
+    "about": "Kitab Al-Manhaj al-Salik fi Sharh Alfiyyah Ibn Malik merupakan salah satu karya monumental al-Imam Badr al-Din al-'Ayni yang mengulas secara mendalam bait-bait Alfiyyah karya Ibnu Malik. Dalam kitab ini, al-'Ayni menguraikan kaidah-kaidah gramatika bahasa Arab dengan pendekatan sintesis antara Mazhab Bashrah dan Kufah secara komprehensif. Pembahasannya mencakup landasan teori tata bahasa, syawahid (bukti teks) dari Al-Qur'an, Hadis, serta syair-syair Arab klasik. Kitab ini menjadi rujukan utama para penuntut ilmu di berbagai pesantren dan universitas Islam dalam memahami seluk-beluk ilmu Nahwu dan Sharaf. Penjelasan yang tersaji lugas namun sarat dengan kedalaman analisis linguistik menjadikan kitab ini sangat berharga bagi kajian turath.",
+    "authorBorn": "762 H / 1361 M (Aintab, Syam/Turki)",
+    "authorDied": "855 H / 1451 M (Kairo, Mesir)",
+    "authorCentury": "Abad ke-8 & 9 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah Penulis",
+      "titleArabic": "مُقَدِّمَةُ الْمُؤَلِّفِ",
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ. الْحَمْدُ لِلَّهِ الَّذِي جَعَلَ الْعَرَبِيَّةَ مِفْتَاحًا لِفَهْمِ كِتَابِهِ، وَالصَّلَاةُ وَالسَّلَامُ عَلَى سَيِّدِنَا مُحَمَّدٍ أَفْصَحِ الْخَلْقِ، وَعَلَى آلِهِ وَصَحْبِهِ. وَبَعْدُ: فَهَذَا شَرْحٌ لَطِيفٌ عَلَى أَلْفِيَّةِ الإِمَامِ مُحَمَّدٍ بْنِ مَالِكٍ، سَمَّيْتُهُ \"الْمَنْهَجَ السَّالِكَ فِي شَرْحِ أَلْفِيَّةِ ابْنِ مَالِكٍ\"، وَضَّحْتُ فِيهِ مَقَاصِدَهَا وَشَرَحْتُ مَعَانِيَهَا لِيَقْرُبَ جَنَاهَا لِلْطَّالِبِينَ.",
+      "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah yang telah menjadikan bahasa Arab sebagai kunci untuk memahami Kitab-Nya. Shalawat serta salam semoga tercurah kepada junjungan kita Nabi Muhammad, makhluk paling fasih, beserta keluarga dan sahabatnya. Amma ba'du: Maka ini adalah syarah (penjelasan) yang ringkas namun padat atas bait-bait Alfiyyah karya Imam Muhammad bin Malik, yang aku beri nama 'Al-Manhaj al-Salik fi Sharh Alfiyyah Ibn Malik'. Di dalamnya aku jelaskan maksud-maksudnya dan aku uraikan makna-maknanya agar mudah dipetik manfaatnya oleh para penuntut ilmu."
+    },
+    {
+      "title": "Kalam dan Unsur-Unsur Pembentuknya",
+      "titleArabic": "الْكَلَامُ وَمَا يَتَأَلَّفُ مِنْهُ",
+      "arabic": "كَلَامُنَا لَفْظٌ مُفِيدٌ كَاسْتَقِمْ ... وَاسْمٌ وَفِعْلٌ ثُمَّ حَرْفٌ الْكَلِمْ\nوَوَاحِدُهُ كَلِمَةٌ وَالْقَوْلُ عَمّ ... وَكِلْمَةٌ بِهَا كَلَامٌ قَدْ يُقَصْ",
+      "translation": "Kalam menurut istilah kami (ahli Nahwu) adalah lafaz yang memberi faedah lengkap, seperti contoh 'Istaqim' (Istiqamah-lah!). Unsur pembentuk perkataan (Kalim) terdiri atas Isim, Fi'il, kemudian Harf. Bentuk tunggal dari kalim adalah Kalimah, sedangkan Al-Qawl mencakup kesemuanya. Dan terkadang kata 'Kalimah' dimaksudkan untuk menyebut suatu Kalam (kalimat lengkap)."
+    },
+    {
+      "title": "Tanda-Tanda Isim",
+      "titleArabic": "عَلَامَاتُ الْإِسْمِ",
+      "arabic": "بِالْجَرِّ وَالتَّنْوِينِ وَالنِّدَا وَأَلْ ... وَمُسْنَدٍ لِلإِسْمِ تَمْيِيزٌ حَصَلْ",
+      "translation": "Dengan kasrah (jarr), tanwin, nida' (panggilan), alif-lam (AL), serta isnad (penyandaran), maka pembeda untuk Isim dapat berhasil dicapai dari jenis kata lainnya."
+    },
+    {
+      "title": "Tanda-Tanda Fi'il dan Huruf",
+      "titleArabic": "عَلَامَاتُ الْفِعْلِ وَالْحَرْفِ",
+      "arabic": "بِتَا فَعَلْتَ وَأَتَتْ وَيَا افْعَلِي ... وَنُونِ إَقْبَلَنَّ فِعْلٌ يَنْجَلِي\nسِوَاهُمَا الْحَرْفُ كَهَلْ وَفِي وَلَمْ ... فِعْلٌ مُضَارِعٌ يَلِي لَمْ كَيَلَمْ",
+      "translation": "Dengan Ta' pada 'Fa'alta' (Ta' Fa'il), Ta' ta'nith sakinah pada 'Atat', Ya' mukhatabah pada 'If'ali', dan Nun tawkid pada 'Iqbalanna', maka Fi'il menjadi jelas. Selain Isim dan Fi'il adalah Harf, seperti 'Hal', 'Fi', dan 'Lam'. Fi'il Mudhari' ditandai dengan bisa didahului oleh 'Lam', seperti 'Yalam'."
+    },
+    {
+      "title": "Mu'rab dan Mabni",
+      "titleArabic": "الْمُعْرَبُ وَالْمَبْنِيُّ",
+      "arabic": "وَاﻻسْمُ مِنْهُ مُعْرَبٌ وَمَبْنِي ... لِشَبَهٍ مِنَ الْحُرُوفِ مُدْنِي\nكَالشَّبَهِ الْوَضْعِيِّ فِي اسْمَيْ جِئْتَنَا ... وَالْمَعْنَّوِيِّ فِي مَتَى وَفِي هُنَا",
+      "translation": "Isim itu ada yang Mu'rab dan ada yang Mabni. Kemabnian isim disebabkan karena adanya kemiripan yang dekat dengan huruf. Seperti kemiripan bentuk (wadh'i) pada kedua isim dalam 'Ji'tana', dan kemiripan makna (ma'nawi) pada kata 'Mata' dan 'Huna'."
+    },
+    {
+      "title": "Pembagian I'rab dan Tanda-Tandanya",
+      "titleArabic": "أَنْوَاعُ الْإِعْرَابِ وَعَلَامَاتُهُ",
+      "arabic": "وَالرَّفْعَ وَالنَّصْبَ اجْعَلَنْ إِعْرَابَا ... لِاسْمٍ وَفِعْلٍ نَحْوُ لَنْ أَهَابَا\nوَالِاسْمُ قَدْ خُصِّصَ بِالْجَرِّ كَمَا ... قَدْ خُصِّصَ الْفِعْلُ بِأَنْ يَجْزِمَا",
+      "translation": "Jadikanlah Rofa' dan Nashab sebagai i'rab bagi isim dan fi'il, seperti contoh 'Lan Ahaba'. Isim dikhususkan dengan i'rab Jarr, sebagaimana Fi'il dikhususkan dengan i'rab Jazm."
+    },
+    {
+      "title": "Asma'ul Khamsah (Isim-Isim yang Lima)",
+      "titleArabic": "الْأَسْمَاءُ الْخَمْسَةُ",
+      "arabic": "وَارْفَعْ بِوَاوٍ وَانْصِبَنَّ بِالأَلِفْ ... وَاجْرُرْ بِيَاءٍ مَا مِنَ الأَسْمَا وَصَفْ\nمِنْ ذَاكَ ذُو إِنْ صُحْبَةً أَبَانَا ... وَالْفَمُ حَيْثُ المِيمُ مِنْهُ بَانَا",
+      "translation": "Marfu'kanlah dengan Wawu, manshubkanlah dengan Alif, dan majrurkanlah dengan Ya' isim-isim yang disifati khusus. Di antaranya adalah 'Dzu' jika bermakna pemilik, dan 'Al-Fam' apabila huruf Mim-nya dihilangkan."
+    },
+    {
+      "title": "Mutsanna dan Mulhaq-nya",
+      "titleArabic": "الْمُثَنَّى وَالْمُلْحَقُ بِهِ",
+      "arabic": "بِالأَلِفِ ارْفَعِ المِثَنَّى وَكِلاَ ... إِذَا بِمُضْمَرٍ مُضَافاً وَصَلاَ\nكِلْتَا كَذَاكَ كِيلَاهُمَا وَاثْنَانِ ... وَاثْنَتَانِ كَابْنَيْنِ يَبْرِيَانِ",
+      "translation": "Rafa'kanlah Mutsanna (kata ganda) dengan Alif, demikian pula kata 'Kila' apabila di-idhafahkan kepada dhamir. Kata 'Kilta' juga demikian, seperti 'Kilahoma', serta 'Itsnani' dan 'Itsnatani' yang di-i'rab seperti dua anak lelaki."
+    },
+    {
+      "title": "Jama' Mudzakkar Salim",
+      "titleArabic": "جَمْعُ الْمُذَكَّرِ السَّالِمُ",
+      "arabic": "وَارْفَعْ بِوَاوٍ وَبِيَا اجْرُرْ وَانْصِبِ ... سَالِمَ جَمْعِ عَامِرٍ وَمُذْنِبِ",
+      "translation": "Rafa'kanlah dengan Wawu, serta majrurkan dan manshubkanlah dengan Ya', bentuk Jama' Mudzakkar Salim seperti pada kata ' 'Amir ' dan 'Mudznib '."
+    },
+    {
+      "title": "Jama' Mu'annats Salim",
+      "titleArabic": "جَمْعُ الْمُؤَنَّثِ السَّالِمُ",
+      "arabic": "وَمَا بِتَاءٍ وَأَلِفٍ قَدْ جُمِعَا ... يُكْسَرُ فِي النَّصْبِ وَفِي الْجَرِّ مَعَا",
+      "translation": "Dan kata yang dijamakkan dengan Alif dan Ta' tambahan (Jama' Mu'annats Salim), di-kasrah-kan dalam keadaan Nashab maupun Jarr."
+    },
+    {
+      "title": "Isim Ghairu Munsharif",
+      "titleArabic": "مَا لَا يَنْصَرِفُ",
+      "arabic": "وَجُرَّ بِالْفَتْحَةِ مَا لاَ يَنْصَرِفْ ... مَا لَمْ يُضَفْ أَوْ يَلِ بَعْدَ أَلْ رَدِفْ",
+      "translation": "Dan majrurkanlah dengan Fathah isim yang tidak menerima tanwin (Ghairu Munsharif), selama tidak di-idhafahkan atau tidak didahului oleh Alif-Lam (AL)."
+    },
+    {
+      "title": "Af'alul Khamsah (Fi'il-Fi'il yang Lima)",
+      "titleArabic": "الْأَفْعَالُ الْخَمْسَةُ",
+      "arabic": "وَاجْعَلْ لِنَحْوِ يَفْعَلاَنِ النُّونَا ... رَفْعاً وَتَدْعِينَ وَتَسْأَلُونَا\nوَحَذْفُهَا لِلْجَزْمِ وَالنَّصْبِ سِمَهْ ... كَلَمْ تَكُونِي لِتَرُومِي المَظْلَمَهْ",
+      "translation": "Jadikanlah huruf Nun sebagai tanda Rafa' untuk contoh 'Yaf'alani', 'Tad'ina', dan 'Tas'aluna'. Sedangkan pembuangan Nun menjadi tanda Jazm dan Nashab-nya, seperti 'Lam Takuni Li Tarumi Al-Mazhlamah'."
+    },
+    {
+      "title": "Nakirah dan Ma'rifah",
+      "titleArabic": "النَّكِرَةُ وَالْمَعْرِفَةُ",
+      "arabic": "نَكِرَةٌ قَابِلُ أَلْ مُؤَثِّرَا ... أَوْ وَاقِعٌ مَوْقِعَ مَا قَدْ ذُكِرَا\nوَغَيْرُهُ مَعْرِفَةٌ كَهُمْ وَذِي ... وَهِنْدَ وَابْنِي وَالَّذِي وَالذَّا الَّذِي",
+      "translation": "Nakirah adalah kata yang menerima 'AL' serta memberi pengaruh keumuman, atau kata yang menempati posisi kata tersebut. Selain itu adalah Ma'rifah, seperti 'Hum' (Dhamir), 'Dzi' (Isim Isyarah), 'Hind' (Alam), 'Ibni' (Mudhaf ke Ma'rifah), 'Alladzi' (Mawshul), dan yang ber-AL."
+    },
+    {
+      "title": "Dhamir (Kata Ganti)",
+      "titleArabic": "الضَّمِيرُ",
+      "arabic": "فَمَا لِذِي غَيْبَةٍ أَوْ حُضُورِ ... كَأَنْتَ وَاهُوَ سَمِّ بِالضَّمِيرِ\nوَمِنْهُ ذُو اتِّصَالٍ انَ لَا يُبْتَدَا ... بِهِ وَلاَ يَلِي إِلاَّ اخْتِيَاراً أَبَدَا",
+      "translation": "Kata yang menunjukkan arti ghaib (orang ketiga) atau hadir (orang pertama/kedua) seperti 'Anta' dan 'Huwa', dinamakan Dhamir. Di antaranya ada Dhamir Muttashil yang tidak bisa dijadikan permulaan kalimat dan tidak terletak setelah 'Illa' dalam keadaan ikhtiyar."
+    },
+    {
+      "title": "Isim 'Alam (Nama)",
+      "titleArabic": "اسْمُ الْعَلَمِ",
+      "arabic": "اسْمٌ يُعَيِّنُ المَسَمَّى مُطْلَقاً ... عَلَمُهُ كَجَعْفَرٍ وَخِرْنِقَا\nوَعَدَنٍ وَلاَحِقٍ وَشَذْقَمَا ... وَشَيْلَةَ وَوَاشِقٍ وَوَاثِقَا",
+      "translation": "Isim yang menentukan penunjukan musamma (objeknya) secara mutlak disebut Isim 'Alam, seperti 'Ja'far', 'Khirniq', ' 'Adan', 'Lahiq', 'Syadzqam', 'Syailah', 'Washiq', dan 'Wathiq'."
+    },
+    {
+      "title": "Isim Isyarah (Kata Tunjuk)",
+      "titleArabic": "اسْمُ الْإِشَارَةِ",
+      "arabic": "بِذَا لِمُفْرَدٍ مُذَكَّرٍ أَشِرْ ... بِذِي ذِهِي تِي تَا عَلَى الأُنْثَى اقْتَصِرْ\nوَبِذَانِ تَانِ لِلْمُثَنَّى المُرْتَفِعْ ... وَفِي سِوَاهُ يَيْنِ لاََذَيْنِ تََقَعْ",
+      "translation": "Dengam kata 'Dza' tunjuklah Isim Mufrad Mudzakkar. Dengan 'Dzi', 'Dhihi', 'Ti', dan 'Ta' khususkanlah untuk Mu'annats. Dan dengan 'Dzani' serta 'Tani' untuk Mutsanna yang marfu', sedangkan dalam keadaan selain rafa' gunakanlah huruf Ya' pada keduanya ('Dzaini' dan 'Taini')."
+    },
+    {
+      "title": "Isim Mawshul (Kata Sambung)",
+      "titleArabic": "اسْمُ الْمَوْصُولِ",
+      "arabic": "مَوْصُولُ الأَسْمَاءِ الَّذِي الأُنْثَى الَّتِي ... وَالْيَا إِذَا مَا ثُنِّيَا لاَ تُثْبِتِ\nبَلْ مَا تَلِيهِ أَوْلِهِ العَلاَمَهْ ... وَالنُّونُ إِنْ تُشْدَدْ فَلاَ مَلاَمَهْ",
+      "translation": "Isim Mawshul untuk kata tunggal laki-laki adalah 'Alladzi', dan untuk perempuan adalah 'Allati'. Jika keduanya dijadkan mutsanna, jangan tetapkan huruf Ya'-nya, melainkan berikan tanda i'rab ganda pada huruf sebelumnya. Dan jika Nun-nya ditasydidkan maka tidak tercela."
+    },
+    {
+      "title": "Isim yang Dima'rifahkan dengan AL",
+      "titleArabic": "الْمُعَرَّفُ بِأَدَاةِ التَّعْرِيفِ",
+      "arabic": "أَلْ حَرْفُ تَعْرِيفٍ أَوْ اللَّامُ فَقَطْ ... فَنَمَطُ عَرَّفْتَ قُلْتَ النَّمَطْ",
+      "translation": "Alif-Lam (AL) adalah huruf ta'rif, atau huruf Lam-nya saja. Maka kata 'Namat' jika engkau ma'rifahkan, engkau ucapkan 'An-Namat'."
+    },
+    {
+      "title": "Mubtada' dan Khabar",
+      "titleArabic": "الْمُبْتَدَأُ وَالْخَبَرُ",
+      "arabic": "المُبْتَدَأُ اسْمٌ رَاهِنٌ عَنْ كُلِّ مَا ... يَلِيهِ وَالْخَبَرُ الجُزْءُ المُتِمُّ الْفَائِدَهْ\nكَاَللَّهُ بَرٌّ وَالأَيَادِي شَاهِدَهْ ... وَمُفْرَداً يَأْتِي وَغَيْرَ مُفْرَدِ",
+      "translation": "Mubtada' adalah Isim yang terbebas dari amil lafzhi. Sedangkan Khabar adalah bagian yang menyempurnakan faedah bersama Mubtada', seperti 'Allahu Barrun' (Allah Maha Baik) dan 'Al-Ayadi Syahidah'. Khabar bisa berupa Mufrad maupun Ghairu Mufrad."
+    },
+    {
+      "title": "Kana dan Saudara-Saudaranya",
+      "titleArabic": "كَانَ وَأَخَوَاتُهَا",
+      "arabic": "تَرْفَعُ كَانَ المَبْتَدَا اسْماً وَالْخَبَرْ ... تَنْصِبُهُ كَكَاَنَ سَيِّداً عُمَرْ\nكَأَمْسَى أَصْبَحَ أَضْحَى ظَلَّ بَاتَا ... صَارَ لَيْسَ زَالَ بَرِحَ فَتِئَ انْفَكَّا",
+      "translation": "Kana merafa'kan Mubtada' sebagai Isimnya dan menangshobkan Khabar sebagai Khabarnya, seperti 'Kana Sayyidan 'Umar'. Sama halnya dengan Amsa, Ashbaha, Adh-ha, Zhalla, Bata, Shara, Laysa, Zala, Bariha, Fati'a, dan Infakka."
+    },
+    {
+      "title": "Ma, La, Lata, dan In yang Serupa dengan Laysa",
+      "titleArabic": "مَا وَلَا وَلَاتَ وَإِنْ الْمُشَبَّهَاتِ بِلَيْسَ",
+      "arabic": "إِعْمَالَ لَيْسَ إِعْمَالَتْ مَا دُونَ إِنْ ... مَعَ بَقَاءِ النَّفْيِ وَالتَّرْتِيبِ زُكِنْ",
+      "translation": "Huruf 'Ma' diamalkan seperti amalan 'Laysa' tanpa adanya 'In' tambahan, serta selama penafiannya tetap utuh dan urutan susunannya terjaga."
+    },
+    {
+      "title": "Af'alul Muqarabah (Fi'il-Fi'il Muqarabah, Raja', dan Syuru')",
+      "titleArabic": "أَفْعَالُ الْمُقَارَبَةِ",
+      "arabic": "كَكَانَ كَادَ وَعَسَى لَكِنْ نَدَرْ ... غَيْرُ المِضَارِعِ لَهَيْنِ خَبَرْ",
+      "translation": "Kada dan 'Asa beramal seperti Kana, akan tetapi jarang sekali khabar keduanya berupa selain fi'il mudhari'."
+    },
+    {
+      "title": "Inna dan Saudara-Saudaranya",
+      "titleArabic": "إِنَّ وَأَخَوَاتُهَا",
+      "arabic": "لإِنَّ أَنَّ لَيْتَ لَكِنَّ لَعَلَّ ... كَأَنَّ عَكْسُ كَانَ مِنْ عَمَلٍ حَصَلْ\nكَإِنَّ زَيْداً عَالِمٌ بِأَنِّي ... كَفُؤٌ وَلَكِنَّ ابْنَهُ ذُو غَبْنِ",
+      "translation": "Inna, Anna, Layta, Lakinna, La'alla, dan Ka'anna memiliki amalan kebalikan dari amalan Kana. Seperti contoh 'Inna Zaidan 'Alimun' (Sesungguhnya Zaid orang alim)."
+    },
+    {
+      "title": "Laa yang Menafikan Jenis (Laa Li Nafyil Jins)",
+      "titleArabic": "لَا الَّتِي لِنَفْيِ الْجِنْسِ",
+      "arabic": "عَمَلَ إِنَّ اجْعَلْ لِلاَ فِي النَّكِرَاتْ ... مُفْرَدَةً جَاءَتْ أَوْ مُكَرَّرَاتْ",
+      "translation": "Jadikanlah amalan 'Inna' bagi 'La' yang masuk pada kata-kata nakirah, baik 'La' tersebut sejajar tunggal maupun diulang-ulang."
+    },
+    {
+      "title": "Zhanna dan Saudara-Saudaranya",
+      "titleArabic": "ظَنَّ وَأَخَوَاتُهَا",
+      "arabic": "إِنْصِبْ بِفِعْلِ القَلْبِ جُزْأَيِ اﺑﺘﺪَا ... أعْنِي غَالِباً ظَنَنْتُ حَسِبْتُ زَعَمْتُ اِﺟﻌَلاَ",
+      "translation": "Nasabkanlah dengan Fi'il Qalb (kata kerja hati) kedua bagian dari mubtada' dan khabar, yaitu seperti kata 'Zhannantu', 'Hasibtu', 'Za'amtu', dan 'Ja'alta'."
+    },
+    {
+      "title": "A'lama dan Araa",
+      "titleArabic": "أَعْلَمَ وَأَرَى",
+      "arabic": "إِلَى ثَلاَثَةٍ رَأَى وَعَلِمَا ... عَدَّوْا إِذَا صَارَا بِهَمْزٍ أَعْلَمَا",
+      "translation": "Para ahli nahwu menyeberangkan (menjadikan muta'addi) fi'il 'Ra'a' dan ' 'Alima' kepada tiga maf'ul apabila keduanya dimasuki hamzah ta'diyyah menjadi 'A'lama' dan 'Ara'."
+    },
+    {
+      "title": "Fa'il (Subjek)",
+      "titleArabic": "الْفَاعِلُ",
+      "arabic": "الْفَاعِلُ الَّذِي يَلِي مَرْفُوعاً أَتَى ... رُفِعَ بِفِعْلٍ كَأَتَى زَيْدٌ أَتَى\nوَإِنْ فِعْلٌ لِمُثَنَّى أَوْ جَمْعٍ أُسْنِدَا ... أُتِيَ بِهِ كَمَا لِلْمُفْرَدِ أُفْرِدَا",
+      "translation": "Fa'il adalah isim marfu' yang terletak setelah fi'il yang merafa'kannya, seperti 'Ata Zaidun'. Apabila fi'il disandarkan pada isim mutsanna atau jama', maka fi'il tersebut tetap dijadikan bentuk mufrad."
+    },
+    {
+      "title": "Na'ibul Fa'il (Pengganti Subjek)",
+      "titleArabic": "نَائِبُ الْفَاعِلِ",
+      "arabic": "يَنُوبُ مَفْعُولٌ بِهِ عَنْ فَاعِلِ ... فِيمَا لَهُ كَنِيلَ خَيْرُ نَائِلِ\nفَأَوَّلَ الفِعْلِ اضْمُمَنْ وَالْمُتَّصِلْ ... بِالأَخِرِ اكْسِرْ فِي مَاضٍ كَوُصِلْ",
+      "translation": "Maf'ul bih menggantikan posisi Fa'il pada hukum-hukumnya, seperti contoh 'Nila Khairu Na'ili'. Maka dhammadkanlah huruf pertama fi'il, dan kasrahkanlah huruf sebelum akhir pada fi'il madhi seperti 'Wushila'."
+    },
+    {
+      "title": "Ishtighal",
+      "titleArabic": "الِاشْتِغَالُ",
+      "arabic": "إِنْ مُضْمَرُ اسْمٍ سَابِقٍ فِعْلاً شَغَلْ ... عَنْهُ بِنَصْبِ لَفْظِهِ أَوْ المَحَلّ\nفَالسَّابِقَ انْصِبْهُ بِفِعْلٍ إِضْمَارُهُ ... حَتْمٌ كَزَيْداً ضَرَبْتُهُ فِيهِ اعْتِبَارُهْ",
+      "translation": "Jika dhamir dari isim yang mendahului menyibukkan fi'il dari isim tersebut dengan menasabkan lafaznya atau kedudukannya, maka nasabkanlah isim yang mendahului itu dengan fi'il yang wajib disimpan."
+    },
+    {
+      "title": "Fi'il Muta'addi dan Lazim",
+      "titleArabic": "التَّعَدِّي وَاللُّزُومُ",
+      "arabic": "عَلاَمَةُ الفِعْلِ المُعَدَّى أَنْ تَصِلْ ... هَاءَ سِوَى المَصْدَرِ بِهِ كَانْصَرَفْ\nوَلَازِمٌ مَا لَيْسَ ذَا كَـ 'قَامَا' ... وَكُلُّ فِعْلٍ لِلصِّفَاتِ صَامَا",
+      "translation": "Tanda Fi'il Muta'addi adalah engkau dapat menyambungkannya dengan Ha' dhamir selain masdar. Sedangkan Fi'il Lazim adalah yang tidak demikian seperti kata 'Qama'."
+    },
+    {
+      "title": "Tanazu' dalam Amel",
+      "titleArabic": "التَّنَازُعُ فِي الْعَمَلِ",
+      "arabic": "إِنْ عَامِلاَنِ اقْتَضَيَا فِي اسْمٍ عَمَلْ ... قَبْلُ فَلِلْوَاحِدِ مِنْهُمَا العَمَلْ",
+      "translation": "Jika ada dua amil yang menuntut amalan i'rab pada satu isim yang terletak setelahnya, maka berikanlah amalan tersebut kepada salah satunya."
+    },
+    {
+      "title": "Maf'ul Mutlaq (Masdar)",
+      "titleArabic": "الْمَفْعُولُ الْمُطْلَقُ",
+      "arabic": "المَصْدَرُ اسْمُ مَا سِوَى الزَّمَانِ مِنْ ... مَدْلُولَيِ الْفِعْلِ كَأَمْنٍ مِنْ أَمِنْ\nبِمِثْلِهِ أَوْ فِعْلٍ أَوْ وَصْفٍ نُصِبْ ... كَوْنُهُ مَفْعُولاً مُطْلَقاً وَجَبْ",
+      "translation": "Masdar adalah isim yang menunjukkan makna selain zaman dari dua penunjukan fi'il, seperti 'Amnun' dari fi'il 'Amina'. Masdar dinasabkan oleh sesamanya, oleh fi'il, atau oleh sifat, sebagai Maf'ul Mutlaq."
+    },
+    {
+      "title": "Maf'ul Lahu (Maf'ul li Ajlih)",
+      "titleArabic": "الْمَفْعُولُ لَهُ",
+      "arabic": "يُنْصَبُ مَفْعُولاً لَهُ المَصْدَرُ إِنْ ... إِبَانَةً لِعِلَّةٍ كَجُدْ لِأَنْ",
+      "translation": "Masdar dinasabkan sebagai Maf'ul Lahu apabila menjelaskan sebab/alasan terjadinya perbuatan, seperti 'Jud lian' (Bermurah hatilah karena...)."
+    },
+    {
+      "title": "Maf'ul Fihi (Zharaf Zaman dan Makan)",
+      "titleArabic": "الْمَفْعُولُ فِيهِ وَهُوَ الظَّرْفُ",
+      "arabic": "الظَّرْفُ وَقْتٌ أَوْ مَكَانٌ ظُمِّنَا ... فِي بِابْطِرَادٍ كَهُنَا المَكْنَا",
+      "translation": "Zharaf adalah nama waktu atau tempat yang mengandung makna 'Fi' (di/pada) secara konstan, seperti kata 'Huna'."
+    },
+    {
+      "title": "Maf'ul Ma'ahu",
+      "titleArabic": "الْمَفْعُولُ مَعَهُ",
+      "arabic": "يُنْصَبُ بَعْدَ وَاوٍ مَعِيَّةٍ المَفْعُولُ مَعَهْ ... فِي نَحْوِ سِيرِي وَالطَّرِيقَ مُسْتَمِعَهْ",
+      "translation": "Maf'ul Ma'ahu dinasabkan setelah Wawu Ma'iyyah (berarti bersamanya), seperti dalam contoh 'Siri wa Al-Thariqa'."
+    },
+    {
+      "title": "Istitsna' (Pengecualian)",
+      "titleArabic": "الِاسْتِثْنَاءُ",
+      "arabic": "مَا اسْتُثْنِيَ بِإِلاَّ بَنَصْبٍ يُعْرَبُ ... إِنْ تَمَّ كَلاَمٌ وَمُوجَبٌ يَجِبُ",
+      "translation": "Isim yang di-istitsna-kan dengan 'Illa' wajib di-i'rab manshub apabila kalamnya Tam (sempurna) dan Mujab (positif)."
+    },
+    {
+      "title": "Hal (Keterangan Keadaan)",
+      "titleArabic": "الْحَالُ",
+      "arabic": "الْحَالُ وَصْفٌ فَضْلَةٌ مُنْتَصِبُ ... مُفْهِمُ فِي حَالِ كَفَرْداً أَذْهَبُ",
+      "translation": "Hal adalah sifat fadhlah (tambahan) yang manshub, yang menjelaskan keadaan (pertanyaan 'bagaimana'), seperti 'Fardan Adzhabu' (Aku pergi sendirian)."
+    },
+    {
+      "title": "Tamyiz (Keterangan Pembeda)",
+      "titleArabic": "التَّمْيِيزُ",
+      "arabic": "اسْمٌ بِمَعْنَى مِنْ مُبِينٌ نَكِرَهْ ... لِمَا خَفِيَ مِنَ الذَّوَاتِ بِاسْمِ جَلَّى",
+      "translation": "Tamyiz adalah isim nakirah yang mengandung makna 'Min' (dari/mengenai) yang menjelaskan zat yang samar."
+    },
+    {
+      "title": "Huruf-Huruf Jarr",
+      "titleArabic": "حُرُوفُ الْجَرِّ",
+      "arabic": "هَاكَ حُرُوفَ الْجَرِّ وَهِيَ مِنْ إِلَى ... حَتَّى خَلاَ حَاشَا عَدَا فِي عَنْ عَلَى\nمُذْ مُنْذُ رُبَّ اللَّامُ كَيْ وَاوٌ وَتَا ... وَالْكَافُ وَالْبَاءُ وَلَعَلَّ وَمَتَى",
+      "translation": "Ambillah huruf-huruf Jarr yaitu: Min, Ila, Hatta, Khala, Hasya, 'Ada, Fi, 'An, 'Ala, Mudz, Mundzu, Rubba, Lam, Kay, Wawu, Ta', Kaf, Ba', La'alla, dan Mata."
+    },
+    {
+      "title": "Idhafah (Penyandaran Isim)",
+      "titleArabic": "الْإِضَافَةُ",
+      "arabic": "نُوناً تَلِي الإِعْرَابَ أَوْ تَنْوِيناً ... مِمَّا تُضِيفُ احْذِفْ كَطُورِ سِينِينَا",
+      "translation": "Buanglah Nun yang mengikuti i'rab atau Tanwin dari kata yang engkau idhafahkan, seperti 'Thuri Sinina'."
+    },
+    {
+      "title": "Amalan Masdar",
+      "titleArabic": "إِعْمَالُ الْمَصْدَرِ",
+      "arabic": "بِفِعْلِهِ المَصْدَرُ أَلْحِقْ فِي العَمَلْ ... مُضَافاً أَوْ مُجَرَّداً أَوْ مَعَ أَلْ",
+      "translation": "Samakanlah Masdar dengan fi'ilnya dalam beramal, baik masdar itu di-idhafahkan, sepi dari AL dan idhafah, maupun bersama AL."
+    },
+    {
+      "title": "Amalan Isim Fa'il dan Isim Maf'ul",
+      "titleArabic": "إِعْمَالُ اسْمِ الْفَاعِلِ وَالْمَفْعُولِ",
+      "arabic": "كَفِعْلِهِ اسْمُ فَاعِلٍ جَاءَ عَمَلْ ... إِنْ كَانَ عَنْ مُضِيِّهِ قَدِ انْفَصَلْ",
+      "translation": "Isim Fa'il beramal seperti fi'ilnya apabila terlepas dari makna masa lalu (menunjukkan masa kini atau akan datang)."
+    },
+    {
+      "title": "Sifat Musyabbahah",
+      "titleArabic": "الصِّفَةُ الْمُشَبَّهَةُ بِاسْمِ الْفَاعِلِ",
+      "arabic": "صِفَةٌ اسْتُحْسِنَ الأَخْذُ بِهَا ... كَطَاهِرِ القَلْبِ جَمِيلِ الظَّاهِرِ",
+      "translation": "Sifat Musyabbahah adalah sifat yang dihubungkan dengan Isim Fa'il untuk menunjukkan makna menetap, seperti 'Thahirul Qalbi' (bersi hatinya)."
+    },
+    {
+      "title": "Na'at (Sifat)",
+      "titleArabic": "النَّعْتُ",
+      "arabic": "النَّعْتُ تَبِعٌ مُتِمٌّ مَا سَبَقْ ... بِوَسْمِهِ أَوْ وَسْمِ مَا بِهِ اعْتَلَقْ",
+      "translation": "Na'at adalah tabi' (kata yang mengikuti) yang menyempurnakan matbu'-nya dengan menjelaskan sifatnya atau sifat kata yang terikat dengannya."
+    },
+    {
+      "title": "'Athaf (Bayan dan Nasaq)",
+      "titleArabic": "الْعَطْفُ",
+      "arabic": "الْعَطْفُ إِمَّا عَطْفُ بَيَانٍ أَوْ نَسَقْ ... فَالذَّاتُ بِالْبَيَانِ أَوْضَحَتْ وَثَقْ",
+      "translation": "'Athaf itu adakalanya 'Athaf Bayan atau 'Athaf Nasaq. Maka zat matbu' dijelaskan dan dikuatkan dengan 'Athaf Bayan."
+    },
+    {
+      "title": "Tawkid (Penguat)",
+      "titleArabic": "التَّوْكِيدُ",
+      "arabic": "بِالنَّفْسِ أَوْ بِالْعَيْنِ الاِسْمُ أَكِّدَا ... مَعَ ضَمِيرٍ طَابَقَ المُمَؤَكَّدَا",
+      "translation": "Kuatkanlah Isim dengan kata 'Al-Nafs' atau 'Al-'Ayn' beserta dhamir yang bersesuaian dengan Mu'akkad (yang dikuatkan)."
+    },
+    {
+      "title": "Badal (Pengganti)",
+      "titleArabic": "الْبَدَلُ",
+      "arabic": "التَّابِعُ المَقْصُودُ بِالْحُكْمِ بِلاَ ... وَاسِطَةٍ هُوَ المُمَسَّمَّى بَدَلاَ",
+      "translation": "Tabi' yang menjadi tujuan utama hukum tanpa perantara dinamakan Badal."
+    },
+    {
+      "title": "Nida' (Kata Panggil)",
+      "titleArabic": "الندَاءُ",
+      "arabic": "وَلِلْمُنَادَى نَاءٍ أَوْ كَالنَّاءِ يَا ... أَيَا هَيَا أَيْ وَاهَمَزُ لِلمَنَادَى القَرِيبِ",
+      "translation": "Huruf Nida' untuk panggilan jauh atau yang disamakan dengan jauh adalah Ya, Aya, Haya, Ay, dan Hamzah khusus untuk munada yang dekat."
+    },
+    {
+      "title": "Istighatsah dan Nudbah",
+      "titleArabic": "الِاسْتِغَاثَةُ وَالنَّدْبَةُ",
+      "arabic": "إِذَا اسْتُغِيثَ يَا لَلَّهِ لِلْمُسْلِمِينَ ... وَوَا لِمَنْ نُدِبَ مَفْجُوعاً عَلَيْهِ",
+      "translation": "Dalam Istighatsah diucapkan contoh 'Ya Lallahi lil Muslimin', dan huruf 'Wa' digunakan untuk Nudbah meratapi kemalangan."
+    },
+    {
+      "title": "Tarkhim",
+      "titleArabic": "التَّرْخِيمُ",
+      "arabic": "تَرْخِيماً احْذِفْ آخِرَ المُنَادَى كَيَا سُعَا ... فِي سُعَادَ وَمَنْ دَعَا",
+      "translation": "Tarkhim adalah membuang akhir huruf dari Isim Munada, seperti ucapan 'Ya Su'a' untuk memanggil 'Su'ad'."
+    },
+    {
+      "title": "Ikhtishas dan Tahdzir",
+      "titleArabic": "الِاخْتِصَاصُ وَالتَّحْذِيرُ",
+      "arabic": "الِاخْتِصَاصُ كَالنِّدَاءِ دُونَ يَا ... وَإِيَّاكَ وَالشَّرَّ تَحْذِيراً جَلاَ",
+      "translation": "Ikhtishas itu seperti Nida' tetapi tanpa huruf 'Ya'. Sedangkan ucapan 'Iyyaka wa al-Syarra' adalah bentuk Tahdzir (peringatan) yang jelas."
+    },
+    {
+      "title": "Asma'ul Af'al dan Asma'ul Ashwat",
+      "titleArabic": "أَسْمَاءُ الْأَفْعَالِ وَالْأَصْوَاتِ",
+      "arabic": "مَا نََابَ عَنْ فِعْلٍ كَشَتَّانَ وَصَهْ ... هُوَ اسْمُ فِعْلٍ وَكَذَا صَوْتٌ حُكِي",
+      "translation": "Kata yang menggantikan posisi fi'il seperti 'Shattana' dan 'Sah' adalah Isim Fi'il, demikian pula Isim Shawt."
+    },
+    {
+      "title": "Nun Tawkid",
+      "titleArabic": "نُونُ التَّوْكِيدِ",
+      "arabic": "لِلْفِعْلِ تَوْكِيدٌ بِنُونَيْنِ هُمَا ... خَفِيفَةٌ وَثَقِيلَةٌ كَيَعْلَمَا",
+      "translation": "Fi'il dikuatkan dengan dua jenis Nun Tawkid, yaitu Khafifah (ringan/sukun) dan Tsaqilah (berat/tasydid)."
+    },
+    {
+      "title": "I'rab Fi'il Mudhari' dan Jazm",
+      "titleArabic": "إِعْرَابُ الْفِعْلِ وَجَزْمُهُ",
+      "arabic": "بِلاَ وَلاَمٍ طَلَبَا وَلَمْ وَلَمَّا ... اجْزِمْ وَإِنْ تَشْرُطْ بِإِنْ مَاوَمَا",
+      "translation": "Jazamkanlah fi'il dengan Laa Nahi, Lam Amar, Lam, dan Lamma. Dan syaratkanlah dengan In, Ma, dan Man."
+    },
+    {
+      "title": "At-Tashrif (Morfologi/Sharaf)",
+      "titleArabic": "التَّصْرِيفُ",
+      "arabic": "حَرْفُ الزِّيَادَةِ هُنَا سَالْتُمُونِيهَا ... وَالْأَصْلُ فِي الوَزْنِ فَعَلَ احْفَظْنِيهَا",
+      "translation": "Huruf tambahan terkumpul dalam 'Sa'altumuniha'. Dan asal timbangan kata (wazan) adalah Fa-'A-La, maka hafalkanlah."
+    },
+    {
+      "title": "I'lal dan Ibdal (Khatimah)",
+      "titleArabic": "الْإِعْلَالُ وَالْإِبْدَالُ وَالْخَاتِمَةُ",
+      "arabic": "صَحِيحٌ أَوْ مُعْتَلٌّ الاِعْلاَلُ جَلَى ... وَالْحَمْدُ لِلَّهِ عَلَى مَا أَكْمَلاَ\nأَزْكَى صَلاَةٍ وَسَلاَمٍ سَرْمَدَا ... عَلَى النَّبِيِّ المِصْطَفَى مُحَمَّدِ",
+      "translation": "Penjelasan kata shahih dan mu'tal memjelaskan bab I'lal. Segala puji bagi Allah atas kesempurnaan kitab ini. Shalawat dan salam yang paling suci abadi semoga tercurah kepada Nabi Al-Musthafa Muhammad SAW."
+    }
+  ]
+}
