@@ -2,433 +2,643 @@
   "profile": {
     "name": "Bulugh al-Maram min Adillat al-Ahkam",
     "originalTitle": "بُلُوغُ الْمَرَامِ مِنْ أَدِلَّةِ الْأَحْكَامِ",
-    "author": "Al-Hafiz Ahmad bin Ali bin Hajar al-Asqalani (الْحَافِظُ أَحْمَدُ بْنُ عَلِيِّ بْنِ حَجَرٍ الْعَسْقَلَانِيُّ)",
+    "author": "Al-Hafizh Al-Imam Shihabuddin Ahmad bin 'Ali bin Muhammad bin Hajar al-'Asqalani Al-Syafi'i",
     "field": "Hadits Ahkam / Fiqih Muqaran",
-    "about": "Kitab Bulugh al-Maram min Adillat al-Ahkam merupakan salah satu karya monumental utama dalam ranah hadits-hadits hukum (Ahadith al-Ahkam) yang disusun oleh al-Hafiz Ibn Hajar al-Asqalani. Kitab ini merangkum lebih dari 1.500 hadits pilihan yang menjadi fondasi pengambilan hukum fiqih dalam mazhab Syafi'i dan lintas mazhab. Setiap hadits dilengkapi dengan riwayat sanad perawi utama (seperti Kutubut Tiss'ah) serta derajat kesahihannya secara ringkas namun presisi. Sistematikanya mengikuti tata urutan abwab al-fiqh dimulai dari pembahasan Thaharah hingga Kitab al-Jami' yang memuat akhlak dan adab. Di lingkungan pesantren dan madrasah seluruh dunia, kitab ini dijadikan standar kurikulum wajib dalam mempelajari mata rantai antara dalil naqli dan kaidah fiqhiyah.",
-    "authorBorn": "773 H / 1372 M (Kairo, Mesir)",
-    "authorDied": "852 H / 1449 M (Kairo, Mesir)",
+    "about": "Kitab Bulughul Maram min Adillatil Ahkam merupakan salah satu karya induk paling populer di dunia Islam dalam bidang hadits-hadits hukum fiqih. Disusun secara sistematis oleh Al-Hafizh Ibn Hajar al-Asqalani mengikut alur bab-bab fiqih mazhab Syafi'i, kitab ini merangkum dalil-dalil utama yang menjadi pijakan hukum syariat. Setiap hadits dilengkapi dengan rujukan periwayat (takhrij) serta penjelasan ringkas mengenai derajat kesahihannya. Kitab ini menjadi standar kurikulum wajib di berbagai pesantren, madrasah, dan universitas Islam global untuk mengaitkan hukum fiqih langsung dengan dalil Al-Qur'an dan As-Sunnah. Selain bab hukum praktis, kitab ini diakhiri dengan Kitab Al-Jami' yang memuat panduan akhlak, adab, dan penyucian jiwa.",
+    "authorBorn": "773 H / 1372 M di Kairo, Mesir",
+    "authorDied": "852 H / 1449 M di Kairo, Mesir",
     "authorCentury": "Abad ke-8 & 9 Hijriah"
   },
   "chapters": [
     {
-      "title": "Muqaddimah Pengarang",
+      "title": "Muqaddimah Penulis",
       "titleArabic": "مُقَدِّمَةُ الْمُؤَلِّفِ",
-      "arabic": "الْحَمْدُ لِلَّهِ عَلَى نِعَمِهِ الظَّاهِرَةِ وَالْبَاطِنَةِ قَدِيمًا وَحَدِيثًا، وَالصَّلَاةُ وَالسَّلَامُ عَلَى نَبِيِّهِ وَرَسُولِهِ مُحَمَّدٍ وَآلِهِ وَأَصْحَابِهِ الَّذِينَ حَازُوا شَرَفًا عَالِيًا، أَمَّا بَعْدُ: فَهَذَا مُخْتَصَرٌ يَشْتَمِلُ عَلَى أُصُولِ الْأَدِلَّةِ الْحَدِيثِيَّةِ لِلْأَحْكَامِ الشَّرْعِيَّةِ، حَرَّرْتُهُ تَحْرِيرًا بَالِغًا، لِيَصِيرَ مَنْ يَحْفَظُهُ مِنْ بَيْنِ أَقْرَانِهِ بَرِيعًا.",
-      "translation": "Segala puji bagi Allah atas nikmat-nikmat-Nya yang tampak maupun yang tersembunyi, dahulu maupun sekarang. Shalawat dan salam semoga tercurah kepada Nabi dan Rasul-Nya, Muhammad, beserta keluarga dan para sahabatnya yang meraih kemuliaan yang tinggi. Amma ba'du: Ini adalah ringkasan yang memuat pokok-pokok dalil hadits bagi hukum-hukum syariat, yang aku susun dengan cermat agar orang yang menghafalnya menjadi unggul di antara teman-temannya."
+      "arabic": "الْحَمْدُ لِلَّهِ عَلَى نِعَمِهِ الظَّاهِرَةِ وَالْبَاطِنَةِ قَدِيمًا وَحَدِيثًا، وَالصَّلَاةُ وَالسَّلَامُ عَلَى نَبِيِّهِ وَرَسُولِهِ مُحَمَّدٍ وَآلِهِ وَأَصْحَابِهِ الَّذِينَ حَازُوا مَرَاتِبَ الْفَخْرِ عَمِيمًا. أَمَّا بَعْدُ: فَهَذَا مُخْتَصَرٌ يَشْتَمِلُ عَلَى أُصُولِ الْأَدِلَّةِ الْحَدِيثِيَّةِ لِلْأَحْكَامِ الشَّرْعِيَّةِ، حَرَّرْتُهُ تَحْرِيرًا بَالِغًا؛ لِيَصِيرَ مَنْ يَحْفَظُهُ مِنْ بَيْنِ أَقْرَانِهِ بَرِيعًا، وَيَسْتَعِينَ بِهِ الطَّالِبُ الْمُبْتَدِئُ، وَلَا يَسْتَغْنِي عَنْهُ الرَّاغِبُ الْمُنْتَهِي.",
+      "translation": "Segala puji bagi Allah atas nikmat-nikmat-Nya yang lahir dan batin, dahulu maupun sekarang. Shalawat dan salam semoga tercurah kepada Nabi dan Utusan-Nya, Muhammad, serta keluarga dan para sahabatnya yang meraih tingkatan kemuliaan secara menyeluruh. Amma ba'du: Ini adalah ringkasan yang memuat pokok-pokok dalil hadits bagi hukum-hukum syariat, yang aku susun dengan sangat cermat; agar orang yang menghafalnya menjadi unggul di antara teman-temannya, menjadi pemandu bagi penuntut ilmu pemula, dan tidak dapat ditinggalkan oleh pencari ilmu tingkat lanjut."
     },
     {
       "title": "Kitab Thaharah - Bab Air",
       "titleArabic": "كِتَابُ الطَّهَارَةِ - بَابُ الْمِيَاهِ",
-      "arabic": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي الْبَحْرِ: «هُوَ الطَّهُورُ مَاؤُهُ، الْحِلُّ مَيْتَتُهُ». أَخْرَجَهُ الْأَرْبَعَةُ وَابْنُ أَبِي شَيْبَةَ وَاللَّفْظُ لَهُ، وَصَحَّحَهُ ابْنُ خُزَيْمَةَ وَالتِّرْمِذِيُّ.",
-      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda mengenai laut: 'Laut itu suci airnya dan halal bangkaitnya.' Dikeluarkan oleh empat imam perawi hadits (Abu Dawud, An-Nasa'i, At-Tirmidzi, Ibn Majah) dan Ibn Abi Syaibah, dan lafaz ini miliknya. Disahihkan oleh Ibn Khuzaimah dan At-Tirmidzi."
+      "arabic": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي الْبَحْرِ: «هُوَ الطَّهُورُ مَاؤُهُ، الْحِلُّ مَيْتَتُهُ». أَخْرَجَهُ الْأَرْبَعَةُ، وَابْنُ أَبِي شَيْبَةَ وَاللَّفْظُ لَهُ، وَصَحَّحَهُ ابْنُ خُزَيْمَةَ وَالتِّرْمِذِيُّ.",
+      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda mengenai air laut: 'Laut itu suci airnya dan halal bangkaitnya.' Dikeluarkan oleh Imam yang Empat (Abu Dawud, An-Nasa'i, At-Tirmidzi, Ibn Majah) dan Ibn Abi Syaibah (teks darinya), serta dishahihkan oleh Ibn Khuzaimah dan At-Tirmidzi."
     },
     {
-      "title": "Kitab Thaharah - Bab Bejana",
-      "titleArabic": "كِتَابُ الطَّهَارَةِ - بَابُ الْآنِيَةِ",
-      "arabic": "وَعَنْ حُذَيْفَةَ بْنِ الْيَمَانِ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا تَشْرَبُوا فِي آنِيَةِ الذَّهَبِ وَالْفِضَّةِ، وَلَا تَأْكُلُوا فِي صِحَافِهَا، فَإِنَّهَا لَهُمْ فِي الدُّنْيَا، وَلَكُمْ فِي الْآخِرَةِ». مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Hudzaifah bin al-Yaman radhiyallahu 'anhuma, ia berkata: Nabi shallallahu 'alaihi wa sallam bersabda: 'Janganlah kalian minum dari bejana emas dan perak, dan jangan makan dari piringnya, karena benda-benda itu untuk mereka (orang kafir) di dunia dan untuk kalian di akhirat.' Muttafaq 'alaih."
+      "title": "Bab Bejana",
+      "titleArabic": "بَابُ الْآنِيَةِ",
+      "arabic": "وَعَنْ حُذَيْفَةَ بْنِ الْيَمَانِ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا تَشْرَبُوا فِي آنِيَةِ الذَّهَبِ وَالْفِضَّةِ، وَلَا تَأْكُلُوا فِي صِحَافِهَا، فَإِنَّهَا لَهُمْ فِي الدُّنْيَا، وَلَكُمْ فِي الْآخِرَةِ». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Hudzaifah bin al-Yaman radhiyallahu 'anhuma, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Janganlah kalian minum dari bejana emas dan perak, dan jangan makan pada piring emas/perak, karena sesungguhnya barang-barang itu untuk mereka (orang kafir) di dunia dan untuk kalian di akhirat.' Muttafaq 'alaih."
     },
     {
-      "title": "Kitab Thaharah - Bab Menghilangkan Najis",
-      "titleArabic": "كِتَابُ الطَّهَارَةِ - بَابُ إِزَالَةِ النَّجَاسَةِ وَبَيَانِهَا",
+      "title": "Bab Menghilangkan Najis dan Penjelasannya",
+      "titleArabic": "بَابُ إِزَالَةِ النَّجَاسَةِ وَبَيَانِهَا",
       "arabic": "وَعَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: سُئِلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنِ الْخَمْرِ تُتَّخَذُ خَلًّا؟ قَالَ: «لَا». أَخْرَجَهُ مُسْلِمٌ وَالتِّرْمِذِيُّ.",
-      "translation": "Dari Anas bin Malik radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam ditanya tentang khamr yang dijadikan cuka (diolah sengaja), beliau menjawab: 'Tidak boleh.' Dikeluarkan oleh Muslim dan At-Tirmidzi."
+      "translation": "Dari Anas bin Malik radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam ditanya tentang khamar yang diolah menjadi cuka, apakah boleh? Beliau menjawab: 'Tidak.' Dikeluarkan oleh Muslim dan At-Tirmidzi."
     },
     {
-      "title": "Kitab Thaharah - Bab Wudhu",
-      "titleArabic": "كِتَابُ الطَّهَارَةِ - بَابُ الْوُضُوءِ",
-      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ قَالَ: «لَوْلَا أَنْ أَشُقَّ عَلَى أُمَّتِي لَأَمَرْتُهُمْ بِالسِّوَاكِ مَعَ كُلِّ وُضُوءٍ». أَخْرَجَهُ الطَّبَرَانِيُّ وَإِسْنَادُهُ حَسَنٌ.",
-      "translation": "Dari Abu Hurairah radhiyallahu 'anhu dari Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Seandainya tidak memberatkan umatku, niscaya aku perintahkan mereka bersiwak setiap kali hendak berwudhu.' Dikeluarkan oleh Ath-Thabrani dan sanadnya hasan."
+      "title": "Bab Wudhu",
+      "titleArabic": "بَابُ الْوُضُوءِ",
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ قَالَ: «لَوْلَا أَنْ أَشُقَّ عَلَى أُمَّتِي لَأَمَرْتُهُمْ بِالسِّوَاكِ مَعَ كُلِّ وُضُوءٍ». أَخْرَجَهُ الطَّبَرَانِيُّ بِإِسْنَادٍ حَسَنٍ.",
+      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, dari Rasulullah shallallahu 'alaihi wa sallam beliau bersabda: 'Seandainya tidak memberatkan umatku, niscaya aku perintahkan mereka untuk bersiwak setiap kali berwudhu.' Dikeluarkan oleh Thabrani dengan sanad hasan."
     },
     {
-      "title": "Kitab Thaharah - Bab Mengusap Dua Khuff (Sepatu Boot)",
-      "titleArabic": "كِتَابُ الطَّهَارَةِ - بَابُ الْمَسْحِ عَلَى الْخُفَّيْنِ",
-      "arabic": "وَعَنْ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ قَالَ: لَوْ كَانَ الدِّينُ بِالرَّأْيِ لَكَانَ أَسْفَلُ الْخُفِّ أَوْلَى بِالْمَسْحِ مِنْ أَعْلَاهُ، وَقَدْ رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَمْسَحُ عَلَى ظَاهِرِ خُفَّيْهِ. أَخْرَجَهُ أَبُو دَاوُدَ بِإِسْنَادٍ حَسَنٍ.",
-      "translation": "Dari Ali radhiyallahu 'anhu, ia berkata: 'Seandainya agama itu dengan akal pikiran semata, niscaya bagian bawah khuff lebih berhak diusap daripada bagian atasnya. Sungguh aku telah melihat Rasulullah shallallahu 'alaihi wa sallam mengusap bagian atas kedua khuff-Nya.' Dikeluarkan oleh Abu Dawud dengan sanad hasan."
+      "title": "Bab Mengusap Dua Khuff (Sepatu Boot)",
+      "titleArabic": "بَابُ الْمَسْحِ عَلَى الْخُفَّيْنِ",
+      "arabic": "وَعَنْ صَفْوَانَ بْنِ عَسَّالٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَأْمُرُنَا إِذَا كُنَّا سَفْرًا أَنْ لَا نَنزِعَ خِفَافَنَا ثَلَاثَةَ أَيَّامٍ وَلَيَالِيَهُنَّ إِلَّا مِنْ جَنَابَةٍ، وَلَكِنْ مِنْ غَائِطٍ وَبَوْلٍ وَنَوْمٍ. أَخْرَجَهُ النَّسَائِيُّ وَالتِّرْمِذِيُّ وَاللَّفْظُ لَهُ.",
+      "translation": "Dari Safwan bin 'Assal radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam memerintahkan kami apabila dalam perjalanan untuk tidak melepas khuff kami selama tiga hari tiga malam, kecuali karena janabah, namun tidak mengapa karena buang air besar, buang air kecil, dan tidur. Dikeluarkan oleh An-Nasa'i dan At-Tirmidzi."
     },
     {
-      "title": "Kitab Thaharah - Bab Pembatal Wudhu",
-      "titleArabic": "كِتَابُ الطَّهَارَةِ - بَابُ نَوَاقِضِ الْوُضُوءِ",
-      "arabic": "وَعَنْ صَفْوَانَ بْنِ عَسَّالٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَأْمُرُنَا إِذَا كُنَّا سَفْرًا أَنْ لَا نَنزِعَ خِفَافَنَا ثَلَاثَةَ أَيَّامٍ وَلَيَالِيهُنَّ إِلَّا مِنْ جَنَابَةٍ، وَلَكِنْ مِنْ غَائِطٍ وَبَوْلٍ وَنَوْمٍ. أَخْرَجَهُ النَّسَائِيُّ وَالتِّرْمِذِيُّ وَاللَّفْظُ لَهُ وَصَحَّحَهُ ابْنُ خُزَيْمَةَ.",
-      "translation": "Dari Safwan bin Assal radhiyallahu 'anhu, ia berkata: 'Rasulullah shallallahu 'alaihi wa sallam memerintahkan kami apabila kami berbepergian agar tidak melepas khuff kami selama tiga hari tiga malam, kecuali karena junub, tetapi (tetap boleh diusap) jika karena buang air besar, buang air kecil, dan tidur.' Dikeluarkan oleh An-Nasa'i dan At-Tirmidzi (lafaz miliknya) serta disahihkan oleh Ibn Khuzaimah."
+      "title": "Bab Hal-Hal yang Membatalkan Wudhu",
+      "titleArabic": "بَابُ نَوَاقِضِ الْوُضُوءِ",
+      "arabic": "وَعَنْ صَفْوَانَ بْنِ عَسَّالٍ رَضِيَ اللَّهُ عَنْهُ وَعَنْ أَنَسٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: كَانَ أَصْحَابُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَنْتَظِرُونَ الْعِشَاءَ الآخِرَةَ فَتَخْفِقُ رُؤُوسُهُمْ ثُمَّ يُصَلُّونَ وَلاَ يَتَوَضَّءُونَ. أَخْرَجَهُ أَبُو دَاوُدَ وَصَحَّحَهُ الدَّارَقُطْنِيُّ.",
+      "translation": "Dari Anas radhiyallahu 'anhu, ia berkata: Para sahabat Rasulullah shallallahu 'alaihi wa sallam menantikan waktu Isya hingga kepala mereka terkulai (karena terkantuk), kemudian mereka shalat tanpa berwudhu lagi. Dikeluarkan oleh Abu Dawud dan dishahihkan oleh Ad-Daraquthni."
     },
     {
-      "title": "Kitab Thaharah - Bab Adab Buang Hajat",
-      "titleArabic": "كِتَابُ الطَّهَارَةِ - بَابُ قَضَاءِ الْحَاجَةِ",
+      "title": "Bab Adab Buang Hajat",
+      "titleArabic": "بَابُ آدَابِ قَضَاءِ الْحَاجَةِ",
       "arabic": "وَعَنْ أَنَسٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا دَخَلَ الْخَلَاءَ قَالَ: «اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ». أَخْرَجَهُ الْأَرْبَعَةُ وَالصَّحِيحَانِ.",
-      "translation": "Dari Anas radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam apabila masuk ke tempat buang hajat berdoa: 'Ya Allah, sesungguhnya aku berlindung kepada-Mu dari godaan setan laki-laki dan setan perempuan.' Dikeluarkan oleh empat imam hadits dan Ash-Shahihain (Bukhari-Muslim)."
+      "translation": "Dari Anas radhiyallahu 'anhu, ia berkata: Apabila Rasulullah shallallahu 'alaihi wa sallam memasuki kamar mandi/tempat buang hajat, beliau berdoa: 'Ya Allah, sesungguhnya aku berlindung kepada-Mu dari godaan setan laki-laki dan setan perempuan.' Dikeluarkan oleh Imam yang Empat dan Al-Bukhari-Muslim."
     },
     {
-      "title": "Kitab Thaharah - Bab Mandi Wajib dan Hukum Junub",
-      "titleArabic": "كِتَابُ الطَّهَارَةِ - بَابُ الْغُسْلِ وَحُكْمِ الْجُنُبِ",
+      "title": "Bab Mandi dan Hukum Junub",
+      "titleArabic": "بَابُ الْغُسْلِ وَحُكْمِ الْجُنُبِ",
       "arabic": "وَعَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِنَّمَا الْمَاءُ مِنَ الْمَاءِ». أَخْرَجَهُ مُسْلِمٌ، وَأَصْلُهُ فِي الْبُخَارِيِّ.",
-      "translation": "Dari Abu Sa'id al-Khudri radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Sesungguhnya air (mandi wajib) itu hanyalah disebabkan oleh keluar air (mani).' Dikeluarkan oleh Muslim dan asalnya ada dalam Al-Bukhari."
+      "translation": "Dari Abu Sa'id Al-Khudri radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Sesungguhnya air (mandi wajib) itu hanyalah disebabkan oleh air (keluarnya mani).' Dikeluarkan oleh Muslim, dan asal hadits ini ada dalam Al-Bukhari."
     },
     {
-      "title": "Kitab Thaharah - Bab Tayammum",
-      "titleArabic": "كِتَابُ الطَّهَارَةِ - بَابُ التَّيَمُّمِ",
-      "arabic": "وَعَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «أُعْطِيتُ خَمْسًا لَمْ يُعْطَهُنَّ أَحَدٌ قَبْلِي: نُصِرْتُ بِالرُّعْبِ مَسِيرَةَ شَهْرٍ، وَجُعِلَتْ لِيَ الْأَرْضُ مَسْجِدًا وَطَهُورًا...». مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Jabir bin Abdillah radhiyallahu 'anhuma bahwasanya Nabi shallallahu 'alaihi wa sallam bersabda: 'Aku diberi lima hal yang tidak diberikan kepada seorang pun sebelumku: Aku ditolong dengan rasa takut musuh sejauh perjalanan satu bulan, dan dijadikan bagiku bumi ini sebagai masjid (tempat shalat) dan alat bersuci...' Muttafaq 'alaih."
+      "title": "Bab Tayammum",
+      "titleArabic": "بَابُ التَّيَمُّمِ",
+      "arabic": "وَعَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «أُعْطِيتُ خَمْسًا لَمْ يُعْطَهُنَّ أَحَدٌ قَبْلِي: نُصِرْتُ بِالرُّعْبِ مَسِيرَةَ شَهْرٍ، وَجُعِلَتْ لِيَ الْأَرْضُ مَسْجِدًا وَطَهُورًا». متَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Jabir bin 'Abdillah radhiyallahu 'anhuma, bahwa Nabi shallallahu 'alaihi wa sallam bersabda: 'Aku diberi lima hal yang tidak diberikan kepada seorang pun sebelumku: Aku ditolong dengan rasa takut musuh sejauh perjalanan sebulan, dan dijadikan bagiku bumi ini sebagai masjid dan alat bersuci.' Muttafaq 'alaih."
     },
     {
-      "title": "Kitab Thaharah - Bab Haid",
-      "titleArabic": "كِتَابُ الطَّهَارَةِ - بَابُ الْحَيْضِ",
-      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: إِنَّ فَاطِمَةَ بِنْتَ أَبِي حُبَيْشٍ كَانَتْ تُسْتَحَاضُ، فَقَالَ لَهَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِنَّ دَمَ الْحَيْضِ دَمٌ أَسْوَدُ يُعْرَفُ، فَإِذَا كَانَ ذَلِكَ فَأَمْسِكِي عَنِ الصَّلَاةِ، وَإِذَا كَانَ الْآخَرُ فَتَوَضَّئِي وَصَلِّي». أَخْرَجَهُ أَبُو دَاوُدَ وَالنَّسَائِيُّ وَصَحَّحَهُ ابْنُ حِبَّانَ.",
-      "translation": "Dari Aisyah radhiyallahu 'anha, ia berkata: Fatimah binti Abi Hubaisy mengalami istihadhah, maka Rasulullah shallallahu 'alaihi wa sallam bersabda kepadanya: 'Darah haid itu berwarna hitam yang dikenali. Jika darahnya demikian, tahanlah diri dari shalat. Namun jika darahnya lain (merah segar istihadhah), berwudhulah dan shalatlah.' Dikeluarkan oleh Abu Dawud dan An-Nasa'i, dan disahihkan oleh Ibn Hibban."
+      "title": "Bab Haid",
+      "titleArabic": "بَابُ الْحَيْضِ",
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا أَنَّ فَاطِمَةَ بِنْتَ أَبِي حُبَيْشٍ كَانَتْ تُسْتَحَاضُ، فَقَالَ لَهَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِنَّ دَمَ الْحَيْضِ دَمٌ أَسْوَدُ يُعْرَفُ، فَإِذَا كَانَ ذَلِكَ فَأَمْسِكِي عَنِ الصَّلَاةِ، فَإِذَا كَانَ الْآخَرُ فَتَوَضَّئِي وَصَلِّي». أَخْرَجَهُ أَبُو دَاوُدَ وَالنَّسَائِيُّ وَصَحَّحَهُ ابْنُ حِبَّانَ.",
+      "translation": "Dari 'Aisyah radhiyallahu 'anha, bahwa Fatimah binti Abi Hubaish mengalami istihadhah, maka Rasulullah shallallahu 'alaihi wa sallam bersabda kepadanya: 'Darah haid itu hitam dan dikenali. Jika darahnya demikian, maka tinggalkanlah shalat; dan jika darahnya lain (darah istihadhah), maka berwudhulah dan shalatlah.' Dikeluarkan oleh Abu Dawud dan An-Nasa'i, serta dishahihkan oleh Ibn Hibban."
     },
     {
-      "title": "Kitab Shalat - Bab Waktu-Waktu Shalat",
+      "title": "Kitab Shalat - Bab Waktu-waktu Shalat",
       "titleArabic": "كِتَابُ الصَّلَاةِ - بَابُ الْمَوَاقِيتِ",
-      "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو رَضِيَ اللَّهُ عَنْهُمَا أَنَّ نَبِيَّ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «وَقْتُ الظُّهْرِ إِذَا زَالَتِ الشَّمْسُ وَكَانَ ظِلُّ الرَّجُلِ كَطُولِهِ مَا لَمْ يَحْضُرِ الْعَصْرُ، وَوَقْتُ الْعَصْرِ مَا لَمْ تَصْفَرَّ الشَّمْسُ...». أَخْرَجَهُ مُسْلِمٌ.",
-      "translation": "Dari Abdullah bin Amr radhiyallahu 'anhuma bahwasanya Nabi Allah shallallahu 'alaihi wa sallam bersabda: 'Waktu Zhuhur adalah apabila matahari telah tergelincir dan bayangan seseorang sama panjang dengan tingginya selama belum masuk waktu Ashar; dan waktu Ashar selama matahari belum menguning...' Dikeluarkan oleh Muslim."
+      "arabic": "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو رَضِيَ اللَّهُ عَنْهُمَا أَنَّ نَبِيَّ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «وَقْتُ الظُّهْرِ إِذَا زَالَتِ الشَّمْسُ وَكَانَ ظِلُّ الرَّجُلِ كَطُولِهِ مَا لَمْ يَحْضُرِ الْعَصْرُ، وَوَقْتُ الْعَصْرِ مَا لَمْ تَصْفَرَّ الشَّمْسُ». أَخْرَجَهُ مُسْلِمٌ.",
+      "translation": "Dari 'Abdullah bin 'Amr radhiyallahu 'anhuma, bahwa Nabi Allah shallallahu 'alaihi wa sallam bersabda: 'Waktu Zhuhur adalah apabila matahari telah tergelincir sampai bayangan seseorang sama panjang dengan tingginya selama belum masuk waktu Ashar, dan waktu Ashar adalah selama matahari belum menguning.' Dikeluarkan oleh Muslim."
     },
     {
-      "title": "Kitab Shalat - Bab Azan",
-      "titleArabic": "كِتَابُ الصَّلَاةِ - بَابُ الْأَذَانِ",
-      "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ زَيْدِ بْنِ عَبْدِ رَبِّهِ رَضِيَ اللَّهُ عَنْهُ قَالَ: طَافَ بِي وَأَنَا نَائِمٌ رَجُلٌ، فَقَالَ: تَقُولُ: اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ... فَذَكَرَ الْأَذَانَ. أَخْرَجَهُ أَبُو دَاوُدَ وَالتِّرْمِذِيُّ وَصَحَّحَهُ ابْنُ خُزَيْمَةَ.",
-      "translation": "Dari Abdullah bin Zaid bin Abdi Rabbihi radhiyallahu 'anhu, ia berkata: 'Seseorang mengelilingiku saat aku tidur (dalam mimpi), lalu ia berkata: Ucapkanlah: Allahu Akbar Allahu Akbar... (lalu ia menyebutkan lafaz azan selengkapnya).' Dikeluarkan oleh Abu Dawud dan At-Tirmidzi, dan disahihkan oleh Ibn Khuzaimah."
+      "title": "Bab Adzan dan Iqamah",
+      "titleArabic": "بَابُ الْأَذَانِ",
+      "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ زَيْدِ بْنِ عَبْدِ رَبِّهِ رَضِيَ اللَّهُ عَنْهُ قَالَ: طَافَ بِي وَأَنَا نَائِمٌ رَجُلٌ فَقَالَ: تَقُولُ: اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ... فَذَكَرَ الْأَذَانَ. أَخْرَجَهُ أَبُو دَاوُدَ وَالتِّرْمِذِيُّ وَصَحَّحَهُ ابْنُ خُزَيْمَةَ.",
+      "translation": "Dari 'Abdullah bin Zaid bin 'Abdi Rabbih radhiyallahu 'anhu, ia berkata: Ketika aku tidur, seseorang mengelilingiku seraya berkata: Ucapkanlah: 'Allahu Akbar Allahu Akbar...' lalu ia menyebutkan lafaz adzan seluruhnya. Dikeluarkan oleh Abu Dawud, At-Tirmidzi, dan dishahihkan oleh Ibn Khuzaimah."
     },
     {
-      "title": "Kitab Shalat - Bab Syarat-Syarat Shalat",
-      "titleArabic": "كِتَابُ الصَّلَاةِ - بَابُ شُرُوطِ الصَّلَاةِ",
-      "arabic": "وَعَنْ عَالِيَةَ بِنْتِ أَبِي بَكْرٍ عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَا يَقْبَلُ اللَّهُ صَلَاةَ حَائِضٍ إِلَّا بِخِمَارٍ». أَخْرَجَهُ الْخَمْسَةُ إِلَّا النَّسَائِيَّ وَصَحَّحَهُ ابْنُ خُزَيْمَةَ.",
-      "translation": "Dari Aisyah radhiyallahu 'anha dari Nabi shallallahu 'alaihi wa sallam, beliau bersabda: 'Allah tidak menerima shalat wanita yang sudah haid (baligh) kecuali dengan memakai kerudung.' Dikeluarkan oleh lima imam hadits kecuali An-Nasa'i, dan disahihkan oleh Ibn Khuzaimah."
+      "title": "Bab Syarat-syarat Shalat",
+      "titleArabic": "بَابُ شُرُوطِ الصَّلَاةِ",
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا يَقْبَلُ اللَّهُ صَلَاةَ حَائِضٍ إِلَّا بِخِمَارٍ». أَخْرَجَهُ الْخَمْسَةُ إِلَّا النَّسَائِيَّ وَصَحَّحَهُ ابْنُ خُزَيْمَةَ.",
+      "translation": "Dari 'Aisyah radhiyallahu 'anha, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Allah tidak menerima shalat wanita yang sudah bermimpi haid (baligh) kecuali dengan memakai kerudung.' Dikeluarkan oleh Lima Imam kecuali An-Nasa'i, dan dishahihkan oleh Ibn Khuzaimah."
     },
     {
-      "title": "Kitab Shalat - Bab Sutrah (Pembatas Shalat)",
-      "titleArabic": "كِتَابُ الصَّلَاةِ - بَابُ سُتْرَةِ الْمُصَلِّي",
-      "arabic": "وَعَنْ أَبِي جُهَيْمِ بْنِ الْحَارِثِ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَوْ يَعْلَمُ الْمَارُّ بَيْنَ يَدَيِ الْمُصَلِّي مَاذَا عَلَيْهِ لَكَانَ أَنْ يَقِفَ أَرْبَعِينَ خَيْرًا لَهُ مِنْ أَنْ يَمُرَّ بَيْنَ يَدَيْهِ». مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Abu Juhaim bin al-Harits radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Seandainya orang yang lewat di depan orang shalat mengetahui dosa yang ditanggungnya, niscaya berdiri selama empat puluh (hari/bulan/tahun) lebih baik baginya daripada lewat di depannya.' Muttafaq 'alaih."
+      "title": "Bab Pembatas Shalat (Sutrah)",
+      "titleArabic": "بَابُ سُتْرَةِ الْمُصَلِّي",
+      "arabic": "وَعَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِذَا صَلَّى أَحَدُكُمْ إِلَى شَيْءٍ يَسْتُرُهُ مِنَ النَّاسِ، فَأَرَادَ أَحَدٌ أَنْ يَمُرَّ بَيْنَ يَدَيْهِ فَلْيَدْفَعْهُ». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Abu Sa'id Al-Khudri radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Apabila salah seorang dari kalian shalat menghadap sesuatu yang membatasinya dari manusia, lalu ada seseorang yang ingin melintas di depannya, maka hendaklah ia mencegahnya.' Muttafaq 'alaih."
     },
     {
-      "title": "Kitab Shalat - Bab Anjuran Khusyu' dalam Shalat",
-      "titleArabic": "كِتَابُ الصَّلَاةِ - بَابُ الْحَثِّ عَلَى الْخُشُوعِ فِي الصَّلَاةِ",
-      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ يُصَلِّيَ الرَّجُلُ مُخْتَصِرًا. مُتَّفَقٌ عَلَيْهِ وَاللَّفْظُ لِلْبُخَارِيِّ.",
-      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam melarang seseorang shalat dalam keadaan bercekak pinggang (berkacak pinggang). Muttafaq 'alaih dan lafaz ini milik Al-Bukhari."
+      "title": "Bab Anjuran Khusyu' dalam Shalat",
+      "titleArabic": "بَابُ الْحَثِّ عَلَى الْخُشُوعِ فِي الصَّلَاةِ",
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ يُصَلِّيَ الرَّجُلُ مُخْتَصِرًا. مُتَّفَقٌ عَلَيْهِ وَاللَّفْظُ لِلْمُسْلِمِ.",
+      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam melarang seseorang shalat dengan bertolak pinggang. Muttafaq 'alaih dan lafaznya menurut riwayat Muslim."
     },
     {
-      "title": "Kitab Shalat - Bab Tata Cara Shalat (Sifat Shalat)",
-      "titleArabic": "كِتَابُ الصَّلَاةِ - بَابُ صِفَةِ الصَّلَاةِ",
-      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «إِذَا قُمْتَ إِلَى الصَّلَاةِ فَأَسْبِغِ الْوُضُوءَ، ثُمَّ اسْتَقْبِلِ الْقِبْلَةَ فَكَبِّرْ، ثُمَّ اقْرَأْ مَا تَيَسَّرَ مَعَكَ مِنَ الْقُرْآنِ، ثُمَّ ارْكَعْ حَتَّى تَطْمَئِنَّ رَاكِعًا...». مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Abu Hurairah radhiyallahu 'anhu bahwasanya Nabi shallallahu 'alaihi wa sallam bersabda (kepada orang yang buruk shalatnya): 'Apabila engkau hendak shalat, sempurnakanlah wudhu, kemudian menghadaplah ke kiblat lalu bertakbirlah. Lalu bacalah ayat Al-Qur'an yang mudah bagimu, kemudian ruku'lah hingga engkau thuma'ninah dalam ruku'...' Muttafaq 'alaih."
+      "title": "Bab Masjid-masjid",
+      "titleArabic": "بَابُ الْمَسَاجِدِ",
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنْ سَمِعَ رَجُلًا يَنْشُدُ ضَالَّةً فِي الْمَسْجِدِ فَلْيَقُلْ: لَا رَدَّهَا اللَّهُ عَلَيْكَ، فَإِنَّ الْمَسَاجِدَ لَمْ تُبْنَب لِهَذَا». أَخْرَجَهُ مُسْلِمٌ.",
+      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Barangsiapa mendengar seseorang mengumumkan barang hilang di dalam masjid, hendaknya ia mengucapkan: Semoga Allah tidak mengembalikannya kepadamu, karena masjid tidak dibangun untuk hal itu.' Dikeluarkan oleh Muslim."
     },
     {
-      "title": "Kitab Shalat - Bab Sujud Sahwi, Tilawah, dan Syukur",
-      "titleArabic": "كِتَابُ الصَّلَاةِ - بَابُ سُجُودِ السَّهْوِ وَغَيْرِهِ",
-      "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: صَلَّى النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ - قَالَ إِبْرَاهِيمُ: زَادَ أَوْ نَقَصَ - فَلَمَّا سَلَّمَ قِيلَ لَهُ: يَا رَسُولَ اللَّهِ، أَحَدَثَ فِي الصَّلَاةِ شَيْءٌ؟ قَالَ: «وَمَا ذَاكَ؟»، قَالُوا: صَلَّيْتَ كَذَا... فَسَجَدَ سَجْدَتَيْنِ بَعْدَ مَا سَلَّمَ. مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Abdullah bin Mas'ud radhiyallahu 'anhu, ia berkata: Nabi shallallahu 'alaihi wa sallam shalat—Ibrahim (perawi) berkata: bertambah atau berkurang rakaatnya—lalu ketika beliau telah salam, ditanyakan: 'Wahai Rasulullah, apakah ada wahyu baru tentang shalat?' Beliau menjawab: 'Ada apa?' Mereka berkata: 'Engkau shalat begini...' Maka beliau melakukan sujud dua kali setelah salam. Muttafaq 'alaih."
+      "title": "Bab Sifat Shalat Nabi",
+      "titleArabic": "بَابُ صِفَةِ الصَّلَاةِ",
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «إِذَا قُمْتَ إِلَى الصَّلَاةِ فَأَسْبِغِ الْوُضُوءَ، ثُمَّ اسْتَقْبِلِ الْقِبْلَةَ فَكَبِّرْ...». مُتَّفَقٌ عَلَيْهِ (حَدِيثُ الْمُسِيءِ صَلَاتُهُ).",
+      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, bahwa Nabi shallallahu 'alaihi wa sallam bersabda: 'Jika engkau berdiri untuk shalat, sempurnakanlah wudhu, lalu menghadaplah ke kiblat dan bertakbirlah...' Muttafaq 'alaih (Hadits tentang orang yang jelek shalatnya)."
     },
     {
-      "title": "Kitab Shalat - Bab Shalat Sunnah (Tathawwu')",
-      "titleArabic": "كِتَابُ الصَّلَاةِ - بَابُ صَلَاةِ التَّطَوُّعِ",
-      "arabic": "وَعَنْ رَبِيعَةَ بْنِ كَعْبٍ الْأَسْلَمِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ لِيَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «سَلْ»، فَقُلْتُ: أَسْأَلُكَ مُرَافَقَتَكَ فِي الْجَنَّةِ، قَالَ: «أَوْ غَيْرَ ذَلِكَ؟»، قُلْتُ: هُوَ ذَاكَ، قَالَ: «فَأَعِنِّي عَلَى نَفْسِكَ بِكَثْرَةِ السُّجُودِ». أَخْرَجَهُ مُسْلِمٌ.",
-      "translation": "Dari Rabiah bin Ka'ab al-Aslami radhiyallahu 'anhu, ia berkata: Nabi shallallahu 'alaihi wa sallam bersabda kepadaku: 'Mintalah!' Aku berkata: 'Aku memohon agar dapat mendampingimu di surga.' Beliau bersabda: 'Apakah ada permintaan lain?' Aku menjawab: 'Itu saja.' Beliau bersabda: 'Maka bantulah aku atas dirimu dengan memperbanyak sujud (shalat sunnah).' Dikeluarkan oleh Muslim."
+      "title": "Bab Sujud Sahwi, Tilawah, dan Syukur",
+      "titleArabic": "بَابُ سُجُودِ السَّهْوِ وَالتِّلَاوَةِ وَالشُّكْرِ",
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: صَلَّى بِنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِحْدَى صَلَاتَيِ الْعَشِيِّ رَكْعَتَيْنِ ثُمَّ سَلَّمَ... ثُمَّ سَجَدَ سَجْدَتَيْنِ. مُتَّفَقٌ عَلَيْهِ (حَدِيثُ ذِي الْيَدَيْنِ).",
+      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam shalat bersama kami pada salah satu dari dua shalat petang sebanyak dua rakaat lalu salam... kemudian beliau sujud dua kali (sujud sahwi). Muttafaq 'alaih (Hadits Dzul Yadain)."
     },
     {
-      "title": "Kitab Shalat - Bab Shalat Berjamaah dan Imam",
-      "titleArabic": "كِتَابُ الصَّلَاةِ - بَابُ صَلَاةِ الْجَمَاعَةِ وَالْإِمَامَةِ",
+      "title": "Bab Shalat Sunnah (Tathawwu')",
+      "titleArabic": "بَابُ صَلَاةِ التَّطَوُّعِ",
+      "arabic": "وَعَنْ رَبِيعَةَ بْنِ كَعْبٍ الْأَسْلَمِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ لِيَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «سَلْ»، فَقُلْتُ: أَسْأَلُكَ مُرَافَقَتَكَ فِي الْجَنَّةِ. قَالَ: «أَوَّ غَيْرَ ذَلِكَ؟» قُلْتُ: هُوَ ذَاكَ. قَالَ: «فَأَعِنِّي عَلَى نَفْسِكَ بِكَثْرَةِ السُّجُودِ». أَخْرَجَهُ مُسْلِمٌ.",
+      "translation": "Dari Rabi'ah bin Ka'ab Al-Aslami radhiyallahu 'anhu, ia berkata: Nabi shallallahu 'alaihi wa sallam bersabda kepadaku: 'Mintalah!' Aku menjawab: Aku memohon agar bisa mendampingimu di surga. Beliau bersabda: 'Atau ada hal lain?' Aku menjawab: Itu saja. Beliau bersabda: 'Maka bantulah aku atas dirimu dengan memperbanyak sujud (shalat sunnah).' Dikeluarkan oleh Muslim."
+    },
+    {
+      "title": "Bab Shalat Berjamaah dan Keimaman",
+      "titleArabic": "بَابُ صَلَاةِ الْجَمَاعَةِ وَالْإِمَامَةِ",
       "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «صَلَاةُ الْجَمَاعَةِ تَفْضُلُ صَلَاةَ الْفَذِّ بِسَبْعٍ وَعِشْرِينَ دَرَجَةً». مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Abdullah bin Umar radhiyallahu 'anhuma bahwasanya Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Shalat berjamaah lebih utama daripada shalat sendirian sebanyak dua puluh tujuh derajat.' Muttafaq 'alaih."
+      "translation": "Dari 'Abdullah bin 'Umar radhiyallahu 'anhuma, bahwa Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Shalat berjamaah itu lebih utama daripada shalat sendirian dengan selisih dua puluh tujuh derajat.' Muttafaq 'alaih."
     },
     {
-      "title": "Kitab Shalat - Bab Shalat Musafir dan Orang Sakit",
-      "titleArabic": "كِتَابُ الصَّلَاةِ - بَابُ صَلَاةِ الْمُسَافِرِ وَالْمَرِيضِ",
-      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: فُرِضَتِ الصَّلَاةُ رَكْعَتَيْنِ رَكْعَتَيْنِ، فَأُقِرَّتْ صَلَاةُ السَّفَرِ، وَزِيدَ فِي صَلَاةِ الْحَضَرِ. مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Aisyah radhiyallahu 'anha, ia berkata: 'Shalat pertama kali diwajibkan dua rakaat dua rakaat, lalu ditetapkan demikian untuk shalat dalam bepergian (safar), dan ditambah rakaatnya untuk shalat saat mukim.' Muttafaq 'alaih."
+      "title": "Bab Shalat Musafir dan Orang Sakit",
+      "titleArabic": "بَابُ صَلَاةِ الْمُسَافِرِ وَالْمَرِيضِ",
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: أَوَّلُ مَا فُرِضَتِ الصَّلَاةُ رَكْعَتَيْنِ، فَأُقِرَّتْ صَلَاةُ السَّفَرِ وَزِيدَتْ صَلَاةُ الْحَضَرِ. مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari 'Aisyah radhiyallahu 'anha, ia berkata: Pertama kali shalat difardhukan adalah dua rakaat, lalu ditetapkan shalat safar dua rakaat dan ditambah rakaat shalat mukim. Muttafaq 'alaih."
     },
     {
-      "title": "Kitab Shalat - Bab Shalat Jum'at",
-      "titleArabic": "كِتَابُ الصَّلَاةِ - بَابُ صَلَاةِ الْجُمُعَةِ",
-      "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ وَأَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُمْ أَنَّهُمْ سَمِعُوا رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ عَلَى أَعْوَادِ مِنْبَرِهِ: «لَيَنْتَهِيَنَّ أَقْوَامٌ عَنْ وَدْعِهِمُ الْجُمُعَاتِ، أَوْ لَيَخْتِمَنَّ اللَّهُ عَلَى قُلُوبِهِمْ، ثُمَّ لَيَكُونُنَّ مِنَ الْغَافِلِينَ». أَخْرَجَهُ مُسْلِمٌ.",
-      "translation": "Dari Abdullah bin Umar dan Abu Hurairah radhiyallahu 'anhum bahwasanya mereka mendengar Rasulullah shallallahu 'alaihi wa sallam bersabda di atas mimbar kayu beliau: 'Hendaklah orang-orang benar-benar berhenti dari meninggalkan shalat Jum'at, atau Allah benar-benar akan mengunci mati hati mereka kemudian mereka sungguh menjadi orang-orang yang lalai.' Dikeluarkan oleh Muslim."
+      "title": "Bab Shalat Jum'at",
+      "titleArabic": "بَابُ صَلَاةِ الْجُمُعَةِ",
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنْ اغْتَسَلَ يَوْمَ الْجُمُعَةِ ثُمَّ أَتَى الْجُمُعَةَ فَصَلَّى مَا قُدِّرَ لَهُ... غُفِرَ لَهُ مَا بَيْنَهُ وَبَيْنَ الْجُمُعَةِ الْأُخْرَى». أَخْرَجَهُ مُسْلِمٌ.",
+      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Barangsiapa mandi pada hari Jum'at lalu menghadiri shalat Jum'at dan shalat sunnah semampunya... niscaya diampuni dosa-dosanya antara Jum'at itu hingga Jum'at berikutnya.' Dikeluarkan oleh Muslim."
     },
     {
-      "title": "Kitab Shalat - Bab Shalat Khauf (Dalam Ketakutan/Perang)",
-      "titleArabic": "كِتَابُ الصَّلَاةِ - بَابُ صَلَاةِ الْخَوْفِ",
-      "arabic": "وَعَنْ صَالِحِ بْنِ خَوَّاتٍ عَمَّنْ شَهِدَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَوْمَ ذَاتِ الرِّقَاعِ صَلَّى صَلَاةَ الْخَوْفِ: أَنَّ طَائِفَةً صَفَّتْ مَعَهُ، وَطَائِفَةً وِجَاهَ الْعَدُوِّ... مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Salih bin Khawwat dari orang yang menyaksikan Rasulullah shallallahu 'alaihi wa sallam pada perang Dzat ar-Riqa' melakukan shalat Khauf: Bahwa satu kelompok berbaris shalat bersama beliau, sementara satu kelompok lagi menghadap ke arah musuh... Muttafaq 'alaih."
+      "title": "Bab Shalat Khauf (Kondisi Takut/Perang)",
+      "titleArabic": "بَابُ صَلَاةِ الْخَوْفِ",
+      "arabic": "وَعَنْ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: صَلَّى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ صَلَاةَ الْخَوْفِ فِي بَعْضِ أَيَّامِهِ، فَقَامَتْ طَائِفَةٌ مَعَهُ وَطَائِفَةٌ إِزَاءَ الْعَدُوِّ... مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Ibn 'Umar radhiyallahu 'anhuma, ia berkata: Rasulullah shallallahu 'alaihi wa sallam melakukan shalat khauf pada salah satu harinya; satu kelompok berdiri shalat bersama beliau dan satu kelompok lagi menghadap musuh... Muttafaq 'alaih."
     },
     {
-      "title": "Kitab Shalat - Bab Shalat Dua Hari Raya ('Idain)",
-      "titleArabic": "كِتَابُ الصَّلَاةِ - بَابُ صَلَاةِ الْعِيدَيْنِ",
-      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «الْفِطْرُ يَوْمَ يُفْطِرُ النَّاسُ، وَالْأَضْحَى يَوْمَ يُضَحِّي النَّاسُ». أَخْرَجَهُ التِّرْمِذِيُّ.",
-      "translation": "Dari Aisyah radhiyallahu 'anha, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Hari Idul Fitri adalah hari orang-orang berbuka (mengakhiri puasa), dan Hari Idul Adha adalah hari orang-orang menyembelih hewan kurban.' Dikeluarkan oleh At-Tirmidzi."
+      "title": "Bab Shalat Dua Hari Raya (Idain)",
+      "titleArabic": "بَابُ صَلَاةِ الْعِيدَيْنِ",
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «الْفِطْرُ يَوْمَ تُفْطِرُونَ، وَالأَضْحَى يَوْمَ تُضَحُّونَ». أَخْرَجَهُ التِّرْمِذِيُّ.",
+      "translation": "Dari 'Aisyah radhiyallahu 'anha, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Idul Fitri adalah hari saat kalian berbuka, dan Idul Adha adalah hari saat kalian menyembelih kurban.' Dikeluarkan oleh At-Tirmidzi."
     },
     {
-      "title": "Kitab Shalat - Bab Shalat Kusuf (Gerhana)",
-      "titleArabic": "كِتَابُ الصَّلَاةِ - بَابُ صَلَاةِ الْكُسُوفِ",
-      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا أَنَّ الشَّمْسَ خَسَفَتْ فِي عَهْدِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، فَبَعَثَ مُنَادِيًا: «الصَّلَاةَ جَامِعَةً»، فَاجْتَمَعُوا وَتَقَدَّمَ فَكَبَّرَ، وَصَلَّى أَرْبَعَ رَكَعَاتٍ فِي رَكْعَتَيْنِ وَأَرْبَعَ سَجَدَاتٍ. مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Aisyah radhiyallahu 'anha bahwasanya matahari mengalami gerhana pada zaman Rasulullah shallallahu 'alaihi wa sallam, lalu beliau mengutus penyeru: 'Ash-Shalatu Jami'ah', maka mereka berkumpul dan beliau maju bertakbir, melakukan shalat empat kali ruku' dalam dua rakaat dan empat kali sujud. Muttafaq 'alaih."
+      "title": "Bab Shalat Gerhana (Kusuf)",
+      "titleArabic": "بَابُ صَلَاةِ الْكُسُوفِ",
+      "arabic": "وَعَنْ الْمُغِيرَةِ بْنِ شُعْبَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: انْكَسَفَتِ الشَّمْسُ عَلَى عَهْدِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَوْمَ مَاتَ إِبْرَاهِيمُ... فَقَالَ: «إِنَّ الشَّمْسَ وَالْقَمَرَ آيَتَانِ مِنْ آيَاتِ اللَّهِ...». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Al-Mughirah bin Syu'bah radhiyallahu 'anhu, ia berkata: Terjadi gerhana matahari pada zaman Rasulullah shallallahu 'alaihi wa sallam tepat hari wafatnya Ibrahim... Beliau bersabda: 'Sesungguhnya matahari dan bulan adalah dua tanda dari tanda-tanda kebesaran Allah...' Muttafaq 'alaih."
     },
     {
-      "title": "Kitab Shalat - Bab Istisqa' (Minta Hujan)",
-      "titleArabic": "كِتَابُ الصَّلَاةِ - بَابُ صَلَاةِ الْإِسْتِسْقَاءِ",
-      "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ زَيْدِ بْنِ عَاصِمٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: خَرَجَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَسْتَسْقِي، فَتَوَجَّهَ إِلَى الْقِبْلَةِ يَدْعُو، وَحَوَّلَ رِدَاءَهُ، ثُمَّ صَلَّى رَكْعَتَيْنِ جَهَرَ فِيهِمَا بِالْقِرَاءَةِ. مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Abdullah bin Zaid bin Asim radhiyallahu 'anhu, ia berkata: 'Nabi shallallahu 'alaihi wa sallam keluar untuk meminta hujan, lalu beliau menghadap kiblat berdoa, membalikkan selendangnya, kemudian shalat dua rakaat dengan menyaringkan bacaan padanya.' Muttafaq 'alaih."
+      "title": "Bab Shalat Istisqa (Meminta Hujan)",
+      "titleArabic": "بَابُ صَلَاةِ الْإِسْتِسْقَاءِ",
+      "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ زَيْدٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: خَرَجَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَسْتَسْقِي، فَتَوَجَّهَ إِلَى الْقِبْلَةِ يَدْعُو وَحَوَّلَ رِدَاءَهُ، ثُمَّ صَلَّى رَكْعَتَيْنِ. مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari 'Abdullah bin Zaid radhiyallahu 'anhu, ia berkata: Nabi shallallahu 'alaihi wa sallam keluar untuk meminta hujan; beliau menghadap kiblat sembari berdoa dan membalikkan selendangnya, kemudian shalat dua rakaat. Muttafaq 'alaih."
     },
     {
-      "title": "Kitab Shalat - Bab Pakaian Shalat",
-      "titleArabic": "كِتَابُ الصَّلَاةِ - بَابُ اللِّبَاسِ",
-      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَا أَسْفَلَ مِنَ الْكَعْبَيْنِ مِنَ الْإِزَارِ فَفِي النَّارِ». أَخْرَجَهُ الْبُخَارِيُّ.",
-      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Kain sarung yang berada di bawah kedua mata kaki (isbal) tempatnya di dalam neraka.' Dikeluarkan oleh Al-Bukhari."
+      "title": "Bab Pakaian",
+      "titleArabic": "بَابُ اللِّبَاسِ",
+      "arabic": "وَعَنْ أَبِي عَامِرٍ الْأَشْعَرِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَيَكُونَنَّ مِنْ أُمَّتِي أَقْوَامٌ يَسْتَحِلُّونَ الْحِرَ وَالْحَرِيرَ وَالْخَمْرَ وَالْمَعَازِفَ». أَخْرَجَهُ أَبُو دَاوُدَ وَأَصْلُهُ فِي الْبُخَارِيِّ.",
+      "translation": "Dari Abu 'Amir Al-Asy'ari radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Sungguh akan ada di antara umatku kelompok orang yang menghalalkan perzinahan, sutera (bagi laki-laki), khamar, dan alat-alat musik.' Dikeluarkan oleh Abu Dawud dan asalnya ada dalam Al-Bukhari."
     },
     {
       "title": "Kitab Jenazah",
       "titleArabic": "كِتَابُ الْجَنَائِزِ",
       "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «أَكْثِرُوا ذِكْرَ هَاذِمِ اللَّذَّاتِ: الْمَوْتِ». أَخْرَجَهُ التِّرْمِذِيُّ وَالنَّسَائِيُّ وَصَحَّحَهُ ابْنُ حِبَّانَ.",
-      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Perbanyaklah mengingat pemutus kenikmatan, yaitu kematian.' Dikeluarkan oleh At-Tirmidzi dan An-Nasa'i, dan disahihkan oleh Ibn Hibban."
+      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Perbanyaklah mengingat pemutus kenikmatan, yaitu kematian.' Dikeluarkan oleh At-Tirmidzi, An-Nasa'i, dan dishahihkan oleh Ibn Hibban."
     },
     {
       "title": "Kitab Zakat",
       "titleArabic": "كِتَابُ الزَّكَاةِ",
-      "arabic": "وَعَنْ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بَعَثَ مُعَاذًا رَضِيَ اللَّهُ عَنْهُ إِلَى الْيَمَنِ، فَقَالَ: «أَخْبِرْهُمْ أَنَّ اللَّهَ افْتَرَضَ عَلَيْهِمْ صَدَقَةً فِي أَمْوَالِهِمْ، تُؤْخَذُ مِنْ أَغْنِيَائِهِمْ وَتُرَدُّ عَلَى فُقَرَائِهِمْ». مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Ibn Abbas radhiyallahu 'anhuma bahwasanya Nabi shallallahu 'alaihi wa sallam mengutus Mu'adz radhiyallahu 'anhu ke Yaman, lalu beliau bersabda: 'Beritahukan kepada mereka bahwa Allah mewajibkan zakat atas harta mereka, yang diambil dari orang-orang kaya di antara mereka dan dikembalikan (diberikan) kepada orang-orang miskin di antara mereka.' Muttafaq 'alaih."
+      "arabic": "عَنْ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بَعَثَ مُعَاذًا رَضِيَ اللَّهُ عَنْهُ إِلَى الْيَمَنِ، فَقَالَ: «أَخْبِرْهُمْ أَنَّ اللَّهَ افْتَرَضَ عَلَيْهِمْ صَدَقَةً فِي أَمْوَالِهِمْ تُؤْخَذُ مِنْ أَغْنِيَائِهِمْ وَتُرَدُّ عَلَى فُقَرَائِهِمْ». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Ibn 'Abbas radhiyallahu 'anhuma, bahwa Nabi shallallahu 'alaihi wa sallam mengutus Mu'adz radhiyallahu 'anhu ke Yaman, lalu bersabda: 'Beritahukanlah kepada mereka bahwa Allah mewajibkan sedekah (zakat) pada harta mereka, yang diambil dari orang-orang kaya di antara mereka dan disalurkan kepada orang-orang miskin di antara mereka.' Muttafaq 'alaih."
     },
     {
-      "title": "Kitab Zakat - Bab Zakat Fitri",
-      "titleArabic": "كِتَابُ الزَّكَاةِ - بَابُ صَدَقَةِ الْفِطْرِ",
-      "arabic": "وَعَنْ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: «فَرَضَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ زَكَاةَ الْفِطْرِ صَاعًا مِنْ تَمْرٍ، أَوْ صَاعًا مِنْ شَعِيرٍ، عَلَى الْعَبْدِ وَالْحُرِّ، وَالذَّكَرِ وَالْأُنْثَى، وَالصَّغِيرِ وَالْكَبِيرِ مِنَ الْمُسْلِمِينَ». مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Ibn Umar radhiyallahu 'anhuma, ia berkata: 'Rasulullah shallallahu 'alaihi wa sallam mewajibkan zakat fitri sebanyak satu sha' kurma atau satu sha' gandum, atas hamba sahaya maupun orang merdeka, laki-laki maupun perempuan, anak kecil maupun orang dewasa dari kaum muslimin.' Muttafaq 'alaih."
+      "title": "Bab Zakat Fitrah",
+      "titleArabic": "بَابُ صَدَقَةِ الْفِطْرِ",
+      "arabic": "وَعَنْ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: «فَرَضَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ زَكَاةَ الْفِطْرِ صَاعًا مِنْ تَمْرٍ، أَوْ صَاعًا مِنْ شَعِيرٍ عَلَى الْعَبْدِ وَالْحُرِّ، وَالذَّكَرِ وَالْأُنْثَى...». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Ibn 'Umar radhiyallahu 'anhuma, ia berkata: 'Rasulullah shallallahu 'alaihi wa sallam mewajibkan zakat fitrah sebanyak satu sha' kurma atau satu sha' gandum atas hamba sahaya, orang merdeka, laki-laki, maupun perempuan...' Muttafaq 'alaih."
     },
     {
-      "title": "Kitab Puasa (Shiyam)",
+      "title": "Bab Sedekah Sunnah",
+      "titleArabic": "بَابُ صَدَقَةِ التَّطَوُّعِ",
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنْ تَصَدَّقَ بِعَدْلِ تَمْرَةٍ مِنْ كَسْبٍ طَيِّبٍ - وَلَا يَقْبَلُ اللَّهُ إِلَّا الطَّيِّبَ - فَإِنَّ اللَّهَ يَتَلَقَّاهَا بِيَمِينِهِ...». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Barangsiapa bersedekah senilai satu biji kurma dari usaha yang baik - dan Allah tidak menerima kecuali yang baik - maka sesungguhnya Allah menerima sedekah itu dengan tangan kanan-Nya...' Muttafaq 'alaih."
+    },
+    {
+      "title": "Bab Pembagian Zakat",
+      "titleArabic": "بَابُ قَسْمِ الصَّدَقَاتِ",
+      "arabic": "وَعَنْ زِيَادِ بْنِ الْحَارِثِ الصُّدَائِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِنَّ اللَّهَ لَمْ يَرْضَ بِحُكْمِ نَبِيٍّ وَلَا غَيْرِهِ فِي الصَّدَقَاتِ حَتَّى حَكَمَ فِيهَا هُوَ، فَجَزَّأَهَا ثَمَانِيَةَ أَجْزَاءٍ». أَخْرَجَهُ أَبُو دَاوُدَ.",
+      "translation": "Dari Ziyad bin Al-Harits As-Suda'i radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Sesungguhnya Allah tidak merelakan hukum seorang nabi maupun yang lainnya dalam pembagian zakat hingga Dia sendiri yang menetapkan hukumnya, maka Dia membaginya menjadi delapan golongan.' Dikeluarkan oleh Abu Dawud."
+    },
+    {
+      "title": "Kitab Puasa",
       "titleArabic": "كِتَابُ الصِّيَامِ",
-      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا تَقَدَّمُوا رَمَضَانَ بِصَوْمِ يَوْمٍ وَلَا يَوْمَيْنِ، إِلَّا رَجُلًا كَانَ يَصُومُ صَوْمًا فَلْيَصُمْهُ». مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Janganlah kalian mendahului Ramadhan dengan berpuasa sehari atau dua hari sebelumnya, kecuali seseorang yang memang biasa berpuasa sunnah (pada hari itu), maka hendaklah ia berpuasa.' Muttafaq 'alaih."
+      "arabic": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا تَقَدَّمُوا رَمَضَانَ بِصَوْمِ يَوْمٍ وَلَا يَوْمَيْنِ إِلَّا رَجُلٌ كَانَ يَصُومُ صَوْمًا فَلْيَصُمْهُ». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Janganlah kalian mendahului bulan Ramadan dengan berpuasa sehari atau dua hari sebelumnya, kecuali seseorang yang sudah biasa melakukan puasa tertentu, maka hendaknya ia berpuasa.' Muttafaq 'alaih."
     },
     {
-      "title": "Kitab Puasa - Bab Puasa Sunnah dan Puasa Dilarang",
-      "titleArabic": "كِتَابُ الصِّيَامِ - بَابُ صَوْمِ التَّطَوُّعِ وَمَا نُهِيَ عَنْ صَوْمِهِ",
-      "arabic": "وَعَنْ أَبِي قَتَادَةَ الْأَنْصَارِيِّ رَضِيَ اللَّهُ عَنْهُ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ سُئِلَ عَنْ صَوْمِ يَوْمِ عَرَفَةَ؟ فَقَالَ: «يُكَفِّرُ السَّنَةَ الْمَاضِيَةَ وَالْبَاقِيَةَ». أَخْرَجَهُ مُسْلِمٌ.",
-      "translation": "Dari Abu Qatadah al-Ansari radhiyallahu 'anhu bahwasanya Rasulullah shallallahu 'alaihi wa sallam ditanya tentang puasa hari Arafah? Maka beliau menjawab: 'Menghapuskan dosa tahun yang lalu dan tahun yang akan datang.' Dikeluarkan oleh Muslim."
+      "title": "Bab Puasa Sunnah dan Hari yang Dilarang Berpuasa",
+      "titleArabic": "بَابُ صِيَامِ التَّطَوُّعِ وَالنَّهْيِ عَنْ صَوْمِ أَيَّامٍ",
+      "arabic": "وَعَنْ أَبِي قَتَادَةَ الْأَنْصَارِيِّ رَضِيَ اللَّهُ عَنْهُ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ سُئِلَ عَنْ صَوْمِ يَوْمِ عَرَفَةَ فَقَالَ: «يُكَفِّرُ السَّنَةَ الْمَاضِيَةَ وَالْبَاقِيَةَ». أَخْرَجَهُ مُسْلِمٌ.",
+      "translation": "Dari Abu Qatadah Al-Anshari radhiyallahu 'anhu, bahwa Rasulullah shallallahu 'alaihi wa sallam ditanya tentang puasa hari Arafah, maka beliau bersabda: 'Puasa itu menghapus dosa tahun yang lalu dan tahun yang akan datang.' Dikeluarkan oleh Muslim."
     },
     {
-      "title": "Kitab Puasa - Bab I'tikaf dan Lailatul Qadr",
-      "titleArabic": "كِتَابُ الصِّيَامِ - بَابُ الْإِعْتِكَافِ وَقِيَامِ رَمَضَانَ",
-      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا دَخَلَ الْعَشْرُ شَدَّ مِئْزَرَهُ، وَأَحْيَا لَيْلَهُ، وَأَيْقَظَ أَهْلَهُ. مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Aisyah radhiyallahu 'anha, ia berkata: Rasulullah shallallahu 'alaihi wa sallam apabila memasuki sepuluh hari terakhir (Ramadhan), beliau mengencangkan sarungnya (bersungguh-sungguh/menjauhi istri), menghidupkan malamnya, dan membangunkan keluarganya. Muttafaq 'alaih."
+      "title": "Bab I'tikaf dan Shalat Malam Ramadan",
+      "titleArabic": "بَابُ الْاعْتِكَافِ وَقِيَامِ رَمَضَانَ",
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: «كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا دَخَلَ الْعَشْرُ شَدَّ مِئْزَرَهُ، وَأَحْيَا لَيْلَهُ، وَأَيْقَظَ أَهْلَهُ». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari 'Aisyah radhiyallahu 'anha, ia berkata: 'Rasulullah shallallahu 'alaihi wa sallam apabila memasuki sepuluh hari terakhir (bulan Ramadan), beliau mengencangkan sarungnya (menjauhi istri), menghidupkan malamnya, dan membangunkan keluarganya.' Muttafaq 'alaih."
     },
     {
-      "title": "Kitab Haji",
-      "titleArabic": "كِتَابُ الْحَجِّ",
-      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: خَطَبَنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: «إِنَّ اللَّهَ كَتَبَ عَلَيْكُمُ الْحَجَّ فَحُجُّوا»، فَقَالَ رَجُلٌ: أَكُلَّ عَامٍ يَا رَسُولَ اللَّهِ؟ فَسَكَتَ حَتَّى قَالَهَا ثَلَاثًا، ثُمَّ قَالَ: «لَوْ قُلْتُ: نَعَمْ لَوَجَبَتْ، وَلَمَا اسْتَطَعْتُمْ». أَخْرَجَهُ مُسْلِمٌ.",
-      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam berkhotbah di hadapan kami seraya bersabda: 'Wahai manusia, sesungguhnya Allah telah mewajibkan haji atas kalian, maka berhajilah.' Lalu seorang laki-laki bertanya: 'Apakah setiap tahun, wahai Rasulullah?' Beliau diam hingga orang itu mengulanginya tiga kali, lalu beliau bersabda: 'Seandainya aku katakan 'ya', niscaya akan menjadi wajib dan kalian tidak akan sanggup.' Dikeluarkan oleh Muslim."
+      "title": "Kitab Haji - Kewajiban dan Keutamaannya",
+      "titleArabic": "كِتَابُ الْحَجِّ - بَابُ وُجُوبِهِ وَفَضْلِهِ",
+      "arabic": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: خَطَبَنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: «إِنَّ اللَّهَ فَرَضَ عَلَيْكُمُ الْحَجَّ فَحُجُّوا». أَخْرَجَهُ مُسْلِمٌ.",
+      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam berkhutbah kepada kami seraya bersabda: 'Sesungguhnya Allah telah mewajibkan haji atas kalian, maka berhajilah.' Dikeluarkan oleh Muslim."
     },
     {
-      "title": "Kitab Haji - Bab Miqat",
-      "titleArabic": "كِتَابُ الْحَجِّ - بَابُ الْمَوَاقِيتِ",
-      "arabic": "وَعَنْ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَقَّتَ لِأَهْلِ الْمَدِينَةِ ذَا الْحُلَيْفَةِ، وَلِأَهْلِ الشَّامِ الْجُحْفَةَ، وَلِأَهْلِ نَجْدٍ قَرْنَ الْمَنَازِلِ، وَلِأَهْلِ الْيَمَنِ يَلَمْلَمَ... مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Ibn Abbas radhiyallahu 'anhuma bahwasanya Nabi shallallahu 'alaihi wa sallam menetapkan miqat bagi penduduk Madinah di Dzul Hulaifah, bagi penduduk Syam di Al-Juhfah, bagi penduduk Najd di Qarn al-Manazil, dan bagi penduduk Yaman di Yalamlam... Muttafaq 'alaih."
+      "title": "Bab Miqat-miqat Haji",
+      "titleArabic": "بَابُ الْمَوَاقِيتِ",
+      "arabic": "وَعَنْ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَقَّتَ لِأَهْلِ الْمَدِينَةِ ذَا الْحُلَيْفَةِ، وَلِأَهْلِ الشَّامِ الْجُحْفَةَ... مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Ibn 'Abbas radhiyallahu 'anhuma, bahwa Nabi shallallahu 'alaihi wa sallam menetapkan miqat bagi penduduk Madinah di Dzul Hulaifah, bagi penduduk Syam di Al-Juhfah... Muttafaq 'alaih."
+    },
+    {
+      "title": "Bab Ihram dan Hal-hal Terkait",
+      "titleArabic": "بَابُ الْإِحْرَامِ وَمَا يَتَعَلَّقُ بِهِ",
+      "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: سُئِلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَا يَلْبَسُ الْمُحْرِمُ مِنَ الثِّيَابِ؟ فَقَالَ: «لَا يَلْبَسُ الْقُمُصَ وَلَا الْعَمَائِمَ...». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari 'Abdullah bin 'Umar radhiyallahu 'anhuma, ia berkata: Rasulullah shallallahu 'alaihi wa sallam ditanya tentang pakaian apa yang boleh dikenakan oleh orang yang ihram? Beliau menjawab: 'Orang ihram tidak boleh memakai kemeja, serban...'. Muttafaq 'alaih."
+    },
+    {
+      "title": "Bab Tata Cara Haji dan Masuk Kota Makkah",
+      "titleArabic": "بَابُ صِفَةِ الْحَجِّ وَدُخُولِ مَكَّةَ",
+      "arabic": "وَعَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا فِي صِفَةِ حَجَّةِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «فَبَدَأَ بِالصَّفَا فَرَقِيَ عَلَيْهِ حَتَّى رَأَى الْبَيْتَ فَاسْتَقْبَلَ الْقِبْلَةَ فَوَحَّدَ اللَّهَ وَكَبَّرَهُ...». أَخْرَجَهُ مُسْلِمٌ طَوِيلًا.",
+      "translation": "Dari Jabir bin 'Abdullah radhiyallahu 'anhuma mengenai sifat haji Nabi shallallahu 'alaihi wa sallam, ia berkata: 'Beliau memulai dari bukit Shafa lalu naik ke atasnya hingga melihat Ka'bah, kemudian menghadap kiblat lalu mengagungkan dan bertakbir kepada Allah...'. Dikeluarkan oleh Muslim secara panjang."
+    },
+    {
+      "title": "Bab Terluput (Fawat) dan Terhalang (Ihsar)",
+      "titleArabic": "بَابُ الْفَوَاتِ وَالْإِحْصَارِ",
+      "arabic": "وَعَنْ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: خَرَجْنَا مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مُعْتَمِرِينَ، فَحَالَ كُفَّارُ قُرَيْشٍ دُونَ الْبَيْتِ، فَنَحَرَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ هَدْيَهُ وَحَلَقَ رَأْسَهُ. مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Ibn 'Umar radhiyallahu 'anhuma, ia berkata: Kami keluar bersama Rasulullah shallallahu 'alaihi wa sallam untuk berumrah, namun orang-orang kafir Quraisy menghalangi kami dari Ka'bah, maka Rasulullah shallallahu 'alaihi wa sallam menyembelih hewan kurbannya dan mencukur rambutnya. Muttafaq 'alaih."
     },
     {
       "title": "Kitab Jual Beli (Buyu')",
-      "titleArabic": "كِتَابُ الْبُيُوعِ",
-      "arabic": "وَعَنْ رِفَاعَةَ بْنِ رَافِعٍ رَضِيَ اللَّهُ عَنْهُ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ سُئِلَ: أَيُّ الْكَسْبِ أَطْيَبُ؟ قَالَ: «عَمَلُ الرَّجُلِ بِيَدِهِ، وَكُلُّ بَيْعٍ مَبْرُورٍ». أَخْرَجَهُ الْبَزَّارُ وَصَحَّحَهُ الْحَاكِمُ.",
-      "translation": "Dari Rifa'ah bin Rafi' radhiyallahu 'anhu bahwasanya Nabi shallallahu 'alaihi wa sallam ditanya: 'Pekerjaan/penghasilan apakah yang paling baik?' Beliau menjawab: 'Pekerjaan seseorang dengan tangannya sendiri dan setiap jual beli yang mabrur (bersih dari penipuan).' Dikeluarkan oleh Al-Bazzar dan disahihkan oleh Al-Hakim."
+      "titleArabic": "كِتَابُ الْبُيُوعِ - بَابُ شُرُوطِهِ وَمَا يُنْهَى عَنْهُ",
+      "arabic": "عَنْ رِفَاعَةَ بْنِ رَافِعٍ رَضِيَ اللَّهُ عَنْهُ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ سُئِلَ: أَيُّ الْكَسْبِ أَطْيَبُ؟ قَالَ: «عَمَلُ الرَّجُلِ بِيَدِهِ، وَكُلُّ بَيْعٍ مَبْرُورٍ». أَخْرَجَهُ الْبَزَّارُ وَصَحَّحَهُ الْحَاكِمُ.",
+      "translation": "Dari Rifa'ah bin Rafi' radhiyallahu 'anhu, bahwa Nabi shallallahu 'alaihi wa sallam ditanya: Pekerjaan/usaha apakah yang paling baik? Beliau menjawab: 'Pekerjaan seseorang dengan tangannya sendiri, dan setiap jual beli yang mabrur (bersih dari penipuan dan keharaman).' Dikeluarkan oleh Al-Bazzar dan dishahihkan oleh Al-Hakim."
     },
     {
-      "title": "Kitab Jual Beli - Bab Riba",
-      "titleArabic": "كِتَابُ الْبُيُوعِ - بَابُ الرِّبَا",
-      "arabic": "وَعَنْ جَابِرٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: «لَعَنَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ آكِلَ الرِّبَا، وَمُؤْكِلَهُ، وَكَاتِبَهُ، وَشَاهِدَيْهِ»، وَقَالَ: «هُمْ سَوَاءٌ». أَخْرَجَهُ مُسْلِمٌ.",
-      "translation": "Dari Jabir radhiyallahu 'anhu, ia berkata: 'Rasulullah shallallahu 'alaihi wa sallam melaknat pemakan riba, pemberi riba, penulisnya, dan dua saksinya.' Dan beliau bersabda: 'Mereka semua sama (dalam dosa).' Dikeluarkan oleh Muslim."
+      "title": "Bab Khiyar (Hak Memilih dalam Jual Beli)",
+      "titleArabic": "بَابُ الْخِيَارِ",
+      "arabic": "وَعَنْ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ قَالَ: «إِذَا تَبَايَعَ الرَّجُلَانِ فَكُلُّ وَاحِدٍ مِنْهُمَا بِالْخِيَارِ مَا لَمْ يَتَفَرَّقَا...». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Ibn 'Umar radhiyallahu 'anhuma, dari Rasulullah shallallahu 'alaihi wa sallam beliau bersabda: 'Apabila dua orang melakukan jual beli, maka masing-masing dari keduanya memiliki hak khiyar (memilih melanjutkan atau membatalkan) selama keduanya belum berpisah...' Muttafaq 'alaih."
     },
     {
-      "title": "Kitab Jual Beli - Bab Khiyar (Hak Pilih)",
-      "titleArabic": "كِتَابُ الْبُيُوعِ - بَابُ الْخِيَارِ",
-      "arabic": "وَعَنْ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ قَالَ: «إِذَا تَبَايَعَ الرَّجُلَانِ فَكُلُّ وَاحِدٍ مِنْهُمَا بِالْخِيَارِ مَا لَمْ يَتَفَرَّقَا وَكَانَا جَمِيعًا...». مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Ibn Umar radhiyallahu 'anhuma dari Rasulullah shallallahu 'alaihi wa sallam bahwasanya beliau bersabda: 'Apabila dua orang melakukan jual beli, maka masing-masing memiliki hak pilih (khiyar) selama keduanya belum berpisah dan masih bersama...' Muttafaq 'alaih."
+      "title": "Bab Riba",
+      "titleArabic": "بَابُ الرِّبَا",
+      "arabic": "وَعَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ رَضِيَ اللَّهُ عَنْهُ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَا تَبِيعُوا الذَّهَبَ بِالذَّهَبِ إِلَّا مِثْلًا بِمِثْلٍ... وَالْفِضَّةَ بِالْفِضَّةِ إِلَّا مِثْلًا بِمِثْلٍ...». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Abu Sa'id Al-Khudri radhiyallahu 'anhu, bahwa Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Janganlah kalian menjual emas dengan emas kecuali sama nilainya/timbangannya... dan jangan menjual perak dengan perak kecuali sama nilainya...' Muttafaq 'alaih."
     },
     {
-      "title": "Kitab Gadai (Rahn)",
-      "titleArabic": "كِتَابُ الْبُيُوعِ - بَابُ الرَّهْنِ",
-      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: «اشْتَرَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنْ يَهُودِيٍّ طَعَامًا إِلَى أَجَلٍ، وَرَهَنَهُ دِرْعًا مِنْ حَدِيدٍ». مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Aisyah radhiyallahu 'anha, ia berkata: 'Rasulullah shallallahu 'alaihi wa sallam membeli makanan dari seorang yahudi secara tempo/kredit, dan beliau menggadaikan baju besi darinya.' Muttafaq 'alaih."
+      "title": "Bab Gadai (Rahn)",
+      "titleArabic": "بَابُ الرَّهْنِ",
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ اشْتَرَى مِنْ يَهُودِيٍّ طَعَامًا إِلَى أَجَلٍ وَرَهَنَهُ دِرْعًا مِنْ حَدِيدٍ. مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari 'Aisyah radhiyallahu 'anha, bahwa Nabi shallallahu 'alaihi wa sallam membeli makanan dari seorang Yahudi secara tempo (kredit) dan menggadaikan baju besinya kepada orang Yahudi tersebut. Muttafaq 'alaih."
     },
     {
-      "title": "Kitab Perikatan & Jaminan (Dhaman wa Kafalah)",
-      "titleArabic": "كِتَابُ الْبُيُوعِ - بَابُ الضَّمَانِ وَالْكَفَالَةِ",
-      "arabic": "وَعَنْ أَبِي أُمَامَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «الْعَارِيَةُ مُؤَدَّاةٌ، وَالزَّعِيمُ غَارِمٌ». أَخْرَجَهُ الْأَرْبَعَةُ إِلا النَّسَائِيَّ وَصَحَّحَهُ التِّرْمِذِيُّ.",
-      "translation": "Dari Abu Umamah radhiyallahu 'anhu, ia berkata: Aku mendengar Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Barang pinjaman harus dikembalikan, dan penjamin (za'im) bertanggung jawab mengganti.' Dikeluarkan oleh empat imam hadits kecuali An-Nasa'i dan disahihkan oleh At-Tirmidzi."
+      "title": "Bab Pembatasan Hak (Hajr) dan Kepailitan (Iflas)",
+      "titleArabic": "بَابُ الْحَجْرِ وَالْإِفْلَاسِ",
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنْ أَدْرَكَ مَالَهُ بِعَيْنِهِ عِنْدَ رَجُلٍ قَدْ أَفْلَسَ فَهُوَ أَحَقُّ بِهِ مِنْ غَيْرِهِ». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Barangsiapa menemukan hartanya secara utuh pada seseorang yang bangkrut, maka ia lebih berhak atas harta itu daripada kreditor lainnya.' Muttafaq 'alaih."
     },
     {
-      "title": "Kitab Perwakafan (Waqf)",
-      "titleArabic": "كِتَابُ الْبُيُوعِ - بَابُ الْوَقْفِ",
-      "arabic": "وَعَنْ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا أَنَّ عُمَرَ بْنَ الْخَطَّابِ أَصَابَ أَرْضًا بِخَيْبَرَ، فَأَتَى النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَسْتَأْمِرُهُ فِيهَا... فَقَالَ: «إِنْ شِئْتَ حَبَسْتَ أَصْلَهَا وَتَصَدَّقْتَ بِهَا». مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Ibn Umar radhiyallahu 'anhuma bahwasanya Umar bin al-Khaththab memperoleh sebidang tanah di Khaibar, lalu ia mendatangi Nabi shallallahu 'alaihi wa sallam untuk meminta petunjuk... Beliau bersabda: 'Jika engkau mau, tahanlah pokoknya (wakafkan) dan sedekahkanlah hasil/manfaatnya.' Muttafaq 'alaih."
+      "title": "Bab Perdamaian (Sulh) dan Tetangga (Jawar)",
+      "titleArabic": "بَابُ الصُّلْحِ وَالْجَوَارِ",
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا يَمْنَعْ جَارٌ جَارَهُ أَنْ يَغْرِزَ خَشَبَهُ فِي جِدَارِهِ». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Janganlah seorang tetangga melarang tetangganya untuk menancapkan kayu pada dindingnya.' Muttafaq 'alaih."
     },
     {
-      "title": "Kitab Hibah, Hadiah, dan Wasiat",
-      "titleArabic": "كِتَابُ الْهِبَةِ وَالْعَطِيَّةِ وَالْوَصِيَّةِ",
-      "arabic": "وَعَنْ النُّعْمَانِ بْنِ بَشِيرٍ رَضِيَ اللَّهُ عَنْهُمَا أَنَّ أَبَاهُ أَتَى بِهِ إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: إِنِّي نَحَلْتُ ابْنِي هَذَا غُلَامًا، فَقَالَ: «أَكُلَّ وَلَدِكَ نَحَلْتَ مِثْلَهُ؟»، قَالَ: لَا، قَالَ: «فَارْجِعْهُ». مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari An-Nu'man bin Basyir radhiyallahu 'anhuma bahwasanya ayahnya membawanya menghadap Rasulullah shallallahu 'alaihi wa sallam seraya berkata: 'Aku telah memberi anakku ini seorang hamba sahaya.' Beliau bersabda: 'Apakah semua anakmu engkau beri pemberian seperti ini?' Ia menjawab: 'Tidak.' Beliau bersabda: 'Maka tariklah kembali pemberian itu.' Muttafaq 'alaih."
+      "title": "Bab Pengalihan Utang (Hawalah) dan Jaminan (Dhaman)",
+      "titleArabic": "بَابُ الْحَوَالَةِ وَالضَّمَانِ",
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَطْلُ الْغَنِيِّ ظُلْمٌ، وَإِذَا أُتْبِعَ أَحَدُكُمْ عَلَى مَلِيٍّ فَلْيَتْبَعْ». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, bahwa Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Menunda pembayar utang bagi orang yang mampu adalah kezaliman. Dan apabila pembayaran utang salah seorang dari kalian dialihkan kepada orang yang mampu, hendaknya ia menerimanya.' Muttafaq 'alaih."
     },
     {
-      "title": "Kitab Mungatan / Barang Temuan (Luqathah)",
-      "titleArabic": "كِتَابُ اللَُّقَطَةِ",
-      "arabic": "وَعَنْ زَيْدِ بْنِ خَالِدٍ الْجُهَنِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: سُئِلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنِ اللُّقَطَةِ؟ فَقَالَ: «عَرِّفْهَا سَنَةً، ثُمَّ اعْرِفْ وِكَاءَهَا وَعِفَاصَهَا، ثُمَّ اسْتَنْفِقْ بِهَا...». مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Zaid bin Khalid al-Juhani radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam ditanya tentang barang temuan (luqathah)? Beliau menjawab: 'Umumkanlah barang itu selama satu tahun, lalu kenalilah tali pengikatnya dan wadahnya, kemudian manfaatkanlah...' Muttafaq 'alaih."
+      "title": "Bab Perserikatan (Syarikah) dan Perwakilan (Wakalah)",
+      "titleArabic": "بَابُ الشَّرِكَةِ وَالْوَكَالَةِ",
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِنَّ اللَّهَ يَقُولُ: أَنَا ثَالِثُ الشَّرِيكَيْنِ مَا لَمْ يَخُنْ أَحَدُهُمَا صَاحِبَهُ...». أَخْرَجَهُ أَبُو دَاوُدَ وَصَحَّحَهُ الْحَاكِمُ.",
+      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Sesungguhnya Allah berfirman: Aku adalah pihak ketiga dari dua orang yang berserikat selama salah seorang di antara mereka tidak mengkhianati temannya...' Dikeluarkan oleh Abu Dawud dan dishahihkan oleh Al-Hakim."
     },
     {
-      "title": "Kitab Waris (Fara'idh)",
-      "titleArabic": "كِتَابُ الْفَرَائِضِ",
-      "arabic": "وَعَنْ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «أَلْحِقُوا الْفَرَائِضَ بِأَهْلِهَا، فَمَا بَقِيَ فَهُوَ لِأَوْلَى رَجُلٍ ذَكَرٍ». مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Ibn Abbas radhiyallahu 'anhuma, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Bagikanlah harta warisan kepada ahli waris yang berhak, dan sisanya adalah untuk laki-laki yang paling dekat kekerabatannya.' Muttafaq 'alaih."
+      "title": "Bab Pengakuan (Iqrar)",
+      "titleArabic": "بَابُ الْإِقْرَارِ",
+      "arabic": "وَعَنْ أَبِي ذَرٍّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ لِيَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «قُلِ الْحَقَّ وَلَوْ كَانَ مُرًّا». أَخْرَجَهُ ابْنُ حِبَّانَ فِي حَدِيثٍ طَوِيلٍ.",
+      "translation": "Dari Abu Dharr radhiyallahu 'anhu, ia berkata: Nabi shallallahu 'alaihi wa sallam bersabda kepadaku: 'Katakanlah kebenaran itu walaupun pahit.' Dikeluarkan oleh Ibn Hibban dalam hadits yang panjang."
+    },
+    {
+      "title": "Bab Pinjam Meminjam ('Ariyah)",
+      "titleArabic": "بَابُ الْعَارِيَّةِ",
+      "arabic": "وَعَنْ سَمُرَةَ بْنِ جُنْدُبٍ رَضِيَ اللَّهُ عَنْهُ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «عَلَى الْيَدِ مَا أَخَذَتْ حَتَّى تُؤَدِّيَهُ». أَخْرَجَهُ الْأَرْبَعَةُ وَصَحَّحَهُ الْحَاكِمُ.",
+      "translation": "Dari Samurah bin Jundub radhiyallahu 'anhu, dari Nabi shallallahu 'alaihi wa sallam beliau bersabda: 'Tangan (orang yang mengambil barang) bertanggung jawab atas apa yang diambilnya hingga ia mengembalikannya.' Dikeluarkan oleh Empat Imam dan dishahihkan oleh Al-Hakim."
+    },
+    {
+      "title": "Bab Merampas/Penguasaan Tanpa Hak (Ghasb)",
+      "titleArabic": "بَابُ الْغَصْبِ",
+      "arabic": "وَعَنْ سَعِيدِ بْنِ زَيْدٍ رَضِيَ اللَّهُ عَنْهُ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنْ ظَلَمَ قِيدَ شِبْرٍ مِنَ الْأَرْضِ طُوِّقَهُ مِنْ سَبْعِ أَرَضِينَ». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Sa'id bin Zaid radhiyallahu 'anhu, bahwa Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Barangsiapa menguasai tanah secara zalim walaupun hanya sejengkal, niscaya tanah itu akan dikalungkan di lehernya hingga tujuh lapis bumi.' Muttafaq 'alaih."
+    },
+    {
+      "title": "Bab Hak Membeli Terlebih Dahulu (Syuf'ah)",
+      "titleArabic": "بَابُ الشُّفْعَةِ",
+      "arabic": "وَعَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: «قَضَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِالشُّفْعَةِ فِي كُلِّ مَا لَمْ يُقْسَمْ...». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Jabir bin 'Abdullah radhiyallahu 'anhuma, ia berkata: 'Rasulullah shallallahu 'alaihi wa sallam menetapkan hak syuf'ah (membeli terlebih dahulu) pada setiap harta/tanah perserikatan yang belum dibagi...' Muttafaq 'alaih."
+    },
+    {
+      "title": "Bab Bagi Hasil (Qiradh) dan Pengolahan Lahan (Musaqah)",
+      "titleArabic": "بَابُ الْقِرَاضِ وَالْمُسَاقَاةِ",
+      "arabic": "وَعَنْ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا «أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَامَلَ أَهْلَ خَيْبَرَ بِشَطْرِ مَا يَخْرُجُ مِنْهَا مِنْ ثَمَرٍ أَوْ زَرْعٍ». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Ibn 'Umar radhiyallahu 'anhuma: 'Bahwa Nabi shallallahu 'alaihi wa sallam mempekerjakan penduduk Khaibar dengan imbalan separuh dari hasil tanaman atau buah-buahan yang keluar darinya.' Muttafaq 'alaih."
+    },
+    {
+      "title": "Bab Sewا-Menyewa (Ijarah)",
+      "titleArabic": "بَابُ الْإِجَارَةِ",
+      "arabic": "وَعَنْ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «أَعْطُوا الْأَجِيرَ أَجْرَهُ قَبْلَ أَنْ يَجِفَّ عَرَقُهُ». أَخْرَجَهُ ابْنُ مَاجَهْ.",
+      "translation": "Dari Ibn 'Umar radhiyallahu 'anhuma, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Berikanlah upah kepada pekerja sebelum kering keringatnya.' Dikeluarkan oleh Ibn Majah."
+    },
+    {
+      "title": "Bab Membuka Lahan Mati (Ihya' al-Mawat)",
+      "titleArabic": "بَابُ إِحْيَاءِ الْمَوَاتِ",
+      "arabic": "وَعَنْ عُرْوَةَ بْنِ الزُّبَيْرِ عَنْ سَعِيدِ بْنِ زَيْدٍ رَضِيَ اللَّهُ عَنْهُ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنْ أَحْيَا أَرْضًا مَيِّتَةً فَهِيَ لَهُ». أَخْرَجَهُ أَبُو دَاوُدَ وَالنَّسَائِيُّ.",
+      "translation": "Dari Urwah bin Az-Zubair, dari Sa'id bin Zaid radhiyallahu 'anhu, dari Nabi shallallahu 'alaihi wa sallam beliau bersabda: 'Barangsiapa yang menghidupkan (mengolah) tanah mati (yang belum tak terurus), maka tanah itu menjadi miliknya.' Dikeluarkan oleh Abu Dawud dan An-Nasa'i."
+    },
+    {
+      "title": "Bab Wakaf",
+      "titleArabic": "بَابُ الْوَقْفِ",
+      "arabic": "وَعَنْ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا «أَنَّ عُمَرَ أَصَابَ أَرْضًا بِخَيْبَرَ... فَقَالَ لَهُ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: إنْ شِئْتَ حَبَسْتَ أَصْلَهَا وَتَصَدَّقْتَ بِهَا». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Ibn 'Umar radhiyallahu 'anhuma: 'Bahwa Umar memperoleh sebidang tanah di Khaibar... lalu Nabi shallallahu 'alaihi wa sallam bersabda kepadanya: Jika engkau mau, tahanlah pokok barangnya (wakafkan) dan sedekahkanlah hasil/manfaatnya.' Muttafaq 'alaih."
+    },
+    {
+      "title": "Bab Hibah dan Pemberian ('Atiyyah)",
+      "titleArabic": "بَابُ الْهِبَةِ وَالْعَطِيَّةِ",
+      "arabic": "وَعَنْ النُّعْمَانِ بْنِ بَشِيرٍ رَضِيَ اللَّهُ عَنْهُمَا أَنَّ أَبَاهُ أَتَى بِهِ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: «إِنِّي نَحَلْتُ ابْنِي هَذَا غُلَامًا... فَقَالَ: أَلَكَ بَنُونَ سِوَاهُ؟ قَالَ: نَعَمْ. قَالَ: فَاتَّقُوا اللَّهَ وَاعْدِلُوا بَيْنَ أَوْلَادِكُمْ». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari An-Nu'man bin Basyir radhiyallahu 'anhuma, bahwa ayahnya membawanya menghadap Rasulullah shallallahu 'alaihi wa sallam lalu berkata: Sesungguhnya aku memberi anakku ini seorang hamba sahaya... Beliau bersabda: 'Apakah engkau memiliki anak selain dirinya?' Ayahnya menjawab: Ya. Beliau bersabda: 'Bertaqwalah kepada Allah dan berlakulah adil di antara anak-anakmu.' Muttafaq 'alaih."
+    },
+    {
+      "title": "Bab Barang Temuan (Luqatah)",
+      "titleArabic": "بَابُ اللُّقَطَةِ",
+      "arabic": "وَعَنْ زَيْدِ بْنِ خَالِدٍ الْجُهَنِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: سُئِلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنِ اللُّقَطَةِ فَقَالَ: «اعْرِفْ عِفَاصَهَا وَوِكَاءَهَا ثُمَّ عَرِّفْهَا سَنَةً...». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Zaid bin Khalid Al-Juhani radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam ditanya mengenai barang temuan, lalu beliau bersabda: 'Kenalilah wadah dan tali pengikatnya, kemudian umumkanlah selama satu tahun...' Muttafaq 'alaih."
+    },
+    {
+      "title": "Bab Pembagian Waris (Fara'idh)",
+      "titleArabic": "بَابُ الْفَرَائِضِ",
+      "arabic": "عَنْ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «أَلْحِقُوا الْفَرَائِضَ بِأَهْلِهَا، فَمَا بَقِيَ فَهُوَ لِأَوْلَى رَجُلٍ ذَكَرٍ». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Ibn 'Abbas radhiyallahu 'anhuma, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Bagikanlah bagian-bagian waris terperinci kepada yang berhak, lalu sisanya adalah untuk kerabat laki-laki yang paling dekat jalurnya.' Muttafaq 'alaih."
+    },
+    {
+      "title": "Bab Wasiat (Washaya)",
+      "titleArabic": "بَابُ الْوَصَايَا",
+      "arabic": "وَعَنْ سَعْدِ بْنِ أَبِي وَقَّاصٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قُلْتُ: يَا رَسُولَ اللَّهِ، أُوصِي بِمَالِي كُلِّهِ؟ قَالَ: «لَا»، قُلْتُ: فَبِالشَّطْرِ؟ قَالَ: «لَا»، قُلْتُ: فَبِالثُّلُثِ؟ قَالَ: «الثُّلُثُ، وَالثُّلُثُ كَثِيرٌ...». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Sa'ad bin Abi Waqqas radhiyallahu 'anhu, ia berkata: Aku bertanya: Ya Rasulullah, bolehkah aku mewasiatkan seluruh hartaku? Beliau menjawab: 'Tidak.' Aku bertanya: Bagaimana kalau separuhnya? Beliau menjawab: 'Tidak.' Aku bertanya: Sepertiganya? Beliau menjawab: 'Sepertiga, dan sepertiga itu sudah banyak...' Muttafaq 'alaih."
+    },
+    {
+      "title": "Bab Barang Titipan (Wadi'ah)",
+      "titleArabic": "بَابُ الْوَدِيعَةِ",
+      "arabic": "وَعَنْ عَمْرِو بْنِ شُعَيْبٍ عَنْ أَبِيهِ عَنْ جَدِّهِ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنْ أُودِعَ وَدِيعَةً فَلَا ضَمَانَ عَلَيْهِ». أَخْرَجَهُ ابْنُ مَاجَهْ.",
+      "translation": "Dari 'Amr bin Syu'aib, dari ayahnya, dari kakeknya, dari Nabi shallallahu 'alaihi wa sallam beliau bersabda: 'Barangsiapa disatukan barang titipan padanya, maka tidak ada ganti rugi atasnya (jika barang rusak bukan karena kelalaiannya).' Dikeluarkan oleh Ibn Majah."
     },
     {
       "title": "Kitab Nikah",
       "titleArabic": "كِتَابُ النِّكَاحِ",
-      "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ لَنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «يَا مَعْشَرَ الشَّبَابِ، مَنِ اسْتَطَاعَ مِنْكُمُ الْبَاءَةَ فَلْيَتَزَوَّجْ، فَإِنَّهُ أَغَضُّ لِلْبَصَرِ وَأَحْصَنُ لِلْفَرْجِ...». مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Abdullah bin Mas'ud radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda kepada kami: 'Wahai para pemuda, barangsiapa di antara kalian yang telah mampu menikah, maka menikahlah! Karena nikah itu lebih menundukkan pandangan dan lebih menjaga kemaluan...' Muttafaq 'alaih."
+      "arabic": "عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ لَنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «يَا مَعْشَرَ الشَّبَابِ، مَنِ اسْتَطَاعَ مِنْكُمُ الْبَاءَةَ فَلْيَتَزَوَّجْ، فَإِنَّهُ أَغَضُّ لِلْبَصَرِ وَأَحْصَنُ لِلْفَرْجِ...». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari 'Abdullah bin Mas'ud radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda kepada kami: 'Wahai para pemuda, barangsiapa di antara kalian yang telah memiliki kemampuan, maka hendaklah ia menikah, karena pernikahan itu lebih menundukkan pandangan dan lebih menjaga kehormatan...' Muttafaq 'alaih."
     },
     {
-      "title": "Kitab Nikah - Bab Kafa'ah dan Hak Pilih dalam Nikah",
-      "titleArabic": "كِتَابُ النِّكَاحِ - بَابُ الْكَفَاءَةِ وَالْخِيَارِ",
+      "title": "Bab Kesepadanan (Kafa'ah) dan Hak Pilih (Khiyar)",
+      "titleArabic": "بَابُ الْكَفَاءَةِ وَالْخِيَارِ",
       "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «تُنْكَحُ الْمَرْأَةُ لِأَرْبَعٍ: لِمَالِهَا، وَلِحَسَبِهَا، وَلِجَمَالِهَا، وَلِدِينِهَا، فَاظْفَرْ بِذَاتِ الدِّينِ تَرِبَتْ يَدَاكَ». مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Abu Hurairah radhiyallahu 'anhu dari Nabi shallallahu 'alaihi wa sallam, beliau bersabda: 'Wanita dinikahi karena empat hal: karena hartanya, keturunannya, kecantikannya, dan agamanya. Maka utamakanlah memilih wanita yang taat beragama, niscaya engkau beruntung.' Muttafaq 'alaih."
+      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, dari Nabi shallallahu 'alaihi wa sallam beliau bersabda: 'Wanita itu dinikahi karena empat perkara: karena hartanya, keturunannya, kecantikannya, dan agamanya. Maka pilihlah wanita yang taat beragama niscaya engkau beruntung.' Muttafaq 'alaih."
     },
     {
-      "title": "Kitab Nikah - Bab Maskawin (Mahar)",
-      "titleArabic": "كِتَابُ النِّكَاحِ - بَابُ الصَّدَاقِ",
-      "arabic": "وَعَنْ أَنَسٍ رَضِيَ اللَّهُ عَنْهُ أَنَّ أَبَا طَلْحَةَ خَطَبَ أُمَّ سُلَيْمٍ فَقَالَتْ: وَاللَّهِ مَا مِثْلُكَ يُرَدُّ، وَلَكِنَّكَ كَافِرٌ وَأَنَا مُسْلِمَةٌ، فَإِنْ تُسْلِمْ فَذَاكَ صَدَاقِي. فَأَسْلَمَ فَرَضِيَتْ بِذَلِكَ. أَخْرَجَهُ النَّسَائِيُّ.",
-      "translation": "Dari Anas radhiyallahu 'anhu bahwasanya Abu Thalhah meminang Ummu Sulaim, lalu wanita itu berkata: 'Demi Allah, orang sepertimu tidak patut ditolak, namun engkau seorang kafir sedangkan aku wanita muslimah. Jika engkau masuk Islam, maka itulah maskawinku.' Lalu Abu Thalhah masuk Islam dan Ummu Sulaim pun menerimanya. Dikeluarkan oleh An-Nasa'i."
+      "title": "Bab Pergaulan Suami Istri ('Ishrat an-Nisa')",
+      "titleArabic": "بَابُ عِشْرَةِ النِّسَاءِ",
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «اسْتَوْصُوا بِالنِّسَاءِ خَيْرًا، فَإِنَّ الْمَرْأَةَ خُلِقَتْ مِنْ ضِلَعٍ...». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Berwasiatlah kalian untuk memperlakukan wanita secara baik, karena sesungguhnya wanita diciptakan dari tulang rusuk...' Muttafaq 'alaih."
     },
     {
-      "title": "Kitab Nikah - Bab Walimah",
-      "titleArabic": "كِتَابُ النِّكَاحِ - بَابُ الْوَلِيمَةِ",
-      "arabic": "وَعَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ رَأَى عَلَى عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ أَثَرَ صُفْرَةٍ، فَقَالَ: «مَهْيَمْ؟»، قَالَ: تَزَوَّجْتُ امْرَأَةً عَلَى نَوَاةٍ مِنْ ذَهَبٍ، قَالَ: «بَارَكَ اللَّهُ لَكَ، أَوْلِمْ وَلَوْ بِشَاةٍ». مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Anas bin Malik radhiyallahu 'anhu bahwasanya Nabi shallallahu 'alaihi wa sallam melihat ada bekas kekuningan pada Abdurrahman bin Auf, beliau bertanya: 'Ada apa ini?' Ia menjawab: 'Aku baru menikah dengan wanita dengan mahar seberat bijي kurma berupa emas.' Beliau bersabda: 'Semoga Allah memberkahimu, adakanlah walimah walau hanya dengan menyembelih seekor kambing.' Muttafaq 'alaih."
+      "title": "Bab Mas Kahwin (Sadaq/Mahar)",
+      "titleArabic": "بَابُ الصَّدَاقِ",
+      "arabic": "وَعَنْ عُقْبَةَ بْنِ عَامِرٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «أَحَقُّ الشُّرُوطِ أَنْ تُوفُوا بِهِ مَا اسْتَحْلَلْتُمْ بِهِ الْفُرُوجَ». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari 'Uqbah bin 'Amir radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Syarat yang paling berhak untuk kalian penuhi adalah syarat yang menjadikan kemaluan halal bagi kalian (syarat mahar/nikah).' Muttafaq 'alaih."
     },
     {
-      "title": "Kitab Talaq (Perceraian)",
-      "titleArabic": "كِتَابُ الطَّلَاقِ",
-      "arabic": "وَعَنْ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا أَنَّهُ طَلَّقَ امْرَأَتَهُ وَهِيَ حَائِضٌ فِي عَهْدِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، فَسَأَلَ عُمَرُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ ذَلِكَ، فَقَالَ: «مُرْهُ فَلْيُرَاجِعْهَا...». مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Ibn Umar radhiyallahu 'anhuma bahwasanya ia menalak istrinya saat sedang haid pada masa Rasulullah shallallahu 'alaihi wa sallam. Maka Umar bertanya kepada Rasulullah tentang hal itu, lalu beliau bersabda: 'Perintahkan ia agar merujuk istrinya kembali...' Muttafaq 'alaih."
+      "title": "Bab Resepsi Pernikahan (Walimah)",
+      "titleArabic": "بَابُ الْوَلِيمَةِ",
+      "arabic": "وَعَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ «أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَوْلَمَ عَلَى صَفِيَّةَبِ سَوِيقٍ وَتَمْرٍ». أَخْرَجَهُ أَبُو دَاوُدَ وَالتِّرْمِذِيُّ.",
+      "translation": "Dari Anas bin Malik radhiyallahu 'anhu: 'Bahwa Nabi shallallahu 'alaihi wa sallam mengadakan walimah saat menikahi Shafiyyah dengan sajian tepung gandum dan kurma.' Dikeluarkan oleh Abu Dawud dan At-Tirmidzi."
     },
     {
-      "title": "Kitab Khula' (Gugat Cerai)",
-      "titleArabic": "كِتَابُ الطَّلَاقِ - بَابُ الْخُلْعِ",
-      "arabic": "وَعَنْ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا أَنَّ امْرَأَةَ ثَابِتِ بْنِ قَيْسٍ أَتَتِ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَتْ: يَا رَسُولَ اللَّهِ، مَا أَعْتِبُ عَلَيْهِ فِي خُلُقٍ وَلَا دِينٍ، وَلَكِنِّي أَكْرَهُ الْكُفْرَ فِي الْإِسْلَامِ... فَقَالَ: «أَتَرُدِّينَ عَلَيْهِ حَدِيقَتَهُ؟»، قَالَتْ: نَعَمْ، قَالَ: «اقْبَلِ الْحَدِيقَةَ وَطَلِّقْهَا تَطْلِيقَةً». أَخْرَجَهُ الْبُخَارِيُّ.",
-      "translation": "Dari Ibn Abbas radhiyallahu 'anhuma bahwasanya istri Tsabit bin Qais mendatangi Nabi shallallahu 'alaihi wa sallam lalu berkata: 'Wahai Rasulullah, aku tidak mencela akhlak maupun agamanya, tetapi aku benci kekufuran (tidak memenuhi hak suami) dalam Islam...' Maka Nabi bersabda: 'Apakah engkau mau mengembalikan kebunnya?' Ia menjawab: 'Ya.' Beliau bersabda kepada Tsabit: 'Terimalah kebun itu dan talaklah dia satu kali talak.' Dikeluarkan oleh Al-Bukhari."
+      "title": "Bab Pembagian Giliran Istri (Qasm)",
+      "titleArabic": "بَابُ الْقَسْمِ بَيْنَ الزَّوْجَاتِ",
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: «كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقْسِمُ فَيَعْدِلُ، وَيَقُولُ: اللَّهُمَّ هَذَا قَسْمِي فِيمَا أَمْلِكُ فَلَا تَلُمْنِي فِيمَا تَمْلِكُ وَلَا أَمْلِكُ». أَخْرَجَهُ الْأَرْبَعَةُ.",
+      "translation": "Dari 'Aisyah radhiyallahu 'anha, ia berkata: 'Rasulullah shallallahu 'alaihi wa sallam membagi giliran di antara istri-istrinya secara adil, lalu berdoa: Ya Allah, inilah pembagianku pada apa yang aku kuasai, maka janganlah Engkau mencelaku pada apa yang Engkau kuasai dan tidak aku kuasai (perasaan hati).' Dikeluarkan oleh Empat Imam."
     },
     {
-      "title": "Kitab Rujuk dan Iddah",
-      "titleArabic": "كِتَابُ الرَّجْعَةِ وَالْعِدَّةِ",
-      "arabic": "وَعَنْ الْمُسَوَّرِ بْنِ مَخْرَمَةَ رَضِيَ اللَّهُ عَنْهُمَا أَنَّ سُبَيْعَةَ الْأَسْلَمِيَّةَ نُفِسَتْ بَعْدَ وَفَاةِ زَوْجِهَا بِلَيَالٍ، فَجَاءَتِ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَاسْتَأْذَنَتْهُ أَنْ تَنْكِحَ، فَأَذِنَ لَهَا فَنَكَحَتْ. أَخْرَجَهُ الْبُخَارِيُّ.",
-      "translation": "Dari Al-Miswar bin Makhramah radhiyallahu 'anhuma bahwasanya Subai'ah al-Aslamiyah melahirkan beberapa malam setelah suaminya meninggal dunia. Lalu ia mendatangi Nabi shallallahu 'alaihi wa sallam meminta izin untuk menikah lagi, maka beliau mengizinkannya lalu ia pun menikah. Dikeluarkan oleh Al-Bukhari."
+      "title": "Bab Khulu' (Gugat Cerai Istri)",
+      "titleArabic": "بَابُ الْخُلْعِ",
+      "arabic": "وَعَنْ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا «أَنَّ امْرَأَةَ ثَابِتِ بْنِ قَيْسٍ أَتَتِ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَتْ: يَا رَسُولَ اللَّهِ، ثَابِتُ بْنُ قَيْسٍ مَا أَعْتِبُ عَلَيْهِ فِي خُلُقٍ وَلَا دِينٍ، وَلَكِنِّي أَكْرَهُ الْكُفْرَ فِي الْإِسْلَامِ... فَقَالَ: أَتَرُدِّينَ عَلَيْهِ حَدِيقَتَهُ؟ قَالَتْ: نَعَمْ. قَالَ: اقْبَلِ الْحَدِيقَةَ وَطَلِّقْهَا تَطْلِيقَةً». أَخْرَجَهُ الْبُخَارِيُّ.",
+      "translation": "Dari Ibn 'Abbas radhiyallahu 'anhuma: 'Bahwa istri Thabit bin Qais mendatangi Nabi shallallahu 'alaihi wa sallam seraya berkata: Ya Rasulullah, aku tidak mencela Thabit bin Qais pada akhlak maupun agamanya, tetapi aku benci kekufuran dalam Islam... Beliau bersabda: Maukah engkau mengembalikan kebunnya? Ia menjawab: Ya. Beliau bersabda (kepada Thabit): Terimalah kebun itu dan jatuhkanlah talak satu padanya.' Dikeluarkan oleh Al-Bukhari."
     },
     {
-      "title": "Kitab Nafkah",
-      "titleArabic": "كِتَابُ النَّفَقَاتِ",
-      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: دَخَلَتْ هِنْدٌ بِنْتُ عُتْبَةَ امْرَأَةُ أَبِي سُفْيَانَ عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَتْ: يَا رَسُولَ اللَّهِ، إِنَّ أَبَا سُفْيَانَ رَجُلٌ شَحِيحٌ، لَا يُعْطِينِي مِنَ النَّفَقَةِ مَا يَكْفِينِي وَوَلَدِي... فَقَالَ: «خُذِي مَا يَكْفِيكِ وَوَلَدَكِ بِالْمَعْرُوفِ». مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Aisyah radhiyallahu 'anha, ia berkata: Hindun binti Utbah, istri Abu Sufyan, masuk menemui Rasulullah shallallahu 'alaihi wa sallam lalu berkata: 'Wahai Rasulullah, sesungguhnya Abu Sufyan adalah orang yang pelit, ia tidak memberiku nafkah yang mencukupi aku dan anakku...' Beliau bersabda: 'Ambillah (dari hartanya) apa yang mencukupi dirimu dan anakmu secara patut.' Muttafaq 'alaih."
+      "title": "Bab Perceraian (Talaq)",
+      "titleArabic": "بَابُ الطَّلَاقِ",
+      "arabic": "وَعَنْ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا «أَنَّهُ طَلَّقَ امْرَأَتَهُ وَهِيَ حَائِضٌ فِي عَهْدِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، فَسَأَلَ عُمَرُ رَسُولَ اللَّهِ، فَقَالَ: مُرْهُ فَلْيُرَاجِعْهَا...». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Ibn 'Umar radhiyallahu 'anhuma: 'Bahwa ia menalak istrinya dalam keadaan haid pada masa Rasulullah shallallahu 'alaihi wa sallam, lalu Umar menanyakan hal itu kepada Rasulullah, maka beliau bersabda: Perintahkan dia agar merujuk istrinya kembali...' Muttafaq 'alaih."
     },
     {
-      "title": "Kitab Jinayat (Tindak Pidana)",
+      "title": "Bab Rujuk (Raj'ah)",
+      "titleArabic": "بَابُ الرَّجْعَةِ",
+      "arabic": "وَعَنْ عمران بن حصين رَضِيَ اللَّهُ عَنْهُ «أَنَّهُ سُئِلَ عَنِ الرَّجُلِ يُطَلِّقُ ثُمَّ يَقَعُ بِامْرَأَتِهِ وَلَمْ يُشْهِدْ؟ فَقَالَ: أَشْهِدْ عَلَى طَلَاقِهَا وَعَلَى رَجْعَتِهَا». أَخْرَجَهُ أَبُو دَاوُدَ.",
+      "translation": "Dari Imran bin Husain radhiyallahu 'anhu: 'Bahwa ia ditanya tentang seseorang yang menalak istrinya kemudian menggaulinya kembali tanpa persaksian? Ia menjawab: Persaksikanlah atas talaknya dan atas rujuknya.' Dikeluarkan oleh Abu Dawud."
+    },
+    {
+      "title": "Bab Ila', Dhihar, dan Li'an",
+      "titleArabic": "بَابُ الْإِيلَاءِ وَالظِّهَارِ وَاللِّعَانِ",
+      "arabic": "وَعَنْ عُوَيْمِرٍ الْعَجْلَانِيِّ رَضِيَ اللَّهُ عَنْهُ أَنَّهُ جَاءَ إِلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: يَا رَسُولَ اللَّهِ، أَرَأَيْتَ رَجُلًا وَجَدَ مَعَ امْرَأَتِهِ رَجُلًا؟... فَتَلَاعَنَا فِي الْمَسْجِدِ. مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari 'Uwaimir Al-'Ajlani radhiyallahu 'anhu, bahwa ia mendatangi Nabi shallallahu 'alaihi wa sallam lalu berkata: Ya Rasulullah, bagaimana pendapatmu jika seorang suami mendapati laki-laki lain bersama istrinya?... Lalu keduanya melakukan li'an di masjid. Muttafaq 'alaih."
+    },
+    {
+      "title": "Bab Masa Menunggu (Iddah) dan Berkabung (Ihad)",
+      "titleArabic": "بَابُ الْعِدَّةِ وَالْإِحْدَادِ",
+      "arabic": "وَعَنْ أُمِّ عَطِيَّةَ رَضِيَ اللَّهُ عَنْهَا أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَا تُحِدُّ امْرَأَةٌ عَلَى مَيِّتٍ فَوْقَ ثَلَاثٍ إِلَّا عَلَى زَوْجٍ: أَرْبَعَةَ أَشْهُرٍ وَعَشْرًا...». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Umm 'Athiyyah radhiyallahu 'anha, bahwa Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Tidak boleh seorang wanita berkabung atas mayat lebih dari tiga hari, kecuali atas kematian suaminya, yaitu selama empat bulan sepuluh hari...' Muttafaq 'alaih."
+    },
+    {
+      "title": "Bab Penyusuan (Radha')",
+      "titleArabic": "بَابُ الرَّضَاعِ",
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِنَّمَا الرَّضَاعَةُ مِنَ الْمَجَاعَةِ». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari 'Aisyah radhiyallahu 'anha, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Sesungguhnya penyusuan (yang menyebabkan mahram) itu hanyalah yang terjadi saat bayi lapar (di bawah umur dua tahun).' Muttafaq 'alaih."
+    },
+    {
+      "title": "Bab Nafkah (Nafaqat)",
+      "titleArabic": "بَابُ النَّفَقَاتِ",
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: دَخَلَتْ هِنْدٌ بِنْتُ عُتْبَةَ فَقَالَتْ: يَا رَسُولَ اللَّهِ، إِنَّ أَبَا سُفْيَانَ رَجُلٌ شَحِيحٌ... فَقَالَ: «خُذِي مَا يَكْفِيكِ وَوَلَدَكِ بِالْمَعْرُوفِ». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari 'Aisyah radhiyallahu 'anha, ia berkata: Hindun binti 'Utbah masuk menghadap Nabi lalu berkata: Ya Rasulullah, sesungguhnya Abu Sufyan adalah suami yang pelit... Beliau bersabda: 'Ambillah dari hartanya sekadar yang mencukupi kebutuhanmu dan anakmu secara patut.' Muttafaq 'alaih."
+    },
+    {
+      "title": "Bab Pengasuhan Anak (Hadhanah)",
+      "titleArabic": "بَابُ الْحَضَانَةِ",
+      "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو رَضِيَ اللَّهُ عَنْهُمَا أَنَّ امْرَأَةً قَالَتْ: يَا رَسُولَ اللَّهِ، إِنَّ ابْنِي هَذَا كَانَ بَطْنِي لَهُ وِعَاءً... وَإِنَّ أَبَاهُ طَلَّقَنِي وَأَرَادَ أَنْ يَنْتَزِعَهُ مِنِّي؟ فَقَالَ: «أَنْتِ أَحَقُّ بِهِ مَا لَمْ تَنْكِحِي». أَخْرَجَهُ أَبُو دَاوُدَ.",
+      "translation": "Dari 'Abdullah bin 'Amr radhiyallahu 'anhuma, bahwa seorang wanita berkata: Ya Rasulullah, sesungguhnya anakku ini, perutkulah wadahnya... lalu ayahnya menalakku dan hendak merebutnya dariku? Beliau bersabda: 'Engkau lebih berhak mengasuhnya selama engkau belum menikah lagi.' Dikeluarkan oleh Abu Dawud."
+    },
+    {
+      "title": "Kitab Pidana Tindak Kejahatan (Jinayat)",
       "titleArabic": "كِتَابُ الْجِنَايَاتِ",
-      "arabic": "وَعَنْ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنْ قُتِلَ فِي عَمِيَّا أَوْ رِمِيَّا يَكُونُ بَيْنَهُمْ بِالْحِجَارَةِ أَوْ بِالسِّيَاطِ فَعَقْلُهُ عَقْلُ الْخَطَأِ، وَمَنْ قُتِلَ عَمْدًا فَهُوَ قَوَدٌ...». أَخْرَجَهُ أَبُو دَاوُدَ وَالنَّسَائِيُّ.",
-      "translation": "Dari Ibn Abbas radhiyallahu 'anhuma, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Barangsiapa terbunuh dalam kerusuhan masal atau lelemparan batu/cambuk tanpa diketahui pembunuhnya, maka diatnya adalah diat tidak sengaja. Dan barangsiapa dibunuh secara sengaja, maka baginya berlaku qishash...' Dikeluarkan oleh Abu Dawud dan An-Nasa'i."
+      "arabic": "عَنْ ابْنِ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا يَحِلُّ دَمُ امْرِئٍ مُسْلِمٍ يَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَنِّي رَسُولُ اللَّهِ إِلَّا بِإِحْدَى ثَلَاثٍ: الثَّيِّبُ الزَّانِي، وَالنَّفْسُ بِالنَّفْسِ، وَالتَّارِكُ لِدِينِهِ الْمُفَارِقُ لِلْجَمَاعَةِ». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Ibn Mas'ud radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Tidak halal darah seorang muslim yang bersaksi tiada tuhan selain Allah dan aku utusan Allah kecuali karena salah satu dari tiga hal: Orang tua yang berzina, membunuh jiwa (dibalas bunuh), dan orang yang meninggalkan agamanya serta memisahkan diri dari jamaah.' Muttafaq 'alaih."
     },
     {
-      "title": "Kitab Diyat (Denda Ganti Rugi)",
-      "titleArabic": "كِتَابُ الدِّيَاتِ",
-      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَضَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي جَنِينِ امْرَأَةٍ مِنْ بَنِي لَحْيَانَ سَقَطَ مَيِّتًا بِغُرَّةٍ: عَبْدٍ أَوْ أَمَةٍ. مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam memutuskan kasus janin wanita dari Bani Lihyan yang gugur dalam keadaan mati dengan ganti rugi (ghurrah) berupa seorang hamba sahaya laki-laki atau perempuan. Muttafaq 'alaih."
+      "title": "Bab Denda Dosa/Darah (Diyat)",
+      "titleArabic": "بَابُ الدِّيَاتِ",
+      "arabic": "وَعَنْ أَبِي بَكْرِ بْنِ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَزْمٍ عَنْ أَبِيهِ عَنْ جَدِّهِ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَتَبَ إِلَى أَهْلِ الْيَمَنِ كِتَابًا... «وَأَنَّ فِي النَّفْسِ الدِّيَةَ مِائَةً مِنَ الْإِبِلِ...». أَخْرَجَهُ النَّسَائِيُّ.",
+      "translation": "Dari Abu Bakr bin Muhammad bin 'Amr bin Hazm, dari ayahnya, dari kakeknya, bahwa Nabi shallallahu 'alaihi wa sallam menulis surat kepada penduduk Yaman... 'Dan sesungguhnya pada pembunuhan satu jiwa tebusan diyatnya adalah seratus ekor unta...' Dikeluarkan oleh An-Nasa'i."
     },
     {
-      "title": "Kitab Hudud (Hukuman Pidana Syariat)",
-      "titleArabic": "كِتَابُ الْحُدُودِ",
-      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ وَزَيْدِ بْنِ خَالِدٍ الْجُهَنِيِّ رَضِيَ اللَّهُ عَنْهُمَا أَنَّ رَجُلًا مِنَ الْأَعْرَابِ أَتَى رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: يَا رَسُولَ اللَّهِ، أَنْشُدُكَ اللَّهَ إِلَّا قَضَيْتَ بَيْنَنَا بِكِتَابِ اللَّهِ... مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Abu Hurairah dan Zaid bin Khalid al-Juhani radhiyallahu 'anhuma bahwasanya seorang Arab badui mendatangi Rasulullah shallallahu 'alaihi wa sallam seraya berkata: 'Wahai Rasulullah, aku memohon atas nama Allah agar Engkau memutuskan perkara kami sesuai dengan Kitabullah...' Muttafaq 'alaih."
+      "title": "Bab Tuduhan Pembunuhan dan Sumpah (Qasamah)",
+      "titleArabic": "بَابُ دَعْوَى الدَّمِ وَالْقَسَامَةِ",
+      "arabic": "وَعَنْ سَهْلِ بْنِ أَبِي حَثْمَةَ رَضِيَ اللَّهُ عَنْهُ أَنَّهُ أَخْبَرَهُ هُوَ وَرِجَالٌ مِنْ كُبَرَاءِ قَوْمِهِ أَنَّ عَبْدَ اللَّهِ بْنَ سَهْلٍ وَمُحَيِّصَةَ خَرَجَا إِلَى خَيْبَرَ... فَقُتِلَ عَبْدُ اللَّهِ بْنُ سَهْلٍ... فَقَالَ النَّبِيُّ: «أَتَحْلِفُونَ وَتَسْتَحِقُّونَ دَمَ صَاحِبِكُمْ؟». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Sahl bin Abi Hathsmah radhiyallahu 'anhu, bahwa ia dan beberapa pembesar kaumnya mengabarkan bahwa 'Abdullah bin Sahl dan Muhayyishah keluar menuju Khaibar... lalu 'Abdullah bin Sahl terbunuh... Maka Nabi bersabda: 'Apakah kalian berani bersumpah lima puluh kali untuk menuntut hak darah teman kalian?' Muttafaq 'alaih."
     },
     {
-      "title": "Kitab Hudud - Bab Hukuman Penyamun dan Pemurtad",
-      "titleArabic": "كِتَابُ الْحُدُودِ - بَابُ حَدِّ الْقُطَّاعِ وَالْمُرْتَدِّينَ",
+      "title": "Bab Perang Melawan Pemberontak (Ahl al-Baghy)",
+      "titleArabic": "بَابُ قِتَالِ أَهْلِ الْبَغْيِ",
+      "arabic": "وَعَنْ عَرْفَجَةَ بْنِ شُرَيْحٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «مَنْ أَتَاكُمْ وَأَمْرُكُمْ جَمِيعٌ عَلَى رَجُلٍ وَاحِدٍ يُرِيدُ أَنْ يَشُقَّ عَصَاكُمْ... فَاقْتُلُوهُ». أَخْرَجَهُ مُسْلِمٌ.",
+      "translation": "Dari 'Arfajah bin Syuraih radhiyallahu 'anhu, ia berkata: Aku mendengar Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Barangsiapa mendatangi kalian ketika urusan kepemimpinan kalian telah bersatu di bawah satu pimpinan, lalu ia hendak memecah belah persatuan kalian... maka bunuhlah ia.' Dikeluarkan oleh Muslim."
+    },
+    {
+      "title": "Bab Membunuh Penyerang (Jani) dan Orang Murtad",
+      "titleArabic": "بَابُ قِتَالِ الْجَانِي وَقَتْلِ الْمُرْتَدِّ",
       "arabic": "وَعَنْ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنْ بَدَّلَ دِينَهُ فَاقْتُلُوهُ». أَخْرَجَهُ الْبُخَارِيُّ.",
-      "translation": "Dari Ibn Abbas radhiyallahu 'anhuma, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Barangsiapa mengganti agamanya (murtad dari Islam), maka bunuhlah dia.' Dikeluarkan oleh Al-Bukhari."
+      "translation": "Dari Ibn 'Abbas radhiyallahu 'anhuma, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Barangsiapa yang mengganti agamanya (murtad dari Islam), maka bunuhlah dia.' Dikeluarkan oleh Al-Bukhari."
     },
     {
-      "title": "Kitab Jihad",
+      "title": "Kitab Hukuman Syariat (Hudud) - Hukuman Zina",
+      "titleArabic": "كِتَابُ الْحُدُودِ - بَابُ حَدِّ الزِّنَا",
+      "arabic": "عَنْ أَبِي هُرَيْرَةَ وَزَيْدِ بْنِ خَالِدٍ الْجُهَنِيِّ رَضِيَ اللَّهُ عَنْهُمَا أَنَّ رَجُلًا مِنْ الْأَعْرَابِ أَتَى رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: يَا رَسُولَ اللَّهِ، اقْضِ بَيْنَنَا بِكِتَابِ اللَّهِ... فَقَالَ: «عَلَى ابْنِكَ جَلْدُ مِائَةٍ وَتَغْرِيبُ عَامٍ...». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Abu Hurairah dan Zaid bin Khalid Al-Juhani radhiyallahu 'anhuma, bahwa ada seorang Arab dusun mendatangi Rasulullah shallallahu 'alaihi wa sallam lalu berkata: Ya Rasulullah, putuskanlah hukum di antara kami sesuai Kitabullah... Beliau bersabda: 'Anakmu dijatuhi hukuman cambuk seratus kali dan diasingkan selama satu tahun...' Muttafaq 'alaih."
+    },
+    {
+      "title": "Bab Hukuman Menuduh Zina (Qadhf)",
+      "titleArabic": "بَابُ حَدِّ الْقَذْفِ",
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: «لَمَّا نَزَلَ عُذْرِي قَامَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَلَى الْمِنْبَرِ فَذَكَرَ ذَلِكَ وَتَلَا الْقُرْآنَ، فَلَمَّا نَزَلَ أَمَرَ بِرَجُلَيْنِ وَامْرَأَةٍ فَضُرِبُوا حَدَّهُمْ». أَخْرَجَهُ الْأَرْبَعَةُ.",
+      "translation": "Dari 'Aisyah radhiyallahu 'anha, ia berkata: 'Ketika wahyu kesucianku turun, Rasulullah shallallahu 'alaihi wa sallam naik ke mimbar menyebutkan hal itu dan membaca Al-Qur'an. Ketika turun dari mimbar, beliau memerintahkan dua laki-laki dan satu wanita (yang menyebarkan fitnah) untuk dicambuk sesuai hukum qadhf.' Dikeluarkan oleh Empat Imam."
+    },
+    {
+      "title": "Bab Hukuman Mencuri (Sariqah)",
+      "titleArabic": "بَابُ حَدِّ السَّرِقَةِ",
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا تُقْطَعُ يَدُ سَارِقٍ إِلَّا فِي رُبُعِ دِينارٍ فَصَاعِدًا». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari 'Aisyah radhiyallahu 'anha, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Tidak boleh dipotong tangan pencuri kecuali pada pencurian senilai seperempat dinar atau lebih.' Muttafaq 'alaih."
+    },
+    {
+      "title": "Bab Hukuman Peminum Khamar dan Minuman Memabukkan",
+      "titleArabic": "بَابُ حَدِّ شَارِبِ الْخَمْرِ وَبَيَانِ الْمُسْكِرِ",
+      "arabic": "وَعَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ «أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أُتِيَ بِرَجُلٍ قَدْ شَرِبَ الْخَمْرَ، فَجَلَدَهُ بِجَرِيدَتَيْنِ نَحْوَ أَرْبَعِينَ». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Anas bin Malik radhiyallahu 'anhu: 'Bahwa Nabi shallallahu 'alaihi wa sallam dihadapkan kepada seorang laki-laki yang meminum khamar, lalu beliau mencambuknya dengan dua pelepah kurma sebanyak kira-kira empat puluh kali.' Muttafaq 'alaih."
+    },
+    {
+      "title": "Bab Hukuman Edukatif (Ta'zir) dan Bela Diri (Sā'il)",
+      "titleArabic": "بَابُ التَّعْزِيرِ وَحُكْمِ الصَّائِلِ",
+      "arabic": "وَعَنْ أَبِي بُرْدَةَ الْأَنْصَارِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «لَا يُجْلَدُ فَوْقَ عَشْرَةِ أَسْوَاطٍ إِلَّا فِي حَدٍّ مِنْ حُدُودِ اللَّهِ». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Abu Burdah Al-Anshari radhiyallahu 'anhu, ia berkata: Aku mendengar Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Seseorang tidak boleh dicambuk lebih dari sepuluh kali pukulan kecuali dalam hukuman حد (hudud) dari hukuman-hukuman Allah.' Muttafaq 'alaih."
+    },
+    {
+      "title": "Kitab Perjuangan (Jihad)",
       "titleArabic": "كِتَابُ الْجِهَادِ",
-      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنْ مَاتَ وَلَمْ يَغْزُ، وَلَمْ يُحَدِّثْ بِهِ نَفْسَهُ، مَاتَ عَلَى شُعْبَةٍ مِنْ نِفَاقٍ». أَخْرَجَهُ مُسْلِمٌ.",
-      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Barangsiapa meninggal dunia sedang ia belum pernah berperang (di jalan Allah) dan tidak pernah pula terbesit dalam hatinya untuk berperang, maka ia mati di atas salah satu cabang kemunafikan.' Dikeluarkan oleh Muslim."
+      "arabic": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنْ مَاتَ وَلَمْ يَغْزُ، وَلَمْ يُحَدِّثْ بِهِ نَفْسَهُ، مَاتَ عَلَى شُعْبَةٍ مِنْ نِفَاقٍ». أَخْرَجَهُ مُسْلِمٌ.",
+      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Barangsiapa mati sedangkan ia belum pernah berperang di jalan Allah dan tidak pernah pula berniat/bertekad dalam hatinya untuk berperang, maka ia mati di atas cabang munafik.' Dikeluarkan oleh Muslim."
     },
     {
-      "title": "Kitab Jihad - Bab Jizyah dan Genjatan Senjata",
-      "titleArabic": "كِتَابُ الْجِهَادِ - بَابُ الْجِزْيَةِ وَالْهُدْنَةِ",
-      "arabic": "وَعَنْ أُمِّ هَانِئٍ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: «قَدْ أَجَرْنَا مَنْ أَجَرْتِ يَا أُمَّ هَانِئٍ». مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Ummu Hani' radhiyallahu 'anha, Nabi shallallahu 'alaihi wa sallam bersabda kepadanya: 'Sungguh kami melindungi orang yang engkau lindungi, wahai Ummu Hani'.' Muttafaq 'alaih."
+      "title": "Bab Pajak Perlindungan (Jizyah) dan Gencatan Senjata (Hudnah)",
+      "titleArabic": "بَابُ الْجِزْيَةِ وَالْهُدْنَةِ",
+      "arabic": "وَعَنْ أَوْفَى بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «صَالَحْتُ أَهْلَ مَكَّةَ عَلَى وَضْعِ الْحَرْبِ عَشْرَ سِنِينَ...». أَخْرَجَهُ أَبُو دَاوُدَ.",
+      "translation": "Dari Aufa bin Malik radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Aku mengadakan perjanjian damai dengan penduduk Makkah untuk menghentikan perang selama sepuluh tahun...' Dikeluarkan oleh Abu Dawud."
+    },
+    {
+      "title": "Bab Perlombaan dan Memanah (Sabaq & Ramy)",
+      "titleArabic": "بَابُ السَّبَقِ وَالرَّمْيِ",
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا سَبَقَ إِلَّا فِي خُفٍّ أَوْ حَافِرٍ أَوْ نَصْلٍ». أَخْرَجَهُ الْأَرْبَعَةُ.",
+      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Tidak boleh ada perlombaan berhadiah kecuali pada pacuan unta, pacuan kuda, atau perlombaan memanah.' Dikeluarkan oleh Empat Imam."
     },
     {
       "title": "Kitab Makanan (Ath'imah)",
       "titleArabic": "كِتَابُ الْأَطْعِمَةِ",
-      "arabic": "وَعَنْ أَبِي ثَعْلَبَةَ الْخُشَنِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: «نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ كُلِّ ذِي نَابٍ مِنَ السِّبَاعِ». مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Abu Tha'labah al-Khushani radhiyallahu 'anhu, ia berkata: 'Rasulullah shallallahu 'alaihi wa sallam melarang memakan setiap binatang buas yang bertaring.' Muttafaq 'alaih."
+      "arabic": "عَنْ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: «نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ كُلِّ ذِي نَابٍ مِنَ السِّبَاعِ، وَعَنْ كُلِّ ذِي مِخْلَبٍ مِنَ الطَّيْرِ». أَخْرَجَهُ مُسْلِمٌ.",
+      "translation": "Dari Ibn 'Abbas radhiyallahu 'anhuma, ia berkata: 'Rasulullah shallallahu 'alaihi wa sallam melarang memakan setiap binatang buas yang bertaring dan setiap burung yang memiliki cengkeraman kuku tajam.' Dikeluarkan oleh Muslim."
     },
     {
-      "title": "Kitab Sembelihan dan Buruan",
-      "titleArabic": "كِتَابُ الصَّيْدِ وَالذَّبَائِحِ",
-      "arabic": "وَعَنْ شَدَّادِ بْنِ أَوْسٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِنَّ اللَّهَ كَتَبَ الْإِحْسَانَ عَلَى كُلِّ شَيْءٍ، فَإِذَا قَتَلْتُمْ فَأَحْسِنُوا الْقِتْلَةَ، وَإِذَا ذَبَحْتُمْ فَأَحْسِنُوا الذِّبْحَةَ...». أَخْرَجَهُ مُسْلِمٌ.",
-      "translation": "Dari Syaddad bin Aus radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Sesungguhnya Allah mewajibkan berbuat ihsan (baik) atas segala sesuatu. Maka apabila kalian membunuh (dalam perang/qishash), bunuhlah secara baik, dan apabila kalian menyembelih, sembelihlah secara baik...' Dikeluarkan oleh Muslim."
+      "title": "Bab Berburu dan Sembelihan (Said & Dhaba'ih)",
+      "titleArabic": "بَابُ الصَّيْدِ وَالذَّبَائِحِ",
+      "arabic": "وَعَنْ عَدِيِّ بْنِ حَاتِمٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: سَأَلْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنِ الصَّيْدِ؟ فَقَالَ: «إِذَا أَرْسَلْتَ كَلْبَكَ الْمُعَلَّمَ وَذَكَرْتَ اسْمَ اللَّهِ فَكُلْ...». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari 'Adi bin Hatim radhiyallahu 'anhu, ia berkata: Aku bertanya kepada Rasulullah shallallahu 'alaihi wa sallam tentang hasil berburu? Beliau menjawab: 'Apabila engkau melepas anjing buruanmu yang telah terlatih dengan menyebut nama Allah, maka makanlah hasil buruannya...' Muttafaq 'alaih."
     },
     {
-      "title": "Kitab Kurban (Udhhiyah)",
-      "titleArabic": "كِتَابُ الْأَضَاحِيِّ",
-      "arabic": "وَعَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: «ضَحَّى النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِكَبْشَيْنِ أَمْلَحَيْنِ أَقْرَنَيْنِ، ذَبَحَهُمَا بِيَدِهِ، وَسَمَّى وَكَبَّرَ...». مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Anas bin Malik radhiyallahu 'anhu, ia berkata: 'Nabi shallallahu 'alaihi wa sallam berkurban dengan dua ekor domba jantan yang berwarna putih kehitaman dan bertanduk. Beliau menyembelih keduanya dengan tangan beliau sendiri seraya membaca basmalah dan bertakbir...' Muttafaq 'alaih."
+      "title": "Bab Kurban (Udh-hiyah)",
+      "titleArabic": "بَابُ الْأُضْحِيَّةِ",
+      "arabic": "وَعَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ «أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ضَحَّى بِكَبْشَيْنِ أَمْلَحَيْنِ أَقْرَنَيْنِ، ذَبَحَهُمَا بِيَدِهِ، وَسَمَّى وَكَبَّرَ...». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Anas bin Malik radhiyallahu 'anhu: 'Bahwa Nabi shallallahu 'alaihi wa sallam berkurban dengan dua ekor domba jantan berwarna putih kehitaman dan bertanduk, beliau menyembelih keduanya dengan tangannya sendiri seraya membaca basmalah dan takbir...' Muttafaq 'alaih."
     },
     {
-      "title": "Kitab Sumpah dan Nadzar (Aiman wa Nudzur)",
+      "title": "Bab Aqiqah",
+      "titleArabic": "بَابُ الْعَقِيقَةِ",
+      "arabic": "وَعَنْ سَمُرَةَ بْنِ جُنْدُبٍ رَضِيَ اللَّهُ عَنْهُ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «كُلُّ غُلَامٍ مَرْتَهَنٌ بِعَقِيقَتِهِ، تُذْبَحُ عَنْهُ يَوْمَ سَابِعِهِ، وَيُحْلَقُ، وَيُسَمَّى». أَخْرَجَهُ الْأَرْبَعَةُ.",
+      "translation": "Dari Samurah bin Jundub radhiyallahu 'anhu, bahwa Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Setiap anak tertahan oleh aqiqahnya, disembelihkan hewan baginya pada hari ketujuh kelahirannya, dicukur rambutnya, dan diberi nama.' Dikeluarkan oleh Empat Imam."
+    },
+    {
+      "title": "Kitab Sumpah dan Nadzar (Ayman & Nudzur)",
       "titleArabic": "كِتَابُ الْأَيْمَانِ وَالنُّذُورِ",
-      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنْ نَذَرَ أَنْ يُطِيعَ اللَّهَ فَلْيُطِعْهُ، وَمَنْ نَذَرَ أَنْ يَعْصِيَهُ فَلَا يَعْصِهِ». أَخْرَجَهُ الْبُخَارِيُّ.",
-      "translation": "Dari Aisyah radhiyallahu 'anha, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Barangsiapa bernadzar untuk mentaati Allah, maka hendaklah ia mentaati-Nya. Dan barangsiapa bernadzar untuk bermaksiat kepada-Nya, maka janganlah ia bermaksiat kepada-Nya.' Dikeluarkan oleh Al-Bukhari."
+      "arabic": "عَنْ عُمَرَ بْنِ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِنَّ اللَّهَ يَنْهَاكُمْ أَنْ تَحْلِفُوا بِآبَائِكُمْ، فَمَنْ كَانَ حَالِفًا فَلْيَحْلِفْ بِاللَّهِ أَوْ لِيَصْمُتْ». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari 'Umar bin Al-Khattab radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Sesungguhnya Allah melarang kalian bersumpah atas nama nenek moyang kalian. Barangsiapa bersumpah, hendaklah ia bersumpah atas nama Allah atau diam.' Muttafaq 'alaih."
     },
     {
-      "title": "Kitab Peradilan dan Kesaksian (Qadha wa Syahadat)",
-      "titleArabic": "كِتَابُ الْقَضَاءِ وَالشَّهَادَاتِ",
-      "arabic": "وَعَنْ عَمْرِو بْنِ الْعَاصِ رَضِيَ اللَّهُ عَنْهُ أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «إِذَا حَكَمَ الْحَاكِمُ فَاجْتَهَدَ ثُمَّ أَصَابَ فَلَهُ أَجْرَانِ، وَإِذَا حَكَمَ فَاجْتَهَدَ ثُمَّ أَخْطَأَ فَلَهُ أَجْرٌ». مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Amr bin al-Ash radhiyallahu 'anhu bahwasanya ia mendengar Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Apabila seorang hakim memutuskan hukum lalu berijtihad kemudian benar, maka baginya dua pahala. Dan apabila ia memutuskan hukum lalu berijtihad kemudian salah, maka baginya satu pahala.' Muttafaq 'alaih."
+      "title": "Kitab Peradilan (Qadha')",
+      "titleArabic": "كِتَابُ الْقَضَاءِ",
+      "arabic": "عَنْ أَبِي بَكْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «لَا يَقْضِيَنَّ حَكَمٌ بَيْنَ اثْنَيْنِ وَهُوَ غَضْبَانُ». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Abu Bakrah radhiyallahu 'anhu, ia berkata: Aku mendengar Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Janganlah seorang hakim memutuskan perkara antara dua orang saat ia sedang dalam keadaan marah.' Muttafaq 'alaih."
+    },
+    {
+      "title": "Bab Persaksian (Shahadat)",
+      "titleArabic": "بَابُ الشَّهَادَاتِ",
+      "arabic": "وَعَنْ أَبِي بَكْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «أَلَا أُنَبِّئُكُمْ بِأَكْبَرِ الْكَبَائِرِ؟... أَلَا وَقَوْلُ الزُّورِ، وَشَهَادَةُ الزُّورِ». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Abu Bakrah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Maukah kalian aku beritahukan tentang dosa besar yang paling besar?... Ketahuilah, yaitu perkataan dustا dan kesaksian palsu.' Muttafaq 'alaih."
+    },
+    {
+      "title": "Bab Gugatan dan Bukti (Da'wa & Bayyinat)",
+      "titleArabic": "بَابُ الدَّعْوَى وَالْبَيِّنَاتِ",
+      "arabic": "وَعَنْ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَوْ يُعْطَى النَّاسُ بِدَعْوَاهُمْ لَادَّعَى نَاسٌ دِمَاءَ رِجَالٍ وَأَمْوَالَهُمْ، وَلَكِنِ الْبَيِّنَةُ عَلَى الْمُدَّعِي، وَالْيَمِينُ عَلَى مَنْ أَنْكَرَ». أَخْرَجَهُ الْبَيْهَقِيُّ.",
+      "translation": "Dari Ibn 'Abbas radhiyallahu 'anhuma, bahwa Nabi shallallahu 'alaihi wa sallam bersabda: 'Seandainya setiap manusia diturutkan gugatannya, niscaya orang-orang akan menuntut darah dan harta orang lain, namun bukti wajib atas penggugat dan sumpah wajib atas tergugat yang mengingkari.' Dikeluarkan oleh Al-Baihaqi."
     },
     {
       "title": "Kitab Memerdekakan Budak ('Itq)",
       "titleArabic": "كِتَابُ الْعِتْقِ",
-      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «أَيُّمَا امْرِئٍ مُسْلِمٍ أَعْتَقَ امْرَأً مُسْلِمًا أَعْتَقَ اللَّهُ بِكُلِّ عُضْوٍ مِنْهُ عُضْوًا مِنْهُ مِنَ النَّارِ». مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Siapa saja seorang muslim yang memerdekakan seorang budak muslim, maka Allah akan membebaskan dari setiap anggota tubuh budak itu anggota tubuhnya dari api neraka.' Muttafaq 'alaih."
+      "arabic": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «أَيُّمَا امْرِئٍ مُسْلِمٍ أَعْتَقَ امْرَأً مُسْلِمًا أَعْتَقَ اللَّهُ بِكُلِّ عُضْوٍ مِنْهُ عُضْوًا مِنْهُ مِنَ النَّارِ...». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Barangsiapa dari orang muslim memerdekakan seorang budak muslim, niscaya Allah membebaskan dari api neraka setiap anggota tubuhnya dengan setiap anggota tubuh budak tersebut...' Muttafaq 'alaih."
     },
     {
-      "title": "Kitab al-Jami' - Bab Adab Pergaulan",
-      "titleArabic": "كِتَابُ الْجَامِعِ - بَابُ الْأَدَبِ",
-      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «حَقُّ الْمُسْلِمِ عَلَى الْمُسْلِمِ سِتٌّ: إِذَا لَقِيتَهُ فَسَلِّمْ عَلَيْهِ، وَإِذَا دَعَاكَ فَأَجِبْهُ، وَإِذَا اسْتَنْصَحَكَ فَانْصَحْ لَهُ، وَإِذَا عَطَسَ فَحَمِدَ اللَّهَ فَشَمِّتْهُ، وَإِذَا مَرِضَ فَعُدْهُ، وَإِذَا مَاتَ فَاتَّبِعْهُ». أَخْرَجَهُ مُسْلِمٌ.",
-      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Hak seorang muslim atas muslim lainnya ada enam: Apabila engkau bertemunya maka ucapkanlah salam, apabila ia mengundangmu maka penuhilah, apabila ia meminta nasihat padamu maka berilah nasihat, apabila ia bersin lalu memuji Allah maka mendoakannya (yarhamukallah), apabila ia sakit maka jenguklah, dan apabila ia meninggal dunia maka antarkanlah jenazahnya.' Dikeluarkan oleh Muslim."
+      "title": "Bab Budak Mukatab, Mudabbar, dan Ummu Walad",
+      "titleArabic": "بَابُ الْمُكَاتَبِ وَالْمُدَبَّرِ وَأُمِّ الْوَلَدِ",
+      "arabic": "وَعَنْ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «أَيُّمَا أَمَةٍ وَلَدَتْ مِنْ سَيِّدِهَا فَهِيَ حُرَّةٌ بَعْدَ مَوْتِهِ». أَخْرَجَهُ الدَّارَقُطْنِيُّ.",
+      "translation": "Dari Ibn 'Umar radhiyallahu 'anhuma, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Hamba sahaya perempuan mana saja yang melahirkan anak dari tuannya, maka ia menjadi wanita merdeka setelah kematian tuannya.' Dikeluarkan oleh Ad-Daraquthni."
     },
     {
-      "title": "Kitab al-Jami' - Bab Kebaikan dan Silaturahmi (Birr wa Shilah)",
-      "titleArabic": "كِتَابُ الْجَامِعِ - بَابُ الْبِرِّ وَالصِّلَةِ",
-      "arabic": "وَعَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنْ أَحَبَّ أَنْ يُبْسَطَ لَهُ فِي رِزْقِهِ، وَيُنْسَأَ لَهُ فِي أَثَرِهِ، فَلْيَصِلْ رَحِمَهُ». أَخْرَجَهُ الْبُخَارِيُّ.",
-      "translation": "Dari Anas bin Malik radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Barangsiapa yang ingin dilapangkan rezekinya dan dipanjangkan umurnya (dikenang kebaikannya), maka hendaklah ia menyambung tali silaturahmi.' Dikeluarkan oleh Al-Bukhari."
+      "title": "Kitab Al-Jami' - Bab Adab dan Pergaulan",
+      "titleArabic": "كِتَابُ الْجَامِعِ - بَابُ الْآدَابِ",
+      "arabic": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «حَقُّ الْمُسْلِمِ عَلَى الْمُسْلِمِ سِتٌّ: إِذَا لَقِيتَهُ فَسَلِّمْ عَلَيْهِ، وَإِذَا دَعَاكَ فَأَجِبْهُ، وَإِذَا اسْتَنَصَحَكَ فَانْصَحْ لَهُ، وَإِذَا عَطَسَ فَحَمِدَ اللَّهَ فَشَمِّتْهُ، وَإِذَا مَرِضَ فَعُدْهُ، وَإِذَا مَاتَ فَاتَّبِعْهُ». أَخْرَجَهُ مُسْلِمٌ.",
+      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Hak seorang muslim atas muslim lainnya ada enam: Apabila engkau bertemunya maka ucapkanlah salam, apabila ia mengundangmu maka penuhilah, apabila ia meminta nasihat padamu maka beri nasihatlah, apabila ia bersin lalu memuji Allah maka doakanlah (yarhamukallah), apabila ia sakit maka jenguklah, dan apabila ia meninggal maka antarkanlah jenazahnya.' Dikeluarkan oleh Muslim."
     },
     {
-      "title": "Kitab al-Jami' - Bab Zuhud dan Wara'",
-      "titleArabic": "كِتَابُ الْجَامِعِ - بَابُ الزُّهْدِ وَالْوَرَعِ",
-      "arabic": "وَعَنْ النُّعْمَانِ بْنِ بَشِيرٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «إِنَّ الْحَلَالَ بَيِّنٌ وَإِنَّ الْحَرَامَ بَيِّنٌ، وَبَيْنَهُمَا أُمُورٌ مُشْتَبِهَاتٌ لَا يَعْلَمُهُنَّ كَثِيرٌ مِنَ النَّاسِ، فَمَنِ اتَّقَى الشُّبُهَاتِ فَقَدِ اسْتَبْرَأَ لِدِينِهِ وَعِرْضِهِ...». مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari An-Nu'man bin Basyir radhiyallahu 'anhuma, ia berkata: Aku mendengar Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Sesungguhnya yang halal itu jelas dan yang haram itu jelas, dan di antara keduanya terdapat perkara-perkara syubhat (samar) yang tidak diketahui oleh kebanyakan manusia. Barangsiapa menjaga diri dari perkara syubhat, maka ia telah membersihkan agama dan kehormatannya...' Muttafaq 'alaih."
+      "title": "Bab Berbuat Baik dan Silaturahmi (Birr & Silah)",
+      "titleArabic": "بَابُ الْبِرِّ وَالصِّلَةِ",
+      "arabic": "وَعَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنْ أَحَبَّ أَنْ يُبْسَطَ لَهُ فِي رِزْقِهِ، وَيُنْسَأَ لَهُ فِي أَثَرِهِ، فَلْيَصِلْ رَحِمَهُ». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari Anas bin Malik radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Barangsiapa yang ingin dilapangkan rezekinya dan dipanjangkan umurnya (dikenang kebaikannya), maka hendaklah ia menyambung tali silaturahmi.' Muttafaq 'alaih."
     },
     {
-      "title": "Kitab al-Jami' - Bab Peringatan dari Akhlak Tercela",
-      "titleArabic": "كِتَابُ الْجَامِعِ - بَابُ التَّرْهِيبِ مِنْ سُوءِ الْأَخْلَاقِ",
+      "title": "Bab Kesederhanaan dan Kehati-hatian (Zuhd & Wara')",
+      "titleArabic": "بَابُ الزُّهْدِ وَالْوَرَعِ",
+      "arabic": "وَعَنْ النُّعْمَانِ بْنِ بَشِيرٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «إِنَّ الْحَلَالَ بَيِّنٌ، وَإِنَّ الْحَرَامَ بَيِّنٌ، وَبَيْنَهُمَا أُمُورٌ مُشْتَبِهَاتٌ... فَمَنِ اتَّقَى الشُّبُهَاتِ اسْتَبْرَأَ لِدِينِهِ وَعِرْضِهِ». مُتَّفَقٌ عَلَيْهِ.",
+      "translation": "Dari An-Nu'man bin Basyir radhiyallahu 'anhuma, ia berkata: Aku mendengar Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Sesungguhnya yang halal itu jelas dan yang haram itu jelas, dan di antara keduanya terdapat perkara-perkara samar (syubhat)... Barangsiapa yang menjaga diri dari perkara syubhat, maka ia telah membersihkan agama dan kehormatannya.' Muttafaq 'alaih."
+    },
+    {
+      "title": "Bab Peringatan Mencela Akhlak Buruk",
+      "titleArabic": "بَابُ التَّرْهِيبِ مِنْ سُوءِ الْأَخْلَاقِ",
       "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِيَّاكُمْ وَالْحَسَدَ، فَإِنَّ الْحَسَدَ يَأْكُلُ الْحَسَنَاتِ كَمَا تَأْكُلُ النَّارُ الْحَطَبَ». أَخْرَجَهُ أَبُو دَاوُدَ.",
-      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Jauhilah oleh kalian sifat dengki (hasad), karena sesungguhnya dengki itu memakan kebaikan-kebaikan sebagaimana api memakan kayu bakar.' Dikeluarkan oleh Abu Dawud."
+      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Jauhilah oleh kalian sifat hasad (dengki), karena sesungguhnya hasad itu memakan kebaikan-kebaikan sebagaimana api memakan kayu bakar.' Dikeluarkan oleh Abu Dawud."
     },
     {
-      "title": "Kitab al-Jami' - Bab Anjuran Akhlak Mulia",
-      "titleArabic": "كِتَابُ الْجَامِعِ - بَابُ التَّرْغِيبِ فِي مَكَارِمِ الْأَخْلَاقِ",
-      "arabic": "وَعَنْ أَبِي دَرْدَاءَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَا مِنْ شَيْءٍ فِي الْمِيزَانِ أَثْقَلُ مِنْ حُسْنِ الْخُلُقِ». أَخْرَجَهُ أَبُو دَاوُدَ وَالتِّرْمِذِيُّ وَصَحَّحَهُ.",
-      "translation": "Dari Abu Darda radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Tidak ada sesuatupun dalam timbangan (amal) yang lebih berat daripada akhlak yang mulia.' Dikeluarkan oleh Abu Dawud dan At-Tirmidzi dan ia menyebutnya sahih."
+      "title": "Bab Anjuran Berakhlak Mulia",
+      "titleArabic": "بَابُ الترْغِيبِ فِي مَكَارِمِ الْأَخْلَاقِ",
+      "arabic": "وَعَنْ أَبِي الدَّرْدَاءِ رَضِيَ اللَّهُ عَنْهُ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «مَا مِنْ شَيْءٍ أَثْقَلُ فِي مِيزَانِ الْمُؤْمِنِ يَوْمَ الْقِيَامَةِ مِنْ حُسْنِ الْخُلُقِ». أَخْرَجَهُ أَبُو دَاوُدَ وَالتِّرْمِذِيُّ وَصَحَّحَهُ.",
+      "translation": "Dari Abu Ad-Darda' radhiyallahu 'anhu, ia berkata: Aku mendengar Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Tidak ada sesuatupun yang lebih berat dalam timbangan amal seorang mukmin pada hari kiamat daripada akhlak yang mulia.' Dikeluarkan oleh Abu Dawud dan At-Tirmidzi serta dishahihkannya."
     },
     {
-      "title": "Kitab al-Jami' - Khatimah: Bab Dzikir dan Doa",
-      "titleArabic": "كِتَابُ الْجَامِعِ - بَابُ الذِّكْرِ وَالدُّعَاءِ",
+      "title": "Bab Dzikir dan Doa (Khatimah Penutup Kitab)",
+      "titleArabic": "بَابُ الذِّكْرِ وَالدُّعَاءِ - خَاتِمَةُ الْكِتَابِ",
       "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «كَلِمَتَانِ خَفِيفَتَانِ عَلَى اللِّسَانِ، ثَقِيلَتَانِ فِي الْمِيزَانِ، حَبِيبَتَانِ إِلَى الرَّحْمَنِ: سُبْحَانَ اللَّهِ وَبِحَمْدِهِ، سُبْحَانَ اللَّهِ الْعَظِيمِ». مُتَّفَقٌ عَلَيْهِ.",
-      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Dua kalimat yang ringan di lidah, berat di dalam timbangan, dan dicintai oleh Ar-Rahman (Allah Yang Maha Pengasih), yaitu: Subhanallahi wa bihamdihi, Subhanallahil 'Adzim (Maha Suci Allah dan dengan memuji-Nya, Maha Suci Allah Yang Maha Agung).' Muttafaq 'alaih."
+      "translation": "Dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: 'Dua kalimat yang ringan di lisan, berat dalam timbangan, dan dicintai oleh Ar-Rahman (Allah Yang Maha Pengasih): Subhanallahi wa bihamdihi, Subhanallahil 'Azhim (Maha Suci Allah dan dengan memuji-Nya, Maha Suci Allah Yang Maha Agung).' Muttafaq 'alaih."
     }
   ]
 }
