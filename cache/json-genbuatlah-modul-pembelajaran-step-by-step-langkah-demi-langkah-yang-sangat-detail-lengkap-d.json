@@ -1,143 +1,123 @@
 {
-  "title": "Panduan Lengkap & Praktis Makhorijul Huruf: Dari Nol Sampai Fasih Membaca Al-Qur'an",
-  "intro": "Selamat datang di panduan belajar Makhorijul Huruf! Modul ini dirancang khusus untuk pemula dari tingkat nol agar dapat memahami dan mempraktikkan tempat-tempat keluarnya huruf Hijaiyah secara tepat. Dengan menguasai makhraj, Anda akan terhindar dari kesalahan arti saat membaca Al-Qur'an dan bisa membaca dengan lancar serta indah.",
+  "title": "Modul Praktis Panduan Seni Irama Al-Qur'an (Naghom): Dari Nol Sampai Mahir Berirama",
+  "intro": "Modul ini dirancang khusus untuk membantu pemula memahami dan mempraktikkan seni lagu/irama Al-Qur'an (Maqamat) secara bertahap. Melalui metode praktis ini, Anda tidak hanya belajar memperindah lantunan Al-Qur'an, tetapi juga tetap menjaga keutuhan dan ketepatan kaidah Tajwid.",
   "steps": [
     {
       "stepNumber": 1,
-      "title": "Langkah 1: Mengenal Rongga Mulut & Tenggorokan (Al-Jauf)",
-      "explanation": "Al-Jauf adalah rongga terbuka yang membentang dari tenggorokan hingga mulut. Tempat ini merupakan makhraj bagi bunyi huruf-huruf Mad (bacaan panjang). Suara keluar mengalir bebas tanpa ada hambatan dari lidah, gigi, atau bibir. Hurufnya ada 3, yaitu: Alif (ا) setelah fathah, Wawu (و) sukun setelah dhammah, dan Ya (ي) sukun setelah kasrah.",
+      "title": "Langkah 1: Menguasai 3 Tuntunan Nada Dasar pada Naghom Bayyati (Irama Induk)",
+      "explanation": "Naghom Bayyati adalah irama standar dan paling utama yang wajib dipelajari pertama kali. Kunci menguasai Bayyati adalah memahami 3 tingkatan nada dasar dalam 3 bait ayat: Nada Naik (Qoror), Nada Datar (Nawa), dan Nada Turun (Jawab). Rumus cepatnya: 'Naik - Datar - Turun'.",
       "examples": [
         {
-          "arabic": "قَالَ",
-          "read": "Qoola",
-          "meaning": "Dia telah berkata",
-          "note": "Huruf Alif didahului harakat Fathah. Udara keluar bebas melalui rongga mulut sepanjang 2 harakat."
+          "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+          "read": "Alhamdu lillaahi rabbil 'aalamiiin",
+          "meaning": "Segala puji bagi Allah, Tuhan seluruh alam.",
+          "note": "Bait 1: Gunakan 'Nada Naik'. Di akhir kata 'aalamiin', intonasi suara diangkat sedikit ke atas."
         },
         {
-          "arabic": "يَقُوْلُ",
-          "read": "Yaquulu",
-          "meaning": "Dia sedang berkata",
-          "note": "Huruf Wawu mati didahului Dhammah. Bibir dimajukan/dimonyongkan, suara mengalir dari rongga mulut."
+          "arabic": "الرَّحْمَٰنِ الرَّحِيمِ",
+          "read": "Ar-rahmaanir-rahiiim",
+          "meaning": "Maha Pengasih, Maha Penyayang.",
+          "note": "Bait 2: Gunakan 'Nada Datar'. Intonasi stabil mendatar, mengalir tanpa tekanan tinggi atau rendah."
         },
         {
-          "arabic": "قِيْلَ",
-          "read": "Qiila",
-          "meaning": "Dikatakan",
-          "note": "Huruf Ya mati didahului Kasrah. Suara mengalir halus dari rongga mulut tanpa tekanan berlebih."
+          "arabic": "مَالِكِ يَوْمِ الدِّينِ",
+          "read": "Maaliki yaumid-diiin",
+          "meaning": "Pemilik hari pembalasan.",
+          "note": "Bait 3: Gunakan 'Nada Turun'. Suara direndahkan secara lembut di akhir ayat sebagai penutup gelombang nada."
         }
       ],
-      "actionTip": "Coba bunyikan suara vokal panjang 'AAAA', 'UUUU', 'IIII' secara santai. Rasakan aliran udara mengalir lurus keluar dari tenggorokan melewati rongga mulut tanpa terhalang lidah."
+      "actionTip": "Coba latih Surah Al-Fatihah ayat 2, 3, dan 4 secara berurutan dengan rumus 'Naik - Datar - Turun' secara berulang sampai alurnya terasa alami."
     },
     {
       "stepNumber": 2,
-      "title": "Langkah 2: Menguasai Huruf-Huruf Tenggorokan (Al-Halq)",
-      "explanation": "Al-Halq adalah area tenggorokan. Terdapat 6 huruf yang keluar dari area ini yang dibagi menjadi 3 tingkatan: (1) Pangkal Tenggorokan/Bawah (dekat dada): Hamzah (ء) dan Ha (هـ), (2) Tengah Tenggorokan: 'Ain (ع) dan Ha halus (ح), (3) Ujung Tenggorokan/Atas (dekat akar lidah): Ghain (غ) dan Kha (خ).",
+      "title": "Langkah 2: Menghayati Naghom Shoba (Irama Syahdu & Menyentuh Hati)",
+      "explanation": "Naghom Shoba memiliki karakter yang sangat khas: bernuansa sedih, haru, syahdu, dan penuh penghayatan. Sangat cocok digunakan untuk ayat-ayat penderitaan, peringatan, siksa, atau doa permohonan. Ciri khas lagunya memiliki kegetiran manis (getaran vokal halus) pada nada pertamanya.",
       "examples": [
         {
-          "arabic": "أَكَلَ",
-          "read": "Akala",
-          "meaning": "Dia telah makan",
-          "note": "Huruf Hamzah (أ) keluar dari pangkal tenggorokan paling dalam, bunyinya tegas dan jelas."
+          "arabic": "وَالضُّحَىٰ",
+          "read": "Wadh-dhuhaa",
+          "meaning": "Demi waktu dhuha (ketika matahari naik sepenggalan).",
+          "note": "Pembuka Shoba: Tarik nafas, lantunkan kata ini dengan nada agak tertekan lembut dan agak tinggi bernuansa haru."
         },
         {
-          "arabic": "حَمِدَ",
-          "read": "Hamida",
-          "meaning": "Dia telah memuji",
-          "note": "Huruf Ha (ح) keluar dari tengah tenggorokan, bunyinya bersih dan diiringi hembusan napas halus."
-        },
-        {
-          "arabic": "خَلَقَ",
-          "read": "Khalaqa",
-          "meaning": "Dia telah menciptakan",
-          "note": "Huruf Kha (خ) keluar dari tenggorokan atas, ada sedikit getaran / geseran getar halus seperti berkumur."
+          "arabic": "وَاللَّيْلِ إِذَا سَجَىٰ",
+          "read": "Wal-laili idzaa sajaa",
+          "meaning": "Dan demi malam apabila telah sunyi.",
+          "note": "Pengembangan Shoba: Nada dibuat mengayun lembut turun secara perlahan mendalam."
         }
       ],
-      "actionTip": "Lakukan tes suara tenggorokan: Ucapkan 'A-I-U' untuk Hamzah di tenggorokan bawah, lalu ucapkan 'HA-HI-HU' dengan napas bersih seperti saat kegeregetan untuk Ha (ح) di tenggorokan tengah."
+      "actionTip": "Latih nada Shoba pada ayat-ayat bernuansa penyesalan atau doa. Bayangkan sedang memohon langsung kepada Allah dengan rasa kerendahan hati."
     },
     {
       "stepNumber": 3,
-      "title": "Langkah 3: Menguasai Area Lidah (Al-Lisan) - Bagian Terbanyak Huruf",
-      "explanation": "Al-Lisan (Lidah) adalah makhraj dengan huruf terbanyak (18 huruf). Agar mudah dipahami pemula, bagi menjadi 4 bagian utama: Pangkal lidah (Qof [ق], Kaf [ك]), Tengah lidah (Jim [ج], Syin [ش], Ya [ي]), Tepi/Sisi lidah (Dhad [ض], Lam [ل]), dan Ujung lidah (Nun [ن], Ro [ر], Tho [ط], Dal [د], Ta [ت], Shod [ص], Sin [س], Zai [ز], Zho [ظ], Dzal [ذ], Tsa [ث]).",
+      "title": "Langkah 3: Menikmati Naghom Nahawand (Irama Lembut, Romantis & Manis)",
+      "explanation": "Naghom Nahawand adalah irama yang sangat populer karena karakternya yang lembut, manis, santai, dan penuh keindahan. Irama ini sangat pas dipakai membaca ayat-ayat tentang kabar gembira, surga, atau kisah-kisah kenabian.",
       "examples": [
         {
-          "arabic": "قَلَبَ",
-          "read": "Qalaba",
-          "meaning": "Dia membalikkan",
-          "note": "Huruf Qof (ق) keluar dari pangkal lidah paling belakang yang membentur langit-langit lunak. Suaranya tebal."
+          "arabic": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+          "read": "Alam nashrah laka shadrak",
+          "meaning": "Bukankah Kami telah melapangkan dadamu?",
+          "note": "Nahawand Naik: Nada meliuk manis ke atas di pertengahan ayat dengan lembut."
         },
         {
-          "arabic": "شَكَرَ",
-          "read": "Syakara",
-          "meaning": "Dia bersyukur",
-          "note": "Huruf Syin (ش) keluar dari tengah lidah yang diangkat ke langit-langit, diiringi penyebaran angin di mulut."
-        },
-        {
-          "arabic": "صَبَرَ",
-          "read": "Shabara",
-          "meaning": "Dia bersabar",
-          "note": "Huruf Shod (ص) keluar dari ujung lidah mendekati belakang gigi seri bawah, menghasilkan suara tebal bersiul."
+          "arabic": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+          "read": "Wa wadha'naa 'anka wizrak",
+          "meaning": "Dan Kami pun telah menurunkan bebanmu darimu.",
+          "note": "Nahawand Turun: Nada mengayun meluncur turun dengan halus di bagian ujung ayat."
         }
       ],
-      "actionTip": "Praktek huruf Tsa (ث), Dzal (ذ), dan Zho (ظ): Keluarkan sedikit saja ujung lidah Anda di antara gigi seri atas dan bawah, lalu hembuskan napas pelan."
+      "actionTip": "Latihan Nahawand membutuhkan kestabilan nafas. Usahakan tidak terlalu memaksakan tekanan vokal keras; biarkan suara mengalir rileks."
     },
     {
       "stepNumber": 4,
-      "title": "Langkah 4: Area Bibir (Asy-Syafataain) & Rongga Hidung (Al-Khaysyoom)",
-      "explanation": "Asy-Syafataain adalah makhraj dua bibir yang menghasilkan 4 huruf: Fa (ف - bibir bawah bagian dalam menempel gigi seri atas), Wawu (و - membulatkan kedua bibir), Ba (ب - merapatkan kedua bibir dengan kuat), dan Mim (م - merapatkan dua bibir dengan lembut). Sedangkan Al-Khaysyoom adalah rongga hidung, tempat keluarnya suara dengung (Ghunnah) ketika membaca Nun atau Mim yang bertasydid.",
+      "title": "Langkah 4: Menjiwai Naghom Rast (Irama Tegas, Megah & Bersemangat)",
+      "explanation": "Naghom Rast memiliki karakter tegas, lincah, berwibawa, dan megah. Irama ini sering digunakan oleh para imam Masjidil Haram. Sangat cocok diterapkan pada ayat-ayat hukum, perintah, larangan, serta kisah kemenangan.",
       "examples": [
         {
-          "arabic": "فَتَحَ",
-          "read": "Fataha",
-          "meaning": "Dia membuka",
-          "note": "Huruf Fa (ف) dibaca dengan menempelkan perut bibir bawah ke ujung gigi seri atas."
+          "arabic": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
+          "read": "Idzaa jaa-a nasrullaahi wal-fath",
+          "meaning": "Apabila telah datang pertolongan Allah dan kemenangan.",
+          "note": "Rast Naik: Nada tegas penuh semangat membumbung naik secara mantap."
         },
         {
-          "arabic": "مَلَكِ",
-          "read": "Malaki",
-          "meaning": "Raja / Pemilik",
-          "note": "Huruf Mim (م) dibaca dengan menutup/merapatkan kedua bibir atas dan bawah secara halus."
-        },
-        {
-          "arabic": "إِنَّ",
-          "read": "Inna",
-          "meaning": "Sesungguhnya",
-          "note": "Nun bertasydid membunyikan suara mendengung yang getarannya mengalir lewat rongga hidung selama 2 harakat."
+          "arabic": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا",
+          "read": "Wa ra-aitan-naasa yadkhuluuna fii diinillaahi afwaajaa",
+          "meaning": "Dan engkau melihat manusia berbondong-bondong masuk agama Allah.",
+          "note": "Rast Jawab: Nada tinggi megah namun tetap terkontrol rapi pada bacaan ghunnah dan mad."
         }
       ],
-      "actionTip": "Gunakan tes hidung: Ucapkan kata 'INNA' lalu picit/tutup hidung Anda saat membacanya. Jika suara langsung terhenti atau berubah gemerisik, berarti makhraj Al-Khaysyoom Anda sudah tepat!"
+      "actionTip": "Gunakan pernapasan perut agar nada Rast terdengar mantap, lantang, dan berwibawa tanpa membuat tenggorokan sakit."
     },
     {
       "stepNumber": 5,
-      "title": "Langkah 5: Metode Praktis Uji Mandiri (Sukun Test) & Praktek Ayat",
-      "explanation": "Untuk mengetahui letak pasti makhraj huruf secara mandiri, gunakan 'Metode Sukun Test': Tambahkan huruf Alif berharakat (misal: 'A') di depan huruf yang ingin diuji, lalu berikan harakat Sukun/Mati pada huruf tersebut. Tempat di mana suara atau gerakan organ terhenti, di situlah letak makhraj aslinya. Kemudian aplikasikan langsung pada ayat Al-Qur'an.",
+      "title": "Langkah 5: Penerapan Mandiri & Menjaga Keseimbangan Tajwid",
+      "explanation": "Kaidah emas seni membaca Al-Qur'an adalah: 'Tajwid adalah Utama, Naghom adalah Penghias'. Jangan sampai lagu/irama merusak panjang pendek (Mad), kejelasan (Izhar), atau dengung (Ghunnah). Pada langkah ini, Anda melatih satu surah penuh menggunakan variasi irama yang telah dipelajari.",
       "examples": [
         {
-          "arabic": "قُلْ هُوَ اللّٰهُ أَحَدٌ",
+          "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ",
           "read": "Qul huwal-laahu ahad",
-          "meaning": "Katakanlah: Dialah Allah, Yang Maha Esa",
-          "note": "Qof (ق) dari pangkal lidah, Lam (ل) dari ujung sisi lidah, Ha (هـ) dari pangkal tenggorokan, Dal (د) dipantulkan halus (Qalqalah)."
-        },
-        {
-          "arabic": "اللّٰهُ الصَّمَدُ",
-          "read": "Allaahush-shamad",
-          "meaning": "Allah adalah Tuhan yang bergantung kepada-Nya segala sesuatu",
-          "note": "Shod (ص) tebal di ujung lidah, Mim (م) rapat dua bibir, Dal (د) dari ujung lidah menempel pangkal gigi seri atas."
+          "meaning": "Katakanlah (Muhammad): Dialah Allah, Yang Maha Esa.",
+          "note": "Lantunkan dengan irama pilihan (misal: Bayyati). Pastikan pantulan Qalqalah di huruf 'Dal' tetap jelas dan tidak hilang karena mengejar cengkok lagu."
         }
       ],
-      "actionTip": "Cobalah latih seluruh huruf hijaiyah dengan rumus Sukun Test: 'AB', 'AT', 'AJS', 'AH', 'AKH', 'AD', 'AR', 'AS', 'AQ'... Perhatikan di mana lidah atau bibir Anda bertumpu!"
+      "actionTip": "Rekam suara Anda sendiri saat membaca Surah Al-Ikhlas sampai An-Naas. Dengarkan kembali untuk memastikan ketepatan tajwid sebelum menilai keindahan iramanya."
     }
   ],
   "sections": [
     {
-      "title": "Ringkasan 5 Tempat Utama Keluarnya Huruf (Makharijul Huruf)",
-      "content": "1. Al-Jauf (Rongga Mulut & Tenggorokan): Tempat suara panjang/Mad (ا, و, ي).\n2. Al-Halq (Tenggorokan): 6 Huruf (ء, هـ, ع, ح, غ, خ).\n3. Al-Lisan (Lidah): 18 Huruf (ق, ك, ج, ش, ي, ض, ل, ن, ر, ط, د, ت, ص, س, ز, ظ, ذ, ث).\n4. Asy-Syafataain (Dua Bibir): 4 Huruf (ف, ب, م, و).\n5. Al-Khaysyoom (Rongga Hidung): Tempat keluarnya getaran Dengung (Ghunnah)."
+      "title": "Ringkasan Kaidah Penting 7 Maqam (Naghom)",
+      "content": "Untuk mempermudah menghafal 7 irama standar Al-Qur'an, gunakan rumus akronim: 'BAYAM SOBA NAHAN RAST HIJAZ JIHAR SIKAH' (1. Bayyati: Induk/Luwes, 2. Shoba: Sedih/Haru, 3. Nahawand: Manis/Lembut, 4. Rast: Tegas/Megah, 5. Hijaz: Padang Pasir/Syahdu Tinggi, 6. Jiharkah: Manis/Perlahan, 7. Sikah: Khas/Timur Tengah)."
+    },
+    {
+      "title": "Aturan Emas Berirama",
+      "content": "1. Tajwid > Naghom (Tajwid wajib didahulukan). 2. Jangan memaksakan cengkok vokal berlebihan jika nafas tidak cukup. 3. Konsisten pada variasi nada naik-datar-turun agar irama terdengar harmonis."
     }
   ],
   "tips": [
-    "Rumus Uji Kunci: Ucapkan huruf dengan didahului Alif fathah dan disukunkan (contoh: 'AJ' untuk huruf Jim, 'AH' untuk huruf Ha) untuk menemukan titik sentuh makhrajnya.",
-    "Gunakan Cermin: Tatap bibir dan posisi lidah Anda di cermin saat melatih huruf-huruf bibir dan huruf yang mengeluarkan ujung lidah.",
-    "Fokus Ketepatan, Bukan Kecepatan: Bagi pemula, menguaskan posisi makhraj jauh lebih penting daripada membaca dengan cepat.",
-    "Simak Murattal Standar Tajwid: Dengarkan bacaan qori yang jelas dan perlahan (seperti Sheikh Mahmud Khalil Al-Husary) untuk menirukan pengucapan yang benar."
+    "Gunakan pernapasan diafragma (perut) agar suara lebih stabil, panjang, dan tidak mudah serak.",
+    "Jangan terburu-buru mencoba cengkok yang rumit; kuasai pola nada lurus (naik-datar-turun) terlebih dahulu.",
+    "Sering-seringlah mendengarkan murottal Qari populer (seperti Sheikh Mishary Rashid atau Sheikh Abdul Basit) untuk mengasah kepekaan telinga (seni sima'i).",
+    "Gunakan cengkok lagu hanya pada bacaan yang panjang (Mad Jaiz/Wajib), jangan pada bacaan pendek."
   ],
-  "summary": "Selamat! Anda telah mempelajari kaidah dasar Makhorijul Huruf secara terstruktur. Menguasai tempat keluarnya huruf adalah fondasi utama agar bacaan Al-Qur'an Anda benar, indah, dan bernilai pahala. Praktikkan rumus Sukun Test setiap hari dan jangan ragu untuk mentasmi'kan (memperdengarkan) bacaan Anda kepada guru atau ustadz terdekat!"
+  "summary": "Mempelajari irama Al-Qur'an adalah ikhtiar untuk mengagungkan kalam Allah dan menyentuh hati pendengarnya. Mulailah dari langkah paling sederhana (Naghom Bayyati) dan utamakan kebenaran Tajwid. Dengan latihan konsisten 15 menit setiap hari, Anda pasti bisa melantunkan Al-Qur'an dengan merdu dan benar!"
 }
