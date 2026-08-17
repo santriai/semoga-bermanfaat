@@ -1,123 +1,125 @@
 {
-  "title": "Modul Praktis Panduan Seni Irama Al-Qur'an (Naghom): Dari Nol Sampai Mahir Berirama",
-  "intro": "Modul ini dirancang khusus untuk membantu pemula memahami dan mempraktikkan seni lagu/irama Al-Qur'an (Maqamat) secara bertahap. Melalui metode praktis ini, Anda tidak hanya belajar memperindah lantunan Al-Qur'an, tetapi juga tetap menjaga keutuhan dan ketepatan kaidah Tajwid.",
+  "title": "Modul Pembelajaran Step-by-Step: Kuasai Ilmu Musthalah Hadits dari Nol sampai Bisa Membaca Kitab Kuning",
+  "intro": "Selamat datang di modul panduan praktis Musthalah Hadits! Modul ini dirancang khusus untuk pemula yang ingin memahami istilah-istilah kunci dalam penelitian dan pembacaan hadits pada Kitab Kuning. Setelah mempelajari modul ini, Anda akan mampu mengenali struktur hadits (sanad dan matan), memahami syarat kualitas hadits, serta mengidentifikasi istilah periwayatan secara mandiri.",
   "steps": [
     {
       "stepNumber": 1,
-      "title": "Langkah 1: Menguasai 3 Tuntunan Nada Dasar pada Naghom Bayyati (Irama Induk)",
-      "explanation": "Naghom Bayyati adalah irama standar dan paling utama yang wajib dipelajari pertama kali. Kunci menguasai Bayyati adalah memahami 3 tingkatan nada dasar dalam 3 bait ayat: Nada Naik (Qoror), Nada Datar (Nawa), dan Nada Turun (Jawab). Rumus cepatnya: 'Naik - Datar - Turun'.",
+      "title": "Langkah 1: Mengenal 3 Pilar Utama Hadits (Sanad, Matan, dan Rawi)",
+      "explanation": "Setiap teks hadits dalam Kitab Kuning selalu terdiri dari dua bagian utama: jalur penyampaian (Sanad) dan isi redaksi (Matan). Orang yang menyampaikannya disebut Rawi (Perawi). Bayangkan Sanad sebagai 'rantai pembawa pesan', dan Matan sebagai 'isi pesannya'. Tanpa sanad yang jelas, suatu ucapan tidak bisa diklaim sebagai hadits.",
       "examples": [
         {
-          "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
-          "read": "Alhamdu lillaahi rabbil 'aalamiiin",
-          "meaning": "Segala puji bagi Allah, Tuhan seluruh alam.",
-          "note": "Bait 1: Gunakan 'Nada Naik'. Di akhir kata 'aalamiin', intonasi suara diangkat sedikit ke atas."
+          "arabic": "حَدَّثَنَا مُسَدَّدٌ قَالَ حَدَّثَنَا يَحْيَى عَنْ شُعْبَةَ عَنْ قَتَادَةَ عَنْ أَنَسٍ",
+          "read": "Haddatsanā Musaddadun qāla haddatsanā Yahyā 'an Syu'bata 'an Qatādata 'an Anasin",
+          "meaning": "Telah menceritakan kepada kami Musaddad, ia berkata: telah menceritakan kepada kami Yahya, dari Syu'bah, dari Qatadah, dari Anas...",
+          "note": "Bagian ini adalah SANAD (Rantai Perawi). Kalimat 'Haddatsanā' (تَدِيث) dan 'An' (عَن) adalah lafazh penyampaian (Sighah Ada')."
         },
         {
-          "arabic": "الرَّحْمَٰنِ الرَّحِيمِ",
-          "read": "Ar-rahmaanir-rahiiim",
-          "meaning": "Maha Pengasih, Maha Penyayang.",
-          "note": "Bait 2: Gunakan 'Nada Datar'. Intonasi stabil mendatar, mengalir tanpa tekanan tinggi atau rendah."
-        },
-        {
-          "arabic": "مَالِكِ يَوْمِ الدِّينِ",
-          "read": "Maaliki yaumid-diiin",
-          "meaning": "Pemilik hari pembalasan.",
-          "note": "Bait 3: Gunakan 'Nada Turun'. Suara direndahkan secara lembut di akhir ayat sebagai penutup gelombang nada."
+          "arabic": "لاَ يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ ِلأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ",
+          "read": "Lā yu'minu ahadukum hattā yuhibba li-akhīhi mā yuhibbu li-nafsih",
+          "meaning": "Tidak beriman salah seorang di antara kalian hingga ia menyukai untuk saudaranya apa yang ia sukai untuk dirinya sendiri.",
+          "note": "Bagian ini adalah MATAN (Isi Sabda Nabi SAW)."
         }
       ],
-      "actionTip": "Coba latih Surah Al-Fatihah ayat 2, 3, dan 4 secara berurutan dengan rumus 'Naik - Datar - Turun' secara berulang sampai alurnya terasa alami."
+      "actionTip": "Saat membaca kitab, carilah kata pemisah seperti 'عَنْ' (dari) atau 'حَدَّثَنَا' (menceritakan kepada kami). Semua nama sebelum ucapan Nabi adalah Sanad, sedangkan ucapan setelahnya adalah Matan."
     },
     {
       "stepNumber": 2,
-      "title": "Langkah 2: Menghayati Naghom Shoba (Irama Syahdu & Menyentuh Hati)",
-      "explanation": "Naghom Shoba memiliki karakter yang sangat khas: bernuansa sedih, haru, syahdu, dan penuh penghayatan. Sangat cocok digunakan untuk ayat-ayat penderitaan, peringatan, siksa, atau doa permohonan. Ciri khas lagunya memiliki kegetiran manis (getaran vokal halus) pada nada pertamanya.",
+      "title": "Langkah 2: Memahami Klasifikasi Kualitas Hadits (Shahih, Hasan, Dha'if)",
+      "explanation": "Kualitas hadits dibagi menjadi tiga kelompok besar berdasarkan kekuatan rantai sanad dan para perawinya: 1) Shahih (sangat kuat/sehat), 2) Hasan (baik/cukup kuat), dan 3) Dha'if (lemang/kurang syarat). Syarat utama Hadits Shahih ada 5: Sanadnya bersambung (Ittishal), perawinya adil ('Adalah), perawinya kuat ingatan (Dhabth), tidak bertentangan dengan perawi lain (Adamusy-Syudzudz), dan tidak memiliki cacat tersembunyi (Adamul-'Illah).",
       "examples": [
         {
-          "arabic": "وَالضُّحَىٰ",
-          "read": "Wadh-dhuhaa",
-          "meaning": "Demi waktu dhuha (ketika matahari naik sepenggalan).",
-          "note": "Pembuka Shoba: Tarik nafas, lantunkan kata ini dengan nada agak tertekan lembut dan agak tinggi bernuansa haru."
+          "arabic": "الصَّحِيحُ: مَا اتَّصَلَ سَنَدُهُ بِنَقْلِ الْعَدْلِ الضَّابِطِ عَنْ مِثْلِهِ",
+          "read": "Ash-Shahīhu: Māt-tashala sanaduhu bi-naqlil-'adlid-dhābiti 'an mithlihi",
+          "meaning": "Hadits Shahih adalah hadits yang bersambung sanadnya melalui penukilan perawi yang adil dan dhabith dari perawi yang sepadan dengannya.",
+          "note": "Jika hafalan perawi sedikit lebih rendah tingkatannya namun tetap adil, statusnya turun menjadi Hadits Hasan."
         },
         {
-          "arabic": "وَاللَّيْلِ إِذَا سَجَىٰ",
-          "read": "Wal-laili idzaa sajaa",
-          "meaning": "Dan demi malam apabila telah sunyi.",
-          "note": "Pengembangan Shoba: Nada dibuat mengayun lembut turun secara perlahan mendalam."
+          "arabic": "الضَّعِيفُ: كُلُّ حَدِيثٍ لَمْ يَجْمَعْ صِفَاتِ القَبُولِ",
+          "read": "Adh-Dha'īfu: Kullu hadītsin lam yajma' sifātal-qabūl",
+          "meaning": "Hadits Dha'if adalah setiap hadits yang tidak memenuhi syarat-syarat penerimaan (Shahih atau Hasan).",
+          "note": "Penyebab dha'if bisa karena sanad terputus atau perawi cacat bermasalah."
         }
       ],
-      "actionTip": "Latih nada Shoba pada ayat-ayat bernuansa penyesalan atau doa. Bayangkan sedang memohon langsung kepada Allah dengan rasa kerendahan hati."
+      "actionTip": "Ingat rumus cepat: Shahih = Adil + Dhabith Kuat + Sanad Bersambung. Hasan = Adil + Dhabith Sedang + Sanad Bersambung. Dha'if = Gugur salah satu syarat."
     },
     {
       "stepNumber": 3,
-      "title": "Langkah 3: Menikmati Naghom Nahawand (Irama Lembut, Romantis & Manis)",
-      "explanation": "Naghom Nahawand adalah irama yang sangat populer karena karakternya yang lembut, manis, santai, dan penuh keindahan. Irama ini sangat pas dipakai membaca ayat-ayat tentang kabar gembira, surga, atau kisah-kisah kenabian.",
+      "title": "Langkah 3: Mengenal Sandaran Teks Hadits (Marfu', Mauquf, Maqthu')",
+      "explanation": "Teks dalam kitab kuning tidak hanya memuat ucapan Nabi, tetapi kadang memuat perkataan Sahabat atau Tabi'in. Pembagian berdasarkan kepada siapa ucapan itu disandarkan adalah: 1) Marfu' (disandarkan kepada Nabi SAW), 2) Mauquf (disandarkan kepada Sahabat), dan 3) Maqthu' (disandarkan kepada Tabi'in/generasi setelah sahabat).",
       "examples": [
         {
-          "arabic": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
-          "read": "Alam nashrah laka shadrak",
-          "meaning": "Bukankah Kami telah melapangkan dadamu?",
-          "note": "Nahawand Naik: Nada meliuk manis ke atas di pertengahan ayat dengan lembut."
+          "arabic": "مَرْفُوعٌ: مَا أُضِيفَ إِلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+          "read": "Marfū'un: Mā udhīfa ilan-Nabiyyi shallallāhu 'alaihi wa sallama",
+          "meaning": "Marfu' adalah apa yang disandarkan langsung kepada Nabi Muhammad SAW.",
+          "note": "Bisa berupa perkataan (qaul), perbuatan (fi'il), atau penetapan (taqrir)."
         },
         {
-          "arabic": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
-          "read": "Wa wadha'naa 'anka wizrak",
-          "meaning": "Dan Kami pun telah menurunkan bebanmu darimu.",
-          "note": "Nahawand Turun: Nada mengayun meluncur turun dengan halus di bagian ujung ayat."
+          "arabic": "مَوْقُوفٌ: مَا أُضِيفَ إِلَى الصَّحَابِيِّ",
+          "read": "Mauqūfun: Mā udhīfa ilash-Sahābiyyi",
+          "meaning": "Mauquf adalah apa yang disandarkan kepada Sahabat Nabi.",
+          "note": "Contoh: Perkataan Ibnu Umar atau Umar bin Khattab tentang suatu hukum."
+        },
+        {
+          "arabic": "مَقْطُوعٌ: مَا أُضِيفَ إِلَى التَّابِعِيِّ",
+          "read": "Maqtū'un: Mā udhīfa it-Tābi'iyyi",
+          "meaning": "Maqthu' adalah apa yang disandarkan kepada generasi Tabi'in.",
+          "note": "Contoh: Fatwa Hasan Al-Bashri atau Said bin Al-Musayyib."
         }
       ],
-      "actionTip": "Latihan Nahawand membutuhkan kestabilan nafas. Usahakan tidak terlalu memaksakan tekanan vokal keras; biarkan suara mengalir rileks."
+      "actionTip": "Perhatikan kata kunci: Jika berlanjut ke 'النَّبِيّ' = Marfu'. Jika berhenti di 'الصَّحَابِيّ' = Mauquf. Jika pada 'التَّابِعِيّ' = Maqthu'."
     },
     {
       "stepNumber": 4,
-      "title": "Langkah 4: Menjiwai Naghom Rast (Irama Tegas, Megah & Bersemangat)",
-      "explanation": "Naghom Rast memiliki karakter tegas, lincah, berwibawa, dan megah. Irama ini sering digunakan oleh para imam Masjidil Haram. Sangat cocok diterapkan pada ayat-ayat hukum, perintah, larangan, serta kisah kemenangan.",
+      "title": "Langkah 4: Memahami Istilah Singkatan Perawi dalam Kitab Kuning",
+      "explanation": "Para ulama hadits sering menggunakan kode atau singkatan khusus saat menyebutkan mukharrij (penyusun kitab hadits). Memahami simbol dan istilah ini sangat vital saat membaca kitab seperti Bulughul Maram atau Riyadhash-Shalihin.",
       "examples": [
         {
-          "arabic": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
-          "read": "Idzaa jaa-a nasrullaahi wal-fath",
-          "meaning": "Apabila telah datang pertolongan Allah dan kemenangan.",
-          "note": "Rast Naik: Nada tegas penuh semangat membumbung naik secara mantap."
+          "arabic": "مُتَّفَقٌ عَلَيْهِ",
+          "read": "Muttafaqun 'Alaihi",
+          "meaning": "Disepakati oleh keduanya (Diriwayatkan oleh Imam Bukhari dan Imam Muslim).",
+          "note": "Merupakan tingkat keshahihan tertinggi dalam riwayat hadits."
         },
         {
-          "arabic": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا",
-          "read": "Wa ra-aitan-naasa yadkhuluuna fii diinillaahi afwaajaa",
-          "meaning": "Dan engkau melihat manusia berbondong-bondong masuk agama Allah.",
-          "note": "Rast Jawab: Nada tinggi megah namun tetap terkontrol rapi pada bacaan ghunnah dan mad."
+          "arabic": "رَوَاهُ السَّبْعَةُ",
+          "read": "Rawāhus-Sab'ah",
+          "meaning": "Diriwayatkan oleh 7 Imam Hadits (Ahmad, Bukhari, Muslim, Abu Dawud, Tirmidzi, Nasa'i, Ibnu Majah).",
+          "note": "Singkatan penting yang sering muncul dalam kitab hukum seperti Bulughul Maram."
+        },
+        {
+          "arabic": "أَخْرَجَهُ الأَرْبَعَةُ",
+          "read": "Akhrajahul-Arba'ah",
+          "meaning": "Diriwayatkan oleh 4 Imam Sunan (Abu Dawud, Tirmidzi, Nasa'i, Ibnu Majah).",
+          "note": "Jika ditambah 'إِلاَّ' (kecuali), berarti salah satu dari empat tersebut tidak meriwayatkan."
         }
       ],
-      "actionTip": "Gunakan pernapasan perut agar nada Rast terdengar mantap, lantang, dan berwibawa tanpa membuat tenggorokan sakit."
+      "actionTip": "Hafalkan istilah ringkas ini: Muttafaqun 'Alaih = Bukhari + Muslim. Arba'ah = 4 Penyusun Sunan. Khamsah = Arba'ah + Ahmad."
     },
     {
       "stepNumber": 5,
-      "title": "Langkah 5: Penerapan Mandiri & Menjaga Keseimbangan Tajwid",
-      "explanation": "Kaidah emas seni membaca Al-Qur'an adalah: 'Tajwid adalah Utama, Naghom adalah Penghias'. Jangan sampai lagu/irama merusak panjang pendek (Mad), kejelasan (Izhar), atau dengung (Ghunnah). Pada langkah ini, Anda melatih satu surah penuh menggunakan variasi irama yang telah dipelajari.",
+      "title": "Langkah 5: Praktek Analisis Mandiri Membaca Teks Hadits Kitab Kuning",
+      "explanation": "Mari kita kombinasikan seluruh langkah di atas untuk membedah sebuah riwayat utuh dari kitab kuning.",
       "examples": [
         {
-          "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ",
-          "read": "Qul huwal-laahu ahad",
-          "meaning": "Katakanlah (Muhammad): Dialah Allah, Yang Maha Esa.",
-          "note": "Lantunkan dengan irama pilihan (misal: Bayyati). Pastikan pantulan Qalqalah di huruf 'Dal' tetap jelas dan tidak hilang karena mengejar cengkok lagu."
+          "arabic": "عَنْ أَمِيرِ الْمُؤْمِنِينَ عُمَرَ بْنِ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ... (رَوَاهُ الْبُخَارِيُّ وَمُسْلِمٌ)",
+          "read": "'An Amīril-Mu'minīna 'Umarabnil-Khattābi radiyallāhu 'anhu qāla: sami'tu Rasūlallāhi shallallāhu 'alaihi wa sallama yaqūlu: Innamāl-a'mālu bin-niyyāti... (Rawāhul-Bukhāriyyu wa Muslimun)",
+          "meaning": "Dari Amirul Mukminin Umar bin Khattab RA berkata: Saya mendengar Rasulullah SAW bersabda: Sesungguhnya amal perbuatan itu tergantung niatnya... (Diriwayatkan oleh Al-Bukhari dan Muslim).",
+          "note": "Analisis: 1) Umar bin Khattab = Sahabat (Sanad akhir), 2) Sami'tu Rasūlallāhi = Lambang kebersambungan sanad, 3) Innamāl a'mālu... = Matan Hadits, 4) Perkasus = Hadits Marfu' Shahih (Muttafaqun 'Alaih)."
         }
       ],
-      "actionTip": "Rekam suara Anda sendiri saat membaca Surah Al-Ikhlas sampai An-Naas. Dengarkan kembali untuk memastikan ketepatan tajwid sebelum menilai keindahan iramanya."
+      "actionTip": "Cobalah buka Kitab Arba'in Nawawiyah, pilih Hadits Nomor 2, lalu pisahkan mana Sanad, mana Matan, dan tentukan siapa Mukharrijnya!"
     }
   ],
   "sections": [
     {
-      "title": "Ringkasan Kaidah Penting 7 Maqam (Naghom)",
-      "content": "Untuk mempermudah menghafal 7 irama standar Al-Qur'an, gunakan rumus akronim: 'BAYAM SOBA NAHAN RAST HIJAZ JIHAR SIKAH' (1. Bayyati: Induk/Luwes, 2. Shoba: Sedih/Haru, 3. Nahawand: Manis/Lembut, 4. Rast: Tegas/Megah, 5. Hijaz: Padang Pasir/Syahdu Tinggi, 6. Jiharkah: Manis/Perlahan, 7. Sikah: Khas/Timur Tengah)."
-    },
-    {
-      "title": "Aturan Emas Berirama",
-      "content": "1. Tajwid > Naghom (Tajwid wajib didahulukan). 2. Jangan memaksakan cengkok vokal berlebihan jika nafas tidak cukup. 3. Konsisten pada variasi nada naik-datar-turun agar irama terdengar harmonis."
+      "title": "Ringkasan Kaidah Penting Musthalah Hadits",
+      "content": "1. Hadits = Sanad + Matan.\n2. Kualitas Hadits: Shahih (Sangat Baik), Hasan (Baik), Dha'if (Lemah), Maudhu' (Palsu/Bukan Hadits).\n3. Sandaran Hadits: Marfu' (Nabi SAW), Mauquf (Sahabat), Maqthu' (Tabi'in).\n4. Rantai Sanad Terputus: Munqathi' (Terputus di tengah), Mursal (Gugur tingkat Sahabat), Mu'allaq (Gugur di awal sanad).\n5. Syaikhan / Muttafaqun 'Alaih = HR. Bukhari dan Muslim."
     }
   ],
   "tips": [
-    "Gunakan pernapasan diafragma (perut) agar suara lebih stabil, panjang, dan tidak mudah serak.",
-    "Jangan terburu-buru mencoba cengkok yang rumit; kuasai pola nada lurus (naik-datar-turun) terlebih dahulu.",
-    "Sering-seringlah mendengarkan murottal Qari populer (seperti Sheikh Mishary Rashid atau Sheikh Abdul Basit) untuk mengasah kepekaan telinga (seni sima'i).",
-    "Gunakan cengkok lagu hanya pada bacaan yang panjang (Mad Jaiz/Wajib), jangan pada bacaan pendek."
+    "Fokuslah memahami perbedaan Sanad dan Matan terlebih dahulu sebelum menghafal nama-nama perawi.",
+    "Gunakan Kitab 'Al-Baiquniyyah' atau 'Taisir Musthalah Hadith' karya Dr. Mahmud Thahhan sebagai referensi lanjutan yang sangat ramah pemula.",
+    "Selalu perhatikan kata sambung sanad: 'حَدَّثَنَا' (Telah menceritakan kepada kami - pendengaran langsung) dan 'عَنْ' (Dari - perantara/an'anah).",
+    "Jangan terburu-buru menghukumi hadits dha'if sebelum memeriksa apakah ada jalur sanad penguat lain (Syahid/Mutabi')."
   ],
-  "summary": "Mempelajari irama Al-Qur'an adalah ikhtiar untuk mengagungkan kalam Allah dan menyentuh hati pendengarnya. Mulailah dari langkah paling sederhana (Naghom Bayyati) dan utamakan kebenaran Tajwid. Dengan latihan konsisten 15 menit setiap hari, Anda pasti bisa melantunkan Al-Qur'an dengan merdu dan benar!"
+  "summary": "Mempelajari Musthalah Hadits adalah pintu gerbang utama untuk menjaga kemurnian ajaran Islam dan memahami Kitab Kuning dengan tepat. Dengan menguasai konsep dasar Sanad, Matan, dan Kriteria Periwayatan ini, Anda kini siap membaca dan menganalisis teks-teks hadits secara kritis dan mandiri. Tetap semangat, konsisten berpraktik, dan terus tingkatkan kemampuan bahasa Arab Anda!"
 }
