@@ -2,157 +2,103 @@
   "profile": {
     "name": "Abniyat al-Af'al",
     "originalTitle": "أَبْنِيَةُ الْأَفْعَالِ",
-    "author": "Al-Imam Abu Bakr Muhammad ibn 'Umar ibn 'Abd al-'Aziz al-Qurtubi (Ibn al-Qutiya)",
-    "field": "Sharaf / Morphology (عِلْمُ الصَّرْفِ)",
-    "about": "Kitab Abniyat al-Af'al karya Ibn al-Qutiya merupakan salah satu rujukan otentik dan tertua dalam disiplin ilmu Sharaf (morfologi bahasa Arab) dari kawasan Andalusia. Kitab ini secara sistematis mengupas wazan-wazan (pola) kata kerja Arab, mulai dari fi'il thulathi mujarrad, ruba'i, hingga bentuk-bentuk mazid beserta makna fungsionalnya. Penulis menyusun wazan kata kerja berdasarkan pola bentuk, perubahan harakat 'ain fi'il pada fi'il madhi dan mudhari', serta kaidah perubahan morfologis yang menyertainya. Karya ini menjadi pijakan penting dalam tradisi keilmuan gramatika Arab dan sering dijadikan rujukan standar dalam memahami derivasi kata serta perubahan makna kata kerja dalam al-Qur'an dan teks-teks klasik. Dalam tradisi pesantren, studi abniyat al-af'al merupakan fondasi kritis sebelum mendalami kitab-kitab tata bahasa Arab tingkat lanjut.",
-    "authorBorn": "Cordoba, Andalusia (Spanyol)",
-    "authorDied": "367 H / 977 M",
-    "authorCentury": "Abad ke-4 H / ke-10 M"
+    "author": "Abu Bakr Muhammad ibn 'Umar ibn 'Abd al-'Aziz al-Qurtubi (Ibn al-Qutiya) (أَبُو بَكْرٍ مُحَمَّدُ بْنُ عُمَرَ بْنِ عَبْدِ الْعَزِيزِ الْقُرْطُبِيُّ - ابْنُ الْقُوطِيَّةِ)",
+    "field": "Ilmu Sharaf & Lughah (Morfologi Bahasa Arab)",
+    "about": "Kitab Abniyat al-Af'al karya Ibn al-Qutiya merupakan salah satu karya monumental terawal dalam bidang morfologi (sharaf) khusus mengenai pola-pola fi'il (kata kerja) dalam bahasa Arab. Kitab ini menguraikan secara terperinci wazan-wazan fi'il tsulathi mujarrad, mazid, serta ruba'i beserta makna dan derivasinya. Pembahasan disusun secara sistematis menurut kaidah-kaidah lughawi yang menjadi rujukan mendasar para ulama di Andalusia dan kawasan Maghribi. Karya ini menjadi jembatan penting dalam memahami tatanan pembentukan kata kerja Arab klasik dan makna semantis di balik perubahan wazan. Hingga kini, kitab ini terus menjadi pilar kajian turath linguistik Islam.",
+    "authorBorn": "Cordoba (Qurtubah), Andalusia",
+    "authorDied": "23 Rabi'ul Awwal 367 H / 977 M",
+    "authorCentury": "Abad ke-4 Hijriah / Abad ke-10 Masehi"
   },
   "chapters": [
     {
-      "title": "Muqaddimah Penulis",
-      "titleArabic": "مُقَدِّمَةُ الْمُؤَلِّفِ",
-      "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ. قَالَ أَبُو بَكْرٍ مُحَمَّدُ بْنُ عُمَرَ بْنِ عَبْدِ الْعَزِيزِ الْقُورْطُبِيُّ الْمَعْرُوفُ بِابْنِ الْقُوطِيَّةِ رَحِمَهُ اللَّهُ: الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ، وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ خَاتَمِ النَّبِيِّينَ وَعَلَى آلِهِ وَصَحْبِهِ أَجْمَعِينَ. هَذَا كِتَابٌ أَلَّفْنَاهُ فِي بَيَانِ أَبْنِيَةِ الْأَفْعَالِ وَتَصَارِيفِهَا، وَمَا يَعْرِضُ لَهَا مِنَ التَّغْيِيرِ وَالزِّيَادَةِ، لِيَكُونَ مَدْخَلًا إِلَى مَعْرِفَةِ كَلَامِ الْعَرَبِ وَفَهْمِ كِتَابِ اللَّهِ عَزَّ وَجَلَّ.",
-      "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Abu Bakr Muhammad ibn 'Umar ibn 'Abd al-'Aziz al-Qurtubi yang dikenal dengan nama Ibn al-Qutiya -semoga Allah merahmatinya- berkata: Alhamdulillah, segala puji bagi Allah Tuhan semesta alam, dan shalawat serta salam semoga tercurah kepada junjungan kita Muhammad, penutup para nabi, beserta keluarga dan para sahabatnya sekalian. Ini adalah kitab yang kami susun dalam menjelaskan wazan-wazan (pola pembentukan) kata kerja (af'al) beserta konjugasinya (tasrif), serta perubahan dan penambahan huruf yang terjadi padanya, agar menjadi pintu masuk untuk memahami kalam Arab dan memahami Kitabullah 'Azza wa Jalla."
+      "title": "Muqaddimah Kitab",
+      "titleArabic": "مُقَدِّمَةُ الْكِتَابِ",
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ. قَالَ الشَّيْخُ أَبُو بَكْرٍ مُحَمَّدُ بْنُ عُمَرَ بْنِ عَبْدِ الْعَزِيزِ الْقُرْطُبِيُّ الْمَعْرُوفُ بِابْنِ الْقُوطِيَّةِ: الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ، وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَآلِهِ وَصَحْبِهِ وَسَلَّمَ. هَذَا كِتَابٌ نَذْكُورُ فِيهِ أَبْنِيَةَ الْأَفْعَالِ فِي كَلَامِ الْعَرَبِ، وَمَا يَتَصَرَّفُ مِنْهَا وَمَا يَلْزَمُ حَالَةً وَاحِدَةً، مَعَ بَيَانِ أَوْزَانِهَا وَمَعَانِيهَا لِيَسْهُلَ عَلَى الطَّالِبِ حِفْظُهَا وَفَهْمُهَا.",
+      "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Syaikh Abu Bakr Muhammad ibn 'Umar ibn 'Abd al-'Aziz al-Qurtubi yang dikenal dengan Ibn al-Qutiya berkata: Segala puji bagi Allah Tuhan semesta alam, dan semoga shalawat serta salam tercurah kepada junjungan kita Nabi Muhammad, keluarga, dan para sahabatnya. Ini adalah kitab yang kami sebutkan di dalamnya pola-pola kata kerja (abniyat al-af'al) dalam tuturan orang Arab, mana yang dapat ditashrif (diderivasi) dan mana yang tetap dalam satu kondisi, beserta penjelasan wazan-wazan dan makna-maknanya agar memudahkan para penuntut ilmu dalam menghafal dan memahaminya."
     },
     {
-      "title": "Pembagian Dasar Kata Kerja (Aqsam al-Fi'l)",
-      "titleArabic": "بَابُ أَقْسَامِ الْفِعْلِ الأَصْلِيَّةِ",
-      "arabic": "أَصْلُ الْأَفْعَالِ إِمَّا ثُلَاثِيٌّ وَإِمَّا رُبَاعِيٌّ. فَالْثُلَاثِيُّ مَا كَانَ عَلَى ثَلَاثَةِ أَحْرُفٍ أَصْلِيَّةٍ، وَالرُّبَاعِيُّ مَا كَانَ عَلَى أَرْبَعَةِ أَحْرُفٍ أَصْلِيَّةٍ. وَكُلُّ وَاحِدٍ مِنْهُمَا إِمَّا جَرَدَ عَنِ الزِّيَادَةِ أَوْ زِيدَ فِيهِ.",
-      "translation": "Asal mula kata kerja itu adakala berbentuk Thulathi (berunsur tiga huruf asal) atau Ruba'i (berunsur empat huruf asal). Thulathi adalah kata yang terdiri dari tiga huruf asli, sedangkan Ruba'i terdiri dari empat huruf asli. Masing-masing dari keduanya adakala sepi dari huruf tambahan (Mujarrad) atau mendapat tambahan huruf (Mazid)."
-    },
-    {
-      "title": "Bab Fi'il Thulathi Mujarrad: Wazan Fa'ala Yaf'ulu",
+      "title": "Bab Fi'il Tsulathi Mujarrad: Fa'ala - Yaf'ulu (فَعَلَ - يَفْعُلُ)",
       "titleArabic": "بَابُ فَعَلَ يَفْعُلُ",
-      "arabic": "الْبَابُ الْأَوَّلُ مِنْ أَبْنِيَةِ الثُّلَاثِيِّ الْمُجَرَّدِ: فَعَلَ يَفْعُلُ، بِفَتْحِ الْعَيْنِ فِي الْمَاضِي وَضَمِّهَا فِي الْمُضَارِعِ. وَيَأْتِي كَثِيرًا فِي الأَفْعَالِ التَّامَّةِ وَالمُتَعَدِّيَةِ وَاللَّازِمَةِ، نَحْوُ: نَصَرَ يَنْصُرُ، وَكَتَبَ يَكْتُبُ، وَقَعَدَ يَقْعُدُ، وَخَرَجَ يَخْرُجُ.",
-      "translation": "Bab pertama dari wazan Thulathi Mujarrad adalah Fa'ala Yaf'ulu (فَعَلَ يَفْعُلُ), dengan fathah pada 'ain fi'il di bentuk Madhi dan dammah di bentuk Mudhari'. Pola ini banyak berlaku pada kata kerja sempurna, baik yang transitif (muta'addi) maupun intransitif (lazim), seperti: Nasara-Yansuru (menolong), Kataba-Yaktubu (menulis), Qa'ada-Yaq'udu (duduk), dan Kharaja-Yakhruju (keluar)."
+      "arabic": "مِنْ أَبْنِيَةِ الثُّلَاثِيِّ الْمُجَرَّدِ: (فَعَلَ يَفْعُلُ) بِفَتْحِ الْعَيْنِ فِي الْمَاضِي وَضَمِّهَا فِي الْمُضَارِعِ. وَيَأْتِي لِلْمُتَعَدِّي وَاللَّازِمِ. فَمِنَ الْمُتَعَدِّي: نَصَرَ يَنْصُرُ، وَكَتَبَ يَكْتُبُ، وَأَخَذَ يَأْخُذُ. وَمِنَ اللَّازِمِ: قَعَدَ يَقْعُدُ، وَخَرَجَ يَخْرُجُ، وَطَلَعَ يَطْلُعُ.",
+      "translation": "Di antara pola fi'il tsulathi mujarrad adalah wazan (فَعَلَ يَفْعُلُ) dengan memfathahkan 'ain fi'il pada bentuk madhi dan mendhommahkannya pada bentuk mudhari'. Wazan ini digunakan untuk fi'il muta'addi (transitif) maupun lazim (intransitif). Contoh fi'il muta me-nolong (نَصَرَ يَنْصُرُ), menulis (كَتَبَ يَكْتُبُ), dan mengambil (أَخَذَ يَأْخُذُ). Contoh fi'il lazim: duduk (قَعَدَ يَقْعُدُ), keluar (خَرَجَ يَخْرُجُ), dan terbit (طَلَعَ يَطْلُعُ)."
     },
     {
-      "title": "Bab Fi'il Thulathi Mujarrad: Wazan Fa'ala Yaf'ilu",
+      "title": "Bab Fi'il Tsulathi Mujarrad: Fa'ala - Yaf'ilu (فَعَلَ - يَفْعِلُ)",
       "titleArabic": "بَابُ فَعَلَ يَفْعِلُ",
-      "arabic": "الْبَابُ الثَّانِي: فَعَلَ يَفْعِلُ، بِفَتْحِ الْعَيْنِ فِي الْمَاضِي وَكَسْرِهَا فِي الْمُضَارِعِ. وَيَأْتِي لِلْمُتَعَدِّي وَاللَّازِمِ، نَحْوُ: ضَرَبَ يَضْرِبُ، وَجَلَسَ يَجْلِسُ، وَعَرَفَ يَعْرِفُ، وَوَعَدَ يَعِدُ.",
-      "translation": "Bab kedua adalah Fa'ala Yaf'ilu (فَعَلَ يَفْعِلُ), dengan fathah pada 'ain fi'il di bentuk Madhi dan kasrah di bentuk Mudhari'. Pola ini digunakan untuk fi'il muta'addi maupun lazim, contohnya: Daraba-Yadribu (memukul), Jalasa-Yajlisu (duduk), 'Arafa-Ya'rifu (mengetahui), dan Wa'ada-Ya'idu (berjanji)."
+      "arabic": "وَمِنْ أَبْنِيَتِهِ: (فَعَلَ يَفْعِلُ) بِفَتْحِ الْعَيْنِ فِي الْمَاضِي وَكَسْرِهَا فِي الْمُضَارِعِ. وَيَأْتِي مُتَعَدِّيًا وَلَازِمًا. فَالْمُتَعَدِّي نَحْوُ: ضَرَبَ يَضْرِبُ، وَكَسَرَ يَكْسِرُ، وَعَرَفَ يَعْرِفُ. وَاللَّازِمُ نَحْوُ: جَلَسَ يَجْلِسُ، وَعَرَضَ يَعْرِضُ، وَنَزَلَ يَنْزِلُ.",
+      "translation": "Dan di antara polanya yaitu (فَعَلَ يَفْعِلُ) dengan memfathahkan 'ain pada madhi dan mengkasrahkannya pada mudhari'. Wazan ini bisa bersifat muta'addi dan lazim. Contoh yang muta'addi: memukul (ضَرَبَ يَضْرِبُ), memecahkan (كَسَرَ يَكْسِرُ), dan mengenal (عَرَفَ يَعْرِفُ). Contoh yang lazim: duduk (جَلَسَ يَجْلِسُ), tampak/terjadi (عَرَضَ يَعْرِضُ), dan turun (نَزَلَ يَنْزِلُ)."
     },
     {
-      "title": "Bab Fi'il Thulathi Mujarrad: Wazan Fa'ala Yaf'alu",
+      "title": "Bab Fi'il Tsulathi Mujarrad: Fa'ala - Yaf'alu (فَعَلَ - يَفْعَلُ)",
       "titleArabic": "بَابُ فَعَلَ يَفْعَلُ",
-      "arabic": "الْبَابُ الثَّالِثُ: فَعَلَ يَفْعَلُ، بِفَتْحِ الْعَيْنِ فِي الْمَاضِي وَالْمُضَارِعِ. وَلَا يَكُونُ إِلَّا إِذَا كَانَتْ عَيْنُهُ أَوْ لَامُهُ حَرْفًا مِنْ حُرُوفِ الْحَلْقِ، وَهِيَ: الْهَمْزَةُ وَالْهَاءُ وَالْعَيْنُ وَالْحَاءُ وَالْغَيْنُ وَالْخَاءُ، نَحْوُ: فَتَحَ يَفْتَحُ، وَقَرَأَ يَقْرَأُ، وَجَعَلَ يَجْعَلُ.",
-      "translation": "Bab ketiga adalah Fa'ala Yaf'alu (فَعَلَ يَفْعَلُ), dengan fathah pada 'ain fi'il baik pada bentuk Madhi maupun Mudhari'. Pola ini tidak terjadi kecuali apabila 'ain fi'il atau lam fi'il-nya berupa salah satu huruf halq (tenggorokan), yaitu: Hamzah, Ha', 'Ain, Ha, Ghain, dan Kha'. Contohnya: Fataha-Yaftahu (membuka), Qara'a-Yaqra'u (membaca), dan Ja'ala-Yaj'alu (jadikan)."
+      "arabic": "وَمِنْ أَبْنِيَتِهِ: (فَعَلَ يَفْعَلُ) بِفَتْحِ الْعَيْنِ فِي الْمَاضِي وَالْمُضَارِعِ. وَلَا يَكُونُ إِلَّا مَا كَانَتْ عَيْنُهُ أَوْ لَامُهُ حَرْفًا مِنْ حُرُوفِ الْحَلْقِ، وَهِيَ: الْهَمْزَةُ وَالْهَاءُ وَالْعَيْنُ وَالْحَاءُ وَالْغَيْنُ وَالْخَاءُ. نَحْوُ: قَرَأَ يَقْرَأُ، وَجَعَلَ يَجْعَلُ، وَفَتَحَ يَفْتَحُ، وَذَهَبَ يَذْهَبُ.",
+      "translation": "Dan di antara polanya yaitu (فَعَلَ يَفْعَلُ) dengan memfathahkan 'ain pada bentuk madhi dan mudhari'. Wazan ini tidak ada kecuali apabila 'ain fi'il atau lam fi'il-nya berupa salah satu dari huruf halq (tenggorokan), yaitu: Hamzah, Ha', 'Ain, Ha, Ghain, dan Kha'. Contohnya: membaca (قَرَأَ يَقْرَأُ), menjadikan (جَعَلَ يَجْعَلُ), membuka (فَتَحَ يَفْتَحُ), dan pergi (ذَهَبَ يَذْهَبُ)."
     },
     {
-      "title": "Bab Fi'il Thulathi Mujarrad: Wazan Fa'ila Yaf'alu",
+      "title": "Bab Fi'il Tsulathi Mujarrad: Fa'ila - Yaf'alu (فَعِلَ - يَفْعَلُ)",
       "titleArabic": "بَابُ فَعِلَ يَفْعَلُ",
-      "arabic": "الْبَابُ الرَّابِعُ: فَعِلَ يَفْعَلُ، بِكَسْرِ الْعَيْنِ فِي الْمَاضِي وَفَتْحِهَا فِي الْمُضَارِعِ. وَيَأْتِي كَثِيرًا فِي الْأَعْرَاضِ وَالْأَلْوَانِ وَالْعُيُوبِ وَالْفَرَحِ وَالْحُزْنِ، نَحْوُ: عَلِمَ يَعْلَمُ، وَفَرِحَ يَفْرَحُ، وَحَزِنَ يَحْزَنُ، وَسَوِدَ يَسْوَدُّ.",
-      "translation": "Bab keempat adalah Fa'ila Yaf'alu (فَعِلَ يَفْعَلُ), dengan kasrah pada 'ain fi'il di bentuk Madhi dan fathah di bentuk Mudhari'. Pola ini sering digunakan untuk menunjukkan sifat temporer, warna, cacat fisik, kegembiraan, dan kesedihan, seperti: 'Alima-Ya'lamu (mengetahui), Fariha-Yafrahu (bergembira), Hazina-Yahzanu (bersedih), dan Sawida-Yaswadu (menjadi hitam)."
+      "arabic": "وَمِنْ أَبْنِيَتِهِ: (فَعِلَ يَفْعَلُ) بِكَسْرِ الْعَيْنِ فِي الْمَاضِي وَفَتْحِهَا فِي الْمُضَارِعِ. وَيَأْتِي لِلْمُتَعَدِّي وَاللَّازِمِ، وَغَالِبُهُ فِي الْأَلْوَانِ وَالْعُيُوبِ وَالْحِلَى وَالْأَحْوَالِ. فَالْمُتَعَدِّي نَحْوُ: عَلِمَ يَعْلَمُ، وَفَهِمَ يَفْهَمُ. وَاللَّازِمُ نَحْوُ: فَرِحَ يَفْرَحُ، وَحَزِنَ يَحْزَنُ، وَعَمِيَ يَعْمَى، وَعَرِجَ يَعْرَجُ.",
+      "translation": "Dan di antara polanya yaitu (فَعِلَ يَفْعَلُ) dengan mengkasrahkan 'ain pada madhi dan memfathahkannya pada mudhari'. Digunakan untuk fi'il muta'addi dan lazim, serta umumnya menunjukkan warna, cacat tubuh, perhiasan/sifat fisik, dan kondisi emosional. Contoh muta'addi: mengetahui (عَلِمَ يَعْلَمُ) dan memahami (فَهِمَ يَفْهَمُ). Contoh lazim: gembira (فَرِحَ يَفْرَحُ), bersedih (حَزِنَ يَحْزَنُ), buta (عَمِيَ يَعْمَى), dan pincang (عَرِجَ يَعْرَجُ)."
     },
     {
-      "title": "Bab Fi'il Thulathi Mujarrad: Wazan Fa'ula Yaf'ulu",
-      "titleArabic": "بَابُ فَعُلَ يَفْعُلُ",
-      "arabic": "الْبَابُ الْخَامِسُ: فَعُلَ يَفْعُلُ، بِضَمِّ الْعَيْنِ فِي الْمَاضِي وَالْمُضَارِعِ. وَلَا يَكُونُ إِلَّا لَازِمًا، وَيَدُلُّ عَلَى السَّجَايَا وَالطِّبَاعِ الثَّابِتَةِ، نَحْوُ: حَسُنَ يَحْسُنُ، وَكَرُمَ يَكْرُمُ، وَجَبُنَ يَجْبُنُ، وَصَغُرَ يَصْغُرُ.",
-      "translation": "Bab kelima adalah Fa'ula Yaf'ulu (فَعُلَ يَفْعُلُ), dengan dammah pada 'ain fi'il di bentuk Madhi dan Mudhari'. Pola ini senantiasa bersifat lazim (intransitif) dan menunjukkan watak atau tabiat yang melekat permanen, seperti: Hasuna-Yahsunu (menjadi baik), Karuma-Yakrumu (menjadi mulia), Jabuna-Yajbunu (menjadi penakut), dan Sagura-Yasguru (menjadi kecil)."
-    },
-    {
-      "title": "Bab Fi'il Thulathi Mujarrad: Wazan Fa'ila Yaf'ilu",
+      "title": "Bab Fi'il Tsulathi Mujarrad: Fa'ila - Yaf'ilu (فَعِلَ - يَفْعِلُ)",
       "titleArabic": "بَابُ فَعِلَ يَفْعِلُ",
-      "arabic": "الْبَابُ السَّادِسُ: فَعِلَ يَفْعِلُ، بِكَسْرِ الْعَيْنِ فِي الْمَاضِي وَالْمُضَارِعِ. وَهُوَ قَلِيلٌ فِي كَلَامِ الْعَرَبِ، نَحْوُ: حَسِبَ يَحْسِبُ، وَوَرِثَ يَرِثُ، وَوَلِيَ يَلِي، وَنَعِمَ يَنِعِمُ.",
-      "translation": "Bab keenam adalah Fa'ila Yaf'ilu (فَعِلَ يَفْعِلُ), dengan kasrah pada 'ain fi'il di bentuk Madhi maupun Mudhari'. Pola ini tergolong sedikit/langka penggunaannya dalam tuturan bahasa Arab, seperti: Hasiba-Yahsibu (mengira), Waritha-Yarithu (mewarisi), Waliya-Yali (memimpin/berdekatan), dan Na'ima-Yan'imu (bersenang-senang)."
+      "arabic": "وَمِنْ أَبْنِيَتِهِ النَّادِرَةِ: (فَعِلَ يَفْعِلُ) بِكَسْرِ الْعَيْنِ فِي الْمَاضِي وَالْمُضَارِعِ. وَهُوَ قَلِيلٌ فِي كَلَامِ الْعَرَبِ، نَحْوُ: حَسِبَ يَحْسِبُ، وَوَرِثَ يَرِثُ، وَوَلِيَ يَلِي، وَوَعِقَ يَعِقُ.",
+      "translation": "Dan di antara pola yang langka adalah (فَعِلَ يَفْعِلُ) dengan mengkasrahkan 'ain baik pada bentuk madhi maupun mudhari'. Wazan ini sangat sedikit ditemukan dalam tuturan bangsa Arab, contohnya: mengira (حَسِبَ يَحْسِبُ), mewarisi (وَرِثَ يَرِثُ), menguasai/berdekatan (وَلِيَ يَلِي), dan bersikap marah (وَعِقَ يَعِقُ)."
     },
     {
-      "title": "Bab Fi'il Ruba'i Mujarrad: Wazan Fa'lala Yufa'lilu",
-      "titleArabic": "بَابُ الْفِعْلِ الرُّبَاعِيِّ الْمُجَرَّدِ (فَعْلَلَ)",
-      "arabic": "وَأَمَّا الرُّبَاعِيُّ الْمُجَرَّدُ فَلَهُ وَزْنٌ وَاحِدٌ وَهُوَ: فَعْلَلَ يُفَعْلِلُ فَعْلَلَةً وَفِعْلَالًا، نَحْوُ: دَحْرَجَ يُدَحْرِجُ دَحْرَجَةً وَدِحْرَاجًا، وَزَلْزَلَ يُزَلْزِلُ زَلْزَلَةً وَزِلْزَالًا. وَيَأْتِي لِلْمُتَعَدِّي وَاللَّازِمِ.",
-      "translation": "Adapun Fi'il Ruba'i Mujarrad hanya memiliki satu bentuk pola (wazan), yaitu Fa'lala Yufa'lilu (فَعْلَلَ يُفَعْلِلُ) dengan masdar Fa'lalatan dan Fi'lalan. Contohnya: Dahraja-Yudahriju-Dahrajatan-Dihrajan (menggelindingkan), dan Zalzala-Yuzalzilu-Zalzalatan-Zilzalan (menguncang). Pola ini bisa bersifat transitif maupun intransitif."
+      "title": "Bab Fi'il Tsulathi Mujarrad: Fa'ula - Yaf'ulu (فَعُلَ - يَفْعُلُ)",
+      "titleArabic": "بَابُ فَعُلَ يَفْعُلُ",
+      "arabic": "وَمِنْ أَبْنِيَتِهِ: (فَعُلَ يَفْعُلُ) بِضَمِّ الْعَيْنِ فِي الْمَاضِي وَالْمُضَارِعِ. وَلَا يَكُونُ إِلَّا لَازِمًا دَالًّا عَلَى السَّجَايَا وَالطِّبَاعِ وَالصِّفَاتِ الثَّابِتَةِ. نَحْوُ: حَسُنَ يَحْسُنُ، وَكَرُمَ يَكْرُمُ، وَشَرُفَ يَشْرُفُ، وَجَبُنَ يَجْبُنُ.",
+      "translation": "Dan di antara polanya yaitu (فَعُلَ يَفْعُلُ) dengan mendhommahkannya pada 'ain madhi dan mudhari'. Wazan ini selalu berupa fi'il lazim (intransitif) yang menunjukkan tabiat bawaan, karakter, atau sifat yang melekat tetap pada seseorang. Contohnya: baik/indah (حَسُنَ يَحْسُنُ), mulia (كَرُمَ يَكْرُمُ), mulia/terhormat (شَرُفَ يَشْرُفُ), dan pengecut (جَبُنَ يَجْبُنُ)."
     },
     {
-      "title": "Bab Thulathi Mazid Satu Huruf: Wazan Af'ala (الإِفْعَال)",
-      "titleArabic": "بَابُ مَا زِيدَ فِيهِ حَرْفٌ وَاحِدٌ: أَفْعَلَ يُفْعِلُ",
-      "arabic": "الْمَزِيدُ الثُّلَاثِيُّ بِحَرْفٍ وَاحِدٍ ثَلَاثَةُ أَبْنِيَةٍ؛ الْأَوَّلُ: أَفْعَلَ يُفْعِلُ إِفْعَالًا. وَمِنْ مَعَانِيهِ التَّعْدِيَةُ، نَحْوُ: أِكْرَمَ يُكْرِمُ إِكْرَامًا، وَأَخْرَجَ يُخْرِجُ إِخْرَاجًا، وَأَنْزَلَ يُنْزِلُ إِنْزَالًا.",
-      "translation": "Fi'il Thulathi Mazid dengan tambahan satu huruf memiliki tiga wazan. Yang pertama adalah Af'ala Yuf'ilu I'falan (أَفْعَلَ يُفْعِلُ إِفْعَالًا). Di antara maknanya yang paling dominan adalah Ta'diyah (menjadikan fi'il lazim menjadi muta'addi/transitif), contohnya: Akrama-Yukrimu-Ikraman (memuliakan), Akhraja-Yukhriju (mengeluarkan), dan Anzala-Yunzilu (menurunkan)."
+      "title": "Bab Fi'il Ruba'i Mujarrad: Fa'lala - Yufa'lilu (فَعْلَلَ - يُفَعْلِلُ)",
+      "titleArabic": "بَابُ الرُّبَاعِيِّ الْمُجَرَّدِ (فَعْلَلَ يُفَعْلِلُ)",
+      "arabic": "وَأَمَّا الرُّبَاعِيُّ الْمُجَرَّدُ فَلَهُ بِنَاءٌ وَاحِدٌ وَهُوَ: (فَعْلَلَ يُفَعْلِلُ) فَعْلَلَةً وَفِعْلَالًا. نَحْوُ: دَحْرَجَ يُدَحْرِجُ دَحْرَجَةً وَدِحْرَاجًا، وَزَلْزَلَ يُزَلْزِلُ زَلْزَلَةً وَزِلْزَالًا، وَوَسْوَسَ يُوَسْوِسُ وَسْوَسَةً وَوِسْوَاسًا.",
+      "translation": "Adapun fi'il ruba'i mujarrad (kata kerja asal empat huruf), ia hanya memiliki satu pola/wazan yaitu: (فَعْلَلَ يُفَعْلِلُ) dengan mashdar فَعْلَلَةً dan فِعْلَالًا. Contohnya: menggelindingkan (دَحْرَجَ يُدَحْرِجُ دَحْرَجَةً وَدِحْرَاجًا), mengguncangkan (زَلْزَلَ يُزَلْزِلُ), dan membisikkan (وَسْوَسَ يُوَسْوِسُ)."
     },
     {
-      "title": "Bab Thulathi Mazid Satu Huruf: Wazan Fa''ala (التَّفْعِيل)",
-      "titleArabic": "بَابُ فَعَّلَ يُفَعِّلُ تَفْعِيلًا",
-      "arabic": "الْبِنَاءُ الثَّانِي: فَعَّلَ يُفَعِّلُ تَفْعِيلًا، بِتَشْدِيدِ الْعَيْنِ. وَمِنْ مَعَانِيهِ التَّكْثِيرُ وَالتَّعْدِيَةُ، نَحْوُ: قَطَّعَ يُقَطِّعُ تَقْطِيعًا، وَعَلَّمَ يُعَلِّمُ تَعْلِيمًا، وَفَرَّحَ يُفَرِّحُ تَفْرِيحًا.",
-      "translation": "Bentuk kedua adalah Fa''ala Yufa''ilu Taf'ilan (فَعَّلَ يُفَعِّلُ تَفْعِيلًا), dengan mengoperasikan tasydid pada 'ain fi'il. Di antara maknanya adalah Takthir (intensitas/banyaknya perbuatan) dan Ta'diyah, contohnya: Qatta'a-Yuqatti'u (memotong-motong hingga berkeping-keping), 'Allama-Yu'allimu (mengajarkan), dan Farraha-Yufarrihu (menggembirakan)."
+      "title": "Bab Thulathi Mazid Satu Huruf: Af'ala - Yuf'ilu (أَفْعَلَ - يُفْعِلُ)",
+      "titleArabic": "بَابُ الثُّلَاثِيِّ الْمَزِيدِ بِحَرْفٍ: أَفْعَلَ يُفْعِلُ",
+      "arabic": "وَأَمَّا الْمَزِيدُ فِيهِ، فَمِنْهُ مَا زِيدَ فِيهِ حَرْفٌ وَاحِدٌ، وَأَوَّلُهُ: (أَفْعَلَ يُفْعِلُ) إِفْعَالًا. وَفَائِدَتُهُ الْغَالِبَةُ التَّعْدِيَةُ، أَيْ جَعْلُ الْفَاعِلِ مَفْعُولًا فِي الْمَعْنَى. نَحْوُ: أَكْرَمَ يُكْرِمُ إِكْرَامًا، وَأَخْرَجَ يُخْرِجُ إِخْرَاجًا، وَأَعْلَمَ يُعْلِمُ إِعْلَامًا.",
+      "translation": "Adapun fi'il mazid (yang mendapat huruf tambahan), di antaranya ada yang ditambahi satu huruf. Wazan pertamanya adalah: (أَفْعَلَ يُفْعِلُ) dengan mashdar إِفْعَالًا. Faedah utamanya pada umumnya adalah at-ta'diyah (menjadikan fi'il lazim menjadi muta'addi). Contohnya: memuliakan (أَكْرَمَ يُكْرِمُ إِكْرَامًا), mengeluarkan (أَخْرَجَ يُخْرِجُ إِخْرَاجًا), dan memberitahukan (أَعْلَمَ يُعْلِمُ إِعْلَامًا)."
     },
     {
-      "title": "Bab Thulathi Mazid Satu Huruf: Wazan Fa'ala (المُفَاعَلَة)",
-      "titleArabic": "بَابُ فَاعَلَ يُفَاعِلُ مُفَاعَلَةً وَفِعَالًا",
-      "arabic": "الْبِنَاءُ الثَّالِثُ: فَاعَلَ يُفَاعِلُ مُفَاعَلَةً وَفِعَالًا، بِأَلِفٍ بَيْنَ الْفَاءِ وَالْعَيْنِ. وَيَدُلُّ غَالِبًا عَلَى الْمُشَارَكَةِ بَيْنَ اثْنَيْنِ، نَحْوُ: ضَارَبَ زَيْدٌ عَمْرًا، وَقَاتَلَ، وَحَاسَبَ يُحَاسِبُ مُحَاسَبَةً.",
-      "translation": "Bentuk ketiga adalah Fa'ala Yufa'ilu Mufa'alatan wa Fi'alan (فَاعَلَ يُفَاعِلُ مُفَاعَلَةً وَفِعَالًا), dengan menyisipkan alif di antara fa' dan 'ain fi'il. Pola ini umumnya menunjukkan Musharakah (interaksi/kesalingan antara dua pihak), contohnya: Daraba Zaidun 'Amran (Zaid dan 'Amr saling memukul), Qatala (saling berperang), dan Hasaba-Yuhasibu-Muhasabatan (saling memperhitungkan)."
+      "title": "Bab Thulathi Mazid Satu Huruf: Fa''ala - Yufa''ilu (فَعَّلَ - يُفَعِّلُ)",
+      "titleArabic": "بَابُ فَعَّلَ يُفَعِّلُ",
+      "arabic": "وَمِنْهُ: (فَعَّلَ يُفَعِّلُ) تَفْعِيلًا، بِتَشْدِيدِ الْعَيْنِ. وَيَأْتِي لِلتَّكْثِيرِ وَالتَّكْرِيرِ وَالتَّعْدِيَةِ. نَحْوُ: قَطَّعَ يُقَطِّعُ تَقْطِيعًا، وَعَلَّمَ يُعَلِّمُ تَعْلِيمًا، وَفَرَّحَ يُفَرِّحُ تَفْرِيحًا.",
+      "translation": "Dan di antaranya yaitu: (فَعَّلَ يُفَعِّلُ) dengan mashdar تَفْعِيلًا, yakni dengan menggandakan (tasydid) 'ain fi'il. Wazan ini berfungsi untuk menunjukkan arti intensitas/banyaknya perbuatan (tatksir), pengulangan (takrir), atau menta'diyahkan kata kerja. Contohnya: memotong-motong (قَطَّعَ يُقَطِّعُ), mengajarkan (عَلَّمَ يُعَلِّمُ), dan menggembirakan (فَرَّحَ يُفَرِّحُ)."
     },
     {
-      "title": "Bab Thulathi Mazid Dua Huruf: Wazan Inf'ala (الإِنْفِعَال)",
-      "titleArabic": "بَابُ انْفَعَلَ يَنْفَعِلُ انْفِعَالًا",
-      "arabic": "الْمَزِيدُ بِحَرْفَيْنِ خَمْسَةُ أَبْنِيَةٍ؛ الأَوَّلُ: انْفَعَلَ يَنْفَعِلُ انْفِعَالًا. وَلَا يَكُونُ إِلا لَازِمًا، وَمَعْنَاهُ الْمُطَاوَعَةُ لِلْفِعْلِ الثُّلَاثِيِّ الْمُتَعَدِّي، نَحْوُ: كَسَرْتُ الشَّيْءَ فَانْكَسَرَ، وَقَطَعْتُهُ فَانْقَطَعَ.",
-      "translation": "Fi'il Thulathi Mazid dengan dua huruf tambahan memiliki lima wazan. Yang pertama: Inf'ala Yanfa'ilu Infi'alan (انْفَعَلَ يَنْفَعِلُ انْفِعَالًا). Pola ini selalu bersifat lazim (intransitif), dan makna utamanya adalah Mutawa'ah (akibat dari perbuatan fi'il muta'addi asal), contohnya: Kasartu as-Shay'a Fankasara (Aku memecahkan benda itu maka pecahlah ia), dan Qata'tuhu Fanqata'a (Aku memotongnya maka terpotonglah ia)."
+      "title": "Bab Thulathi Mazid Satu Huruf: Fa'ala - Yufa'ilu (فَاعَلَ - يُفَاعِلُ)",
+      "titleArabic": "بَابُ فَاعَلَ يُفَاعِلُ",
+      "arabic": "وَمِنْهُ: (فَاعَلَ يُفَاعِلُ) مُفَاعَلَةً وَفِعَالًا. وَفَائِدَتُهُ الْغَالِبَةُ الْمُشَارَكَةُ بَيْنَ الاِثْنَيْنِ. نَحْوُ: ضَارَبَ زَيْدٌ عَمْرًو، وَقَاتَلَ يُقَاتِلُ، وَقَاسَمَ يُقَاسِمُ، وَسَافَرَ يُسَافِرُ.",
+      "translation": "Dan di antaranya yaitu: (فَاعَلَ يُفَاعِلُ) dengan mashdar مُفَاعَلَةً dan فِعَالًا. Faedah terbesarnya adalah al-musyarakah (saling melakukan pekerjaan antara dua orang atau lebih). Contohnya: Zaid dan 'Amr saling memukul (ضَارَبَ زَيْدٌ عَمْرًو), memerangi/saling membunuh (قَاتَلَ يُقَاتِلُ), saling membagi (قَاسَمَ يُقَاسِمُ), dan bepergian (سَافَرَ يُسَافِرُ)."
     },
     {
-      "title": "Bab Thulathi Mazid Dua Huruf: Wazan If'atala (الإِفْتِعَال)",
-      "titleArabic": "بَابُ افْتَعَلَ يَفْتَعِلُ افْتِعَالًا",
-      "arabic": "الْبِنَاءُ الثَّانِي: افْتَعَلَ يَفْتَعِلُ افْتِعَالًا. وَيَأْتِي لِلْمُطَاوَعَةِ وَالِاكْتِسَابِ وَالْمُشَارَكَةِ، نَحْوُ: جَمَعْتُ الدَّرَاهِمَ فَاجْتَمَعَتْ، وَاكْتَسَبَ، وَاقْتَتَلَ الْقَوْمُ.",
-      "translation": "Bentuk kedua: If'atala Yafta'ilu Ifti'alan (افْتَعَلَ يَفْتَعِلُ افْتِعَالًا). Digunakan untuk makna Mutawa'ah, Iktisab (usaha keras), dan Musharakah, contohnya: Jama'tu ad-Darahima Fajtama'at (Aku mengumpulkan dirham maka terkumpullah ia), Iktasaba (berusaha keras), dan Iqtatala al-Qawmu (Kaum itu saling berperang)."
+      "title": "Bab Thulathi Mazid Dua Huruf",
+      "titleArabic": "بَابُ الثُّلَاثِيِّ الْمَزِيدِ بِحَرْفَيْنِ",
+      "arabic": "وَأَمَّا مَا زِيدَ فِيهِ حَرْفَانِ فَخَمْسَةُ أَبْنِيَةٍ: أَوَّلُهَا (انْفَعَلَ يَنْفَعِلُ) نَحْوُ انْكَسَرَ وَانْقَطَعَ، وَفَائِدَتُهُ الْمُطَاوَعَةُ. وَثَانِيهَا (اِفْتَعَلَ يَفْتَعِلُ) نَحْوُ اِجْتَمَعَ وَاِكْتَسَبَ. وَثَالِثُهَا (اِفْعَلَّ يَفْعَلُّ) نَحْوُ اِحْمَرَّ وَاِخْضَرَّ فِي الْأَلْوَانِ وَالْعُيُوبِ. وَرَابِعُهَا (تَفَعَّلَ يَتَفَعَّلُ) نَحْوُ تَعَلَّمَ وَتَكَلَّمَ. وَخَامِسُهَا (تَفَاعَلَ يَتَفَاعَلُ) نَحْوُ تَبَاعَدَ وَتَصَالَحَ.",
+      "translation": "Adapun fi'il yang mendapat tambahan dua huruf terdiri dari lima bentuk: Pertama, (انْفَعَلَ يَنْفَعِلُ) contohnya pecah (انْكَسَرَ) dan terputus (انْقَطَعَ), faedahnya adalah al-mutawa'ah (akibat dari perbuatan). Kedua, (اِفْتَعَلَ يَفْتَعِلُ) contohnya berkumpul (اِجْتَمَعَ) dan mengusahakan (اِكْتَسَبَ). Ketiga, (اِفْعَلَّ يَفْعَلُّ) contohnya memerah (اِحْمَرَّ) dan menghijau (اِخْضَرَّ) untuk warna dan cacat. Keempat, (تَفَعَّلَ يَتَفَعَّلُ) contohnya belajar (تَعَلَّمَ) dan berbicara (تَكَلَّمَ). Kelima, (تَفَاعَلَ يَتَفَاعَلُ) contohnya saling menjauh (تَبَاعَدَ) dan berdamai (تَصَالَحَ)."
     },
     {
-      "title": "Bab Thulathi Mazid Dua Huruf: Wazan If'alla (الإِفْعِلَال)",
-      "titleArabic": "بَابُ افْعَلَّ يَفْعَلُّ افْعِلَالًا",
-      "arabic": "الْبِنَاءُ الثَّالِثُ: افْعَلَّ يَفْعَلُّ افْعِلَالًا. وَلَا يَكُونُ إِلا لَازِمًا، وَيَأْتِي لِلْمُبَالَغَةِ فِي الْأَلْوَانِ وَالْعُيُوبِ، نَحْوُ: احْمَرَّ يَحْمَرُّ احْمِرَارًا، وَاعْوَرَّ يَعْوَرُّ اعْوِرَارًا.",
-      "translation": "Bentuk ketiga: If'alla Yaf'allu If'ilalan (افْعَلَّ يَفْعَلُّ افْعِلَالًا). Pola ini hanya bersifat lazim, ditujukan untuk Mubalaghah (pengegasan yang kuat) pada sifat warna dan cacat fisik, contohnya: Ihmarra-Yahmarru-Ihmiraran (menjadi sangat merah), dan I'warra-Ya'warru (menjadi buta sebelah mata secara nyata)."
+      "title": "Bab Thulathi Mazid Tiga Huruf",
+      "titleArabic": "بَابُ الثُّلَاثِيِّ الْمَزِيدِ بِثَلَاثَةِ أَحْرُفٍ",
+      "arabic": "وَأَمَّا مَا زِيدَ فِيهِ ثَلَاثَةُ أَحْرُفٍ فَأَشْهَرُهَا: (اِسْتَفْعَلَ يَسْتَفْعِلُ) اِسْتِفْعَالًا. وَمَعْنَاهُ الْغَالِبُ طَلَبُ الْفِعْلِ، نَحْوُ: اِسْتَغْفَرَ بِمَعْنَى طَلَبَ الْمَغْفِرَةَ، وَاِسْتَخْرَجَ وَاِسْتَعْلَمَ. وَمِنْهُ أَيْضًا: (اِفْعَوْعَلَ) نَحْوُ اِعْشَوْشَبَتِ الْأَرْضُ، وَ(اِفْعَالَّ) نَحْوُ اِحْمَارَّ.",
+      "translation": "Adapun fi'il yang ditambah tiga huruf, yang paling mashhur adalah: (اِسْتَفْعَلَ يَسْتَفْعِلُ) dengan mashdar اِسْتِفْعَالًا. Makna utamanya adalah meminta/memohon perbuatan (talab al-fi'l), seperti memohon ampunan (اِسْتَغْفَرَ), mengeluarkan (اِسْتَخْرَجَ), dan mencari informasi (اِسْتَعْلَمَ). Termasuk wazan ini juga: (اِفْعَوْعَلَ) contoh rumput tumbuh lebat (اِعْشَوْشَبَتِ الْأَرْضُ), dan (اِفْعَالَّ) contoh sangat memerah (اِحْمَارَّ)."
     },
     {
-      "title": "Bab Thulathi Mazid Dua Huruf: Wazan Tafa''ala (التَّفَعُّل)",
-      "titleArabic": "بَابُ تَفَعَّلَ يَتَفَعَّلُ تَفَعُّلًا",
-      "arabic": "الْبِنَاءُ الرَّابِعُ: تَفَعَّلَ يَتَفَعَّلُ تَفَعُّلًا. وَمِنْ مَعَانِيهِ التَّكَلُّفُ وَالْمُطَاوَعَةُ وَالتَّدَرُّجُ، نَحْوُ: تَصَبَّرَ (أَيْ تَكَلَّفَ الصَّبْرَ)، وَتَعَلَّمَ الْعِلْمَ مَسْأَلَةً مَسْأَلَةً، وَتَكَسَّرَ زُجَاجًا.",
-      "translation": "Bentuk keempat: Tafa''ala Yatafa''alu Tafa''ulan (تَفَعَّلَ يَتَفَعَّلُ تَفَعُّلًا). Maknanya antara lain Takalluf (pemaksaan diri), Mutawa'ah, dan Tadarruj (bertahap), contohnya: Tasabbara (memaksa diri untuk sabar), Ta'allama (mempelajari ilmu masalah demi masalah secara bertahap), dan Takassara (menjadi hancur berkeping-keping)."
+      "title": "Bab I'lal dan Ibdal pada Fi'il",
+      "titleArabic": "بَابُ الْإِعْلَالِ وَالْإِبْدَالِ فِي الْأَفْعَالِ",
+      "arabic": "وَأَمَّا الْإِعْلَالُ وَالْإِبْدَالُ فِي الأَفْعَالِ، فَيَقَعُ فِي حُرُوفِ الْعِلَّةِ وَهِيَ الْوَاوُ وَالْيَاءُ وَالأَلِفُ. فَتُقْلَبُ الْوَاوُ وَالْيَاءُ أَلِفًا إِذَا تَحَرَّكَتَا وَانْفَتَحَ مَا قَبْلَهُمَا، نَحْوُ: قَالَ وَبَاعَ، وَأَصْلُهُمَا قَوَلَ وَبَيَعَ. وَتُسَكَّنَانِ فِي الْمُضَارِعِ لِلتَّخْفِيفِ نَحْوُ يَقُولُ وَيَبِيعُ.",
+      "translation": "Adapun proses I'lal dan Ibdal (perubahan/penggantian huruf) pada kata kerja terjadi pada huruf-huruf 'illat, yaitu Wawu, Ya', dan Alif. Wawu dan Ya' diubah menjadi Alif apabila keduanya berharakat dan huruf sebelumnya berharakat fathah, seperti kata (قَالَ) dan (بَاعَ) yang asalnya adalah (قَوَلَ) dan (بَيَعَ). Keduanya disukunkan pada bentuk mudhari' demi meringankan pengucapan, seperti (يَقُولُ) dan (يَبِيعُ)."
     },
     {
-      "title": "Bab Thulathi Mazid Dua Huruf: Wazan Tafa'ala (التَّفَاعُل)",
-      "titleArabic": "بَابُ تَفَاعَلَ يَتَفَاعَلُ تَفَاعُلًا",
-      "arabic": "الْبِنَاءُ الْخَامِسُ: تَفَاعَلَ يَتَفَاعَلُ تَفَاعُلًا. وَيَدُلُّ عَلَى الْمُشَارَكَةِ بَيْنَ الْأَكْثَرِ، وَالتَّظَاهُرِ بِالصِّفَةِ، نَحْوُ: تَصَالَحَ الْقَوْمُ، وَتَمَارَضَ زَيْدٌ (أَيْ أَظْهَرَ المَرِضَ وَلَيْسَ بِهِ).",
-      "translation": "Bentuk kelima: Tafa'ala Yatafa'alu Tafa'ulan (تَفَاعَلَ يَتَفَاعَلُ تَفَاعُلًا). Menunjukkan persekutuan/kesalingan di antara banyak pihak (Musharakah), serta Tazahur (pura-pura berbuat/bersifat), contohnya: Tasalaha al-Qawmu (Kaum itu saling berdamai), dan Tamarada Zaidun (Zaid pura-pura sakit padahal tidak sakit)."
-    },
-    {
-      "title": "Bab Thulathi Mazid Tiga Huruf: Wazan Istaf'ala (الإِسْتِفْعَال)",
-      "titleArabic": "بَابُ مَا زِيدَ فِيهِ ثَلَاثَةُ أَحْرُفٍ: اسْتَفْعَلَ يَسْتَفْعِلُ",
-      "arabic": "الْمَزِيدُ بِثَلَاثَةِ أَحْرُفٍ أَرْبَعَةُ أَبْنِيَةٍ؛ الأَوَّلُ: اسْتَفْعَلَ يَسْتَفْعِلُ اسْتِفْعَالًا. وَأَكْثَرُ مَا يَأْتِي لِطَلَبِ الْفِعْلِ، نَحْوُ: اسْتَغْفَرَ اللَّهَ (أَيْ طَلَبَ مَغْفِرَتَهُ)، وَاسْتَخْرَجَ الْمَالَ، وَاسْتَحْجَرَ الطِّينُ.",
-      "translation": "Fi'il Thulathi Mazid dengan tiga huruf tambahan memiliki empat wazan. Yang utama: Istaf'ala Yastaf'ilu Istif'alan (اسْتَفْعَلَ يَسْتَفْعِلُ اسْتِفْعَالًا). Paling sering bermakna Talab (memohon/meminta terjadinya perbuatan), contohnya: Istaghfara Allah (memohon ampunan Allah), Istakhraja al-Mala (berusaha mengeluarkan harta), dan Istahjara at-Tin (tanah liat itu berubah mematu)."
-    },
-    {
-      "title": "Bab Thulathi Mazid Tiga Huruf: Wazan If'aw'ala, If'alla, dan If'awwala",
-      "titleArabic": "بَابُ افْعَوْعَلَ وَافْعَالَّ وَافْعَوَّلَ",
-      "arabic": "وَمِنْ أَبْنِيَةِ الثُّلَاثِيِّ المَزِيدِ بِثَلَاثَةِ أَحْرُفٍ: افْعَوْعَلَ يَفْعَوْعِلُ، نَحْوُ: اعْشَوْشَبَ الأَرْضُ إِذَا كَثُرَ عُشْبُهَا، وَافْعَالَّ يَفْعَالُّ، نَحْوُ: احْمَارَّ يَحْمَارُّ (مُبَالَغَة فِي احْمَرَّ)، وَافْعَوَّلَ يَفْعَوِّلُ، نَحْوُ: اجْلَوَّذَ يَجْلَوِّذُ (إِذَا أَسْرَعَ).",
-      "translation": "Di antara wazan Thulathi Mazid tiga huruf lainnya: If'aw'ala Yaf'aw'ilu, seperti I'shawshaba al-Ardu (tanah itu sangat lebat rumputnya); If'alla Yaf'allu, seperti Ihmara-Yahmarru (sangat merah melebihi ihmarra); dan If'awwala Yaf'awwilu, seperti Ijlawwada-Yajlawwidu (berjalan amat cepat)."
-    },
-    {
-      "title": "Bab Mulhaqat al-Ruba'i (Kata Kerja yang Diperluas Mengikuti Ruba'i)",
-      "titleArabic": "بَابُ مُلْحَقَاتِ الرُّبَاعِيِّ الْمُجَرَّدِ",
-      "arabic": "الْمُلْحَقُ بِالرُّبَاعِيِّ الْمُجَرَّدِ مَا زِيدَ فِيهِ حَرْفٌ لِلإِلْحَاقِ بِوَزْنِ (فَعْلَلَ)، وَمِنْهُ: فَوْعَلَ نَحْوُ حَوْقَلَ، وَفَعْيَلَ نَحْوُ شَرْيَفَ، وَفَعْلَى نَحْوُ سَلْقَى، وَفَعْلَنَ نَحْوُ سَلْطَنَ.",
-      "translation": "Mulhaq (yang disepadankan) dengan Ruba'i Mujarrad adalah fi'il yang ditambahi satu huruf untuk diselaraskan dengan pola Fa'lala (فَعْلَلَ). Di antaranya: Faw'ala seperti Hawqala (mengucapkan la hawla...), Fa'yala seperti Sharyafa, Fa'la seperti Salqa, dan Fa'lana seperti Saltana (menjadikan berkuasa)."
-    },
-    {
-      "title": "Bab Ruba'i Mazid (Mazid al-Fi'l al-Ruba'i)",
-      "titleArabic": "بَابُ مَزِيدِ الرُّبَاعِيِّ",
-      "arabic": "الْمَزِيدُ الرُّبَاعِيُّ عَلَى قِسْمَيْنِ: الأَوَّلُ: مَا زِيدَ فِيهِ حَرْفٌ وَاحِدٌ وَهُوَ (تَفَعْلَلَ) نَحْوُ: تَدَحْرَجَ يَتَدَحْرَجُ. وَالثَّانِي: مَا زِيدَ فِيهِ حَرْفَانِ وَلَهُ وَزْنَانِ: (افْعَنْلَلَ) نَحْوُ: احْرَنْجَمَ (تَجَمَّعَ)، وَ(افْعَلَلَّ) نَحْوُ: اقْشَعَرَّ وَاطْمَأَنَّ.",
-      "translation": "Fi'il Ruba'i Mazid terbagi menjadi dua bagian: Pertama, yang mendapat tambahan satu huruf yaitu wazan Tafa'lala (تَفَعْلَلَ), contohnya Tadahraja-Yatadahraju (bergulingan). Kedua, yang mendapat tambahan dua huruf dan memiliki dua wazan: If'anlala (افْعَنْلَلَ) contohnya Ihranjama (berkumpul berdesakan), dan If'alalla (افْعَلَلَّ) contohnya Iqsha'arra (merinding) serta Itma'anna (tentram)."
-    },
-    {
-      "title": "Bab Hukum Fi'il Mu'tal (Kata Kerja Berhuruf 'Illat)",
-      "titleArabic": "بَابُ أَحْكَامِ الْفِعْلِ الْمُعْتَلِّ",
-      "arabic": "وَالْفِعْلُ الْمُعْتَلُّ مَا كَانَ فِي أُصُولِهِ حَرْفُ عِلَّةٍ (وَهُوَ الأَلِفُ وَالْوَاوُ وَالْيَاءُ). وَهُوَ أَرْبَعَةُ أَقْسَامٍ: الْمِثَالُ (مَا اعْتَلَّتْ فَاؤُهُ) نَحْوُ وَعَدَ، وَالأَجْوَفُ (مَا اعْتَلَّتْ عَيْنُهُ) نَحْوُ قَالَ وَبَاعَ، وَالنَّاقِصُ (مَا اعْتَلَّتْ لَامُهُ) نَحْوُ دَعَا وَرَمَى، وَاللَّفِيفُ (مَا كَانَ فِيهِ حَرْفَا عِلَّةٍ).",
-      "translation": "Fi'il Mu'tal adalah kata kerja yang pada huruf-huruf aslinya terdapat huruf 'illat (yaitu Alif, Wawu, dan Ya'). Ia terbagi menjadi empat kategori: Mitsal (cacat pada fa' fi'il) contoh Wa'ada; Ajwaf (cacat pada 'ain fi'il) contoh Qala dan Ba'a; Naqis (cacat pada lam fi'il) contoh Da'a dan Rama; serta Lafif (memiliki dua huruf 'illat sekaligus)."
-    },
-    {
-      "title": "Bab Idgham pada Fi'il Muda''af",
-      "titleArabic": "بَابُ الإِدْغَامِ فِي الْفِعْلِ الْمُضَاعَفِ",
-      "arabic": "الْمُضَاعَفُ الثُّلَاثِيُّ مَا كَانَتْ عَيْنُهُ وَلاَمُهُ مِنْ جِنْسٍ وَاحِدٍ، نَحْوُ: مَدَّ يَمُدُّ، وَفَرَّ يَفِرُّ. وَيَجِبُ إِدْغَامُ الحَرْفَيْنِ إِذَا تَحَرَّكَا مَعًا، وَيَفُكُّ الإِدْغَامُ إِذَا اتَّصَلَ بِهِ ضَمِيرُ رَفْعٍ مُتَحَرِّكٌ نَحْوُ: مَدَدْتُ وَمَدَدْنَا.",
-      "translation": "Fi'il Muda''af Thulathi adalah kata kerja yang 'ain fi'il dan lam fi'il-nya terdiri dari huruf yang sejenis (sama), contohnya: Mada-Yamuddu (mementangkan), Farra-Yafirru (larian). Wajib meng-idghamkan (menggabungkan) kedua huruf tersebut jika keduanya berharakat, dan wajib melepas idgham (fakk al-idgham) apabila fi'il bersambung dengan dhamir rafa' berharakat, seperti: Madadtu (aku membentangkan) dan Madadna."
-    },
-    {
-      "title": "Khatimah Kitab",
+      "title": "Khatimah (Penutup Kitab)",
       "titleArabic": "خَاتِمَةُ الْكِتَابِ",
-      "arabic": "تَمَّ كِتَابُ أَبْنِيَةِ الأَفْعَالِ بِحَمْدِ اللَّهِ وَحُسْنِ تَوْفِيقِهِ، وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ النَّبِيِّ الأُمِّيِّ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلَّمَ تَسْلِيمًا كَثِيرًا إِلَى يَوْمِ الدِّينِ، وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ.",
-      "translation": "Telah sempurna pembahasan Kitab Abniyat al-Af'al dengan memuji Allah dan atas taufik-Nya yang mulia. Semoga shalawat dan salam senantiasa tercurah kepada junjungan kita Nabi Muhammad, nabi yang umi, beserta keluarga dan para sahabatnya dengan keselamatan yang berlimpah hingga hari pembalasan, dan segala puji bagi Allah Tuhan semesta alam."
+      "arabic": "تَمَّ كِتَابُ أَبْنِيَةِ الْأَفْعَالِ بِحَمْدِ اللَّهِ وَحُسْنِ تَوْفِيقِهِ، وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ النَّبِيِّ الْأُمِّيِّ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلَّمَ تَسْلِيمًا كَثِيرًا إِلَى يَوْمِ الدِّينِ، وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ.",
+      "translation": "Telah selesai penyusunan Kitab Abniyat al-Af'al dengan memuji Allah dan kebaikan taufik-Nya. Semoga shalawat dan salam yang melimpah senantiasa tercurahkan kepada junjungan kita Nabi Muhammad, Nabi yang ummi, beserta keluarga dan para sahabatnya hingga Hari Pembalasan. Segala puji bagi Allah, Tuhan semesta alam."
     }
   ]
 }
