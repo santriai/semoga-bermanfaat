@@ -1,0 +1,266 @@
+{
+  "profile": {
+    "name": "Kitab Ahkam al-Imam wa al-Ma'mum",
+    "originalTitle": "كِتَابُ أَحْكَامِ الْإِمَامِ وَالْمَأْمُومِ (فِي الْفِقْهِ الشَّافِعِيِّ)",
+    "author": "Syaikh al-Allamah Zainuddin bin Abdul Aziz al-Malibari al-Fannani",
+    "field": "Fiqih Syafi'i (Shalat Jama'ah & Bermakmum)",
+    "about": "Kitab ini merupakan pembahasan komprehensif mengenai hukum-hukum shalat berjamaah, tata cara bermakmum (qudwah), serta hubungan hukum antara imam dan makmum berdasarkan mazhab Syafi'i. Di dalamnya diuraikan secara rinci mengenai syarat-syarat sah bermakmum, pembagian jenis makmum (muwafiq dan masbuq), serta tata cara penggantian imam (istikhlaf). Pembahasan kitab ini dirancang mendalam untuk memberikan pedoman ketat bagi para penuntut ilmu di pesantren. Setiap syarat dan rukun dilengkapi dengan batasan-batasan hukum yang sangat presisi agar ibadah shalat berjamaah terhindar dari pembatalan. Kitab ini menjadi rujukan mendasar bagi santri tingkat menengah dan lanjut dalam memahami keabsahan shalat berjamaah.",
+    "authorBorn": "Malabar, India (Abad ke-10 Hijriah)",
+    "authorDied": "987 H / 1579 M",
+    "authorCentury": "Abad ke-10 Hijriah / 16 Masehi"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah Kitab",
+      "titleArabic": "مُقَدِّمَةُ الْكِتَابِ",
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ. الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ، وَالصَّلَاةُ وَالسَّلَامُ عَلَى أَشْرَفِ الْأَنْبِيَاءِ وَالْمُرْسَلِينَ، سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ أَجْمَعِينَ. أَمَّا بَعْدُ: فَهَذَا كِتَابٌ فِي بَيَانِ أَحْكَامِ الْإِمَامَةِ وَالْإِقْتِدَاءِ، وَمَا يَتَعَلَّقُ بِهِمَا مِنْ شُرُوطٍ وَأَحْكَامٍ عَلَى مَذْهَبِ الْإِمَامِ الشَّافِعِيِّ رَحِمَهُ اللَّهُ تَعَالَى.",
+      "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, Tuhan semesta alam. Shalawat dan salam semoga tercurah kepada semulia-mulia para nabi dan rasul, Junjungan kita Nabi Muhammad SAW, beserta keluarga dan para sahabatnya sekalian. Amma ba'du: Maka ini adalah kitab yang menjelaskan tentang hukum-hukum keimaman dan bermakmum (iqtida'), serta syarat-syarat dan hukum-hukum yang berkaitan dengan keduanya menurut Mazhab Imam Asy-Syafi'i rahimahullah."
+    },
+    {
+      "title": "Keutamaan Shalat Berjamaah",
+      "titleArabic": "فَضْلُ صَلَاةِ الْجَمَاعَةِ",
+      "arabic": "صَلَاةُ الْجَمَاعَةِ فِي الْمَكْتُوبَةِ لِغَيْرِ الْجُمُعَةِ سُنَّةٌ مُؤَكَّدَةٌ لِلرِّجَالِ. وَقِيلَ: فَرْضُ كِفَايَةٍ. وَتَفْضُلُ صَلَاةُ الْجَمَاعَةِ عَلَى صَلَاةِ الْفَذِّ بِسَبْعٍ وَعِشْرِينَ دَرَجَةً، لِقَوْلِهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «صَلَاةُ الْجَمَاعَةِ تَفْضُلُ صَلَاةَ الْفَذِّ بِسَبْعٍ وَعِشْرِينَ دَرَجَةً».",
+      "translation": "Shalat berjamaah pada shalat fardhu selain shalat Jumat hukumnya sunnah muakkadah bagi laki-laki. Dan dikatakan pula hukumnya fardhu kifayah. Shalat berjamaah lebih utama daripada shalat sendirian (munfarid) dengan terpaut dua puluh tujuh derajat, berdasarkan sabda Nabi SAW: 'Shalat berjamaah itu melebihi shalat sendirian sebanyak dua puluh tujuh derajat.'"
+    },
+    {
+      "title": "Hukum Hukum Shalat Berjamaah",
+      "titleArabic": "أَحْكَامُ صَلَاةِ الْجَمَاعَةِ",
+      "arabic": "وَتَجِبُ الْجَمَاعَةُ فِي صَلَاةِ الْجُمُعَةِ وُجُوبَ عَيْنٍ. وَتَكُونُ فَرْضَ كِفَايَةٍ فِي الْمَكْتُوبَاتِ لِلرِّجَالِ الأَحْرَارِ الْمُقِيمِينَ. وَتَكُونُ سُنَّةً فِي الْمَنْذُورَةِ وَالْمُعَادَةِ وَصَلَاةِ الْعِيدَيْنِ وَالْكُسُوفَيْنِ وَالاسْتِسْقَاءِ، وَتَكُونُ مُبَاحَةً فِي النَّوَافِلِ الَّتِي لَا تُسَنُّ فِيهَا الْجَمَاعَةُ.",
+      "translation": "Shalat berjamaah wajib hukumnya secara 'ain (fardhu 'ain) dalam shalat Jumat. Dan hukumnya fardhu kifayah dalam shalat-shalat fardhu lima waktu bagi laki-laki yang merdeka dan bermukim. Hukumnya sunnah dalam shalat nazar, shalat mu'adah (yang diulangi), shalat dua hari raya, dua gerhana, dan istisqa'. Serta hukumnya mubah dalam shalat-shalat sunnah yang tidak disunnahkan secara berjamaah."
+    },
+    {
+      "title": "Penjelasan Umum Syarat Bermakmum",
+      "titleArabic": "شُرُوطُ الْقُدْوَةِ إِجْمَالًا",
+      "arabic": "يَشْتَرِطُ لِصِحَّةِ الاِقْتِدَاءِ عِلْمُ الْمَأْمُومِ بِصَلَاةِ إِمَامِهِ، وَأَنْ لَا يَتَقَدَّمَ عَلَيْهِ فِي الْمَوْقِفِ، وَأَنْ يَعْلَمَ بِيَقِينٍ أَوْ ظَنٍّ انْتِقَالَاتِهِ، وَأَنْ يَجْتَمِعَا فِي مَسْجِدٍ أَوْ أَلْفَيْ ذِرَاعٍ، وَأَنْ تَتَوَافَقَ نَظْمُ صَلَاتِهِمَا، وَأَنْ يَنْوِيَ الْمَأْمُومُ الاِقْتِدَاءَ.",
+      "translation": "Disyaratkan untuk sahnya bermakmum (iqtida'): makmum mengetahui gerakan shalat imamnya, tidak mendahului posisi berdiri imam, mengetahui perpindahan gerakan imam dengan yakin atau persangkaan kuat, berkumpul dalam satu masjid atau jarak di bawah 300 meter (2000 hasta), adanya kesesuaian sistem/urutan shalat keduanya, serta makmum berniat mengikuti imam."
+    },
+    {
+      "title": "Syarat Pertama: Niat Bermakmum (Al-Iqtida')",
+      "titleArabic": "الشَّرْطُ الْأَوَّلُ: نِيَّةُ الاِقْتِدَاءِ",
+      "arabic": "الشَّرْطُ الْأَوَّلُ: نِيَّةُ الاِقْتِدَاءِ بِالْإِمَامِ أَوْ نِيَّةُ الْجَمَاعَةِ مَقْرُونَةً بِتَكْبِيرَةِ الْإِحْرَامِ، فَلَوْ تَرَكَهَا وَتَابَعَهُ فِي الْفِعْلِ بُطِلَتْ صَلَاتُهُ إِنِ انْتَظَرَهُ كَثِيرًا، وَلاَ يُشْتَرِطُ تَعْيِينُ الْإِمَامِ بِلِ اسْمِهِ، بَلْ يَكْفِي نِيَّةُ الاِقْتِدَاءِ بِالْإِمَامِ الْحَاضِرِ.",
+      "translation": "Syarat pertama: Niat bermakmum kepada imam atau niat berjamaah yang dibarengkan dengan takbiratul ihram. Jika makmum meninggalkannya dan tetap mengikuti gerakan imam, maka batal shalatnya apabila ia menunggu imam dalam waktu yang lama. Tidak disyaratkan menyebut nama imam secara spesifik, melainkan cukup berniat bermakmum kepada imam yang hadir."
+    },
+    {
+      "title": "Syarat Kedua: Kesesuaian Urutan Shalat (Tawafuq al-Nazm)",
+      "titleArabic": "الشَّرْطُ الثَّانِي: تَوَافُقُ نَظْمِ الصَّلَاتَيْنِ",
+      "arabic": "الشَّرْطُ الثَّانِي: أَنْ تَتَوَافَقَ صَلَاةُ الْإِمَامِ وَالْمَأْمُومِ فِي النَّظْمِ الظَّاهِرِ، كَالظُّهْرِ مَعَ الْعَصْرِ، فَلَا يَصِحُّ الاِقْتِدَاءُ فِيمَنْ يُصَلِّي الْمَكْتُوبَةَ بِمَنْ يُصَلِّي صَلَاةَ الْجَنَازَةِ أَوْ صَلَاةَ الْكُسُوفِ لِإِخْتِلَافِ النَّظْمِ.",
+      "translation": "Syarat kedua: Kesesuaian sistem gerakan lahiriah shalat antara imam dan makmum, seperti shalat Dzuhur bermakmum kepada shalat Ashar. Tidak sah bermakmum orang yang shalat fardhu kepada orang yang shalat jenazah atau shalat gerhana karena adanya perbedaan sistem/urutan gerakan shalat."
+    },
+    {
+      "title": "Syarat Ketiga: Tidak Mendahului Tempat Imam (Al-Mawqif)",
+      "titleArabic": "الشَّرْطُ الثَّالِثُ: عَدَمُ التَّقَدُّمِ فِي الْمَوْقِفِ",
+      "arabic": "الشَّرْطُ الثَّالِثُ: أَنْ لَا يَتَقَدَّمَ الْمَأْمُومُ عَلَى إِمَامِهِ فِي الْمَوْقِفِ بِعَقِبِهِ إِنْ كَانَ يُصَلِّي قَائِمًا، فَلَوْ تَقَدَّمَ بِعَقِبِهِ عَنْ عَقِبِ الْإِمَامِ لَمْ تَنْعَقِدْ صَلَاتُهُ قُدْوَةً. وَيُسْتَحَبُّ أَنْ يَقِفَ عَنْ يَمِينِهِ مُتَأَخِّرًا عَنْهُ قَلِيلًا.",
+      "translation": "Syarat ketiga: Makmum tidak boleh berdiri mendahului posisi imam dengan tumitnya jika shalat sambil berdiri. Jika tumit makmum mendahului tumit imam, maka shalat bermakmumnya tidak sah. Disunnahkan makmum berdiri di sebelah kanan imam dan sedikit agak mundur ke belakang."
+    },
+    {
+      "title": "Syarat Keempat: Mengetahui Perpindahan Gerakan Imam",
+      "titleArabic": "الشَّرْطُ الرَّابِعُ: الْعِلْمُ بِانْتِقَالَاتِ الْإِمَامِ",
+      "arabic": "الشَّرْطُ الرَّابِعُ: الْعِلْمُ بِانْتِقَالَاتِ الْإِمَامِ إِمَّا بِرُؤْيَتِهِ أَوْ رُؤْيَةِ بَعْضِ الصَّفِّ أَوْ سَمَاعِ صَوْتِهِ أَوْ صَوْتِ الْمُبَلِّغِ، فَإِنْ لَمْ يَعْلَمْ بِانْتِقَالِهِ لَمْ يَصِحَّ الاِقْتِدَاءُ لِعَدَمِ إِمْكَانِ الْمُتَابَعَةِ.",
+      "translation": "Syarat keempat: Mengetahui perpindahan gerakan imam, baik dengan melihat langsung imam, melihat sebagian shaf, mendengar suara imam, atau mendengar suara muballigh (penyambung suara). Jika tidak mengetahui perpindahan imam, maka tidak sah iktida'-nya karena tidak memungkinkan untuk mengikuti."
+    },
+    {
+      "title": "Syarat Kelima: Berkumpul Dalam Satu Tempat (Al-Ijtima')",
+      "titleArabic": "الشَّرْطُ الْخَامِسُ: الاِجْتِمَاعُ فِي الْمَكَانِ",
+      "arabic": "الشَّرْطُ الْخَامِسُ: اجْتِمَاعُهُمَا فِي مَكَانٍ وَاحِدٍ، فَإِنْ كَانَا فِي مَسْجِدٍ صَحَّ الاِقْتِدَاءُ وَإِنْ بَعُدَتِ الْمَسَافَةُ وَحَالَتِ الأَبْنِيَةُ بِشَرْطِ أَنْ يُمْكِنَ المُرُورُ. وَإِنْ كَانَا فِي غَيْرِ مَسْجِدٍ اشْتُرِطَ أَنْ لَا يَزِيدَ مَا بَيْنَهُمَا عَلَى ثَلَاثِمِائَةِ ذِرَاعٍ.",
+      "translation": "Syarat kelima: Keduanya berkumpul dalam satu tempat. Jika keduanya berada di dalam satu masjid, sah iktida' walau jalurnya jauh dan terhalang bangunan, dengan syarat memungkinkan untuk melewatinya. Apabila di luar masjid, disyaratkan jarak antara keduanya tidak melebihi 300 hasta (sekitar 144 meter)."
+    },
+    {
+      "title": "Syarat Keenam: Tidak Mendahului Imam Dalam Gerakan",
+      "titleArabic": "الشَّرْطُ السَّادِسُ: عَدَمُ التَّقَدُّمِ فِي الأَفْعَالِ",
+      "arabic": "الشَّرْطُ السَّادِسُ: أَنْ لَا يَتَقَدَّمَ الْمَأْمُومُ عَلَى إِمَامِهِ بِرُكْنَيْنِ فِعْلِيَّيْنِ طَوِيلَيْنِ عَمْدًا، فَإِنْ فَعَلَ ذَلِكَ بُطِلَتْ صَلَاتُهُ. أَمَّا التَّقَدُّمُ بِرُكْنٍ وَاحِدٍ فَعَمْدُهُ حَرَامٌ وَلاَ يُبْطِلُ الصَّلَاةَ.",
+      "translation": "Syarat keenam: Makmum tidak mendahului imam dengan dua rukun fi'li (gerakan) yang panjang secara sengaja. Jika melakukan hal tersebut, maka batal shalatnya. Adapun mendahului dengan satu rukun, maka hukum sengajanya adalah haram namun tidak membatalkan shalat."
+    },
+    {
+      "title": "Syarat Ketujuh: Tidak Terlambat 2 Rukun Fi'li (Al-Takhalluf)",
+      "titleArabic": "الشَّرْطُ السَّابِعُ: عَدَمُ التَّخَلُّفِ بِرُكْنَيْنِ",
+      "arabic": "الشَّرْطُ السَّابِعُ: أَنْ لَا يَتَخَلَّفَ الْمَأْمُومُ عَنِ الإِمَامِ بِرُكْنَيْنِ فِعْلِيَّيْنِ بِغَيْرِ عُذْرٍ. فَإِنْ تَخَلَّفَ بِهِمَا بِلَا عُذْرٍ بُطِلَتْ صَلَاتُهُ، وَإِنْ كَانَ لِعُذْرٍ كَبُطْءِ قِرَاءَةٍ جَازَ التَّخَلُّفُ إِلَى ثَلَاثَةِ أَرْكَانٍ طَوِيلَةٍ.",
+      "translation": "Syarat ketujuh: Makmum tidak tertinggal dari imam sebanyak dua rukun fi'li tanpa uzur. Apabila tertinggal dua rukun tanpa uzur, batal shalatnya. Namun jika karena uzur seperti lambat membaca Fatihah, dibolehkan tertinggal hingga tiga rukun panjang."
+    },
+    {
+      "title": "Syarat Kedelapan: Kesesuaian Perbuatan Shalat yang Wajib",
+      "titleArabic": "الشَّرْطُ الثَّامِنُ: التَّوَافُقُ فِي الأَفْعَالِ الظَّاهِرَةِ",
+      "arabic": "الشَّرْطُ الثَّامِنُ: أَنْ يَتَابَعَهُ فِي السُّنَنِ الَّتِي يَفْحُشُ الخِلَافُ فِيهَا، كَسَجْدَةِ التِّلَاوَةِ وَتَشَهُّدٍ أَوَّلٍ، فَإِنْ تَرَكَهَا الإِمَامُ لَمْ يَأْتِ بِهَا الْمَأْمُومُ، وَإِنْ فَعَلَهَا الإِمَامُ وَجَبَ عَلَى الْمَأْمُومِ مُتَابَعَتُهُ.",
+      "translation": "Syarat kedelapan: Mengikuti imam dalam sunnah-sunnah yang tampak mencolok perbedaannya jika ditinggalkan, seperti sujud tilawah dan tasyahud awal. Jika imam meninggalkannya, makmum tidak boleh mengerjakannya. Jika imam mengerjakannya, wajib bagi makmum untuk mengikutinya."
+    },
+    {
+      "title": "Syarat Kesembilan: Keabsahan Shalat Imam Menurut Makmum",
+      "titleArabic": "الشَّرْطُ التَّاسِعُ: الاعْتِقَادُ بِصِحَّةِ صَلَاةِ الْإِمَامِ",
+      "arabic": "الشَّرْطُ التَّاسِعُ: أَنْ لَا يَعْتَقِدَ الْمَأْمُومُ بُطْلَانَ صَلَاةِ إِمَامِهِ، فَلَا يَصِحُّ الاِقْتِدَاءُ بِمَنْ يَعْلَمُ نَجَاسَتَهُ أَوْ حَدَثَهُ أَوْ أَنَّهُ يَلْحَنُ لَحْنًا يُغَيِّرُ الْمَعْنَى فِي الْفَاتِحَةِ.",
+      "translation": "Syarat kesembilan: Makmum tidak meyakini batalnya shalat imam. Maka tidak sah bermakmum kepada orang yang diketahui membawa najis, berhadats, atau membaca Fatihah dengan kesalahan (lahn) yang mengubah arti."
+    },
+    {
+      "title": "Syarat Kesepuluh: Tidak Bermakmum Kepada Makmum Lain",
+      "titleArabic": "الشَّرْطُ الْعَاشِرُ: أَنْ لَا يَكُونَ الْإِمَامُ مَأْمُومًا",
+      "arabic": "الشَّرْطُ الْعَاشِرُ: أَنْ لَا يَكُونَ الْإِمَامُ مَأْمُومًا لِغَيْرِهِ فِي حَالَةِ الاِقْتِدَاءِ، فَلَوْ اقْتَدَى بِمَنْ هُوَ مَأْمُومٌ لَمْ يَصِحَّ اقْتِدَاؤُهُ إِجْمَاعًا.",
+      "translation": "Syarat kesepuluh: Imam bukan statusnya sebagai makmum bagi orang lain pada saat diikiuti. Apabila seseorang bermakmum kepada orang yang sedang menjadi makmum, maka iktida'-nya tidak sah menurut kesepakatan ulama (ijma')."
+    },
+    {
+      "title": "Kriteria Orang yang Berhak Menjadi Imam",
+      "titleArabic": "مَنْ يَحِقُّ لَهُ الإِمَامَةُ",
+      "arabic": "تَصِحُّ إِمَامَةُ الْعَدْلِ، وَتُكْرَهُ إِمَامَةُ الْفَاسِقِ وَالْمُبْتَدِعِ. وَتَصِحُّ إِمَامَةُ الصَّبِيِّ الْمُمَيِّزِ فِيك النَّوَافِلِ وَالْفَرَائِضِ إِلاَّ فِي الْجُمُعَةِ. وَتَصِحُّ إِمَامَةُ الأَعْمَى وَالْعَبْدِ وَالأُمِّيِّ بِمِثْلِهِ.",
+      "translation": "Sah menjadi imam orang yang adil, dan makruh hukumnya menjadi imam orang yang fasiq atau ahli bid'ah. Sah keimaman anak kecil yang mumayyiz dalam shalat sunnah maupun fardhu kecuali shalat Jumat. Sah pula keimaman orang buta, hamba sahaya, dan orang ummi (tidak lancar membaca) bagi orang yang sepadan dengannya."
+    },
+    {
+      "title": "Urutan Prioritas Menjadi Imam",
+      "titleArabic": "تَرْتِيبُ الأَؤِمَّةِ فِي الأَوْلَوِيَّةِ",
+      "arabic": "الأَوْلَى بِالإِمَامَةِ: الأَفْقَهُ، ثُمَّ الأَقْرَأُ، ثُمَّ الأَزْهَدُ، ثُمَّ الأَوْرَعُ، ثُمَّ الأَسْنُّ فِي الإِسْلَامِ، ثُمَّ الأَحْسَنُ نَسَبًا، ثُمَّ الأَحْسَنُ سِيرَةً، ثُمَّ النَّظِيفُ الثَّوْبِ وَالْبَدَنِ. وَصَاحِبُ المِلْكِ أَوْ السُّلْطَانُ أَوْ السَّاكِنُ أَوْلَى مِنْ غَيْرِهِ.",
+      "translation": "Orang yang paling berhak menjadi imam secara berurutan: Orang yang paling paham fiqih, lalu yang paling bagus bacaannya, lalu yang paling zuhud, lalu yang paling wara', lalu yang paling tua dalam Islam, lalu yang paling baik nasabnya, lalu yang paling baik perilakunya, lalu yang paling bersih pakaian dan badannya. Pemilik tempat, penguasa, atau penghuni rumah lebih berhak daripada orang lain."
+    },
+    {
+      "title": "Hukum Bermakmum Kepada Orang Fasiq",
+      "titleArabic": "إِمَامَةُ الْفَاسِقِ وَأَهْلِ الْبِدَعِ",
+      "arabic": "تُكْرَهُ الصَّلَاةُ خَلْفَ الْفَاسِقِ وَالْمُبْتَدِعِ الَّذِي لاَ يُكَفَّرُ بِبِدْعَتِهِ، وَالصَّلَاةُ خَلْفَهُمَا صَحِيحَةٌ مَعَ الْكَرَاهَةِ، فَإِنْ كَانَتْ الْبِدْعَةُ تُكَفِّرُهُ لَمْ تَصِحَّ الصَّلَاةُ خَلْفَهُ قَطْعًا.",
+      "translation": "Makruh hukumnya shalat di belakang orang fasiq dan pelaku bid'ah yang bid'ah-nya tidak sampai mengkafirkannya, dan shalat di belakang mereka tetap sah disertai karahah (kemakruhan). Jika bid'ahnya menyebabkan kekafiran, maka shalat di belakangnya pasti tidak sah."
+    },
+    {
+      "title": "Hukum Bermakmum Kepada Anak Kecil",
+      "titleArabic": "إِمَامَةُ الصَّبِيِّ الْمُمَيِّزِ",
+      "arabic": "تَصِحُّ إِمَامَةُ الصَّبِيِّ الْمُمَيِّزِ لِلْبَالِغِينَ فِي الصَّلَوَاتِ الْخَمْسِ وَالنَّوَافِلِ، لَكِنَّ الْبَالِغَ الأَوْلَى مِنْهُ، وَلاَ تَصِحُّ إِمَامَتُهُ فِي صَلَاةِ الْجُمُعَةِ إِذَا كَانَ مِنْ أَرْبَعِينَ الَّذِينَ تَعْنَقِدُ بِهِمُ الْجُمُعَةُ.",
+      "translation": "Sah keimaman anak kecil yang sudah mumayyiz bagi orang baligh dalam shalat lima waktu dan shalat sunnah, namun orang baligh lebih utama darinya. Dan tidak sah keimamannya dalam shalat Jumat apabila ia dihitung sebagai bagian dari 40 orang yang mengabsahkan Jumat."
+    },
+    {
+      "title": "Hukum Bermakmum Kepada Orang Ummi",
+      "titleArabic": "إِمَامَةُ الأُمِّيِّ",
+      "arabic": "الأُمِّيُّ هُوَ مَنْ يُخِلُّ بِحَرْفٍ أَوْ تَشْدِيدَةٍ مِنَ الْفَاتِحَةِ. فَلَا تَصِحُّ إِمَامَةُ الأُمِّيِّ لِلْقَارِئِ (وَهُوَ مَنْ يُحْسِنُ الْفَاتِحَةَ)، وَتَصِحُّ إِمَامَةُ الأُمِّيِّ لِمِثْلِهِ.",
+      "translation": "Orang 'ummi' adalah orang yang cacat dalam mengucapkan satu huruf atau tasydid dari surah Al-Fatihah. Tidak sah keimaman orang ummi bagi orang 'qari' (orang yang Al-Fatihahnya bagus/benar), namun sah keimaman orang ummi bagi sesama ummi."
+    },
+    {
+      "title": "Keimaman Pria Berimamkan Wanita",
+      "titleArabic": "إِمَامَةُ الْمَرْأَةِ لِلرِّجَالِ",
+      "arabic": "لَا تَصِحُّ إِمَامَةُ الْمَرْأَةِ وَالْخُنْثَى لِلرِّجَالِ وَلَا لِلْخُنْثَى. وَتَصِحُّ إِمَامَةُ الْمَرْأَةِ لِمِثْلِهَا مِنَ النِّسَاءِ، وَتَقِفُ وَسَطَهُنَّ فِي الصَّفِّ لَا أَمَامَهُنَّ.",
+      "translation": "Tidak sah keimaman wanita dan khuntsa (seorang yang berkelamin ganda) bagi kaum laki-laki maupun sesama khuntsa. Sah keimaman wanita bagi sesama kaum wanita, dan ia berdiri di tengah-tengah shaf mereka, tidak di depan mereka."
+    },
+    {
+      "title": "Pembagian Makmum: Muwafiq dan Masbuq",
+      "titleArabic": "أَقْسَامُ الْمَأْمُومِ: الْمُوَاِفِقُ وَالْمَسْبُوقُ",
+      "arabic": "يَنْقَسِمُ الْمَأْمُومُ إِلَى قِسْمَيْنِ: مُوَافِقٍ وَمَسْبُوقٍ. فَالْمُوَاِفِقُ هُوَ مَنْ أَدْرَكَ مَعَ الإِمَامِ زَمَنًا يَسَعُ قِرَاءَةَ الْفَاتِحَةِ بَسَرَاعَةٍ مُعْتَدِلَةٍ. وَالْمَسْبُوقُ هُوَ مَنْ لَمْ يُدْرِكْ ذَلِكَ الزَّمَنَ.",
+      "translation": "Makmum terbagi menjadi dua kelompok: Muwafiq dan Masbuq. Makmum Muwafiq adalah makmum yang mendapati waktu bersama imam yang cukup untuk membaca surah Al-Fatihah dengan kecepatan sedang. Sedangkan Makmum Masbuq adalah makmum yang tidak mendapati waktu yang cukup tersebut."
+    },
+    {
+      "title": "Hukum dan Kewajiban Makmum Muwafiq",
+      "titleArabic": "أَحْكَامُ الْمَأْمُومِ الْمُوَاِفِقِ",
+      "arabic": "يَجِبُ عَلَى الْمُوَاِفِقِ قِرَاءَةُ الْفَاتِحَةِ كَامِلَةً. فَإِنْ تَخَلَّفَ لِإِتْمَامِهَا جَازَ لَهُ التَّخَلُّفُ بِثَلَاثَةِ أَرْكَانٍ طَوِيلَةٍ (وَهِيَ الرُّكُوعُ وَالسُّجُودُ الأَوَّلُ وَالسُّجُودُ الثَّانِي)، فَإِنْ لَمْ يَفْرُغْ مِْنَهَا لَزِمَهُ نِيَّةُ الْفَارَقَةِ أَوْ مُتَابَعَةُ الإِمَامِ وَإِعَادَةُ الرَّكْعَةِ.",
+      "translation": "Wajib bagi Makmum Muwafiq membaca Fatihah secara sempurna. Jika ia tertinggal untuk menyempurnakannya, ia diberi toleransi tertinggal hingga 3 rukun panjang (yaitu ruku', sujud pertama, dan sujud kedua). Jika belum selesai juga, wajib baginya niat mufaraqah (memisahkan diri) atau mengikuti imam dan mengulangi rakaat tersebut."
+    },
+    {
+      "title": "Uzur-Uzur Keterlambatan Makmum Muwafiq",
+      "titleArabic": "أَعْذَارُ تَخَلُّفِ الْمُوَاِفِقِ",
+      "arabic": "مِنْ أَعْذَارِ التَّخَلُّفِ الْمُغْتَفَرَةِ لِلْمُوَاِفِقِ: بُطْءُ الْقِرَاءَةِ مَعَ سُرْعَةِ الإِمَامِ، وَتَذَكُّرُهُ تَرْكَ الْفَاتِحَةِ فَهَوَى مَعَهُ لِلرُّكُوعِ، وَاشْتِغَالُهُ بِدُعَاءِ الاِفْتِتَاحِ حَتَّى رَكَعَ الإِمَامُ ظَنًّا أَنَّهُ يُدْرِكُ الْفَاتِحَةَ.",
+      "translation": "Di antara uzur tertinggal yang ditoleransi bagi Makmum Muwafiq: Bacaannya yang lambat secara alami sementara imam cepat, teringat belum membaca Fatihah saat hendak ruku' bersama imam, dan disibukkan oleh doa Iftitah hingga imam ruku' karena mengira masih sempat membaca Fatihah."
+    },
+    {
+      "title": "Hukum dan Tata Cara Makmum Masbuq",
+      "titleArabic": "أَحْكَامُ الْمَأْمُومِ الْمَسْبُوقِ",
+      "arabic": "الْمَسْبُوقُ يَكْبُرُ تَكْبِيرَةَ الإِحْرَامِ قَائِمًا ثُمَّ يَرْكَعُ مَعَ الإِمَامِ، وَتَسْقُطُ عَنْهُ الْفَاتِحَةُ أَوْ مَا بَقِيَ مِنْهَا، وَيَتَحَمَّلُهَا عَنْهُ الإِمَامُ بِشَرْطِ أَنْ يَرْكَعَ وَيَطْمَئِنَّ قَبْلَ أَنْ يَرْفَعَ الإِمَامُ عَنْ حَدِّ الرُّكُوعِ.",
+      "translation": "Makmum Masbuq bertakbiratul ihram dalam keadaan berdiri tegak lalu langsung ruku' bersama imam, dan gugurlah kewajiban membaca Fatihah darinya (atau sisanya) karena ditanggung oleh imam, dengan syarat ia sempat ruku' dan thuma'ninah sebelum imam bangkit melewati batas minimal ruku'."
+    },
+    {
+      "title": "Kriteria Mendapatkan Rakaat Bagi Masbuq",
+      "titleArabic": "إِدْرَاكُ الرَّكْعَةِ لِلْمَسْبُوقِ",
+      "arabic": "يُدْرِكُ الْمَسْبُوقُ الرَّكْعَةَ بِإِدْرَاكِ الرُّكُوعِ مَعَ الإِمَامِ بِشَرْطَيْنِ: الأَوَّلُ أَنْ يَطْمَئِنَّ فِي الرُّكُوعِ يَقِينًا قَبْلَ ارْتِفَاعِ الإِمَامِ عَنْ أَقَلِّ الرُّكُوعِ، وَالثَّانِي أَنْ لاَ يَكُونَ الإِمَامُ مُحْدِثًا.",
+      "translation": "Makmum Masbuq mendapatkan satu rakaat dengan mendapati ruku' bersama imam melalui dua syarat: Pertama, ia thuma'ninah dalam ruku' secara meyakinkan sebelum imam bangkit dari batas minimal ruku'. Kedua, imam tidak dalam keadaan berhadats."
+    },
+    {
+      "title": "Kewajiban Menambah Rakaat Bagi Masbuq",
+      "titleArabic": "قَضَاءُ الْمَسْبُوقِ مَا فَاتَهُ",
+      "arabic": "إِذَا سَلَّمَ الإِمَامُ قَامَ الْمَسْبُوقُ مُكَبِّرًا إِنْ كَانَ جَالِسًا فِي غَيْرِ مَوْضِعِ تَشَهُُّدِهِ، وَيُتِمُّ مَا بَقِيَ مِنْ صَلَاتِهِ. وَمَا أَدْرَكَهُ مَعَ الإِمَامِ فَهُوَ أَوَّلُ صَلَاتِهِ وَمَا يَأْتِي بِهِ فَهُوَ آخِرُهَا.",
+      "translation": "Apabila imam telah mengucapkan salam, maka makmum masbuq berdiri sambil bertakbir (jika ia duduk pada posisi yang bukan tempat tasyahudnya) dan menyempurnakan sisa shalatnya. Apa yang didapati bersama imam adalah awal shalatnya, dan apa yang ditambahkannya sendiri adalah akhir shalatnya."
+    },
+    {
+      "title": "Posisi Berdiri Imam dan Makmum Tunggal",
+      "titleArabic": "مَوْقِفُ الْمَأْمُومِ الْوَاحِدِ",
+      "arabic": "إِذَا كَانَ الْمَأْمُومُ وَاحِدًا ذَكَرًا يَقِفُ عَنْ يَمِينِ الإِمَامِ مُتَأَخِّرًا عَنْهُ قَلِيلًا بِحَيْثُ لاَ تُوَازِي أَصَابِعُ رِجْلِهِ عَقِبَ الإِمَامِ. فَإِنْ جَاءَ آخَرُ كَبَّرَ وَوَقَفَ عَنْ يَسَارِهِ ثُمَّ يَتَقَدَّمُ الإِمَامُ أَوْ يَتَأَخَّرَانِ.",
+      "translation": "Jika makmum hanya satu orang laki-laki, ia berdiri di sebelah kanan imam agak mundur sedikit sehingga jari kakinya tidak sejajar dengan tumit imam. Jika datang makmum lain, ia bertakbir dan berdiri di sebelah kiri imam, lalu imam maju ke depan atau kedua makmum mundur ke belakang."
+    },
+    {
+      "title": "Posisi Dua Makmum atau Lebih",
+      "titleArabic": "مَوْقِفُ الاثْنَيْنِ فَأَكْثَرَ",
+      "arabic": "إِذَا كَانَ الْمَأْمُومُونَ اثْنَيْنِ فَأَكْثَرَ وَقَفُوا خَلْفَ الإِمَامِ صَفًّا، وَيُكْرَهُ لِلْمَأْمُومِ الْوُقُوفُ مُنْفَرِدًا خَلْفَ الصَّفِّ إِذَا كَانَتْ فِي الصَّفِّ سَعَةٌ، بَلْ يَدْخُلُ فِي الصَّفِّ أَوْ يَجْذِبُ شَخْصًا بَعْدَ الإِحْرَامِ.",
+      "translation": "Jika makmum berjumlah dua orang atau lebih, mereka berdiri di belakang imam membentuk satu shaf. Makruh hukumnya makmum berdiri sendirian di belakang shaf jika shaf di depannya masih kelonggaran; hendaknya ia masuk ke shaf atau menarik satu orang ke belakang setelah melakukan takbiratul ihram."
+    },
+    {
+      "title": "Posisi Berdiri Makmum Wanita",
+      "titleArabic": "مَوْقِفُ الْمَرْأَةِ الْمَأْمُومَةِ",
+      "arabic": "تَقِفُ الْمَرْأَةُ الْوَاحِدَةُ أَوْ النِّسَاءُ خَلْفَ صَفِّ الرِّجَالِ أَوْ خَلْفَ الإِمَامِ إِنْ لَمْ يَكُنْ مَعَهُ رِجَالٌ. وَلَا تَقِفُ الْمَرْأَةُ بِجَانِبِ الرَّجُلِ فِي الصَّفِّ فَإِنَّ ذَلِكَ مَكْرُوهٌ وَلَا تُبْطِلُ الصَّلَاةَ.",
+      "translation": "Seorang wanita tunggal atau jamaah wanita berdiri di belakang shaf laki-laki, atau di belakang imam jika tidak ada jamaah laki-laki. Wanita tidak boleh berdiri di samping laki-laki dalam satu shaf; hukumnya makruh namun tidak membatalkan shalat."
+    },
+    {
+      "title": "Urutan Keutamaan Pengaturan Shaf",
+      "titleArabic": "تَرْتِيبُ الصُّفُوفِ",
+      "arabic": "يُقَدَّمُ فِي الصَّفِّ الأَوَّلِ الرِّجَالُ الأَحْرَارُ الْكُمَّلُ، ثُمَّ الصِّبْيَانُ، ثُمَّ الْخُنْثَى، ثُمَّ النِّسَاءُ. وَخَيْرُ صُفُوفِ الرِّجَالِ أَوَّلُهَا وَشَرُّهَا آخِرُهَا، وَخَيْرُ صُفُوفِ النِّسَاءِ آخِرُهَا وَشَرُّهَا أَوَّلُهَا.",
+      "translation": "Pengaturan susunan shaf didahulukan laki-laki dewasa merdeka pada shaf pertama, kemudian anak-anak laki-laki, lalu khuntsa, kemudian jamaah wanita. Sebaik-baik shaf laki-laki adalah shaf paling depan dan seburuk-buruknya adalah yang paling belakang. Sebaliknya, sebaik-baik shaf wanita adalah yang paling belakang dan seburuk-buruknya adalah yang paling depan."
+    },
+    {
+      "title": "Keutamaan Meluruskan dan Merapatkan Shaf",
+      "titleArabic": "تَسْوِيَةُ الصُّفُوفِ",
+      "arabic": "تُسَنُّ تَسْوِيَةُ الصُّفُوفِ وَإِتْمَامُ الصَّفِّ الأَوَّلِ فَالأَوَّلِ وَالتَّرَاصُّ فِيهَا وَسَدُّ الْخَلَلِ، لِقَوْلِهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «سَوُّوا صُفُوفَكُمْ فَإِنَّ تَسْوِيَةَ الصَّفِّ مِنْ تَمَامِ الصَّلَاةِ».",
+      "translation": "Disunnahkan meluruskan shaf, menyempurnakan shaf pertama baru kemudian shaf berikutnya, merapatkan barisan, serta menutup celah yang kosong. Hal ini berdasarkan sabda Nabi SAW: 'Luruskanlah shaf-shaf kalian, karena sesungguhnya meluruskan shaf adalah bagian dari kesempurnaan shalat.'"
+    },
+    {
+      "title": "Hukum Penggantian Imam (Istikhlaf)",
+      "titleArabic": "أَحْكَامُ الاِسْتِخْلَافِ",
+      "arabic": "إِذَا بَطَلَتْ صَلَاةُ الإِمَامِ بِحَدَثٍ أَوْ غَيْرِهِ جَازَ لَهُ وَلِلْمَأْمُومِينَ الاِسْتِخْلَافُ. فَيَسْتَخْلِفُ الإِمَامُ أَوْ يَقْتَدِمُ أَحَدُ الْمَأْمُومِينَ لِيُتِمَّ بِهِمُ الصَّلَاةَ.",
+      "translation": "Apabila shalat imam batal disebabkan timbulnya hadats atau hal lainnya, maka boleh bagi imam maupun para makmum untuk melakukan istikhlaf (penunjukan imam pengganti). Imam menunjuk pengganti atau salah satu makmum maju ke depan untuk menyempurnakan shalat jamaah."
+    },
+    {
+      "title": "Syarat-Syarat Keabsahan Istikhlaf",
+      "titleArabic": "شُرُوطُ صِحَّةِ الاِسْتِخْلَافِ",
+      "arabic": "يُشْتَرِطُ لِصِحَّةِ الاِسْتِخْلَافِ: أَنْ يَكُونَ الخَلِيفَةُ صَالِحًا لِلإِمَامَةِ، وَأَنْ يَكُونَ مَأْمُومًا مُتَّصِلًا بِالصَّلَاةِ، وَأَنْ لاَ يَتَخَلَّلَ بَيْنَ بُطْلَانِ صَلَاةِ الأَوَّلِ وَاسْتِخْلَافِ الثَّانِي زَمَنٌ طَوِيلٌ.",
+      "translation": "Syarat sahnya istikhlaf: Imam pengganti harus orang yang layak menjadi imam, merupakan makmum yang tersambung shalatnya sejak awal, serta tidak ada jedا waktu yang lama antara batalnya imam pertama dengan penunjukan imam kedua."
+    },
+    {
+      "title": "Tata Cara Istikhlaf Saat Imam Batal",
+      "titleArabic": "كَيْفِيَّةُ الاِسْتِخْلَافِ",
+      "arabic": "يَنْوِي الخَلِيفَةُ الإِمَامَةَ وَيَنْوِي الْمَأْمُومُونَ الاِقْتِدَاءَ بِهِ أَوْ يَبْقَوْنَ عَلَى نِيَّتِهِمُ الأُولَى، وَيُتِمُّ الخَلِيفَةُ بِهِمْ صَلَاتَهُمْ عَلَى نَظْمِ صَلَاةِ الإِمَامِ الأَوَّلِ.",
+      "translation": "Imam pengganti berniat menjadi imam, dan para makmum berniat bermakmum kepadanya (atau tetap menggunakan niat awal mereka), lalu imam pengganti menyempurnakan shalat mereka sesuai urutan shalat imam pertama."
+    },
+    {
+      "title": "Hal-Hal yang Ditanggung Imam Bagi Makmum",
+      "titleArabic": "مَا يَتَحَمَّلُهُ الإِمَامُ عَنِ الْمَأْمُومِ",
+      "arabic": "يَتَحَمَّلُ الإِمَامُ عَنِ الْمَأْمُومِ خَمْسَةَ أَشْيَاءَ: قِرَاءَةَ الْفَاتِحَةِ فِي حَقِّ الْمَسْبُوقِ، وَالسَّهْوَ فِي حَالَةِ الاِقْتِدَاءِ، وَسَجْدَةَ التِّلَاوَةِ وَالشُّكْرِ، وَسُجُودَ السَّهْوِ، وَسُتْرَةَ الصَّلَاةِ.",
+      "translation": "Imam menanggung lima hal bagi makmum: Bacaan Fatihah bagi makmum masbuq, kelupaan (sahwi) selama dalam keadaan bermakmum, sujud tilawah dan sujud syukur, sujud sahwi, serta pembatas shalat (sutrah)."
+    },
+    {
+      "title": "Hukum Sujud Sahwi Bagi Makmum",
+      "titleArabic": "سُجُودُ السَّهْوِ لِلْمَأْمُومِ",
+      "arabic": "إِذَا سَهَا الإِمَامُ سَجَدَ الْمَأْمُومُ مَعَهُ سُجُودَ السَّهْوِ وَتَابَعَهُ وَجُوبًا. وَإِنْ سَهَا الْمَأْمُومُ دُونَ الإِمَامِ لَمْ يَسْجُدْ لِلَّسَهْوِ لِأَنَّ الإِمَامَ يَتَحَمَّلُهُ عَنْهُ.",
+      "translation": "Apabila imam lupa, maka makmum wajib ikut sujud sahwi bersama imam dan mengikutinya. Jika makmum yang lupa sendirian tanpa imamnya, makmum tidak perlu sujud sahwi karena lupa tersebut telah ditanggung oleh imam."
+    },
+    {
+      "title": "Ketentuan Bermakmum Dalam Shalat Jumat",
+      "titleArabic": "الْقُدْوَةُ فِي صَلَاةِ الْجُمُعَةِ",
+      "arabic": "تُشْتَرِطُ الْجَمَاعَةُ فِي الرَّكْعَةِ الأُولَى مِنَ الْجُمُعَةِ. فَمَنْ أَدْرَكَ مَعَ الإِمَامِ الرُّكُوعَ مِنَ الرَّكْعَةِ الثَّانِيَةِ أَدْرَكَ الْجُمُعَةَ وَيُتِمُّ رَكْعَةً أُخْرَى، وَمَنْ أَدْرَكَهُ بَعْدَ الرُّكُوعِ الثَّانِي فَاتَتْهُ الْجُمُعَةُ وَيُتِمُّهَا ظُهْرًا أَرْبَعًا.",
+      "translation": "Disyaratkan berjamaah pada rakaat pertama shalat Jumat. Barangsiapa mendapati ruku' rakaat kedua bersama imam, ia mendapatkan Jumat dan tinggal menambah satu rakaat lagi. Barangsiapa mendapati imam setelah ruku' rakaat kedua, ia luput Jumat dan wajib menyempurnakannya sebagai shalat Dzuhur empat rakaat."
+    },
+    {
+      "title": "Ketentuan Bermakmum Dalam Shalat Khauf",
+      "titleArabic": "الْقُدْوَةُ فِي صَلَاةِ الْخَوْفِ",
+      "arabic": "تَجُوزُ الْقُدْوَةُ فِي صَلَاةِ الْخَوْفِ عَلَى الأَوْجُهِ الْوَارِدَةِ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، مِنْهَا أَنْ يَقْسِمَ الإِمَامُ الْجَيْشَ طَائِفَتَيْنِ: طَائِفَةٌ تُصَلِّي مَعَهُ رَكْعَةً وَطَائِفَةٌ تُوَاجِهُ الْعَدُوَّ.",
+      "translation": "Boleh bermakmum dalam shalat khauf (saat kondisi takut/war) menurut tata cara yang diriwayatkan dari Nabi SAW, di antaranya imam membagi pasukan menjadi dua kelompok: satu kelompok shalat bersama imam satu rakaat, dan kelompok lainnya menghadap musuh."
+    },
+    {
+      "title": "Ketentuan Bermakmum Dalam Shalat Jenazah",
+      "titleArabic": "الْقُدْوَةُ فِي صَلَاةِ الْجَنَازَةِ",
+      "arabic": "تُسَنُّ الْجَمَاعَةُ فِي صَلَاةِ الْجَنَازَةِ، وَيَجِبُ عَلَى الْمَأْمُومِ مُتَابَعَةُ الإِمَامِ فِي التَّكْبِيرَاتِ الأَرْبَعِ. فَإِنْ كَبَّرَ الإِمَامُ قَبْلَ قِرَاءَةِ الْمَأْمُومِ لِلْفَاتِحَةِ كَبَّرَ الْمَأْمُومُ مَعَهُ وَسَقَطَتْ عَنْهُ الْفَاتِحَةُ.",
+      "translation": "Disunnahkan berjamaah dalam shalat Jenazah, dan wajib bagi makmum mengikuti imam dalam empat kali takbir. Jika imam bertakbir sebelum makmum selesai membaca Al-Fatihah, maka makmum ikut bertakbir bersama imam dan gugurlah sisa Fatihah darinya."
+    },
+    {
+      "title": "Hal-Hal yang Membatalkan Niat Bermakmum (Mubthilat)",
+      "titleArabic": "مُبْطِلَاتُ الْقُدْوَةِ",
+      "arabic": "تَبْطُلُ الْقُدْوَةُ بِأُمُورٍ مِنْهَا: نِيَّةُ المُفَارَقَةِ بِلَا عُذْرٍ، وَالتَّخَلُّفُ أَوْ التَّقَدُّمُ بِرُكْنَيْنِ فِعْلِيَّيْنِ، وَمُخَالَفَةُ الإِمَامِ فِي سُنَّةٍ فَاحِشَةِ التَّغَيُّرِ، وَتَبَيُّنُ حَدَثِ الإِمَامِ أَوْ نَجَاسَتِهِ الخَفِيَّةِ.",
+      "translation": "Hubungan bermakmum (qudwah) batal disebabkan beberapa hal, di antaranya: Niat mufaraqah (memisahkan diri) tanpa uzur, tertinggal atau mendahului dua rukun fi'li, menyelisih imam dalam sunnah yang perbedaannya sangat mencolok, serta terbuktinya hadats imam atau adanya najis samar pada diri imam."
+    },
+    {
+      "title": "Mufaraqah (Memisahkan Diri dari Imam)",
+      "titleArabic": "أَحْكَامُ الْمُفَارَقَةِ",
+      "arabic": "تَجُوزُ المُفَارَقَةُ لِعُذْرٍ كَطُولِ صَلَاةِ الإِمَامِ أَوْ تَرْكِهِ سُنَّةً مَقْصُودَةً، وَتُكْرَهُ لِغَيْرِ عُذْرٍ وَلاَ تُبْطِلُ أَصْلَ الصَّلَاةِ بَلْ تَبْطُلُ الْجَمَاعَةُ، وَتَجِبُ المُفَارَقَةُ إِذَا بَطَلَتْ صَلَاةُ الإِمَامِ أَوْ كَانَ يَأْتِي بِمُبْطِلٍ.",
+      "translation": "Mufaraqah (memisahkan niat dari imam) boleh dilakukan karena uzur, seperti terlalu lamanya shalat imam atau imam meninggalkan sunnah yang dianjurkan. Mufaraqah makruh jika tanpa uzur namun tidak membatalkan shalat secara keseluruhan (hanya menggugurkan pahala jamaah). Mufaraqah menjadi wajib jika shalat imam batal atau imam melakukan hal yang membatalkan shalat."
+    },
+    {
+      "title": "Khatimah (Penutup)",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ",
+      "arabic": "تَمَّ بِحَمْدِ اللَّهِ وَتَوْفِيقِهِ بَيَانُ أَحْكَامِ الإِمَامَةِ وَالْإِقْتِدَاءِ. فَعَلَى الْمُصَلِّي الرَّاغِبِ فِي حِفْظِ عِبَادَتِهِ أَنْ يَتَعَلَّمَ هَذِهِ الأَحْكَامَ لِتَصِحَّ صَلَاتُهُ وَتَكْمُلَ جَمَاعَتُهُ. وَنَسْأَلُ اللَّهَ الْعَلِيَّ الْقَدِيرَ أَنْ يَجْعَلَ هَذَا الْعَمَلَ خَالِصًا لِوَجْهِهِ الْكَرِيمِ، وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلَّمَ.",
+      "translation": "Telah selesai dengan memuji Allah dan taufik-Nya penjelasan tentang hukum-hukum keimaman dan bermakmum. Maka wajib bagi setiap orang yang shalat yang ingin menjaga ibadahnya untuk mempelajari hukum-hukum ini agar shalatnya sah dan jamaahnya sempurna. Kami memohon kepada Allah Yang Maha Tinggi lagi Maha Kuasa agar menjadikan amal ini ikhlas semata-mata mengharapkan Wajah-Nya yang Mulia. Shalawat dan salam semoga tercurah kepada Junjungan kita Nabi Muhammad SAW, beserta keluarga dan para sahabatnya."
+    }
+  ]
+}
