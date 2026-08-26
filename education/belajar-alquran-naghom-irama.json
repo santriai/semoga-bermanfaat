@@ -1,123 +1,142 @@
 {
-  "title": "Modul Praktis Panduan Seni Irama Al-Qur'an (Naghom): Dari Nol Sampai Mahir Berirama",
-  "intro": "Modul ini dirancang khusus untuk membantu pemula memahami dan mempraktikkan seni lagu/irama Al-Qur'an (Maqamat) secara bertahap. Melalui metode praktis ini, Anda tidak hanya belajar memperindah lantunan Al-Qur'an, tetapi juga tetap menjaga keutuhan dan ketepatan kaidah Tajwid.",
+  "title": "Modul Panduan Praktis Seni Baca Al-Qur'an (Naghom/Irama) untuk Pemula dari Nol",
+  "intro": "Modul ini dirancang khusus untuk pemula yang ingin belajar memperindah bacaan Al-Qur'an menggunakan irama (naghom/maqamat) secara fleksibel, santai, dan tetap menjaga keabsahan hukum Tajwid. Dalam modul ini, Anda akan mempelajari rumus dasar irama 3 nada (Naik - Datar - Turun) hingga menerapkan lagu populer seperti Bayati dan Hijaz.",
   "steps": [
     {
       "stepNumber": 1,
-      "title": "Langkah 1: Menguasai 3 Tuntunan Nada Dasar pada Naghom Bayyati (Irama Induk)",
-      "explanation": "Naghom Bayyati adalah irama standar dan paling utama yang wajib dipelajari pertama kali. Kunci menguasai Bayyati adalah memahami 3 tingkatan nada dasar dalam 3 bait ayat: Nada Naik (Qoror), Nada Datar (Nawa), dan Nada Turun (Jawab). Rumus cepatnya: 'Naik - Datar - Turun'.",
+      "title": "Langkah 1: Fondasi Utama & Rumus 3 Nada Dasar (Naik, Datar, Turun)",
+      "explanation": "Sebelum menguasai nama-nama irama rumit seperti Bayati atau Hijaz, kunci utama seni lagu Al-Qur'an (Naghom) adalah menguasai alur 3 nada dasar: Nada Naik (ujung kalimat agak terangkat), Nada Datar (ujung kalimat stabil/sejajar), dan Nada Turun (ujung kalimat melandai ke bawah sebagai penutup). Kaidah emas: Tajwid adalah fondasi utama, irama adalah perhiasan. Jangan sampai mengejar irama hingga merusak Tajwid.",
       "examples": [
         {
+          "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+          "read": "Bismillāhir-raḥmānir-raḥīm",
+          "meaning": "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang",
+          "note": "Nada 1 (Naik): Diayunkan dengan tekanan suara terangkat sedikit di bagian akhir (raḥīm) untuk membuka bacaan."
+        },
+        {
           "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
-          "read": "Alhamdu lillaahi rabbil 'aalamiiin",
-          "meaning": "Segala puji bagi Allah, Tuhan seluruh alam.",
-          "note": "Bait 1: Gunakan 'Nada Naik'. Di akhir kata 'aalamiin', intonasi suara diangkat sedikit ke atas."
+          "read": "Al-ḥamdu lillāhi rabbil-'ālamīn",
+          "meaning": "Segala puji bagi Allah, Tuhan seluruh alam",
+          "note": "Nada 2 (Datar): Suara mengalir lurus/stabil tanpa dinaikkan atau diturunkan berlebihan pada akhir ayat ('ālamīn)."
         },
         {
           "arabic": "الرَّحْمَٰنِ الرَّحِيمِ",
-          "read": "Ar-rahmaanir-rahiiim",
-          "meaning": "Maha Pengasih, Maha Penyayang.",
-          "note": "Bait 2: Gunakan 'Nada Datar'. Intonasi stabil mendatar, mengalir tanpa tekanan tinggi atau rendah."
-        },
-        {
-          "arabic": "مَالِكِ يَوْمِ الدِّينِ",
-          "read": "Maaliki yaumid-diiin",
-          "meaning": "Pemilik hari pembalasan.",
-          "note": "Bait 3: Gunakan 'Nada Turun'. Suara direndahkan secara lembut di akhir ayat sebagai penutup gelombang nada."
+          "read": "Ar-raḥmānir-raḥīm",
+          "meaning": "Maha Pengasih lagi Maha Penyayang",
+          "note": "Nada 3 (Turun): Suara diturunkan secara lembut di akhir ayat (raḥīm) sebagai nada penutup atau jeda sempurna."
         }
       ],
-      "actionTip": "Coba latih Surah Al-Fatihah ayat 2, 3, dan 4 secara berurutan dengan rumus 'Naik - Datar - Turun' secara berulang sampai alurnya terasa alami."
+      "actionTip": "Coba ucapkan kalimat Bismillah dengan nada terangkat di akhir, lalu baca ayat berikutnya dengan nada lurus, dan ayat ketiga dengan nada melandai turun."
     },
     {
       "stepNumber": 2,
-      "title": "Langkah 2: Menghayati Naghom Shoba (Irama Syahdu & Menyentuh Hati)",
-      "explanation": "Naghom Shoba memiliki karakter yang sangat khas: bernuansa sedih, haru, syahdu, dan penuh penghayatan. Sangat cocok digunakan untuk ayat-ayat penderitaan, peringatan, siksa, atau doa permohonan. Ciri khas lagunya memiliki kegetiran manis (getaran vokal halus) pada nada pertamanya.",
+      "title": "Langkah 2: Menguasai Naghom Bayati (Irama Wajib & Induk Lagu)",
+      "explanation": "Naghom Bayati adalah induk dari segala irama Al-Qur'an. Ciri khas irama Bayati adalah sifatnya yang lembut, khusyuk, dan tenang. Setiap Qari selalu memulai tilawah menggunakan Bayati. Rumus praktis mempraktikkan Bayati adalah mengombinasikan 3 variasi tingkatan suara: Bayati Qarar (suara rendah/dada), Bayati Nawa (suara sedang/tenggorokan), dan Bayati Jawab (suara tinggi/kepala).",
       "examples": [
         {
-          "arabic": "وَالضُّحَىٰ",
-          "read": "Wadh-dhuhaa",
-          "meaning": "Demi waktu dhuha (ketika matahari naik sepenggalan).",
-          "note": "Pembuka Shoba: Tarik nafas, lantunkan kata ini dengan nada agak tertekan lembut dan agak tinggi bernuansa haru."
+          "arabic": "مَالِكِ يَوْمِ الدِّينِ",
+          "read": "Māliki yaumid-dīn",
+          "meaning": "Pemilik hari pembalasan",
+          "note": "Bayati Qarar (Suara Rendah/Naik): Dibaca menggunakan nada rendah dari dada dengan alur lagu Bayati yang sedikit menaik di akhir."
         },
         {
-          "arabic": "وَاللَّيْلِ إِذَا سَجَىٰ",
-          "read": "Wal-laili idzaa sajaa",
-          "meaning": "Dan demi malam apabila telah sunyi.",
-          "note": "Pengembangan Shoba: Nada dibuat mengayun lembut turun secara perlahan mendalam."
+          "arabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+          "read": "Iyyāka na'budu wa iyyāka nasta'īn",
+          "meaning": "Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami memohon pertolongan",
+          "note": "Bayati Nawa (Suara Sedang/Datar): Menggunakan nada sedang, alur lagu mengalir tenang dan datar di pertengahan surah."
+        },
+        {
+          "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+          "read": "Ihdinaṣ-ṣirāṭal-mustaqīm",
+          "meaning": "Tunjukilah kami jalan yang lurus",
+          "note": "Bayati Jawab (Suara Tinggi/Turun): Menggunakan nada tinggi yang penuh penghayatan, lalu ditutup dengan landaian nada turun."
         }
       ],
-      "actionTip": "Latih nada Shoba pada ayat-ayat bernuansa penyesalan atau doa. Bayangkan sedang memohon langsung kepada Allah dengan rasa kerendahan hati."
+      "actionTip": "Latihlah pernapasan perut agar saat membawakan naghom Bayati pada suara sedang dan tinggi, napas tidak cepat habis."
     },
     {
       "stepNumber": 3,
-      "title": "Langkah 3: Menikmati Naghom Nahawand (Irama Lembut, Romantis & Manis)",
-      "explanation": "Naghom Nahawand adalah irama yang sangat populer karena karakternya yang lembut, manis, santai, dan penuh keindahan. Irama ini sangat pas dipakai membaca ayat-ayat tentang kabar gembira, surga, atau kisah-kisah kenabian.",
+      "title": "Langkah 3: Mengenal Naghom Hijaz (Irama Tegas & Menyentuh Hati)",
+      "explanation": "Naghom Hijaz adalah irama khas timur tengah yang memiliki karakter tegas, syahdu, puitis, dan sangat menyentuh perasaan. Irama ini sering digunakan dalam azan atau membaca ayat-ayat tentang peringatan, keagungan Allah, dan doa. Ciri khas Hijaz terletak pada lekukan nada yang tajam namun tetap merdu.",
       "examples": [
         {
-          "arabic": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
-          "read": "Alam nashrah laka shadrak",
-          "meaning": "Bukankah Kami telah melapangkan dadamu?",
-          "note": "Nahawand Naik: Nada meliuk manis ke atas di pertengahan ayat dengan lembut."
+          "arabic": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ",
+          "read": "Ṣirāṭallażīna an'amta 'alaihim",
+          "meaning": "(yaitu) jalan orang-orang yang telah Engkau beri nikmat kepada mereka",
+          "note": "Hijaz Naik: Dibaca dengan aksen khas Hijaz yang agak tegas dan berliku, nada terangkat pada kata 'alaihim."
         },
         {
-          "arabic": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
-          "read": "Wa wadha'naa 'anka wizrak",
-          "meaning": "Dan Kami pun telah menurunkan bebanmu darimu.",
-          "note": "Nahawand Turun: Nada mengayun meluncur turun dengan halus di bagian ujung ayat."
+          "arabic": "غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+          "read": "Gairil-magḍūbi 'alaihim wa laḍ-ḍāllīn",
+          "meaning": "bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) mereka yang sesat",
+          "note": "Hijaz Turun: Dibaca mendayu dengan nada melandai turun secara syahdu sebagai penutup Surah Al-Fatihah."
         }
       ],
-      "actionTip": "Latihan Nahawand membutuhkan kestabilan nafas. Usahakan tidak terlalu memaksakan tekanan vokal keras; biarkan suara mengalir rileks."
+      "actionTip": "Dengarkan rekaman azan Makkah atau tilawah Sheikh Ali Jaber untuk merasakan Cengkok khas dari Irama Hijaz."
     },
     {
       "stepNumber": 4,
-      "title": "Langkah 4: Menjiwai Naghom Rast (Irama Tegas, Megah & Bersemangat)",
-      "explanation": "Naghom Rast memiliki karakter tegas, lincah, berwibawa, dan megah. Irama ini sering digunakan oleh para imam Masjidil Haram. Sangat cocok diterapkan pada ayat-ayat hukum, perintah, larangan, serta kisah kemenangan.",
-      "examples": [
-        {
-          "arabic": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
-          "read": "Idzaa jaa-a nasrullaahi wal-fath",
-          "meaning": "Apabila telah datang pertolongan Allah dan kemenangan.",
-          "note": "Rast Naik: Nada tegas penuh semangat membumbung naik secara mantap."
-        },
-        {
-          "arabic": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا",
-          "read": "Wa ra-aitan-naasa yadkhuluuna fii diinillaahi afwaajaa",
-          "meaning": "Dan engkau melihat manusia berbondong-bondong masuk agama Allah.",
-          "note": "Rast Jawab: Nada tinggi megah namun tetap terkontrol rapi pada bacaan ghunnah dan mad."
-        }
-      ],
-      "actionTip": "Gunakan pernapasan perut agar nada Rast terdengar mantap, lantang, dan berwibawa tanpa membuat tenggorokan sakit."
-    },
-    {
-      "stepNumber": 5,
-      "title": "Langkah 5: Penerapan Mandiri & Menjaga Keseimbangan Tajwid",
-      "explanation": "Kaidah emas seni membaca Al-Qur'an adalah: 'Tajwid adalah Utama, Naghom adalah Penghias'. Jangan sampai lagu/irama merusak panjang pendek (Mad), kejelasan (Izhar), atau dengung (Ghunnah). Pada langkah ini, Anda melatih satu surah penuh menggunakan variasi irama yang telah dipelajari.",
+      "title": "Langkah 4: Mengenal Naghom Rast & Nahawand (Variasi Irama Cerah & Syahdu)",
+      "explanation": "Setelah Bayati dan Hijaz, ada dua irama populer lain yaitu Rast dan Nahawand. Rast memiliki karakter yang gagah, mantap, dan ceria. Sangat cocok untuk ayat-ayat kisah kemenangan atau kabar gembira. Sedangkan Nahawand memiliki karakter yang sangat lembut, manis, agak sedih, dan romantis (kesyahduan).",
       "examples": [
         {
           "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ",
-          "read": "Qul huwal-laahu ahad",
-          "meaning": "Katakanlah (Muhammad): Dialah Allah, Yang Maha Esa.",
-          "note": "Lantunkan dengan irama pilihan (misal: Bayyati). Pastikan pantulan Qalqalah di huruf 'Dal' tetap jelas dan tidak hilang karena mengejar cengkok lagu."
+          "read": "Qul huwallāhu aḥad",
+          "meaning": "Katakanlah (Muhammad), Dia-lah Allah, Yang Maha Esa",
+          "note": "Irama Rast (Gagah/Cerah): Dibaca dengan tegas, nada naik dengan tempo yang bersemangat dan stabil."
+        },
+        {
+          "arabic": "اللَّهُ الصَّمَدُ",
+          "read": "Allāhuṣ-ṣamad",
+          "meaning": "Allah tempat meminta segala sesuatu",
+          "note": "Irama Nahawand (Lembut/Manis): Dibaca dengan cengkok manis yang lembut dan mengalun syahdu."
         }
       ],
-      "actionTip": "Rekam suara Anda sendiri saat membaca Surah Al-Ikhlas sampai An-Naas. Dengarkan kembali untuk memastikan ketepatan tajwid sebelum menilai keindahan iramanya."
+      "actionTip": "Bandingkan membaca Surah Al-Ikhlas dengan perasaan gembira (Rast) dan perasaan sedih/syahdu (Nahawand) untuk melatih variasi emosi suara."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Langkah 5: Praktek Mandiri Penerapan Rumus 3 Nada pada Surah Al-Ikhlas",
+      "explanation": "Saatnya menggabungkan semua pemahaman ke dalam praktek langsung. Kita akan menggunakan pola rumus standar 3 Nada (Naik, Datar, Turun) dengan variasi irama Bayati untuk membaca Surah Al-Ikhlas secara utuh dari awal sampai akhir.",
+      "examples": [
+        {
+          "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+          "read": "Qul huwallāhu aḥad",
+          "meaning": "Katakanlah (Muhammad), Dia-lah Allah, Yang Maha Esa",
+          "note": "Ayat 1 - Nada NAIK: Buka dengan nada terangkat halus di akhir kata 'aḥad'."
+        },
+        {
+          "arabic": "اللَّهُ الصَّمَدُ",
+          "read": "Allāhuṣ-ṣamad",
+          "meaning": "Allah tempat meminta segala sesuatu",
+          "note": "Ayat 2 - Nada DATAR: Jaga tinggi suara agar tetap lurus dan rata pada kata 'ṣamad'."
+        },
+        {
+          "arabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+          "read": "Lam yalid wa lam yūlad",
+          "meaning": "Dia tidak beranak dan tidak pula diperanakkan",
+          "note": "Ayat 3 - Nada DATAR / TINGGI SEDIKIT: Pertahankan nada sedang untuk menyambung bait sebelum penutup."
+        },
+        {
+          "arabic": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+          "read": "Wa lam yakul lahū kufuwan aḥad",
+          "meaning": "Dan tidak ada seorang pun yang setara dengan Dia",
+          "note": "Ayat 4 - Nada TURUN: Landai dan turunkan nada suara secara lembut pada kata 'aḥad' sebagai kunci penutup."
+        }
+      ],
+      "actionTip": "Rekam suara Anda sendiri saat membaca Surah Al-Ikhlas menggunakan pola Naik-Datar-Turun ini, lalu dengarkan kembali untuk mengevaluasi kelancaran lagunya."
     }
   ],
   "sections": [
     {
-      "title": "Ringkasan Kaidah Penting 7 Maqam (Naghom)",
-      "content": "Untuk mempermudah menghafal 7 irama standar Al-Qur'an, gunakan rumus akronim: 'BAYAM SOBA NAHAN RAST HIJAZ JIHAR SIKAH' (1. Bayyati: Induk/Luwes, 2. Shoba: Sedih/Haru, 3. Nahawand: Manis/Lembut, 4. Rast: Tegas/Megah, 5. Hijaz: Padang Pasir/Syahdu Tinggi, 6. Jiharkah: Manis/Perlahan, 7. Sikah: Khas/Timur Tengah)."
-    },
-    {
-      "title": "Aturan Emas Berirama",
-      "content": "1. Tajwid > Naghom (Tajwid wajib didahulukan). 2. Jangan memaksakan cengkok vokal berlebihan jika nafas tidak cukup. 3. Konsisten pada variasi nada naik-datar-turun agar irama terdengar harmonis."
+      "title": "Ringkasan Kaidah Penting Seni Naghom",
+      "content": "1. TAJWID DI ATAS NAGHOM: Irama hanyalah sarana, Tajwid adalah kewajiban. Dilarang memanjangkan bacaan pendek demi mengejar irama.\n2. RUMUS 3 NADA: Gunakan pola (Ayat 1: Naik, Ayat 2: Datar, Ayat 3: Turun) untuk surah apapun yang ingin Anda baca.\n3. PERNAPASAN PERUT: Gunakan pernapasan diafragma (perut) agar suara lebih kokoh, stabil, dan tidak tersengal-sengal.\n4. KONTROL CENGKOK: Pemula tidak perlu terlalu banyak cengkok/getaran suara. Utamakan kebenaran nada dasar terlebih dahulu."
     }
   ],
   "tips": [
-    "Gunakan pernapasan diafragma (perut) agar suara lebih stabil, panjang, dan tidak mudah serak.",
-    "Jangan terburu-buru mencoba cengkok yang rumit; kuasai pola nada lurus (naik-datar-turun) terlebih dahulu.",
-    "Sering-seringlah mendengarkan murottal Qari populer (seperti Sheikh Mishary Rashid atau Sheikh Abdul Basit) untuk mengasah kepekaan telinga (seni sima'i).",
-    "Gunakan cengkok lagu hanya pada bacaan yang panjang (Mad Jaiz/Wajib), jangan pada bacaan pendek."
+    "Seringlah mendengarkan (talaqqi/murottal) dari Qari terkenal seperti Sheikh Mishary Rashid Al-Afasy atau Muammar ZA untuk mengasah kepekaan telinga (seni pendengaran).",
+    "Gunakan teknik 'Tiru dan Ulangi' (Imitasi): Tirukan 1 ayat dari Qari favorit Anda secara berulang-ulang sampai persis sebelum berpindah ke ayat lain.",
+    "Jangan memaksakan jangkauan nada tinggi yang merusak tenggorokan. Bernyanyi/berlagu dalam Al-Qur'an harus nyaman dan sesuai karakter suara alami Anda."
   ],
-  "summary": "Mempelajari irama Al-Qur'an adalah ikhtiar untuk mengagungkan kalam Allah dan menyentuh hati pendengarnya. Mulailah dari langkah paling sederhana (Naghom Bayyati) dan utamakan kebenaran Tajwid. Dengan latihan konsisten 15 menit setiap hari, Anda pasti bisa melantunkan Al-Qur'an dengan merdu dan benar!"
+  "summary": "Membaca Al-Qur'an dengan irama yang indah adalah kesunnahan yang sangat dianjurkan untuk menghiasi Al-Qur'an (Zayyinuu Al-Qur'an bi Ashwaatikum). Dengan menguasai rumus dasar 3 Nada (Naik-Datar-Turun) serta membiasakan irama Bayati dan Hijaz, Anda kini sudah bisa membaca Al-Qur'an secara tartil, indah, dan menyentuh hati. Teruslah berlatih setiap hari!"
 }
