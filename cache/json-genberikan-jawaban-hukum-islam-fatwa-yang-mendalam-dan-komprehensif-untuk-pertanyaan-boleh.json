@@ -1,36 +1,41 @@
 {
-  "question": "Bolehkah hasil kebun wakaf",
-  "summary": "Hasil kebun wakaf BOLEH dan WAJIB dimanfaatkan serta disalurkan sesuai dengan ikrar/syarat yang ditentukan oleh Wakif (pemberi wakaf). Mula-mula hasil kebun digunakan untuk biaya pemeliharaan kebun (imarah al-waqf) dan hak Nazhir (pengelola), kemudian sisanya diberikan kepada Mauquf 'Alaih (penerima manfaat).",
-  "lawStatus": "Boleh (Bahkan Wajib disalurkan sesuai ikrar wakaf)",
+  "question": "Bolehkah hasil kebun wakaf milik musolla di berikn kpd jamaahnya",
+  "summary": "Hukum asalnya adalah TIDAK BOLEH jika kebun wakaf tersebut diperuntukkan bagi kemaslahatan/operasional musolla. Hasil kebun wajib digunakan terlebih dahulu untuk kebutuhan fisik, fasilitas, dan operasional musolla. Hasil tersebut baru boleh diberikan kepada jamaah apabila ada persyaratan khusus dari ikrar wakif (pemberi wakaf), atau jika jamaah tersebut adalah pelayan musolla (seperti imam/marbot), atau jika jamaah tergolong fakir/miskin dan terdapat kelebihan (surplus) setelah seluruh kebutuhan musolla terpenuhi secara sempurna.",
+  "lawStatus": "Haram / Tidak Boleh (secara umum, kecuali memenuhi syarat tertentu)",
   "madzhabComparison": [
     {
       "madzhab": "Syafi'i",
-      "opinion": "Hasil/buah dari kebun wakaf adalah hak penerima manfaat (mauquf 'alaih) sesuai ketentuan wakif. Apabila kebun memerlukan perawatan, biaya perawatan dipotong dari hasil kebun sebelum dibagikan, atau sesuai mekanisme yang disyaratkan wakif. Hasil kebun tidak boleh dijual kecuali untuk biaya pemeliharaan kebun itu sendiri atau jika memang tujuan wakafnya adalah wakaf komersial/produktif."
+      "opinion": "Dalam madzhab Syafi'i, ikrar dan syarat dari wakif bersifat mengikat secara mutlak sesuai kaidah 'Syartul waqifi ka nasshis syari'' (Syarat dari pembawa wakaf berkedudukan seperti teks syariat). Jika kebun diwakafkan untuk musolla (maslahatil musolla), maka seluruh hasilnya harus dialokasikan untuk pemeliharaan fisik musolla, listrik, air, serta kesejahteraan pengurus/pelayan musolla (Imam, Muazin, Marbot). Pembagian kepada jamaah umum hukumnya haram dan tidak sah karena menyalahi tujuan wakaf, kecuali jika jamaah tersebut tergolong fakir-miskin dan kebutuhan mendesak musolla sudah terpenuhi seluruhnya."
     },
     {
       "madzhab": "Hanafi",
-      "opinion": "Hasil kebun wakaf harus diprioritaskan terlebih dahulu untuk operasional dan perbaikan/pemeliharaan kebun (imarat al-waqf) agar manfaatnya berlanjut secara berkesinambungan. Setelah kebutuhan pemeliharaan terpenuhi, sisa hasil baru dibagikan kepada para penerima manfaat wakaf."
+      "opinion": "Madzhab Hanafi juga menegaskan pentingnya menjaga syarat wakif. Hasil kebun wakaf musolla harus diutamakan untuk perbaikan dan kelangsungan bangunan musolla. Namun, jika musolla sudah sangat makmur dan tidak membutuhkan dana tersebut, serta ada surplus yang tersisa, Nazhir (pengelola) boleh menyalurkan kelebihannya kepada masyarakat atau jamaah sekitar yang membutuhkan (fakir/miskin) atas izin qadhi (hakim/otoritas berwenang) atau berdasarkan kebiasaan setempat ('urf)."
     },
     {
       "madzhab": "Maliki",
-      "opinion": "Hasil dari benda wakaf (seperti buah dari kebun) menjadi hak milik penerima wakaf sejak hasil itu muncul. Namun, biaya pengelolaan dan perbaikan kebun didahulukan mengambil dari hasil kebun tersebut sebelum diserahkan kepada mauquf 'alaih."
+      "opinion": "Madzhab Maliki berpendapat bahwa hasil dari benda wakaf wajib disalurkan sesuai dengan peruntukan awal yang ditetapkan wakif. Jika ditujukan untuk musolla, maka jamaah tidak berhak menerimanya secara langsung sebagai pemanfaatan pribadi. Jamaah hanya berhak menikmati fasilitas musolla yang dibiayai oleh hasil kebun tersebut (seperti kenyamanan tempat ibadah). Pembagian hasil berupa dana/produk langsung kepada jamaah hanya dibolehkan jika jamaah tersebut bekerja mengurus musolla."
     },
     {
       "madzhab": "Hambali",
-      "opinion": "Hasil kebun wakaf dimanfaatkan sepenuhnya sesuai tujuan wakaf. Jika wakif menentukan syarat tertentu (misal: dijual lalu uangnya disumbangkan ke masjid), maka syarat tersebut wajib dijalankan. Pemeliharaan objek wakaf menduduki posisi prioritas utama yang diambil dari porsi hasil kebun."
+      "opinion": "Madzhab Hambali menekankan bahwa pengalihan alokasi hasil wakaf dari tujuan utama (musolla) ke pihak lain (jamaah) adalah tidak diperbolehkan selama musolla masih membutuhkan biaya operasional dan perawatan. Pengalihan hasil kebun kepada jamaah hanya sah jika wakif sejak awal menyatakan secara lisan/tertulis bahwa kebun diwakafkan untuk musolla dan warga/jamaah sekitarnya."
     }
   ],
   "evidences": [
     {
-      "source": "Hadits Riwayat Bukhari dan Muslim (Kisah Wakaf Umar bin Khattab ra.)",
+      "source": "Hadits Riwayat Bukhari (No. 2737) & Muslim (No. 1632)",
       "text": "تَصَدَّقْ بِأَصْلِهِ لاَ يُبَاعُ وَلاَ يُوهَبُ وَلاَ يُورَثُ وَلَكِنْ يُنْفَقُ ثَمَرُهُ",
-      "meaning": "Sedekahkanlah pokoknya (tanah/kebunnya), tidak boleh dijual, tidak boleh dihibahkan, dan tidak boleh diwariskan, akan tetapi dimanfaatkan/disedekahkan hasilnya."
+      "meaning": "Bersedekahlah dengan pokoknya (pohonnya), tidak boleh dijual, tidak boleh dihibahkan, dan tidak boleh diwariskan, akan tetapi dinafkahkan (dimanfaatkan) hasilnya."
     },
     {
-      "source": "Kaidah Fiqhiyah (Asy-Syirbini, Mughni al-Muhtaj)",
+      "source": "Kaidah Fiqhiyyah (Asy-Syirbini dalam Mughni al-Muhtaj)",
       "text": "شَرْطُ الْوَاقِفِ كَنَصِّ الشَّارِعِ",
-      "meaning": "Syarat yang ditetapkan oleh orang yang berwakaf (Wakif) kedudukannya seperti nas (teks) dari syariat (wajib dipatuhi selama tidak bermaksiat)."
+      "meaning": "Syarat yang ditetapkan oleh orang yang berwakaf (wakif) kedudukannya sama seperti nash (teks hukum) dari Pembuat Syariat."
+    },
+    {
+      "source": "Kitab Bughyah al-Mustarsyidin (Hal. 170)",
+      "text": "حَاصِلُ أَوْقَافِ الْمَسَاجِدِ الْمُطْلَقَةِ يُصْرَفُ فِي عِمَارَتِهَا وَمَصَالِحِهَا الضرورية",
+      "meaning": "Hasil dari wakaf masjid/musolla yang bersifat mutlak harus disalurkan untuk pemakmuran (pembangunan/perawatan) dan kemaslahatan yang dharuri (sangat diperlukan) bagi masjid/musolla tersebut."
     }
   ],
-  "conclusion": "Berdasarkan hasil Bahtsul Masail keputusan 4 Madzhab, membagikan, memakan, atau menjual hasil kebun wakaf hukumnya BOLEH dan sah, dengan urutan prioritas penggunaan: (1) Biaya pemeliharaan dan operasional kebun (imarat al-waqf) agar kebun tetap produktif, (2) Hak operasional/upah Nazhir (pengelola) yang wajar, dan (3) Disalurkan sepenuhnya kepada Mauquf 'Alaih (penerima manfaat) sesuai ikrar wakaf. Nazhir dilarang keras mengambil atau menjual hasil wakaf untuk kepentingan pribadi diluar hak pengelolaan yang sah."
+  "conclusion": "Kesimpulannya, Nazhir (pengurus wakaf) TIDAK BOLEH membagikan hasil kebun wakaf musolla secara bebas kepada jamaahnya. Urutan prioritas alokasi hasil kebun wakaf adalah: 1) Perawatan fisik, operasional, dan pemeliharaan musolla (listrik, air, kebersihan); 2) Insentif untuk petugas/pelayan musolla (Imam, Muazin, Marbot); 3) Jika ada kelebihan (surplus) yang sangat banyak dan seluruh kebutuhan musolla sudah terpenuhi untuk jangka panjang, kelebihan tersebut baru boleh disalurkan kepada jamaah yang tergolong FAKIR MISKIN. Saran praktis: Pengurus musolla hendaknya memeriksa kembali dokumen/catatan ikrar wakaf awal dari sang wakif untuk memastikan kehendak asli wakif."
 }
