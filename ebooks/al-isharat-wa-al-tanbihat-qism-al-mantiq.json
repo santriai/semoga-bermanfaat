@@ -1,0 +1,86 @@
+{
+  "profile": {
+    "name": "Al-Isharat wa al-Tanbihat (Qism al-Mantiq)",
+    "originalTitle": "الإِشَارَاتُ وَالتَّنْبِيهَاتُ (قِسْمُ الْمَنْطِقِ)",
+    "author": "الشيخ الرئيس أبو علي الحسين بن عبد الله بن سينا (Ibn Sina / Avicenna)",
+    "field": "Mantiq (Logika Aristotelian-Peripatetik Islam)",
+    "about": "Kitab Al-Isharat wa al-Tanbihat merupakan salah satu karya puncak dan kompendium filsafat-logika paling matang yang ditulis oleh Shaikh al-Ra'is Ibn Sina pada akhir hayatnya. Bagian Logika (Qism al-Mantiq) dalam kitab ini menyajikan dasar-dasar epistemologi, filsafat bahasa, teori definisi, serta validitas argumen deduktif dan induktif secara ringkas namun amat padat. Karya ini dirancang dengan gaya 'isharat' (petunjuk) dan 'tanbihat' (peringatan) guna memicu perenungan mendalam bagi para penuntut ilmu tingkat lanjut. Di dunia akademik Islam dan tradisi turath pesantren/madrasah, kitab ini menjadi rujukan utama logika formal (al-mantiq al-suri) yang banyak diberi syarah oleh ulama besar seperti Fakhruddin al-Razi dan Nasiruddin al-Tusi. Pembahasannya mencakup sepuluh metode (Nahj) yang merangkum seluruh pembagian Organon Aristoteles dalam sintesis khas Ibn Sina.",
+    "authorBorn": "Afshana dekat Bukhara, 370 H / 980 M",
+    "authorDied": "Hamadan, Persia, 428 H / 1037 M",
+    "authorCentury": "Abad ke-4-5 Hijriah / Abad ke-10-11 Masehi"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah Kitab Logika",
+      "titleArabic": "مُقَدِّمَةُ قِسْمِ الْمَنْطِقِ",
+      "arabic": "بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ. حَمْدًا لِلَّهِ الَّذِي هَدَانَا سَبِيلَ الرَّشَادِ، وَأَوْضَحَ لَنَا مَنَاهِجَ السَّدَادِ. أَمَّا بَعْدُ، فَهَذِهِ إِشَارَاتٌ إِلَى أُصُولٍ وَتَنْبِيهَاتٌ عَلَى جُمَلٍ مِنْ عِلْمِ الْمَنْطِقِ، تُنَبِّهُ الْمُسْتَبْصِرَ، وَتُعِينُ الْمُسْتَبْصِرَةَ، وَتَكُونُ تَذْكِرَةً لِلْمُنْتَهِي، وَمُفْتَحًا لِلْمُبْتَدِئِ فِي مَعْرِفَةِ طُرُقِ الْفِكْرِ الصَّحِيحِ.",
+      "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah yang telah menunjunjukkan kita jalan petunjuk dan memperjelas bagi kita metode kebenaran. Amma ba'du: Ini adalah petunjuk-petunjuk (isharat) kepada prinsip-prinsip dasar dan peringatan-peringatan (tanbihat) atas kaidah-kaidah ilmu logika, yang memperingatkan orang yang mencari kebenaran, membantu pemikiran yang tajam, serta menjadi pengingat bagi penuntut tingkat lanjut dan pembuka jalan bagi pemula dalam memahami metode pemikiran yang benar."
+    },
+    {
+      "title": "Metode Pertama: Tujuan dan Definisi Ilmu Logika",
+      "titleArabic": "الْنَّهْجُ الْأَوَّلُ: فِي أَغْرَاضِ الْمَنْطِقِ وَتَعْرِيفِهِ",
+      "arabic": "إِشَارَةٌ: الْمَنْطِقُ هُوَ الْآلَةُ الْقَانُونِيَّةُ الَّتِي تُعْصَمُ مُرَاعَاتُهَا الذِّهْنَ عَنِ الْخَطَإِ فِي فِكْرِهِ. وَالْفِكْرُ هُوَ حَرَكَةُ النَّفْسِ مِنَ الْمَعْلُومَاتِ إِلَى الْمَجْهُولَاتِ لِاسْتِحْصَالِهَا. فَالْمَنْطِقُ يَفْحَصُ عَنِ الْمَعَانِي مِنْ حَيْثُ تَتَأَدَّى بِهَا النَّفْسُ مِنْ مَعْلُومٍ إِلَى مَجْهُولٍ، سَوَاءٌ كَانَ فِي التَّصَوُّرِ أَوْ فِي التَّصْدِيقِ.",
+      "translation": "Petunjuk: Logika adalah instrumen normatif (alat rasional) yang jika dipelihara penggunaannya akan menjaga pikiran dari kekeliruan dalam berfikir. Berpikir adalah pergerakan jiwa dari hal-hal yang telah diketahui menuju hal-hal yang belum diketahui untuk memperoleh pengetahuan baru. Maka logika meneliti makna-makna dari sudut pandang bagaimana jiwa mengantarkan dari yang diketahui menuju yang tidak diketahui, baik dalam ranah konsep (tasawwur) maupun pembenaran/keputusan (tasdiq)."
+    },
+    {
+      "title": "Metode Kedua: Pembahasan Kata dan Pemaknaan (Al-Alfaz wa al-Ma'ani)",
+      "titleArabic": "الْنَّهْجُ الثَّانِي: فِي الأَلْفَاظِ وَالْمَفَاهِيمِ",
+      "arabic": "إِشَارَةٌ: اللَّفْظُ الدَّالُّ بِالْمُطَابَقَةِ يَدُلُّ عَلَى مَا يُوَافِقُ الْمَعْنَى الْمَوْضُوعَ لَهُ، وَبِالتَّضَمُّنِ يَدُلُّ عَلَى جُزْئِهِ، وَبِالْإِلْتِزَامِ يَدُلُّ عَلَى أَمْرٍ خَارِجٍ عَنْهُ يَلْزَمُهُ فِي الذِّهْنِ. ثُمَّ اللَّفْظُ إِمَّا مُفْرَدٌ وَهُوَ الَّذِي لَا يَدُلُّ جُزْؤُهُ عَلَى جُزْءِ مَعْنَاهُ، وَإِمَّا مُرَكَّبٌ وَهُوَ الَّذِي يَدُلُّ جُزْؤُهُ عَلَى جُزْءِ مَعْنَاهُ.",
+      "translation": "Petunjuk: Kata yang menunjuk secara mutabaqah (kesesuaian eksplisit) menunjukkan arti yang sepenuhnya sesuai dengan makna yang ditetapkannya. Secara tadhammun (implikasi cakupan), ia menunjukkan bagian dari makna tersebut. Dan secara iltizam (keterikatan niscaya), ia menunjukkan perkara luar yang secara rasional niscaya menyertainya. Kemudian, kata itu ada yang mufrad (tunggal/kompak)—yaitu yang bagian katanya tidak menunjukkan bagian maknanya—dan ada yang murakkab (tersusun)—yaitu yang bagian katanya menunjukkan bagian dari maknanya."
+    },
+    {
+      "title": "Metode Ketiga: Lima Universal (Al-Kulliyyat al-Khams)",
+      "titleArabic": "الْنَّهْجُ الثَّالِثُ: فِي الْكُلِّيَّاتِ الْخَمْسِ",
+      "arabic": "إِشَارَةٌ: الْمَفْهُومُ إِمَّا كُلِّيٌّ يَمْنَعُ نَفْسُ تَصَوُّرِهِ مِنْ وُقُوعِ الشَّرِكَةِ فِيهِ، وَإِمَّا جُزْئِيٌّ لَا يَمْنَعُ. وَالْكُلِّيُّ إِمَّا ذَاتِيٌّ يَكُونُ دَاخِلًا فِي مَاهِيَّةِ مُشْتَرِكِيهِ، وَإِمَّا عَرَضِيٌّ خَارِجٌ عَنْهَا. فَالذَّاتِيُّ إِمَّا جِنْسٌ أَوْ نَوْعٌ أَوْ فَصْلٌ. وَالْعَرَضِيُّ إِمَّا خَاصَّةٌ أَوْ عَرَضٌ عَامٌّ. فَهَذِهِ هِيَ الْكُلِّيَّاتُ الْخَمْسُ.",
+      "translation": "Petunjuk: Konsep itu adakalanya bersifat kulli (universal), yaitu yang bayangan konsepnya tidak mencegah terjadinya persekutuan (banyak individu di dalamnya), atau bersifat juz'i (partikular), yaitu yang mencegahnya. Universal adakalanya dhati (esensial) yang masuk dalam hakikat intinya, atau 'aradi (aksidental) yang berada di luar hakikatnya. Yang esensial mencakup Jenis (Genus), Nau' (Spesies), dan Fasl (Diferensia). Sedangkan yang aksidental mencakup Khasah (Proprium) dan 'Arad 'Am (Aksiden Umum). Inilah Lima Universal (Al-Kulliyyat al-Khams)."
+    },
+    {
+      "title": "Metode Keempat: Definisi dan Pernyataan Penjelas (Al-Qawl al-Sharih)",
+      "titleArabic": "الْنَّهْجُ الرَّابِعُ: فِي التَّعْرِيفِ وَالْقَوْلِ الشَّارِحِ",
+      "arabic": "إِشَارَةٌ: الْحَدُّ التَّامُّ هُوَ الْقَوْلُ الدَّالُّ عَلَى مَاهِيَّةِ الشَّيْءِ بِكُنْهِهِ، وَيَتَرَكَّبُ مِنْ جِنْسِهِ الْقَرِيبِ وَفَصْلِهِ الْقَرِيبِ. وَالْحَدُّ النَّاقِصُ مَا كَانَ بِالْفَصْلِ الْقَرِيبِ وَوَحْدَهُ أَوْ مَعَ الْجِنْسِ الْبَعِيدِ. وَالرَّسْمُ التَّامُّ مَا كَانَ بِالْجِنْسِ الْقَرِيبِ وَالْخَاصَّةِ. وَالرَّسْمُ النَّاقِصُ مَا كَانَ بِالْخَاصَّةِ وَحْدَهَا أَوْ مَعَ الْجِنْسِ الْبَعِيدِ.",
+      "translation": "Petunjuk: Had Tamm (Definisi Sempurna) adalah pernyataan yang menunjukkan hakikat esensial sesuatu secara utuh, yang tersusun dari Genus Terdekat (Jins Qarib) dan Diferensia Terdekat (Fasl Qarib). Had Naqis (Definisi Tidak Sempurna) adalah definisi menggunakan Diferensia Terdekat saja atau bersama Genus Jauh. Rasm Tamm (Deskripsi Sempurna) adalah definisi menggunakan Genus Terdekat dan Proprium (Khasah). Sedangkan Rasm Naqis (Deskripsi Tidak Sempurna) adalah menggunakan Proprium saja atau bersama Genus Jauh."
+    },
+    {
+      "title": "Metode Kelima: Proposisi dan Hukum-Hukumnya (Al-Qadaya)",
+      "titleArabic": "الْنَّهْجُ الْخَامِسُ: فِي الْقَضَايَا وَأَحْكَامِهَا",
+      "arabic": "إِشَارَةٌ: الْقَضِيَّةُ قَوْلٌ يَلْزَمُهُ الصِّدْقُ أَوْ الْكَذِبُ. وَهِيَ إِمَّا حَمْلِيَّةٌ؛ كَقَوْلِنَا: 'الْإِنْسَانُ حَيَوَانٌ'، أَوْ شَرْطِيَّةٌ؛ وَالشَّرْطِيَّةُ إِمَّا مُتَّصِلَةٌ؛ كَقَوْلِنَا: 'إِنْ كَانَتِ الشَّمْسُ طَالِعَةً فَالنَّهَارُ مَوْجُودٌ'، أَوْ مُنْفَصِلَةٌ؛ كَقَوْلِنَا: 'الْعَدَدُ إِمَّا زَوْجٌ أَوْ فَرْدٌ'.",
+      "translation": "Petunjuk: Proposisi (Qadiyah) adalah pernyataan bernilai benar atau salah. Proposisi terbagi menjadi Hamliyyah (Kategoris); seperti ucapan kita: 'Manusia adalah hewan', atau Shartiyyah (Kondisional). Proposisi kondisional terbagi menjadi Muttasilah (Kondisional Hipotetis); seperti: 'Jika matahari terbit maka siang ada', atau Munfasilah (Kondisional Disjungtif); seperti: 'Bilangan itu adakalanya genap atau ganjil'."
+    },
+    {
+      "title": "Metode Keenam: Kontradiksi dan Konversi Proposisi (Al-Tanaqudh wa al-'Aks)",
+      "titleArabic": "الْنَّهْجُ السَّادِسُ: فِي التَّنَاقُضِ وَالْعَكْسِ",
+      "arabic": "إِشَارَةٌ: التَّنَاقُضُ هُوَ اخْتِلَافُ قَضِيَّتَيْنِ بِالإِيجَابِ وَالسَّلْبِ بِحَيْثُ يَلْزَمُ مِنْ صِدْقِ إِحْدَاهُمَا كَذِبُ الأُخْرَى لِذَاتِهَا. وَيُشْتَرَطُ فِيهِ اتِّحَادُ الْمَوْضُوعِ وَالْمَحْمُولِ وَالزَّمَانِ وَالْمَكَانِ. وَالْعَكْسُ الْمُسْتَوِي هُوَ تَبْدِيلُ طَرَفَيِ الْقَضِيَّةِ مَعَ بَقَاءِ الصِّدْقِ وَالْكَيْفِ.",
+      "translation": "Petunjuk: Kontradiksi (Tanaqudh) adalah perbedaan dua proposisi dalam afirmasi dan negasi sedemikian rupa sehingga kebenaran salah satunya secara niscaya mengakibatkan kepalsuan yang lain secara esensial. Syaratnya adalah kesatuan subjek, predikat, waktu, tempat, dan syarat lainnya. Adapun Konversi ( 'Aks Mustawi) adalah pemutaran balik dua ujung proposisi (subjek dan predikat) dengan tetap mempertahankannya kebenaran dan kualitasnya (positif/negatif)."
+    },
+    {
+      "title": "Metode Ketujuh: Silogisme dan Bentuk-Bentuknya (Al-Qiyas)",
+      "titleArabic": "الْنَّهْجُ السَّابِعُ: فِي الْقِيَاسِ وَأَشْكَالِهِ",
+      "arabic": "إِشَارَةٌ: الْقِيَاسُ قَوْلٌ أُلِّفَ مِنْ أَقْوَالٍ إِذَا سُلِّمَتْ لَزِمَ عَنْهَا بِذَاتِهَا قَوْلٌ آخَرُ. وَالْقِيَاسُ إِمَّا اقْتِرَانِيٌّ لَا تُصَرَّحُ فِيهِ بِالنَّتِيجَةِ أَوْ نَقِيضِهَا، وَإِمَّا اسْتِثْنَائِيٌّ تُصَرَّحُ فِيهِ بِهَا. وَأَشْكَالُ الْقِيَاسِ الإِقْتِرَانِيِّ أَرْبَعَةٌ بِحَسَبِ مَوْضِعِ الْحَدِّ الأَوْسَطِ.",
+      "translation": "Petunjuk: Silogisme (Qiyas) adalah tuturan yang tersusun dari beberapa premis yang apabila diterima kebenarannya, secara niscaya menghasilkan pernyataan lain. Silogisme adakalanya Iqtirani (Kategoris/Korelatif) yang di dalamnya tidak disebutkan secara eksplisit kesimpulan atau kontradiksinya, atau Istithna'i (Kondisional) yang disebutkan di dalamnya. Bentuk-bentuk (aszkal) silogisme iqtirani ada empat berdasarkan posisi Term Tengah (Al-Hadd al-Awsat)."
+    },
+    {
+      "title": "Metode Kedelapan: Demonstrasi Burhani (Al-Burhan)",
+      "titleArabic": "الْنَّهْجُ الثَّامِنُ: فِي الْبُرْهَانِ وَشُرُوطِهِ",
+      "arabic": "إِشَارَةٌ: الْبُرْهَانُ هُوَ الْقِيَاسُ الْمُؤَلَّفُ مِنْ يَقِينِيَّاتٍ لِيُنْتِجَ يَقِينًا. وَالْيَقِينِيَّاتُ إِمَّا أَوَّلِيَّاتٌ، أَوْ مُشَاهَدَاتٌ، أَوْ مُجَرَّبَاتٌ، أَوْ حَسِيَّاتٌ، أَوْ مُتَوَاتِرَاتٌ، أَوْ قَضَايَا قِيَاسَاتُهَا مَعَهَا. وَالْبُرْهَانُ يَنْقَسِمُ إِلَى بُرْهَانِ 'لِمَ' الَّذِي يُعْطِي سَبَبَ التَّصْدِيقِ وَالْوُجُودِ مَعًا، وَبُرْهَانِ 'إِنَّ' الَّذِي يُعْطِي سَبَبَ التَّصْدِيقِ فَقَطْ.",
+      "translation": "Petunjuk: Demonstrasi Apodiktik (Burhan) adalah silogisme yang tersusun dari premis-premis yang meyakinkan (yaqiniyyat) untuk menghasilkan kesimpulan yang pasti/yakin. Premis yaqiniyyat meliputi: Awwaliyyat (Aksioma dasar), Mushahadat (Observasi langsung), Mujarrabat (PENGALAMAN empiris), Hasiyyat (Indrawi), Mutawatirat (Laporan universal berkelanjutan), dan Fithriyyat (Proposisi yang rasionalitasnya inheren). Burhan terbagi menjadi Burhan Lima (yang memberikan sebab pembenaran sekaligus sebab keberadaan nyata) dan Burhan Inna (yang hanya memberikan sebab pembenaran)."
+    },
+    {
+      "title": "Metode Kesembilan: Kerancuan Berpikir / Falasi (Al-Mughalatah)",
+      "titleArabic": "الْنَّهْجُ التَّاسِعُ: فِي الْمُغَالَطَةِ وَالْمَغَالِطِ",
+      "arabic": "إِشَارَةٌ: الْمُغَالَطَةُ أَوْ السَّفْسَطَةُ هِيَ قِيَاسٌ فَاسِدٌ يُشْبِهُ الْبُرْهَانَ أَوْ الْجَدَلَ وَلَيْسَ بِهِمَا، إِمَّا مِنْ جِهَةِ اللَّفْظِ كَالْإِشْتِرَاكِ فِي اللَّفْظِ، وَإِمَّا مِنْ جِهَةِ الْمَعْنَى كَأَخْذِ مَا لَيْسَ بِعِلَّةٍ عِلَّةً أَوْ أُخِذَ الْمَاعَرَضَ مَكَانَ الذَّاتِ. وَالْغَرَضُ مِنْ مَعْرِفَتِهَا التَّحَرُّزُ عَنْ الـوُقُوعِ فِي الْغَلَطِ.",
+      "translation": "Petunjuk: Sofisme atau Kekeliruan (Mughalatah/Safsatah) adalah silogisme cacat yang menyerupai Burhan atau Jadal padahal bukan keduanya. Cacat ini terjadi adakalanya dari segi kata (seperti ambiguitas kata / ishtirak lafdzi), atau dari segi makna (seperti mengambil yang bukan sebab dianggap sebagai sebab, atau menggantikan hakikat esensial dengan gejala aksidental). Tujuan mempelajari kekeliruan ini adalah untuk menghindari diri terjebak dalam kesalahan pemikiran."
+    },
+    {
+      "title": "Metode Kesepuluh: Dialektika, Retorika, dan Pootika (Al-Jadal wa al-Khatabah wa al-Shi'r)",
+      "titleArabic": "الْنَّهْجُ الْعَاشِرُ: فِي الْجَدَلِ وَالْخَطَابَةِ وَالشِّعْرِ",
+      "arabic": "إِشَارَةٌ: الْجَدَلُ قِيَاسٌ مُؤَلَّفٌ مِنْ مَشْهُورَاتٍ أَوْ مُسَلَّمَاتٍ لِإِلْزَامِ الْخَصْمِ. وَالْخَطَابَةُ قِيَاسٌ مُؤَلَّفٌ مِنْ مَقْبُولَاتٍ أَوْ مَظْنُونَاتٍ لِإِقْنَاعِ الْجُمْهُورِ. وَالشِّعْرُ قِيَاسٌ مُؤَلَّفٌ مِنْ مُخَيَّلَاتٍ تَنْفَعِلُ عَنْهَا النَّفْسُ بِالتَّرْغِيبِ أَوْ التَّنْفِيرِ. فَهَذِهِ هِيَ الصَّنَائِعُ الْخَمْسُ الْمَنْطِقِيَّةُ.",
+      "translation": "Petunjuk: Dialektika (Jadal) adalah argumen yang disusun dari premis-premis umum yang populer (mashhurat) atau diterima bersama (musallamat) untuk membungkam lawan bicara. Retorika (Khatabah) adalah argumen dari premis yang diterima tokoh atau dugaan kuat (maznunat) untuk meyakinkan khalayak umum. Pootika (Shi'r) adalah perangkaian dari gambaran imajinatif (mukhayyalat) yang memengaruhi jiwa untuk menyukai atau membenci sesuatu. Inilah lima seni logika (Al-Sana'i' al-Khams)."
+    },
+    {
+      "title": "Khatimah Bagian Logika",
+      "titleArabic": "خَاتِمَةُ قِسْمِ الْمَنْطِقِ",
+      "arabic": "تَنْبِيهٌ: فَقَدْ أَوْدَعْنَا فِي هَذِهِ الإِشَارَاتِ وَالتَّنْبِيهَاتِ أُصُولَ عِلْمِ الْمَنْطِقِ عَلَى وَجْهِ الإِيجَازِ وَالتَّحْصِيلِ. فَمَنْ تَأَمَّلَهَا بِعَيْنِ الْإِنْصَافِ، وَذَوْقِ الْحِكْمَةِ، انْفَتَحَتْ لَهُ أَبْوَابُ الْفَهْمِ، وَانْكَشَفَتْ لَهُ غَوَامِضُ الْعُلُومِ، وَاللهُ الْمُوَفِّقُ لِلصَّوَابِ.",
+      "translation": "Peringatan: Maka sungguh telah kami titipkan dalam petunjuk-petunjuk dan peringatan-peringatan ini prinsip-prinsip ilmu logika secara ringkas namun mencakup. Barangsiapa yang merenungkannya dengan mata keadilan dan cita rasa hikmah, niscaya akan terbuka baginya pintu-pintu pemahaman dan terkuak baginya kerumitan ilmu-ilmu. Dan Allah adalah Penunjuk Jalan menuju kebenaran."
+    }
+  ]
+}
