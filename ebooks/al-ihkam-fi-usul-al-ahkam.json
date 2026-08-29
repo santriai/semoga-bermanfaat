@@ -1,0 +1,134 @@
+{
+  "profile": {
+    "name": "Al-Ihkam fi Usul al-Ahkam",
+    "originalTitle": "الإحْكَامُ فِي أُصُولِ الأَحْكَامِ",
+    "author": "Al-Imam Abu Muhammad 'Ali ibn Ahmad ibn Sa'id ibn Hazm al-Andalusi al-Qurtubi (384 - 456 H)",
+    "field": "Usul al-Fiqh / Metodologi Hukum Islam (Mazhab Zahiri)",
+    "about": "Kitab Al-Ihkam fi Usul al-Ahkam karya Imam Ibn Hazm al-Andalusi merupakan salah satu karya monumental teragung dalam disiplin ilmu Usul al-Fiqh, khususnya sebagai pilar utama mazhab Zahiri. Kitab ini menguraikan metodologi penggalian hukum Islam secara ketat dan rasional-tekstual yang bersumber mutlak dari Al-Qur'an, As-Sunnah, dan Ijma' Sahabat. Dalam karya ini, Ibn Hazm menolak secara tegas penggunaan Qiyas, Ra'y, Istihsan, Taqlid, dan Ilat rasional dalam pembentukan hukum syariat. Penulis menganalisis kaidah kebahasaan (Lughawiyyah), konsep Naskh, hakikat Lafaz Zahir, serta logika penalaran logika Aristotelian yang diintegrasikan dengan pemahaman teks agama. Kitab ini menjadi rujukan primer mendasar dalam studi komparatif metodologi hukum Islam dan kritik epistemologi fiqih.",
+    "authorBorn": "384 H / 994 M (Cordoba, Andalusia)",
+    "authorDied": "456 H / 1064 M (Manta Lisham, Andalusia)",
+    "authorCentury": "Abad ke-5 Hijriah / Abad ke-11 Masehi"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah Kitab dan Tujuan Penyusunan",
+      "titleArabic": "مُقَدِّمَةُ الْكِتَابِ وَبَيَانُ الْغَرَضِ مِنْهُ",
+      "arabic": "قَالَ أَبُو مُحَمَّدٍ عَلِيُّ بْنُ أَحْمَدَ بْنِ سَعِيدٍ بْنِ حَزْمٍ رَضِيَ اللَّهُ عَنْهُ: الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ، وَصَلَّى اللَّهُ عَلَى مُحَمَّدٍ خَاتَمِ النَّبِيِّينَ وَالْمُرْسَلِينَ. أَمَّا بَعْدُ: فَإِنَّ أَعْظَمَ نِعَمِ اللَّهِ تَعَالَى عَلَى الإِنْسَانِ أَنْ مَنَّ عَلَيْهِ بِالْعَقْلِ الَّذِي بِهِ يَمْيَزُ بَيْنَ الْحَقِّ وَالْبَاطِلِ، وَأَمَرَهُ بِالتَّفَقُّهِ فِي دِينِهِ وَالْوُقُوفِ عِنْدَ حُدُودِ مَا أَنْزَلَ عَلَى رَسُولِهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ. وَإِنَّ مَعْرِفَةَ أُصُولِ الأَحْكَامِ هِيَ الأَصْلُ الَّذِي يُبْنَى عَلَيْهِ الْفِقْهُ كُلُّهُ، وَقَدْ جَمَعْنَا فِي هَذَا الْكِتَابِ مَا يَلْزَمُ الْمُكَلَّفَ اعْتِقَادُهُ وَالْعَمَلُ بِهِ فِي دِينِهِ مِنْ غَيْرِ تَقْلِيدٍ لِأَحَدٍ.",
+      "translation": "Abu Muhammad 'Ali ibn Ahmad ibn Sa'id ibn Hazm semoga Allah meridtainya berkata: Segala puji bagi Allah, Rabb semesta alam, dan shalawat serta salam atas Muhammad, penutup para nabi dan rasul. Amma ba'du: Sesungguhnya nikmat Allah Ta'ala yang paling besar bagi manusia adalah karunia akal yang dengannya ia dapat membedakan antara hak dan batil, serta perintah-Nya untuk memahaminya dalam agama dan berhenti pada batas-batas apa yang diturunkan kepada Rasul-Nya SAW. Sesungguhnya memahami usul al-ahkam (pokok-pokok hukum) adalah asas yang di atasnya seluruh fiqih dibangun, dan kami telah menghimpun dalam kitab ini apa yang wajib diyakini dan diamalkan oleh setiap mukallaf dalam agamanya tanpa melakukan taqlid kepada siapapun."
+    },
+    {
+      "title": "Batasan Akal, Ilmu, dan Bayan (Penjelasan)",
+      "titleArabic": "حَدُّهَا وَحَقِيقَةُ الْعَقْلِ وَالْعِلْمِ وَالْبَيَانِ",
+      "arabic": "وَالْعَقْلُ فِي اللُّغَةِ وَالشَّرِيعَةِ هُوَ اسْتِعْمَالُ الطَّاعَاتِ وَالتَّمْيِيزُ بَيْنَ الْحَقَائِقِ، وَلَيْسَ هُوَ جَوْهَرًا وَلا جِسْمًا بَلْ هُوَ طَبْعٌ فِي النَّفْسِ. وَالْعِلْمُ هُوَ الْمَعْرِفَةُ بِالشَّيْءِ عَلَى مَا هُوَ عَلَيْهِ فِي الْحَقِيقَةِ بِالْيَقِينِ الَّذِي لاَ شَكَّ فِيهِ. وَالْبَيَانُ هُوَ إِخْرَاجُ الشَّيْءِ مِنْ حَالِ الإِشْكَالِ إِلَى حَالِ التَّجَلِّي وَالْوُضُوحِ، وَكُلُّ مَا أَنْزَلَهُ اللَّهُ تَعَالَى فَهُوَ بَيَانٌ شَافٍ لاَ لَبْسَ فِيهِ.",
+      "translation": "Akal secara bahasa dan syariat adalah penggunannya dalam ketaatan dan pembedaan antar realitas, bukan merupakan substansi materi (jauhar) maupun fisik (jism), melainkan karakter dasar dalam jiwa. Sedangkan Ilmu adalah pengetahuan terhadap sesuatu sesuai dengan hakikat keberadaannya secara yakin tanpa ragu sedikit pun. Adapun Al-Bayan (penjelasan) adalah mengeluarkan sesuatu dari keadaan samar/rumit menuju keadaan terang dan jelas, dan setiap apa yang diturunkan Allah Ta'ala adalah penjelasan yang sempurna tanpa kesamaran."
+    },
+    {
+      "title": "Pembagian Hukum Syariat (Ahkam Ash-Shari'ah)",
+      "titleArabic": "أَقْسَامُ أَحْكَامِ الشَّرِيعَةِ الْخَمْسَةِ",
+      "arabic": "وَأَحْكَامُ الشَّرِيعَةِ كُلُّهَا حَصَرَهَا النَّصُّ فِي خَمْسَةِ أَقْسَامٍ لاَ سَادِسَ لَهَا: فَرْضٌ (وَهُوَ الْوَاجِبُ)، وَمَحْظُورٌ (وَهُوَ الْحَرَامُ)، وَمَنْدُوبٌ إِلَيْهِ (وَهُوَ النَّفْلُ)، وَمَكْرُوهٌ، وَمُبَاحٌ (وَهُوَ الْحَلاَلُ الَّذِي لاَ حَرَجَ فِي فِعْلِهِ وَلاَ تَرْكِهِ). فَمَنْ زَادَ حُكْمًا سَادِسًا فَقَدْ شَرَعَ فِي الدِّينِ مَا لَمْ يَأْذَنْ بِهِ اللَّهُ.",
+      "translation": "Hukum-hukum syariat seluruhnya telah dibatasi oleh nas Al-Qur'an dan As-Sunnah ke dalam lima kategori, tidak ada kategori keenam: Fardhu (yaitu Wajib), Mahzur (yaitu Haram), Mandub (yaitu Sunnah/Nafil), Makruh, dan Mubah (yaitu Halal yang tidak ada dosa dalam melakukan maupun meninggalkannya). Barangsiapa menambah hukum keenam, maka sungguh ia telah membuat syariat dalam agama yang tidak diizinkan oleh Allah."
+    },
+    {
+      "title": "Penjelasan Detail Hukum Wajib, Haram, Sunnah, Makruh, dan Mubah",
+      "titleArabic": "بَيَانُ الْوَاجِبِ وَالْمَحْظُورِ وَالْمَنْدُوبِ وَالْمَكْرُوهِ وَالْمُبَاحِ",
+      "arabic": "فَالْوَاجِبُ: مَا أَمَرَ اللَّهُ بِهِ أَمْرًا جَازِمًا يُثَابُ فَاعِلُهُ وَيُعَاقَبُ تَارِكُهُ. وَالْمَحْظُورُ: مَا نَهَى اللَّهُ عَنْهُ نَهْيًا جَازِمًا يُثَابُ تَارِكُهُ وَيُعَاقَبُ فَاعِلُهُ. وَالْمَنْدُوبُ: مَا حَثَّ الشَّارِعُ عَلَيْهِ مِنْ غَيْرِ إِيجَابٍ يُثَابُ فَاعِلُهُ وَلاَ يُعَاقَبُ تَارِكُهُ. وَالْمَكْرُوهُ: مَا رَغَّبَ الشَّارِعُ عَنْهُ مِنْ غَيْرِ تَحْرِيمٍ. وَالْمُبَاحُ: مَا اسْتَوَى فِعْلُهُ وَتَرْكُهُ بِلاَ ثَوَابٍ ولاَ عِقَابٍ لِذَاتِهِ.",
+      "translation": "Wajib adalah apa yang diperintahkan Allah secara tegas, pelakunya diberi pahala dan meninggalkannya diancام siksa. Mahzur (Haram) adalah apa yang dilarang Allah secara tegas, orang yang meninggalkannya mendapat pahala dan pelakunya diancam siksa. Mandub (Sunnah) adalah apa yang dianjurkan Syari' tanpa mewajibkan, pelakunya diberi pahala dan yang meninggalkannya tidak disiksa. Makruh adalah apa yang dibenci Syari' tanpa mengharamkan. Mubah adalah apa yang setara antara melakukan dan meninggalkannya tanpa ada pahala maupun dosa pada zatnya."
+    },
+    {
+      "title": "Sumber Hukum Utama: Al-Qur'an dan As-Sunnah",
+      "titleArabic": "الأَصْلُ الأَوَّلُ وَالثَّانِي: الْكِتَابُ وَالسُّنَّةُ",
+      "arabic": "أَصْلُ الدِّينِ الَّذِي لاَ يَجُوزُ لأَحَدٍ الْخُرُوجُ عَنْهُ هُوَ: مَا أَنْزَلَهُ اللَّهُ تَعَالَى فِي الْكِتَابِ، أَوْ عَلَى لِسَانِ نَبِيِّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ. قَالَ اللَّهُ تَعَالَى: {اتَّبِعُوا مَا أُنْزِلَ إِلَيْكُمْ مِنْ رَبِّكُمْ وَلاَ تَتَّبِعُوا مِنْ دُونِهِ أَوْلِيَاءَ}. وَالسُّنَّةُ كُلُّهَا وَحْيٌ مِنْ اللَّهِ تَعَالَى، إِذْ يَقُولُ: {وَمَا يَنْطِقُ عَنِ الْهَوَى إِنْ هُوَ إِلاَّ وَحْيٌ يُوحَى}.",
+      "translation": "Asas agama yang tidak boleh dilanggar oleh siapapun adalah: apa yang diturunkan Allah Ta'ala dalam Kitab-Nya (Al-Qur'an) atau melalui lisan Nabi-Nya SAW. Allah Ta'ala berfirman: 'Ikutilah apa yang diturunkan kepadamu dari Rabbmu dan janganlah kamu mengikuti pemimipim selain-Nya.' Dan As-Sunnah seluruhnya adalah wahyu dari Allah Ta'ala, berdasarkan firman-Nya: 'Dan tiadalah yang diucapkannya itu menurut kemauan hawa napsunya, melainkan wahyu yang diwahyukan (kepadanya)'."
+    },
+    {
+      "title": "Perintah (Al-Amr) dan Implementasi Hukumnya",
+      "titleArabic": "أَحْكَامُ الأَمْرِ وَصِيَغُهُ وَمُقْتَضَاهُ",
+      "arabic": "كُلُّ أَمْرٍ وَرَدَ فِي الْكِتَابِ أَوْ السُّنَّةِ فَهُوَ عَلَى الْوُجُوبِ حَتَّى يَقُومَ الدَّلِيلُ عَلَى أَنَّهُ لِلنَّدْبِ أَوْ الإِبَاحَةِ. وَصِيغَةُ (إِفْعَلْ) وَمَا فِي مَعْنَاهَا تَقْتَضِي الْفَوْرَ وَالإِعَادَةَ إِلاَّ مَا خَصَّهُ الدَّلِيلُ. وَلاَ يَجُوزُ صَرْفُ الأَمْرِ عَنْ ظَاهِرِهِ الإِيجَابِيِّ إِلاَّ بِنَصٍّ آخَرَ أَوْ إِجْمَاعٍ يَقِينٍ.",
+      "translation": "Setiap perintah (al-amr) yang terdapat dalam Al-Qur'an atau As-Sunnah menunjukkan hukum Wajib sampai ada dalil yang memalingkannya menjadi Mandub (Sunnah) atau Mubah. Bentuk kata kerja perintah (if'al/kerjakanlah) dan yang sepadan dengannya menuntut pelaksanaan segera (al-fawr), dan tidak boleh memalingkan perintah dari makna zahir kewajibannya kecuali dengan nas yang lain atau ijma' yang meyakinkan."
+    },
+    {
+      "title": "Larangan (An-Nahy) dan Konsekuensinya",
+      "titleArabic": "أَحْكَامُ النَّهْيِ وَمُقْتَضَاهُ فِي الشَّرِيعَةِ",
+      "arabic": "وَالنَّهْيُ فِي الشَّرِيعَةِ كُلُّهُ عَلَى التَّحْرِيمِ وَالْفَسَادِ حَتَّى يَقُومَ دَلِيلٌ عَلَى الْكَرَاهَةِ. وَكُلُّ عَمَلٍ نَهَى عَنْهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا فُعِلَ فَهُوَ بَاطِلٌ وَمَرْدُودٌ لاَ حُكْمَ لَهُ وَلاَ صِحَّةَ، لِقَوْلِهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنْ عَمِلَ عَمَلاً لَيْسَ عَلَيْهِ أَمْرُنَا فَهُوَ رَدٌّ».",
+      "translation": "Setiap larangan (an-nahy) dalam syariat secara mendasar menunjukkan hukum Haram dan pembatalan (fasad) sampai ada dalil yang memalingkannya menjadi Makruh. Setiap perbuatan yang dilarang oleh Rasulullah SAW apabila tetap dilakukan maka perbuatan tersebut batil, tertolak, tidak dianggap sah secara syar'i, berdasarkan sabda Nabi SAW: 'Barangsiapa melakukan suatu amalan yang tidak ada perintah kami atasnya, maka amalan itu tertolak'."
+    },
+    {
+      "title": "Konsep Umum ('Aam) dan Khusus ('Khas)",
+      "titleArabic": "الْعَامُّ وَالْخَاصُّ وَكَيْفِيَّةُ إِعْمَالِهِمَا",
+      "arabic": "الْعَامُّ هُوَ اللَّفْظُ الْمُسْتَغْرِقُ لِجَمِيعِ مَا يَصْلُحُ لَهُ بِلَفْظٍ وَاحِدٍ. وَالْوَاجِبُ إِعْمَالُ الْعَامِّ عَلَى عُمُومِهِ فِي كُلِّ فَرْدٍ مِنْ أَفْرَادِهِ، وَلاَ يَجُوزُ تَخْصِيصُهُ إِلاَّ بِنَصٍّ آخَرَ مِنْ كِتَابٍ أَوْ سُنَّةٍ أَوْ إِجْمَاعٍ. وَالْخَاصُّ يَقْضِي عَلَى الْعَامِّ إِذَا وَرَدَا مَعًا أَوْ كَانَ الْخَاصُّ مُتَأَخِّرًا.",
+      "translation": "Al-'Aam (lafaz umum) adalah lafaz yang mencakup seluruh cakupannya dalam satu ungkapan. Kewajiban hukum adalah memberlakukan lafaz umum sesuai keumumannya pada setiap individunya, dan tidak boleh melakukan pengkhususan (takhsis) kecuali dengan nas lain dari Al-Qur'an, As-Sunnah, atau Ijma'. Lafaz khusus (Al-Khas) membatasi lafaz umum apabila keduanya datang bersamaan atau jika lafaz khusus datang belakangan."
+    },
+    {
+      "title": "Al-Mujmal dan Al-Mubayyan (Ringkas dan Terperinci)",
+      "titleArabic": "الْمُجْمَلُ وَالْمُبَيَّنُ وَمَا يَتَعَلَّقُ بِهِمَا",
+      "arabic": "الْمُجْمَلُ هُوَ اللَّفْظُ الَّذِي لاَ يُفْهَمُ الْمُرَادُ مِنْهُ مِنْ غَيْرِ بَيَانٍ خَارِجِيٍّ، كَالأَمْرِ بِالصَّلاَةِ وَالزَّكَاةِ فِي القُرْآنِ. وَالْمُبَيَّنُ هُوَ مَا اتَّضَحَ مَعْنَاهُ إِمَّا بِأَصْلِ الْوَضْعِ أَوْ بِبَيَانِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ. وَلاَ يَجُوزُ إِقْرَارُ الْمُجْمَلِ بِلاَ بَيَانٍ حِينَ حَاجَةِ الْمُكَلَّفِ إِلَى الْعَمَلِ بِهِ.",
+      "translation": "Al-Mujmal adalah lafaz yang tidak dapat dipahami maksudnya tanpa adanya penjelasan dari luar, seperti perintah shalat dan zakat dalam Al-Qur'an. Sedangkan Al-Mubayyan adalah lafaz yang telah jelas maknanya baik secara asal bahasa maupun melalui penjelasan Nabi SAW. Tidak boleh membiarkan lafaz mujmal tanpa penjelasan ketika mukallaf telah membutuhkan pengamalannya."
+    },
+    {
+      "title": "Perbuatan Nabi Muhammad SAW dan Ketaatan Kepadanya",
+      "titleArabic": "أَفْعَالُ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَتَقْرِيرَاتُهُ",
+      "arabic": "أَفْعَالُ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كُلُّهَا إِمَّا أَنْ تَكُونَ بَيَانًا لِمُجْمَلٍ فِي الْقُرْآنِ فَهِيَ وَاجِبَةُ الإِتِّبَاعِ، أَوْ أَنْ تَكُونَ افْتِرَاضًا مَحْضًا فَيُتَّبَعُ فِيهَا، أَوْ جِبِلَّةً بَشَرِيَّةً كَالَقِيَامِ وَالْقُعُودِ فَلاَ حُكْمَ لَهَا بِالإِيجَابِ. وَتَقْرِيرُهُ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لِمَا فُعِلَ بِحَضْرَتِهِ حُجَّةٌ وَدَلِيلٌ عَلَى الإِبَاحَةِ أَوْ المَشْرُوعِيَّةِ.",
+      "translation": "Perbuatan-perbuatan Nabi SAW semuanya bisa berupa penjelas (bayan) bagi ayat Al-Qur'an yang mujmal sehingga wajib diikuti, atau berupa penetapan ibadah murni yang diikuti, atau berupa tabiat kemanusiaan biasa seperti berdiri dan duduk yang tidak menunjukkan kewajiban. Adapun penetapan/persetujuan (taqrir) Nabi SAW terhadap apa yang dilakukan di hadapannya adalah hujah dan dalil atas kebolehan atau syariatnya perbuatan tersebut."
+    },
+    {
+      "title": "Pembatalan Hukum Syariat (An-Naskh)",
+      "titleArabic": "النَّسْخُ فِي الأَحْكَامِ وَشُرُوطُهُ",
+      "arabic": "النَّسْخُ هُوَ رَفْعُ حُكْمٍ شَرَعِيٍّ مُتَقَدِّمٍ بِحُكْمٍ شَرَعِيٍّ مُتَأَخِّرٍ عَنْهُ فِي النُّزُولِ. وَلاَ يَكُونُ النَّسْخُ إِلاَّ بِنَصٍّ مِنْ قُرْآنٍ أَوْ سُنَّةٍ مُتَوَاتِرَةٍ أَوْ آحَادٍ صَحِيحَةٍ. وَلاَ يَجُوزُ اثْبَاتُ النَّسْخِ بِالاحْتِمَالِ أَوْ الرَّأْيِ أَوْ القِيَاسِ، بَلْ بِالتَّارِيخِ الصَّرِيحِ الَّذِي يَدُلُّ عَلَى التَّأَخُّرِ.",
+      "translation": "An-Naskh (penghapusan/pembatalan hukum) adalah pengangkatan hukum syariat terdahulu dengan hukum syariat yang datang belakangan dalam penurunan wahyu. Naskh tidak terjadi kecuali dengan nas dari Al-Qur'an atau As-Sunnah yang mutawatir maupun ahad yang shahih. Tidak boleh menetapkan Naskh hanya berdasarkan kemungkinan, pendapat (ra'y), atau qiyas, melainkan harus dengan bukti sejarah eksplisit yang menunjukkan keterbelakangan waktu penurunannya."
+    },
+    {
+      "title": "Khabar dan Pembagiannya: Mutawatir dan Ahad",
+      "titleArabic": "الأَخْبَارُ وَأَقْسَامُهَا: الْمُتَوَاتِرُ وَالآحَادُ",
+      "arabic": "الأَخْبَارُ المَنْقُولَةُ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قِسْمَانِ: مُتَوَاتِرٌ يُوفِقُ الْعِلْمَ الْضَّرُورِيَّ الَّذِي لاَ يَمْكِنُ الشَّكُّ فِيهِ، وَهُوَ مَا نَقَلَهُ جَمْعٌ عَنْ جَمْعٍ تُحِيلُ العَادَةُ تَوَاطُؤَهُمْ عَلَى الكَذِبِ. وَالثَّانِي: خَبَرُ الآحَادِ وَهُوَ مَا نَقَلَهُ الْعَدْلُ عَنْ الْعَدْلِ حَتَّى يَنْتَهِيَ إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ.",
+      "translation": "Khabar (hadits) yang diriwayatkan dari Nabi SAW terbagi menjadi dua: Mutawatir yang memberikan pengetahuan pasti (daruri) yang tidak mungkin diragukan, yaitu apa yang diriwayatkan oleh kelompok banyak orang dari kelompok banyak orang yang secara adat mustahil sepakat berbohong. Yang kedua: Khabar Ahad, yaitu apa yang diriwayatkan oleh seorang yang adil dari seorang yang adil hingga bersambung kepada Rasulullah SAW."
+    },
+    {
+      "title": "Hujjah Khabar Ahad dan Syarat Diterimanya Perawi",
+      "titleArabic": "حُجِّيَّةُ خَبَرِ الْوَاحِدِ الْعَدْلِ وَشُرُوطُ الْقَبُولِ",
+      "arabic": "خَبَرُ الْوَاحِدِ الْعَدْلِ عَنْ مِثْلِهِ مَوْصُولاً إِلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُوجِبُ الْعِلْمَ وَالْعَمَلَ مَعًا فِي الدِّينِ، وَهُوَ حُجَّةٌ قَاطِعَةٌ فِي الأَحْكَامِ وَالاعْتِقَادَاتِ. وَشَرْطُ الْقَبُولِ: أَنْ يَكُونَ الرَّاوِي مُسْلِمًا، عَاقِلاً، بَالِغًا، عَدْلاً فِي دِينِهِ، ضَابِطًا لِرِوَايَتِهِ، غَيْرَ مَجْهُولِ العَيْنِ وَالحَالِ.",
+      "translation": "Khabar Ahad dari seorang yang adil dari yang sepadan dengannya yang bersambung sampai Nabi SAW mewajibkan Ilmu dan Amal sekaligus dalam agama, dan ia merupakan hujah yang pasti dalam hukum maupun akidah. Syarat penerimaannya adalah perawi harus seorang Muslim, berakal, baligh, adil dalam agamanya, kuat hafalannya (dabit), serta tidak samar identitas maupun keadaannya (bukan majhul)."
+    },
+    {
+      "title": "Hakikat Ijma' Menurut Mazhab Zahiri",
+      "titleArabic": "الإِجْمَاعُ وَحَقِيقَتُهُ وَمَنْ يُعْتَبَرُ إِجْمَاعُهُمْ",
+      "arabic": "الإِجْمَاعُ الحَقُّ الَّذِي لاَ يَجُوزُ خِلاَفُهُ هُوَ: إِجْمَاعُ الصَّحَابَةِ رِضْوَانُ اللَّهِ عَلَيْهِمْ أَجْمَعِينَ الَّذِينَ شَاهَدُوا التَّنْزِيلَ وَشَفَاهُوا النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، أَوْ إِجْمَاعُ الأُمَّةِ كُلِّهَا عَلَى مَا عُلِمَ مِنَ الدِّينِ بِالضَّرُورَةِ. أَمَّا اتِّفَاقُ عُلَمَاءِ عَصْرٍ بَعْدَهُمْ مَعَ إِمْكَانِ خَفَاءِ الْمُخَالِفِ فَلاَ يُسَمَّى إِجْمَاعًا يُقْطَعُ بِهِ.",
+      "translation": "Ijma' yang hakiki yang tidak boleh diselisahi adalah: Ijma' para Sahabat ra. yang menyaksikan turunnya wahyu dan berbicara langsung dengan Nabi SAW, atau kesepakatan seluruh umat Islam terhadap perkara yang telah diketahui dari agama secara pasti (daruri). Adapun kesepakatan ulama pada suatu masa setelah era Sahabat dengan kemungkinan tersembunyinya pendapat yang berbeda, maka tidak dapat dinamakan Ijma' yang pasti."
+    },
+    {
+      "title": "Penolakan Mutlak Terhadap Qiyas (Ibthal Al-Qiyas)",
+      "titleArabic": "إِبْطَالُ الْقِيَاسِ فِي الشَّرِيعَةِ وَدَحْضُ الشُّبُهَاتِ",
+      "arabic": "الْقِيَاسُ كُلُّهُ بَاطِلٌ فِي شَرِيعَةِ اللَّهِ تَعَالَى، وَلاَ يَجُوزُ الْحُكْمُ بِهِ فِي شَيْءٍ مِنْ الدِّينِ أَصْلاً. قَالَ اللَّهُ تَعَالَى: {مَا فَرَّطْنَا فِي الْكِتَابِ مِنْ شَيْءٍ}. فَمَنْ قَاسَ مَسْأَلَةً عَلَى مَسْأَلَةٍ فَقَدْ زَادَ فِي الشَّرِيعَةِ حُكْمًا لَمْ يَنْزِلْ بِهِ وَحْيٌ، وَالْحُكْمُ بِالْمِثْلِيَّةِ بَيْنَ الشَّيْئَيْنِ بِلاَ نَصٍّ هُوَ قَوْلٌ عَلَى اللَّهِ بِغَيْرِ عِلْمٍ.",
+      "translation": "Qiyas (analogi hukum) seluruhnya adalah batil dalam syariat Allah Ta'ala, dan tidak boleh menetapkan hukum dengannya dalam perkara agama sama sekali. Allah Ta'ala berfirman: 'Tiadalah Kami alpakan sesuatu pun di dalam Al-Kitab'. Maka barangsiapa mengkiaskan suatu masalah dengan masalah lain, sungguh ia telah menambah hukum dalam syariat yang tidak diturunkan melalui wahyu, dan menetapkan kesamaan antara dua hal tanpa nas adalah perkataan atas nama Allah tanpa dasar ilmu."
+    },
+    {
+      "title": "Pembatalan Ra'y, Istihsan, dan Ta'lil (Penalaran Ilat)",
+      "titleArabic": "إِبْطَالُ الاِسْتِحْسَانِ وَالرَّأْيِ وَالتَّعْلِيلِ",
+      "arabic": "الاسْتِحْسَانُ وَالقَوْلُ بِالرَّأْيِ وَتَعْلِيلُ أُمُورِ الشَّرِيعَةِ بِالْعُقُولِ كُلُّهَا حَرَامٌ لاَ يَجُوزُ. فَإِنَّ اللَّهَ تَعَالَى لاَ يُسْأَلُ عَمَّا يَفْعَلُ وَلاَ عِلَّةَ لِأَحْكَامِهِ إِلاَّ أَنَّهُ أَمَرَ بِهَا. فَمَنْ اسْتَحْسَنَ فَقَدْ شَرَعَ، وَمَنْ حَكَمَ بِالرَّأْيِ فَقَدْ اتَّبَعَ الْهَوَى وَالظَّنَّ الَّذِي لاَ يُغْنِي مِنْ الْحَقِّ شَيْئًا.",
+      "translation": "Istihsan, berpendapat dengan Ra'y (akal pikiran semata), dan mencari-cari 'illat (causa) hukum syariat dengan rasio semuanya adalah haram dan tidak boleh. Sesungguhnya Allah Ta'ala tidak dipertanyakan atas apa yang Ia perbuat dan tidak ada 'illat bagi hukum-hukum-Nya melainkan karena Ia telah memerintahkannya. Barangsiapa melakukan istihsan maka ia telah membuat syariat baru, dan barangsiapa mengagungkan ra'y maka ia telah mengikuti hawa nafsu dan prasangka yang tidak berguna sedikit pun bagi kebenaran."
+    },
+    {
+      "title": "Pembatalan Taqlid dan Kewajiban Ittiba'",
+      "titleArabic": "إِبْطَالُ التَّقْلِيدِ وَوُجُوبُ الاتِّبَاعِ لِكُلِّ مُسْلِمٍ",
+      "arabic": "التَّقْلِيدُ حَرَامٌ عَلَى كُلِّ أَحَدٍ، وَلاَ يَحِلُّ لِأَحَدٍ أَنْ يَأْخُذَ بِقَوْلِ أَحَدٍ دُونَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِلاَ دَلِيلٍ. قَالَ اللَّهُ تَعَالَى: {اتَّبِعُوا مَا أُنْزِلَ إِلَيْكُمْ مِنْ رَبِّكُمْ}. فَالْوَاجِبُ عَلَى كُلِّ مُسْلِمٍ سُؤَالُ أَهْلِ الذِّكْرِ عَنْ حُكْمِ اللَّهِ وَرَسُولِهِ وَالْمَطْلَبُ لِلدَّلِيلِ، وَلَيْسَ أَحَدٌ بَعْدَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ حُجَّةً عَلَى غَيْرِهِ.",
+      "translation": "Taqlid adalah haram bagi siapapun, dan tidak halal bagi seseorang mengambil pendapat orang lain selain Nabi SAW tanpa dalil. Allah Ta'ala berfirman: 'Ikutilah apa yang diturunkan kepadamu dari Rabbmu'. Maka kewajiban setiap Muslim adalah bertanya kepada ahli ilmu tentang hukum Allah dan Rasul-Nya serta menuntut dalilnya, dan tidak ada seorang pun setelah Nabi SAW yang menjadi hujah atas orang lain."
+    },
+    {
+      "title": "Prinsip Istishab dan Bebas Asal (Al-Bara'ah Al-Asliyyah)",
+      "titleArabic": "الإِسْتِصْحَابُ وَأَصْلُ الْبَرَاءَةِ الأَصْلِيَّةِ",
+      "arabic": "الأَصْلُ فِي الأَشْيَاءِ وَالأَفْعَالِ الَّتِي لَمْ يَرِدْ فِيهَا أَمْرٌ وَلاَ نَهْيٌ هُوَ الإِبَاحَةُ وَالْبَرَاءَةُ الأَصْلِيَّةُ. وَالإِسْتِصْحَابُ هُوَ بَقَاءُ مَا كَانَ عَلَى مَا كَانَ حَتَّى يَأْتِيَ نَصٌّ يَنْقُلُ عَنْهُ. فَمَنْ ادَّعَى وُجُوبًا أَوْ تَحْرِيمًا فِي أَمْرٍ فَعَلَيْهِ الدَّلِيلُ مِنْ الْكِتَابِ أَوْ السُّنَّةِ، وَإِلاَّ فَالْأَصْلُ الْعَفْوُ.",
+      "translation": "Hukum asal segala sesuatu dan perbuatan yang tidak ada perintah maupun larangan padanya adalah Mubah dan Bebas Asal (al-bara'ah al-asliyyah). Istishab adalah menetapkan keberadaan sesuatu sebagaimana adanya sampai datang nas yang mengubahnya. Barangsiapa mengklaim kewajiban atau keharaman atas suatu perkara maka ia wajib mengajukan dalil dari Al-Qur'an atau As-Sunnah, jika tidak ada maka hukum asalnya dimaafkan/dibolehkan."
+    },
+    {
+      "title": "Kriteria Mufti, Mustafti, dan Syarat Ijtihad",
+      "titleArabic": "صِفَةُ الْمُفْتِي وَالْمُسْتَفْتِي وَشُرُوطُ الإِجْتِهَادِ",
+      "arabic": "لاَ يَجُوزُ أَنْ يُفْتِيَ فِي دِينِ اللَّهِ إِلاَّ مَنْ كَانَ عَالِمًا بِكِتَابِ اللَّهِ، نَاسِخِهِ وَمَنْسُوخِهِ، وَبِسُنَّةِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ثَابِتِهَا وَمَعْلُولِهَا، وَبِاللُّغَةِ الْعَرَبِيَّةِ الَّتِي نَزَلَ بِهَا الْقُرْآنُ. وَالْمُسْتَفْتِي يَلْزَمُهُ سُؤَالُ أَهْلِ الْعِلْمِ الَّذِينَ يَعْلَمُونَ النُّصُوصَ لِيُخْبِرُوهُ بِحُكْمِ اللَّهِ وَرَسُولِهِ لاَ بِآرَائِهِمْ.",
+      "translation": "Tidak boleh berfatwa dalam agama Allah kecuali orang yang alim terhadap Kitabullah (mengetahui nasikh dan mansukhnya), mengetahui As-Sunnah (yang sahih dan cacatnya), serta menguasai bahasa Arab tempat Al-Qur'an diturunkan. Adapun Mustafti (penanya fatwa) wajib bertanya kepada ahli ilmu yang mengetahui teks-teks nas agar mereka memberitahunya hukum Allah dan Rasul-Nya, bukan memberikan pendapat pribadi mereka."
+    },
+    {
+      "title": "Khatimah: Bukti dan Burhan dalam Hukum Agama",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ: صِفَةُ الدَّلِيلِ وَالْبُرْهَانِ الصَّحِيحِ",
+      "arabic": "وَالْبُرْهَانُ الصَّحِيحُ الَّذِي لاَ يَتَطَرَّقُ إِلَيْهِ الشَّكُّ فِي الأَحْكامِ هُوَ مَا تَرَكَّبَ مِنْ مقَدِّمَاتٍ يَقِينِيَّةٍ مَأْخُوذَةٍ مِنْ نَصِّ الْكِتَابِ، أَوْ نَصِّ السُّنَّةِ، أَوْ الإِجْمَاعِ الْمَقْطُوعِ بِهِ، أَوْ الْمُشَاهَدَةِ وَالْحِسِّ. فَمَا خَرَجَ عَنْ هَذِهِ الْوُجُوهِ فَهُوَ زُخْرُفٌ وَبَاطِلٌ. تَمَّ الْكِتَابُ بِحَمْدِ اللَّهِ وَمَنِّهِ وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَآلِهِ وَصَحْبِهِ وَسَلَّمَ.",
+      "translation": "Burhan (argumentasi/bukti) yang sahih yang tidak disusupi keraguan dalam hukum syariat adalah argumentasi yang tersusun dari premis-premis pasti (yaqini) yang diambil dari nas Al-Qur'an, nas As-Sunnah, Ijma' yang pasti, atau dari pengamatan panca indera (hiss). Maka apa saja yang keluar dari jalur-jalur ini adalah kebohongan dan kebatilan semata. Kitab ini telah selesai disajikan dengan pujian dan karunia Allah, dan shalawat serta salam atas junjungan kita Muhammad beserta keluarga dan sahabatnya."
+    }
+  ]
+}
