@@ -1,124 +1,112 @@
 {
-  "title": "Modul Pembelajaran Praktis Ilmu Nahwu: Dari Nol Sampai Bisa Membaca Kitab Kuning",
-  "intro": "Modul ini dirancang khusus untuk pemula yang ingin menguasai Ilmu Nahwu (tata bahasa Arab) secara bertahap dari tingkat nol. Dengan pendekatan langkah demi langkah, Anda akan memahami struktur kalimat bahasa Arab, perubahan harakat akhir kata, dan mampu mempraktikkannya langsung pada Al-Qur'an maupun teks kitab gundul.",
+  "title": "Modul Panduan Cepat Belajar Ilmu Nahwu dari Nol: Cara Mudah Membaca Kitab Kuning",
+  "intro": "Selamat datang di panduan belajar Nahwu paling praktis! Modul ini dirancang khusus untuk pemula dari tingkat NOL agar dapat memahami struktur kalimat bahasa Arab, menentukan harakat akhir kalimat gundul, dan langsung dapat mempraktekkannya dengan mudah dan percaya diri.",
   "steps": [
     {
       "stepNumber": 1,
-      "title": "Langkah 1: Mengenal 3 Kelompok Kata Utama (Isim, Fi'il, Huruf)",
-      "explanation": "Kunci utama membaca teks Arab adalah mengetahui jenis kata. Semua kata dalam bahasa Arab hanya terbagi menjadi 3 jenis: Isim (Kata Benda/Sifat), Fi'il (Kata Kerja), dan Huruf (Kata Ciri/Penyambung). Isim biasanya memiliki ciri berawalan 'AL-' atau berakhiran Tanwin. Fi'il berkaitan dengan waktu (lampau, sekarang, atau perintah). Huruf adalah kata pendek yang tidak bisa berdiri sendiri tanpa kata lain.",
+      "title": "Mengenal 3 Jenis Kata Utama dalam Bahasa Arab",
+      "explanation": "Sebelum membaca kalimat tanpa harakat, kita wajib mengenal 3 'bahan baku' utama dalam bahasa Arab. Setiap kata dalam Al-Qur'an maupun Kitab Kuning pasti termasuk salah satu dari tiga jenis ini: 1) Isim (Kata Benda/Sifat/Nama), 2) Fi'il (Kata Kerja), atau 3) Huruf (Kata Sambung/Tugas). Ciri mudah Isim: biasanya berakhiran tanwin atau diawali 'AL' (ال).",
       "examples": [
         {
           "arabic": "كِتَابٌ",
           "read": "Kitābun",
-          "meaning": "Sebuah buku",
-          "note": "Merupakan ISIM (Kata Benda) karena berakhiran Tanwin (ٌ)."
+          "meaning": "Buku",
+          "note": "ISIM (Kata benda, cirinya berakhiran tanwin '-un')"
         },
         {
           "arabic": "كَتَبَ",
           "read": "Kataba",
           "meaning": "Dia (pria) telah menulis",
-          "note": "Merupakan FI'IL (Kata Kerja) menunjukkan kegiatan di masa lalu."
+          "note": "FI'IL (Kata kerja bentuk lampau/pasti menunjukkan pekerjaan)"
         },
         {
           "arabic": "فِي",
           "read": "Fī",
-          "meaning": "Di dalam",
-          "note": "Merupakan HURUF (Kata Depan/Penyambung) yang membutuhkan kata benda setelahnya."
+          "meaning": "Di / Di dalam",
+          "note": "HURUF (Kata hubung/depan, tidak punya arti sempurna jika berdiri sendiri)"
         }
       ],
-      "actionTip": "Buka Surah Al-Fatihah, kelompokkan kata yang diawali 'AL-' sebagai Isim dan kata seperti 'min' atau 'ila' sebagai Huruf."
+      "actionTip": "Buka Al-Qur'an Surah Al-Ikhlas, kelompokkan kata mana yang tergolong Isim (ada tanwin/AL) dan Huruf (seperti 'Lam' atau 'Waw')."
     },
     {
       "stepNumber": 2,
-      "title": "Langkah 2: Memahami Struktur Kalimat Sederhana (Mubtada' dan Khabar)",
-      "explanation": "Kalimat berita sederhana dalam bahasa Arab yang diawali Isim disebut 'Jumlah Ismiyyah'. Kalimat ini terdiri dari Subjek (Mubtada') dan Predikat (Khabar). Rumus dasarnya: huruf akhir Mubtada' dan Khabar WAJIB berharakat Dhommah (ُ / ٌ) atau disebut keadaan Marfu'.",
+      "title": "Menyusun Kalimat Nominal: Jumlah Ismiyyah (Mubtada' & Khabar)",
+      "explanation": "Jumlah Ismiyyah adalah kalimat sempurna yang DIAWALI oleh Isim. Kalimat ini terdiri dari dua komponen wajib: 1) Mubtada' (Subjek - biasanya kata ber-AL dan berharakat akhir Dhommah 'u'), dan 2) Khabar (Predikat - kata penjelas berharakat akhir Dhommatain 'un'). Rumus Cepat: [Subjek Ber-AL] + [Predikat Ber-Tanwin].",
       "examples": [
         {
-          "arabic": "أَلْمَسْجِدُ نَظِيْفٌ",
-          "read": "Al-masjidu naẓīfun",
-          "meaning": "Masjid itu bersih",
-          "note": "'Al-masjidu' adalah Mubtada' (Subjek, berujung Dhommah ُ), dan 'naẓīfun' adalah Khabar (Predikat, berujung Dhommatain ٌ)."
+          "arabic": "اَلْمَسْجِدُ كَبِيْرٌ",
+          "read": "Al-masjidu kabīrun",
+          "meaning": "Masjid itu besar",
+          "note": "اَلْمَسْجِدُ = Mubtada' (Subjek ber-AL, akhir dhommah 'u'), كَبِيْرٌ = Khabar (Predikat penjelas, akhir tanwin 'un')"
         },
         {
-          "arabic": "أَلَّذِكْرُ نُورٌ",
-          "read": "Adz-dzikru nūrun",
-          "meaning": "Zikir itu adalah cahaya",
-          "note": "'Adz-dzikru' berposisi sebagai Subjek (Dhommah) dan 'nūrun' sebagai Predikat penjelas."
+          "arabic": "اَلطَّالِبُ ذَكِيٌّ",
+          "read": "At-thālibu zakiyyun",
+          "meaning": "Siswa itu cerdas",
+          "note": "اَلطَّالِبُ = Mubtada' (Subjek), ذَكِيٌّ = Khabar (Predikat)"
         }
       ],
-      "actionTip": "Cobalah membuat kalimat sendiri dengan pola [Kata Ber-AL (Dhommah)] + [Kata Sifat (Dhommatain)], contoh: 'Al-Baitu Wāsi'un' (Rumah itu luas)."
+      "actionTip": "Buatlah 3 kalimat sederhana berunsur [Isim Pakai AL] + [Isim Kata Sifat Pakai Tanwin], contoh: Baju itu bersih, Rumah itu indah."
     },
     {
       "stepNumber": 3,
-      "title": "Langkah 3: Mengenal Kalimat Pekerjaan dan Pelaku (Fi'il dan Fa'il)",
-      "explanation": "Kalimat yang diawali kata kerja disebut 'Jumlah Fi'liyyah'. Struktur utamanya adalah Kata Kerja (Fi'il) diikuti oleh Pelaku/Subjek (Fa'il). Kaidah pentingnya: Pelaku (Fa'il) HARUS selalu berharakat akhir Dhommah (ُ / ٌ).",
+      "title": "Menyusun Kalimat Verbal: Jumlah Fi'liyyah (Fi'il + Fa'il + Maf'ul Bih)",
+      "explanation": "Jumlah Fi'liyyah adalah kalimat yang DIAWALI oleh Kata Kerja (Fi'il). Urutan penyusunannya sangat rapi: 1) Fi'il (Kata Kerja), 2) Fa'il (Pelaku/Subjek -> harakat akhir WAJIB Dhommah 'u/un'), 3) Maf'ul Bih (Objek Penderita -> harakat akhir WAJIB Fathah 'a/an'). Rumus Cepat: [Kata Kerja] + [Pelaku (u)] + [Objek (a)].",
       "examples": [
         {
-          "arabic": "جَلَسَ زَيْدٌ",
-          "read": "Jalasa Zaidun",
-          "meaning": "Zaid telah duduk",
-          "note": "'Jalasa' adalah Fi'il (Kata Kerja), 'Zaidun' adalah Fa'il (Pelaku) sehingga huruf akhirnya berharakat Dhommatain (ٌ)."
-        },
-        {
-          "arabic": "حَضَرَ الأُسْتَاذُ",
-          "read": "Ḥaḍara al-ustādzu",
-          "meaning": "Guru itu telah hadir",
-          "note": "'Al-ustādzu' dibaca berakhiran Dhommah (ُ) karena kedudukannya sebagai pelaku kegiatan (Fa'il)."
+          "arabic": "قَرَأَ الطَّالِبُ الكِتَابَ",
+          "read": "Qara'a at-thālibu al-kitāba",
+          "meaning": "Siswa itu telah membaca buku",
+          "note": "قَرَأَ = Fi'il (Membaca), اَلطَّالِبُ = Fa'il (Pelaku -> harakat akhir 'u'), اَلْكِتَابَ = Maf'ul Bih (Objek -> harakat akhir 'a')"
         }
       ],
-      "actionTip": "Setiap kali menemukan kata kerja dalam Al-Qur'an, carilah kata benda berharakat Dhommah setelahnya untuk menemukan siapa pelakunya."
+      "actionTip": "Latihlah mengenali susunan ini: Jika ada kata kerja di depan, cari kata setelahnya yang berakhiran 'u' (Pelaku) dan kata setelahnya yang berakhiran 'a' (Objek)."
     },
     {
       "stepNumber": 4,
-      "title": "Langkah 4: Menambahkan Objek Penderita (Maf'ul Bihi)",
-      "explanation": "Jika kata kerja membutuhkan objek penderita (misalnya: membaca buku, memukul bola), objek tersebut dinamakan 'Maf'ul Bihi'. Berbeda dari Pelaku yang berharakat Dhommah, Objek (Maf'ul Bihi) HARUS berharakat akhir Fathah (َ / ً) atau dinamakan keadaan Mansub.",
+      "title": "Memahami Rahasia Harakat Kasrah: Pengaruh Huruf Jar",
+      "explanation": "Di dalam Kitab Kuning, harakat akhir suatu Isim bisa berubah menjadi Kasrah ('i' atau 'in') jika DIDAHULUI oleh 'Huruf Jar' (Kata Depan). Kata benda yang jatuh setelah Huruf Jar disebut 'Isim Majrur'. Huruf Jar yang paling sering muncul adalah: فِي (di dalam), إِلَى (ke), مِنْ (dari), عَلَى (di atas), بِـ (dengan).",
       "examples": [
         {
-          "arabic": "قَرَأَ زَيْدٌ كِتَابًا",
-          "read": "Qara'a Zaidun kitāban",
-          "meaning": "Zaid telah membaca sebuah buku",
-          "note": "'Qara'a' (Fi'il/Kerja), 'Zaidun' (Fa'il/Pelaku = Dhommah), 'Kitāban' (Maf'ul Bihi/Objek = Fathatain ً)."
+          "arabic": "ذَهَبَ زَيْدٌ إِلَى الْمَدْرَسَةِ",
+          "read": "Dzahaba Zaidun ilāl-madrasati",
+          "meaning": "Zaid telah pergi ke sekolah",
+          "note": "إِلَى = Huruf Jar, maka kata اَلْمَدْرَسَةِ wajib dibaca berharakat akhir Kasrah ('i') yaitu 'al-madrasati'."
         },
         {
-          "arabic": "فَتَحَ عَلِيٌّ الْبَابَ",
-          "read": "Fataḥa 'Aliyyun al-bāba",
-          "meaning": "Ali telah membuka pintu itu",
-          "note": "'Al-bāba' diakhiri harakat Fathah (َ) karena merupakan objek penderita dari perbuatan Ali."
+          "arabic": "الْقَلَمُ عَلَى الْمَكْتَبِ",
+          "read": "Al-qalamu 'alāl-maktabi",
+          "meaning": "Pena itu di atas meja",
+          "note": "عَلَى = Huruf Jar, maka kata اَلْمَكْتَبِ dibaca 'al-maktabi' (ujungnya 'i')."
         }
       ],
-      "actionTip": "Latihlah mengenali pola lengkap: Kata Kerja + Pelaku (Dhommah) + Objek (Fathah)."
+      "actionTip": "Hafalkan 5 Huruf Jar utama (Fi, Ila, Min, 'Ala, Bi) dan langsung beri harakat kasrah pada kata setelahnya saat membaca teks."
     },
     {
       "stepNumber": 5,
-      "title": "Langkah 5: Pengaruh Kata Depan / Huruf Jar pada Harakat Akhir",
-      "explanation": "Huruf Jar adalah kata depan seperti فِي (di dalam), عَلَى (di atas), مِنْ (dari), إِلَى (ke), dan mīn/bi (dengan). Aturan mutlak Ilmu Nahwu: Kata benda (Isim) yang terletak tepat SETELAH Huruf Jar HARUS berharakat akhir Kasrah (ِ / ٍ) atau disebut keadaan Majrur.",
+      "title": "Praktek Mandiri Membedah dan Membaca Teks Gundul Sederhana",
+      "explanation": "Saat melihat teks Arab tanpa harakat, gunakan 3 Langkah Detektif ini: 1) Tentukan jenis kalimatnya (Ismiyyah atau Fi'liyyah?). 2) Cari peran tiap kata (Mana Pelaku? Mana Objek? Mana Kata Depan?). 3) Terapkan harakat huruf terakhir sesuai hukumnya (Subjek = u, Objek = a, Setelah Kata Depan = i).",
       "examples": [
         {
-          "arabic": "فِي الْمَسْجِدِ",
-          "read": "Fī al-masjidi",
-          "meaning": "Di dalam masjid",
-          "note": "Kata 'al-masjidi' wajib dibaca Kasrah di akhir karena didahului huruf jar 'fī'."
-        },
-        {
-          "arabic": "ذَهَبَ أَحْمَدُ إِلَى السُّوقِ",
-          "read": "Dzahaba Aḥmadu ilā as-sūqi",
-          "meaning": "Ahmad telah pergi ke pasar",
-          "note": "'As-sūqi' berharakat Kasrah karena didahului kata depan 'ilā'."
+          "arabic": "يَكْتُبُ مُحَمَّدٌ الرِّسَالَةَ فِي الْبَيْتِ",
+          "read": "Yaktubu Muhammadun ar-risālata fīl-baiti",
+          "meaning": "Muhammad sedang menulis surat di dalam rumah",
+          "note": "Yaktubu (Fi'il/Kerja) -> Muhammadun (Fa'il/Pelaku -> dhommatain 'un') -> ar-risālata (Maf'ul/Objek -> fathah 'a') -> fīl-baiti (Huruf Jar + Majrur -> kasrah 'i')."
         }
       ],
-      "actionTip": "Cari kata 'Fī' atau 'Mīn' dalam Al-Qur'an, lalu perhatikan huruf terakhir dari kata setelahnya, pasti berharakat Kasrah."
+      "actionTip": "Coba ambil satu kalimat gundul pendek, beri harakat huruf terakhirnya sendiri menggunakan rumus Subjek(u)-Objek(a)-KataDepan(i), lalu cocokan dengan kitab berharakat."
     }
   ],
   "sections": [
     {
-      "title": "Rumus Cepat Harakat Akhir (I'rab Dasar)",
-      "content": "1. SUBJEK / PELAKU (Mubtada', Khabar, Fa'il) -> Harakat Akhir = DHOMMAH (ُ / ٌ)\n2. OBJEK PENDERITA (Maf'ul Bihi) -> Harakat Akhir = FATHAH (َ / ً)\n3. SETELAH KATA DEPAN (Huruf Jar) -> Harakat Akhir = KASRAH (ِ / ٍ)"
+      "title": "Ringkasan Kaidah Penting (Rumus Harakat Akhir)",
+      "content": "1. SUBJEK (Mubtada' / Fa'il) -> Harakat akhir selalu MARFU' (Dhommah 'u' / 'un').\n2. OBJEK (Maf'ul Bih) -> Harakat akhir selalu MANSHUB (Fathah 'a' / 'an').\n3. KETERANGAN TEMPAT/KATA DEPAN (Isim Majrur setelah Huruf Jar) -> Harakat akhir selalu MAJRUR (Kasrah 'i' / 'in').\n4. ATURAN AL: Jika kata memakai 'AL' (ال), TIDAK BOLEH Pakai Tanwin. Jika TIDAK ada 'AL', BOLEH Pakai Tanwin."
     }
   ],
   "tips": [
-    "Fokus utama Ilmu Nahwu adalah menebak/menentukan HARAKAT HURUF TERAKHIR pada suatu kata.",
-    "Jangan terburu-buru menghafal ratusan istilah rumit; kuasai dulu fungsi dasar kata: Subjek, Predikat, Objek, dan Kata Depan.",
-    "Selalu gunakan Al-Qur'an berharakat sebagai alat verifikasi untuk melihat bagaimana kaidah Nahwu bekerja secara nyata."
+    "Fokus utama belajar Nahwu adalah menentukan HARAKAT HURUF TERAKHIR pada suatu kata, bukan huruf depan atau tengahnya.",
+    "Jangan takut salah harakat saat pertama kali membaca gundul. Analisis struktur kalimatnya terlebih dahulu.",
+    "Setiap kali melihat kata ber-AL (ال), langsung coret/abaikan opsi tanwin pada akhir kata tersebut."
   ],
-  "summary": "Membaca kitab kuning atau memahami tata bahasa Arab tidaklah sulit jika dipelajari secara sistematis. Dengan menguasai 3 jenis kata dan 3 perubahan harakat dasar (Dhommah untuk Subjek, Fathah untuk Objek, dan Kasrah setelah Kata Depan), Anda sudah memegang kunci 70% struktur kalimat dalam bahasa Arab. Selamat berlatih dan terus konsisten!"
+  "summary": "Selamat! Anda telah menguasai fondasi utama dan inti dari Ilmu Nahwu. Kunci utama keberhasilan membaca Kitab Kuning gundul bukanlah menghafal ribuan aturan rumit, melainkan konsistensi dalam mempraktikkan analisis struktur kalimat sederhana (Subjek, Objek, dan Kata Depan) secara bertahap setiap hari. Terus berlatih dan nikmati prosesnya!"
 }
