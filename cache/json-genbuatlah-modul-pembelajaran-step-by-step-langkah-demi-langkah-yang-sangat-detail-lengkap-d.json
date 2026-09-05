@@ -1,142 +1,112 @@
 {
-  "title": "Modul Panduan Praktis Seni Baca Al-Qur'an (Naghom/Irama) untuk Pemula dari Nol",
-  "intro": "Modul ini dirancang khusus untuk pemula yang ingin belajar memperindah bacaan Al-Qur'an menggunakan irama (naghom/maqamat) secara fleksibel, santai, dan tetap menjaga keabsahan hukum Tajwid. Dalam modul ini, Anda akan mempelajari rumus dasar irama 3 nada (Naik - Datar - Turun) hingga menerapkan lagu populer seperti Bayati dan Hijaz.",
+  "title": "Modul Panduan Cepat Belajar Ilmu Nahwu dari Nol: Cara Mudah Membaca Kitab Kuning",
+  "intro": "Selamat datang di panduan belajar Nahwu paling praktis! Modul ini dirancang khusus untuk pemula dari tingkat NOL agar dapat memahami struktur kalimat bahasa Arab, menentukan harakat akhir kalimat gundul, dan langsung dapat mempraktekkannya dengan mudah dan percaya diri.",
   "steps": [
     {
       "stepNumber": 1,
-      "title": "Langkah 1: Fondasi Utama & Rumus 3 Nada Dasar (Naik, Datar, Turun)",
-      "explanation": "Sebelum menguasai nama-nama irama rumit seperti Bayati atau Hijaz, kunci utama seni lagu Al-Qur'an (Naghom) adalah menguasai alur 3 nada dasar: Nada Naik (ujung kalimat agak terangkat), Nada Datar (ujung kalimat stabil/sejajar), dan Nada Turun (ujung kalimat melandai ke bawah sebagai penutup). Kaidah emas: Tajwid adalah fondasi utama, irama adalah perhiasan. Jangan sampai mengejar irama hingga merusak Tajwid.",
+      "title": "Mengenal 3 Jenis Kata Utama dalam Bahasa Arab",
+      "explanation": "Sebelum membaca kalimat tanpa harakat, kita wajib mengenal 3 'bahan baku' utama dalam bahasa Arab. Setiap kata dalam Al-Qur'an maupun Kitab Kuning pasti termasuk salah satu dari tiga jenis ini: 1) Isim (Kata Benda/Sifat/Nama), 2) Fi'il (Kata Kerja), atau 3) Huruf (Kata Sambung/Tugas). Ciri mudah Isim: biasanya berakhiran tanwin atau diawali 'AL' (ال).",
       "examples": [
         {
-          "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-          "read": "Bismillāhir-raḥmānir-raḥīm",
-          "meaning": "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang",
-          "note": "Nada 1 (Naik): Diayunkan dengan tekanan suara terangkat sedikit di bagian akhir (raḥīm) untuk membuka bacaan."
+          "arabic": "كِتَابٌ",
+          "read": "Kitābun",
+          "meaning": "Buku",
+          "note": "ISIM (Kata benda, cirinya berakhiran tanwin '-un')"
         },
         {
-          "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
-          "read": "Al-ḥamdu lillāhi rabbil-'ālamīn",
-          "meaning": "Segala puji bagi Allah, Tuhan seluruh alam",
-          "note": "Nada 2 (Datar): Suara mengalir lurus/stabil tanpa dinaikkan atau diturunkan berlebihan pada akhir ayat ('ālamīn)."
+          "arabic": "كَتَبَ",
+          "read": "Kataba",
+          "meaning": "Dia (pria) telah menulis",
+          "note": "FI'IL (Kata kerja bentuk lampau/pasti menunjukkan pekerjaan)"
         },
         {
-          "arabic": "الرَّحْمَٰنِ الرَّحِيمِ",
-          "read": "Ar-raḥmānir-raḥīm",
-          "meaning": "Maha Pengasih lagi Maha Penyayang",
-          "note": "Nada 3 (Turun): Suara diturunkan secara lembut di akhir ayat (raḥīm) sebagai nada penutup atau jeda sempurna."
+          "arabic": "فِي",
+          "read": "Fī",
+          "meaning": "Di / Di dalam",
+          "note": "HURUF (Kata hubung/depan, tidak punya arti sempurna jika berdiri sendiri)"
         }
       ],
-      "actionTip": "Coba ucapkan kalimat Bismillah dengan nada terangkat di akhir, lalu baca ayat berikutnya dengan nada lurus, dan ayat ketiga dengan nada melandai turun."
+      "actionTip": "Buka Al-Qur'an Surah Al-Ikhlas, kelompokkan kata mana yang tergolong Isim (ada tanwin/AL) dan Huruf (seperti 'Lam' atau 'Waw')."
     },
     {
       "stepNumber": 2,
-      "title": "Langkah 2: Menguasai Naghom Bayati (Irama Wajib & Induk Lagu)",
-      "explanation": "Naghom Bayati adalah induk dari segala irama Al-Qur'an. Ciri khas irama Bayati adalah sifatnya yang lembut, khusyuk, dan tenang. Setiap Qari selalu memulai tilawah menggunakan Bayati. Rumus praktis mempraktikkan Bayati adalah mengombinasikan 3 variasi tingkatan suara: Bayati Qarar (suara rendah/dada), Bayati Nawa (suara sedang/tenggorokan), dan Bayati Jawab (suara tinggi/kepala).",
+      "title": "Menyusun Kalimat Nominal: Jumlah Ismiyyah (Mubtada' & Khabar)",
+      "explanation": "Jumlah Ismiyyah adalah kalimat sempurna yang DIAWALI oleh Isim. Kalimat ini terdiri dari dua komponen wajib: 1) Mubtada' (Subjek - biasanya kata ber-AL dan berharakat akhir Dhommah 'u'), dan 2) Khabar (Predikat - kata penjelas berharakat akhir Dhommatain 'un'). Rumus Cepat: [Subjek Ber-AL] + [Predikat Ber-Tanwin].",
       "examples": [
         {
-          "arabic": "مَالِكِ يَوْمِ الدِّينِ",
-          "read": "Māliki yaumid-dīn",
-          "meaning": "Pemilik hari pembalasan",
-          "note": "Bayati Qarar (Suara Rendah/Naik): Dibaca menggunakan nada rendah dari dada dengan alur lagu Bayati yang sedikit menaik di akhir."
+          "arabic": "اَلْمَسْجِدُ كَبِيْرٌ",
+          "read": "Al-masjidu kabīrun",
+          "meaning": "Masjid itu besar",
+          "note": "اَلْمَسْجِدُ = Mubtada' (Subjek ber-AL, akhir dhommah 'u'), كَبِيْرٌ = Khabar (Predikat penjelas, akhir tanwin 'un')"
         },
         {
-          "arabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
-          "read": "Iyyāka na'budu wa iyyāka nasta'īn",
-          "meaning": "Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami memohon pertolongan",
-          "note": "Bayati Nawa (Suara Sedang/Datar): Menggunakan nada sedang, alur lagu mengalir tenang dan datar di pertengahan surah."
-        },
-        {
-          "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
-          "read": "Ihdinaṣ-ṣirāṭal-mustaqīm",
-          "meaning": "Tunjukilah kami jalan yang lurus",
-          "note": "Bayati Jawab (Suara Tinggi/Turun): Menggunakan nada tinggi yang penuh penghayatan, lalu ditutup dengan landaian nada turun."
+          "arabic": "اَلطَّالِبُ ذَكِيٌّ",
+          "read": "At-thālibu zakiyyun",
+          "meaning": "Siswa itu cerdas",
+          "note": "اَلطَّالِبُ = Mubtada' (Subjek), ذَكِيٌّ = Khabar (Predikat)"
         }
       ],
-      "actionTip": "Latihlah pernapasan perut agar saat membawakan naghom Bayati pada suara sedang dan tinggi, napas tidak cepat habis."
+      "actionTip": "Buatlah 3 kalimat sederhana berunsur [Isim Pakai AL] + [Isim Kata Sifat Pakai Tanwin], contoh: Baju itu bersih, Rumah itu indah."
     },
     {
       "stepNumber": 3,
-      "title": "Langkah 3: Mengenal Naghom Hijaz (Irama Tegas & Menyentuh Hati)",
-      "explanation": "Naghom Hijaz adalah irama khas timur tengah yang memiliki karakter tegas, syahdu, puitis, dan sangat menyentuh perasaan. Irama ini sering digunakan dalam azan atau membaca ayat-ayat tentang peringatan, keagungan Allah, dan doa. Ciri khas Hijaz terletak pada lekukan nada yang tajam namun tetap merdu.",
+      "title": "Menyusun Kalimat Verbal: Jumlah Fi'liyyah (Fi'il + Fa'il + Maf'ul Bih)",
+      "explanation": "Jumlah Fi'liyyah adalah kalimat yang DIAWALI oleh Kata Kerja (Fi'il). Urutan penyusunannya sangat rapi: 1) Fi'il (Kata Kerja), 2) Fa'il (Pelaku/Subjek -> harakat akhir WAJIB Dhommah 'u/un'), 3) Maf'ul Bih (Objek Penderita -> harakat akhir WAJIB Fathah 'a/an'). Rumus Cepat: [Kata Kerja] + [Pelaku (u)] + [Objek (a)].",
       "examples": [
         {
-          "arabic": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ",
-          "read": "Ṣirāṭallażīna an'amta 'alaihim",
-          "meaning": "(yaitu) jalan orang-orang yang telah Engkau beri nikmat kepada mereka",
-          "note": "Hijaz Naik: Dibaca dengan aksen khas Hijaz yang agak tegas dan berliku, nada terangkat pada kata 'alaihim."
-        },
-        {
-          "arabic": "غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
-          "read": "Gairil-magḍūbi 'alaihim wa laḍ-ḍāllīn",
-          "meaning": "bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) mereka yang sesat",
-          "note": "Hijaz Turun: Dibaca mendayu dengan nada melandai turun secara syahdu sebagai penutup Surah Al-Fatihah."
+          "arabic": "قَرَأَ الطَّالِبُ الكِتَابَ",
+          "read": "Qara'a at-thālibu al-kitāba",
+          "meaning": "Siswa itu telah membaca buku",
+          "note": "قَرَأَ = Fi'il (Membaca), اَلطَّالِبُ = Fa'il (Pelaku -> harakat akhir 'u'), اَلْكِتَابَ = Maf'ul Bih (Objek -> harakat akhir 'a')"
         }
       ],
-      "actionTip": "Dengarkan rekaman azan Makkah atau tilawah Sheikh Ali Jaber untuk merasakan Cengkok khas dari Irama Hijaz."
+      "actionTip": "Latihlah mengenali susunan ini: Jika ada kata kerja di depan, cari kata setelahnya yang berakhiran 'u' (Pelaku) dan kata setelahnya yang berakhiran 'a' (Objek)."
     },
     {
       "stepNumber": 4,
-      "title": "Langkah 4: Mengenal Naghom Rast & Nahawand (Variasi Irama Cerah & Syahdu)",
-      "explanation": "Setelah Bayati dan Hijaz, ada dua irama populer lain yaitu Rast dan Nahawand. Rast memiliki karakter yang gagah, mantap, dan ceria. Sangat cocok untuk ayat-ayat kisah kemenangan atau kabar gembira. Sedangkan Nahawand memiliki karakter yang sangat lembut, manis, agak sedih, dan romantis (kesyahduan).",
+      "title": "Memahami Rahasia Harakat Kasrah: Pengaruh Huruf Jar",
+      "explanation": "Di dalam Kitab Kuning, harakat akhir suatu Isim bisa berubah menjadi Kasrah ('i' atau 'in') jika DIDAHULUI oleh 'Huruf Jar' (Kata Depan). Kata benda yang jatuh setelah Huruf Jar disebut 'Isim Majrur'. Huruf Jar yang paling sering muncul adalah: فِي (di dalam), إِلَى (ke), مِنْ (dari), عَلَى (di atas), بِـ (dengan).",
       "examples": [
         {
-          "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ",
-          "read": "Qul huwallāhu aḥad",
-          "meaning": "Katakanlah (Muhammad), Dia-lah Allah, Yang Maha Esa",
-          "note": "Irama Rast (Gagah/Cerah): Dibaca dengan tegas, nada naik dengan tempo yang bersemangat dan stabil."
+          "arabic": "ذَهَبَ زَيْدٌ إِلَى الْمَدْرَسَةِ",
+          "read": "Dzahaba Zaidun ilāl-madrasati",
+          "meaning": "Zaid telah pergi ke sekolah",
+          "note": "إِلَى = Huruf Jar, maka kata اَلْمَدْرَسَةِ wajib dibaca berharakat akhir Kasrah ('i') yaitu 'al-madrasati'."
         },
         {
-          "arabic": "اللَّهُ الصَّمَدُ",
-          "read": "Allāhuṣ-ṣamad",
-          "meaning": "Allah tempat meminta segala sesuatu",
-          "note": "Irama Nahawand (Lembut/Manis): Dibaca dengan cengkok manis yang lembut dan mengalun syahdu."
+          "arabic": "الْقَلَمُ عَلَى الْمَكْتَبِ",
+          "read": "Al-qalamu 'alāl-maktabi",
+          "meaning": "Pena itu di atas meja",
+          "note": "عَلَى = Huruf Jar, maka kata اَلْمَكْتَبِ dibaca 'al-maktabi' (ujungnya 'i')."
         }
       ],
-      "actionTip": "Bandingkan membaca Surah Al-Ikhlas dengan perasaan gembira (Rast) dan perasaan sedih/syahdu (Nahawand) untuk melatih variasi emosi suara."
+      "actionTip": "Hafalkan 5 Huruf Jar utama (Fi, Ila, Min, 'Ala, Bi) dan langsung beri harakat kasrah pada kata setelahnya saat membaca teks."
     },
     {
       "stepNumber": 5,
-      "title": "Langkah 5: Praktek Mandiri Penerapan Rumus 3 Nada pada Surah Al-Ikhlas",
-      "explanation": "Saatnya menggabungkan semua pemahaman ke dalam praktek langsung. Kita akan menggunakan pola rumus standar 3 Nada (Naik, Datar, Turun) dengan variasi irama Bayati untuk membaca Surah Al-Ikhlas secara utuh dari awal sampai akhir.",
+      "title": "Praktek Mandiri Membedah dan Membaca Teks Gundul Sederhana",
+      "explanation": "Saat melihat teks Arab tanpa harakat, gunakan 3 Langkah Detektif ini: 1) Tentukan jenis kalimatnya (Ismiyyah atau Fi'liyyah?). 2) Cari peran tiap kata (Mana Pelaku? Mana Objek? Mana Kata Depan?). 3) Terapkan harakat huruf terakhir sesuai hukumnya (Subjek = u, Objek = a, Setelah Kata Depan = i).",
       "examples": [
         {
-          "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ",
-          "read": "Qul huwallāhu aḥad",
-          "meaning": "Katakanlah (Muhammad), Dia-lah Allah, Yang Maha Esa",
-          "note": "Ayat 1 - Nada NAIK: Buka dengan nada terangkat halus di akhir kata 'aḥad'."
-        },
-        {
-          "arabic": "اللَّهُ الصَّمَدُ",
-          "read": "Allāhuṣ-ṣamad",
-          "meaning": "Allah tempat meminta segala sesuatu",
-          "note": "Ayat 2 - Nada DATAR: Jaga tinggi suara agar tetap lurus dan rata pada kata 'ṣamad'."
-        },
-        {
-          "arabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
-          "read": "Lam yalid wa lam yūlad",
-          "meaning": "Dia tidak beranak dan tidak pula diperanakkan",
-          "note": "Ayat 3 - Nada DATAR / TINGGI SEDIKIT: Pertahankan nada sedang untuk menyambung bait sebelum penutup."
-        },
-        {
-          "arabic": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
-          "read": "Wa lam yakul lahū kufuwan aḥad",
-          "meaning": "Dan tidak ada seorang pun yang setara dengan Dia",
-          "note": "Ayat 4 - Nada TURUN: Landai dan turunkan nada suara secara lembut pada kata 'aḥad' sebagai kunci penutup."
+          "arabic": "يَكْتُبُ مُحَمَّدٌ الرِّسَالَةَ فِي الْبَيْتِ",
+          "read": "Yaktubu Muhammadun ar-risālata fīl-baiti",
+          "meaning": "Muhammad sedang menulis surat di dalam rumah",
+          "note": "Yaktubu (Fi'il/Kerja) -> Muhammadun (Fa'il/Pelaku -> dhommatain 'un') -> ar-risālata (Maf'ul/Objek -> fathah 'a') -> fīl-baiti (Huruf Jar + Majrur -> kasrah 'i')."
         }
       ],
-      "actionTip": "Rekam suara Anda sendiri saat membaca Surah Al-Ikhlas menggunakan pola Naik-Datar-Turun ini, lalu dengarkan kembali untuk mengevaluasi kelancaran lagunya."
+      "actionTip": "Coba ambil satu kalimat gundul pendek, beri harakat huruf terakhirnya sendiri menggunakan rumus Subjek(u)-Objek(a)-KataDepan(i), lalu cocokan dengan kitab berharakat."
     }
   ],
   "sections": [
     {
-      "title": "Ringkasan Kaidah Penting Seni Naghom",
-      "content": "1. TAJWID DI ATAS NAGHOM: Irama hanyalah sarana, Tajwid adalah kewajiban. Dilarang memanjangkan bacaan pendek demi mengejar irama.\n2. RUMUS 3 NADA: Gunakan pola (Ayat 1: Naik, Ayat 2: Datar, Ayat 3: Turun) untuk surah apapun yang ingin Anda baca.\n3. PERNAPASAN PERUT: Gunakan pernapasan diafragma (perut) agar suara lebih kokoh, stabil, dan tidak tersengal-sengal.\n4. KONTROL CENGKOK: Pemula tidak perlu terlalu banyak cengkok/getaran suara. Utamakan kebenaran nada dasar terlebih dahulu."
+      "title": "Ringkasan Kaidah Penting (Rumus Harakat Akhir)",
+      "content": "1. SUBJEK (Mubtada' / Fa'il) -> Harakat akhir selalu MARFU' (Dhommah 'u' / 'un').\n2. OBJEK (Maf'ul Bih) -> Harakat akhir selalu MANSHUB (Fathah 'a' / 'an').\n3. KETERANGAN TEMPAT/KATA DEPAN (Isim Majrur setelah Huruf Jar) -> Harakat akhir selalu MAJRUR (Kasrah 'i' / 'in').\n4. ATURAN AL: Jika kata memakai 'AL' (ال), TIDAK BOLEH Pakai Tanwin. Jika TIDAK ada 'AL', BOLEH Pakai Tanwin."
     }
   ],
   "tips": [
-    "Seringlah mendengarkan (talaqqi/murottal) dari Qari terkenal seperti Sheikh Mishary Rashid Al-Afasy atau Muammar ZA untuk mengasah kepekaan telinga (seni pendengaran).",
-    "Gunakan teknik 'Tiru dan Ulangi' (Imitasi): Tirukan 1 ayat dari Qari favorit Anda secara berulang-ulang sampai persis sebelum berpindah ke ayat lain.",
-    "Jangan memaksakan jangkauan nada tinggi yang merusak tenggorokan. Bernyanyi/berlagu dalam Al-Qur'an harus nyaman dan sesuai karakter suara alami Anda."
+    "Fokus utama belajar Nahwu adalah menentukan HARAKAT HURUF TERAKHIR pada suatu kata, bukan huruf depan atau tengahnya.",
+    "Jangan takut salah harakat saat pertama kali membaca gundul. Analisis struktur kalimatnya terlebih dahulu.",
+    "Setiap kali melihat kata ber-AL (ال), langsung coret/abaikan opsi tanwin pada akhir kata tersebut."
   ],
-  "summary": "Membaca Al-Qur'an dengan irama yang indah adalah kesunnahan yang sangat dianjurkan untuk menghiasi Al-Qur'an (Zayyinuu Al-Qur'an bi Ashwaatikum). Dengan menguasai rumus dasar 3 Nada (Naik-Datar-Turun) serta membiasakan irama Bayati dan Hijaz, Anda kini sudah bisa membaca Al-Qur'an secara tartil, indah, dan menyentuh hati. Teruslah berlatih setiap hari!"
+  "summary": "Selamat! Anda telah menguasai fondasi utama dan inti dari Ilmu Nahwu. Kunci utama keberhasilan membaca Kitab Kuning gundul bukanlah menghafal ribuan aturan rumit, melainkan konsistensi dalam mempraktikkan analisis struktur kalimat sederhana (Subjek, Objek, dan Kata Depan) secara bertahap setiap hari. Terus berlatih dan nikmati prosesnya!"
 }
