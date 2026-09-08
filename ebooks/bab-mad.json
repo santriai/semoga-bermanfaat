@@ -1,0 +1,188 @@
+{
+  "profile": {
+    "name": "Bab Mad (Hukum-Hukum Mad dan Qashr)",
+    "originalTitle": "بَابُ أَحْكَامِ الْمَدِّ وَالْقَصْرِ",
+    "author": "Al-Imam Sulaiman ibn Husain ibn Muhammad al-Jamzuri al-Afandi",
+    "field": "Ilmu Tajwid / Qira'at",
+    "about": "Pembahasan mengenai Bab Mad ini merupakan bagian inti dalam disiplin ilmu Tajwid yang mengatur tata cara pemanjangan dan pemendekan suara saat membaca Al-Qur'an. Pembahasan diawali dari definisi sistematis mad dan qashr, penetapan huruf-huruf mad beserta syarat-syarat harakat sebelum huruf tersebut, serta pembagian utama menjadi Mad Asli (Thabi'i) dan Mad Far'i. Selanjutnya, dipaparkan secara terperinci rincian Mad Far'i yang disebabkan oleh hamzah maupun sukun, mencakup mad wajib, ja'iz, lazim, hingga cabang-cabang spesifik seperti 'iwad, tamkin, dan farq. Seluruh kaidah dilengkapi dengan susunan matan berharakat lengkap serta terjemahan berstandar turath pesantren untuk menjaga keotentikan penerimaan bacaan (talaqqi).",
+    "authorBorn": "Thanta, Mesir (Sya'ban 1160 H / 1747 M)",
+    "authorDied": "Wafat setelah tahun 1208 H / 1798 M",
+    "authorCentury": "Abad ke-12 Hijriyah (Kurun ke-18 Masehi)"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah Bab Mad (Pengertian Mad dan Qashr)",
+      "titleArabic": "مُقَدِّمَةُ بَابِ الْمَدِّ (تَعْرِيفُ الْمَدِّ وَالْقَصْرِ)",
+      "arabic": "الْمَدُّ لُغَةً: الزِّيَادَةُ، وَاصْطِلَاحًا: إِطَالَةُ الصَّوْتِ بِحَرْفٍ مِنْ حُرُوفِ الْمَدِّ الثَّلَاثَةِ عِنْدَ وُجُودِ سَبَبٍ. وَالْقَصْرُ لُغَةً: الْحَبْسُ، وَاصْطِلَاحًا: إِثْبَاتُ حَرْفِ الْمَدِّ مِنْ غَيْرِ زِيَادَةٍ عَلَى الْمَدِّ الطَّبِيعِيِّ.",
+      "translation": "Mad secara bahasa berarti tambahan (az-ziyadah). Adapun secara istilah tajwid adalah memanjangkan suara pada salah satu dari tiga huruf mad ketika terdapat sebab pemanjang. Sedangkan Qashr secara bahasa berarti menahan (al-habs), dan secara istilah adalah menetapkan panjang huruf mad tanpa ada tambahan melebihi kadar Mad Thabi'i."
+    },
+    {
+      "title": "Huruf-Huruf Mad dan Syarat-Syaratnya",
+      "titleArabic": "حُرُوفُ الْمَدِّ وَشُرُوطُهَا",
+      "arabic": "حُرُوفُهُ ثَلَاثَةٌ فَعِيهَا ... مِنْ لَفْظِ وَايٍ وَهْيَ فِي نُوحِيهَا\nوَالْكَسْرُ قَبْلَ الْيَاءِ وَالضَّمُّ الشَّرَطْ ... قَبْلَ الْوَاوِ وَفَتْحٌ قَبْلَ أَلِفٍ مُلْتَزَمْ",
+      "translation": "Huruf mad ada tiga maka pahamilah, terhimpun dalam lafaz 'WAYIN' (Wawu, Alif, Ya), seperti contoh dalam lafaz 'NUU-HII-HAA'. Syaratnya: kasrah sebelum Ya, dammah sebelum Wawu, dan fathah sebelum Alif merupakan hal yang lazim (pasti)."
+    },
+    {
+      "title": "Huruf Lin (Huruf Kelembutan)",
+      "titleArabic": "حَرْفَا اللِّينِ وَشُرُوطُهُمَا",
+      "arabic": "وَاللِّينُ مِنْهَا الْيَاءُ وَوَاوٌ سُكِّنَا ... إِنِ انْفِتَاحٌ قَبْلَ كُلٍّ أُمْكِنَا",
+      "translation": "Dan huruf Lin (lembut) daripadanya adalah huruf Ya dan Wawu yang bersukun, apabila ada harakat fathah pada huruf sebelum masing-masing dari keduanya."
+    },
+    {
+      "title": "Pembagian Mad Utama: Mad Asli dan Mad Far'i",
+      "titleArabic": "أَقْسَامُ الْمَدِّ: الأَصْلِيُّ وَالْفَرْعِيُّ",
+      "arabic": "وَالْمَدُّ أَصْلِيٌّ وَفَرْعِيٌّ لَهُ ... وَسَمِّ أَوَّلًا طَبِيعِيًّا وَهُوَ\nمَا لَا تَوَقُّفٌ لَهُ عَلَى سَبَبْ ... وَلَا بِدُونِهِ الحُرُوفُ تُجْتَلَبْ",
+      "translation": "Mad itu terbagi menjadi Mad Asli dan Mad Far'i. Sebutlah yang pertama itu sebagai Mad Thabi'i (Asli), yaitu mad yang pembacaannya tidak bergantung pada adanya sebab (seperti hamzah atau sukun), dan karakter huruf mad tidak akan wujud tanpanya."
+    },
+    {
+      "title": "Ketentuan dan Hakikat Mad Asli (Thabi'i)",
+      "titleArabic": "حَقِيقَةُ الْمَدِّ الطَّبِيعِيِّ وَحُكْمُهُ",
+      "arabic": "بَلْ أَيُّ حَرْفٍ غَيْرِ هَمْزٍ أَوْ سُكُونْ ... جَاءَ بَعْدَ مَدٍّ فَالطَّبِيعِيَّ يَكُونْ\nوَمِقْدَارُ مَدِّهِ حَرَكَتَانِ كَمَا ثَبَتَ عِنْدَ الأَئِمَّةِ.",
+      "translation": "Bahkan setiap huruf selain hamzah atau sukun yang jatuh setelah huruf mad, maka menjadilah ia Mad Thabi'i. Ukuran pemanjangannya adalah dua harakat sebagaimana telah tetap di kalangan para imam qira'at."
+    },
+    {
+      "title": "Sebab-Sebab Terjadinya Mad Far'i",
+      "titleArabic": "أَسْبَابُ الْمَدِّ الْفَرْعِيِّ",
+      "arabic": "وَالْآخَرُ الْفَرْعِيُّ مَوْقُوفٌ عَلَى ... سَبَبٍ كَهَمْزٍ أَوْ سُكُونٍ مُسْجَلَا\nفَالأَسْبَابُ اللَّفْظِيَّةُ اثْنَتَانِ: الْهَمْزَةُ وَالسُّكُونُ.",
+      "translation": "Dan jenis yang kedua adalah Mad Far'i, yang keadaannya bergantung pada sebab, seperti keberadaan hamzah atau sukun secara mutlak. Maka sebab-sebab lafzhiyyah (sebab pelafalan) itu ada dua: Hamzah dan Sukun."
+    },
+    {
+      "title": "Pembagian Hukum Mad Far'i",
+      "titleArabic": "أَحْكَامُ الْمَدِّ الْفَرْعِيِّ",
+      "arabic": "أَحْكَامُهُ ثَلَاثَةٌ تَدُومُ ... وَهْيَ الْوُجُوبُ وَالْجَوَازُ وَاللُّزُومُ",
+      "translation": "Hukum-hukum Mad Far'i itu selalu ada tiga, yaitu: Wajib (Mad Wajib), Ja'iz (Mad Ja'iz), dan Lazim (Mad Lazim)."
+    },
+    {
+      "title": "Mad Wajib Muttashil",
+      "titleArabic": "الْمَدُّ الْوَاجِبُ الْمُتَّصِلُ",
+      "arabic": "فَوَاجِبٌ إِنْ جَاءَ هَمْزٌ بَعْدَ مَدّ ... فِي كِلْمَةٍ وَذَا بِمُتَّصِلٍ يُعَدّ\nوَمِقْدَارُهُ أَرْبَعُ أَوْ خَمْسُ حَرَكَاتٍ وَصْلًا.",
+      "translation": "Maka hukumnya Wajib apabila ada hamzah jatuh setelah huruf mad dalam satu kata, dan ini dinamakan Mad Muttashil. Ukuran panjangnya adalah empat atau lima harakat ketika washal (bersambung)."
+    },
+    {
+      "title": "Mad Ja'iz Munfashil",
+      "titleArabic": "الْمَدُّ الْجَائِزُ الْمُنْفَصِلُ",
+      "arabic": "وَجَائِزٌ مَدٌّ وَقَصْرٌ إِنْ فُصِلْ ... كُلٌّ بِكِلْمَةٍ وَهَذَا الْمُنْفَصِلْ\nوَيَجُوزُ فِيهِ الْقَصْرُ حَرَكَتَانِ وَالتَّوَسُّطُ أَرْبَعٌ أَوْ خَمْسٌ.",
+      "translation": "Dan hukumnya Ja'iz dipanjangkan atau dipendekkan (qashr) jika masing-masing (huruf mad dan hamzah) terpisah dalam kata yang berbeda, dan ini dinamakan Mad Munfashil. Boleh dibaca pendek 2 harakat, atau pertengahan 4 atau 5 harakat."
+    },
+    {
+      "title": "Mad Badal",
+      "titleArabic": "مَدُّ الْبَدَلِ",
+      "arabic": "أَوْ قُدِّمَ الْهَمْزُ عَلَى الْمَدِّ وَذَا ... بَدَلْ كَآمَنُوا وَإِيمَانًا خُذَا\nوَيُمَدُّ بِمِقْدَارِ حَرَكَتَيْنِ عِنْدَ حَفْصٍ.",
+      "translation": "Atau apabila hamzah didahulukan sebelum huruf mad, maka ini dinamakan Mad Badal, seperti contoh 'AAMANUU' dan 'IIMAANAN', ambillah contoh ini. Panjangnya adalah dua harakat menurut riwayat Hafsh."
+    },
+    {
+      "title": "Mad 'Aridh Lissukun",
+      "titleArabic": "الْمَدُّ الْعَارِضُ لِلسُّكُونِ",
+      "arabic": "وَمِثْلُ ذَا إِنْ عَرَضَ السُّكُونُ ... وَقْفًا كَتَسْتَعِينُ نَسْتَعِينُ\nوَيَجُوزُ فِيهِ الْقَصْرُ وَالتَّوَسُّطُ وَالإِطَالَةُ (٢، ٤، ٦ حَرَكَاتٍ).",
+      "translation": "Dan termasuk Mad Ja'iz apabila terjadi sukun mendatang (karena berhenti/waqaf), seperti contoh 'TASTA'IINU' menjadi 'NASTA'IIN'. Boleh dibaca pendek (2 harakat), sedang (4 harakat), atau panjang (6 harakat)."
+    },
+    {
+      "title": "Mad Lin ('Aridh Lissukun)",
+      "titleArabic": "مَدُّ اللِّينِ عِنْدَ الْوَقْفِ",
+      "arabic": "وَمِنْهُ مَدُّ اللِّينِ إِنِ السُّكُونُ عَرَضَا ... بَعْدَ حَرْفِ اللِّينِ وَقْفًا نَحْوُ: خَوْفٍ وَبَيْتٍ\nوَيَجْرِي فِيهِ الْقَصْرُ وَالتَّوَسُّطُ وَالطُّولُ.",
+      "translation": "Dan di antaranya adalah Mad Lin apabila terjadi sukun mendatang setelah huruf Lin ketika waqaf, seperti lafaz 'KHAUF' dan 'BAIT'. Padanya berlaku bacaan qashr (2 harakat), tawassuth (4 harakat), dan thul (6 harakat)."
+    },
+    {
+      "title": "Pengertian Mad Lazim",
+      "titleArabic": "تَعْرِيفُ الْمَدِّ اللَّازِمِ",
+      "arabic": "وَلَازِمٌ إِنِ السُّكُونُ أُصِّلَا ... وَصْلًا وَوَقْفًا بَعْدَ مَدٍّ طُوِّلَا\nوَمِقْدَارُهُ سِتُّ حَرَكَاتٍ لُزُومًا.",
+      "translation": "Dan Mad Lazim adalah apabila sukunnya bersifat asli, baik ketika washal (sambung) maupun waqaf, berada setelah huruf mad yang dipanjangkan. Ukuran panjangnya wajib enam harakat secara pasti."
+    },
+    {
+      "title": "Pembagian Utama Mad Lazim",
+      "titleArabic": "أَقْسَامُ الْمَدِّ اللَّازِمِ الْعَامَّةُ",
+      "arabic": "أَقْسَامُ لَازِمٍ لَدَيْهِمْ أَرْبَعَهْ ... وَتِلْكَ كِلْمِيٌّ وَحَرْفِيٌّ مَعَهْ\nكِلَاهُمَا مُخَفَّفٌ مُثَقَّلُ ... فَهَذِهِ أَرْبَعَةٌ تُفَصَّلُ",
+      "translation": "Pembagian Mad Lazim menurut para ahli qira'at ada empat, yaitu Kilmi dan Harfi. Masing-masing dari keduanya terbagi menjadi Mukhaffaf dan Muthaqqal, maka inilah empat bagian yang dijelaskan secara terperinci."
+    },
+    {
+      "title": "Mad Lazim Kilmi Muthaqqal",
+      "titleArabic": "الْمَدُّ اللَّازِمُ الْكِلْمِيُّ الْمُثَقَّلُ",
+      "arabic": "فَإِنْ بِكِلْمَةٍ سُكُونٌ اجْتَمَعْ ... مَعْ حَرْفِ مَدٍّ فَهُوَ كِلْمِيٌّ وَقَعْ\nمُثَقَّلٌ إِنْ أُدْغِمَا ... نَحْوُ: الصَّاخَّةُ، وَالضَّالِّينَ.",
+      "translation": "Maka jika sukun berkumpul bersama huruf mad dalam satu kata, maka terjadilah Mad Kilmi. Dinamakan Muthaqqal apabila diidghamkan (tasydid) setelahnya, seperti contoh 'AS-SAAKHKHAH' dan 'ADHDHAALLIIN'."
+    },
+    {
+      "title": "Mad Lazim Kilmi Mukhaffaf",
+      "titleArabic": "الْمَدُّ اللَّازِمُ الْكِلْمِيُّ الْمُخَفَّفُ",
+      "arabic": "مُخَفَّفٌ كُلٌّ إِذَا لَمْ يُدْغَمَا ... وَلَمْ يَقَعْ فِي الْقُرْآنِ إِلَّا فِي لَفْظِ: آلْآنَ فِي سُورَةِ يُونُسَ.",
+      "translation": "Dinamakan Mukhaffaf apabila sukun tidak diidghamkan. Mad Lazim Kilmi Mukhaffaf ini tidak terjadi dalam Al-Qur'an melainkan hanya pada lafaz 'AAL-'AANA' dalam Surah Yunus (dua tempat)."
+    },
+    {
+      "title": "Mad Lazim Harfi Muthaqqal",
+      "titleArabic": "الْمَدُّ اللَّازِمُ الْحَرْفِيُّ الْمُثَقَّلُ",
+      "arabic": "أَوْ فِي ثُلَاثِيِّ الحُرُوفِ وُجِدَا ... وَالْوَسْطُ مَدٌّ فَحَرْفِيٌّ بَدَا\nمُثَقَّلٌ إِنْ أُدْغِمَا ... نَحْوُ: اللَّامِ فِي (أَلَمْ) عِنْدَ إِدْغَامِهَا فِي الْمِيمِ.",
+      "translation": "Atau apabila sukun terdapat pada huruf yang ejaannya terdiri dari tiga huruf, dan bagian tengahnya berupa huruf mad, maka nampaklah Mad Harfi. Dinamakan Muthaqqal jika diidghamkan, seperti huruf Lam pada 'ALIF LAAM MIIM' ketika diidghamkan ke dalam huruf Mim."
+    },
+    {
+      "title": "Mad Lazim Harfi Mukhaffaf",
+      "titleArabic": "الْمَدُّ اللَّازِمُ الْحَرْفِيُّ الْمُخَفَّفُ",
+      "arabic": "وَمُخَفَّفٌ إِذَا لَمْ يُدْغَمَا ... نَحْوُ: الْقَافِ فِي (ق) وَالصَّادِ فِي (ص) وَالْمِيمِ فِي (أَلَمْ).",
+      "translation": "Dan dinamakan Mukhaffaf jika huruf sukun setelahnya tidak diidghamkan, seperti huruf Qaf pada 'QAAF', Shad pada 'SHAAD', dan Mim pada 'ALIF LAAM MIIM'."
+    },
+    {
+      "title": "Rincian Huruf Fawatih as-Suwar (Pembuka Surah)",
+      "titleArabic": "حُرُوفُ الْفَوَاتِحِ فِي أُوَلِ السُّوَرِ",
+      "arabic": "وَيَجْمَعُ الْفَوَاتِحَ الأَرْبَعَ عَشَرْ ... صِلْهُ سُحَيْرًا مَنْ قَطَعْكَ ذَا اشْتَهَرْ\nوَسَاحِرٌ ثَمَانٍ كَمْ عَسَلَ نَقَصَ ... وَعَيْنُ ذُو وَجْهَيْنِ وَالطُّولُ أَخَصّ",
+      "translation": "Huruf-huruf pembuka surah yang empat belas terhimpun dalam kalimat: 'SILHU SUHAIRAN MAN QATA'KA'. Delapan huruf terhimpun dalam 'KAM 'ASALA NAQASA' yang dipanjang 6 harakat, adapun huruf 'Ain memiliki dua wajah (4 atau 6 harakat) dan yang 6 harakat lebih utama."
+    },
+    {
+      "title": "Kelompok Huruf 'Hayyun Thahir'",
+      "titleArabic": "حُرُوفُ حَيٍّ طَاهِرٍ (مَدّ طَبِيعِيّ حَرْفِيّ)",
+      "arabic": "وَمَا سِوَى الشُّبْهِ الثُّلَاثِي لَا أَلِفْ ... فَـمَدُّهُ مَدًّا طَبِيعِيًّا عُرِفْ\nوَذَاكَ أَيْضًا فِي فَوَاتِحِ السُّوَرِ ... فِي لَفْظِ حَيٍّ طَاهِرٍ قَدِ انْحَصَرِ",
+      "translation": "Dan huruf-huruf pembuka selain yang bertiga huruf (dan bukan Alif), maka pemanjangannya dikenal sebagai Mad Thabi'i Harfi (2 harakat). Hal itu juga terdapat pada pembuka surah yang terangkum dalam lafaz 'HAYYUN THAHIR' (Ha, Ya, Tha, Ha, Ra)."
+    },
+    {
+      "title": "Keadaan Huruf Alif pada Pembuka Surah",
+      "titleArabic": "حُكْمُ الأَلِفِ فِي فَوَاتِحِ السُّوَرِ",
+      "arabic": "وَأَمَّا الأَلِفُ فَلَا مَدَّ فِيهِ أَصْلًا، لِأَنَّ وَسَطَهُ لَيْسَ بِحَرْفِ مَدٍّ (أَلِفْ = أ - ل - ف).",
+      "translation": "Adapun huruf Alif, maka tidak ada pemanjangan (mad) padanya sama sekali, sebab huruf tengah dari ejaannya ('A-L-I-F') bukanlah huruf mad melainkan kasrah diikuti fa sukun."
+    },
+    {
+      "title": "Mad Shilah Qashirah",
+      "titleArabic": "مَدُّ الصِّلَةِ القَصِيرَةِ",
+      "arabic": "وَهِيَ مَدُّ هَاءِ الضَّمِيرِ الْمُفْرَدِ الْمُذَكَّرِ الْغَائِبِ إِذَا وَقَعَتْ بَيْنَ مُتَحَرِّكَيْنِ، وَلَمْ يَأْتِ بَعْدَهَا هَمْزَةٌ، تُـمَدُّ بِمِقْدَارِ حَرَكَتَيْنِ، نَحْوُ: إِنَّهُ كَانَ.",
+      "translation": "Yaitu memanjangkan Ha Dhamir untuk kata ganti tunggal laki-laki ketiga apabila berada di antara dua huruf yang berharakat, dan tidak ada hamzah setelahnya. Dipanjangkan sepanjang dua harakat, seperti lafaz 'INNAHUU KAANA'."
+    },
+    {
+      "title": "Mad Shilah Thawilah",
+      "titleArabic": "مَدُّ الصِّلَةِ الطَّوِيلَةِ",
+      "arabic": "وَهِيَ إِذَا وَقَعَتْ هَاءُ الضَّمِيرِ بَيْنَ مُتَحَرِّكَيْنِ وَكَانَ الثَّانِي هَمْزَةَ قَطْعٍ، فَتُعَامَلُ مُعَامَلَةَ الْمَدِّ الْمُنْفَصِلِ (٤ أَوْ ٥ حَرَكَاتٍ)، نَحْوُ: عِنْدَهُ إِلَّا.",
+      "translation": "Yaitu apabila Ha Dhamir berada di antara dua huruf berharakat dan huruf keduanya adalah hamzah qatha'. Maka hukumnya diperlakukan sebagaimana Mad Munfashil (4 atau 5 harakat), seperti lafaz 'INDAHUU ILLAA'."
+    },
+    {
+      "title": "Mad 'Iwad",
+      "titleArabic": "مَدُّ الْعِوَضِ",
+      "arabic": "وَهُوَ التَّعْوِيضُ عَنْ تَنْوِينِ النَّصْبِ حَالَةَ الْوَقْفِ بِأَلِفٍ مَـدِّيَّةٍ تُـمَدُّ بِمِقْدَارِ حَرَكَتَيْنِ، نَحْوُ: عَلِيمًا حَكِيمًا (عَلِيمَا حَكِيمَا).",
+      "translation": "Yaitu mengganti tanwin nashab (fathatain) ketika waqaf dengan alif mad yang dipanjangkan sepanjang dua harakat, seperti pembacaan 'ALIIMAN HAKIIMAN menjadi ''ALIIMAA HAKIIMAA'."
+    },
+    {
+      "title": "Mad Tamkin",
+      "titleArabic": "مَدُّ التَّمْكِينِ",
+      "arabic": "وَهُوَ اجْتِمَاعُ يَاءَيْنِ الأُولَى مُشَدَّدَةٌ مَكْسُورَةٌ وَالثَّانِيَةُ سَاكِنَةٌ، فَيُـمَكَّنُ الْمَدُّ فِيهَا بِمِقْدَارِ حَرَكَتَيْنِ لِئَلَّا تُدْغَمَ أَوْ تُسْقَطَ، نَحْوُ: حُيِّيتُمْ، وَالنَّبِيِّينَ.",
+      "translation": "Yaitu bertemunya dua huruf Ya, yang pertama bertasydid serta berharakat kasrah dan yang kedua bersukun. Maka pemanjangan ditegaskan (diberi tempat) sepanjang dua harakat agar tidak teridghamkan atau terbuang, seperti lafaz 'HUYYIITUM' dan 'AN-NABIYYIIN'."
+    },
+    {
+      "title": "Mad Farq",
+      "titleArabic": "مَدُّ الْفَرْقِ",
+      "arabic": "وَهُوَ دُخُولُ هَمْزَةِ الِاسْتِفْهَامِ عَلَى هَمْزَةِ الْوَصْلِ فِي اسْمٍ مُعَرَّفٍ بِـ (أَلْ)، فَتُبْدَلُ هَمْزَةُ الْوَصْلِ أَلِفًا مَدِّيَّةً لِلْفَرْقِ بَيْنَ الِاسْتِفْهَامِ وَالْخَبَرِ، وَيُـمَدُّ ٦ حَرَكَاتٍ، نَحْوُ: آلذَّكَرَيْنِ، آللَّهُ.",
+      "translation": "Yaitu masuknya hamzah istifham (pertanyaan) pada hamzah washal dalam kata benda yang bermakrifat dengan 'AL'. Hamzah washal diganti menjadi alif mad untuk membedakan antara pertanyaan dan berita, dan dipanjangkan 6 harakat, seperti lafaz 'AAL-DZAKARAINI' dan 'AALLAHU'."
+    },
+    {
+      "title": "Mad Ta'dzim (Mad Mubalaghah)",
+      "titleArabic": "مَدُّ التَّعْظِيمِ (مَدُّ الْمُبَالَغَةِ)",
+      "arabic": "وَهُوَ مَدُّ حَرْفِ الْمَدِّ فِي لَفْظِ النَّفْيِ (لَا) فِي كَلِمَةِ التَّوْحِيدِ (لَا إِلَهَ إِلَّا اللَّهُ) لِقَصْدِ تَعْظِيمِ اللَّهِ تَعَالَى، وَيَكُونُ عِنْدَ مَنْ يَقْصُرُ المُنْفَصِلَ.",
+      "translation": "Yaitu memanjangkan huruf mad pada lafaz nafi 'LAA' dalam kalimat tauhid 'LAA ILAAHA ILLALLAAH' dengan maksud mengagungkan Allah Ta'ala. Hal ini berlaku menurut jalur periwayatan yang membaca qashr pada Mad Munfashil."
+    },
+    {
+      "title": "Tingkatan Kekuatan Mad (Maratib al-Mudud)",
+      "titleArabic": "مَرَاتِبُ الْمُدُودِ مِنْ حَيْثُ القُوَّةُ",
+      "arabic": "أَقْوَى الْمُدُودِ لَازِمٌ فَمَا اتَّصَلْ ... فَعَارِضٌ فَذُو انْفِصَالٍ فَ بَدَلْ\nفَإِذَا اجْتَمَعَ سَبَبَانِ قدَّمَ الأَقْوَى كَمَا فِي: وَلَا آمِّينَ (لَازِمٌ وَبَدَلٌ فَيُقَدَّمُ اللَّازِمُ).",
+      "translation": "Mad yang paling kuat adalah Mad Lazim, kemudian Muttashil, lalu 'Aridh, lalu Munfashil, dan yang paling lemah adalah Badal. Jika dua sebab mad berkumpul dalam satu tempat, maka dimenangkan yang paling kuat, seperti pada 'WA LAA AAMMIINA' (terkumpul Mad Lazim dan Mad Badal, maka didahulukan hukum Lazim)."
+    },
+    {
+      "title": "Khatimah Bab Mad (Peringatan dari Lahn/Kesalahan)",
+      "titleArabic": "خَاتِمَةُ بَابِ الْمَدِّ (تَحْذِيرٌ مِنَ اللَّحْنِ فِي الْمَدِّ)",
+      "arabic": "وَتَجَنَّبِ الزِّيَادَةَ عَلَى المِقْدَارِ المَشْرُوعِ أَوْ النَّقْصَ عَنْهُ، وَحَاذِرْ مِنَ الطَّرِيبِ وَتَرْعِيدِ الصَّوْتِ بِالْمَدِّ فَإِنَّهُ لَحْنٌ يُمِيتُ الرَّوْنَقَ وَيُخِلُّ بِالتَّلاَوَةِ.",
+      "translation": "Jauhilah menambah ukuran panjang melebihi kadar yang disyariatkan atau menguranginya. Waspadailah lagu yang berlebihan dan menggetar-getarkan suara pada mad, karena hal itu merupakan kesalahan (lahn) yang menghilangkan keindahan tajwid serta merusak keutuhan tilawah."
+    }
+  ]
+}
