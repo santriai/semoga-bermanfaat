@@ -1,143 +1,107 @@
 {
-  "title": "Panduan Lengkap & Praktis Makhorijul Huruf: Dari Nol Sampai Fasih Membaca Al-Qur'an",
-  "intro": "Selamat datang di panduan belajar Makhorijul Huruf! Modul ini dirancang khusus untuk pemula dari tingkat nol agar dapat memahami dan mempraktikkan tempat-tempat keluarnya huruf Hijaiyah secara tepat. Dengan menguasai makhraj, Anda akan terhindar dari kesalahan arti saat membaca Al-Qur'an dan bisa membaca dengan lancar serta indah.",
+  "title": "Modul Praktis Makhorijul Huruf: Panduan Lengkap Fasih Membaca Al-Qur'an dari Nol",
+  "intro": "Selamat datang di modul panduan belajar Makhorijul Huruf! Modul ini dirancang khusus untuk Anda yang ingin belajar membaca Al-Qur'an dari tingkat paling dasar secara mandiri. Dengan memahami tempat keluarnya huruf (Makhraj), Anda akan terhindar dari kesalahan fatal dalam menyebut huruf hijaiyah dan mampu membaca Al-Qur'an secara fasih serta sesuai kaidah Tajwid.",
   "steps": [
     {
       "stepNumber": 1,
-      "title": "Langkah 1: Mengenal Rongga Mulut & Tenggorokan (Al-Jauf)",
-      "explanation": "Al-Jauf adalah rongga terbuka yang membentang dari tenggorokan hingga mulut. Tempat ini merupakan makhraj bagi bunyi huruf-huruf Mad (bacaan panjang). Suara keluar mengalir bebas tanpa ada hambatan dari lidah, gigi, atau bibir. Hurufnya ada 3, yaitu: Alif (ا) setelah fathah, Wawu (و) sukun setelah dhammah, dan Ya (ي) sukun setelah kasrah.",
+      "title": "Langkah 1: Memahami Konsep Dasar Makhraj & Area Rongga Mulut (Al-Jauf)",
+      "explanation": "Makhorijul Huruf secara bahasa artinya 'tempat-tempat keluar'. Dalam ilmu Tajwid, makhraj adalah tempat keluarnya suara huruf hijaiyah saat diucapkan. Tempat pertama yang wajib diketahui pemula adalah Al-Jauf (rongga mulut dan tenggorokan). Area ini adalah tempat keluarnya suara panjang (Mad), yaitu Alif (ا) setelah fathah, Wau mati (و) setelah dhommah, dan Ya mati (ي) setelah kasroh.",
       "examples": [
         {
-          "arabic": "قَالَ",
-          "read": "Qoola",
-          "meaning": "Dia telah berkata",
-          "note": "Huruf Alif didahului harakat Fathah. Udara keluar bebas melalui rongga mulut sepanjang 2 harakat."
-        },
-        {
-          "arabic": "يَقُوْلُ",
-          "read": "Yaquulu",
-          "meaning": "Dia sedang berkata",
-          "note": "Huruf Wawu mati didahului Dhammah. Bibir dimajukan/dimonyongkan, suara mengalir dari rongga mulut."
-        },
-        {
-          "arabic": "قِيْلَ",
-          "read": "Qiila",
-          "meaning": "Dikatakan",
-          "note": "Huruf Ya mati didahului Kasrah. Suara mengalir halus dari rongga mulut tanpa tekanan berlebih."
+          "arabic": "نُوحِيهَا",
+          "read": "Nuu - hii - haa",
+          "meaning": "Kami mewahyukannya",
+          "note": "Kata ini memiliki 3 huruf Mad lengkap. Suara keluar meluncur bebas melalui rongga mulut tanpa adanya hambatan pada lidah atau bibir."
         }
       ],
-      "actionTip": "Coba bunyikan suara vokal panjang 'AAAA', 'UUUU', 'IIII' secara santai. Rasakan aliran udara mengalir lurus keluar dari tenggorokan melewati rongga mulut tanpa terhalang lidah."
+      "actionTip": "Coba bunyikan suara panjang 'AAA', 'III', 'UUU' dengan posisi mulut terbuka secara proporsional tanpa menahan lidah di langit-langit."
     },
     {
       "stepNumber": 2,
       "title": "Langkah 2: Menguasai Huruf-Huruf Tenggorokan (Al-Halq)",
-      "explanation": "Al-Halq adalah area tenggorokan. Terdapat 6 huruf yang keluar dari area ini yang dibagi menjadi 3 tingkatan: (1) Pangkal Tenggorokan/Bawah (dekat dada): Hamzah (ء) dan Ha (هـ), (2) Tengah Tenggorokan: 'Ain (ع) dan Ha halus (ح), (3) Ujung Tenggorokan/Atas (dekat akar lidah): Ghain (غ) dan Kha (خ).",
+      "explanation": "Al-Halq adalah area tenggorokan yang menghasilkan 6 huruf hijaiyah. Area ini terbagi menjadi 3 tingkatan: 1) Pangkal Tenggorokan (paling bawah dekat dada): Hamzah (ء) dan Ha (هـ). 2) Tengah Tenggorokan: 'Ain (ع) dan Ha' bersih (ح). 3) Ujung Tenggorokan (paling atas dekat rongga mulut): Ghoin (غ) dan Kho' (خ).",
       "examples": [
         {
-          "arabic": "أَكَلَ",
-          "read": "Akala",
-          "meaning": "Dia telah makan",
-          "note": "Huruf Hamzah (أ) keluar dari pangkal tenggorokan paling dalam, bunyinya tegas dan jelas."
-        },
-        {
-          "arabic": "حَمِدَ",
-          "read": "Hamida",
-          "meaning": "Dia telah memuji",
-          "note": "Huruf Ha (ح) keluar dari tengah tenggorokan, bunyinya bersih dan diiringi hembusan napas halus."
-        },
-        {
           "arabic": "خَلَقَ",
-          "read": "Khalaqa",
+          "read": "Kho - la - qo",
           "meaning": "Dia telah menciptakan",
-          "note": "Huruf Kha (خ) keluar dari tenggorokan atas, ada sedikit getaran / geseran getar halus seperti berkumur."
+          "note": "Huruf Kho' (خ) keluar dari ujung tenggorokan atas, menghasilkan suara sedikit bergeser/ada getaran seperti tenggorokan saat membuang dahak secara halus."
+        },
+        {
+          "arabic": "أَحْمَدُ",
+          "read": "Ah - ma - du",
+          "meaning": "Ahmad (Yang terpuji)",
+          "note": "Huruf Ha' (ح) keluar dari tengah tenggorokan, bersuara bersih dan halus seperti menghembuskan napas segar."
         }
       ],
-      "actionTip": "Lakukan tes suara tenggorokan: Ucapkan 'A-I-U' untuk Hamzah di tenggorokan bawah, lalu ucapkan 'HA-HI-HU' dengan napas bersih seperti saat kegeregetan untuk Ha (ح) di tenggorokan tengah."
+      "actionTip": "Lakukan tes vokal: Bedakan desahan 'Ha' biasa (هـ) yang berat dari dada dengan 'Ha' bersih (ح) yang jernih di tengah tenggorokan."
     },
     {
       "stepNumber": 3,
-      "title": "Langkah 3: Menguasai Area Lidah (Al-Lisan) - Bagian Terbanyak Huruf",
-      "explanation": "Al-Lisan (Lidah) adalah makhraj dengan huruf terbanyak (18 huruf). Agar mudah dipahami pemula, bagi menjadi 4 bagian utama: Pangkal lidah (Qof [ق], Kaf [ك]), Tengah lidah (Jim [ج], Syin [ش], Ya [ي]), Tepi/Sisi lidah (Dhad [ض], Lam [ل]), dan Ujung lidah (Nun [ن], Ro [ر], Tho [ط], Dal [د], Ta [ت], Shod [ص], Sin [س], Zai [ز], Zho [ظ], Dzal [ذ], Tsa [ث]).",
+      "title": "Langkah 3: Menaklukkan Huruf-Huruf Lidah (Al-Lisan)",
+      "explanation": "Al-Lisan (Lidah) adalah area makhraj terbesar yang menghasilkan 18 huruf. Area ini dibagi menjadi: Pangkal lidah (Qof [ق] dan Kaf [ك]), Tengah lidah (Jim [ج], Syin [ش], Ya [ي]), Sisi lidah (Dhod [ض]), serta Ujung lidah yang menyentuh gigi atau gusi (seperti Ta [ت], Dal [د], Tho [ط], Nun [ن], Ro [ر], Lam [ل], Zai [ز], Sin [س], Shod [ص], Tsa [ث], Dzal [ذ], Zho [ظ]).",
       "examples": [
         {
-          "arabic": "قَلَبَ",
-          "read": "Qalaba",
-          "meaning": "Dia membalikkan",
-          "note": "Huruf Qof (ق) keluar dari pangkal lidah paling belakang yang membentur langit-langit lunak. Suaranya tebal."
+          "arabic": "قُلْ",
+          "read": "Qul",
+          "meaning": "Katakanlah",
+          "note": "Huruf Qof (ق) keluar dari pangkal lidah paling belakang yang menempel pada langit-langit lunak (bagian atas dekat anak tekak)."
         },
         {
-          "arabic": "شَكَرَ",
-          "read": "Syakara",
-          "meaning": "Dia bersyukur",
-          "note": "Huruf Syin (ش) keluar dari tengah lidah yang diangkat ke langit-langit, diiringi penyebaran angin di mulut."
-        },
-        {
-          "arabic": "صَبَرَ",
-          "read": "Shabara",
-          "meaning": "Dia bersabar",
-          "note": "Huruf Shod (ص) keluar dari ujung lidah mendekati belakang gigi seri bawah, menghasilkan suara tebal bersiul."
+          "arabic": "كَتَبَ",
+          "read": "Ka - ta - ba",
+          "meaning": "Dia telah menulis",
+          "note": "Huruf Kaf (ك) keluar sedikit di depan posisi Qof, menyentuh langit-langit keras dan mengeluarkan sedikit bisikan angin (Hams)."
         }
       ],
-      "actionTip": "Praktek huruf Tsa (ث), Dzal (ذ), dan Zho (ظ): Keluarkan sedikit saja ujung lidah Anda di antara gigi seri atas dan bawah, lalu hembuskan napas pelan."
+      "actionTip": "Tempelkan ujung lidah Anda ke pangkal gigi seri atas untuk merasakan makhraj huruf Ta (ت) dan Dal (د)."
     },
     {
       "stepNumber": 4,
-      "title": "Langkah 4: Area Bibir (Asy-Syafataain) & Rongga Hidung (Al-Khaysyoom)",
-      "explanation": "Asy-Syafataain adalah makhraj dua bibir yang menghasilkan 4 huruf: Fa (ف - bibir bawah bagian dalam menempel gigi seri atas), Wawu (و - membulatkan kedua bibir), Ba (ب - merapatkan kedua bibir dengan kuat), dan Mim (م - merapatkan dua bibir dengan lembut). Sedangkan Al-Khaysyoom adalah rongga hidung, tempat keluarnya suara dengung (Ghunnah) ketika membaca Nun atau Mim yang bertasydid.",
+      "title": "Langkah 4: Mengenal Huruf Bibir (Asy-Syafataan) & Rongga Hidung (Al-Khaisyum)",
+      "explanation": "Asy-Syafataan artinya dua bibir. Ada 4 huruf yang keluar dari area ini: Fa' (ف - gigi seri atas menyentuh bibir bawah), Ba' (ب - merapatkan kedua bibir), Mim (م - merapatkan kedua bibir dengan lebih ringan), dan Wau (و - membulatkan kedua bibir). Sedangkan Al-Khaisyum (rongga hidung) adalah tempat keluarnya suara dengung (Ghunnah) saat membaca Mim/Nun bertasydid.",
       "examples": [
         {
-          "arabic": "فَتَحَ",
-          "read": "Fataha",
-          "meaning": "Dia membuka",
-          "note": "Huruf Fa (ف) dibaca dengan menempelkan perut bibir bawah ke ujung gigi seri atas."
-        },
-        {
-          "arabic": "مَلَكِ",
-          "read": "Malaki",
-          "meaning": "Raja / Pemilik",
-          "note": "Huruf Mim (م) dibaca dengan menutup/merapatkan kedua bibir atas dan bawah secara halus."
-        },
-        {
-          "arabic": "إِنَّ",
-          "read": "Inna",
-          "meaning": "Sesungguhnya",
-          "note": "Nun bertasydid membunyikan suara mendengung yang getarannya mengalir lewat rongga hidung selama 2 harakat."
+          "arabic": "ثُمَّ",
+          "read": "Tsum - ma",
+          "meaning": "Kemudian",
+          "note": "Huruf Mim bertasydid diucapkan dengan merapatkan bibir dan menahan getaran suara di pangkal hidung (Al-Khaisyum) selama 2 ketukan."
         }
       ],
-      "actionTip": "Gunakan tes hidung: Ucapkan kata 'INNA' lalu picit/tutup hidung Anda saat membacanya. Jika suara langsung terhenti atau berubah gemerisik, berarti makhraj Al-Khaysyoom Anda sudah tepat!"
+      "actionTip": "Pencet hidung Anda saat membaca kata 'Tsumma'. Jika getaran suara terhenti/tersumbat, berarti makhraj Al-Khaisyum Anda sudah tepat!"
     },
     {
       "stepNumber": 5,
-      "title": "Langkah 5: Metode Praktis Uji Mandiri (Sukun Test) & Praktek Ayat",
-      "explanation": "Untuk mengetahui letak pasti makhraj huruf secara mandiri, gunakan 'Metode Sukun Test': Tambahkan huruf Alif berharakat (misal: 'A') di depan huruf yang ingin diuji, lalu berikan harakat Sukun/Mati pada huruf tersebut. Tempat di mana suara atau gerakan organ terhenti, di situlah letak makhraj aslinya. Kemudian aplikasikan langsung pada ayat Al-Qur'an.",
+      "title": "Langkah 5: Metode Cepat Mandiri Menguji Makhraj (Rumus Sukun)",
+      "explanation": "Untuk menemukan lokasi tepat suatu huruf secara mandiri tanpa bingung, gunakan RUMUS SUKUN: Tambahkan huruf Hamzah berharakat Fathah (أَ) di depan huruf yang ingin diuji, lalu berikan harakat Sukun/Mati pada huruf tersebut. Titik di mana suara Anda terhenti secara alami, itulah Makhraj asli dari huruf tersebut!",
       "examples": [
         {
-          "arabic": "قُلْ هُوَ اللّٰهُ أَحَدٌ",
-          "read": "Qul huwal-laahu ahad",
-          "meaning": "Katakanlah: Dialah Allah, Yang Maha Esa",
-          "note": "Qof (ق) dari pangkal lidah, Lam (ل) dari ujung sisi lidah, Ha (هـ) dari pangkal tenggorokan, Dal (د) dipantulkan halus (Qalqalah)."
+          "arabic": "أَبْ",
+          "read": "Ab",
+          "meaning": "Tes Makhraj Huruf Ba",
+          "note": "Saat mengucapkan 'Ab', suara mendadak terhenti di kedua bibir yang tertutup rapat. Ini membuktikan makhraj Ba adalah bibir."
         },
         {
-          "arabic": "اللّٰهُ الصَّمَدُ",
-          "read": "Allaahush-shamad",
-          "meaning": "Allah adalah Tuhan yang bergantung kepada-Nya segala sesuatu",
-          "note": "Shod (ص) tebal di ujung lidah, Mim (م) rapat dua bibir, Dal (د) dari ujung lidah menempel pangkal gigi seri atas."
+          "arabic": "أَعْ",
+          "read": "A' ",
+          "meaning": "Tes Makhraj Huruf 'Ain",
+          "note": "Saat mengucapkan 'A'', Anda merasakan tekanan jepitan halus di tengah tenggorokan."
         }
       ],
-      "actionTip": "Cobalah latih seluruh huruf hijaiyah dengan rumus Sukun Test: 'AB', 'AT', 'AJS', 'AH', 'AKH', 'AD', 'AR', 'AS', 'AQ'... Perhatikan di mana lidah atau bibir Anda bertumpu!"
+      "actionTip": "Praktekkan tes sukun ini pada 5 huruf berbeda secara mandiri: أَتْ (At), أَكْ (Ak), أَسْ (As), أَخْ (Akh), dan أَمْ (Am)."
     }
   ],
   "sections": [
     {
-      "title": "Ringkasan 5 Tempat Utama Keluarnya Huruf (Makharijul Huruf)",
-      "content": "1. Al-Jauf (Rongga Mulut & Tenggorokan): Tempat suara panjang/Mad (ا, و, ي).\n2. Al-Halq (Tenggorokan): 6 Huruf (ء, هـ, ع, ح, غ, خ).\n3. Al-Lisan (Lidah): 18 Huruf (ق, ك, ج, ش, ي, ض, ل, ن, ر, ط, د, ت, ص, س, ز, ظ, ذ, ث).\n4. Asy-Syafataain (Dua Bibir): 4 Huruf (ف, ب, م, و).\n5. Al-Khaysyoom (Rongga Hidung): Tempat keluarnya getaran Dengung (Ghunnah)."
+      "title": "Ringkasan Kaidah Penting: 5 Kelompok Utama Makhraj",
+      "content": "1. Al-Jauf (Rongga Mulut & Tenggorokan): Khusus huruf Mad/Panjang (ا، و، ي).\n2. Al-Halq (Tenggorokan): 6 Huruf (ء، هـ، ع، ح، غ، خ).\n3. Al-Lisan (Lidah): 18 Huruf (ق، ك، ج، ش، ي، ض، ل، ن، ر، ط، د، ت، ص، س، ز، ظ، ذ، ث).\n4. Asy-Syafataan (Dua Bibir): 4 Huruf (ف، ب، م، و).\n5. Al-Khaisyum (Rongga Hidung): Tempat keluarnya getaran Dengung (Ghunnah)."
     }
   ],
   "tips": [
-    "Rumus Uji Kunci: Ucapkan huruf dengan didahului Alif fathah dan disukunkan (contoh: 'AJ' untuk huruf Jim, 'AH' untuk huruf Ha) untuk menemukan titik sentuh makhrajnya.",
-    "Gunakan Cermin: Tatap bibir dan posisi lidah Anda di cermin saat melatih huruf-huruf bibir dan huruf yang mengeluarkan ujung lidah.",
-    "Fokus Ketepatan, Bukan Kecepatan: Bagi pemula, menguaskan posisi makhraj jauh lebih penting daripada membaca dengan cepat.",
-    "Simak Murattal Standar Tajwid: Dengarkan bacaan qori yang jelas dan perlahan (seperti Sheikh Mahmud Khalil Al-Husary) untuk menirukan pengucapan yang benar."
+    "Gunakan Cermin: Saat berlatih huruf-huruf bibir dan lidah, perhatikan bentuk mulut Anda di depan cermin.",
+    "Gunakan Rumus Hamzah + Sukun (أَ + Huruf Mati) untuk memverifikasi tempat keluarnya suara secara mandiri kapan saja.",
+    "Utamakan Kejelasan (Fashohah): Jangan terburu-buru ingin membaca cepat, fokuslah pada ketepatan posisi lidah dan bibir terlebih dahulu.",
+    "Dengarkan Murottal Standar: Simak rekaman Syaikh Mahmud Khalil Al-Hussary yang pelan dan sangat jelas makhrajnya untuk ditirukan."
   ],
-  "summary": "Selamat! Anda telah mempelajari kaidah dasar Makhorijul Huruf secara terstruktur. Menguasai tempat keluarnya huruf adalah fondasi utama agar bacaan Al-Qur'an Anda benar, indah, dan bernilai pahala. Praktikkan rumus Sukun Test setiap hari dan jangan ragu untuk mentasmi'kan (memperdengarkan) bacaan Anda kepada guru atau ustadz terdekat!"
+  "summary": "Selamat! Anda kini telah memahami peta dasar dan cara menemukan Makhorijul Huruf secara mandiri. Kunci utama untuk mahir membaca Al-Qur'an adalah latihan lisan yang konsisten (Riyadhotullisan). Luangkan waktu 10-15 menit setiap hari untuk mempraktekkan rumus sukun pada setiap huruf hijaiyah. Semoga Allah mempermudah langkah Anda menjadi pembaca Al-Qur'an yang fasih dan benar!"
 }
