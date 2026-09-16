@@ -1,134 +1,80 @@
 {
   "profile": {
     "name": "Nasa'ih al-'Ibad (نصائح العباد)",
-    "originalTitle": "نَصَائِحُ الْعِبَادِ عَلَى الْمُنَبِّهَاتِ عَلَى الاسْتِعْدَادِ لِيَوْمِ الْمَعَادِ",
-    "author": "Syekh Abu Abdul Mu'ti Muhammad Nawawi bin Umar al-Jawi al-Bantani",
-    "field": "Tasawwuf / Akhlaq / Syarah Al-Munabbihat",
-    "about": "Kitab Nasa'ih al-'Ibad merupakan karya monumental ulama kenamaan asal Banten, Syekh Nawawi al-Bantani, yang berisi penjelasan (syarah) atas kitab Al-Munabbihat 'ala al-Isti'dad li Yawm al-Ma'ad karya Ibnu Hajar al-Asqalani. Kitab ini memuat petuah spiritual, etika, dan ajaran moral Islam yang disajikan secara sistematis berdasarkan urutan angka (kategori dua perkara hingga sepuluh perkara). Di dalamnya terhimpun ratusan hadis Nabi, atsar para sahabat, serta hikmah dari para ulama salaf yang ditujukan untuk mengetuk kesadaran jiwa manusia. Karya ini menjadi kurikulum utama di pesantren-pesantren tradisional di Nusantara karena bahasanya yang menyentuh, aplikatif, dan kaya akan nilai-nilai penyucian jiwa (tazkiyatun nufs). Melalui sistematika yang rapi, kitab ini membimbing pembaca untuk senantiasa mempersiapkan bekalan terbaik menuju kehidupan akhirat.",
-    "authorBorn": "1230 H / 1815 M di Tanara, Serang, Banten",
-    "authorDied": "1314 H / 1897 M di Makkah al-Mukarramah",
-    "authorCentury": "Abad ke-13 s/d 14 Hijriah (Abad ke-19 Masehi)"
+    "originalTitle": "نَصَائِحُ الْعِبَادِ فِي بَيَانِ الْأَلْفَاظِ الْمُنَبِّهَاتِ عَلَى الِاسْتِعْدَادِ لِيَوْمِ الْمَعَادِ",
+    "author": "Syekh Muhammad Nawawi bin 'Umar al-Jawi al-Bantani (سَيِّدُ عُلَمَاءِ الْحِجَازِ)",
+    "field": "Tasawuf dan Akhlak (التَصَوُّف وَالْأَخْلَاق)",
+    "about": "Kitab Nasa'ih al-'Ibad adalah karya monumental Syekh Nawawi al-Bantani yang merupakan syarah (penjelasan) atas kitab Al-Munabbihat 'ala al-I'ti'dad li Yaum al-Mi'ad karya Al-Hafiz Ibn Hajar al-'Asqalani. Kitab ini berisi susunan nasihat keagamaan, etika, spiritual, dan dorongan persiapan menghadapi hari kiamat. Pengelompokan nasihat dalam kitab ini disusun secara sistematis berdasarkan urutan angka numerik, mulai dari nasihat yang terdiri dari dua perkara hingga sepuluh perkara. Setiap bab menyajikan gabungan antara ayat Al-Qur'an, hadis Nabi SAW, atsar para sahabat, serta mutiara hikmah dari para wali dan ulama salaf. Di pesantren Nusantara, kitab ini menjadi rujukan utama pembelajaran tasawuf tingkat menengah yang sangat disucikan dan dipelajari secara turun-temurun.",
+    "authorBorn": "1230 H / 1815 M (Kampung Tanara, Desa Tanara, Kecamatan Tanara, Kabupaten Serang, Banten)",
+    "authorDied": "1314 H / 1897 M (Ma'la, Makkah al-Mukarramah, Arab Saudi)",
+    "authorCentury": "Abad ke-13 s.d. 14 Hijriah / Abad ke-19 Masehi"
   },
   "chapters": [
     {
-      "title": "Muqaddimah Kitab (Pendahuluan Pembuka)",
-      "titleArabic": "مُقَدِّمَةُ الْمُؤَلِّفِ",
-      "arabic": "بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ. الْحَمْدُ لِلَّهِ الَّذِي هَدَانَا لِهَذَا وَمَا كُنَّا لِنَهْتَدِيَ لَوْلَا أَنْ هَدَانَا اللهُ. وَالصَّلَاةُ وَالسَّلَامُ عَلَى سَيِّدِنَا مُحَمَّدٍ خَيْرِ الأَنَامِ، وَعَلَى آلِهِ وَصَحْبِهِ الْبَرَرَةِ الْكِرَامِ. أَمَّا بَعْدُ: فَهَذَا شَرْحٌ لَطِيفٌ عَلَى الْكِتَابِ الْمُسَمَّى بِالْمُنَبِّهَاتِ عَلَى الاسْتِعْدَادِ لِيَوْمِ الْمَعَادِ لِلشَّيْخِ الإِمَامِ الْحَافِظِ أَهْلِ الزُّهْدِ وَالْوَرَعِ شَهَابِ الدِّينِ أَحْمَدَ بْنِ حَجَرٍ العَسْقَلَانِيِّ.",
-      "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah yang telah menunjuki kami kepada (kebajikan) ini, dan kami tidak akan mendapat petunjuk jikalau Allah tidak menunjuki kami. Shalawat dan salam semoga tercurah kepada junjungan kita Nabi Muhammad, sebaik-baik manusia, serta kepada keluarga dan para sahabatnya yang berbakti lagi mulia. Amma ba'du: Ini adalah penjelas (syarah) ringkas atas kitab yang berjudul 'Al-Munabbihat 'ala al-Isti'dad li Yawm al-Ma'ad' karya Syekh Al-Imam Al-Hafizh yang zuhud dan wara', Shihabuddin Ahmad bin Hajar al-Asqalani."
+      "title": "Muqaddimah (Pendahuluan Kitab)",
+      "titleArabic": "مُقَدِّمَةُ الْكِتَابِ",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي هَدَانَا لِهَذَا وَمَا كُنَّا لِنَهْتَدِيَ لَوْلَا أَنْ هَدَانَا اللَّهُ، وَالصَّلَاةُ وَالسَّلَامُ عَلَى سَيِّدِنَا مُحَمَّدٍ خَيْرِ الْأَنَامِ، وَعَلَى آلِهِ وَأَصْحَابِهِ الْبَرَرَةِ الْكِرَامِ. أَمَّا بَعْدُ: فَهَذَا شَرْحٌ لَطِيفٌ عَلَى الْكِتَابِ الْمُسَمَّى بِـ (الْمُنَبِّهَاتِ عَلَى الِاسْتِعْدَادِ لِيَوْمِ الْمَعَادِ) لِلشَّيْخِ الْإِمَامِ الْحَافِظِ أَهْمَدَ بْنِ عَلِيِّ بْنِ حَجَرٍ الْعَسْقَلَانِيِّ تَغَمَّدَهُ اللَّهُ بِرَحْمَتِهِ، سَمَّيْتُهُ (نَصَائِحَ الْعِبَادِ فِي بَيَانِ الْأَلْفَاظِ الْمُنَبِّهَاتِ عَلَى الِاسْتِعْدَادِ لِيَوْمِ الْمَعَادِ).",
+      "translation": "Segala puji bagi Allah yang telah menunjuki kami kepada (kenikmatan) ini, dan kami tidak akan mendapat petunjuk jikalau Allah tidak menunjuki kami. Shalawat serta salam semoga tercurah kepada junjungan kita Nabi Muhammad SAW, sebaik-baik manusia, beserta keluarga dan para sahabatnya yang berbakti lagi mulia. Amma ba'du: Ini adalah penjelasan ringkas (syarah) atas kitab yang bernama 'Al-Munabbihat 'ala al-I'ti'dad li Yaum al-Mi'ad' karya Syekh Al-Imam Al-Hafizh Ahmad bin Ali bin Hajar al-'Asqalani, semoga Allah melimpahkan rahmat-Nya kepadanya. Aku menamai kitab ini 'Nasa'ih al-'Ibad fi Bayan al-Alfazh al-Munabbihat 'ala al-I'ti'dad li Yaum al-Mi'ad'."
     },
     {
-      "title": "Bab I: Nasihat Dua Perkara (Khashlatani) - Poin 1: Imbalan Kebaikan dan Kejahatan",
-      "titleArabic": "الْبَابُ الأَوَّلُ: فِي النَّصَائِحِ الثُّنَائِيَّةِ - المَقَالَةُ الأُولَى",
-      "arabic": "الْمَقَالَةُ الأُولَى: خَصْلَتَانِ لاَ شَيْءَ أَفْضَلُ مِنْهُمَا: الإِيمَانُ بِاللهِ، وَالنَّفْعُ لِلْمُسْلِمِينَ. وَخَصْلَتَانِ لاَ شَيْءَ أَخْبَثُ مِنْهُمَا: الشِّرْكُ بِاللهِ، وَالضَّرُّ بِالْمُسْلِمِينَ.",
-      "translation": "Nasihat Pertama: Dua perkara yang tidak ada sesuatu pun lebih utama dari keduanya: beriman kepada Allah dan memberikan manfaat kepada sesama muslim. Dan dua perkara yang tidak ada sesuatu pun lebih buruk dari keduanya: mempersekutukan Allah dan memudaratkan (mencelakai) sesama muslim."
+      "title": "Bab Pertama: Nasihat Berpasangan (Dua Perkara)",
+      "titleArabic": "الْبَابُ الْأَوَّلُ: فِي الْمُنَاصَحَاتِ الثُّنَائِيَّةِ",
+      "arabic": "الْبَابُ الْأَوَّلُ فِي الْمَوَاعِظِ الثُّنَائِيَّةِ، وَفِيهِ ثَلَاثُونَ حَدِيثًا وَأَثَرًا. مِنْهَا: خَصْلَتَانِ لَا شَيْءَ أَفْضَلُ مِنْهُمَا: الْإِيمَانُ بِاللَّهِ، وَالنَّفْعُ لِلْمُسْلِمِينَ. وَخَصْلَتَانِ لَا شَيْءَ أَخْبَثُ مِنْهُمَا: الشِّرْكُ بِاللَّهِ، وَالضَّرَرُ بِالْمُسْلِمِينَ. وَقِيلَ: جَالِسُوا الْعُلَمَاءَ وَاسْتَمِعُوا كَلَامَ الْحُكَمَاءِ، فَإِنَّ اللَّهَ تَعَالَى يُحْيِي الْقَلْبَ الْمَيِّتَ بِنُورِ الْحِكْمَةِ كَمَا يُحْيِي الْأَرْضَ الْمَيْتَةَ بِمَاءِ الْمَطَرِ.",
+      "translation": "Bab Pertama memuat nasihat-nasihat yang terdiri dari dua perkara (pasangan), yang mencakup 30 hadis dan atsar. Di antaranya: Dua perkara yang tidak ada sesuatu pun lebih utama dari keduanya, yaitu: beriman kepada Allah dan memberi manfaat kepada kaum muslimin. Dan dua perkara yang tidak ada sesuatu pun lebih buruk dari keduanya, yaitu: menyekutukan Allah dan menimpakan bahaya kepada kaum muslimin. Dan dikatakan: Duduklah bersama para ulama dan dengarkanlah perkataan para ahli hikmah, karena sesungguhnya Allah Ta'ala menghidupkan hati yang mati dengan cahaya hikmah sebagaimana Dia menghidupkan bumi yang mati dengan air hujan."
     },
     {
-      "title": "Bab I: Nasihat Dua Perkara - Poin 2: Keutamaan Majelis Ilmu & Perjumpaan Orang Saleh",
-      "titleArabic": "الْبَابُ الأَوَّلُ: فِي النَّصَائِحِ الثُّنَائِيَّةِ - المَقَالَةُ الثَّانِيَةُ",
-      "arabic": "المَقَالَةُ الثَّانِيَةُ: عَلَيْكُمْ بِمُجَالَسَةِ الْعُلَمَاءِ وَاسْتِمَاعِ كَلاَمِ الْحُكَمَاءِ، فَإِنَّ اللهَ تَعَالَى يُحْيِي الْقَلْبَ الْمَيِّتَ بِنُورِ الْحِكْمَةِ كَمَا يُحْيِي الأَرْضَ الْمَيْتَةَ بِمَاءِ المَطَرِ.",
-      "translation": "Nasihat Kedua: Hendaklah kalian selalu duduk bersama para ulama dan mendengarkan perkataan orang-orang bijak (hukama), karena sesungguhnya Allah Ta'ala menghidupkan hati yang mati dengan cahaya hikmah sebagaimana Dia menghidupkan tanah yang tandus dengan air hujan."
+      "title": "Bab Kedua: Nasihat Tiga Perkara",
+      "titleArabic": "الْبَابُ الثَّانِي: فِي الْمَوَاعِظِ الثُّلَاثِيَّةِ",
+      "arabic": "الْبَابُ الثَّانِي فِي الْمَوَاعِظِ الثُّلَاثِيَّةِ، وَفِيهِ ثَلَاثُونَ حَدِيثًا وَأَثَرًا. مِنْهَا: ثَلَاثٌ مُنْجِيَاتٌ وَثَلَاثٌ مُهْلِكَاتٌ. فَأَمَّا الْمُنْجِيَاتُ: فَالْعَدْلُ فِي الرِّضَا وَالْغَضَبِ، وَالْقَصْدُ فِي الْفَقْرِ وَالْغِنَى، وَخَشْيَةُ اللَّهِ فِي السِّرِّ وَالْعَلَانِيَةِ. وَأَمَّا الْمُهْلِكَاتُ: فَشُحٌّ مُطَاعٌ، وَهَوًى مُتَّبَعٌ، وَإِعْجَابُ الْمَرْءِ بِنَفْسِهِ.",
+      "translation": "Bab Kedua memuat nasihat-nasihat yang terdiri dari tiga perkara, mencakup 30 hadis dan atsar. Di antaranya: Tiga hal yang menyelamatkan dan tiga hal yang membinasakan. Adapun tiga hal yang menyelamatkan yaitu: bersikap adil baik saat rida maupun marah, bersikap hemat/sederhana baik saat miskin maupun kaya, dan takut kepada Allah baik dalam keadaan tersembunyi maupun terang-terangan. Adapun tiga hal yang membinasakan yaitu: sifat kikir yang dituruti, hawa nafsu yang diiukuti, dan rasa kagum seseorang terhadap dirinya sendiri (ujub)."
     },
     {
-      "title": "Bab I: Nasihat Dua Perkara - Poin 3: Tanda Kemuliaan Dunia dan Akhirat",
-      "titleArabic": "الْبَابُ الأَوَّلُ: فِي النَّصَائِحِ الثُّنَائِيَّةِ - المَقَالَةُ الثَّالِثَةُ",
-      "arabic": "المَقَالَةُ الثَّالِثَةُ: إِذَا أَرَادَ اللهُ بِعَبْدٍ خَيْرًا اسْتَعْمَلَهُ فِي الزَّمَانِ الفَاضِلِ بِالأَعْمَالِ الفَاضِلَةِ، وَإِذَا أَرَادَ بِهِ شَرًّا اسْتَعْمَلَهُ فِي الزَّمَانِ الفَاضِلِ بِالأَعْمَالِ السَّيِّئَةِ.",
-      "translation": "Nasihat Ketiga: Apabila Allah menghendaki kebaikan pada seorang hamba, Dia akan menggunakannya pada waktu yang mulia untuk beramal saleh. Dan apabila Allah menghendaki keburukan padanya, Dia akan menggunakannya pada waktu yang mulia untuk melakukan perbuatan jahat."
+      "title": "Bab Ketiga: Nasihat Empat Perkara",
+      "titleArabic": "الْبَابُ الثَّالِثُ: فِي الْمَوَاعِظِ الرُّبَاعِيَّةِ",
+      "arabic": "الْبَابُ الثَّالِثُ فِي الْمَوَاعِظِ الرُّبَاعِيَّةِ، وَفِيهِ ثَلَاثُونَ حَدِيثًا وَأَثَرًا. مِنْهَا: أَرْبَعَةٌ مِنَ الْجَوَاهِرِ فِي جِسْمِ بَنِي آدَمَ يُزِيلُهَا أَرْبَعَةُ أَشْيَاءَ: فَالْجَوْهَرَةُ الْأُولَى الْعَقْلُ وَيُزِيلُهُ الْغَضَبُ، وَالثَّانِيَةُ الدِّينُ وَيُزِيلُهُ الْحَسَدُ، وَالثَّالِثَةُ الْحَيَاءُ وَيُزِيلُهُ الطَّمَعُ، وَالرَّابِعَةُ الْعَمَلُ الصَّالِحُ وَتُزِيلُهُ الْغِيبَةُ.",
+      "translation": "Bab Ketiga memuat nasihat-nasihat yang terdiri dari empat perkara, mencakup 30 hadis dan atsar. Di antaranya: Ada empat permata dalam tubuh anak cucu Adam yang dapat dihilangkan oleh empat hal: Permata pertama adalah akal dan dipadamkan oleh amarah; permata kedua adalah agama dan dihilangkan oleh dengki (hasad); permata ketiga adalah rasa malu dan dihilangkan oleh ketakserakahan (tamak); dan permata keempat adalah amal saleh dan dihilangkan oleh pengumpatan (ghibah)."
     },
     {
-      "title": "Bab II: Nasihat Tiga Perkara (Thulathiyyah) - Poin 1: Tiga Kebajikan Penyempurna Iman",
-      "titleArabic": "الْبَابُ الثَّانِي: فِي النَّصَائِحِ الثُّلَاثِيَّةِ - المَقَالَةُ الأُولَى",
-      "arabic": "المَقَالَةُ الأُولَى: ثَلاَثٌ مَنْ كُنَّ فِيهِ وَجَدَ حَلاَوَةَ الإِيمَانِ: أَنْ يَكُونَ اللهُ وَرَسُولُهُ أَحَبَّ إِلَيْهِ مِمَّا سِوَاهُمَا، وَأَنْ يُحِبَّ المَرْءَ لاَ يُحِبُّهُ إِلاَّ لِلَّهِ، وَأَنْ يَكْرَهَ أَنْ يَعُودَ فِي الكُفْرِ كَمَا يَكْرَهُ أَنْ يُقْذَفَ فِي النَّارِ.",
-      "translation": "Nasihat Pertama: Tiga hal yang barangsiapa memilikinya, ia akan merasakan manisnya iman: hendaklah Allah dan Rasul-Nya lebih dicintainya daripada selain keduanya, hendaklah ia mencintai seseorang semata-mata karena Allah, dan hendaklah ia benci untuk kembali kepada kekufuran sebagaimana ia benci dilemparkan ke dalam api neraka."
+      "title": "Bab Keempat: Nasihat Lima Perkara",
+      "titleArabic": "الْبَابُ الرَّابِعُ: فِي الْمَوَاعِظِ الْخُمَاسِيَّةِ",
+      "arabic": "الْبَابُ الرَّابِعُ فِي الْمَوَاعِظِ الْخُمَاسِيَّةِ، وَفِيهِ ثَلَاثُونَ حَدِيثًا وَأَثَرًا. مِنْهَا: اغْتَنِمْ خَمْسًا قَبْلَ خَمْسٍ: شَبَابَكَ قَبْلَ هَرَمِكَ، وَصِحَّتَكَ قَبْلَ سَقَمِكَ، وَغِنَاكَ قَبْلَ فَقْرِكَ، وَفَرَاغَكَ قَبْلَ شُغْلِكَ، وَحَيَاتَكَ قَبْلَ مَوْتِكَ.",
+      "translation": "Bab Keempat memuat nasihat-nasihat yang terdiri dari lima perkara, mencakup 30 hadis dan atsar. Di antaranya: Manfaatkanlah lima perkara sebelum datang lima perkara: masa mudamu sebelum masa tuamu, sehatmu sebelum sakitmu, kayamu sebelum miskinmu, waktu luangmu sebelum waktu sibukmu, dan hidupmu sebelum matimu."
     },
     {
-      "title": "Bab II: Nasihat Tiga Perkara - Poin 2: Tiga Kunci Keselamatan Hati",
-      "titleArabic": "الْبَابُ الثَّانِي: فِي النَّصَائِحِ الثُّلَاثِيَّةِ - المَقَالَةُ الثَّانِيَةُ",
-      "arabic": "المَقَالَةُ الثَّانِيَةُ: ثَلاَثٌ مُنْجِيَاتٌ: خَشْيَةُ اللهِ فِي السِّرِّ وَالعَلاَنِيَةِ، وَالقَصْدُ فِي الفَقْرِ وَالغِنَى، وَالعَدْلُ فِي الرِّضَا وَالَغَضَبِ.",
-      "translation": "Nasihat Kedua: Tiga perkara yang menyelamatkan: takut kepada Allah baik dalam keadaan tersembunyi maupun terang-terangan, bersikap sederhana baik saat miskin maupun kaya, dan berlaku adil baik dalam keadaan ridha maupun marah."
+      "title": "Bab Kelima: Nasihat Enam Perkara",
+      "titleArabic": "الْبَابُ الْخَامِسُ: فِي الْمَوَاعِظِ السُّدَاسِيَّةِ",
+      "arabic": "الْبَابُ الْخَامِسُ فِي الْمَوَاعِظِ السُّدَاسِيَّةِ، وَفِيهِ ثَلَاثُونَ حَدِيثًا وَأَثَرًا. مِنْهَا: سِتَّةٌ غُرَبَاءُ فِي سِتَّةِ مَوَاضِعَ: الْمَسْجِدُ غَرِيبٌ فِيمَا بَيْنَ قَوْمٍ لَا يُصَلُّونَ فِيهِ، وَالْمُصْحَفُ غَرِيبٌ فِي مَنْزِلِ قَوْمٍ لَا يَقْرَءُونَ فِيهِ، وَالْقُرْآنُ غَرِيبٌ فِي جَوْفِ الْفَاسِقِ، وَالْمَرْأَةُ الصَّالِحَةُ غَرِيبَةٌ فِي يَدِ رَجُلٍ ظَالِمٍ، وَالرَّجُلُ الصَّالِحُ غَرِيبٌ فِي يَدِ امْرَأَةٍ رَدِيَّئَةٍ، وَالْعَالِمُ غَرِيبٌ بَيْنَ قَوْمٍ لَا يَسْتَمِعُونَ إِلَيْهِ.",
+      "translation": "Bab Kelima memuat nasihat-nasihat yang terdiri dari enam perkara, mencakup 30 hadis dan atsar. Di antaranya: Ada enam golongan terasing di enam tempat: masjid terasing di tengah kaum yang tidak shalat di dalamnya, mushaf Al-Qur'an terasing di rumah kaum yang tidak membacanya, Al-Qur'an terasing dalam dada orang fasik, wanita salehah terasing di tangan suami yang zalim, pria saleh terasing di tangan istri yang buruk akhlaknya, dan seorang alim terasing di tengah kaum yang tidak mau mendengarkan nasihatnya."
     },
     {
-      "title": "Bab II: Nasihat Tiga Perkara - Poin 3: Tiga Pembinasa Manusia",
-      "titleArabic": "الْبَابُ الثَّانِي: فِي النَّصَائِحِ الثُّلَاثِيَّةِ - المَقَالَةُ الثَّالِثَةُ",
-      "arabic": "المَقَالَةُ الثَّالِثَةُ: ثَلاَثٌ مُهْلِكَاتٌ: شُحٌّ مُطَاعٌ، وَهَوًى مُتَّبَعٌ، وَإِعْجَابُ المَرْءِ بِنَفْسِهِ.",
-      "translation": "Nasihat Ketiga: Tiga perkara yang membinasakan: sifat kikir yang dituruti, hawa nafsu yang diikuti, dan rasa kagum seseorang terhadap dirinya sendiri (ujub)."
+      "title": "Bab Keenam: Nasihat Tujuh Perkara",
+      "titleArabic": "الْبَابُ السَّادِسُ: فِي الْمَوَاعِظِ السَّبَاعِيَّةِ",
+      "arabic": "الْبَابُ السَّادِسُ فِي الْمَوَاعِظِ السَّبَاعِيَّةِ، وَفِيهِ عِشْرُونَ حَدِيثًا وَأَثَرًا. مِنْهَا: سَبْعَةٌ يُظِلُّهُمُ اللَّهُ فِي ظِلِّهِ يَوْمَ لَا ظِلَّ إِلَّا ظِلُّهُ: إِمَامٌ عَادِلٌ، وَشَابٌّ نَشَأَ فِي عِبَادَةِ اللَّهِ، وَرَجُلٌ قَلْبُهُ مُعَلَّقٌ بِالْمَسَاجِدِ، وَرَجُلَانِ تَحَابَّا فِي اللَّهِ اجْتَمَعَا عَلَيْهِ وَتَفَرَّقَا عَلَيْهِ، وَرَجُلٌ دَعَتْهُ امْرَأَةٌ ذَاتُ مَنْصِبٍ وَجَمَالٍ فَقَالَ إِنِّي أَخَافُ اللَّهَ، وَرَجُلٌ تَصَدَّقَ بِصَدَقَةٍ فَأَخْفَاهَا حَتَّى لَا تَعْلَمَ شِمَالُهُ مَا تُنْفِقُ يَمِينُهُ، وَرَجُلٌ ذَكَرَ اللَّهَ خَالِيًا فَفَاضَتْ عَيْنَاهُ.",
+      "translation": "Bab Keenam memuat nasihat-nasihat yang terdiri dari tujuh perkara, mencakup 20 hadis dan atsar. Di antaranya: Ada tujuh golongan yang dinaungi Allah dalam naungan-Nya pada hari tidak ada naungan selain naungan-Nya: pemimpin yang adil, pemuda yang tumbuh dalam beribadah kepada Allah, seseorang yang hatinya terpaut dengan masjid, dua orang yang saling mencintai karena Allah—mereka berkumpul dan berpisah karena-Nya, pria yang diajak zina oleh wanita berkedudukan dan berparas cantik lalu berkata 'Aku takut kepada Allah', orang yang bersedekah secara sembunyi-sembunyi hingga tangan kirinya tidak tahu apa yang diinfakkan oleh tangan kanannya, dan seseorang yang mengingat Allah di kala sunyi lalu berlinang air matanya."
     },
     {
-      "title": "Bab III: Nasihat Empat Perkara (Ruba'iyyah) - Poin 1: Empat Mutiara Tubuh",
-      "titleArabic": "الْبَابُ الثَّالِثُ: فِي النَّصَائِحِ الرُّبَاعِيَّةِ - المَقَالَةُ الأُولَى",
-      "arabic": "المَقَالَةُ الأُولَى: أَرْبَعَةُ جَوَاهِرَ فِي جِسْمِ بَنِي آدَمَ يُزِيلُهَا أَرْبَعَةُ أَشْيَاءَ: الجَوْهَرُ الأَوَّلُ العَقْلُ وَيُزِيلُهُ الغَضَبُ، وَالثَّانِي الدِّينُ وَيُزِيلُهُ الحَسَدُ، وَالثَّالِثُ الحَيَاءُ وَيُزِيلُهُ الطَّمَعُ، وَالرَّابِعُ العَمَلُ الصَّالِحُ وَتُزِيلُهُ الغِيبَةُ.",
-      "translation": "Nasihat Pertama: Ada empat permata dalam tubuh anak Adam yang dapat dihilangkan oleh empat perkara: Permata pertama adalah akal dan dihilangkan oleh amarah; kedua adalah agama dan dihilangkan oleh dengki (hasad); ketiga adalah rasa malu dan dihilangkan oleh ketakutan akan harta (tamak); keempat adalah amal saleh dan dihilangkan oleh gunjingan (ghibah)."
+      "title": "Bab Ketujuh: Nasihat Delapan Perkara",
+      "titleArabic": "الْبَابُ السَّابِعُ: فِي الْمَوَاعِظِ الثَّمَانِيَّةِ",
+      "arabic": "الْبَابُ السَّابِعُ فِي الْمَوَاعِظِ الثَّمَانِيَّةِ، وَفِيهِ عِشْرُونَ حَدِيثًا وَأَثَرًا. مِنْهَا: مَنْ قَصَدَ أَبْوَابَ المُلُوكِ بِغَيْرِ طَاعَةٍ وَقَعَ فِي الْبَلَاءِ، وَمَنْ أَتَى ثَمَانِيَةً فَمُقِتَ فَلَا يَلُومَنَّ إِلَّا نَفْسَهُ: الآتِي إِلَى طَعَامٍ لَمْ يُدْعَ إِلَيْهِ، وَالآمِرُ عَلَى رَبِّ الْبَيْتِ فِي بَيْتِهِ، وَالْمُتَطَلِّعُ عَلَى سِرِّ غَيْرِهِ، وَالْمُتَقَرِّبُ إِلَى السَّلَاطِينِ، وَالْجَالِسُ فِي مَجْلِسٍ لَيْسَ لَهُ بِأَهْلٍ، وَالْمُتَكَلِّمُ بَيْنَ اثْنَيْنِ لَمْ يُدْخِلَاهُ فِي حَدِيثِهِمَا، وَالْمُسْتَخِفُّ بِالسُّلْطَانِ، وَالْمُسْتَهْزِئُ بِالْعُلَمَاءِ.",
+      "translation": "Bab Ketujuh memuat nasihat-nasihat yang terdiri dari delapan perkara, mencakup 20 hadis dan atsar. Di antaranya: Barang siapa mendatangi delapan tempat ini lalu dicela, maka janganlah ia menyalahkan melainkan dirinya sendiri: Orang yang mendatangi undangan makan yang ia tidak diundang, orang yang memerintah pemilik rumah di rumahnya sendiri, orang yang mengintip rahasia orang lain, orang yang mencari muka kepada para penguasa, orang yang duduk di majelis yang bukan hak/keahliannya, orang yang memotong pembicaraan dua orang padahal tidak diikutsertakan, orang yang meremehkan pemerintah, dan orang yang mengolok-olok para ulama."
     },
     {
-      "title": "Bab III: Nasihat Empat Perkara - Poin 2: Empat Tanda Celaka",
-      "titleArabic": "الْبَابُ الثَّالِثُ: فِي النَّصَائِحِ الرُّبَاعِيَّةِ - المَقَالَةُ الثَّانِيَةُ",
-      "arabic": "المَقَالَةُ الثَّانِيَةُ: مِنْ عَلاَمَاتِ الشَّقَاوَةِ أَرْبَعَةٌ: جُمُودُ العَيْنِ، وَقَسَاوَةُ القَلْبِ، وَطُولُ الأَمَلِ، وَالْحِرْصُ عَلَى الدُّنْيَا.",
-      "translation": "Nasihat Kedua: Di antara tanda-tanda kecelakaan ada empat: keringnya air mata (tidak pernah menangis karena takut pada Allah), kerasnya hati, panjang angan-angan, dan keranjingan/sangat tamak terhadap dunia."
+      "title": "Bab Kedelapan: Nasihat Sembilan Perkara",
+      "titleArabic": "الْبَابُ الثَّامِنُ: فِي الْمَوَاعِظِ التِّسْعَاوِيَّةِ",
+      "arabic": "الْبَابُ الثَّامِنُ فِي الْمَوَاعِظِ التِّسْعَاوِيَّةِ، وَفِيهِ عِشْرُونَ حَدِيثًا وَأَثَرًا. مِنْهَا: كَتَبَ اللَّهُ تَعَالَى عَلَى ابْنِ آدَمَ تِسْعَةً وَتِسْعِينَ مَنِيَّةً، فَإِنْ خَطَأَتْهُ الْمَنَايَا وَقَعَ فِي الْهَرَمِ حَتَّى يَمُوتَ. وَقِيلَ: التَّوْبَةُ النَّصُوحُ مَبْنِيَّةٌ عَلَى تِسْعِ خِصَالٍ: نَدَمٌ بِالْقَلْبِ، وَاسْتِغْفَارٌ بِاللِّسَانِ، وَإِقْلَاعٌ بِالْبَدَنِ، وَعَزْمٌ عَلَى عَدَمِ الْعَوْدِ، وَمَخَافَةٌ مِنَ الْعِقَابِ، وَرَجَاءٌ لِلرَّحْمَةِ، وَتَدَارُكٌ لِلْمَظَالِمِ، وَبُغْضٌ لِلذَّنْبِ، وَحُبٌّ لِلطَّاعَةِ.",
+      "translation": "Bab Kedelapan memuat nasihat-nasihat yang terdiri dari sembilan perkara, mencakup 20 hadis dan atsar. Di antaranya: Dituliskan bahwa tobat nasuha dibagun atas sembilan hal: Penyesalan di dalam hati, memohon ampunan dengan lidah, mencabut diri dari maksiat dengan badan, bertekad tidak akan mengulangi, merasa takut akan siksaan, berharap akan rahmat, mengembalikan kezaliman/kesalahan kepada pemiliknya, membenci dosa, dan mencintai ketaatan."
     },
     {
-      "title": "Bab III: Nasihat Empat Perkara - Poin 3: Empat Perkara yang Menggelapkan Hati",
-      "titleArabic": "الْبَابُ الثَّالِثُ: فِي النَّصَائِحِ الرُّبَاعِيَّةِ - المَقَالَةُ الثَّالِثَةُ",
-      "arabic": "المَقَالَةُ الثَّالِثَةُ: أَرْبَعَةٌ تُظْلِمُ القَلْبَ: بَطْنٌ شَبْعَانُ مِنْ غَيْرِ اكْتِيَارٍ، وَصُحْبَةُ الظَّالِمِينَ، وَنِسْيَانُ الذُّنُوبِ المَاضِيَةِ، وَطُولُ الأَمَلِ.",
-      "translation": "Nasihat Ketiga: Empat perkara yang membuat hati menjadi gelap: perut yang terlalu kenyang tanpa kepedulian halal-haram, bergaul dengan orang-orang zalim, melupakan dosa-dosa yang telah lalu, dan terlalu panjang angan-angan."
+      "title": "Bab Kesembilan: Nasihat Sepuluh Perkara",
+      "titleArabic": "الْبَابُ التَّاسِعُ: فِي الْمَوَاعِظِ الْعُشَارِيَّةِ",
+      "arabic": "الْبَابُ التَّاسِعُ فِي الْمَوَاعِظِ الْعُشَارِيَّةِ، وَفِيهِ ثَلَاثُونَ حَدِيثًا وَأَثَرًا. مِنْهَا: مَنْ صَلَّى عَلَيَّ صَلَاةً وَاحِدَةً صَلَّى اللَّهُ عَلَيْهِ عَشْرًا. وَمِنْهَا: عَشَرَةٌ لَا يَقْبَلُ اللَّهُ صَلَاتَهُمْ: الرَّجُلُ يُصَلِّي وَحْدَهُ بِغَيْرِ قِرَاءَةٍ، وَالرَّجُلُ لَا يُؤَدِّي الزَّكَاةَ، وَالرَّجُلُ يَقُودُ الْأَعْمَى بِغَيْرِ هِدَايَةٍ، وَالرَّجُلُ يَأْمُرُ بِالْمَعْرُوفِ وَلَا يَفْعَلُهُ، وَالرَّجُلُ يَنْهَى عَنِ الْمُنْكَرِ وَيَفْعَلُهُ، وَالْمَرْأَةُ السَّاLine فِي غَضَبِ زَوْجِهَا، وَالْعَبْدُ الآبِقُ، وَالشَّارِبُ الْخَمْرِ، وَالْعَاقُّ لِوَالِدَيْهِ، وَآكِلُ الرِّبَا.",
+      "translation": "Bab Kesembilan memuat nasihat-nasihat yang terdiri dari sepuluh perkara, mencakup 30 hadis dan atsar. Di antaranya: Barang siapa bershalawat kepadaku satu kali, niscaya Allah memberi shalawat (rahmat) kepadanya sepuluh kali. Dan di antaranya: Sepuluh golongan yang shalatnya tidak diterima oleh Allah: Orang yang shalat sendiri tanpa membaca ayat Al-Qur'an, orang yang tidak menunaikan zakat, orang yang menuntun orang buta tanpa memberi arah yang benar, orang yang menyuruh kebaikan tapi ia tidak melakukannya, orang yang melarang kemungkaran namun ia mengerjakannya, wanita yang tidur saat suaminya marah padanya, budak yang lari dari tuannya, peminum khamar, anak yang durhaka kepada orang tuanya, dan pemakan riba."
     },
     {
-      "title": "Bab IV: Nasihat Lima Perkara (Khumasiyyah) - Poin 1: Lima Kesempatan Sebelum Kesempitan",
-      "titleArabic": "الْبَابُ الرَّابِعُ: فِي النَّصَائِحِ الْخُمَاسِيَّةِ - المَقَالَةُ الأُولَى",
-      "arabic": "المَقَالَةُ الأُولَى: اغْتَنِمْ خَمْسًا قَبْلَ خَمْسٍ: حَيَاتَكَ قَبْلَ مَوْتِكَ، وَصِحَّتَكَ قَبْلَ سَقَمِكَ، وَفَرَاغَكَ قَبْلَ شُغْلِكَ، وَشَبَابَكَ قَبْلَ هَرَمِكَ، وَغِنَاكَ قَبْلَ فَقْرِكَ.",
-      "translation": "Nasihat Pertama: Manfaatkanlah lima perkara sebelum datang lima perkara: hidupmu sebelum matimu, sehatmu sebelum sakitmu, waktu luangmu sebelum kesibukanmu, mudamu sebelum tuamu, dan kayamu sebelum miskinmu."
-    },
-    {
-      "title": "Bab IV: Nasihat Lima Perkara - Poin 2: Lima Obat Pembersih Hati",
-      "titleArabic": "الْبَابُ الرَّابِعُ: فِي النَّصَائِحِ الْخُمَاسِيَّةِ - المَقَالَةُ الثَّانِيَةُ",
-      "arabic": "المَقَالَةُ الثَّانِيَةُ: دَوَاءُ القَلْبِ خَمْسَةُ أَشْيَاءَ: قِرَاءَةُ القُرْآنِ بِالتَّدَبُّرِ، وَخُلُوُّ البَطْنِ، وَقِيَامُ اللَّيْلِ، وَالتَّضَرُّعُ عِنْدَ السَّحَرِ، وَمُجَالَسَةُ الصَّالِحِينَ.",
-      "translation": "Nasihat Kedua: Obat hati ada lima perkara: membaca Al-Qur'an disertai perenungan maknanya, mengosongkan perut (berpuasa/tidak berlebihan), beribadah di malam hari (qiyamul lail), merendahkan diri berdoa di waktu sahur, dan duduk berkumpul bersama orang-orang saleh."
-    },
-    {
-      "title": "Bab V: Nasihat Enam Perkara (Sudasiyyah) - Poin 1: Enam Pelebur Kebajikan",
-      "titleArabic": "الْبَابُ الْخَامِسُ: فِي النَّصَائِحِ السُّدَاسِيَّةِ - المَقَالَةُ الأُولَى",
-      "arabic": "المَقَالَةُ الأُولَى: سِتَّةٌ تُسْقِطُ الأَعْمَالَ: الِاشْتِغَالُ بِعُيُوبِ الْخَلْقِ، وَقَسْوَةُ الْقَلْبِ، وَحُبُّ الدُّنْيَا، وَقِلَّةُ الْحَيَاءِ، وَطُولُ الأَمَلِ، وَظُلْمٌ لاَ يَنْتَهِي.",
-      "translation": "Nasihat Pertama: Enam hal yang dapat menggugurkan nilai-nilai kebaikan/amal: sibuk mencari keburukan/aib orang lain, hatinya keras, cinta dunia berlebihan, sedikit rasa malu, panjang angan-angan, serta kezaliman yang tidak pernah berhenti."
-    },
-    {
-      "title": "Bab V: Nasihat Enam Perkara - Poin 2: Enam Kunci Keberkahan Hidup",
-      "titleArabic": "الْبَابُ الْخَامِسُ: فِي النَّصَائِحِ السُّدَاسِيَّةِ - المَقَالَةُ الثَّانِيَةُ",
-      "arabic": "المَقَالَةُ الثَّانِيَةُ: لاَ تَكْمُلُ عِبَادَةُ العَبْدِ إِلاَّ بِسِتَّةِ أَشْيَاءَ: العِلْمُ بِاللهِ، وَالعِلْمُ بِأَمْرِ اللهِ، وَالعِلْمُ بِنَهْيِ اللهِ، وَالعِلْمُ بِعَدُوِّ اللهِ، وَالعِلْمُ بِنَفْسِهِ، وَالعِلْمُ بِعَمَلِهِ.",
-      "translation": "Nasihat Kedua: Tidaklah sempurna ibadah seorang hamba kecuali dengan enam perkara: mengenal Allah, mengetahui perintah Allah, mengetahui larangan Allah, mengenal musuh Allah (setan/nafsu), mengenali kelemahan dirinya sendiri, serta memahami landasan amalnya."
-    },
-    {
-      "title": "Bab VI: Nasihat Tujuh Perkara (Suba'iyyah) - Poin 1: Tujuh Golongan di Bawah Naungan Arasy",
-      "titleArabic": "الْبَابُ السَّادِسُ: فِي النَّصَائِحِ السَّبَاعِيَّةِ - المَقَالَةُ الأُولَى",
-      "arabic": "المَقَالَةُ الأُولَى: سَبْعَةٌ يُظِلُّهُمُ اللهُ فِي ظِلِّهِ يَوْمَ لاَ ظِلَّ إِلاَّ ظِلُّهُ: الإِمَامُ العَادِلُ، وَشَابٌّ نَشَأَ فِي عِبَادَةِ اللهِ، وَرَجُلٌ قَلْبُهُ مُعَلَّقٌ بِالمَسَاجِدِ، وَرَجُلاَنِ تَحَابَّا فِي اللهِ، وَرَجُلٌ دَعَتْهُ امْرَأَةٌ ذَاتُ مَنْصِبٍ وَجَمَالٍ فَقَالَ إِنِّي أَخَافُ اللهَ، وَرَجُلٌ تَصَدَّقَ بِصَدَقَةٍ فَأَخْفَاهَا، وَرَجُلٌ ذَكَرَ اللهَ خَالِيًا فَفَاضَتْ عَيْنَاهُ.",
-      "translation": "Nasihat Pertama: Tujuh golongan yang akan dinaungi Allah di bawah naungan-Nya pada hari tiada naungan selain naungan-Nya: pemimpin yang adil, pemuda yang tumbuh dalam beribadah kepada Allah, seseorang yang hatinya selalu terikat dengan masjid, dua orang yang saling mencintai karena Allah, lelaki yang diajak berzina oleh wanita berkedudukan dan cantik lalu ia berkata 'Sesungguhnya aku takut kepada Allah', orang yang bersedekah secara sembunyi-sembunyi, serta orang yang mengingat Allah di tempat sunyi lalu mengalir air matanya."
-    },
-    {
-      "title": "Bab VII: Nasihat Delapan Perkara (Thumaniyyah) - Poin 1: Delapan Perhiasan Diri",
-      "titleArabic": "الْبَابُ السَّابِعُ: فِي النَّصَائِحِ الثَّمَانِيَّةِ - المَقَالَةُ الأُولَى",
-      "arabic": "المَقَالَةُ الأُولَى: ثَمَانِيَةُ أَشْيَاءَ هِيَ زِينَةٌ لِثَمَانِيَةٍ: العَفَافُ زِينَةُ الفَقْرِ، وَالشُّكْرُ زِينَةُ النِّعْمَةِ، وَالصَّبْرُ زِينَةُ البَلاَءِ، وَالحِلْمُ زِينَةُ العِلْمِ، وَالتَّوَاضُعُ زِينَةُ الطَّالِبِ، وَالخُشُوعُ زِينَةُ الصَّلاَةِ، وَالوَقَارُ زِينَةُ العَبْدِ، وَالبَشَاشَةُ زِينَةُ الكَرَمِ.",
-      "translation": "Nasihat Pertama: Delapan perkara menjadi perhiasan bagi delapan hal lainnya: menjaga kesucian diri perhiasan kemiskinان (kemiskinan), bersyukur perhiasan kenikmatan, bersabar perhiasan cobaan, bersikap santun perhiasan ilmu, bertawadhu perhiasan penuntut ilmu, khusyuk perhiasan shalat, ketenangan perhiasan seorang hamba, dan wajah yang berseri-seri perhiasan kedermawanan."
-    },
-    {
-      "title": "Bab VIII: Nasihat Sembilan Perkara (Tusa'iyyah) - Poin 1: Sembilan Wasiat Kemuliaan Spiritual",
-      "titleArabic": "الْبَابُ الثَّامِنُ: فِي النَّصَائِحِ التِّسَاعِيَّةِ - المَقَالَةُ الأُولَى",
-      "arabic": "المَقَالَةُ الأُولَى: أَوْصَانِي رَبِّي بِتِسْعٍ: الإِخْلاَصُ فِي السِّرِّ وَالعَلاَنِيَةِ، وَالعَدْلُ فِي الرِّضَا وَالَغَضَبِ، وَالقَصْدُ فِي الفَقْرِ وَالغِنَى، وَأَنْ أَعْفُوَ عَمَّنْ ظَلَمَنِي، وَأُعْطِيَ مَنْ حَرَمَنِي، وَأَصِلَ مَنْ قَطَعَنِي، وَأَنْ يَكُونَ صَمْتِي فِكْرًا، وَنُطْقِي ذِكْرًا، وَنَظَرِي عِبْرَةً.",
-      "translation": "Nasihat Pertama: Tuhanku telah mewasiatkan sembilan perkara kepadaku: ikhlas saat tersembunyi maupun terang-terangan, adil saat ridha maupun marah, bersederhana saat miskin maupun kaya, memaafkan orang yang menzalimiku, memberi kepada orang yang memusuhiku/menghalangiku, menyambung silaturahmi dengan orang yang memutuskannya, menjadikan diamku sebagai pemikiran, ucapanku sebagai zikir, dan pandanganku sebagai ikhtibar/pelajaran."
-    },
-    {
-      "title": "Bab IX: Nasihat Sepuluh Perkara (Ushariyyah) - Poin 1: Sepuluh Pokok Keakhlakan Salaf",
-      "titleArabic": "الْبَابُ التَّاسِعُ: فِي النَّصَائِحِ الْعُشَارِيَّةِ - المَقَالَةُ الأُولَى",
-      "arabic": "المَقَالَةُ الأُولَى: مَنْ أَرَادَ أَنْ يَكُونَ مِنَ المِقْدَارِ العَالِي فِي الدِّينِ فَلْيَحْفَظْ عَشْرَةَ أَشْيَاءَ: حِفْظُ اللِّسَانِ، وَاجْتِنَابُ الغِيبَةِ، وَتَرْكُ الحَسَدِ، وَالزُّهْدُ فِي الدُّنْيَا، وَالصَّبْرُ عَلَى المَصَائِبِ، وَالشُّكْرُ عَلَى النِّعَمِ، وَالخَوْفُ مِنَ العَذَابِ، وَالرَّجَاءُ لِلرَّحْمَةِ، وَالتَّوَاضُعُ لِلْخَلْقِ، وَالرِّضَا بِالقَضَاءِ.",
-      "translation": "Nasihat Pertama: Barangsiapa ingin meraih kedudukan tinggi dalam agama, hendaklah ia menjaga sepuluh hal: menjaga lisan, menjauhi ghibah, meninggalkan rasa dengki, zuhud terhadap dunia, bersabar atas musibah, bersyukur atas nikmat, takut akan azab Allah, berharap akan rahmat-Nya, bersikap tawadhu kepada makhluk, dan ridha terhadap ketetapan takdir Allah."
-    },
-    {
-      "title": "Bab IX: Nasihat Sepuluh Perkara - Poin 2: Sepuluh Perkara Pengikis Ketakwaan",
-      "titleArabic": "الْبَابُ التَّاسِعُ: فِي النَّصَائِحِ الْعُشَارِيَّةِ - المَقَالَةُ الثَّانِيَةُ",
-      "arabic": "المَقَالَةُ الثَّانِيَةُ: عَشَرَةُ أَشْيَاءَ تُنْقِصُ التَّقْوَى: كَثْرَةُ الكَلاَمِ بِغَيْرِ ذِكْرِ اللهِ، وَكَثْرَةُ النَّوْمِ، وَكَثْرَةُ الأَكْلِ، وَكَبِرُ النَّفْسِ، وَحُبُّ الرِّئَاسَةِ، وَكَثْرَةُ الضَّحِكِ، وَمُجَالَسَةُ السُّفَهَاءِ، وَالنَّظَرُ إِلَى المَحَارِمِ، وَحِرْصُ المَالِ، وَالنِّسْيَانُ لِلْمَوْتِ.",
-      "translation": "Nasihat Kedua: Sepuluh hal yang mengikis ketakwaan seseorang: banyak berbicara tanpa zikir kepada Allah, banyak tidur, banyak makan, sombong, gila jabatan/pimpinan, banyak tertawa terbahak-bahak, duduk bersama orang dungu, memandang hal-hal haram, tamak akan harta, dan melupakan kematian."
-    },
-    {
-      "title": "Khatimah Kitab (Penutup Penjelasan & Doa Syekh Nawawi)",
+      "title": "Khatimah (Penutup Kitab)",
       "titleArabic": "خَاتِمَةُ الْكِتَابِ",
-      "arabic": "فَقَدْ تَمَّ مَا قَصَدْنَاهُ مِنْ جَمْعِ هَذِهِ النَّصَائِحِ الْجَلِيلَةِ وَالْمُنَبِّهَاتِ الْجَمِيلَةِ. نَسْأَلُ اللهَ الْكَرِيمَ أَنْ يَنْفَعَنَا بِهَا وَالْمُسْلِمِينَ، وَأَنْ يَجْعَلَ أَعْمَالَنَا خَالِصَةً لِوَجْهِهِ الْكَرِيمِ، وَأَنْ يَخْتِمَ لَنَا بِالْإِيمَانِ وَالسَّعَادَةِ عِنْدَ الْمَمَاتِ. وَصَلَّى اللهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلَّمَ، وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ.",
-      "translation": "Telah selesai apa yang kami maksudkan dari menghimpun nasihat-nasihat yang agung dan peringatan-peringatan yang indah ini. Kami memohon kepada Allah Yang Maha Mulia agar menjadikan kitab ini bermanfaat bagi kami dan segenap kaum muslimin, menjadikan seluruh amal kami ikhlas semata-mata mengharap keridhaan-Nya, serta mengakhiri hidup kami dengan keimanan dan kebahagiaan saat maut menjemput. Semoga shalawat dan salam senantiasa tercurah kepada junjungan kita Nabi Muhammad, keluarga, serta para sahabatnya, dan segala puji bagi Allah, Tuhan semesta alam."
+      "arabic": "خَاتِمَةٌ: وَنَسْأَلُ اللَّهَ الْكَرِيمَ بِجَاهِ نَبِيِّهِ الْأَمِينِ أَنْ يَجْعَلَ هَذَا الشَّرْحَ نَافِعًا لِلْمُسْلِمِينَ، وَوَاسِطَةً لِلْفَوْزِ بِجَنَّاتِ النَّعِيمِ، وَأَنْ يَغْفِرَ لَنَا وَلِوَالِدَيْنَا وَلِمَشَايِخِنَا وَلِكافة الْمُسْلِمِينَ، وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلَّمَ، وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ.",
+      "translation": "Penutup: Kami memohon kepada Allah Yang Mahamulia dengan perantara kedudukan Nabi-Nya yang terpercaya, semoga Dia menjadikan syarah ini bermanfaat bagi seluruh kaum muslimin, serta menjadi perantara untuk meraih kemenangan di surga Na'im. Dan semoga Dia mengampuni kami, kedua orang tua kami, guru-guru kami, serta seluruh kaum muslimin. Semoga shalawat dan salam senantiasa tercurah kepada junjungan kita Nabi Muhammad SAW, beserta keluarga dan para sahabatnya. Dan segala puji bagi Allah, Tuhan semesta alam."
     }
   ]
 }
