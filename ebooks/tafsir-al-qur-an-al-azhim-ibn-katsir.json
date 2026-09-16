@@ -1,0 +1,518 @@
+{
+  "profile": {
+    "name": "Tafsir Al-Qur'an Al-'Azhim (Ibn Katsir)",
+    "originalTitle": "تَفْسِيرُ الْقُرْآنِ الْعَظِيمِ",
+    "author": "Al-Hafizh 'Imaduddin Abul Fida' Ismail ibn 'Umar ibn Katsir Al-Qurasyi Ad-Dimasyqi",
+    "field": "Tafsir Al-Qur'an (Ulumul Qur'an & Hadis)",
+    "about": "Tafsir Al-Qur'an Al-'Azhim karya Imam Ibn Katsir merupakan salah satu karya monumental teragung dalam khazanah tafsir bil-ma'tsur di dunia Islam. Kitab ini menjadi rujukan utama akademisi dan pesantren karena metodologinya yang menafsirkan Al-Qur'an dengan Al-Qur'an, Al-Qur'an dengan Sunnah, serta merujuk pada atsar para Sahabat dan Tabi'in. Penulis secara kritis menganalisis sanad hadis, meluruskan pemahaman ayat, serta mengkritisi riwayat-riwayat Israiliyat yang tidak dapat dipertanggungjawabkan. Pengaruh kitab ini sangat luas dan mendalam sebagai standar emas kajian tafsir bi al-ma'tsur. Pembahasannya mencakup keutamaan surah, asbabun nuzul, analisis bahasa, hingga penyimpulan hukum fiqih.",
+    "authorBorn": "700 H / 1301 M di Busra, Syam (Suriah)",
+    "authorDied": "774 H / 1373 M di Damaskus, Syam",
+    "authorCentury": "Abad ke-8 Hijriah / Abad ke-14 Masehi"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah Tafsir: Pengantar Ilmu Tafsir dan Metodologinya",
+      "titleArabic": "مُقَدِّمَةُ التَّفْسِيرِ: فِي مَعْرِفَةِ أَهَمِّ طُرُقِ التَّفْسِيرِ",
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ. الْحَمْدُ لِلَّهِ الَّذِي فَتَحَ أَبْوَابَ الرَّحْمَةِ، وَأَنْزَلَ الْكِتَابَ تِبْيَانًا لِكُلِّ شَيْءٍ. فَأَصَحُّ الطُّرُقِ فِي التَّفْسِيرِ أَنْ يُفَسَّرَ الْقُرْآنُ بِالْقُرْآنِ، فَمَا أُجْمِلَ فِي مَكَانٍ فَإِنَّهُ قَدْ فُسِّرَ فِي مَوْضِعٍ آخَرَ.",
+      "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah yang membuka pintu-pintu rahmat dan menurunkan Al-Kitab sebagai penjelasan atas segala sesuatu. Maka cara penafsiran yang paling sahih adalah menafsirkan Al-Qur'an dengan Al-Qur'an; apa yang dijelaskan secara ringkas di satu tempat, maka sesungguhnya telah diperjelas di tempat yang lain."
+    },
+    {
+      "title": "Muqaddimah: Penafsiran Al-Qur'an dengan As-Sunnah",
+      "titleArabic": "مُقَدِّمَةٌ: تَفْسِيرُ الْقُرْآنِ بِالسُّنَّةِ النَّبَوِيَّةِ",
+      "arabic": "فَإِنْ لَمْ تَجِدِ التَّفْسِيرَ فِي الْقُرْآنِ فَعَلَيْكَ بِالسُّنَّةِ، فَإِنَّهَا شَارِحَةٌ لِلْقُرْآنِ وَمُوَضِّحَةٌ لَهُ، كَمَا قَالَ تَعَالَى: وَأَنْزَلْنَا إِلَيْكَ الذِّكْرَ لِتُبَيِّنَ لِلنَّاسِ مَا نُزِّلَ إِلَيْهِمْ.",
+      "translation": "Jika engkau tidak menemukan penafsirannya di dalam Al-Qur'an, maka hendaklah engkau merujuk kepada As-Sunnah, karena Sunnah adalah penjelas dan pemapar bagi Al-Qur'an, sebagaimana firman Allah Ta'ala: 'Dan Kami turunkan kepadamu Al-Qur'an agar kamu menerangkan kepada umat manusia apa yang telah diturunkan kepada mereka.'"
+    },
+    {
+      "title": "Muqaddimah: Penafsiran Berdasarkan Perkataan Sahabat dan Tabi'in",
+      "titleArabic": "مُقَدِّمَةٌ: الرُّجُوعُ إِلَى أَقْوَالِ الصَّحَابَةِ وَالتَّابِعِينَ",
+      "arabic": "وَإِذَا لَمْ نَجِدِ التَّفْسِيرَ فِي الْقُرْآنِ وَلاَ فِي السُّنَّةِ، رَجَعْنَا فِي ذَلِكَ إِلَى أَقْوَالِ الصَّحَابَةِ، فَإِنَّهُمْ أَدْرَى بِذَلِكَ لِمَا شَاهَدُوهُ مِنَ الْقَرَاكِنِ وَالأَحْوَالِ عِنْدَ النُُّزُولِ.",
+      "translation": "Dan apabila kami tidak menemukan penafsiran di dalam Al-Qur'an maupun As-Sunnah, kami merujuk dalam hal tersebut kepada perkataan para Sahabat, karena merekalah yang paling mengetahui hal itu lantaran menyaksikan indikasi dan kondisi saat wahyu diturunkan."
+    },
+    {
+      "title": "Muqaddimah: Peringatan Terhadap Riwayat Israiliyat dan Tafsir Bi Ar-Ra'yi",
+      "titleArabic": "مُقَدِّمَةٌ: التَّحْذِيرُ مِنَ الإِسْرَائِيلِيَّاتِ وَالتَّفْسِيرِ بِالرَّأْيِ",
+      "arabic": "فَأَمَّا تَفْسِيرُ الْقُرْآنِ بِمُجَرَّدِ الرَّأْيِ فَحَرَامٌ، وَأَمَّا الإِسْرَائِيلِيَّاتُ فَتُذْكَرُ لِللاِعْتِبَارِ لاَ لِلاِعْتِمَادِ وَالتَّصْدِيقِ، إِلاَّ مَا وَافَقَ الْحَقَّ عِنْدَنَا.",
+      "translation": "Adapun menafsirkan Al-Qur'an hanya berdasarkan akal pikiran (tanpa ilmu) adalah haram, sedangkan riwayat Israiliyat disebut hanya sebagai ikhtibar (pembelajaran) bukan sebagai sandaran utama dan kebenaran mutlak, kecuali yang sesuai dengan kebenaran di sisi kita."
+    },
+    {
+      "title": "Hukum Isti'adzah dan Basmalah",
+      "titleArabic": "أَحْكَامُ الاِسْتِعَاذَةِ وَالْبَسْمَلَةِ",
+      "arabic": "الاِسْتِعَاذَةُ هِيَ الاِلْتِجَاءُ إِلَى اللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ، وَالْبَسْمَلَةُ آيَةٌ مِنْ كِتَابِ اللَّهِ فِي أَوَّلِ كُلِّ سُورَةٍ سِوَى بَرَاءَةَ.",
+      "translation": "Isti'adzah adalah perlindungan diri kepada Allah dari godaan setan yang terkutuk, dan Basmalah adalah ayat dari kitab Allah pada awal setiap surah kecuali Surah At-Taubah."
+    },
+    {
+      "title": "Tafsir Surah Al-Fatihah (Pembuka Al-Qur'an)",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْفَاتِحَةِ",
+      "arabic": "سُورَةُ الْفَاتِحَةِ: مَكِّيَّةٌ، وَهِيَ سَبْعُ آيَاتٍ، وَتُسَمَّى أُمَّ الْكِتَابِ وَأُمَّ الْقُرْآنِ وَالسَّبْعَ الْمَثَانِيَ.",
+      "translation": "Surah Al-Fatihah: Makkiyyah, terdiri dari tujuh ayat, dan dinamakan Ummul Kitab, Ummul Qur'an, dan As-Sab'ul Mathani."
+    },
+    {
+      "title": "Tafsir Surah Al-Baqarah",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْبَقَرَةِ",
+      "arabic": "سُورَةُ الْبَقَرَةِ: مَدَنِيَّةٌ، وَهِيَ سَنَامُ الْقُرْآنِ، أَنْزَلَهَا اللَّهُ تَعَالَى وَتَضَمَّنَتْ أَحْكَامًا جَلِيلَةً وَآيَةَ الْكُرْسِيِّ.",
+      "translation": "Surah Al-Baqarah: Madaniyyah, puncaknya Al-Qur'an, diturunkan Allah Ta'ala memuat hukum-hukum mulia dan Ayat Kursi."
+    },
+    {
+      "title": "Tafsir Surah Ali 'Imran",
+      "titleArabic": "تَفْسِيرُ سُورَةِ آلِ عِمْرَانَ",
+      "arabic": "سُورَةُ آلِ عِمْرَانَ: مَدَنِيَّةٌ، تَنَاوَلَتْ إِثْبَاتَ التَّوْحِيدِ وَإِبْطَالَ الشِّرْكِ وَمُنَاقَشَةَ أَهْلِ الْكِتَابِ.",
+      "translation": "Surah Ali 'Imran: Madaniyyah, membahas penetapan tauhid, pembatalan syirik, serta dialog kritis dengan Ahli Kitab."
+    },
+    {
+      "title": "Tafsir Surah An-Nisa'",
+      "titleArabic": "تَفْسِيرُ سُورَةِ النِّسَاءِ",
+      "arabic": "سُورَةُ النِّسَاءِ: مَدَنِيَّةٌ، اشْتَمَلَتْ عَلَى أَحْكَامِ الْأُسْرَةِ وَالْمَوَارِيثِ وَالْحُقُوقِ الشَّرْعِيَّةِ.",
+      "translation": "Surah An-Nisa': Madaniyyah, mencakup hukum-hukum keluarga, warisan, dan hak-hak syar'i."
+    },
+    {
+      "title": "Tafsir Surah Al-Ma'idah",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْمَائِدَةِ",
+      "arabic": "سُورَةُ الْمَائِدَةِ: مَدَنِيَّةٌ، وَهِيَ مِنْ آخِرِ مَا نَزَلَ، تَضَمَّنَتِ الْعُقُودَ وَالْحَلاَلَ وَالْحَرَامَ.",
+      "translation": "Surah Al-Ma'idah: Madaniyyah, termasuk surah yang terakhir turun, mencakup akad-akad serta penetapan halal dan haram."
+    },
+    {
+      "title": "Tafsir Surah Al-An'am",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الأَنْعَامِ",
+      "arabic": "سُورَةُ الأَنْعَامِ: مَكِّيَّةٌ، نَزَلَتْ جُمْلَةً وَاحِدَةً، فِي إِثْبَاتِ الْعَقِيدَةِ وَأُصُولِ التَّوْحِيدِ.",
+      "translation": "Surah Al-An'am: Makkiyyah, turun sekaligus dituntun para malaikat, berfokus pada penegakan akidah dan dasar-dasar tauhid."
+    },
+    {
+      "title": "Tafsir Surah Al-A'raf",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الأَعْرَافِ",
+      "arabic": "سُورَةُ الأَعْرَافِ: مَكِّيَّةٌ، بَيَّنَتْ قِصَصَ الأَنْبِيَاءِ مَعَ أُمَمِهِمْ وَعَاقِبَةَ الْمُكَذِّبِينَ.",
+      "translation": "Surah Al-A'raf: Makkiyyah, menjelaskan kisah para nabi bersama umatnya serta kesudahan orang-orang yang mendustakan."
+    },
+    {
+      "title": "Tafsir Surah Al-Anfal",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الأَنْفَالِ",
+      "arabic": "سُورَةُ الأَنْفَالِ: مَدَنِيَّةٌ، نَزَلَتْ فِي غَزْوَةِ بَدْرٍ وَتَنَاوَلَتْ أَحْكَامَ الْجِهَادِ وَالْغَنَائِمِ.",
+      "translation": "Surah Al-Anfal: Madaniyyah, turun berkenaan dengan Perang Badar dan membahas hukum jihad serta harta rampasan perang."
+    },
+    {
+      "title": "Tafsir Surah At-Taubah",
+      "titleArabic": "تَفْسِيرُ سُورَةِ التَّوْبَةِ",
+      "arabic": "سُورَةُ التَّوْبَةِ: مَدَنِيَّةٌ، تُسَمَّى الْفَاضِحَةَ، كَشَفَتْ أَحْوَالَ الْمُنَافِقِينَ وَبَرَاءَةَ اللَّهِ مِنَ الْمُشْرِكِينَ.",
+      "translation": "Surah At-Taubah: Madaniyyah, dinamakan Al-Fadhihah (pembongkar), membongkar kemunafikan dan pernyataan lepas diri Allah dari musyrikin."
+    },
+    {
+      "title": "Tafsir Surah Yunus",
+      "titleArabic": "تَفْسِيرُ سُورَةِ يُونُسَ",
+      "arabic": "سُورَةُ يُونُسَ: مَكِّيَّةٌ، تُعَالِجُ قَضَايَا الْوَحْيِ وَالنُُّبُوَّةِ وَعَظَمَةِ الْخَالِقِ فِي الْكَوْنِ.",
+      "translation": "Surah Yunus: Makkiyyah, mengulas isu-isu wahyu, kenabian, dan keagungan Pencipta di alam semesta."
+    },
+    {
+      "title": "Tafsir Surah Hud",
+      "titleArabic": "تَفْسِيرُ سُورَةِ هُودٍ",
+      "arabic": "سُورَةُ هُودٍ: مَكِّيَّةٌ، فِيهَا تَسْلِيَةٌ لِلرَّسُولِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِذِكْرِ صَبْرِ الأَنْبِيَاءِ.",
+      "translation": "Surah Hud: Makkiyyah, memuat hiburan bagi Rasulullah SAW dengan menyebutkan kesabaran para nabi pendahulu."
+    },
+    {
+      "title": "Tafsir Surah Yusuf",
+      "titleArabic": "تَفْسِيرُ سُورَةِ يُوسُفَ",
+      "arabic": "سُورَةُ يُوسُفَ: مَكِّيَّةٌ، اشْتَمَلَتْ عَلَى أَحْسَنِ الْقَصَصِ فِي صَبْرِ نَبِيِّ اللَّهِ يُوسُفَ وَتَمْكِينِهِ.",
+      "translation": "Surah Yusuf: Makkiyyah, mencakup kisah terbaik (Ahsanul Qasash) tentang kesabaran Nabi Yusuf hingga kejayaannya."
+    },
+    {
+      "title": "Tafsir Surah Ar-Ra'd",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الرَّعْدِ",
+      "arabic": "سُورَةُ الرَّعْدِ: مَدَنِيَّةٌ، تُبَيِّنُ قُدْرَةَ اللَّهِ فِي الْكَوْنِ وَأَنَّ الْحَقَّ مُنْتَصِرٌ لاَ مَحَالَةَ.",
+      "translation": "Surah Ar-Ra'd: Madaniyyah, menjelaskan kekuasaan Allah di alam semesta dan kemenangan hakiki bagi kebenaran."
+    },
+    {
+      "title": "Tafsir Surah Ibrahim",
+      "titleArabic": "تَفْسِيرُ سُورَةِ إِبْرَاهِيمَ",
+      "arabic": "سُورَةُ إِبْرَاهِيمَ: مَكِّيَّةٌ، تَبَيَّنَ فِيهَا دَعْوَةُ التَّوْحِيدِ وَشُكْرُ النِّعَمِ وَدُعَاءُ خَلِيلِ الرَّحْمَنِ.",
+      "translation": "Surah Ibrahim: Makkiyyah, menjelaskan dakwah tauhid, pentingnya mensyukuri nikmat, serta doa Khalilullah Ibrahim."
+    },
+    {
+      "title": "Tafsir Surah Al-Hijr",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْحِجْرِ",
+      "arabic": "سُورَةُ الْحِجْرِ: مَكِّيَّةٌ، فِيهَا حِفْظُ اللَّهِ لِلْقُرْآنِ وَمَصِيرُ قَوْمِ صَالِحٍ وَأَصْحَابِ الْحِجْرِ.",
+      "translation": "Surah Al-Hijr: Makkiyyah, memuat jaminan Allah menjaga Al-Qur'an serta nasib kaum Nabi Salih dan penduduk Al-Hijr."
+    },
+    {
+      "title": "Tafsir Surah An-Nahl",
+      "titleArabic": "تَفْسِيرُ سُورَةِ النَّحْلِ",
+      "arabic": "سُورَةُ النَّحْلِ: مَكِّيَّةٌ، وَتُسَمَّى سُورَةَ النِّعَمِ لِكَثْرَةِ مَا ذَكَرَ اللَّهُ فِيهَا مِنْ نِعَمِهِ.",
+      "translation": "Surah An-Nahl: Makkiyyah, dinamakan Surah An-Ni'am karena banyaknya kenikmatan yang Allah paparkan di dalamnya."
+    },
+    {
+      "title": "Tafsir Surah Al-Isra'",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الإِسْرَاءِ",
+      "arabic": "سُورَةُ الإِسْرَاءِ: مَكِّيَّةٌ، تَذْكُرُ مُعْجِزَةَ الإِسْرَاءِ وَالْمِعْرَاجِ وَمَكَارِمَ الأَخْلاَقِ.",
+      "translation": "Surah Al-Isra': Makkiyyah, menyebutkan mukjizat Isra' Mi'raj dan prinsip-prinsip keluhuran akhlak."
+    },
+    {
+      "title": "Tafsir Surah Al-Kahf",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْكَهْفِ",
+      "arabic": "سُورَةُ الْكَهْفِ: مَكِّيَّةٌ، اشْتَمَلَتْ عَلَى فِتَنٍ أَرْبَعٍ وَقِصَصِ أَهْلِ الْكَهْفِ وَمُوسَى وَالْخَضِرِ وَذِي الْقَرْنَيْنِ.",
+      "translation": "Surah Al-Kahf: Makkiyyah, mencakup 4 fitnah utama dan kisah Ashabul Kahfi, Nabi Musa & Khidir, serta Dzulkarnain."
+    },
+    {
+      "title": "Tafsir Surah Maryam",
+      "titleArabic": "تَفْسِيرُ سُورَةِ مَرْيَمَ",
+      "arabic": "سُورَةُ مَرْيَمَ: مَكِّيَّةٌ، تَذْكُرُ رَحْمَةَ اللَّهِ بِأَوْلِيَائِهِ وَقِصَّةَ مِلادِ عِيسَى وَزَكَرِيَّا.",
+      "translation": "Surah Maryam: Makkiyyah, menyebutkan rahmat Allah kepada para wali-Nya serta kisah kelahiran Nabi Isa dan Zakariya."
+    },
+    {
+      "title": "Tafsir Surah Tha-Ha",
+      "titleArabic": "تَفْسِيرُ سُورَةِ طه",
+      "arabic": "سُورَةُ طه: مَكِّيَّةٌ، تَنَاوَلَتْ قِصَّةَ مُوسَى مَعَ فِرْعَوْنَ وَتَفْصِيلَ الدَّعْوَةِ وَالْمُعْجِزَاتِ.",
+      "translation": "Surah Tha-Ha: Makkiyyah, mengulas kisah Nabi Musa menghadapi Firaun beserta detail dakwah dan mukjizatnya."
+    },
+    {
+      "title": "Tafsir Surah Al-Anbiya'",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الأَنْبِيَاءِ",
+      "arabic": "سُورَةُ الأَنْبِيَاءِ: مَكِّيَّةٌ، ذَكَرَتْ شَرَائِعَ الأَنْبِيَاءِ وَوَحْدَةَ دَعْوَتِهِمْ إِلَى التَّوْحِيدِ.",
+      "translation": "Surah Al-Anbiya': Makkiyyah, menyebutkan risalah para nabi dan kesatuan dakwah mereka pada tauhid."
+    },
+    {
+      "title": "Tafsir Surah Al-Hajj",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْحَجِّ",
+      "arabic": "سُورَةُ الْحَجِّ: مُخْتَلَطَةٌ بَيْنَ الْمَكِّيِّ وَالْمَدَنِيِّ، فِيهَا أَحْكَامُ الْحَجِّ وَالإِذْنُ بِالْقِتَالِ.",
+      "translation": "Surah Al-Hajj: Campuran Makkiyyah dan Madaniyyah, memuat hukum-hukum ibadah haji dan izin berjuang membela diri."
+    },
+    {
+      "title": "Tafsir Surah Al-Mu'minun",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْمُؤْمِنُونَ",
+      "arabic": "سُورَةُ الْمُؤْمِنُونَ: مَكِّيَّةٌ، بَدَأَتْ بِصِفَاتِ الْمُؤْمِنِينَ الْمُفْلِحِينَ وَجَزَائِهِمْ.",
+      "translation": "Surah Al-Mu'minun: Makkiyyah, diawali dengan sifat-sifat orang beriman yang beruntung dan balasan bagi mereka."
+    },
+    {
+      "title": "Tafsir Surah An-Nur",
+      "titleArabic": "تَفْسِيرُ سُورَةِ النُّورِ",
+      "arabic": "سُورَةُ النُّورِ: مَدَنِيَّةٌ، اشْتَمَلَتْ عَلَى آدَابِ الاِسْتِئْذَانِ وَالْعَفَافِ وَحَدِّ الإِفْكِ وَالزِّنَا.",
+      "translation": "Surah An-Nur: Madaniyyah, mencakup etika meminta izin, menjaga kehormatan, hukum 'Ifk (fitnah), dan perzinaaan."
+    },
+    {
+      "title": "Tafsir Surah Al-Furqan",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْفُرْقَانِ",
+      "arabic": "سُورَةُ الْفُرْقَانِ: مَكِّيَّةٌ، تَنَاوَلَتْ صِفَاتِ عِبَادِ الرَّحْمَنِ وَإِثْبَاتَ صِدْقِ الْقُرْآنِ.",
+      "translation": "Surah Al-Furqan: Makkiyyah, membahas sifat-sifat Ibadurrahman (hamba Allah Yang Maha Pengasih) dan kebenaran Al-Qur'an."
+    },
+    {
+      "title": "Tafsir Surah Asy-Syu'ara'",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الشُّعَرَاءِ",
+      "arabic": "سُورَةُ الشُّعَرَاءِ: مَكِّيَّةٌ، بَيَّنَتْ صِرَاعَ الْحَقِّ وَالْبَاطِلِ عَبْرَ صُوَرِ الرُُّسُلِ.",
+      "translation": "Surah Asy-Syu'ara': Makkiyyah, menjelaskan pertarungan antara kebenaran dan kebatilan melalui risalah para rasul."
+    },
+    {
+      "title": "Tafsir Surah An-Naml",
+      "titleArabic": "تَفْسِيرُ سُورَةِ النَّمْلِ",
+      "arabic": "سُورَةُ النَّمْلِ: مَكِّيَّةٌ، ذَكَرَتْ مُلْكَ سُلَيْمَانَ وَمَلِكَةَ سَبَأٍ وَعَظَمَةَ التَّوْحِيدِ.",
+      "translation": "Surah An-Naml: Makkiyyah, memaparkan kerajaan Nabi Sulaiman, Ratu Balqis (Saba'), dan keagungan Tauhid."
+    },
+    {
+      "title": "Tafsir Surah Al-Qasash",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْقَصَصِ",
+      "arabic": "سُورَةُ الْقَصَصِ: مَكِّيَّةٌ، فِيهَا تَفْصِيلُ نَشْأَةِ مُوسَى وَمَصِيرُ قَارُونَ وَعَاقِبَةُ الْمُسْتَكْبِرِينَ.",
+      "translation": "Surah Al-Qasash: Makkiyyah, memuat detail masa kecil Nabi Musa, nasib Qarun, dan akhir tragis kaum sombong."
+    },
+    {
+      "title": "Tafsir Surah Al-'Ankabut",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْعَنْكَبُوتِ",
+      "arabic": "سُورَةُ الْعَنْكَبُوتِ: مَكِّيَّةٌ، تَنَاوَلَتْ سُنَّةَ الاِبْتِلاَءِ وَالاِخْتِبَارِ لِلْمُؤْمِنِينَ.",
+      "translation": "Surah Al-'Ankabut: Makkiyyah, mengulas sunnatullah berupa ujian dan cobaan hidup bagi orang-orang beriman."
+    },
+    {
+      "title": "Tafsir Surah Ar-Rum",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الرُّومِ",
+      "arabic": "سُورَةُ الرُّومِ: مَكِّيَّةٌ، بَشَّرَتْ بِنَصْرِ الرُّومِ وَتَضَمَّنَتْ آيَاتِ اللَّهِ فِي الْخَلْقِ.",
+      "translation": "Surah Ar-Rum: Makkiyyah, memberikan kabar gembira atas kemenangan bangsa Romawi dan memuat tanda-tanda keagungan penciptaan."
+    },
+    {
+      "title": "Tafsir Surah Luqman",
+      "titleArabic": "تَفْسِيرُ سُورَةِ لُقْمَانَ",
+      "arabic": "سُورَةُ لُقْمَانَ: مَكِّيَّةٌ، اشْتَمَلَتْ عَلَى وَصَايَا لُقْمَانَ الْحَكِيمِ لاِبْنِهِ فِي الْعَقِيدَةِ وَالأَخْلاَقِ.",
+      "translation": "Surah Luqman: Makkiyyah, mencakup nasihat-nasihat bijak Luqman Al-Hakim kepada anaknya terkait akidah dan akhlak."
+    },
+    {
+      "title": "Tafsir Surah As-Sajdah",
+      "titleArabic": "تَفْسِيرُ سُورَةِ السَّجْدَةِ",
+      "arabic": "سُورَةُ السَّجْدَةِ: مَكِّيَّةٌ، تَتَحَدَّثُ عَنْ بَدْءِ الْخَلْقِ وَالْبَعْثِ وَأَهْوَالِ يَوْمِ الْقِيَامَةِ.",
+      "translation": "Surah As-Sajdah: Makkiyyah, berbicara tentang penciptaan awal, kebangkitan, dan dahsyatnya Hari Kiamat."
+    },
+    {
+      "title": "Tafsir Surah Al-Ahzab",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الأَحْزَابِ",
+      "arabic": "سُورَةُ الأَحْزَابِ: مَدَنِيَّةٌ، تَضَمَّنَتْ غَزْوَةَ الْخَنْدَقِ وَأَحْكَامَ أُمَّهَاتِ الْمُؤْمِنِينَ.",
+      "translation": "Surah Al-Ahzab: Madaniyyah, mencakup peristiwa Perang Khandaq (Ahzab) dan hukum khusus bagi Ummahatul Mu'minin."
+    },
+    {
+      "title": "Tafsir Surah Saba'",
+      "titleArabic": "تَفْسِيرُ سُورَةِ سَبَأٍ",
+      "arabic": "سُورَةُ سَبَأٍ: مَكِّيَّةٌ، تُبَيِّنُ عِلْمَ اللَّهِ الشَّامِلَ وَقِصَّةَ قَوْمِ سَبَأٍ وَسَيْلَ الْعَرِمِ.",
+      "translation": "Surah Saba': Makkiyyah, menjelaskan ilmu Allah yang meliputi segalanya serta kisah kaum Saba' dan banjir 'Arim."
+    },
+    {
+      "title": "Tafsir Surah Fatir",
+      "titleArabic": "تَفْسِيرُ سُورَةِ فَاطِرٍ",
+      "arabic": "سُورَةُ فَاطِرٍ: مَكِّيَّةٌ، تُبَيِّنُ قُدْرَةَ اللَّهِ فِي خَلْقِ الْمَلاَئِكَةِ وَالسَّمَاوَاتِ وَالأَرْضِ.",
+      "translation": "Surah Fatir: Makkiyyah, memperlihatkan kekuasaan Allah menciptakan malaikat, langit, dan bumi."
+    },
+    {
+      "title": "Tafsir Surah Ya-Sin",
+      "titleArabic": "تَفْسِيرُ سُورَةِ يس",
+      "arabic": "سُورَةُ يس: مَكِّيَّةٌ، وَهِيَ قَلْبُ الْقُرْآنِ، اشْتَمَلَتْ عَلَى الأَدِلَّةِ عَلَى الْبَعْثِ وَالنُُّشُورِ.",
+      "translation": "Surah Ya-Sin: Makkiyyah, yang dinamai jantung Al-Qur'an, memuat dalil-dalil kuat tentang kebangkitan setelah kematian."
+    },
+    {
+      "title": "Tafsir Surah As-Saffat",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الصَّافَّاتِ",
+      "arabic": "سُورَةُ الصَّافَّاتِ: مَكِّيَّةٌ، تَنَاوَلَتْ تَنْزِيهَ اللَّهِ عَنِ الشَّرِيكِ وَالْوَلَدِ وَقِصَّةَ الذَّبِيحِ.",
+      "translation": "Surah As-Saffat: Makkiyyah, membahas penyucian Allah dari sekutu dan anak, serta kisah penyembelihan Ismail."
+    },
+    {
+      "title": "Tafsir Surah Shad",
+      "titleArabic": "تَفْسِيرُ سُورَةِ ص",
+      "arabic": "سُورَةُ ص: مَكِّيَّةٌ، ذَكَرَتْ خُصُومَةَ الْكُفَّارِ وَقِصَصَ داوُدَ وَسُلَيْمَانَ وَأَيُّوبَ.",
+      "translation": "Surah Shad: Makkiyyah, menceritakan penolakan kaum kafir serta kisah keteladanan Nabi Daud, Sulaiman, dan Ayyub."
+    },
+    {
+      "title": "Tafsir Surah Az-Zumar",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الزُّمَرِ",
+      "arabic": "سُورَةُ الزُّمَرِ: مَكِّيَّةٌ، تَدْعُو إِلَى إِخْلاَصِ الدِّينِ لِلَّهِ وَتَسْوِيقِ الزُّمَرِ إِلَى الْجَنَّةِ وَالنَّارِ.",
+      "translation": "Surah Az-Zumar: Makkiyyah, menyeru kemurnian ikhlas dalam beragama dan penggiringan rombongan menuju surga atau neraka."
+    },
+    {
+      "title": "Tafsir Surah Ghafir (Al-Mu'min)",
+      "titleArabic": "تَفْسِيرُ سُورَةِ غَافِرٍ",
+      "arabic": "سُورَةُ غَافِرٍ: مَكِّيَّةٌ، بَدَأَتْ بِالْحَوَامِيمِ وَذَكَرَتْ قِصَّةَ مُؤْمِنِ آلِ فِرْعَوْنَ.",
+      "translation": "Surah Ghafir: Makkiyyah, pembuka kelompok surah Hawamim, memuat kisah keberanian beriman lelaki dari keluarga Firaun."
+    },
+    {
+      "title": "Tafsir Surah Fussilat",
+      "titleArabic": "تَفْسِيرُ سُورَةِ فُصِّلَتْ",
+      "arabic": "سُورَةُ فُصِّلَتْ: مَكِّيَّةٌ، بَيَّنَتْ إِعْجَازَ الْقُرْآنِ وَشَهَادَةَ الجَوَارِحِ عَلَى الإِنْسَانِ.",
+      "translation": "Surah Fussilat: Makkiyyah, menjelaskan keagungan dan mukjizat Al-Qur'an serta kesaksian anggota tubuh manusia kelak."
+    },
+    {
+      "title": "Tafsir Surah Asy-Syura",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الشُّورَى",
+      "arabic": "سُورَةُ الشُّورَى: مَكِّيَّةٌ، أَرَسَتْ مَبْدَأَ الشُّورَى بَيْنَ الْمُسْلِمِينَ وَوِحْدَةَ الدِّينِ.",
+      "translation": "Surah Asy-Syura: Makkiyyah, menegaskan prinsip musyawarah di antara umat Islam dan kesatuan pokok agama."
+    },
+    {
+      "title": "Tafsir Surah Az-Zukhruf",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الزُّخْرُفِ",
+      "arabic": "سُورَةُ الزُّخْرُفِ: مَكِّيَّةٌ، بَيَّنَتْ سُقُوطَ الْمَعَايِيرِ الْمَادِّيَةِ عِنْدَ اللَّهِ.",
+      "translation": "Surah Az-Zukhruf: Makkiyyah, memaparkan semata-mata tidak bernilainya kemewahan duniawi di sisi Allah."
+    },
+    {
+      "title": "Tafsir Surah Ad-Dukhan",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الدُّخَانِ",
+      "arabic": "سُورَةُ الدُّخَانِ: مَكِّيَّةٌ، تَحَدَّثَتْ عَنْ لَيْلَةِ الْقَدْرِ وَعَذَابِ الدُّخَانِ فِي الآخِرَةِ.",
+      "translation": "Surah Ad-Dukhan: Makkiyyah, mengulas peristiwa kemuliaan Lailatul Qadr dan peringatan kabut asap (Dukhan)."
+    },
+    {
+      "title": "Tafsir Surah Al-Jatsiyah",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْجَاثِيَةِ",
+      "arabic": "سُورَةُ الْجَاثِيَةِ: مَكِّيَّةٌ، تُبَيِّنُ خُضُوعَ الأُمَمِ وَجُثُوَّهَا بَيْنَ يَدَيِ اللَّهِ يَوْمَ الْقِيَامَةِ.",
+      "translation": "Surah Al-Jatsiyah: Makkiyyah, menggambarkan tunduk dan berlututnya segenap umat manusia di hadapan Allah pada Hari Kiamat."
+    },
+    {
+      "title": "Tafsir Surah Al-Ahqaf",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الأَحْقَافِ",
+      "arabic": "سُورَةُ الأَحْقَافِ: مَكِّيَّةٌ، اشْتَمَلَتْ عَلَى إِيمَانِ الجِنِّ وَقِصَّةِ قَوْمِ عَادٍ فِي الأَحْقَافِ.",
+      "translation": "Surah Al-Ahqaf: Makkiyyah, menceritakan keimanan kaum Jin dan pembalasan atas kaum 'Ad di bukit-bukit pasir (Ahqaf)."
+    },
+    {
+      "title": "Tafsir Surah Muhammad",
+      "titleArabic": "تَفْسِيرُ سُورَةِ مُحَمَّدٍ",
+      "arabic": "سُورَةُ مُحَمَّدٍ: مَدَنِيَّةٌ، تُسَمَّى سُورَةَ الْقِتَالِ، بَيَّنَتْ احْكَامَ الْحَرْبِ وَالأَسْرَى.",
+      "translation": "Surah Muhammad: Madaniyyah, dinamakan juga Surah Al-Qital, menerangkan hukum-hukum peperangan dan tawanan."
+    },
+    {
+      "title": "Tafsir Surah Al-Fath",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْفَتْحِ",
+      "arabic": "سُورَةُ الْفَتْحِ: مَدَنِيَّةٌ، نَزَلَتْ فِي صُلْحِ الْحُدَيْبِيَةِ وَبَشَّرَتْ بِالْفَتْحِ الْمُبِينِ.",
+      "translation": "Surah Al-Fath: Madaniyyah, turun menyusul Perjanjian Hudaibiyyah, membawa berita gembira berupa kemenangan yang nyata."
+    },
+    {
+      "title": "Tafsir Surah Al-Hujurat",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْحُجُرَاتِ",
+      "arabic": "سُورَةُ الْحُجُرَاتِ: مَدَنِيَّةٌ، اشْتَمَلَتْ عَلَى آدَابِ التَّعَامُلِ مَعَ النَّبِيِّ وَالْمُؤْمِنِينَ وَالأَخْلاَقِ الاِجْتِمَاعِيَّةِ.",
+      "translation": "Surah Al-Hujurat: Madaniyyah, memuat etika berinteraksi dengan Nabi SAW, sesama beriman, dan etika sosial pergaulan."
+    },
+    {
+      "title": "Tafsir Surah Qaf",
+      "titleArabic": "تَفْسِيرُ سُورَةِ ق",
+      "arabic": "سُورَةُ ق: مَكِّيَّةٌ، كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقْرَؤُهَا فِي الْخُطَبِ وَالعِيِدِ لِمَا فِيهَا مِنَ المَوْعِظَةِ.",
+      "translation": "Surah Qaf: Makkiyyah, sering dibaca oleh Nabi SAW saat khutbah Jumat dan Idul Fitri/Adha karena pengajaran mendalamnya."
+    },
+    {
+      "title": "Tafsir Surah Adz-Dzariyat",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الذَّارِيَاتِ",
+      "arabic": "سُورَةُ الذَّارِيَاتِ: مَكِّيَّةٌ، بَيَّنَتْ الْغَرَضَ مِنْ خَلْقِ الإِنْسِ وَالْجِنِّ وَهُوَ الْعِبَادَةُ.",
+      "translation": "Surah Adz-Dzariyat: Makkiyyah, menerangkan tujuan utama penciptaan jin dan manusia semata untuk beribadah."
+    },
+    {
+      "title": "Tafsir Surah At-Thur",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الطُّورِ",
+      "arabic": "سُورَةُ الطُّورِ: مَكِّيَّةٌ، أَقْسَمَ اللَّهُ فِيهَا بِالطُّورِ عَلَى وُقُوعِ الْعَذَابِ بِالْكَافِرِينَ.",
+      "translation": "Surah At-Thur: Makkiyyah, Allah bersumpah demi Gunung Thur akan pastinya kepastian azab bagi orang-orang kafir."
+    },
+    {
+      "title": "Tafsir Surah An-Najm",
+      "titleArabic": "تَفْسِيرُ سُورَةِ النَّجْمِ",
+      "arabic": "سُورَةُ النَّجْمِ: مَكِّيَّةٌ، بَيَّنَتْ حَقِيقَةَ الْوَحْيِ وَرُؤْيَةَ النَّبِيِّ لِجِبْرِيلَ فِي الأُفُقِ الأَعْلَى.",
+      "translation": "Surah An-Najm: Makkiyyah, menjelaskan hakikat wahyu dan penyaksian Nabi SAW terhadap Malaikat Jibril di ufuk yang tinggi."
+    },
+    {
+      "title": "Tafsir Surah Al-Qamar",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْقَمَرِ",
+      "arabic": "سُورَةُ الْقَمَرِ: مَكِّيَّةٌ، اشْتَمَلَتْ عَلَى مُعْجِزَةِ انْشِقَاقِ الْقَمَرِ وَتَيْسِيرِ الْقُرْآنِ لِلذِّكْرِ.",
+      "translation": "Surah Al-Qamar: Makkiyyah, mencakup pembuktian mukjizat terbelahnya bulan dan ketersediaan Al-Qur'an untuk dipelajari."
+    },
+    {
+      "title": "Tafsir Surah Ar-Rahman",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الرَّحْمَنِ",
+      "arabic": "سُورَةُ الرَّحْمَنِ: مَدَنِيَّةٌ، تُسَمَّى عَرُوسَ الْقُرْآنِ، كَرَّرَتِ الآيَةَ: فَبِأَيِّ آلاَءِ رَبِّكُمَا تُكَذِّبَانِ.",
+      "translation": "Surah Ar-Rahman: Madaniyyah, dinamai pengantin Al-Qur'an, mengulang teguran nikmat: 'Maka nikmat Tuhanmu manakah yang kamu dustakan?'"
+    },
+    {
+      "title": "Tafsir Surah Al-Waqi'ah",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْوَاقِعَةِ",
+      "arabic": "سُورَةُ الْوَاقِعَةِ: مَكِّيَّةٌ، قَسَّمَتِ الْخَلْقَ يَوْمَ الْقِيَامَةِ إِلَى سَابِقِينَ وَأَصْحَابِ يَمِينٍ وَأَصْحَابِ شِمَالٍ.",
+      "translation": "Surah Al-Waqi'ah: Makkiyyah, membagi manusia pada hari kiamat menjadi tiga golongan: As-Sabiqun, Ashabul Yamin, dan Ashabuch Syimal."
+    },
+    {
+      "title": "Tafsir Surah Al-Hadid",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْحَدِيدِ",
+      "arabic": "سُورَةُ الْحَدِيدِ: مَدَنِيَّةٌ، بَيَّنَتْ حَقِيقَةَ الْحَيَاةِ الدُّنْيَا وَالْحَثَّ عَلَى الإِنْفَاقِ فِي سَبِيلِ اللَّهِ.",
+      "translation": "Surah Al-Hadid: Madaniyyah, menjelaskan hakikat kehidupan dunia yang fana dan dorongan berinfak di jalan Allah."
+    },
+    {
+      "title": "Tafsir Surah Al-Mujadilah",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْمُجَادِلَةِ",
+      "arabic": "سُورَةُ الْمُجَادِلَةِ: مَدَنِيَّةٌ، افْتُتِحَتْ بِسَمَاعِ اللَّهِ لِقَوْلِ الَّتِي تُجَادِلُ زَوْجَهَا وَأَحْكَامِ الظِّهَارِ.",
+      "translation": "Surah Al-Mujadilah: Madaniyyah, dibuka dengan pendengaran Allah terhadap pengaduan wanita yang menggugat suaminya serta hukum Zihar."
+    },
+    {
+      "title": "Tafsir Surah Al-Hasyr",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْحَشْرِ",
+      "arabic": "سُورَةُ الْحَشْرِ: مَدَنِيَّةٌ، تُسَمَّى سُورَةَ بَنِي النَّضِيرِ، بَيَّنَتْ أَحْكَامَ الْفَيْءِ وَجَلاَءَ الْيَهُودِ.",
+      "translation": "Surah Al-Hasyr: Madaniyyah, dikenal sebagai Surah Bani Nadhir, menerangkan hukum harta Fai' dan pengusiran pembangkang Yahudi."
+    },
+    {
+      "title": "Tafsir Surah Al-Mumtahanah",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْمُمْتَحَنَةِ",
+      "arabic": "سُورَةُ الْمُمْتَحَنَةِ: مَدَنِيَّةٌ، اشْتَمَلَتْ عَلَى أَحْكَامِ مُوَالاَةِ الْكُفَّارِ وَامْتِحَانِ الْمُؤْمِنَاتِ الْمُهَاجِرَاتِ.",
+      "translation": "Surah Al-Mumtahanah: Madaniyyah, mencakup batasan wala' (kesetiaan) terhadap kaum kafir dan pengujian wanita mukminah yang berhijrah."
+    },
+    {
+      "title": "Tafsir Surah As-Saff",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الصَّفِّ",
+      "arabic": "سُورَةُ الصَّفِّ: مَدَنِيَّةٌ، حَثَّتْ عَلَى الْجِهَادِ فِي سَبِيلِ اللَّهِ صَفًّا كَأَنَّهُمْ بُنْيَانٌ مَرْصُوصٌ.",
+      "translation": "Surah As-Saff: Madaniyyah, mendorong perjuangan membela agama Allah dalam barisan yang teratur kokoh bak bangunan solid."
+    },
+    {
+      "title": "Tafsir Surah Al-Jumu'ah",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْجُمُعَةِ",
+      "arabic": "سُورَةُ الْجُمُعَةِ: مَدَنِيَّةٌ، بَيَّنَتْ فَرْضِيَّةَ صَلاَةِ الْجُمُعَةِ وَالسَّعْيَ إِلَى ذِكْرِ اللَّهِ.",
+      "translation": "Surah Al-Jumu'ah: Madaniyyah, menerangkan kewajiban pelaksanaan Shalat Jumat dan kewajiban bergegas mengingat Allah."
+    },
+    {
+      "title": "Tafsir Surah Al-Munafiqun",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْمُنَافِقُونَ",
+      "arabic": "سُورَةُ الْمُنَافِقُونَ: مَدَنِيَّةٌ، كَشَفَتْ صِفَاتِ الْمُنَافِقِينَ وَخَطَرَهُمْ عَلَى الأُمَّةِ.",
+      "translation": "Surah Al-Munafiqun: Madaniyyah, membongkar sifat-sifat kebohongan orang munafik dan bahaya mereka terhadap umat."
+    },
+    {
+      "title": "Tafsir Surah At-Taghabun",
+      "titleArabic": "تَفْسِيرُ سُورَةِ التَّغَابُنِ",
+      "arabic": "سُورَةُ التَّغَابُنِ: مَدَنِيَّةٌ، تَتَحَدَّثُ عَنْ يَوْمِ التَّغَابُنِ حَيْنَيَ يَغْبِنُ أَهْلُ الْجَنَّةِ أَهْلَ النَّارِ.",
+      "translation": "Surah At-Taghabun: Madaniyyah, berbicara tentang Hari Penyesalan (Taghabun) saat tampak kerugian bagi para pendosa."
+    },
+    {
+      "title": "Tafsir Surah At-Talaq",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الطَّلاَقِ",
+      "arabic": "سُورَةُ الطَّلاَقِ: مَدَنِيَّةٌ، اشْتَمَلَتْ عَلَى أَحْكَامِ الطَّلاَقِ وَالْعِدَّةِ وَالنَّفَقَةِ.",
+      "translation": "Surah At-Talaq: Madaniyyah, mencakup perincian hukum perceraian, masa 'iddah, dan kewajiban nafkah."
+    },
+    {
+      "title": "Tafsir Surah At-Tahrim",
+      "titleArabic": "تَفْسِيرُ سُورَةِ التَّحْرِيمِ",
+      "arabic": "سُورَةُ التَّحْرِيمِ: مَدَنِيَّةٌ، بَيَّنَتْ وُجُوبَ وِقَايَةِ الأَهْلِ مِنَ النَّارِ وَضَرَبَتْ أَمْثَالاً لِلْمُؤْمِنِينَ وَالْكَافِرِينَ.",
+      "translation": "Surah At-Tahrim: Madaniyyah, menjelaskan kewajiban menjaga diri dan keluarga dari api neraka serta perumpamaan wanita."
+    },
+    {
+      "title": "Tafsir Surah Al-Mulk",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْمُلْكِ",
+      "arabic": "سُورَةُ الْمُلْكِ: مَكِّيَّةٌ، تُسَمَّى الْمُنْجِيَةَ وَالْمُكَافِحَةَ عَنْ صَاحِبِهَا فِي الْقَبْرِ.",
+      "translation": "Surah Al-Mulk: Makkiyyah, dinamai Al-Munjiyah (penyelamat) yang akan membela dan menyelamatkan pembacanya dari azab kubur."
+    },
+    {
+      "title": "Tafsir Surah Al-Qalam",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْقَلَمِ",
+      "arabic": "سُورَةُ الْقَلَمِ: مَكِّيَّةٌ، بَيَّنَتْ خُلُقَ النَّبِيِّ الْعَظِيمَ وَقِصَّةَ أَصْحَابِ الْجَنَّةِ.",
+      "translation": "Surah Al-Qalam: Makkiyyah, menegaskan keluhuran akhlak Nabi SAW dan memuat kisah pemilik kebun yang kikir."
+    },
+    {
+      "title": "Tafsir Surah Al-Haqqah",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْحَاقَّاتِ",
+      "arabic": "سُورَةُ الْحَاقَّاتِ: مَكِّيَّةٌ، تَوَصَّلَتْ إِلَى إِثْبَاتِ يَوْمِ الْقِيَامَةِ وَهَلاَكِ الأُمَمِ الْمَاضِيَةِ.",
+      "translation": "Surah Al-Haqqah: Makkiyyah, berfokus menetapkan kebenaran Hari Kiamat dan kebinasaan bangsa-bangsa penentang."
+    },
+    {
+      "title": "Tafsir Surah Al-Ma'arij",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْمَعَارِجِ",
+      "arabic": "سُورَةُ الْمَعَارِجِ: مَكِّيَّةٌ، بَيَّنَتْ طَبِيعَةَ الإِنْسَانِ فِي الْهَلَعِ وَالجَزَعِ وَصِفَاتِ الْمُصَلِّينَ.",
+      "translation": "Surah Al-Ma'arij: Makkiyyah, menerangkan tabiat keluh kesah manusia serta kriteria indah orang yang mendirikan shalat."
+    },
+    {
+      "title": "Tafsir Surah Nuh",
+      "titleArabic": "تَفْسِيرُ سُورَةِ نُوحٍ",
+      "arabic": "سُورَةُ نُوحٍ: مَكِّيَّةٌ، اشْتَمَلَتْ عَلَى قِصَّةِ دَعْوَةِ نُوحٍ لِقَوْمِهِ لَيْلاً وَنَهَارًا وَالطُّوفَانِ.",
+      "translation": "Surah Nuh: Makkiyyah, mencakup perjalanan gigih dakwah Nabi Nuh siang malam kepada kaumnya hingga peristiwa taufan."
+    },
+    {
+      "title": "Tafsir Surah Al-Jinn",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْجِنِّ",
+      "arabic": "سُورَةُ الْجِنِّ: مَكِّيَّةٌ، بَيَّنَتِ اسْتِمَاعَ الْجِنِّ لِلْقُرْآنِ وَإِيمَانَهُمْ بِهِ.",
+      "translation": "Surah Al-Jinn: Makkiyyah, menjelaskan momen kaum Jin mendengarkan lantunan Al-Qur'an dan beriman kepadanya."
+    },
+    {
+      "title": "Tafsir Surah Al-Muzzammil",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْمُزَّمِّلِ",
+      "arabic": "سُورَةُ الْمُزَّمِّلِ: مَكِّيَّةٌ، أَمَرَتْ بِقِيَامِ اللَّيْلِ وَتَرْتِيلِ الْقُرْآنِ تَرْتِيلاً.",
+      "translation": "Surah Al-Muzzammil: Makkiyyah, memerintahkan ibadah Qiyamul Lail dan membaca Al-Qur'an secara perlahan lagi tertata (tartil)."
+    },
+    {
+      "title": "Tafsir Surah Al-Muddatstsir",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْمُدَّثِّرِ",
+      "arabic": "سُورَةُ الْمُدَّثِّرِ: مَكِّيَّةٌ، فِيهَا الأَمْرُ بِالإِنْذَارِ وَتَطْهِيرِ الثِّيَابِ وَتَكْبِيرِ الرَّبِّ.",
+      "translation": "Surah Al-Muddatstsir: Makkiyyah, memuat perintah memberi peringatan, menyucikan pakaian, dan mengagungkan Rabb."
+    },
+    {
+      "title": "Tafsir Surah Al-Qiyamah",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْقِيَامَةِ",
+      "arabic": "سُورَةُ الْقِيَامَةِ: مَكِّيَّةٌ، أَقْسَمَتْ بِ يَوْمِ الْقِيَامَةِ وَالنَّفْسِ اللَّوَّامَةِ وَرُؤْيَةِ اللَّهِ فِي الآخِرَةِ.",
+      "translation": "Surah Al-Qiyamah: Makkiyyah, bersumpah demi Hari Kiamat, jiwa yang menyesal, serta penegakan Ru'yatullah di akhirat."
+    },
+    {
+      "title": "Tafsir Surah Al-Insan",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الإِنْسَانِ",
+      "arabic": "سُورَةُ الإِنْسَانِ: مَدَنِيَّةٌ، تَذْكُرُ نِعَمَ أَهْلِ الْجَنَّةِ وَإِطْعَامَ الطَّعَامِ لِلْمَسَاكِينِ وَالأَسْرَى.",
+      "translation": "Surah Al-Insan: Madaniyyah, menyebutkan nikmat karunia penghuni surga serta keluhuran memberi makan orang miskin dan tawanan."
+    },
+    {
+      "title": "Tafsir Surah Al-Mursalat",
+      "titleArabic": "تَفْسِيرُ سُورَةِ الْمُرْسَلاَتِ",
+      "arabic": "سُورَةُ الْمُرْسَلاَتِ: مَكِّيَّةٌ، أَقْسَمَتْ بِالْمَلاَئِكَةِ وَتَوَعَّدَتِ الْمُكَذِّبِينَ بِالْوَيْلِ.",
+      "translation": "Surah Al-Mursalat: Makkiyyah, bersumpah demi para malaikat dan mengancam keras orang-orang yang mendustakan kebenaran."
+    },
+    {
+      "title": "Tafsir Juz 'Amma: Surah An-Naba' hingga An-Nas",
+      "titleArabic": "تَفْسِيرُ جُزْءِ عَمَّ: مِنْ سُورَةِ النَّبَإِ إِلَى سُورَةِ النَّاسِ",
+      "arabic": "جُزْءُ عَمَّ اشْتَمَلَ عَلَى السُّوَرِ الْقِصَارِ الَّتِي تُرَكِّزُ عَلَى الْعَقِيدَةِ وَالْبَعْثِ وَالْجَزَاءِ وَخَاتِمَةِ الْقُرْآنِ بِالْمُعَوِّذَتَيْنِ.",
+      "translation": "Juz 'Amma mencakup surah-surah pendek yang berfokus pada penegakan akidah, hari kebangkitan, balasan amal, hingga penutup Al-Qur'an dengan Al-Mu'awwidzatain."
+    },
+    {
+      "title": "Khatimah Tafsir: Doa Khatam dan Harapan Penulis",
+      "titleArabic": "خَاتِمَةُ التَّفْسِيرِ وَالدُّعَاءُ",
+      "arabic": "تَمَّ تَفْسِيرُ الْقُرْآنِ الْعَظِيمِ بِحَمْدِ اللَّهِ وَمَنِّهِ، وَنَسْأَلُ اللَّهَ أَنْ يَجْعَلَهُ خَالِصًا لِوَجْهِهِ الْكَرِيمِ وَأَنْ يَنْفَعَ بِهِ الأُمَّةَ.",
+      "translation": "Telah selesai penafsiran Al-Qur'an Al-'Azhim dengan puji dan karunia Allah. Kami memohon kepada Allah agar menjadikan karya ini ikhlas demi Wajah-Nya Yang Maha Mulia dan bermanfaat bagi seluruh umat."
+    }
+  ]
+}
