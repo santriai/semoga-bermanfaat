@@ -1,107 +1,191 @@
 {
-  "title": "Modul Praktis Makhorijul Huruf: Panduan Lengkap Fasih Membaca Al-Qur'an dari Nol",
-  "intro": "Selamat datang di modul panduan belajar Makhorijul Huruf! Modul ini dirancang khusus untuk Anda yang ingin belajar membaca Al-Qur'an dari tingkat paling dasar secara mandiri. Dengan memahami tempat keluarnya huruf (Makhraj), Anda akan terhindar dari kesalahan fatal dalam menyebut huruf hijaiyah dan mampu membaca Al-Qur'an secara fasih serta sesuai kaidah Tajwid.",
+  "title": "Modul Pintar Ilmu Shorof: Panduan Step-by-Step Dari Nol Sampai Mahir Menashrif Kata",
+  "intro": "Selamat datang di Modul Pembelajaran Ilmu Shorof! Shorof adalah 'kunci rahasia' untuk membuka arti ribuan kata dalam bahasa Arab, Al-Qur'an, dan Kitab Kuning hanya dengan memahami pola dasarnya. Jika Nahwu mengatur 'jabatan kata dalam kalimat', maka Shorof mempelajari 'perubahan bentuk kata'. Ibarat satu cetakan kue yang bisa menghasilkan berbagai bentuk makanan, satu kata dasar dalam Shorof bisa berubah menjadi puluhan bentuk kata lain dengan makna yang spesifik. Modul ini disusun khusus dari tingkat nol agar pemula dapat langsung paham dan mahir mempraktekkannya.",
   "steps": [
     {
       "stepNumber": 1,
-      "title": "Langkah 1: Memahami Konsep Dasar Makhraj & Area Rongga Mulut (Al-Jauf)",
-      "explanation": "Makhorijul Huruf secara bahasa artinya 'tempat-tempat keluar'. Dalam ilmu Tajwid, makhraj adalah tempat keluarnya suara huruf hijaiyah saat diucapkan. Tempat pertama yang wajib diketahui pemula adalah Al-Jauf (rongga mulut dan tenggorokan). Area ini adalah tempat keluarnya suara panjang (Mad), yaitu Alif (ا) setelah fathah, Wau mati (و) setelah dhommah, dan Ya mati (ي) setelah kasroh.",
+      "title": "Langkah 1: Mengenal 'Pola Cetakan' Dasar (Wazan 3 Huruf)",
+      "explanation": "Hampir seluruh kata dalam bahasa Arab memiliki akar kata yang terdiri dari 3 huruf asli. Dalam ilmu Shorof, 3 huruf asli ini diwakili oleh cetakan standar (Wazan) yaitu ف - ع - ل (Fa - 'Ain - Lam). Huruf pertama disebut Fa Fi'il, huruf kedua 'Ain Fi'il, dan huruf ketiga Lam Fi'il. Apa pun kata kerjanya, kita tinggal memasukkannya ke dalam cetakan standar ini.",
       "examples": [
         {
-          "arabic": "نُوحِيهَا",
-          "read": "Nuu - hii - haa",
-          "meaning": "Kami mewahyukannya",
-          "note": "Kata ini memiliki 3 huruf Mad lengkap. Suara keluar meluncur bebas melalui rongga mulut tanpa adanya hambatan pada lidah atau bibir."
-        }
-      ],
-      "actionTip": "Coba bunyikan suara panjang 'AAA', 'III', 'UUU' dengan posisi mulut terbuka secara proporsional tanpa menahan lidah di langit-langit."
-    },
-    {
-      "stepNumber": 2,
-      "title": "Langkah 2: Menguasai Huruf-Huruf Tenggorokan (Al-Halq)",
-      "explanation": "Al-Halq adalah area tenggorokan yang menghasilkan 6 huruf hijaiyah. Area ini terbagi menjadi 3 tingkatan: 1) Pangkal Tenggorokan (paling bawah dekat dada): Hamzah (ء) dan Ha (هـ). 2) Tengah Tenggorokan: 'Ain (ع) dan Ha' bersih (ح). 3) Ujung Tenggorokan (paling atas dekat rongga mulut): Ghoin (غ) dan Kho' (خ).",
-      "examples": [
-        {
-          "arabic": "خَلَقَ",
-          "read": "Kho - la - qo",
-          "meaning": "Dia telah menciptakan",
-          "note": "Huruf Kho' (خ) keluar dari ujung tenggorokan atas, menghasilkan suara sedikit bergeser/ada getaran seperti tenggorokan saat membuang dahak secara halus."
-        },
-        {
-          "arabic": "أَحْمَدُ",
-          "read": "Ah - ma - du",
-          "meaning": "Ahmad (Yang terpuji)",
-          "note": "Huruf Ha' (ح) keluar dari tengah tenggorokan, bersuara bersih dan halus seperti menghembuskan napas segar."
-        }
-      ],
-      "actionTip": "Lakukan tes vokal: Bedakan desahan 'Ha' biasa (هـ) yang berat dari dada dengan 'Ha' bersih (ح) yang jernih di tengah tenggorokan."
-    },
-    {
-      "stepNumber": 3,
-      "title": "Langkah 3: Menaklukkan Huruf-Huruf Lidah (Al-Lisan)",
-      "explanation": "Al-Lisan (Lidah) adalah area makhraj terbesar yang menghasilkan 18 huruf. Area ini dibagi menjadi: Pangkal lidah (Qof [ق] dan Kaf [ك]), Tengah lidah (Jim [ج], Syin [ش], Ya [ي]), Sisi lidah (Dhod [ض]), serta Ujung lidah yang menyentuh gigi atau gusi (seperti Ta [ت], Dal [د], Tho [ط], Nun [ن], Ro [ر], Lam [ل], Zai [ز], Sin [س], Shod [ص], Tsa [ث], Dzal [ذ], Zho [ظ]).",
-      "examples": [
-        {
-          "arabic": "قُلْ",
-          "read": "Qul",
-          "meaning": "Katakanlah",
-          "note": "Huruf Qof (ق) keluar dari pangkal lidah paling belakang yang menempel pada langit-langit lunak (bagian atas dekat anak tekak)."
+          "arabic": "فَعَلَ",
+          "read": "Fa'ala",
+          "meaning": "Dia (pria) telah berbuat",
+          "note": "Ini adalah cetakan dasar (Wazan standar). Huruf Fa = Fa fi'il, 'Ain = 'Ain fi'il, Lam = Lam fi'il."
         },
         {
           "arabic": "كَتَبَ",
-          "read": "Ka - ta - ba",
-          "meaning": "Dia telah menulis",
-          "note": "Huruf Kaf (ك) keluar sedikit di depan posisi Qof, menyentuh langit-langit keras dan mengeluarkan sedikit bisikan angin (Hams)."
+          "read": "Kataba",
+          "meaning": "Dia (pria) telah menulis",
+          "note": "Mengikuti wazan فَعَلَ (Fa'ala). Huruf Ka = Fa fi'il, Ta = 'Ain fi'il, Ba = Lam fi'il."
+        },
+        {
+          "arabic": "نَصَرَ",
+          "read": "Nashara",
+          "meaning": "Dia (pria) telah menolong",
+          "note": "Mengikuti wazan فَعَلَ (Fa'ala). Na = Fa fi'il, Sha = 'Ain fi'il, Ra = Lam fi'il."
         }
       ],
-      "actionTip": "Tempelkan ujung lidah Anda ke pangkal gigi seri atas untuk merasakan makhraj huruf Ta (ت) dan Dal (د)."
+      "actionTip": "Cobalah ambil kata 'جَلَسَ' (Jalasa - duduk), lalu tentukan mana huruf yang menempati posisi Fa Fi'il, 'Ain Fi'il, dan Lam Fi'il!"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Langkah 2: Memahami Tashrif Istilahiy (Perubahan Kata Berdasarkan Fungsi Peran)",
+      "explanation": "Tashrif Istilahiy adalah perubahan satu kata dasar menjadi berbagai bentuk kata kerja (pernah, sedang, perintah, larangan) dan kata benda (pelaku, objek, tempat, alat). Hanya dengan menghafal 1 pola perubahan ini, Anda otomatis bisa mengubah puluhan kata kerja lainnya!",
+      "examples": [
+        {
+          "arabic": "كَتَبَ",
+          "read": "Kataba",
+          "meaning": "Telah menulis (Fi'il Madhi / Kata Kerja Lampau)",
+          "note": "Menunjukkan pekerjaan yang sudah selesai dilakukan."
+        },
+        {
+          "arabic": "يَكْتُبُ",
+          "read": "Yaktubu",
+          "meaning": "Sedang / Akan menulis (Fi'il Mudhari' / Kata Kerja Sekarang/Akan Datang)",
+          "note": "Ciri khasnya diawali huruf Ya (يَـ)."
+        },
+        {
+          "arabic": "كِتَابَةً",
+          "read": "Kitabatan",
+          "meaning": "Penulisan / Tulisan (Masdar / Kata Benda Abstrak)",
+          "note": "Bentuk nama dari tindakan tersebut."
+        },
+        {
+          "arabic": "كَاتِبٌ",
+          "read": "Katibun",
+          "meaning": "Penulis (Isim Fa'il / Pelaku)",
+          "note": "Ciri khasnya ada huruf Alif setelah huruf pertama (كَا)."
+        },
+        {
+          "arabic": "مَكْتُوْبٌ",
+          "read": "Maktubun",
+          "meaning": "Yang ditulis / Terulis (Isim Maf'ul / Objek Penderita)",
+          "note": "Ciri khasnya diawali Ma- (مَـ) dan ada Wau mati sebelum akhir."
+        },
+        {
+          "arabic": "اُكْتُبْ",
+          "read": "Uktub",
+          "meaning": "Tulislah! (Fi'il Amar / Kata Perintah)",
+          "note": "Huruf terakhir berharakat sukun (mati)."
+        },
+        {
+          "arabic": "لَا تَكْتُبْ",
+          "read": "La Taktub",
+          "meaning": "Jangan menulis! (Fi'il Nahi / Kata Larangan)",
+          "note": "Diawali kata Laa (لَا) dan huruf terakhir sukun."
+        }
+      ],
+      "actionTip": "Rumus Cepat: Ingatlah urutannya: Lampau -> Sekarang -> Kata Benda -> Pelaku -> Korban/Objek -> Perintah -> Larangan."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Langkah 3: Menguasai Tashrif Lughawiy (Perubahan Kata Berdasarkan Pelaku / Dhomir)",
+      "explanation": "Jika pada Langkah 2 kita mengubah fungsi kata, maka pada Langkah 3 kita mengubah kata kerja berdasarkan 'siapa yang melakukan' (Dia, Kamu, Saya, Kami). Perubahan ini ditandai dengan akhiran huruf tertentu pada kata kerja lampau (Fi'il Madhi).",
+      "examples": [
+        {
+          "arabic": "كَتَبَ",
+          "read": "Kataba",
+          "meaning": "Dia (1 pria) telah menulis",
+          "note": "Bentuk asli tanpa tambahan akhiran."
+        },
+        {
+          "arabic": "كَتَبُوا",
+          "read": "Katabuu",
+          "meaning": "Mereka (banyak pria) telah menulis",
+          "note": "Ditambahi akhiran Wau Alif (وا) di akhir kata."
+        },
+        {
+          "arabic": "كَتَبْتَ",
+          "read": "Katabta",
+          "meaning": "Kamu (1 pria) telah menulis",
+          "note": "Ditambahi akhiran Ta berharakat Fathah (تَ)."
+        },
+        {
+          "arabic": "كَتَبْتُ",
+          "read": "Katabtu",
+          "meaning": "Saya telah menulis",
+          "note": "Ditambahi akhiran Tu berharakat Dhommah (تُ)."
+        },
+        {
+          "arabic": "كَتَبْنَا",
+          "read": "Katabnaa",
+          "meaning": "Kami/Kita telah menulis",
+          "note": "Ditambahi akhiran Naa panjang (نَا)."
+        }
+      ],
+      "actionTip": "Rumus Cepat Ingatan Akhiran: 'Ta' = Kamu (Pria), 'Tu' = Saya, 'Naa' = Kami. Praktekkan dengan kata 'نَصَرَ' (Nashara -> Nasharta, Nashartu, Nasharnaa)!"
     },
     {
       "stepNumber": 4,
-      "title": "Langkah 4: Mengenal Huruf Bibir (Asy-Syafataan) & Rongga Hidung (Al-Khaisyum)",
-      "explanation": "Asy-Syafataan artinya dua bibir. Ada 4 huruf yang keluar dari area ini: Fa' (ف - gigi seri atas menyentuh bibir bawah), Ba' (ب - merapatkan kedua bibir), Mim (م - merapatkan kedua bibir dengan lebih ringan), dan Wau (و - membulatkan kedua bibir). Sedangkan Al-Khaisyum (rongga hidung) adalah tempat keluarnya suara dengung (Ghunnah) saat membaca Mim/Nun bertasydid.",
+      "title": "Langkah 4: Mengenal Pola Imbuhan (Fi'il Tsulatsi Mazid) untuk Mengubah Makna Dasar",
+      "explanation": "Sama seperti bahasa Indonesia yang memiliki imbuhan (me-, di-, -kan), bahasa Arab juga menambahkan 1 hingga 3 huruf pada kata dasar 3 huruf untuk memberi makna baru. Contoh paling populer adalah penambahan huruf Alif (أَ) di depan kata kerja yang mengubah makna menjadi 'menjadikan/menyebabkan'.",
       "examples": [
         {
-          "arabic": "ثُمَّ",
-          "read": "Tsum - ma",
-          "meaning": "Kemudian",
-          "note": "Huruf Mim bertasydid diucapkan dengan merapatkan bibir dan menahan getaran suara di pangkal hidung (Al-Khaisyum) selama 2 ketukan."
+          "arabic": "عَلِمَ",
+          "read": "Alima",
+          "meaning": "Dia tahu / mengetahui",
+          "note": "Kata dasar 3 huruf murni."
+        },
+        {
+          "arabic": "عَلَّمَ",
+          "read": "Allama",
+          "meaning": "Dia mengajar (menjadikan orang lain tahu)",
+          "note": "Penambahan Tasydid pada huruf tengah memperkuat makna."
+        },
+        {
+          "arabic": "أَعْلَمَ",
+          "read": "A'lama",
+          "meaning": "Dia memberitahukan / mengabarkan",
+          "note": "Penambahan huruf Hamzah (أَ) di awal membuat makna transitif."
+        },
+        {
+          "arabic": "تَعَلَّمَ",
+          "read": "Ta'allama",
+          "meaning": "Dia belajar (berusaha untuk tahu)",
+          "note": "Penambahan Ta (تَ) dan Tasydid berarti proses sungguh-sungguh."
         }
       ],
-      "actionTip": "Pencet hidung Anda saat membaca kata 'Tsumma'. Jika getaran suara terhenti/tersumbat, berarti makhraj Al-Khaisyum Anda sudah tepat!"
+      "actionTip": "Setiap kali Anda melihat kata kerja yang diawali Hamzah (أَ) atau ada tasydid di tengahnya, ketahuilah bahwa ada penambahan makna dari kata dasarnya."
     },
     {
       "stepNumber": 5,
-      "title": "Langkah 5: Metode Cepat Mandiri Menguji Makhraj (Rumus Sukun)",
-      "explanation": "Untuk menemukan lokasi tepat suatu huruf secara mandiri tanpa bingung, gunakan RUMUS SUKUN: Tambahkan huruf Hamzah berharakat Fathah (أَ) di depan huruf yang ingin diuji, lalu berikan harakat Sukun/Mati pada huruf tersebut. Titik di mana suara Anda terhenti secara alami, itulah Makhraj asli dari huruf tersebut!",
+      "title": "Langkah 5: Praktek Membedakan Kata dalam Al-Qur'an dan Kitab Kuning",
+      "explanation": "Saat membaca Al-Qur'an atau Kitab Kuning gundul, analisis kata menggunakan rumus-rumus Shorof yang telah dipelajari. Lihat awalan, sisipan, dan akhirannya untuk mengidentifikasi arti dan jenis katanya.",
       "examples": [
         {
-          "arabic": "أَبْ",
-          "read": "Ab",
-          "meaning": "Tes Makhraj Huruf Ba",
-          "note": "Saat mengucapkan 'Ab', suara mendadak terhenti di kedua bibir yang tertutup rapat. Ini membuktikan makhraj Ba adalah bibir."
+          "arabic": "يَعْلَمُونَ",
+          "read": "Ya'lamuuna",
+          "meaning": "Mereka sedang/akan mengetahui",
+          "note": "Analisis: Awalan 'Ya' (يـ) + Akhiran 'Uuna' (ون) = Fi'il Mudhari' untuk mereka (Jamak)."
         },
         {
-          "arabic": "أَعْ",
-          "read": "A' ",
-          "meaning": "Tes Makhraj Huruf 'Ain",
-          "note": "Saat mengucapkan 'A'', Anda merasakan tekanan jepitan halus di tengah tenggorokan."
+          "arabic": "عَالِمٌ",
+          "read": "Aalimun",
+          "meaning": "Orang yang berilmu / Orang tahu",
+          "note": "Analisis: Mengikuti pola 'Fa'ilun' (فَاعِلٌ) = Isim Fa'il (Pelaku)."
+        },
+        {
+          "arabic": "مَعْلُوْمٌ",
+          "read": "Ma'luumun",
+          "meaning": "Yang diketahui / Dimaklumi",
+          "note": "Analisis: Mengikuti pola 'Maf'uulun' (مَفْعُوْلٌ) = Isim Maf'ul (Objek)."
         }
       ],
-      "actionTip": "Praktekkan tes sukun ini pada 5 huruf berbeda secara mandiri: أَتْ (At), أَكْ (Ak), أَسْ (As), أَخْ (Akh), dan أَمْ (Am)."
+      "actionTip": "Buka Al-Qur'an Surah Al-Baqarah ayat 1-5, carilah kata-kata yang mengikuti pola 'Isim Fa'il' (diawali alif di huruf kedua) atau 'Isim Maf'ul' (diawali huruf Ma)!"
     }
   ],
   "sections": [
     {
-      "title": "Ringkasan Kaidah Penting: 5 Kelompok Utama Makhraj",
-      "content": "1. Al-Jauf (Rongga Mulut & Tenggorokan): Khusus huruf Mad/Panjang (ا، و، ي).\n2. Al-Halq (Tenggorokan): 6 Huruf (ء، هـ، ع، ح، غ، خ).\n3. Al-Lisan (Lidah): 18 Huruf (ق، ك، ج، ش، ي، ض، ل، ن، ر، ط، د، ت، ص، س، ز، ظ، ذ، ث).\n4. Asy-Syafataan (Dua Bibir): 4 Huruf (ف، ب، م، و).\n5. Al-Khaisyum (Rongga Hidung): Tempat keluarnya getaran Dengung (Ghunnah)."
+      "title": "Ringkasan Kaidah / Pola Wazan Utama",
+      "content": "1. Pelaku (Isim Fa'il) -> Pola: فَاعِلٌ (Fa'ilun) | Contoh: كَاتِبٌ (Penulis), عَالِمٌ (Orang Berilmu), صَابِرٌ (Orang Sabar).\n2. Objek (Isim Maf'ul) -> Pola: مَفْعُوْلٌ (Maf'ulun) | Contoh: مَكْتُوْبٌ (Yang Ditulis), مَعْلُوْمٌ (Yang Diketahui), مَنْصُوْرٌ (Yang Ditolong).\n3. Kata Kerja Perintah (Fi'il Amar) -> Pola: اُفْعُلْ (Uf'ul) / اِفْعِلْ (If'il) | Contoh: اُكْتُبْ (Tulislah!), اِجْلِسْ (Duduklah!).\n4. Pelaku (Saya) pada Kata Kerja Lampau -> Akhiran 'تُ' (Tu) | Contoh: كَتَبْتُ (Saya telah menulis).\n5. Pelaku (Kamu Pria) pada Kata Kerja Lampau -> Akhiran 'تَ' (Ta) | Contoh: كَتَبْتَ (Kamu telah menulis)."
     }
   ],
   "tips": [
-    "Gunakan Cermin: Saat berlatih huruf-huruf bibir dan lidah, perhatikan bentuk mulut Anda di depan cermin.",
-    "Gunakan Rumus Hamzah + Sukun (أَ + Huruf Mati) untuk memverifikasi tempat keluarnya suara secara mandiri kapan saja.",
-    "Utamakan Kejelasan (Fashohah): Jangan terburu-buru ingin membaca cepat, fokuslah pada ketepatan posisi lidah dan bibir terlebih dahulu.",
-    "Dengarkan Murottal Standar: Simak rekaman Syaikh Mahmud Khalil Al-Hussary yang pelan dan sangat jelas makhrajnya untuk ditirukan."
+    "Fokuslah menghafal 1 kata perwakilan saja (misal: Kataba - Yaktubu) sampai lancar luar kepala. Jangan menghafal rumus abstraknya saja.",
+    "Gunakan metode 'Jembatan Keledai': Ingat kata 'Maktub' (yang sudah ditakdirkan/ditulis) untuk mengingat pola Isim Maf'ul (Objek).",
+    "Gunakan Kamus Mahmud Yunus atau Kamus Al-Munawwid; dalam kamus bahasa Arab, kata selalu dicari berdasarkan 3 huruf akar dasarnya (Fi'il Madhi).",
+    "Praktekkan 5 menit setiap hari setelah shalat dengan memilih 3 kata dalam Al-Qur'an dan tebak jenis perubahannya."
   ],
-  "summary": "Selamat! Anda kini telah memahami peta dasar dan cara menemukan Makhorijul Huruf secara mandiri. Kunci utama untuk mahir membaca Al-Qur'an adalah latihan lisan yang konsisten (Riyadhotullisan). Luangkan waktu 10-15 menit setiap hari untuk mempraktekkan rumus sukun pada setiap huruf hijaiyah. Semoga Allah mempermudah langkah Anda menjadi pembaca Al-Qur'an yang fasih dan benar!"
+  "summary": "Selamat! Anda telah mempelajari konsep inti Ilmu Shorof. Ingatlah bahwa Shorof bukanlah ilmu hafalan yang memberatkan, melainkan ilmu 'pola dan logika'. Begitu Anda menguasai satu cetakan kata dasar, ribuan kata dalam Kitab Kuning dan Al-Qur'an akan terbuka artinya secara otomatis. Teruslah berlatih menashrif kata-kata baru setiap hari!"
 }
