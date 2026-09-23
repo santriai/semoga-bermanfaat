@@ -1,252 +1,252 @@
 [
   {
-    "name": "Tahrir Tanqih al-Lubab",
-    "author": "Syaikh al-Islam Zakariyya al-Ansari",
-    "desc": "Ringkasan matan fiqih Syafi'i dari kitab Tanqih al-Lubab karya Al-Mahalli."
+    "name": "Al-Muwatta'",
+    "author": "Imam Malik ibn Anas",
+    "desc": "Kitab fiqh dan hadits hukum tertua yang menjadi fondasi utama Mazhab Maliki."
   },
   {
-    "name": "Tuhfat al-Thullab bi Syarh Tahrir Tanqih al-Lubab",
-    "author": "Syaikh al-Islam Zakariyya al-Ansari",
-    "desc": "Syarah atas kitab Tahrir Tanqih al-Lubab dalam mazhab Syafi'i."
+    "name": "Sabilal Muhtadin",
+    "author": "Sheikh Muhammad Arsyad al-Banjari",
+    "desc": "Kitab fiqh Shafi'i monumental berbahasa Melayu Jawi karangan ulama Nusantara."
   },
   {
-    "name": "Irshad al-Ghawi fi Masalik al-Hawi",
-    "author": "Ibnu al-Muqri al-Yamani",
-    "desc": "Ringkasan fiqih Syafi'i yang berpatokan pada kitab Al-Hawi al-Saghir."
+    "name": "Al-Talqin fi al-Fiqh al-Maliki",
+    "author": "Qadi Abd al-Wahhab al-Maliki",
+    "desc": "Ringkasan fiqh Mazhab Maliki yang padat dan komprehensif."
   },
   {
-    "name": "Bahr al-Madhhab",
-    "author": "Abu al-Mahasin al-Ruyani",
-    "desc": "Ensiklopedi fiqih mazhab Syafi'i yang sangat luas dan memuat ragam pendapat mutaqaddimin."
+    "name": "Bidayat al-Abed wa Kifayat al-Nasiq",
+    "author": "Abdul Qadir al-Taghlibi",
+    "desc": "Matn fiqh Mazhab Hanbali ringkas untuk tingkat pemula."
   },
   {
-    "name": "At-Tahdhib fi Fiqh al-Imam al-Syafi'i",
+    "name": "Kafi al-Mubtadi",
+    "author": "Ahmad ibn Abdullah al-Ba'li",
+    "desc": "Kitab matn dasar dalam pembelajaran fiqh Mazhab Hanbali."
+  },
+  {
+    "name": "Al-Raudh al-Nadi Syarh Kafi al-Mubtadi",
+    "author": "Ahmad ibn Abdullah al-Ba'li",
+    "desc": "Syarah terperinci untuk matn Kafi al-Mubtadi dalam fiqh Hanbali."
+  },
+  {
+    "name": "Sharh Mukhtasar al-Tahawi",
+    "author": "Abu Bakr al-Jassas",
+    "desc": "Syarah fiqh Hanafi klasik atas ringkasan Imam at-Tahawi."
+  },
+  {
+    "name": "Imdad al-Fattah Syarh Nur al-Idah",
+    "author": "Hasan al-Shurunbulali",
+    "desc": "Syarah luas dan terperinci atas matn Nur al-Idah dalam fiqh Hanafi."
+  },
+  {
+    "name": "Jami' al-Rumuz",
+    "author": "Shams al-Din al-Quhistani",
+    "desc": "Syarah populer dalam fiqh Hanafi untuk kitab al-Nuqayah."
+  },
+  {
+    "name": "Al-Jawahir al-Zakiyyah fi Fiqh al-Malikiyyah",
+    "author": "Ahmad ibn Turki al-Manshalati",
+    "desc": "Kitab fiqh Mazhab Maliki yang membahas ibadah secara terperinci."
+  },
+  {
+    "name": "Syarh al-Khurashi 'ala Mukhtasar Khalil",
+    "author": "Muhammad al-Khurashi",
+    "desc": "Syarah induk yang sangat populer dalam Mazhab Maliki atas Mukhtasar Khalil."
+  },
+  {
+    "name": "Al-Durr al-Thamin wa al-Mawrid al-Ma'in",
+    "author": "Mayyara al-Maliki",
+    "desc": "Syarah atas matn Ibn Ashir dalam ibadah dan fiqh Maliki."
+  },
+  {
+    "name": "Al-Masail al-Bafadhaliyyah",
+    "author": "Abdullah Bafadhal al-Hadrami",
+    "desc": "Ringkasan fiqh ibadah Shafi'i yang sangat populer di Yaman dan Nusantara."
+  },
+  {
+    "name": "At-Tadhkirah fi al-Fiqh",
+    "author": "Ibn al-Mulaqqin",
+    "desc": "Ringkasan fiqh Mazhab Shafi'i mengenai hukum-hukum ibadah dan muamalah."
+  },
+  {
+    "name": "Fatawa al-Kurdi",
+    "author": "Muhammad bin Sulayman al-Kurdi",
+    "desc": "Kumpulan fatwa fiqh Shafi'i yang menjadi rujukan ulama muta'akhirin."
+  },
+  {
+    "name": "Miftah al-Falah",
+    "author": "Muhammad bin Salim bin Hafiz",
+    "desc": "Panduan fiqh praktis dan ibadah harian bermazhab Shafi'i."
+  },
+  {
+    "name": "Fath al-Sattar Syarh Saluk al-Jaddah",
+    "author": "Sheikh Nawawi al-Bantani",
+    "desc": "Kitab fiqh ibadah Mazhab Shafi'i karya ulama besar Banten."
+  },
+  {
+    "name": "Al-Kawkab al-Wahhaj Syarh al-Minhaj",
+    "author": "Muhammad al-Amini al-Harari",
+    "desc": "Syarah kontemporer yang sangat luas atas Minhaj at-Thalibin Shafi'i."
+  },
+  {
+    "name": "Al-Syarh al-Qawim 'ala al-Muqaddimah al-Hadramiyyah",
+    "author": "Abdullah bin Ahmad al-Basa'id",
+    "desc": "Syarah fiqh Shafi'i terperinci atas Muqaddimah Hadramiyyah."
+  },
+  {
+    "name": "Al-Muntakhab fi al-Fiqh",
+    "author": "Abu al-Hasan al-Mawardi",
+    "desc": "Kitab fiqh Shafi'i ringkas yang disusun oleh Imam al-Mawardi."
+  },
+  {
+    "name": "Al-Kifayah Syarh al-Hidayah",
+    "author": "Jalal al-Din al-Khwarazmi",
+    "desc": "Syarah penting dalam fiqh Hanafi atas kitab Al-Hidayah."
+  },
+  {
+    "name": "Al-Bahr al-Ammiq",
+    "author": "Ibn Fahd al-Makki",
+    "desc": "Kitab fiqh ibadah haji paling komprehensif dalam Mazhab Hanafi."
+  },
+  {
+    "name": "Al-Siraj al-Wahhaj Syarh al-Quduri",
+    "author": "Abu Bakr al-Haddadi",
+    "desc": "Syarah mutanawwi' dalam fiqh Hanafi atas Mukhtasar al-Quduri."
+  },
+  {
+    "name": "Matn al-Karkhi",
+    "author": "Abu al-Hasan al-Karkhi",
+    "desc": "Matn fiqh Hanafi tertua yang memuat prinsip-prinsip hukum mazhab."
+  },
+  {
+    "name": "Sharh Mukhtasar al-Karkhi",
+    "author": "Abu al-Husayn al-Quduri",
+    "desc": "Syarah Imam al-Quduri atas matn fiqh Hanafi karya al-Karkhi."
+  },
+  {
+    "name": "Al-Khilafiyat",
+    "author": "Imam al-Bayhaqi",
+    "desc": "Kitab perbandingan fiqh antara Mazhab Shafi'i dan mazhab lainnya berbasis dalil."
+  },
+  {
+    "name": "Fatawa al-Ramli",
+    "author": "Shihab al-Din al-Ramli",
+    "desc": "Kumpulan fatwa utama mazhab Shafi'i dari mufti besar Al-Azhar."
+  },
+  {
+    "name": "Fatawa Ibn Ziyad",
+    "author": "Ahmad bin Umar Ibn Ziyad al-Yamani",
+    "desc": "Kitab himpunan fatwa fiqh Shafi'i yang populer di Hadramaut dan Nusantara."
+  },
+  {
+    "name": "Safinat al-Salat",
+    "author": "Sayyid Abdullah bin Umar al-Hadrami",
+    "desc": "Kitab ringkas khusus membahas tata cara dan hukum salat mazhab Shafi'i."
+  },
+  {
+    "name": "Qut al-Habib al-Mawshih",
+    "author": "Sheikh Nawawi al-Bantani",
+    "desc": "Hasyiyah fiqh Shafi'i penjelas atas kitab Fath al-Qarib al-Mujib."
+  },
+  {
+    "name": "Al-Muntaqa Syarh al-Muwatta'",
+    "author": "Abu al-Walid al-Baji",
+    "desc": "Syarah fiqh Maliki yang sangat berpengaruh atas kitab Al-Muwatta Imam Malik."
+  },
+  {
+    "name": "Fatawa al-Nawazil",
+    "author": "Abu al-Layth al-Samarqandi",
+    "desc": "Himpunan fatwa fiqh Hanafi klasik mengenai masalah-masalah zamannya."
+  },
+  {
+    "name": "Nukhab al-Afkar",
+    "author": "Badr al-Din al-'Ayni",
+    "desc": "Syarah fiqh dan hadits hukum atas Sharh Ma'ani al-Athar karya at-Tahawi."
+  },
+  {
+    "name": "Al-Ifsah 'an Ma'ani al-Sihah",
+    "author": "Ibn Hubayrah",
+    "desc": "Kitab perbandingan fiqh empat mazhab berdasarkan hadits-hadits sahih."
+  },
+  {
+    "name": "Al-Ishrāq fi Ma'rifat al-Khilāf",
+    "author": "Qadi Abd al-Wahhab al-Maliki",
+    "desc": "Kitab perbandingan fiqh mazhab Maliki dengan mazhab lainnya."
+  },
+  {
+    "name": "Al-Bulghah fi al-Fiqh",
+    "author": "Abu al-Khattab al-Kalwadhani",
+    "desc": "Matn fiqh Hanbali klasik yang disusun oleh ulama terkemuka."
+  },
+  {
+    "name": "Bahr al-Fawa'id",
+    "author": "Abu Bakr al-Kalabadhi",
+    "desc": "Kitab pembahasan hukum fiqh, hikmah ibadah, dan adab Islam."
+  },
+  {
+    "name": "Al-Masa'il al-Munsarah",
+    "author": "Ibn Qudamah al-Maqdisi",
+    "desc": "Pembahasan masalah-masalah khusus dalam fiqh Mazhab Hanbali."
+  },
+  {
+    "name": "Al-Ruwayatayn wa al-Wajhayn",
+    "author": "Qadi Abu Ya'la al-Farra'",
+    "desc": "Analisis ragam riwayat dan pendapat internal Mazhab Hanbali."
+  },
+  {
+    "name": "Al-Tahqiq",
+    "author": "Imam an-Nawawi",
+    "desc": "Pembahasan kritis perbandingan dalil-dalil fiqh Shafi'i."
+  },
+  {
+    "name": "Bughyat al-Abrar",
+    "author": "Sheikh Muhammad Arsyad al-Banjari",
+    "desc": "Risalah fiqh Shafi'i mengenai hukum zakat dan ibadah karya ulama Banjar."
+  },
+  {
+    "name": "Siraj al-Huda",
+    "author": "Sheikh Muhammad Arsyad al-Banjari",
+    "desc": "Kitab fiqh aqidah dan ibadah ringkas dalam bahasa Melayu Jawi."
+  },
+  {
+    "name": "Al-Fawaid al-Jaliyyah fi al-Mabahith al-Fiqhiyyah",
+    "author": "Ahmad al-Ahdal",
+    "desc": "Kitab fiqh Shafi'i terperinci mengenai kaidah dan cabang hukum."
+  },
+  {
+    "name": "Fath al-Majid Syarh al-Durrah al-Bahiyyah",
+    "author": "Muhammad Nawawi al-Bantani",
+    "desc": "Syarah fiqh Shafi'i atas nazham al-Durrah al-Bahiyyah."
+  },
+  {
+    "name": "Al-Muqaddimah al-Abla'iyyah",
+    "author": "Abu al-Layth al-Samarqandi",
+    "desc": "Ringkasan fiqh Hanafi dasar tentang ibadah dan kesucian."
+  },
+  {
+    "name": "Al-I'lam bi-Ahkam al-Ihkam",
+    "author": "Ibn Daqiq al-'Id",
+    "desc": "Penjelasan komprehensif hadits-hadits hukum fiqh."
+  },
+  {
+    "name": "Ma'alim al-Sunan",
+    "author": "Abu Sulayman al-Khattabi",
+    "desc": "Syarah fiqh dan hadits ahkam pertama atas Sunan Abi Dawud."
+  },
+  {
+    "name": "Syarh al-Sunnah",
     "author": "Imam al-Baghawi",
-    "desc": "Kitab fiqih Syafi'i klasik yang menjadi rujukan utama al-Rafi'i dan al-Nawawi."
+    "desc": "Himpunan hadits ahkam yang dilengkapi penjelasan fiqh sahabat dan tabi'in."
   },
   {
-    "name": "Umdat al-Muhtaj ila Kitab al-Minhaj",
-    "author": "Ibnu al-Mulaqqin",
-    "desc": "Syarah rinci dan berjilid-jilid atas Minhaj at-Thalibin karya Imam al-Nawawi."
+    "name": "Al-Mu'tamad fi al-Fiqh al-Hanbali",
+    "author": "Ali bin Muhammad al-Amredi",
+    "desc": "Kitab pegangan fiqh Hanbali muta'akhirin yang terstruktur."
   },
   {
-    "name": "Al-Ibtihaj fi Syarh al-Minhaj",
-    "author": "Taqiyuddin al-Subki",
-    "desc": "Syarah analitis atas Minhaj at-Thalibin karya Imam al-Nawawi."
-  },
-  {
-    "name": "Al-Siraj al-Wahhaj Syarh Minhaj at-Thalibin",
-    "author": "Muhammad az-Zuhri al-Ghamrawi",
-    "desc": "Syarah ringkas dan lugas yang memudahkan pemahaman Minhaj at-Thalibin."
-  },
-  {
-    "name": "Al-Riyadh al-Wardiyyah fi Ma'ani az-Zubad",
-    "author": "Al-Sayyid Alwi bin Ahmad al-Ahdal",
-    "desc": "Syarah atas منظومة الزبد (Matan Zubad) dalam fiqih Syafi'i."
-  },
-  {
-    "name": "Hasyiyah al-Syarqawi 'ala al-Tahrir",
-    "author": "Syaikh Abdullah al-Syarqawi",
-    "desc": "Catatan pinggir atas Syarah Tuhfat at-Thullab karya Zakariyya al-Ansari."
-  },
-  {
-    "name": "Hasyiyah al-Bujairami 'ala al-Manhaj (At-Tajrid)",
-    "author": "Sulaiman bin Muhammad al-Bujairami",
-    "desc": "Hasyiyah atas Manhaj al-Thullab karya Zakariyya al-Ansari."
-  },
-  {
-    "name": "Fatawa al-Subki",
-    "author": "Taqiyuddin al-Subki",
-    "desc": "Kumpulan fatwa fiqih Syafi'i dari Imam Taqiyuddin al-Subki."
-  },
-  {
-    "name": "Fatawa Ibn al-Salah",
-    "author": "Ibnu al-Salah al-Syahrazuri",
-    "desc": "Kumpulan jawaban hukum fiqih mazhab Syafi'i karya Ibnu al-Salah."
-  },
-  {
-    "name": "Al-Muheet al-Burhani",
-    "author": "Burhanuddin Ibnu Mazah al-Bukhari",
-    "desc": "Ensiklopedi hukum fiqih Hanafi yang memuat ragam waqi'at dan fatwa."
-  },
-  {
-    "name": "Al-Fatawa al-Tatarikhaniyyah",
-    "author": "Al-Aalim ibn Al-A'la al-Ansari",
-    "desc": "Himpunan fatwa mazhab Hanafi skala besar yang dikompilasi pada era Pertengahan."
-  },
-  {
-    "name": "Al-Fatawa al-Bazzaziyyah",
-    "author": "Hafizuddin Muhammad al-Bazzazi",
-    "desc": "Kumpulan fatwa Hanafi populer yang sering dicetak bersama al-Fatawa al-Hindiyyah."
-  },
-  {
-    "name": "Jami' al-Fusulayn",
-    "author": "Badruddin Ibnu Qadi Samawana",
-    "desc": "Rujukan fiqih transaksi dan peradilan dalam mazhab Hanafi."
-  },
-  {
-    "name": "Al-Fatawa al-Sirajiyyah",
-    "author": "Sirajuddin Ali bin Utsman al-Oshi",
-    "desc": "Himpunan masalah fiqih pilihan dan fatwa praktis mazhab Hanafi."
-  },
-  {
-    "name": "Al-Tajnis wa al-Mazid",
-    "author": "Burhanuddin al-Marghinani",
-    "desc": "Kitab fatwa fiqih Hanafi karya penyusun al-Hidayah."
-  },
-  {
-    "name": "Khizanat al-Fiqh",
-    "author": "Abu al-Laith al-Samarqandi",
-    "desc": "Kompilasi ringkas cabang hukum fiqih mazhab Hanafi."
-  },
-  {
-    "name": "Al-Kafi fi al-Fiqh",
-    "author": "Al-Hakim al-Syahid al-Marwazi",
-    "desc": "Ringkasan dari kitab-kitab Dhahir al-Riwayah Imam Muhammad al-Syaibani."
-  },
-  {
-    "name": "Al-Ghayah fi Syarh al-Hidayah",
-    "author": "Ahmad bin Ibrahim al-Saruji",
-    "desc": "Syarah luas atas kitab Al-Hidayah dalam mazhab Hanafi."
-  },
-  {
-    "name": "Jami' al-Ummahat",
-    "author": "Ibnu al-Hajib al-Maliki",
-    "desc": "Mukhtasar fiqih Maliki terkemuka yang menjadi dasar Mukhtasar Khalil."
-  },
-  {
-    "name": "Al-Jawahir al-Thaminah fi Madzhab Alim al-Madinah",
-    "author": "Ibnu Shas al-Maliki",
-    "desc": "Karya fiqih Maliki yang sistematis dengan sistematika Ihya' Ulumiddin."
-  },
-  {
-    "name": "Tuhfat al-Hukkam fi Nukt al-Uqud wa al-Ahkam",
-    "author": "Ibnu 'Asim al-Andalusi",
-    "desc": "Matan nazham fiqih peradilan dan transaksi hukum mazhab Maliki."
-  },
-  {
-    "name": "Al-Bahjah fi Syarh al-Tuhfah",
-    "author": "Al-Tawudi ibn Suda",
-    "desc": "Syarah atas Tuhfat al-Hukkam karya Ibnu 'Asim dalam fiqih peradilan Maliki."
-  },
-  {
-    "name": "Mayyara 'ala al-Tuhfah (Al-Itqan wa al-Ihkam)",
-    "author": "Muhammad bin Ahmad Mayyara",
-    "desc": "Syarah terkenal atas Tuhfat al-Hukkam karya Ibnu 'Asim al-Andalusi."
-  },
-  {
-    "name": "Al-Mi'yar al-Mu'rib wa al-Jami' al-Mughrib",
-    "author": "Ahmad bin Yahya al-Wansharisi",
-    "desc": "Ensiklopedi himpunan fatwa-fatwa ulama mazhab Maliki di Maghrib dan Andalusia."
-  },
-  {
-    "name": "Syifa' al-Ghalil fi Syarh Mukhtasar Khalil",
-    "author": "Muhammad al-Ameer al-Maliki",
-    "desc": "Syarah mendalam atas Mukhtasar Khalil dalam fiqih Maliki."
-  },
-  {
-    "name": "Al-Muqaddimah al-Qurtubiyyah",
-    "author": "Ibnu Rusyd al-Jadd",
-    "desc": "Ringkasan dasar-dasar ibadah dan muamalah mazhab Maliki."
-  },
-  {
-    "name": "Syarh Zuruq 'ala al-Risalah",
-    "author": "Ahmad Zuruq al-Fasi",
-    "desc": "Syarah fiqih dan tasawuf atas Risalah Ibn Abi Zaid al-Qayrawani."
-  },
-  {
-    "name": "Muntaha al-Iradat",
-    "author": "Ibn al-Najjar al-Futuhi",
-    "desc": "Kitab pegangan utama fatwa mazhab Hanbali muta'akkhirin."
-  },
-  {
-    "name": "Daqaiq Uli al-Nuha li Syarh al-Muntaha",
-    "author": "Mansur bin Yunus al-Buhuti",
-    "desc": "Syarah standar atas Muntaha al-Iradat dalam fiqih Hanbali."
-  },
-  {
-    "name": "Al-Uddah Syarh al-Umdah",
-    "author": "Baha'uddin al-Maqdisi",
-    "desc": "Syarah penjelasan atas kitab Umdat al-Fiqh karya Ibnu Qudamah."
-  },
-  {
-    "name": "Al-Khilaf al-Kabir",
-    "author": "Al-Qadhi Abu Ya'la al-Farra'",
-    "desc": "Kitab perbandingan fiqih antarmazhab karangan tokoh utama Hanbali."
-  },
-  {
-    "name": "Al-Muthli' 'ala Abwab al-Muqni'",
-    "author": "Muhammad bin Abi al-Fath al-Ba'li",
-    "desc": "Kamus istilah fiqih dan bahasa untuk kitab Al-Muqni' Hanbali."
-  },
-  {
-    "name": "Al-Tashil fi al-Fiqh",
-    "author": "Ibnu al-Ba'li al-Hanbali",
-    "desc": "Ringkasan masalah hukum fiqih mazhab Hanbali bagi pemula."
-  },
-  {
-    "name": "Bulghat al-Sajib fi Fiqh al-Imam Ahmad",
-    "author": "Burhanuddin Ibnu Muflih",
-    "desc": "Panduan fiqih Hanbali ringkas karya keturunan keluarga Ibnu Muflih."
-  },
-  {
-    "name": "Umdat al-Ahkam",
-    "author": "Abdul Ghani al-Maqdisi",
-    "desc": "Kumpulan hadits-hadits hukum fiqih terpokok dari Bukhari dan Muslim."
-  },
-  {
-    "name": "Ihkam al-Ahkam Syarh Umdat al-Ahkam",
-    "author": "Ibnu Daqiq al-Id",
-    "desc": "Syarah kritis berbasis ushul fiqih atas hadits hukum Umdat al-Ahkam."
-  },
-  {
-    "name": "Al-Muntaqa fi al-Ahkam",
-    "author": "Majduddin Ibnu Taymiyyah",
-    "desc": "Himpunan besar hadits hukum fiqih yang disyarah oleh al-Syawkani."
-  },
-  {
-    "name": "Al-I'lam bi Fawa'id Umdat al-Ahkam",
-    "author": "Ibnu al-Mulaqqin",
-    "desc": "Syarah komprehensif atas Umdat al-Ahkam dari sudut pandang Syafi'iyyah."
-  },
-  {
-    "name": "Al-Muharrar fi al-Hadith",
-    "author": "Ibnu Abd al-Hadi al-Hanbali",
-    "desc": "Kitab ringkasan hadits-hadits hukum fiqih berbasis sanad dan matan."
-  },
-  {
-    "name": "Al-Ijma'",
-    "author": "Ibnu al-Mundhir",
-    "desc": "Kompilasi kesepakatan konsensus (ijma') para ulama dalam hukum fiqih."
-  },
-  {
-    "name": "Al-Awsat fi al-Sunan wa al-Ijma' wa al-Ikhtilaf",
-    "author": "Ibnu al-Mundhir",
-    "desc": "Karya fiqih perbandingan yang memuat Sunnah, Ijma', dan Ikhtilaf ulama."
-  },
-  {
-    "name": "Al-Mu'tasar min al-Mukhtasar",
-    "author": "Abu al-Mahasin al-Yusufi al-Hanafi",
-    "desc": "Ringkasan pembahasan hadits-hadits hukum dan fiqih Hanafi."
-  },
-  {
-    "name": "Fatawa Qadhikhan",
-    "author": "Fakhruddin al-Hasan bin Mansur Qadhikhan",
-    "desc": "Rujukan utama fatwa mazhab Hanafi yang sangat otoritatif."
-  },
-  {
-    "name": "Al-Ghurar al-Munifah",
-    "author": "Sirajuddin al-Ghaznawi",
-    "desc": "Pembahasan perbedaan fiqih antara Imam Abu Hanifah dan Imam Syafi'i."
-  },
-  {
-    "name": "Al-Hawi al-Qudsi",
-    "author": "Ahmad bin Muhammad al-Ghaznawi",
-    "desc": "Rujukan fiqih Hanafi ringkas yang mencakup ushul dan furu'."
-  },
-  {
-    "name": "Mahasin al-Syari'ah",
-    "author": "Abu Bakr al-Qaffal al-Syasyi",
-    "desc": "Kitab hikmah dan filosofi penetapan hukum-hukum fiqih Islam."
+    "name": "Ahkam al-Fuqaha'",
+    "author": "Pengurus Besar Nahdlatul Ulama (PBNU)",
+    "desc": "Kumpulan fatwa dan keputusan fiqh muktamar ulama Nusantara."
   }
 ]
