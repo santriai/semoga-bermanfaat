@@ -2,97 +2,73 @@
   "profile": {
     "name": "Akhbar Abi Hanifah wa Ashabihi",
     "originalTitle": "أَخْبَارُ أَبِي حَنِيفَةَ وَأَصْحَابِهِ",
-    "author": "Al-Qadi Abu 'Abdullah al-Husayn ibn 'Ali al-Saymari (الْقَاضِي أَبُو عَبْدِ اللهِ الْحُسَيْنُ بْنُ عَلِيٍّ الصَّيْمَرِيُّ)",
-    "field": "Manaqib, Tarajim, wa Tarikh (Biografi & Sejarah Peradaban Islam)",
-    "about": "Kitab Akhbar Abi Hanifah wa Ashabihi karya Al-Qadi al-Saymari merupakan salah satu rujukan primer paling awal dan otentik mengenai rekam jejak kehidupan Imam Abu Hanifah al-Nu'man beserta para murid utamanya. Kitab ini menyajikan riwayat-riwayat bersanad mengenai asal-usul, keluhuran budi, ketelitian fiqih, serta ketakwaan Sang Imam A'zam. Tidak hanya berfokus pada figur Abu Hanifah, kitab ini juga menguraikan biografi pilar-pilar Mazhab Hanafi seperti Abu Yusuf, Muhammad al-Shaybani, Zufar, dan al-Hasan ibn Ziyad. Pendekatan metodenya yang berbasis riwayat (riwayah) menjadikan kitab ini sangat berharga dalam studi sejarah fiqih turath. Karya ini menjadi standar akademis pesantren dan universitas Islam global dalam mengkaji historiografi mazhab fiqih tertua.",
-    "authorBorn": "351 H / 962 M",
-    "authorDied": "436 H / 1045 M",
-    "authorCentury": "Abad ke-4 dan ke-5 Hijriyah"
+    "author": "أَبُو عَبْدِ اللَّهِ الْحُسَيْنُ بْنُ عَلِيٍّ الصَّيْمَرِيُّ (Abu Abdullah al-Husayn bin Ali al-Saimari)",
+    "field": "Tarajim wa Manaqib (Biografi dan Sejarah Tokoh Mazhab Hanafi)",
+    "about": "Kitab Akhbar Abi Hanifah wa Ashabihi karya Imam al-Saimari (w. 436 H) merupakan salah satu karya induk tertua dan paling otoritatif dalam literatur biografi Mazhab Hanafi. Kitab ini merangkum secara mendalam silsilah, kehidupan, keutamaan, metodologi ijtihad, serta sifat wara' dan ibadah dari Imam A'zam Abu Hanifah al-Nu'man bin Thabit. Tidak hanya berfokus pada sang Imam, kitab ini secara terstruktur mendokumentasikan riwayat hidup, pemikiran, dan kontribusi para murid utamanya seperti Qadi Abu Yusuf, Muhammad bin al-Hasan al-Shaybani, Zufar bin al-Hudhayl, dan al-Hasan bin Ziyad al-Lu'lu'i. Karya ini menjadi rujukan primer akademis untuk memahami mata rantai sanad keilmuan dan perkembangan awal fiqih Kufah serta penyebarannya ke seluruh dunia Islam. Narasi disajikan dengan sanad-sanad yang bersambung hingga para saksi sejarah pada zamannya.",
+    "authorBorn": "351 H / 962 M (Basrah, Irak)",
+    "authorDied": "436 H / 1045 M (Baghdad, Irak)",
+    "authorCentury": "Abad ke-4 dan 5 Hijriyah"
   },
   "chapters": [
     {
-      "title": "Muqaddimah Penulis (Al-Qadi Al-Saymari)",
+      "title": "Muqaddimah Pengarang",
       "titleArabic": "مُقَدِّمَةُ الْمُؤَلِّفِ",
-      "arabic": "بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ. الْحَمْدُ للهِ الَّذِي أَوْضَحَ مَنَاهِجَ الدِّينِ، وَأَعْلَى مَنَارَ الْعُلَمَاءِ الْعَامِلِينَ، وَصَلَّى اللهُ عَلَى سَيِّدِنَا مُحَمَّدٍ خَاتَمِ النَّبِيِّينَ، وَعَلَى آلِهِ وَأَصْحَابِهِ الطَّاهِرِينَ. أَمَّا بَعْدُ: فَهَذَا كِتَابٌ جَمَعْتُ فِيهِ جُمَلًا مِنْ أَخْبَارِ الإِمَامِ أَبِي حَنِيفَةَ النُّعْمَانِ بْنِ ثَابِتٍ، وَفَضَائِلِهِ، وَمَنَاقِبِهِ، وَمَنَاقِبِ أَبْرَزِ أَصْحَابِهِ الَّذِينَ نَشَرُوا عِلْمَهُ وَحَفِظُوا مَذْهَبَهُ، لِيَكُونَ تَبْصِرَةً لِلْمُسْتَبْصِرِينَ وَإِحْيَاءً لِمَآثِرِ الأَئِمَّةِ الصَّالِحِينَ.",
-      "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah yang telah memperjelas jalan-jalan agama dan meninggikan menara derajat para ulama yang mengamalkan ilmunya. Semoga shalawat dan salam senantiasa tercurah kepada junjungan kita Nabi Muhammad, penutup para nabi, serta kepada keluarga dan sahabatnya yang suci. Amma ba'du: Maka ini adalah kitab yang aku kumpulkan di dalamnya ringkasan dari riwayat-riwayat Imam Abu Hanifah al-Nu'man bin Thabit, keutamaan-keutamaannya, keluhuran budinya, serta biografi sahabat-sahabat utamanya yang menyebarkan ilmunya dan memelihara mazhabnya, agar menjadi petunjuk bagi orang-orang yang mencari kebenaran dan menghidupkan kembali jejak para imam yang saleh."
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ. الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ، وَصَلَوَاتُهُ عَلَى مُحَمَّدٍ وَآلِهِ أَجْمَعِينَ. قَالَ الشَّيْخُ أَبُو عَبْدِ اللَّهِ الْحُسَيْنُ بْنُ عَلِيٍّ الصَّيْمَرِيُّ رَحِمَهُ اللَّهُ: هَذَا كِتَابٌ جَمَعْتُ فِيهِ أَخْبَارَ الإِمَامِ أَبِي حَنِيفَةَ النُّعْمَانِ بْنِ ثَابِتٍ، وَفَضَائِلَهُ وَمَنَاقِبَهُ، وَأَخْبَارَ أَصْحَابِهِ الَّذِينَ أَخَذُوا عَنْهُ وَنَشَرُوا عِلْمَهُ فِي الآفَاقِ، لِيَكُونَ تَبْصِرَةً لِلْمُسْتَبْصِرِينَ، وَأُسْوَةً لِلْمُتَفَقِّهِينَ، وَبَيَانًا لِمَا كَانُوا عَلَيْهِ مِنَ الدِّينِ وَالْوَرَعِ وَالْعِلْمِ المَكِينِ.",
+      "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, Tuhan semesta alam, dan shalawat-Nya semoga tercurah kepada Nabi Muhammad dan seluruh keluarganya. Sheikh Abu Abdullah al-Husayn bin Ali al-Saimari -semoga Allah merahmatinya- berkata: Ini adalah kitab yang aku kumpulkan di dalamnya berita-berita tentang Imam Abu Hanifah al-Nu'man bin Thabit, keutamaan-keutamaannya, manaqibnya, serta berita-berita tentang para sahabatnya (murid-muridnya) yang menimba ilmu darinya dan menyebarkan ilmunya ke berbagai penjuru negeri, agar menjadi petunjuk bagi orang-orang yang mencari kebenaran, teladan bagi para penuntut ilmu fiqih, serta penjelasan atas apa yang mereka pegang teguh berupa agama, ketakwaan, dan keilmuan yang kokoh."
     },
     {
-      "title": "Nasab dan Kelahiran Imam Abu Hanifah",
-      "titleArabic": "ذِكْرُ نَسَبِهِ وَمَوْلِدِهِ وَأَصْلِهِ",
-      "arabic": "هُوَ النُّعْمَانُ بْنُ ثَابِتِ بْنِ زُوطَى، وَيُقَالُ فَرُّوخَ، مِنْ أَهْلِ كَابُلَ، وَوُلِدَ بِالْكُوفَةِ سَنَةَ ثَمَانِينَ مِنَ الْهِجْرَةِ فِي خِلَافَةِ عَبْدِ الْمَلِكِ بْنِ مَرْوَانَ. وَكَانَ أَبُوهُ ثَابِتٌ قَدِ الْتَقَى بِأَمِيرِ الْمُؤْمِنِينَ عَلِيِّ بْنِ أَبِي طَالِبٍ عَلَيْهِ السَّلَامُ وَهُوَ صَغِيرٌ، فَدَعَا لَهُ وَلِذُرِّيَّتِهِ بِالْبَرَكَةِ، فَكَنَّاهُ اللهُ تَعَالَى هَذِهِ الْبَرَكَةَ فِي النُّعْمَانِ.",
-      "translation": "Beliau adalah Al-Nu'man bin Thabit bin Zuta (ada yang menyebut Farrukh), berasal dari keturunan Kabul, dan dilahirkan di Kufah pada tahun 80 Hijriyah pada masa kekhalifahan 'Abdul Malik bin Marwan. Ayah beliau, Thabit, pernah bertemu dengan Amirul Mukminin 'Ali bin Abi Thalib 'alaihis salam ketika masih kecil, lalu 'Ali mendoakan keberkahan baginya dan keturunannya, maka Allah Ta'ala mewujudkan keberkahan tersebut pada diri Al-Nu'man."
+      "title": "Nasab, Kelahiran, dan Pertumbuhan Imam Abu Hanifah",
+      "titleArabic": "ذِكْرُ نَسَبِ أَبِي حَنِيفَةَ وَمَوْلِدِهِ وَنَشْأَتِهِ",
+      "arabic": "هُوَ النُّعْمَانُ بْنُ ثَابِتِ بْنِ زُوطَى، وَقِيلَ: زُوطَى بْنُ مَاهْ، مِنْ أَهْلِ كَابُلَ، وَكَانَ زُوطَى مَمْلُوكًا لِبَنِي تَيْمِ اللَّهِ بْنِ ثَعْلَبَةَ فَأَعْتَقُوهُ، فَوَلَاءُ أَبِي حَنِيفَةَ لَهُمْ. وَلِدَ أَبُو حَنِيفَةَ فِي سَنَةِ ثَمَانِينَ مِنَ الْهِجْرَةِ فِي خِلَافَةِ عَبْدِ الْمَلِكِ بْنِ مَرْوَانَ، وَنَشَأَ بِالْكُوفَةِ وَنَمَا بِهَا، وَكَانَ يَبِيعُ الْخَزَّ فِي دُكَّانِهِ بِعَمْرِو بْنِ حُرَيْثٍ، ثُمَّ أَقْبَلَ عَلَى طَلَبِ الْعِلْمِ وَتَفَقَّهَ عَلَى حَمَّادِ بْنِ أَبِي سُلَيْمَانَ.",
+      "translation": "Beliau adalah al-Nu'man bin Thabit bin Zuta, dan dikatakan Zuta bin Mah, berasal dari penduduk Kabul. Zuta dahulu adalah hamba sahaya milik Bani Taimullah bin Tha'labah kemudian mereka memerdekakannya, maka wala' Imam Abu Hanifah terhubung kepada mereka. Abu Hanifah dilahirkan pada tahun 80 Hijriyah pada masa kekhalifahan Abdul Malik bin Marwan. Beliau tumbuh dan berkembang di Kufah, serta berdagang kain sutera (khazz) di tokonya di kawasan Amr bin Hurayth, kemudian beliau berkonsentrasi penuh untuk menuntut ilmu dan memperdalam fiqih kepada Hammad bin Abi Sulayman."
     },
     {
-      "title": "Sifat Fisik dan Penampilan Imam Abu Hanifah",
-      "titleArabic": "صِفَتُهُ وَهَيْئَتُهُ وَسَمْتُهُ",
-      "arabic": "كَانَ أَبُو حَنِيفَةَ رَحِمَهُ اللهُ حَسَنَ الْوَجْهِ، طَوِيلَ الْقَامَةِ، جَمِيلَ الشَّكْلِ، طَيِّبَ الرِّيحِ، كَثِيرَ التَّعَطُّرِ، طَاهِرَ الثَّوْبِ، يَعْتَنِي بِلِبَاسِهِ وَعِمَامَتِهِ، كَرِيمَ الْمَجْلِسِ، كَثِيرَ الْهَيْبَةِ، صَمُوتًا إِلاَّ عِيَادَةً أَوْ مَسْأَلَةً عِلْمِيَّةً.",
-      "translation": "Imam Abu Hanifah rahmatullah 'alaihi adalah seorang yang berwajah tampan, berperawakan tinggi, berpenampilan indah, beraroma harum karena sering memakai wewangian, pakaiannya senantiasa bersih, sangat memperhatikan pakaian dan sorbannya, majelisnya penuh keutamaan dan kewibawaan, serta banyak diam kecuali ketika menjawab pertanyaan ilmu atau beribadah."
+      "title": "Sifat Fisik dan Akhlak Mulia Imam Abu Hanifah",
+      "titleArabic": "صِفَةُ أَبِي حَنِيفَةَ وَأَخْلَاقُهُ وَهَيْئَتُهُ",
+      "arabic": "كَانَ أَبُو حَنِيفَةَ رَحِمَهُ اللَّهُ طَوِيلا إِلَى التَّمَامِ، طَلِيقَ الْوَجْهِ، حَسَنَ الثَّوْبِ، كَثِيرَ الطِيبِ، شَدِيدَ الإِكْرَامِ لِمَنْ يَقْصِدُهُ، لا يَتَكَلَّمُ إِلا رَدًّا عَلَى جَوَابٍ، وَلا يَخُوضُ فِيمَا لا يَعْنِيهِ. وَعَنْ عُمَرَ بْنِ حَمَّادٍ قَالَ: كَانَ أَبُو حَنِيفَةَ جَمِيلَ الْوَجْهِ، جَمِيلَ الثِّيَابِ، طَيِّبَ الرَّائِحَةِ، كَثِيرَ التَّعَطُّرِ، يُعْرَفُ بِرَائِحَةِ الطِيبِ إِذَا أَقْبَلَ وَإِذَا خَرَجَ مِنْ بَيْتِهِ قَبْلَ أَنْ يُرَى.",
+      "translation": "Imam Abu Hanifah -semoga Allah merahmatinya- adalah seorang yang berpostur tinggi proporsional, berwajah berseri-seri, berpakaian indah, sering memakai wewangian, sangat memuliakan orang yang mengunjunginya, tidak berbicara kecuali untuk menjawab pertanyaan, dan tidak ikut campur dalam hal yang tidak berguna baginya. Dari Umar bin Hammad ia berkata: Abu Hanifah adalah seorang yang berwajah tampan, berpakaian bagus, harum baunya, sering memakai wewangian, sehingga aromanya sudah dikenali ketika beliau datang atau keluar dari rumahnya sebelum sosoknya terlihat."
     },
     {
-      "title": "Awal Mulai Menuntut Ilmu dan Para Guru Beliau",
-      "titleArabic": "بَدْءُ طَلَبِهِ لِلْعِلْمِ وَشُيُوخُهُ",
-      "arabic": "أَخَذَ أَبُو حَنِيفَةَ الْعِلْمَ عَنْ كِبَارِ التَّابِعِينَ، وَكَانَ أَخَصَّ شُيُوَخِهِ عَمْرُو بْنُ دِينَارٍ، وَعَطَاءُ بْنُ أَبِي رَبَاحٍ، وَالشَّعْبِيُّ، وَنَافِعٌ مَوْلَى ابْنِ عُمَرَ، وَأَخَذَ الْفِقْهَ خَاصَّةً عَنْ حَمَّادِ بْنِ أَبِي سُلَيْمَانَ، وَلَزِمَهُ ثَمَانِيَ عَشْرَةَ سَنَةً حَتَّى تَفَقَّهَ وَصَارَ إِمَامًا يُشَارُ إِلَيْهِ بِالأَصَابِعِ.",
-      "translation": "Imam Abu Hanifah menimba ilmu dari para pembesar Tabi'in. Di antara guru-guru terutamanya adalah 'Amr bin Dinar, 'Ata' bin Abi Rabah, Al-Sha'bi, dan Nafi' bekas hamba Ibn 'Umar. Beliau secara khusus mendalami fiqih dari Hammad bin Abi Sulayman dan berguru dengannya selama 18 tahun hingga menguasai fiqih secara mendalam dan menjadi imam yang ditunjuk oleh masyarakat."
+      "title": "Kewara'an, Ibadah, dan Ascetisme (Zuhud) Imam Abu Hanifah",
+      "titleArabic": "وَرَعُ أَبِي حَنِيفَةَ وَعِبَادَتُهُ وَزُهْدُهُ",
+      "arabic": "كَانَ أَبُو حَنِيفَةَ رَحِمَهُ اللَّهُ مِنْ أَعْظَمِ النَّاسِ وَرَعًا، وَأَكْثَرِهِمْ عِبَادَةً. يُحْيِي اللَّيْلَ صَلاةً وَتَضَرُّعًا، وَقَدْ سُمِّيَ 'الْوَتَدَ' لِكَثْرَةِ صَلاتِهِ. وَرُوِيَ أَنَّهُ صَلَّى الْعِشَاءَ وَالْفَجْرَ بِوُضُوءٍ وَاحِدٍ أَرْبَعِينَ سَنَةً، وَكَانَ يَخْتِمُ الْقُرْآنَ فِي كُلِّ يَوْمٍ وَلَيْلَةٍ مَرَّةً، وَفِي رَمَضَانَ سِتِّينَ مَرَّةً. وَامْتَنَعَ عَنِ الْقَضَاءِ لِلْمَنْصُورِ فَحُبِسَ وَضُرِبَ حَتَّى مَاتَ فِي السِّجْنِ صَابِرًا مُحْتَسِبًا.",
+      "translation": "Abu Hanifah -semoga Allah merahmatinya- termasuk manusia yang paling agung sifat wara'-nya dan paling banyak ibadahnya. Beliau menghidupkan malam hari dengan shalat dan merendahkan diri kepada Allah, hingga beliau dijuluki 'Al-Watad' (tiang pancang) karena saking banyaknya mendirikan shalat. Diriwayatkan bahwa beliau melaksanakan shalat Subuh dengan wudhu shalat Isya selama empat puluh tahun, dan beliau mengkhatamkan Al-Qur'an sehari semalam sekali, serta pada bulan Ramadan sebanyak enam puluh kali. Beliau menolak jabatan Qadi yang ditawarkan oleh Khalifah al-Mansur sehingga beliau dipenjara dan didera hingga wafat di dalam penjara dalam keadaan sabar dan mengharap pahala Allah."
     },
     {
-      "title": "Sifat Wara', Ibadah, dan Tahajud Imam Abu Hanifah",
-      "titleArabic": "وَرَعُهُ وَتَعَبُّدُهُ وَقِيَامُهُ بِاللَّيْلِ",
-      "arabic": "كَانَ أَبُو حَنِيفَةَ رَحِمَهُ اللهُ يُسَمَّى الْوَتَدَ لِكَثْرَةِ صَلَاتِهِ، وَكَانَ يُحْيِي اللَّيْلَ كُلَّهُ فِي صَلَاةٍ وَتَضَرُّعٍ، وَصَامَ الدَّهْرَ أَرْبَعِينَ سَنَةً، وَقَرَأَ الْقُرْآنَ فِي رَكْعَةٍ وَاحِدَةٍ فِي الْكَعْبَةِ الْمُشَرَّفَةِ، وَكَانَ أَوْرَعَ أَهْلِ زَمَانِهِ فِي تِجَارَتِهِ وَمُعَامَلَاتِهِ.",
-      "translation": "Imam Abu Hanifah rahmatullah 'alaihi dijuluki 'Al-Watad' (tiang pancang) karena sangat banyaknya mendirikan shalat. Beliau menghidupkan seluruh malamnya dengan shalat dan merendahkan diri kepada Allah. Beliau berpuasa sunnah selama 40 tahun dan pernah mengkhatamkan Al-Qur'an dalam satu rakaat di dalam Ka'bah yang mulia. Beliau adalah orang yang paling wara' pada zamannya dalam perniagaan dan muamalah."
+      "title": "Metodologi Fiqih dan Ijtihad Imam Abu Hanifah",
+      "titleArabic": "فِقْهُ أَبِي حَنِيفَةَ وَمَنْهَجُهُ فِي الاِجْتِهَادِ",
+      "arabic": "قَالَ أَبُو حَنِيفَةَ: آخُذُ بِكِتَابِ اللَّهِ، فَمَا لَمْ أَجِدْ فَبِسُنَّةِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، فَمَا لَمْ أَجِدْ فِي كِتَابِ اللَّهِ وَلا فِي سُنَّةِ رَسُولِ اللَّهِ أَخَذْتُ بِبَقَوْلِ أَصْحَابِهِ، آخُذُ بِقَوْلِ مَنْ شِئْتُ مِنْهُمْ وَأَدَعُ قَوْلَ مَنْ شِئْتُ مِنْهُمْ، وَلا أَخْرُجُ مِنْ قَوْلِهِمْ إِلَى قَوْلِ غَيْرِهِمْ. فَأَمَّا إِذَا انْتَهَى الأَمْرُ إِلَى إِبْرَاهِيمَ وَالشَّعْبِيِّ وَابْنِ سِيرِينَ فَقَوْمٌ اجْتَهَدُوا فَأَجْتَهِدُ كَمَا اجْتَهَدُوا.",
+      "translation": "Abu Hanifah berkata: Aku mengambil hukum dari Kitabullah (Al-Qur'an), jika aku tidak menemukannya maka dengan Sunnah Rasulullah SAW, jika aku tidak menemukannya dalam Kitabullah maupun Sunnah Rasulullah maka aku mengambil pendapat para sahabatnya; aku mengambil pendapat siapa yang aku kehendaki dari mereka dan meninggalkan pendapat siapa yang aku kehendaki, namun aku tidak keluar dari pendapat mereka menuju pendapat selain mereka. Adapun jika perkara itu sampai kepada Ibrahim al-Nakha'i, al-Sha'bi, dan Ibn Sirin, maka mereka adalah kaum yang berijtihad, maka aku pun berijtihad sebagaimana mereka berijtihad."
     },
     {
-      "title": "Kedermawanan dan Kemuliaan Akhlak Imam Abu Hanifah",
-      "titleArabic": "سَخَاؤُهُ وَكَرَمُهُ وَمُوَاَسَاتُهُ لِلنَّاسِ",
-      "arabic": "كَانَ أَبُو حَنِيفَةَ سَخِيًّا جَوَادًا، يُنْفِقُ عَلَى الْعُلَمَاءِ وَالطَّلَبَةِ، وَيَكْسُوهُمْ، وَيُنْفِقُ عَلَى الْفُقَرَاءِ مِنْ كَسْبِ تِجَارَتِهِ فِي الْخَزِّ، وَكَانَ إِذَا أَنْفَقَ عَلَى عِيَالِهِ نَفَقَةً أَنْفَقَ مِثْلَهَا صَدَقَةً عَلَى الْمَحَاوِيجِ.",
-      "translation": "Imam Abu Hanifah adalah seorang yang sangat pemurah dan dermawan. Beliau menafkahi para ulama dan penuntut ilmu, memberi mereka pakaian, serta bersedekah kepada fakir miskin dari hasil usahanya berdagang kain sutra (khazz). Setiap kali beliau menafkahi keluarganya, beliau menafkahkan jumlah yang sama sebagai sedekah kepada orang-orang yang membutuhkan."
+      "title": "Pujian para Imam dan Ulama terhadap Imam Abu Hanifah",
+      "titleArabic": "ثَنَاءُ الأَئِمَّةِ وَالْعُلَمَاءِ عَلَى أَبِي حَنِيفَةَ",
+      "arabic": "عَنْ مُحَمَّدِ بْنِ إِدْرِيسَ الشَّافِعِيِّ رَحِمَهُ اللَّهُ قَالَ: 'مَنْ أَرَادَ أَنْ يَتَبَحَّرَ فِي الْفِقْهِ فَهُوَ عِيَالٌ عَلَى أَبِي حَنِيفَةَ'. وَعَنْ عَبْدِ اللَّهِ بْنِ الْمُبَارَكِ قَالَ: 'مَا رَأَيْتُ رَجُلا أَفْقَهَ مِنْ أَبِي حَنِيفَةَ، وَلَوْلا أَنَّ اللَّهَ أَعَانَنِي بِأَبِي حَنِيفَةَ وَسُفْيَانَ الثَّوْرِيِّ كُنْتُ كَسَائِرِ النَّاسِ'. وَقَالَ سُفْيَانُ الثَّوْرِيُّ: 'كَانَ أَبُو حَنِيفَةَ شَدِيدَ التَّمَسُّكِ بِالْعِلْمِ، ذَبَّابًا عَنْ حَرَمَاتِ اللَّهِ أَنْ تُنْتَهَكَ'.",
+      "translation": "Dari Muhammad bin Idris al-Syafi'i -semoga Allah merahmatinya- ia berkata: 'Barangsiapa yang ingin mendalami fiqih secara luas, maka ia adalah keluarga (sangat bergantung) kepada Abu Hanifah.' Dari Abdullah bin al-Mubarak ia berkata: 'Aku tidak pernah melihat seorang pun yang lebih faqih dari Abu Hanifah, dan sekiranya Allah tidak menolongku melalui Abu Hanifah dan Sufyan al-Thawri, niscaya aku akan menjadi seperti awamnya manusia.' Dan Sufyan al-Thawri berkata: 'Abu Hanifah adalah seorang yang sangat kuat berpegang teguh pada ilmu dan sangat gigih membentengi kehormatan agama Allah agar tidak dilanggar.'"
     },
     {
-      "title": "Metode Ijtihad dan Kedalaman Fiqih Abu Hanifah",
-      "titleArabic": "فِقْهُهُ وَمَنْهَجُهُ فِي الاِجْتِهَادِ وَالْقِيَاسِ",
-      "arabic": "قَالَ أَبُو حَنِيفَةَ: «آخُذُ بِكِتَابِ اللهِ، فَمَا لَمْ أَجِدْ فَبِسُنَّةِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَمَا لَمْ أَجِدْ فِي كِتَابِ اللهِ وَلَا سُنَّةِ رَسُولِ اللهِ أَخَذْتُ بِبَقَوْلِ أَصْحَابِهِ، فَمَا كَانَ غَيْرَهُمْ فَهُمْ رِجَالٌ وَنَحْنُ رِجَالٌ نَجْتَهِدُ كَمَا اجْتَهَدُوا». وَكَانَ أَعْلَمَ النَّاسِ بِالْقِيَاسِ وَالاِسْتِحْسَانِ.",
-      "translation": "Imam Abu Hanifah berkata: 'Aku mengambil hukum dari Kitabullah, jika tidak aku temukan maka dari Sunnah Rasulullah SAW. Jika tidak aku temukan dalam Kitabullah maupun Sunnah Rasulullah, aku mengambil perkataan para Sahabatnya. Adapun selain mereka, mereka adalah para lelaki (mujtahid) dan kami juga para lelaki, kami berijtihad sebagaimana mereka berijtihad.' Beliau adalah orang yang paling alim dalam penalaran Qiyas dan Istihsan."
+      "title": "Biografi Qadi Abu Yusuf al-Anshari (Murid Utama)",
+      "titleArabic": "ذِكْرُ الْقَاضِي أَبِي يُوسُفَ يَعْقُوبَ بْنِ إِبْرَاهِيمَ الأَنْصَارِيِّ",
+      "arabic": "هُوَ أَبُو يُوسُفَ يَعْقُوبُ بْنُ إِبْرَاهِيمَ بْنِ حَبِيبٍ الأَنْصَارِيُّ، صَاحِبُ أَبِي حَنِيفَةَ وَأَكْبَرُ تَلاَمِذَتِهِ وَأَوَّلُ مَنْ نَشَرَ مَذْهَبَهُ وَأَمْلَى الْكُتُبَ فِي الأُصُولِ. وَلِيَ الْقَضَاءَ بِبَغْدَادَ فِي عَهْدِ المَهْدِيِّ وَالهَادِي وَالرَّشِيدِ، وَهُوَ أَوَّلُ مَنْ سُمِّيَ 'قَاضِيَ قُضَاةِ الأَنَامِ'. كَانَ حَافِظًا لِلْحَدِيثِ، جَبَّالاً فِي الْعِلْمِ، وَقَالَ أَبُو حَنِيفَةَ فِيهِ: 'أَعْلَمُ النَّاسِ بِالْحَدِيثِ وَأَفْقَهُهُمْ فِيهِ'.",
+      "translation": "Beliau adalah Abu Yusuf Ya'qub bin Ibrahim bin Habib al-Anshari, sahabat dekat Abu Hanifah, murid terbesarnya, dan orang pertama yang menyebarkan mazhabnya serta mendiktekan kitab-kitab pokok (usul). Beliau menjabat sebagai Qadi di Baghdad pada masa Khalifah al-Mahdi, al-Hadi, dan al-Rashid, serta merupakan orang pertama yang diberi gelar 'Qadi Qudhat' (Hakim Agung). Beliau adalah seorang penghafal hadis dan gunung ilmu. Abu Hanifah pernah berkata tentangnya: 'Dia adalah manusia yang paling mengetahui hadis dan paling faqih dalam memahaminya.'"
     },
     {
-      "title": "Pujian Para Imam dan Ulama terhadap Abu Hanifah",
-      "titleArabic": "ثَنَاءُ الأَئِمَّةِ وَالْعُلَمَاءِ عَلَيْهِ",
-      "arabic": "قَالَ الإِمَامُ الشَّافِعِيُّ رَحِمَهُ اللهُ: «النَّاسُ فِي الْفِقْهِ عِيَالٌ عَلَى أَبِي حَنِيفَةَ». وَقَالَ عَبْدُ اللهِ بْنُ الْمُبَارَكِ: «مَا رَأَيْتُ رَجُلًا أَوْرَعَ وَلَا أَعْلَمَ مِنْ أَبِي حَنِيفَةَ، هُوَ أَفْقَهُ أَهْلِ الأَرْضِ».",
-      "translation": "Imam al-Syafi'i rahmatullah 'alaihi berkata: 'Manusia dalam fiqih adalah keluarga (bergantung) kepada Abu Hanifah.' Dan 'Abdullah ibn al-Mubarak berkata: 'Aku tidak pernah melihat seorang pun yang lebih wara' dan lebih alim daripada Abu Hanifah, beliau adalah orang yang paling faham fiqih di muka bumi.'"
-    },
-    {
-      "title": "Ujian (Mihnah) dan Wafatnya Imam Abu Hanifah",
-      "titleArabic": "مِحْنَتُهُ وَصَبْرُهُ وَوَفَاتُهُ رَحِمَهُ اللهُ",
-      "arabic": "دَعَاهُ الْخَلِيفَةُ أَبُو جَعْفَرٍ الْمَنْصُورُ لِيَتَوَلَّى الْقَضَاءَ فَأَبَى وَرَفَضَ رَغْبَةً عَنِ السُّلْطَانِ، فَحَبَسَهُ وَضَرَبَهُ، فَصَبَرَ وَاحْتَسَبَ حَتَّى تُوُفِّيَ فِي السِّجْنِ مَشْهِيدًا سَنَةَ خَمْسِينَ وَمِائَةٍ (150 هـ)، وَصَلَّى عَلَيْهِ مَلاَيِينُ النَّاسِ فِي بَغْدَادَ.",
-      "translation": "Khalifah Abu Ja'far al-Mansur memanggil Abu Hanifah untuk menjabat sebagai Qadi (hakim agung), namun beliau menolak karena ingin menjauhi kekuasaan. Maka Khalifah memenjarakan dan mencambuk beliau, namun beliau bersabar dan mengharapkan pahala Allah hingga wafat di dalam penjara sebagai syahid pada tahun 150 Hijriyah. Jutaan manusia menshalatkan jenazah beliau di Baghdad."
-    },
-    {
-      "title": "Biografi Sahabat Utama: Imam Abu Yusuf Ya'qub ibn Ibrahim",
-      "titleArabic": "ذِكْرُ الإِمَامِ أَبِي يُوسُفَ يَعْقُوبَ بْنِ إِبْرَاهِيمَ الأَنْصَارِيِّ",
-      "arabic": "هُوَ أَبُو يُوسُفَ يَعْقُوبُ بْنُ إِبْرَاهِيمَ الأَنْصَارِيُّ، صَاحِبُ أَبِي حَنِيفَةَ وَأَوَّلُ مَنْ نَشَرَ مَذْهَبَهُ وَصَنَّفَ الْكُتُبَ فِي الأُصُولِ وَالأَمَالِي، وَوَلِيَ قَضَاءَ الْقُضَاةِ فِي عَهْدِ هَارُونَ الرَّشِيدِ، وَكَانَ حَافِظًا لِلْحَدِيثِ عَالِمًا بِالتَّفْسِيرِ وَالسِّيَرِ.",
-      "translation": "Beliau adalah Abu Yusuf Ya'qub bin Ibrahim al-Ansari, sahabat terdekat Abu Hanifah dan orang pertama yang menyebarkan mazhabnya serta menyusun kitab-kitab Ushul dan Amali. Beliau menjabat sebagai Qadi al-Qudat (Ketua Mahkamah Agung) pada masa Harun al-Rasyid, serta merupakan seorang penghafal hadits yang alim dalam tafsir dan sejarah perjuangan Nabi."
-    },
-    {
-      "title": "Biografi Sahabat Utama: Imam Muhammad ibn al-Hasan al-Shaybani",
+      "title": "Biografi Imam Muhammad bin al-Hasan al-Shaybani",
       "titleArabic": "ذِكْرُ الإِمَامِ مُحَمَّدِ بْنِ الْحَسَنِ الشَّيْبَانِيِّ",
-      "arabic": "هُوَ أَبُو عَبْدِ اللهِ مُحَمَّدُ بْنُ الْحَسَنِ الشَّيْبَانِيُّ، نَاشِرُ فِقْهِ أَبِي حَنِيفَةَ بِكُتُبِهِ الزَّاهِرَةِ كَالْمَبْسُوطِ وَالْجَامِعِ الْكَبِيرِ وَالْجَامِعِ الصَّغِيرِ وَالسِّيَرِ، بَرَعَ فِي اللُّغَةِ وَالْعَرَبِيَّةِ وَالْحِسَابِ، وَعَنْهُ أَخَذَ الإِمَامُ الشَّافِعِيُّ عِلْمَ أَهْلِ الْعِرَاقِ.",
-      "translation": "Beliau adalah Abu 'Abdullah Muhammad bin al-Hasan al-Shaybani, penyebar fiqih Abu Hanifah melalui kitab-kitab monumentalnya seperti Al-Mabsut, Al-Jami' al-Kabir, Al-Jami' al-Saghir, dan Al-Siyar. Beliau sangat mahir dalam bahasa Arab dan ilmu hisab, dan dari beliaulah Imam al-Syafi'i menimba ilmu ulama Irak."
+      "arabic": "هُوَ أَبُو عَبْدِ اللَّهِ مُحَمَّدُ بْنُ الْحَسَنِ بْنِ فَرْقَدٍ الشَّيْبَانِيُّ، وُلِدَ بِالْوَاسِطِ وَنَشَأَ بِالْكُوفَةِ. جَلَسَ إِلَى أَبِي حَنِيفَةَ سَنَتَيْنِ ثُمَّ أَكْمَلَ تَعَلُّمَهُ عَلَى أَبِي يُوسُفَ. هُوَ الَّذِي دَوَّنَ عِلْمَ أَبِي حَنِيفَةَ فِي كُتُبِهِ الزَّاهِرَةِ كَالْمَبْسُوطِ وَالْجَامِعِ الْكَبِيرِ وَالْجَامِعِ الصَّغِيرِ وَالسِّيَرِ. قَالَ الشَّافِعِيُّ: 'مَا رَأَيْتُ سَمِينًا أَخَفَّ رُوحًا مِنْ مُحَمَّدِ بْنِ الْحَسَنِ، وَمَا رَأَيْتُ أَعْلَمَ بِكِتَابِ اللَّهِ مِنْهُ'.",
+      "translation": "Beliau adalah Abu Abdullah Muhammad bin al-Hasan bin Farqad al-Shaybani, lahir di Wasit dan tumbuh di Kufah. Beliau menimba ilmu langsung kepada Abu Hanifah selama dua tahun lalu menyempurnakannya kepada Abu Yusuf. Beliau adalah sosok yang membukukan ilmu Abu Hanifah dalam karya-karyanya yang monumental seperti al-Mabsut, al-Jami' al-Kabir, al-Jami' al-Saghir, dan al-Siyar. Imam al-Syafi'i berkata: 'Aku tidak pernah melihat orang berbadan gemuk yang jiwanya lebih cerdas daripada Muhammad bin al-Hasan, dan aku tidak melihat orang yang lebih alim tentang Kitabullah daripada dirinya.'"
     },
     {
-      "title": "Biografi Sahabat Utama: Imam Zufar ibn al-Hudhayl",
-      "titleArabic": "ذِكْرُ الإِمَامِ زُفَرَ بْنِ الْهُذَيْلِ الْعَنْبَرِيِّ",
-      "arabic": "هُوَ أَبُو الهُذَيْلِ زُفَرُ بْنُ الهُذَيْلِ بْنِ قَيْسٍ الْعَنْبَرِيُّ، كَانَ مِنْ أَصْحَابِ الْحَدِيثِ ثُمَّ لَزِمَ أَبَا حَنِيفَةَ فَبَرَعَ فِي الْقِيَاسِ وَالْفِقْهِ، وَكَانَ أَقْيَسَ أَصْحَابِ أَبِي حَنِيفَةَ وَأَنَظَرَهُمْ، وَتُوُفِّيَ سَنَةَ ثَمَانٍ وَخَمْسِينَ وَمِائَةٍ (158 هـ).",
-      "translation": "Beliau adalah Abu al-Hudhayl Zufar bin al-Hudhayl bin Qays al-'Anbari. Awalnya beliau adalah ahli hadits kemudian berguru mendalam kepada Abu Hanifah hingga menguasai Qiyas dan Fiqih. Beliau adalah murid Abu Hanifah yang paling tajam analitis Qiyasnya dan paling ulung dalam adu argumentasi. Wafat pada tahun 158 Hijriyah."
+      "title": "Biografi Imam Zufar bin al-Hudhayl dan Al-Hasan bin Ziyad",
+      "titleArabic": "ذِكْرُ زُفَرَ بْنِ الْهُذَيْلِ وَالْحَسَنِ بْنِ زِيَادٍ اللُّؤْلُؤِيِّ",
+      "arabic": "وَمِنْ أَعْلاَمِ أَصْحَابِ أَبِي حَنِيفَةَ: أَبُو الهُذَيْلِ زُفَرُ بْنُ الْهُذَيْلِ بْنِ قَيْسٍ الْعَنَبَرِيُّ، كَانَ مِنْ أَصْحَابِ الْحَدِيثِ ثُمَّ غَلَبَ عَلَيْهِ الْفِقْهُ وَالْقِيَاسُ، وَكَانَ أَقْيَسَ أَصْحَابِ أَبِي حَنِيفَةَ. وَمِنْهُمْ: أَبُو عَلِيٍّ الْحَسَنُ بْنُ زِيَادٍ اللُّؤْلُؤِيُّ الْكُوفِيُّ، كَانَ عَالِمًا بِفِقْهِ أَبِي حَنِيفَةَ، شَدِيدَ العِنَايَةِ بِالرِّوَايَةِ وَالتَّفْرِيعِ، وَوَلِيَ قَضَاءَ الْكُوفَةِ.",
+      "translation": "Di antara tokoh utama sahabat Abu Hanifah adalah: Abu al-Hudhayl Zufar bin al-Hudhayl bin Qays al-'Anbari, beliau awalnya adalah ahli hadis kemudian fiqih dan qiyas menjadi dominan pada dirinya, dan beliau adalah murid Abu Hanifah yang paling ulung dalam analogi (qiyas). Di antara mereka juga: Abu Ali al-Hasan bin Ziyad al-Lu'lu'i al-Kufi, seorang yang sangat alim dalam fiqih Abu Hanifah, sangat menaruh perhatian besar pada riwayat dan penjabaran cabang hukum (tafri'), serta pernah menjabat sebagai Qadi di Kufah."
     },
     {
-      "title": "Biografi Sahabat Utama: Imam Al-Hasan ibn Ziyad al-Lu'lu'i",
-      "titleArabic": "ذِكْرُ الإِمَامِ الْحَسَنِ بْنِ زِيَادٍ اللُّؤْلُؤِيِّ",
-      "arabic": "هُوَ أَبُو عَلِيٍّ الْحَسَنُ بْنُ زِيَادٍ اللُّؤْلُؤِيُّ الْكُوفِيُّ، مَلاَزِمُ أَبِي حَنِيفَةَ، كَانَ عَالِمًا بِالْحَدِيثِ وَالْفِقْهِ، صَنَّفَ كُتُبًا كَثِيرَةً فِي الْفَرَائِضِ وَأَدَبِ الْقَاضِي، وَتَوَلَّى قَضَاءَ الْكُوفَةِ بَعْدَ حَفْصِ بْنِ غِيَاثٍ.",
-      "translation": "Beliau adalah Abu 'Ali al-Hasan bin Ziyad al-Lu'lu'i al-Kufi, murid setia Imam Abu Hanifah. Beliau seorang alim dalam hadits dan fiqih, menyusun banyak kitab dalam ilmu waris (farai'id) dan etika hakim (adab al-qadi), serta menjabat sebagai Qadi Kufah setelah Hafs bin Ghiyath."
-    },
-    {
-      "title": "Khatimah: Keunggulan Mazhab dan Sanad Keilmuan",
-      "titleArabic": "خَاتِمَةُ الْكِتَابِ فِي فَضْلِ الآثَارِ وَحِفْظِ الأَسَانِيدِ",
-      "arabic": "تَمَّ الْكِتَابُ بِحَمْدِ اللهِ وَعَوْنِهِ، وَفِيهِ كِفَايَةٌ لِمَنْ أَرَادَ مَعْرِفَةَ مَنَاقِبِ هَؤُلاءِ الأَعْلاَمِ الَّذِينَ بَنَوْا قَوَاعِدَ الْفِقْهِ، وَحَفِظُوا السُّنَنَ وَالآثَارَ، وَصَلَّى اللهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَآلِهِ وَصَحْبِهِ وَسَلَّمَ تَسْلِيمًا كَثِيرًا إِلَى يَوْمِ الدِّينِ.",
-      "translation": "Telah selesai kitab ini dengan memuji Allah dan pertolongan-Nya. Di dalamnya terdapat kecukupan bagi siapa saja yang ingin mengetahui keutamaan para tokoh agung yang telah meletakkan kaidah-kaidah fiqih serta memelihara sunnah dan atsar. Semoga shalawat dan salam Allah senantiasa tercurah kepada junjungan kita Nabi Muhammad, keluarga, serta para sahabatnya hingga hari pembalasan."
+      "title": "Wafatnya Imam Abu Hanifah dan Penutup Kitab",
+      "titleArabic": "وَفَاةُ الإِمَامِ أَبِي حَنِيفَةَ وَخَاتِمَةُ الْكِتَابِ",
+      "arabic": "تُوُفِّيَ الإِمَامُ أَبُو حَنِيفَةَ رَضِيَ اللَّهُ عَنْهُ فِي رَجَبٍ، وَقِيلَ فِي شَعْبَانَ، سَنَةَ خَمْسِينَ وَمِائَةٍ (150 هـ) بِبَغْدَادَ فِي السِّجْنِ، وَدُفِنَ فِي مَقْبَرَةِ الخَيْزُرَانِ. وَصَلَّى عَلَيْهِ النَّاسُ سِتَّ مَرَّاتٍ لِكِثْرَةِ الزَّحَامِ. قَالَ الصَّيْمَرِيُّ: فَهَذِهِ جُمْلَةٌ كَافِيَةٌ مِنْ أَخْبَارِ هَذَا الإِمَامِ وَأَصْحَابِهِ الأَعْلاَمِ، رَحِمَهُمُ اللَّهُ أَجْمَعِينَ، وَنَفَعَنَا بِعُلُومِهِمْ فِي الدَّارَيْنِ، وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ.",
+      "translation": "Imam Abu Hanifah -semoga Allah merihainya- wafat pada bulan Rajab, dan dikatakan pada bulan Sya'ban tahun 150 Hijriyah di Baghdad di dalam penjara, dan dimakamkan di pemakaman al-Khayzuran. Masyarakat menyalatinya sebanyak enam kali putaran karena sangat berdesakannya lautan manusia. Al-Saimari berkata: Maka inilah ringkasan yang mencukupi dari kisah-kisah Imam ini beserta para sahabatnya yang terkemuka, semoga Allah merahmati mereka semua dan memberi kita manfaat dengan ilmu-ilmu mereka di dunia dan akhirat, dan segala puji bagi Allah Tuhan semesta alam."
     }
   ]
 }
