@@ -1,252 +1,252 @@
 [
   {
-    "name": "Tafsir al-Thabari (Jami' al-Bayan)",
-    "author": "Abu Ja'far Muhammad bin Jarir al-Thabari",
-    "desc": "Tafsir bil-ma'thur induk dan paling utama yang menghimpun riwayat salaf secara komprehensif."
+    "name": "Jami' al-Bayan fi Ta'wil al-Qur'an",
+    "author": "Abu Ja'far Muhammad bin Jarir at-Tabari",
+    "desc": "Tafsir bil-ma'thur paling induk dan komprehensif dari era salaf."
   },
   {
-    "name": "Tafsir Ibn Kathir",
-    "author": "Isma'il bin 'Umar bin Kathir al-Qurashi",
-    "desc": "Tafsir populer berpatokan pada Al-Qur'an, Hadis, dan riwayat sahabat dengan sanad yang kuat."
+    "name": "Tafsir al-Qur'an al-'Azim",
+    "author": "Abu al-Fida' Ismail bin Umar bin Kathir",
+    "desc": "Tafsir bil-ma'thur populer yang menafsirkan Al-Qur'an dengan Al-Qur'an dan Hadis."
   },
   {
-    "name": "Tafsir al-Qurtubi (Al-Jami' li-Ahkam al-Qur'an)",
-    "author": "Abu 'Abdillah Muhammad bin Ahmad al-Qurtubi",
-    "desc": "Tafsir yang berfokus pada penderivasian hukum fikih dari ayat-ayat Al-Qur'an secara luas."
+    "name": "Al-Jami' li Ahkam al-Qur'an",
+    "author": "Abu 'Abdullah Muhammad bin Ahmad al-Qurtubi",
+    "desc": "Tafsir berfokus pada penggalian hukum-hukum fiqih dalam Al-Qur'an."
   },
   {
     "name": "Tafsir al-Jalalayn",
-    "author": "Jalal al-Din al-Mahalli & Jalal al-Din al-Suyuti",
-    "desc": "Tafsir ringkas, padat, dan sangat populer yang menjadi kurikulum wajib di berbagai pesantren."
+    "author": "Jalaluddin al-Mahalli & Jalaluddin al-Suyuti",
+    "desc": "Tafsir ringkas dan sangat populer di pesantren untuk tingkat pemula."
   },
   {
-    "name": "Tafsir al-Kashshaf",
+    "name": "Al-Kashshaf 'an Haqaiq Ghawamid al-Tanzil",
     "author": "Abu al-Qasim Mahmud bin 'Umar al-Zamakhshari",
-    "desc": "Tafsir master dalam keindahan bahasa, balagah, I'rab, dan keajaiban sastra Al-Qur'an."
+    "desc": "Tafsir berfokus pada keindahan balaghah, sastra, dan kebahasaan Al-Qur'an."
   },
   {
-    "name": "Tafsir al-Razi (Mafatih al-Ghayb)",
-    "author": "Fakhr al-Din Muhammad bin 'Umar al-Razi",
-    "desc": "Tafsir besar berbasis akal, filsafat, logika, dan pembuktian teologis kalamiyyah."
+    "name": "Mafatih al-Ghayb (Tafsir al-Kabir)",
+    "author": "Fakhruddin al-Razi",
+    "desc": "Tafsir teologis dan filosofis yang mendalam membahas ilmu kalam dan sains."
   },
   {
-    "name": "Tafsir al-Baghawi (Ma'alim al-Tanzil)",
+    "name": "Ma'alim al-Tanzil",
     "author": "Abu Muhammad al-Husayn bin Mas'ud al-Baghawi",
-    "desc": "Tafsir bil-ma'thur yang bersih dari riwayat palsu dan Israiliyyat yang meragukan."
+    "desc": "Tafsir bil-ma'thur yang moderat, ringkas, dan menjaga keabsahan sanad riwayat."
   },
   {
-    "name": "Tafsir al-Baydawi (Anwar al-Tanzil)",
+    "name": "Anwar al-Tanzil wa Asrar al-Ta'wil",
     "author": "Abdullah bin 'Umar al-Baydawi",
-    "desc": "Ringkasan Tafsir al-Kashshaf yang dibersihkan dari paham Mu'tazilah serta dilengkapi fikih."
+    "desc": "Tafsir komprehensif menggabungkan balaghah, fiqih, dan teologi Sunnah."
   },
   {
-    "name": "Tafsir al-Nasafi (Madarik al-Tanzil)",
+    "name": "Madarik al-Tanzil wa Haqaiq al-Ta'wil",
     "author": "Abu al-Barakat 'Abdullah bin Ahmad al-Nasafi",
-    "desc": "Tafsir pertengahan yang menggabungkan analisis bahasa, balagah, dan pandangan mazhab Hanafi."
+    "desc": "Tafsir ringkas berbasis kebahasaan dan fiqih mazhab Hanafi."
   },
   {
-    "name": "Tafsir Ibn 'Atiyyah (Al-Muharrar al-Wajiz)",
-    "author": "Abu Muhammad 'Abd al-Haqq bin 'Atiyyah al-Andalusi",
-    "desc": "Tafsir kritis yang menyeleksi riwayat shahih dan unggul dalam analisis linguistik Arab."
+    "name": "Lubab al-Ta'wil fi Ma'ani al-Tanzil",
+    "author": "'Ala'uddin 'Ali bin Muhammad al-Khazin",
+    "desc": "Ringkasan Tafsir al-Baghawi dengan tambahan kisah-kisah dan keutamaan surah."
   },
   {
-    "name": "Tafsir al-Khazin (Lubab al-Ta'wil)",
-    "author": "Ala' al-Din 'Ali bin Muhammad al-Khazin",
-    "desc": "Ringkasan dari Tafsir al-Baghawi dengan tambahan kisah-kisah sejarah dan riwayat populer."
+    "name": "Al-Muharrar al-Wajiz",
+    "author": "Ibn 'Atiyyah al-Andalusi",
+    "desc": "Tafsir kritis berfokus pada analisis bahasa, riwayat sahih, dan qira'at."
   },
   {
-    "name": "Tafsir al-Alusi (Ruh al-Ma'ani)",
-    "author": "Shihab al-Din Mahmud al-Alusi al-Baghdadi",
-    "desc": "Ensiklopedi tafsir yang menggabungkan rasionil, linguistik, fikih, serta isyarat sufistik."
-  },
-  {
-    "name": "Tafsir al-Sa'di (Taysir al-Karim al-Rahman)",
-    "author": "Abd al-Rahman bin Nasir al-Sa'di",
-    "desc": "Tafsir modern berpendekatan mudah, jelas, dan berfokus pada pelajaran serta tadabbur ayat."
-  },
-  {
-    "name": "Tafsir al-Tustari",
-    "author": "Sahl bin 'Abdullah al-Tustari",
-    "desc": "Salah satu tafsir isyari (sufistik) tertua yang menguraikan makna-makna batiniah ayat Al-Qur'an."
-  },
-  {
-    "name": "Tafsir Sufyan al-Thawri",
-    "author": "Sufyan bin Sa'id al-Thawri",
-    "desc": "Kumpulan riwayat tafsir generasi tabi'in awal yang menjadi rujukan klasik penafsiran al-ma'thur."
-  },
-  {
-    "name": "Tanwir al-Miqbas min Tafsir Ibn 'Abbas",
-    "author": "Dinisbatkan kepada Ibn 'Abbas (dikumpulkan al-Firuzabadi)",
-    "desc": "Himpunan riwayat penafsiran yang disandarkan pada Sahabat Ibnu 'Abbas, sang penerjemah Al-Qur'an."
-  },
-  {
-    "name": "Tafsir Muqatil ibn Sulayman",
-    "author": "Muqatil bin Sulayman al-Balkhi",
-    "desc": "Tafsir utuh tertua yang sampai kepada kita, menjelaskan seluruh kata dalam Al-Qur'an."
-  },
-  {
-    "name": "Tafsir Mujahid",
-    "author": "Mujahid bin Jabr al-Makhzumi",
-    "desc": "Karya tafsir murid utama Ibnu 'Abbas yang menjadi rujukan utama seluruh ahli tafsir sesudahnya."
-  },
-  {
-    "name": "Tafsir 'Abd al-Razzaq",
-    "author": "Abu Bakr 'Abd al-Razzaq bin Hammam al-San'ani",
-    "desc": "Kumpulan riwayat hadis dan atsar sahabat mengenai tafsir ayat Al-Qur'an dari abad ke-2 Hijriah."
-  },
-  {
-    "name": "Tafsir Ibn Abi Hatim",
-    "author": "Abu Muhammad 'Abd al-Rahman bin Abi Hatim al-Razi",
-    "desc": "Tafsir riwayat murni dengan penyebutkan sanad-sanad lengkap hingga Rasulullah dan Sahabat."
-  },
-  {
-    "name": "Tafsir al-Maturidi (Ta'wilat Ahl al-Sunnah)",
-    "author": "Abu Mansur Muhammad bin Muhammad al-Maturidi",
-    "desc": "Tafsir teologis kalam Asy'ari/Maturidi yang membela akidah Ahlussunnah wal Jamaah."
-  },
-  {
-    "name": "Tafsir al-Samarqandi (Bahr al-'Ulum)",
-    "author": "Abu al-Layth Nasr bin Muhammad al-Samarqandi",
-    "desc": "Tafsir bernuansa fikih dan nasihat spiritual yang kaya akan riwayat salaf dan hikmah."
-  },
-  {
-    "name": "Tafsir al-Tha'labi (Al-Kashf wa-al-Bayan)",
-    "author": "Abu Ishaq Ahmad bin Muhammad al-Tha'labi",
-    "desc": "Tafsir luas memuat riwayat bahasa, hukum, dan kisah-kisah para nabi secara terperinci."
-  },
-  {
-    "name": "Ahkam al-Qur'an al-Jassas",
-    "author": "Abu Bakr Ahmad bin 'Ali al-Jassas",
-    "desc": "Tafsir ayat-ayat hukum yang disusun berdasarkan sudut pandang dan perbandingan Mazhab Hanafi."
-  },
-  {
-    "name": "Ahkam al-Qur'an Ibn al-'Arabi",
-    "author": "Qadi Abu Bakr bin al-'Arabi al-Maliki",
-    "desc": "Kajian mendalam ayat-ayat hukum berdasarkan perspektif Mazhab Maliki dan analisis keilmuan."
-  },
-  {
-    "name": "Ahkam al-Qur'an al-Kiya al-Harrasi",
-    "author": "Imad al-Din 'Ali bin Muhammad al-Harrasi",
-    "desc": "Tafsir spesifik ayat-ayat hukum yang membela kesimpulan fikih dari Mazhab Syafi'i."
-  },
-  {
-    "name": "Al-Wajiz fi Tafsir al-Kitab al-'Aziz",
-    "author": "Abu al-Hasan 'Ali bin Ahmad al-Wahidi",
-    "desc": "Ringkasan tafsir terpopuler karya Al-Wahidi untuk kalangan awam agar mudah memahami Al-Qur'an."
-  },
-  {
-    "name": "Al-Basit",
-    "author": "Abu al-Hasan 'Ali bin Ahmad al-Wahidi",
-    "desc": "Karya tafsir terbesar Al-Wahidi yang mengupas tata bahasa, qira'at, dan asbabun nuzul."
-  },
-  {
-    "name": "Al-Wasit fi Tafsir al-Qur'an al-Majid",
-    "author": "Abu al-Hasan 'Ali bin Ahmad al-Wahidi",
-    "desc": "Tafsir skala menengah Al-Wahidi yang menyeimbangkan penjelasan makna riwayat dan analisis bahasa."
-  },
-  {
-    "name": "Zad al-Masir fi 'Ilm al-Tafsir",
-    "author": "Abu al-Faraj 'Abd al-Rahman bin al-Jawzi",
-    "desc": "Tafsir bernuansa Hanbali yang merangkum berbagai pendapat mufassir secara ringkas dan rapi."
-  },
-  {
-    "name": "Tafsir al-Iji (Jami' al-Bayan)",
-    "author": "Muhammad bin 'Abd al-Rahman al-Iji",
-    "desc": "Tafsir ringkas yang menekankan pada penjelasan kata demi kata dan kaitan antar ayat."
-  },
-  {
-    "name": "Nazm al-Durar fi Tanasub al-Ayat wa-al-Suwar",
-    "author": "Ibrahim bin 'Umar al-Biqa'i",
-    "desc": "Tafsir yang secara khusus membedah keharmonisan, korelasi, dan kaitan (munasabah) antarayat."
-  },
-  {
-    "name": "Tafsir Abu al-Sa'ud (Irshad al-'Aql al-Salim)",
-    "author": "Abu al-Sa'ud Muhammad bin Muhammad al-'Amadi",
-    "desc": "Tafsir bernilai sastra tinggi yang menonjolkan mukjizat bahasa dan balagah Al-Qur'an."
+    "name": "Ruh al-Ma'ani fi Tafsir al-Qur'an al-'Azim",
+    "author": "Mahmud al-Alusi",
+    "desc": "Tafsir ensiklopedis yang menggabungkan riwayat, rasio, dan isyari tasawuf."
   },
   {
     "name": "Fath al-Qadir",
     "author": "Muhammad bin 'Ali al-Shawkani",
-    "desc": "Tafsir yang memadukan secara seimbang antara metode riwayat (bil-ma'thur) dan rasional (bil-ra'yi)."
+    "desc": "Tafsir yang memadukan pendekatan riwayat (ma'thur) dan rasio (ra'yi)."
+  },
+  {
+    "name": "Taysir al-Karim al-Rahman",
+    "author": "'Abd al-Rahman bin Nasir al-Sa'di",
+    "desc": "Tafsir ringkas dan jelas, berfokus pada pesan moral serta hukum ayat."
+  },
+  {
+    "name": "Tafsir al-Tustari",
+    "author": "Sahl bin 'Abdullah al-Tustari",
+    "desc": "Tafsir sufi isyari tertua yang menjelaskan makna batiniah ayat Al-Qur'an."
+  },
+  {
+    "name": "Tafsir Ibn Abi Hatim",
+    "author": "Ibn Abi Hatim al-Razi",
+    "desc": "Tafsir riwayat murni yang memuat sanad-sanad riwayat dari para sahabat."
+  },
+  {
+    "name": "Bahr al-'Ulum",
+    "author": "Abu al-Layth al-Samarqandi",
+    "desc": "Tafsir bil-ma'thur klasik yang memuat banyak riwayat generasi tabi'in."
+  },
+  {
+    "name": "Al-Nukat wa al-'Uyun",
+    "author": "Abu al-Hasan 'Ali bin Muhammad al-Mawardi",
+    "desc": "Tafsir sistematik yang merangkum berbagai penafsiran ulama salaf."
+  },
+  {
+    "name": "Al-Wajiz fi Tafsir al-Kitab al-'Aziz",
+    "author": "'Ali bin Ahmad al-Wahidi",
+    "desc": "Tafsir ringkas fokus pada penjelasan kosakata sukar dan asbabun nuzul."
+  },
+  {
+    "name": "Zad al-Masir fi 'Ilm al-Tafsir",
+    "author": "Abu al-Faraj Ibn al-Jawzi",
+    "desc": "Tafsir terstruktur yang memuat variasi pendapat tafsir dan analisis bahasa."
+  },
+  {
+    "name": "Al-Tashil li-'Ulum al-Tanzil",
+    "author": "Ibn Juzayy al-Kalbi",
+    "desc": "Tafsir metodis dan ringkas, sangat cocok untuk pemula dan pembaca umum."
+  },
+  {
+    "name": "Irshad al-'Aql al-Salim ila Mazaya al-Kitab al-Karim",
+    "author": "Abu al-Su'ud al-'Imadi",
+    "desc": "Tafsir mendalam fokus pada mukjizat bahasa dan balaghah Al-Qur'an."
+  },
+  {
+    "name": "Haqaiq al-Tafsir",
+    "author": "Abu 'Abd al-Rahman al-Sulami",
+    "desc": "Kitab tafsir berorientasi tasawuf dan penafsiran isyari abad ke-4 Hijriah."
   },
   {
     "name": "Hashiyat al-Sawi 'ala Tafsir al-Jalalayn",
     "author": "Ahmad bin Muhammad al-Sawi",
-    "desc": "Catatan pinggir (hasyiyah) atas Tafsir Jalalayn yang kaya penafsiran sufistik dan cabang ilmu."
+    "desc": "Catatan penjelasan memperdalam isi penafsiran Tafsir Jalalayn."
   },
   {
-    "name": "Hashiyat al-Jamal 'ala Tafsir al-Jalalayn",
+    "name": "Al-Futuhat al-Ilahiyyah (Hashiyat al-Jamal)",
     "author": "Sulayman bin 'Umar al-Jamal",
-    "desc": "Penjelasan rinci dan luas mengenai aspek I'rab, bahasa, dan fikih atas Tafsir Jalalayn."
+    "desc": "Catatan penjelasan luas atas Tafsir Jalalayn dari aspek I'rab dan grammar."
   },
   {
-    "name": "Ghara'ib al-Qur'an wa-Ragha'ib al-Furqan",
-    "author": "Nizam al-Din al-Hasan bin Muhammad al-Naysaburi",
-    "desc": "Tafsir yang memadukan analisis bahasa Al-Razi dan aspek isyarat sufistik secara mendalam."
+    "name": "Ghara'ib al-Qur'an wa Ragha'ib al-Furqan",
+    "author": "Nizam al-Din al-Naysaburi",
+    "desc": "Tafsir yang memadukan sains, filsafat, dan makna isyari tasawuf."
   },
   {
-    "name": "Al-Tashil li-'Ulum al-Tanzil",
-    "author": "Muhammad bin Ahmad bin Juzayy al-Kalbi",
-    "desc": "Tafsir ringkas namun mencakup empat disiplin: bahasa, hukum, riwayat, dan makna maknawi."
+    "name": "Lata'if al-Isharat",
+    "author": "Abu al-Qasim al-Qushayri",
+    "desc": "Tafsir bertema tasawuf/isyari dengan gaya bahasa puitis dan indah."
   },
   {
-    "name": "Haqa'iq al-Tafsir",
-    "author": "Abu 'Abd al-Rahman Muhammad bin al-Husayn al-Sulami",
-    "desc": "Rujukan utama penafsiran isyari (sufistik) dari perkataan tokoh-tokoh sufi terkemuka."
+    "name": "Al-Kashf wa al-Bayan 'an Tafsir al-Qur'an",
+    "author": "Abu Ishaq al-Tha'labi",
+    "desc": "Tafsir kaya akan riwayat, kisah-kisah nabi, dan aspek kebahasaan."
   },
   {
     "name": "Al-Bahr al-Muhit",
-    "author": "Abu Hayyan Muhammad bin Yusuf al-Andalusi",
-    "desc": "Tafsir terpenting dalam bidang tata bahasa (nahwu), sarf, dan analisis kebahasaan Al-Qur'an."
+    "author": "Abu Hayyan al-Andalusi",
+    "desc": "Tafsir rujukan utama dalam bidang tata bahasa (I'rab) Al-Qur'an."
   },
   {
-    "name": "Al-Durr al-Manthur fi al-Tafsir bi-al-Ma'thur",
-    "author": "Jalal al-Din 'Abd al-Rahman al-Suyuti",
-    "desc": "Kompilasi riwayat tafsir raksasa yang mengumpulkan seluruh hadis dan atsar terkait ayat."
+    "name": "Al-Durr al-Manthur fi al-Tafsir bi al-Ma'thur",
+    "author": "Jalaluddin al-Suyuti",
+    "desc": "Himpunan hadis dan riwayat tafsir salaf tanpa menyantumkan sanad lengkap."
   },
   {
-    "name": "Adwa' al-Bayan fi Idah al-Qur'an bi-al-Qur'an",
-    "author": "Muhammad al-Amin bin Muhammad al-Shanqiti",
-    "desc": "Tafsir unik yang mengandalkan metode menafsirkan satu ayat Al-Qur'an dengan ayat lainnya."
+    "name": "Marah Labid (Tafsir al-Munir)",
+    "author": "Muhammad Nawawi al-Jawi al-Bantani",
+    "desc": "Tafsir karya ulama Nusantara berbahasa Arab yang komprehensif dan mu'tabar."
   },
   {
-    "name": "Safwat al-Tafasir",
-    "author": "Muhammad 'Ali al-Sabuni",
-    "desc": "Ringkasan intisari dari kitab-kitab tafsir rujukan utama dengan gaya bahasa modern dan jelas."
+    "name": "Tanwir al-Miqbas min Tafsir Ibn 'Abbas",
+    "author": "Al-Firuzabadi (disandarkan pada Ibn 'Abbas)",
+    "desc": "Himpunan riwayat penafsiran yang disandarkan pada Ibnu Abbas."
   },
   {
-    "name": "Aysar al-Tafasir",
-    "author": "Abu Bakr Jabir al-Jaza'iri",
-    "desc": "Tafsir praktis dan kontemporer yang dirancang khusus untuk mempermudah pemahaman masyarakat umum."
+    "name": "Al-Tahrir wa al-Tanwir",
+    "author": "Muhammad al-Tahir bin 'Ashur",
+    "desc": "Tafsir kontemporer fokus pada keindahan sastra dan maqasid syariah."
+  },
+  {
+    "name": "Ahkam al-Qur'an",
+    "author": "Abu Bakr al-Jassas",
+    "desc": "Tafsir ayat-ayat hukum Al-Qur'an berdasarkan mazhab Hanafi."
+  },
+  {
+    "name": "Ahkam al-Qur'an",
+    "author": "Qadi Ibn al-'Arabi al-Maliki",
+    "desc": "Tafsir ayat hukum berlandaskan jurisprudensi dan fiqih mazhab Maliki."
+  },
+  {
+    "name": "Ahkam al-Qur'an",
+    "author": "Ilkiya al-Harrasi",
+    "desc": "Tafsir ayat-ayat hukum dengan pendekatan fikih mazhab Syafi'i."
+  },
+  {
+    "name": "Nazm al-Durar fi Tanasub al-Ayat wa al-Suwar",
+    "author": "Burhanuddin al-Biqa'i",
+    "desc": "Tafsir spesialis membahas korelasi (munasabah) antar ayat dan surah."
+  },
+  {
+    "name": "Al-Siraj al-Munir",
+    "author": "Al-Khatib al-Shirbini",
+    "desc": "Tafsir berfokus pada balaghah, hukum fikih Syafi'i, dan kemudahan bacaan."
+  },
+  {
+    "name": "Tafsir Mujahid",
+    "author": "Mujahid bin Jabr al-Makhzumi",
+    "desc": "Naskah tafsir riwayat tertua dari murid utama Ibnu Abbas."
+  },
+  {
+    "name": "Tafsir Muqatil bin Sulayman",
+    "author": "Muqatil bin Sulayman",
+    "desc": "Salah satu karya tafsir Al-Qur'an utuh paling awal yang dibukukan."
+  },
+  {
+    "name": "Tafsir Sufyan al-Thawri",
+    "author": "Sufyan bin Sa'id al-Thawri",
+    "desc": "Kumpulan riwayat tafsir dari ulama tabi'ut tabi'in abad ke-2 Hijriah."
+  },
+  {
+    "name": "Tafsir 'Abd al-Razzaq",
+    "author": "'Abd al-Razzaq bin Humam al-San'ani",
+    "desc": "Kitab tafsir riwayat salaf dari pengarang Al-Musannaf."
+  },
+  {
+    "name": "Ta'wilat Ahl al-Sunnah",
+    "author": "Abu Mansur al-Maturidi",
+    "desc": "Tafsir teologis utama berlandaskan mazhab Aqidah Maturidiyyah."
+  },
+  {
+    "name": "Al-Lubab fi 'Ulum al-Kitab",
+    "author": "Ibn 'Adil al-Hanbali",
+    "desc": "Tafsir ensiklopedis gabungan analisis Razi, I'rab, dan Fikih."
+  },
+  {
+    "name": "Tafsir al-Jilani",
+    "author": "'Abd al-Qadir al-Jilani",
+    "desc": "Tafsir sufistik yang memadukan syariat dan hakikat spiritual."
+  },
+  {
+    "name": "Ruh al-Bayan fi Tafsir al-Qur'an",
+    "author": "Ismail Haqqi al-Bursevi",
+    "desc": "Tafsir sufi bercorak akhlak, tasawuf, dan petunjuk irfani."
+  },
+  {
+    "name": "Al-Iklil fi Istinbat al-Tanzil",
+    "author": "Jalaluddin al-Suyuti",
+    "desc": "Tafsir spesifik penggalian hukum-hukum fikih dari ayat Al-Qur'an."
+  },
+  {
+    "name": "Adwa' al-Bayan fi Idah al-Qur'an bi al-Qur'an",
+    "author": "Muhammad al-Amin al-Shanqiti",
+    "desc": "Tafsir Al-Qur'an berbasis hukum Fikih dan Usul Fiqh."
   },
   {
     "name": "Tafsir al-Manar",
-    "author": "Muhammad 'Abduh & Muhammad Rashid Rida",
-    "desc": "Tafsir bernuansa pembaharuan sosial dan pemikiran Islam kontemporer berbasis rasional-religius."
+    "author": "Muhammad 'Abduh & Rashid Rida",
+    "desc": "Tafsir modernis berfokus pada pembaharuan sosial dan rasionalitas."
   },
   {
-    "name": "Fi Zilal al-Qur'an",
-    "author": "Sayyid Qutb",
-    "desc": "Tafsir sastra dan pergerakan yang menekankan pada penghayatan pesan peradaban Al-Qur'an."
-  },
-  {
-    "name": "Al-Jawahir fi Tafsir al-Qur'an",
-    "author": "Tantawi Jawhari",
-    "desc": "Tafsir unik yang mengorelasikan ayat-ayat Al-Qur'an dengan sains dan fenomena alam modern."
-  },
-  {
-    "name": "Al-Tahrir wa-al-Tanwir",
-    "author": "Muhammad al-Tahir bin 'Ashur",
-    "desc": "Mahakarya tafsir kontemporer yang sangat mendalam dari segi balagah, maqasid, dan ijtihad."
-  },
-  {
-    "name": "Mahasin al-Ta'wil",
-    "author": "Muhammad Jamal al-Din al-Qasimi",
-    "desc": "Tafsir kontemporer yang menggabungkan kaidah-kaidah ilmu tafsir klasik dan wawasan ilmu modern."
-  },
-  {
-    "name": "Al-Mizan fi Tafsir al-Qur'an",
-    "author": "Muhammad Husayn al-Tabataba'i",
-    "desc": "Tafsir komprehensif Mazhab Syi'ah yang menggunakan metode penafsiran ayat dengan ayat."
+    "name": "Mahasin al-Ta'wil (Tafsir al-Qasimi)",
+    "author": "Muhammad Jamaluddin al-Qasimi",
+    "desc": "Tafsir metodis memadukan riwayat klasik dan wawasan pemikiran modern."
   }
 ]
