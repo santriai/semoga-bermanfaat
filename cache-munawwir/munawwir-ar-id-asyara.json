@@ -1,0 +1,99 @@
+{
+  "arabic": "أَعْشَرَ",
+  "arabicHarokat": "أَعْشَرَ - يُعْشِرُ - إِعْشَارًا",
+  "latin": "a'syara - yu'syiru - i'syāran",
+  "wordType": "fiil",
+  "wordTypeIndo": "Fi'il Tsulatsi Mazid bi Harf Wahid (Wazan Af'ala / Bab If'al)",
+  "root": "ع - ش - ر",
+  "wazan": "أَفْعَلَ - يُفْعِلُ - إِفْعَالًا",
+  "page": "943",
+  "referenceBook": "Kamus Al-Munawwir Arab-Indonesia Terlengkap (Krapyak)",
+  "referenceUrl": "https://archive.org/details/kamus-al-munawwir-arab-indonesia",
+  "tashrifBrief": {
+    "madhi": "أَعْشَرَ",
+    "mudhari": "يُعْشِرُ",
+    "mashdar": "إِعْشَارًا",
+    "fail": "مُعْشِرٌ",
+    "maful": "مُعْشَرٌ",
+    "amr": "أَعْشِرْ",
+    "nahyi": "لَا تُعْشِرْ"
+  },
+  "singular": "-",
+  "plural": "-",
+  "gender": "mudzakkar",
+  "transitivity": "keduanya",
+  "meanings": [
+    "Menjadi sepuluh / genap berjumlah sepuluh orang (صَارُوا عَشَرَةً)",
+    "Bunting/hamil genap sepuluh bulan (dikatakan khusus untuk unta betina: أَعْشَرَتِ النَّاقَةُ)",
+    "Mengambil sepersepuluh bagian (1/10) dari harta atau hasil tanaman",
+    "Memberi minum atau menggembalakan unta pada hari kesepuluh (عِشْرًا)"
+  ],
+  "contextualMeanings": [
+    {
+      "preposition": "أَعْشَرَ القَوْمُ",
+      "arabicPhrase": "أَعْشَرَ القَوْمُ فَتَمَّ عَدَدُهُمْ",
+      "meaning": "Kaum itu telah genap berjumlah sepuluh orang (shārū 'asyarah)"
+    },
+    {
+      "preposition": "أَعْشَرَتِ النَّاقَةُ",
+      "arabicPhrase": "أَعْشَرَتِ النَّاقَةُ إِعْشَارًا",
+      "meaning": "Unta betina itu kandungannya telah memasuki usia sepuluh bulan dan mendekati masa melahirkan"
+    },
+    {
+      "preposition": "أَعْشَرَ المَالَ",
+      "arabicPhrase": "أَعْشَرَ العَامِلُ أَمْوَالَهُمْ",
+      "meaning": "Petugas penarik pajak/zakat mengambil sepersepuluh (al-'usyr) dari harta benda mereka"
+    }
+  ],
+  "examples": [
+    {
+      "arabic": "أَعْشَرَتِ النَّاقَةُ إِذَا مَضَى لِحَمْلِهَا عَشَرَةُ أَشْهُرٍ فَهِيَ عُشَرَاءُ",
+      "latin": "A'syarati an-nāqatu idzā madhā lihamlihā 'asyaratu asyhurin fahiya 'usyarā'u",
+      "translation": "Unta betina itu dikatakan 'a'syarat' apabila masa kandungannya telah berjalan sepuluh bulan, maka ia disebut unta 'usyara'.",
+      "context": "Kaidah Lughawiyyah Pesantren (menjelaskan asal kata 'al-'isyaaru' dalam QS. At-Takwir: 4)"
+    },
+    {
+      "arabic": "أَعْشَرَ الرَّجُلُ إِبِلَهُ فِي المَرْعَى",
+      "latin": "A'syara ar-rajulu ibilahu fī al-mar'ā",
+      "translation": "Lelaki itu mendatangkan untanya ke tempat minum pada giliran hari yang kesepuluh.",
+      "context": "Lisanul 'Arab & Kamus Al-Munawwir bab 'Ain-Syin-Ra"
+    }
+  ],
+  "synonyms": [
+    "عَشَّرَ",
+    "صَارَ ذَا عَشَرَةٍ",
+    "أَخَذَ العُشْرَ"
+  ],
+  "antonyms": [
+    "أَفْرَدَ",
+    "وَحَّدَ"
+  ],
+  "derivedWords": [
+    {
+      "arabic": "عُشْرٌ",
+      "meaning": "Sepersepuluh (1/10) bagian",
+      "type": "Isim Jamid / Mashdar"
+    },
+    {
+      "arabic": "عُشَرَاءُ",
+      "meaning": "Unta betina bunting 10 bulan (jamaknya: عِشَارٌ)",
+      "type": "Isim Sifat"
+    },
+    {
+      "arabic": "مُعْشِرٌ",
+      "meaning": "Orang yang mengambil sepersepuluh / unta yang bunting sepuluh bulan",
+      "type": "Isim Fa'il"
+    },
+    {
+      "arabic": "عَاشِرٌ",
+      "meaning": "Yang kesepuluh",
+      "type": "Isim Fa'il / 'Adad Tartibi"
+    },
+    {
+      "arabic": "مِعْشَارٌ",
+      "meaning": "Sepersepuluh dari sepersepuluh (seperseratus)",
+      "type": "Isim Mubalaghah / Isim Miqdar"
+    }
+  ],
+  "notes": "Huruf Hamzah di awal wazan أَفْعَلَ (If'al) pada kata أَعْشَرَ memiliki faedah الصَّيْرُورَة (shairurah / beralih keadaan) yakni 'menjadi sepuluh' atau 'menjadi bunting sepuluh bulan', sekaligus juga berfaedah التَّعْدِيَة (ta'diyah) ketika bermakna 'mengambil sepersepuluh bagian dari harta (muta'addi)'. Kata ini sangat berkaitan dengan kata عِشَارٌ dalam ayat 'وَإِذَا الْعِشَارُ عُطِّلَتْ' (QS. At-Takwir: 4)."
+}
