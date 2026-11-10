@@ -1,0 +1,5 @@
+{
+  "content": "Maaf, tidak ada jawaban dari sistem.",
+  "topic": "kitab",
+  "query": "\n        Bertindaklah sebagai ahli Kitab Kuning dan Ulama yang mendalam ilmunya.\n        Analisis pertanyaan/topik berikut: \"Tanggal 11, 12, dan 13 Dzulhijjah (Hari Tasyriq): Mabit di Mina dan Melontar Tiga Jamrah (Ula, Wusta, Aqabah).\"\n        \n        Sajikan jawaban dalam format JSON valid (tanpa markdown ```) dengan struktur:\n        {\n          \"title\": \"Judul Topik/Bab yang Relevan (Singkat Padat)\",\n          \"summary\": \"Ringkasan inti dari penjelasan (1-2 kalimat)\",\n          \"points\": [\"Poin utama 1\", \"Poin utama 2\", \"Poin utama 3\", \"dst...\"],\n          \"analysis\": \"Penjelasan mendalam dan komprehensif (paragraf panjang, boleh ada line break)\",\n          \"dalil\": \"Teks Arab/Ibarah Kitab yang relevan (jika ada, jika tidak kosongkan)\",\n          \"source\": \"Nama Kitab / Referensi Rujukan\"\n        }\n      "
+}
