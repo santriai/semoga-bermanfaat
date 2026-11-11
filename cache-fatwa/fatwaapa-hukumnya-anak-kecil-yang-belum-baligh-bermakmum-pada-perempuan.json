@@ -1,36 +1,41 @@
 {
   "question": "Apa hukumnya anak kecil yang belum baligh bermakmum pada perempuan",
-  "summary": "Hukum anak kecil belum baligh bermakmum kepada perempuan adalah sah menurut semua madzhab dengan catatan tertentu.",
-  "lawStatus": "Mubah (Boleh)",
+  "summary": "Para ulama empat madzhab sepakat bahwa shalat anak laki-laki yang belum baligh (shabi mumayyiz) bermakmum kepada perempuan hukumnya tidak sah untuk shalat fardhu. Syarat sah makmum laki-laki—meskipun masih anak-anak—adalah imamnya harus laki-laki. Namun, jika anak tersebut adalah perempuan, maka sah bermakmum kepada perempuan menurut mayoritas madzhab.",
+  "lawStatus": "Tidak Sah / Batal (Haram jika dilakukan dengan sengaja dalam shalat fardhu)",
   "madzhabComparison": [
     {
       "madzhab": "Syafi'i",
-      "opinion": "Sah dengan syarat anak tersebut sudah mumayyiz (bisa membedakan baik-buruk) dan posisi imam perempuan di tengah jamaah laki-laki dewasa. Jika imam perempuan sendirian dengan anak kecil, makmumnya tidak sah (Al-Majmu' Syarh al-Muhadzdzab)"
+      "opinion": "Hukumnya tidak sah secara mutlak apabila anak kecil tersebut berjenis kelamin laki-laki (shabi mumayyiz). Dalam Madzhab Syafi'i, syarat menjadi imam bagi makmum berjenis laki-laki (dewasa maupun anak-anak) adalah imam harus berjenis kelamin laki-laki. Sebagaimana disebutkan dalam Fathul Qarib dan Minhajut Thalibin: 'فلا تصح قدوة رجل ولا صبي بامرأة' (Maka tidak sah makmumnya seorang laki-laki dewasa maupun anak laki-laki kepada seorang wanita). Namun, jika anak kecil tersebut berjenis kelamin perempuan, maka hukumnya sah dan disunnahkan."
     },
     {
       "madzhab": "Hanafi",
-      "opinion": "Sah secara mutlak karena anak kecil belum termasuk kategori laki-laki dewasa yang haram bermakmum pada perempuan (Al-Hidayah Syarh Bidayah al-Mubtadi)"
+      "opinion": "Hukumnya tidak sah. Ulama Hanafiyyah menegaskan bahwa laki-laki mutlak tidak boleh bermakmum kepada wanita, mencakup laki-laki baligh maupun anak laki-laki (shabi). Keabsahan shalat laki-laki mensyaratkan imam laki-laki karena derajat kepemimpinan shalat berada pada kaum pria, serta adanya larangan memposisikan wanita di depan kaum laki-laki (ta'khir an-nisa')."
     },
     {
       "madzhab": "Maliki",
-      "opinion": "Sah dengan syarat anak tersebut sudah mumayyiz. Imam perempuan harus berdiri di tengah shaf (Asy-Syarh al-Kabir li ad-Dardir)"
+      "opinion": "Hukumnya tidak sah dan shalatnya batal. Madzhab Maliki memiliki pandangan yang paling ketat, di mana keimaman perempuan dianggap tidak sah secara mutlak, baik bagi makmum laki-laki (baligh maupun anak kecil) maupun sesama perempuan, baik dalam shalat fardhu maupun shalat sunnah. Syarat sah menjadi imam menurut Maliki adalah berjenis kelamin laki-laki dan baligh/mumayyiz tergantung jenis shalatnya."
     },
     {
       "madzhab": "Hambali",
-      "opinion": "Sah tanpa syarat selama anak tersebut belum baligh (Al-Mughni Ibnu Qudamah)"
+      "opinion": "Hukumnya tidak sah dalam shalat fardhu bagi anak laki-laki bermakmum kepada perempuan. Menurut qaul mu'tamad (pendapat resmi mazhab), wanita tidak sah menjadi imam bagi laki-laki secara mutlak baik dewasa maupun anak-anak. Sebagian riwayat kecil Hanabilah hanya memberikan rukhshah khusus bagi wanita qari'ah untuk mengimami anggota keluarganya dalam shalat sunnah/Tarawih dengan dalil riwayat Ummu Waraqah, namun pendapat utama tetap menyatakan tidak sah bagi anak laki-laki dalam shalat fardhu."
     }
   ],
   "evidences": [
     {
-      "source": "Hadis",
-      "text": "صَلَّى ابْنُ عَبَّاسٍ وَهُوَ غُلَامٌ وَالْوَلِيدُ بْنُ عُقْبَةَ خَلْفَ أُمِّ سَلَمَةَ",
-      "meaning": "Ibnu Abbas ketika masih kecil dan al-Walid bin Uqbah pernah shalat bermakmum di belakang Ummu Salamah (HR. Abdurrazzaq dalam al-Mushannaf)"
+      "source": "Hadis Riwayat Al-Bukhari (No. 4425)",
+      "text": "لَنْ يُفْلِحَ قَوْمٌ وَلَّوْا أَمْرَهُمُ امْرَأَةً",
+      "meaning": "Tidak akan beruntung suatu kaum yang menyerahkan urusan (kepemimpinan) mereka kepada seorang wanita."
     },
     {
-      "source": "Qiyas",
-      "text": "",
-      "meaning": "Dianalogikan dengan ketentuan umum bahwa anak kecil belum terkena taklif (beban hukum) seperti orang dewasa"
+      "source": "Hadis Riwayat Ibnu Majah (No. 1081)",
+      "text": "أَلَا لَا تَؤُمَّنَّ امْرَأَةٌ رَجُلًا",
+      "meaning": "Ketahuilah, jangan sekali-kali seorang wanita mengimami seorang laki-laki."
+    },
+    {
+      "source": "Kaidah Fiqhiyyah (Fathul Mu'in / Nihayatuz Zain)",
+      "text": "شَرْطُ قُدْوَةِ الذَّكَرِ أَنْ يَكُونَ إِمَامُهُ ذَكَرًا يَقِينًا، فَلَا يَصِحُّ اقْتِدَاءُ ذَكَرٍ وَلَوْ صَبِيًّا بِامْرَأَةٍ",
+      "meaning": "Syarat makmum laki-laki adalah imamnya harus diyakini seorang laki-laki, maka tidak sah makmumnya laki-laki walaupun masih anak kecil kepada seorang perempuan."
     }
   ],
-  "conclusion": "Kesimpulan: 1. Hukum asal boleh (mubah) dengan preferensi pendapat Hanafi dan Hambali yang lebih longgar. 2. Disarankan memilih laki-laki dewasa sebagai imam jika ada untuk menghindari khilaf. 3. Jika terpaksa, pastikan anak sudah mumayyiz dan posisi imam sesuai ketentuan madzhab masing-masing. 4. Kasus ini termasuk area khilafiyah yang toleran selama memenuhi syarat-syarat dasar kesahihan shalat berjamaah."
+  "conclusion": "Berdasarkan konsensus empat madzhab fiqih Aswaja, jika anak kecil tersebut adalah laki-laki (walaupun belum baligh), shalatnya batal atau tidak sah apabila bermakmum kepada perempuan (ibunya, saudarinya, atau guru perempuannya). Solusi praktisnya: jika hanya ada seorang ibu dan anak laki-lakinya yang telah mumayyiz (sekitar usia 7 tahun ke atas dan mengerti rukun shalat), maka anak laki-laki tersebutlah yang harus dijadikan imam dan ibunya menjadi makmum di belakangnya, atau keduanya melaksanakan shalat sendiri-sendiri (munfarid)."
 }
