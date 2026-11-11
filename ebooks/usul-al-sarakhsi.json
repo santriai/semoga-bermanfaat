@@ -1,0 +1,104 @@
+{
+  "profile": {
+    "name": "Usul al-Sarakhsi",
+    "originalTitle": "أُصُولُ السَّرَخْسِيِّ",
+    "author": "Syamsul A'immah Abu Bakr Muhammad bin Ahmad bin Abi Sahl al-Sarakhsi",
+    "field": "Ushul Fiqh (Mazhab Hanafi)",
+    "about": "Kitab Usul al-Sarakhsi merupakan rujukan agung dalam metodologi hukum Islam (ushul fiqh) mazhab Hanafi yang disusun secara sistematis dan analitis. Kitab ini merefleksikan formulasi kaidah-kaidah ushuliyah yang dibangun dari ijtihad para imam pendahulu mazhab Hanafi seperti Imam Abu Hanifah, Abu Yusuf, dan Muhammad bin al-Hasan al-Syaibani. Al-Sarakhsi mendiktekan karya agung ini ketika berada dalam tahanan di Uzjand, menunjukkan penguasaan keilmuan dan ketajaman analisis tekstual yang luar biasa. Pembahasannya mencakup kaidah kebahasaan (lafal nash), dalil-dalil hukum primer dan sekunder, teori taklif dan ahliyah, hingga qiyas dan istihsan. Karya ini menjadi poros kajian komparatif lintas mazhab (khususnya antara tariqah al-fuqaha dan tariqah al-mutakallimin) di seluruh dunia Islam.",
+    "authorBorn": "Sekitar 400 H / 1009 M di Sarakhs (Khurasan)",
+    "authorDied": "483 H / 1090 M di Uzjand (Asia Tengah)",
+    "authorCentury": "Abad ke-5 Hijriah / Abad ke-11 Masehi"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah Kitab",
+      "titleArabic": "مُقَدِّمَةُ الْكِتَابِ",
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ. الْحَمْدُ لِلَّهِ الَّذِي أَوْضَحَ مَنَاهِجَ الْهُدَى بِالْبَرَاهِينِ النَّيِّرَةِ، وَفَتَحَ أَبْوَابَ الْعِلْمِ لِأُولِي الْأَلْبَابِ بِالدَّلَائِلِ الْبَاهِرَةِ، وَالصَّلَاةُ عَلَى خَيْرِ خَلْقِهِ مُحَمَّدٍ الْمَبْعُوثِ بِالْحُجَجِ الْقَاطِعَةِ، وَعَلَى آلِهِ وَأَصْحَابِهِ هُدَاةِ الْأُمَّةِ. أَمَّا بَعْدُ: فَإِنَّ عِلْمَ أُصُولِ الْفِقْهِ هُوَ الْأَصْلُ الَّذِي يُبْنَى عَلَيْهِ مَعْرِفَةُ الْأَحْكَامِ الشَّرْعِيَّةِ، وَبِهِ يُتَوَصَّلُ إِلَى اسْتِنْبَاطِ الْفُرُوعِ مِنَ الْأُصُولِ الْمَرْضِيَّةِ.",
+      "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah yang telah menjelaskan jalan-jalan petunjuk dengan argumentasi yang benderang, dan membukakan pintu-pintu ilmu bagi kaum yang berakal dengan dalil-dalil yang nyata. Shalawat serta salam semoga tercurah kepada sebaik-baik makhluk-Nya, Nabi Muhammad yang diutus dengan hujah-hujah yang pasti, serta kepada keluarga dan para sahabatnya penuntun umat. Amma ba'du: Sesungguhnya ilmu ushul fiqh adalah pondasi tempat dibangunnya pengetahuan hukum-hukum syar'i, dan melaluinya seseorang mampu menginstinbath cabang-cabang hukum dari dalil-dalil pokok yang diridhai."
+    },
+    {
+      "title": "Pembagian Pokok Dalil-Dalil Hukum",
+      "titleArabic": "بَيَانُ أُصُولِ الشَّرِيعَةِ",
+      "arabic": "أَصْلُ الْأَحْكَامِ الشَّرْعِيَّةِ يَرْجِعُ إِلَى أَرْبَعَةِ أُصُولٍ: كِتَابِ اللَّهِ تَعَالَى، وَسُنَّةِ رَسُولِهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، وَإِجْمَاعِ الْأُمَّةِ، وَالْقِيَاسِ الشَّرْعِيِّ الْمُعْتَبَرِ. فَالْكِتَابُ هُوَ الْأَصْلُ الْمَتْلُوُّ الْمَنْقُولُ إِلَيْنَا تَوَاتُرًا، وَالسُّنَّةُ بَيَانٌ لَهُ وَحُجَّةٌ لَازِمَةٌ، وَالْإِجْمَاعُ حُجَّةٌ قَاطِعَةٌ مَعْصُومَةٌ مِنَ الْخَطَأِ، وَالْقِيَاسُ مُسْتَنْبَطٌ مِنْ هَذِهِ الْأُصُولِ عِنْدَ عَدَمِ النَّصِّ الْخَاصِّ.",
+      "translation": "Pokok dari hukum-hukum syariat itu kembali kepada empat dalil: Kitabullah Ta'ala, Sunnah Rasul-Nya shallallahu 'alaihi wasallam, Ijma' umat, dan Qiyas syar'i yang diakui. Kitabullah merupakan pokok yang dibaca lagi dinukilkan kepada kita secara mutawatir; Sunnah adalah penjelas baginya sekaligus hujah yang mengikat; Ijma' adalah hujah qath'i yang terpelihara dari kekeliruan; dan Qiyas diistinbathkan dari pokok-pokok ini ketika tiada nash yang khusus."
+    },
+    {
+      "title": "Hakikat Perintah (Al-Amr) dan Konsekuensi Hukumnya",
+      "titleArabic": "بَابُ الْأَمْرِ وَمُوجَبِهِ فِي اللُّغَةِ وَالشَّرْعِ",
+      "arabic": "الْأَمْرُ قَوْلُ الْقَائِلِ لِمَنْ دُونَهُ: افْعَلْ. وَمُوجَبُ مُطْلَقِ الْأَمْرِ عِنْدَنَا هُوَ الْوُجُوبُ حَتْمًا إِلَّا أَنْ يَقُومَ دَلِيلٌ يَصْرِفُهُ عَنْهُ إِلَى النَّدْبِ أَوِ الْإِبَاحَةِ. وَلَيْسَ مِنْ شَرْطِهِ التَّكْرَارُ بَلْ يَقْتَضِي إِيجَادَ الْفِعْلِ مَرَّةً وَاحِدَةً عَلَى سَبِيلِ الْفَوْرِ عِنْدَ قَوْمٍ، أَوْ عَلَى التَّرَاخِي عِنْدَ آخَرِينَ مَا لَمْ يَفُتِ الْوَقْتُ.",
+      "translation": "Perintah (al-amr) adalah perkataan pihak yang lebih tinggi kepada pihak di bawahnya: 'Lakukanlah'. Konsekuensi dari lafal perintah yang mutlak menurut mazhab kami adalah kepastian kewajiban (al-wujub), kecuali jika terdapat qarinah dalil yang memalingkannya kepada hukum sunnah atau mubah. Perintah tidak mensyaratkan perulangan secara otomatis, melainkan menuntut terwujudnya perbuatan itu satu kali, baik secara seketika (al-faur) menurut sebagian ulama, atau boleh ditunda (at-tarakhi) menurut yang lain selama waktunya belum habis."
+    },
+    {
+      "title": "Hakikat Larangan (An-Nahy) dan Implikasinya",
+      "titleArabic": "بَابُ النَّهْيِ وَمُوجَبِهِ",
+      "arabic": "النَّهْيُ هُوَ الْقَوْلُ الدَّالُّ عَلَى طَلَبِ الْكَفِّ عَنِ الْفِعْلِ عَلَى وَجْهِ الِاسْتِعْلَاءِ. وَمُوجَبُهُ فِي الشَّرْعِ التَّحْرِيمُ الْمُطْلَقُ، وَيَقْتَضِي قُبْحَ الْمَنْهِيِّ عَنْهُ شَرْعًا. وَالْقَبِيحُ عِنْدَنَا يَنْقَسِمُ إِلَى قَبِيحٍ لِعَيْنِهِ فَلَا يَصِحُّ بِحَالٍ، وَقَبِيحٍ لِغَيْرِهِ مِمَّا يَقْبَلُ الْمَشْرُوعِيَّةَ بِأَصْلِهِ وَيَفْسُدُ بِوَصْفِهِ.",
+      "translation": "Larangan (an-nahy) adalah perkataan yang menunjukkan tuntutan menahan diri dari perbuatan dengan cara merasa lebih tinggi (otoritatif). Konsekuensinya dalam syariat adalah keharaman mutlak, serta berimplikasi pada buruknya perbuatan yang dilarang itu secara syar'i. Keharaman/keburukan perbuatan terbagi menjadi: buruk secara esensial (li-'ainihi) sehingga tidak sah sama sekali, dan buruk karena faktor eksternal (li-ghairihi) yang pada dasarnya disyariatkan namun rusak (fasid) karena sifat penyertanya."
+    },
+    {
+      "title": "Lafal Khusus (Al-Khass) dan Ketetapan Maknanya",
+      "titleArabic": "بَابُ الْخَاصِّ وَبَيَانِ حُكْمِهِ",
+      "arabic": "الْخَاصُّ هُوَ كُلُّ لَفْظٍ وُضِعَ لِمَعْنًى مَعْلُومٍ عَلَى الِانْفِرَادِ عَيْنًا كَانَ أَوْ نَوْعًا أَوْ جِنْسًا. وَحُكْمُ الْخَاصِّ أَنَّهُ يُوجِبُ الْعِلْمَ قَطْعًا وَالْعَمَلَ بِهِ بِلَا شُبْهَةٍ، وَلَا يَجُوزُ تَرْكُ حُكْمِهِ إِلَّا بِنَاسِخٍ مِثْلِهِ؛ لِأَنَّ الْبَيَانَ فِيهِ تَامٌّ لَا يَحْتَمِلُ التَّأْوِيلَ فِي مُرَادِ الْوَاضِعِ.",
+      "translation": "Al-Khass adalah setiap lafal yang ditetapkan untuk suatu makna yang diketahui secara tersendiri, baik berupa zat tertentu, jenis, maupun genus. Hukum dari lafal khusus adalah mewajibkan kepastian pengetahuan (ilmu qath'i) dan pengamalan tanpa ada keraguan, serta tidak boleh meninggalkan hukumnya kecuali dengan adanya dalil penghapus (nasikh) yang sepadan, karena penjelasannya sudah sempurna tanpa memerlukan takwil atas kehendak pembuat bahasa."
+    },
+    {
+      "title": "Lafal Umum (Al-'Amm) dan Kehujahannya Menurut Ulama Mazhab",
+      "titleArabic": "بَابُ الْعَامِّ وَمَرَاتِبِ دَلَالَتِهِ",
+      "arabic": "الْعَامُّ هُوَ اللَّفْظُ الْمُسْتَغْرِقُ لِجَمِيعِ مَا يَصْلُحُ لَهُ بِحَسَبِ وَضْعٍ وَاحِدٍ دُفْعَةً وَاحِدَةً. وَعِنْدَ عُلَمَائِنَا الْعَامُّ قَطْعِيُّ الدَّلَالَةِ عَلَى أَفْرَادِهِ كَالْخَاصِّ مَا لَمْ يَدْخُلْهُ التَّخْصِيصُ، فَإِذَا خُصَّ بَعْضُهُ صَارَ ظَنِّيَّ الدَّلَالَةِ فِي الْبَاقِي فَيَجُوزُ حِينَئِذٍ تَخْصِيصُهُ بِخَبَرِ الْوَاحِدِ وَالْقِيَاسِ.",
+      "translation": "Al-'Amm adalah lafal yang mencakup seluruh satuan yang layak baginya berdasarkan satu peletakan makna secara sekaligus. Menurut para ulama kami, lafal umum itu berfaedah qath'i (pasti) atas seluruh satuannya persis seperti lafal khusus selama belum dimasuki takhshish (pengkhususan). Apabila sebagian satuannya telah dikhususkan, maka penunjukannya atas sisa satuannya berubah menjadi zhanni, sehingga ketika itu boleh dikhususkan lebih lanjut dengan khabar ahad maupun qiyas."
+    },
+    {
+      "title": "Takhshish (Spesifikasi) dan Batasannya",
+      "titleArabic": "بَابُ التَّخْصِيصِ وَشُرُوطِهِ",
+      "arabic": "التَّخْصِيصُ هُوَ قَصْرُ الْعَامِّ عَلَى بَعْضِ أَفْرَادِهِ بِدَلِيلٍ مُقْتَرِنٍ بِهِ. وَشَرْطُهُ أَنْ يَكُونَ الْمُخَصِّصُ مَوْصُولًا بِالْخِطَابِ عِنْدَنَا؛ فَإِنْ كَانَ مُنْفَصِلًا مُتَرَاخِيًا عَنْهُ كَانَ نَسْخًا لَا تَخْصِيصًا؛ لِأَنَّ الْعَامَّ يَنْعَقِدُ مُوجِبُهُ فِي كُلِّ أَفْرَادِهِ فَلَا يَرْتَفِعُ بَعْضُهُ بَعْدَ تَقَرُّرِهِ إِلَّا بِالنَّسْخِ.",
+      "translation": "Takhshish adalah membatasi cakupan lafal umum pada sebagian individunya dengan dalil yang menyertainya. Syaratnya menurut kami, dalil pengkhusus itu harus tersambung langsung (maushul) dengan redaksi khithab; jika dalil tersebut terpisah dan datang kemudian, maka hal itu berstatus sebagai nasakh (penghapusan) dan bukan takhshish, sebab lafal umum telah mengikat konsekuensinya pada seluruh satuan, sehingga tidak dapat diangkat sebagian sesudah ketetapannya melainkan melalui nasakh."
+    },
+    {
+      "title": "Tingkatan Kejelasan Lafal: Zahir, Nash, Mufassar, dan Muhkam",
+      "titleArabic": "بَابُ وُجُوهِ الْبَيَانِ: الظَّاهِرِ وَالنَّصِّ وَالْمُفَسَّرِ وَالْمُحْكَمِ",
+      "arabic": "وَجْهُ النَّظْمِ فِي الْوُضُوحِ أَرْبَعَةُ أَقْسَامٍ: الظَّاهِرُ وَهُوَ مَا ظَهَرَ الْمُرَادُ مِنْهُ بِنَفْسِ الصِّيغَةِ مِنْ غَيْرِ تَوَقُّفٍ وَلَمْ يَكُنْ سِيَاقُ الْكَلَامِ لَهُ؛ وَالنَّصُّ وَهُوَ مَا زَادَ وُضُوحًا بِسِيَاقِ الْكَلَامِ لِأَجْلِهِ؛ وَالْمُفَسَّرُ وَهُوَ مَا أُحْكِمَ بَيَانُهُ فَلَا يَبْقَى فِيهِ احْتِمَالُ التَّأْوِيلِ وَالتَّخْصِيصِ؛ وَالْمُحْكَمُ وَهُوَ أَعْلَاهَا رُتْبَةً وَلَا يَحْتَمِلُ النَّسْخَ بِحَالٍ.",
+      "translation": "Tingkatan kejelasan makna lafal terbagi empat: Azh-Zhahir yaitu apa yang jelas maksudnya dari bentuk lafal itu sendiri tanpa bergantung pada hal luar sementara konteks kalimat bukan ditujukan untuknya; An-Nash yaitu apa yang bertambah kejelasannya karena kalimat memang didatangkan untuk maksud tersebut; Al-Mufassar yaitu lafal yang penjelasannya telah tuntas sehingga tiada ruang untuk takwil dan takhshish; dan Al-Muhkam yaitu derajat tertinggi yang sama sekali tidak menerima pembatalan (nasakh)."
+    },
+    {
+      "title": "Tingkatan Kesamaran Lafal: Khafi, Musykil, Mujmal, dan Mutasyabih",
+      "titleArabic": "بَابُ وُجُوهِ الْإِشْكَالِ: الْخَفِيِّ وَالْمُشْكِلِ وَالْمُجْمَلِ وَالْمُتَشَابِهِ",
+      "arabic": "وَأَقْسَامُ الْخَفَاءِ أَرْبَعَةٌ كَذَلِكَ: الْخَفِيُّ وَهُوَ مَا خَفِيَ مَعْنَاهُ بِعَارِضٍ فِي غَيْرِ الصِّيغَةِ لِزِيَادَةٍ أَوْ نُقْصَانٍ كَالنَّبَّاشِ فِي اسْمِ السَّارِقِ؛ وَالْمُشْكِلُ وَهُوَ مَا لَا يُنَالُ الْمُرَادُ مِنْهُ إِلَّا بِالتَّأَمُّلِ وَالطَّلَبِ؛ وَالْمُجْمَلُ وَهُوَ مَا احْتَمَلَ مَعَانِيَ مُتَعَدِّدَةً فَلَا يُعْرَفُ الْمُرَادُ إِلَّا بِبَيَانٍ مِنْ قِبَلِ الْمُتَكَلِّمِ؛ وَالْمُتَشَابِهُ وَهُوَ مَا انْقَطَعَ الرَّجَاءُ عَنْ مَعْرِفَةِ مُرَادِهِ فِي الدُّنْيَا.",
+      "translation": "Tingkatan kesamaran lafal juga terbagi menjadi empat: Al-Khafi yaitu apa yang tersamar maknanya karena faktor luar bukan dari lafalnya sendiri akibat adanya penambahan atau pengurangan makna (seperti status pencuri kubur dalam hukum pencuri); Al-Musykil yaitu lafal yang tidak dapat dicapai maksudnya melainkan melalui perenungan dan penelitian mendalam; Al-Mujmal yaitu lafal yang mengandung ragam makna sehingga maksudnya tidak dapat diketahui kecuali lewat penjelasan langsung dari pembicara; dan Al-Mutasyabih yaitu lafal yang tertutup harapan untuk mengetahui hakikat maksudnya di dunia."
+    },
+    {
+      "title": "Pembagian Sunnah dan Kedudukan Khabar Ahad",
+      "titleArabic": "بَابُ أَقْسَامِ السُّنَّةِ وَأَحْكَامِ الْأَخْبَارِ",
+      "arabic": "السُّنَّةُ الْمَنْقُولَةُ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَنْقَسِمُ إِلَى: مُتَوَاتِرٍ يُوجِبُ عِلْمَ الْيَقِينِ ضَرُورَةً؛ وَمَشْهُورٍ وَهُوَ مَا كَانَ آحَادًا فِي الْأَصْلِ ثُمَّ انْتَشَرَ فِي الْقَرْنِ الثَّانِي فَأَوْرَثَ طُمَأْنِينَةَ النَّفْسِ؛ وَخَبَرِ الْوَاحِدِ وَهُوَ يُوجِبُ الْعَمَلَ عِنْدَنَا دُونَ الْعِلْمِ الْيَقِينِيِّ بِشَرْطِ عَدَالَةِ الرَّاوِي وَضَبْطِهِ وَأَلَّا يُخَالِفَ الْكِتَابَ أَوِ السُّنَّةَ الْمَشْهُورَةَ أَوْ عَمَلَ الرَّاوِي نَفْسِهِ.",
+      "translation": "Sunnah yang diriwayatkan dari Rasulullah shallallahu 'alaihi wasallam terbagi menjadi: Hadis Mutawatir yang menghasilkan ilmu yaqin secara dharuri; Hadis Masyhur yaitu hadis yang awalnya berstatus ahad kemudian tersebar luas di generasi kedua (tabi'in) sehingga melahirkan ketenangan jiwa; dan Khabar Ahad yaitu hadis yang mewajibkan pengamalan ('amal) menurut mazhab kami namun tidak mewajibkan keyakinan mutlak ('ilmu yaqin), dengan syarat keadilan rawi, kedhabitannya, serta periwayatannya tidak menyelisihi Kitabullah, Sunnah Masyhurah, atau fatwa perawinya sendiri."
+    },
+    {
+      "title": "Konsensus Ulama (Al-Ijma') dan Tingkatannya",
+      "titleArabic": "بَابُ الْإِجْمَاعِ وَمَرَاتِبِهِ",
+      "arabic": "الْإِجْمَاعُ فِي الشَّرْعِ هُوَ اتِّفَاقُ مُجْتَهِدِي أُمَّةِ مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي عَصْرٍ مِنَ الْأَعْصَارِ عَلَى حُكْمِ حَادِثَةٍ. وَهُوَ حُجَّةٌ مُوجِبَةٌ لِلْعَمَلِ شَرْعًا لِقَوْلِهِ عَلَيْهِ الصَّلَاةُ وَالسَّلَامُ: 'لَا تَجْتَمِعُ أُمَّتِي عَلَى ضَلَالَةٍ'. وَأَقْوَاهُ إِجْمَاعُ الصَّحَابَةِ نَصًّا فَيَكُونُ بِمَنْزِلَةِ آيَةٍ مِنَ الْكِتَابِ، ثُمَّ إِجْمَاعُهُمْ سُكُوتًا، ثُمَّ إِجْمَاعُ مَنْ بَعْدَهُمْ مِنَ الْقُرُونِ.",
+      "translation": "Ijma' secara syar'i adalah kesepakatan para mujtahid dari umat Nabi Muhammad shallallahu 'alaihi wasallam pada suatu masa atas hukum suatu peristiwa. Ijma' merupakan hujah yang mewajibkan pengamalan secara syar'i berdasarkan sabda Rasulullah saw: 'Umatku tidak akan bersepakat atas kesesatan'. Tingkatan tertingginya adalah ijma' shahabat secara tegas (qauli) yang posisinya setara dengan ayat Al-Qur'an, disusul ijma' shahabat secara diam (sukuti), lalu ijma' ulama generasi setelah mereka."
+    },
+    {
+      "title": "Teori Analogi (Al-Qiyas) dan Rukun-Rukunnya",
+      "titleArabic": "بَابُ الْقِيَاسِ وَشَرَائِطِ صِحَّتِهِ",
+      "arabic": "الْقِيَاسُ هُوَ تَعْدِيَةُ الْحُكْمِ مِنَ الْأَصْلِ إِلَى الْفَرْعِ بِعِلَّةٍ جَامِعَةٍ بَيْنَهُمَا لَا تُدْرَكُ بِمُجَرَّدِ اللُّغَةِ. وَأَرْكَانُهُ أَرْبَعَةٌ: الْأَصْلُ الْمَقِيسُ عَلَيْهِ، وَالْفَرْعُ الْمَقِيسُ، وَالْحُكْمُ الثَّابِتُ بِالنَّصِّ، وَالْعِلَّةُ الْمُوجِبَةُ لِلْحُكْمِ. وَيُشْتَرَطُ فِي الْعِلَّةِ أَنْ تَكُونَ وَصْفًا مُؤَثِّرًا مُنْضَبِطًا ظَاهِرًا يَدُورُ الْحُكْمُ مَعَهُ وُجُودًا وَعَدَمًا.",
+      "translation": "Qiyas adalah mentransmisikan hukum dari pokok (ashal) kepada cabang (far') berdasarkan kesamaan 'illat yang menghimpun keduanya yang tidak dapat dipahami semata-mata dari segi bahasa. Rukun qiyas ada empat: Pokok (al-ashl), Cabang (al-far'), Hukum ashal yang ditetapkan melalui nash, dan 'Illat yang melandasi hukum tersebut. Disyaratkan pada 'illat untuk menjadi sifat yang berpengaruh (mu'atstsir), terukur (mundhabith), dan nyata (zhahir), yang mana hukum beredar bersamanya dalam ada dan ketiadaannya."
+    },
+    {
+      "title": "Konsep Istihsan dalam Mazhab Hanafi",
+      "titleArabic": "بَابُ الِاسْتِحْسَانِ وَحَقِيقَتِهِ",
+      "arabic": "الِاسْتِحْسَانُ لَيْسَ قَوْلًا بِالتَّشَهِّي كَمَا ظَنَّهُ مَنْ قَصُرَ فَهْمُهُ، بَلْ هُوَ تَرْكُ الْقِيَاسِ الظَّاهِرِ لِدَلِيلٍ أَقْوَى مِنْهُ مِنْ نَصٍّ أَوْ إِجْمَاعٍ أَوْ ضَرُورَةٍ أَوْ قِيَاسٍ خَفِيٍّ رَجَحَ أَثَرُهُ. فَالِاسْتِحْسَانُ فِي الْحَقِيقَةِ هُوَ الْعَمَلُ بِأَقْوَى الدَّلِيلَيْنِ حَيْثُ تَعَارَضَا، وَهُوَ مِنْ أَدَقِّ مَسَالِكِ الِاجْتِهَادِ عِنْدَ أَئِمَّتِنَا رَحِمَهُمُ اللَّهُ.",
+      "translation": "Istihsan bukanlah penetapan hukum berdasarkan hawa nafsu sebagaimana disangka oleh orang yang dangkal pemahamannya, melainkan berpaling dari qiyas yang zhahir menuju dalil yang lebih kuat, baik berupa nash, ijma', darurat, maupun qiyas khafi yang lebih unggul pengaruhnya. Maka hakikat istihsan sesungguhnya adalah mengamalkan dalil yang paling kuat di antara dua dalil yang tampak bertentangan, dan ia merupakan salah satu metode ijtihad yang paling presisi di kalangan para imam mazhab kami rahimahumullah."
+    },
+    {
+      "title": "Teori Kelayakan Hukum (Al-Ahliyyah) dan Penghalang Taklif",
+      "titleArabic": "بَابُ الْأَهْلِيَّةِ وَعَوَارِضِهَا",
+      "arabic": "الْأَهْلِيَّةُ صَلَاحِيَّةُ الْإِنْسَانِ لِثُبُوتِ الْحُقُوقِ لَهُ وَعَلَيْهِ، وَهِيَ أَهْلِيَّةُ وُجُوبٍ تَثْبُتُ بِالذِّمَّةِ لِكُلِّ حَيٍّ، وَأَهْلِيَّةُ أَدَاءٍ تَبْتَنِي عَلَى الْعَقْلِ وَالتَّمْيِيزِ. ثُمَّ يَعْرِضُ لِلْأَهْلِيَّةِ عَوَارِضُ سَمَاوِيَّةٌ كَالْجُنُونِ وَالْعَتَهِ وَالنِّسْيَانِ وَالنَّوْمِ فَتَسْقُطُ بِهَا الْمُؤَاخَذَةُ، أَوْ عَوَارِضُ مُكْتَسَبَةٌ كَالسُّكْرِ وَالسَّفَهِ وَالْإِكْرَاهِ فَيُقَدَّرُ حُكْمُ كُلٍّ بِحَسَبِ سَبَبِهِ.",
+      "translation": "Ahliyyah adalah kepantasan manusia untuk menerima hak baginya dan memikul kewajiban atasnya; terbagi menjadi Ahliyyatul Wujub (kelayakan hakiki) yang melekat dengan adanya dzimmah bagi setiap insan yang hidup, dan Ahliyyatul Ada' (kelayakan menunaikan tindakan) yang berlandaskan akal dan tamyiz. Kemudian ahliyyah ini dapat tertimpa 'awaridh samawiyyah (faktor perintang dari luar kuasa) seperti gila, lemah akal, lupa, dan tidur yang menggugurkan pertanggungjawaban taklif, atau 'awaridh muktasabah (faktor perintang akibat perbuatan manusia) seperti mabuk, safah (pemborosan), dan paksaan, yang masing-masing hukumnya dinilai menurut sebabnya."
+    },
+    {
+      "title": "Khatimah: Adab Ijtihad, Fatwa, dan Taklid",
+      "titleArabic": "خَاتِمَةُ الْكِتَابِ فِي شَرَائِطِ الِاجْتِهَادِ وَالْفَتْوَى",
+      "arabic": "لَا يَجُوزُ لِأَحَدٍ أَنْ يَسْتَنْبِطَ الْأَحْكَامَ إِلَّا بَعْدَ اسْتِجْمَاعِ شَرَائِطِ الِاجْتِهَادِ: مِنْ مَعْرِفَةِ كِتَابِ اللَّهِ وَنَاسِخِهِ وَمَنْسُوخِهِ، وَسُنَّةِ رَسُولِهِ وَطُرُقِ ثُبُوتِهَا، وَمَوَاقِعِ الْإِجْمَاعِ وَالْخِلَافِ، مَعَ الْإِحَاطَةِ بِلِسَانِ الْعَرَبِ وَقَوَانِينِ الْقِيَاسِ. فَمَنْ بَلَغَ هَذِهِ الرُّتْبَةَ جَازَ لَهُ الْفَتْوَى وَحَرُمَ عَلَيْهِ التَّقْلِيدُ فِيمَا أَدَّاهُ إِلَيْهِ دَلِيلُهُ، وَمَنْ قَصُرَ عَنْهَا فَعَلَيْهِ اتِّبَاعُ مَنْ هُوَ أَهْلٌ لِذَلِكَ. تَمَّ الْكِتَابُ بِحَمْدِ اللَّهِ وَحُسْنِ تَوْفِيقِهِ.",
+      "translation": "Tidak diperkenankan bagi siapa pun mengistinbath hukum-hukum syar'i melainkan setelah menghimpun syarat-syarat ijtihad: menguasai Kitabullah beserta nasikh dan mansukhnya, Sunnah Rasul-Nya dan jalur periwayatannya, letak-letak ijma' dan khilaf, disertai penguasaan mendalam atas kaidah bahasa Arab dan hukum-hukum qiyas. Barang siapa mencapai derajat ini maka ia boleh berfatwa dan haram bertaklid dalam apa yang dituntunkan dalil kepadanya; adapun bagi yang belum mencapainya, maka wajib atasnya mengikuti ulama yang berkompeten. Kitab ini purna dengan memuji Allah dan taufik-Nya yang mulia."
+    }
+  ]
+}
