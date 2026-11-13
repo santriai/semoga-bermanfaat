@@ -1,0 +1,124 @@
+{
+  "arabic": "مَكْتَبٌ",
+  "arabicHarokat": "مَكْتَبٌ (جـ مَكَاتِبُ)",
+  "latin": "Maktabun (j. Makātibu)",
+  "wordType": "isim",
+  "wordTypeIndo": "Isim Makan (Kata Benda Penunjuk Tempat) dari Fi'il Tsulatsi Mujarrad Bab I; bentuk jamaknya berupa Jamak Taksir Shighah Muntahal Jumu' (Isim Ghairu Munsharif)",
+  "root": "ك - ت - ب",
+  "wazan": "مَفْعَلٌ (جـ مَفَاعِلُ)",
+  "page": "1191",
+  "referenceBook": "Kamus Al-Munawwir Arab-Indonesia Terlengkap (Krapyak)",
+  "referenceUrl": "https://archive.org/details/kamus-al-munawwir-arab-indonesia",
+  "tashrifBrief": {
+    "madhi": "كَتَبَ",
+    "mudhari": "يَكْتُبُ",
+    "mashdar": "كَتْبًا / كِتَابَةً / كِتَابًا",
+    "fail": "كَاتِبٌ",
+    "maful": "مَكْتُوْبٌ",
+    "amr": "اُكْتُبْ",
+    "nahyi": "لَا تَكْتُبْ"
+  },
+  "singular": "مَكْتَبٌ",
+  "plural": "مَكَاتِبُ",
+  "gender": "mudzakkar",
+  "transitivity": null,
+  "meanings": [
+    "Meja tulis; meja kerja",
+    "Kantor; biro; dinas; tempat bekerja (urusan administrasi)",
+    "Sekolah dasar; tempat belajar membaca dan menulis (sepadan dengan kuttab)",
+    "Ruang belajar atau tempat mengarang"
+  ],
+  "contextualMeanings": [
+    {
+      "preposition": "فِي + الْمَكْتَبِ",
+      "arabicPhrase": "يَعْمَلُ الْمُوَظَّفُ فِي الْمَكْتَبِ",
+      "meaning": "Di dalam kantor / di ruang kerja"
+    },
+    {
+      "preposition": "عَلَى + الْمَكْتَبِ",
+      "arabicPhrase": "وَضَعْتُ الْقَلَمَ عَلَى الْمَكْتَبِ",
+      "meaning": "Di atas meja tulis / meja kerja"
+    },
+    {
+      "preposition": "مَكْتَبُ الْبَرِيْدِ (Idhafah)",
+      "arabicPhrase": "ذَهَبَ إِلَى مَكْتَبِ الْبَرِيْدِ لِإِرْسَالِ الرِّسَالَةِ",
+      "meaning": "Kantor pos"
+    },
+    {
+      "preposition": "مَكْتَبُ السِّيَاحَةِ / السَّفَرِ (Idhafah)",
+      "arabicPhrase": "اِشْتَرَيْنَا التَّذَاكِرَ مِنْ مَكْتَبِ السَّفَرِ",
+      "meaning": "Biro perjalanan / agen travel"
+    },
+    {
+      "preposition": "مَكْتَبُ التَّحْرِيْرِ (Idhafah)",
+      "arabicPhrase": "اِجْتَمَعَ الصَّحَفِيُّوْنَ فِي مَكْتَبِ التَّحْرِيْرِ",
+      "meaning": "Kantor redaksi (media/penerbitan)"
+    }
+  ],
+  "examples": [
+    {
+      "arabic": "اِشْتَرَى أَبِي مَكْتَبًا جَدِيْدًا لِغُرْفَةِ الْمُطَالَعَةِ",
+      "latin": "Isytarā abī maktaban jadīdan li ghurfatil-muthāla'ati",
+      "translation": "Ayahku membeli sebuah meja tulis baru untuk ruang belajar.",
+      "context": "Penggunaan makna dasar sebagai meja tulis"
+    },
+    {
+      "arabic": "يَذْهَبُ الْمُدِيْرُ إِلَى الْمَكْتَبِ فِي الصَّبَاحِ الْبَاكِرِ",
+      "latin": "Yadzhabul-mudīru ilal-maktabi fish-shabāhil-bākiri",
+      "translation": "Direktur itu pergi ke kantor pada pagi-pagi sekali.",
+      "context": "Penggunaan makna tempat kerja / kantor"
+    },
+    {
+      "arabic": "تَنْتَشِرُ مَكَاتِبُ تَحْفِيْظِ الْقُرْآنِ فِي الْقُرَى وَالْمُدُنِ",
+      "latin": "Tantasyiru makātibu tahfīzhil-Qur'āni fil-qurā wal-muduni",
+      "translation": "Lembaga-lembaga (balai pendidikan) tahfizh Al-Qur'an tersebar di desa-desa dan kota-kota.",
+      "context": "Penggunaan bentuk jamak taksir (مَكَاتِبُ) dalam makna tempat pendidikan"
+    }
+  ],
+  "synonyms": [
+    "دِيْوَانٌ",
+    "إِدَارَةٌ",
+    "مَقَرٌّ",
+    "طَاوِلَةُ الْكِتَابَةِ",
+    "كُتَّابٌ"
+  ],
+  "antonyms": [],
+  "derivedWords": [
+    {
+      "arabic": "كَاتِبٌ",
+      "meaning": "Penulis, pengarang, juru tulis, sekretaris",
+      "type": "Isim Fa'il"
+    },
+    {
+      "arabic": "مَكْتُوْبٌ",
+      "meaning": "Sesuatu yang ditulis, surat, ketetapan/takdir",
+      "type": "Isim Maf'ul"
+    },
+    {
+      "arabic": "مَكْتَبَةٌ",
+      "meaning": "Perpustakaan, toko buku",
+      "type": "Isim Makan (ber-ta' marbuthah)"
+    },
+    {
+      "arabic": "كِتَابٌ",
+      "meaning": "Buku, kitab, surat, ketentuan hukum",
+      "type": "Isim / Mashdar"
+    },
+    {
+      "arabic": "كِتَابَةٌ",
+      "meaning": "Tulisan, pekerjaan menulis, seni menulis",
+      "type": "Mashdar"
+    },
+    {
+      "arabic": "كُتَّابٌ",
+      "meaning": "Sekolah dasar tradisional (tempat belajar tulis-baca dan Al-Qur'an); juga bentuk jamak dari كَاتِبٌ",
+      "type": "Isim Makan / Jamak Taksir"
+    },
+    {
+      "arabic": "مُكَاتَبَةٌ",
+      "meaning": "Surat-menyurat, korespondensi, perjanjian cicilan pemerdekaan budak (kitabah)",
+      "type": "Mashdar Bab Mufa'alah"
+    }
+  ],
+  "notes": "Kaidah Shorof: Kata مَكْتَبٌ adalah Isim Makan berwazan مَفْعَلٌ (dengan fathah pada huruf Ta') karena fi'il mudhari' dari akarnya yaitu يَكْتُبُ memiliki 'ain fi'il berharakat dhammah (wazan يَفْعُلُ). Kaidah Nahwu: Bentuk jamaknya مَكَاتِبُ berwazan مَفَاعِلُ termasuk Shighah Muntahal Jumu', sehingga berstatus Isim Ghairu Munsharif (tidak boleh bertanwin dan tanda jar-nya menggunakan fathah seperti مَرَرْتُ بِمَكَاتِبَ, kecuali jika dimudhafkan atau kemasukan ال seperti فِي الْمَكَاتِبِ). Dalam pemakaian kamus, bedakan antara مَكْتَبٌ (jamak: مَكَاتِبُ) yang berarti meja tulis atau kantor, dengan مَكْتَبَةٌ (jamak: مَكْتَبَاتٌ) yang berarti perpustakaan atau toko buku."
+}
