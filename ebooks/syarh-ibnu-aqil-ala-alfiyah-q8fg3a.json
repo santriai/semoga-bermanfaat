@@ -1,0 +1,15 @@
+{
+  "status": "request_exceeds_scope",
+  "message": "Tidak memungkinkan untuk menghasilkan teks Arab lengkap beserta harakat dan terjemahan dari seluruh kitab 'Syarh Ibnu Aqil 'ala Alfiyah' dalam satu respons. Kitab ini merupakan syarah besar atas 1.002 bait Alfiyah Ibnu Malik yang mencakup lebih dari 70 bab dalam empat jilid cetak, sehingga jauh melampaui batas panjang satu respons dan tidak memungkinkan untuk disajikan secara verbatim penuh tanpa risiko kesalahan teks maupun harakat. Silakan ajukan permintaan untuk daftar susunan babnya saja, atau pilih satu bab tertentu (misalnya Bab Kalam, Bab Mu'rab wa Mabni, atau Bab Mubtada wa Khabar) agar dapat dibahas secara lebih terperinci.",
+  "profile": {
+    "name": "Syarh Ibnu Aqil 'ala Alfiyah (شرح ابن عقيل)",
+    "originalTitle": "شَرْحُ ابْنِ عَقِيلٍ عَلَى أَلْفِيَّةِ ابْنِ مَالِكٍ",
+    "author": "Baha'uddin Abdullah bin Abdurrahman bin Aqil al-Mishri asy-Syafi'i",
+    "field": "Ilmu Nahwu dan Sharaf",
+    "about": "Syarh Ibnu Aqil adalah salah satu kitab komentar paling masyhur atas nazham Alfiyah karya Imam Ibnu Malik dalam bidang ilmu nahwu dan sharaf. Kitab ini dikenal karena penjelasannya yang jernih, lugas, dan sistematis sehingga sangat sesuai bagi pelajar tingkat menengah hingga lanjutan. Ibnu Aqil menguraikan setiap bait dengan menjelaskan maksud kaidah, menyebutkan perbedaan pendapat ulama nahwu seperti mazhab Basrah dan Kufah, serta menyertakan dalil syawahid dari Al-Qur'an dan syair Arab klasik. Karena kejelasan metodologinya, kitab ini menjadi rujukan standar di berbagai pesantren dan institusi pendidikan Islam hingga masa kini.",
+    "authorBorn": "698 H / 1298 M",
+    "authorDied": "769 H / 1367 M di Kairo, Mesir",
+    "authorCentury": "Abad ke-8 H / Abad ke-14 M"
+  },
+  "chapters": []
+}
