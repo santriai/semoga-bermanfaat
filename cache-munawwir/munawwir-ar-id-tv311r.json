@@ -1,0 +1,105 @@
+{
+  "arabic": "حَيَّ عَلَى الصَّلَاةِ",
+  "arabicHarokat": "حَيَّ (اسْمُ فِعْلِ أَمْرٍ) + عَلَى (حَرْفُ جَرٍّ) + الصَّلَاةِ (مَجْرُورٌ)",
+  "latin": "Hayya 'alash-shalāh",
+  "wordType": "tarkib",
+  "wordTypeIndo": "Tarkib Syibhul Jumlah / Jumlah Fi'liyyah Maknawiyyah (Isim Fi'il Amr + Jar wa Majrur)",
+  "root": "ح - ي - ي (حَيَّ) وَ ص - ل - و (الصَّلَاة)",
+  "wazan": "فَعْلَ (اسْمُ فِعْلٍ مَبْنِيٌّ عَلَى الْفَتْحِ) + فَعَلَةٌ (أَصْلُهَا صَلَوَةٌ)",
+  "page": "314",
+  "referenceBook": "Kamus Al-Munawwir Arab-Indonesia Terlengkap (Krapyak)",
+  "referenceUrl": "https://archive.org/details/kamus-al-munawwir-arab-indonesia",
+  "tashrifBrief": {
+    "madhi": "لَا يُصَرَّفُ (حَيَّ اسْمُ فِعْلٍ جَامِدٌ؛ وَأَصْلُ الصَّلَاةِ: صَلَّى)",
+    "mudhari": "لَا يُصَرَّفُ (وَمُضَارِعُ صَلَّى: يُصَلِّي)",
+    "mashdar": "حَيَّلَةً / حَيْعَلَةً (حِكَايَةُ اللَّفْظِ)؛ صَلَاةً",
+    "fail": "مُصَلٍّ (لِلصَّلَاةِ)",
+    "maful": "مُصَلًّى عَلَيْهِ",
+    "amr": "حَيَّ (بِمَعْنَى: أَقْبِلْ / تَعَالَ / هَلُمَّ)",
+    "nahyi": "لَا يُشْتَقُّ مِنْهُ نَهْيٌ مُبَاشَرَةً"
+  },
+  "singular": "حَيَّ عَلَى الصَّلَاةِ (الصَّلَاةُ: مُفْرَدٌ)",
+  "plural": "الصَّلَوَاتُ (جَمْعُ الصَّلَاةِ)",
+  "gender": "muannats",
+  "transitivity": "lazim",
+  "meanings": [
+    "Marilah (segeralah/datanglah) menuju shalat",
+    "Seruan ajakan untuk bergegas melaksanakan shalat berjamaah dalam lafaz adzan dan iqamah",
+    "Seruan untuk menghadapkan hati dan raga menuju ibadah shalat"
+  ],
+  "contextualMeanings": [
+    {
+      "preposition": "حَيَّ عَلَى",
+      "arabicPhrase": "حَيَّ عَلَى الصَّلَاةِ",
+      "meaning": "Marilah menunaikan shalat / bersegeralah menuju shalat (seruan ajakan)"
+    },
+    {
+      "preposition": "حَيَّ عَلَى",
+      "arabicPhrase": "حَيَّ عَلَى الْفَلَاحِ",
+      "meaning": "Marilah menuju kemenangan / keberuntungan (kelanjutan lafaz adzan)"
+    },
+    {
+      "preposition": "حَيَّ عَلَى",
+      "arabicPhrase": "حَيَّ عَلَى خَيْرِ الْعَمَلِ",
+      "meaning": "Marilah menuju sebaik-baik amal"
+    },
+    {
+      "preposition": "حَيَّ هَلَا بـِ",
+      "arabicPhrase": "حَيَّ هَلَا بِكُمْ",
+      "meaning": "Selamat datang / marilah kemari (dalam bentuk gabungan dengan هَلَا)"
+    }
+  ],
+  "examples": [
+    {
+      "arabic": "إِذَا نَادَى الْمُؤَذِّنُ: حَيَّ عَلَى الصَّلَاةِ، فَقُلْ: لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ",
+      "latin": "Idzā nādal-mu'adzdzinu: hayya 'alash-shalāh, faqul: lā haula wa lā quwwata illā billāh",
+      "translation": "Apabila muadzin menyerukan 'Hayya 'alash-shalāh', maka ucapkanlah 'Lā haula wa lā quwwata illā billāh' (Tiada daya dan upaya melainkan dengan pertolongan Allah).",
+      "context": "Hadis Shahih Muslim tentang tata cara menjawab adzan"
+    },
+    {
+      "arabic": "حَيَّ عَلَى الصَّلَاةِ فِي جَمَاعَةٍ قَبْلَ انْقِضَاءِ الْوَقْتِ",
+      "latin": "Hayya 'alash-shalāti fī jamā'atin qablan-qidhā'il-waqt",
+      "translation": "Marilah segera melaksanakan shalat berjamaah sebelum waktunya habis.",
+      "context": "Contoh kalimat insya'iyah ajakan ibadah"
+    }
+  ],
+  "synonyms": [
+    "هَلُمَّ إِلَى الصَّلَاةِ",
+    "أَقْبِلْ إِلَى الصَّلَاةِ",
+    "تَعَالَ إِلَى الصَّلَاةِ",
+    "بَادِرْ إِلَى الصَّلَاةِ"
+  ],
+  "antonyms": [
+    "أَعْرِضْ عَنِ الصَّلَاةِ",
+    "تَثَاقَلْ عَنِ الصَّلَاةِ",
+    "تَهَاوَنْ فِي الصَّلَاةِ"
+  ],
+  "derivedWords": [
+    {
+      "arabic": "الْحَيْعَلَةُ",
+      "meaning": "Ucapan 'Hayya 'alash-shalah' dan 'Hayya 'alal-falah' (kata bentukan naht/singkatan)",
+      "type": "Mashdar Naht (المصدر المنحوت)"
+    },
+    {
+      "arabic": "حَيْعَلَ - يُحَيْعِلُ",
+      "meaning": "Mengucapkan 'Hayya 'alash-shalah' atau 'Hayya 'alal-falah'",
+      "type": "Fi'il Ruba'i Mulhaq (Naht)"
+    },
+    {
+      "arabic": "الْمُصَلِّي",
+      "meaning": "Orang yang melaksanakan shalat",
+      "type": "Isim Fa'il (dari صَلَّى)"
+    },
+    {
+      "arabic": "الْمُصَلَّى",
+      "meaning": "Tempat shalat / mushalla",
+      "type": "Isim Makan"
+    },
+    {
+      "arabic": "الصَّلَوَاتُ",
+      "meaning": "Shalat-shalat (bentuk jamak dari صَلَاة)",
+      "type": "Jamak Muannats Salim"
+    }
+  ],
+  "notes": "Dalam kaidah Nahwu, kata 'حَيَّ' adalah Isim Fi'il Amr (اسم فعل أمر) yang mabni fathah, tidak menerima tanda ta'nits maupun dhamir mukhatab yang bersambung, sehingga bentuknya tetap 'حَيَّ' baik untuk satu orang, dua orang, maupun jamak (laki-laki atau perempuan). Huruf 'عَلَى' bermakna إِلَى (menuju/kepada) sebagai muta'alliq bagi makna 'أَقْبِلْ' (menghadaplah/datanglah) yang terkandung pada 'حَيَّ'. Adapun penulisan 'حَىَّ' tanpa harakat fathah atau menggunakan alif maqshurah tidak tepat secara imla', yang baku adalah dengan ya' bertasydid dan berfathah (حَيَّ). Dalam Kamus Al-Munawwir, penggabungan seruan ini dikenal dengan istilah 'الْحَيْعَلَةُ' (Al-Hai'alah) melalui kaidah Naht (النحت) seperti halnya Basmalah dan Hamdalah."
+}
