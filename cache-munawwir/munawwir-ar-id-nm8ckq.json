@@ -1,0 +1,66 @@
+{
+  "arabic": "مُتَعَلِّمٌ",
+  "arabicHarokat": "تَعَلَّمَ - يَتَعَلَّمُ - تَعَلُّمًا - مُتَعَلِّمٌ",
+  "latin": "muta'allimun",
+  "wordType": "isim",
+  "wordTypeIndo": "Isim Fa'il dari Fi'il Tsulatsi Mazid bi Harfain (Bab Tafa'ul)",
+  "root": "ع - ل - م",
+  "wazan": "مُتَفَعِّلٌ",
+  "page": "963",
+  "referenceBook": "Kamus Al-Munawwir Arab-Indonesia Terlengkap (Krapyak)",
+  "referenceUrl": "https://archive.org/details/kamus-al-munawwir-arab-indonesia",
+  "tashrifBrief": {
+    "madhi": "تَعَلَّمَ",
+    "mudhari": "يَتَعَلَّمُ",
+    "mashdar": "تَعَلُّمًا",
+    "fail": "مُتَعَلِّمٌ",
+    "maful": "مُتَعَلَّمٌ",
+    "amr": "تَعَلَّمْ",
+    "nahyi": "لَا تَتَعَلَّمْ"
+  },
+  "singular": "مُتَعَلِّمٌ",
+  "plural": "مُتَعَلِّمُونَ",
+  "gender": "mudzakkar",
+  "transitivity": "lazim",
+  "meanings": [
+    "Orang yang belajar",
+    "Pelajar / Murid / Siswa",
+    "Orang yang sedang menuntut ilmu"
+  ],
+  "contextualMeanings": [
+    {
+      "preposition": "مُتَعَلِّمٌ عِنْدَ",
+      "arabicPhrase": "مُتَعَلِّمٌ عِنْدَ شَيْخٍ",
+      "meaning": "Murid yang belajar di bawah bimbingan seorang syekh/guru"
+    }
+  ],
+  "examples": [
+    {
+      "arabic": "يَجِبُ عَلَى الْمُتَعَلِّمِ أَنْ يَحْتَرِمَ مُعَلِّمَهُ.",
+      "latin": "Yajibu 'alal muta'allimi an yahtarima mu'allimahu.",
+      "translation": "Wajib bagi seorang pelajar untuk menghormati gurunya.",
+      "context": "Adab menuntut ilmu"
+    }
+  ],
+  "synonyms": [
+    "طَالِبٌ",
+    "تِلْمِيذٌ"
+  ],
+  "antonyms": [
+    "مُعَلِّمٌ",
+    "أُسْتَاذٌ"
+  ],
+  "derivedWords": [
+    {
+      "arabic": "تَعَلَّمَ",
+      "meaning": "Belajar",
+      "type": "Fi'il Madhi"
+    },
+    {
+      "arabic": "تَعَلُّمٌ",
+      "meaning": "Proses pembelajaran",
+      "type": "Isim Mashdar"
+    }
+  ],
+  "notes": "Kata 'muta'allim' berasal dari wazan 'tafa'ala' yang menunjukkan makna usaha atau proses (takalluf). Berbeda dengan 'talib' yang lebih umum, 'muta'allim' menekankan pada subjek yang sedang aktif dalam proses belajar."
+}
