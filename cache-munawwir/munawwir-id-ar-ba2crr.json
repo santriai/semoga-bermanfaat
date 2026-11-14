@@ -1,11 +1,11 @@
 {
   "arabic": "عِلْمٌ",
-  "arabicHarokat": "عِلْمٌ (ج: عُلُوْمٌ) — عَلِمَ - يَعْلَمُ - عِلْمًا",
-  "latin": "'ilmun",
+  "arabicHarokat": "عَلِمَ - يَعْلَمُ - عِلْمًا (عِلْمٌ جـ عُلُوْمٌ)",
+  "latin": "'Ilmun",
   "wordType": "isim",
-  "wordTypeIndo": "Isim Masdar (dari Fi'il Tsulatsi Mujarrad Bab IV فَعِلَ - يَفْعَلُ) dan Isim Ma'na",
+  "wordTypeIndo": "Isim Mashdar (dari Fi'il Tsulatsi Mujarrad Bab IV: عَلِمَ - يَعْلَمُ)",
   "root": "ع - ل - م",
-  "wazan": "فِعْلٌ",
+  "wazan": "فِعْلٌ (Mashdar dari wazan فَعِلَ - يَفْعَلُ)",
   "page": "966",
   "referenceBook": "Kamus Al-Munawwir Arab-Indonesia Terlengkap (Krapyak)",
   "referenceUrl": "https://archive.org/details/kamus-al-munawwir-arab-indonesia",
@@ -23,49 +23,45 @@
   "gender": "mudzakkar",
   "transitivity": "mutaaddi",
   "meanings": [
-    "Ilmu, pengetahuan, kepandaian, dan kepastian",
-    "Kesadaran, pengertian, pemahaman yang mendalam dan hakiki (idrak al-syai' bihaqiqatihi)",
-    "Cabang ilmu pengetahuan atau disiplin studi (dalam bentuk jamak: عُلُوْمٌ, seperti عُلُوْمُ الدِّيْنِ / عُلُوْمُ الْقُرْآنِ)",
-    "Wahyu atau syariat Allah (dalam konteks ayat-ayat Al-Qur'an tertentu)"
+    "Ilmu, pengetahuan, kepandaian, dan wawasan",
+    "Keyakinan yang mantap dan sesuai dengan kenyataan (idrāk asy-syai' bihaqīqatihi)",
+    "Cabang disiplin ilmu pengetahuan tertentu (seperti Ilmu Fiqih, Ilmu Nahwu, Ilmu Kalam)",
+    "Pengetahuan syariat dan makrifat kepada Allah beserta hukum-hukum-Nya",
+    "Berita, informasi, atau pemberitahuan (khabar)"
   ],
   "contextualMeanings": [
     {
-      "preposition": "بِـ (pada fi'ilnya: عَلِمَ بِـ)",
-      "arabicPhrase": "عَلِمَ بِالأَمْرِ",
-      "meaning": "Mengetahui atau menyadari suatu perkara/kabar"
+      "preposition": "بِـ (عَلِمَ بِـ)",
+      "arabicPhrase": "عَلِمَ بِالْخَبَرِ / لَا عِلْمَ لِي بِهِ",
+      "meaning": "Mengetahui, menyadari, atau memperoleh kabar tentang sesuatu"
     },
     {
-      "preposition": "فِي / بِـ (idhofah)",
-      "arabicPhrase": "عِلْمُ الْيَقِيْنِ",
-      "meaning": "Pengetahuan yang pasti dan meyakinkan tanpa keraguan sedikit pun"
+      "preposition": "فِي (رَاسِخٌ فِي الْعِلْمِ)",
+      "arabicPhrase": "الرَّاسِخُوْنَ فِي الْعِلْمِ",
+      "meaning": "Mendalam dan kokoh penguasaannya dalam bidang ilmu pengetahuan"
     },
     {
-      "preposition": "عَلَى (dengan kata مَبْنِيٌّ)",
-      "arabicPhrase": "عِلْمٌ نَافِعٌ",
-      "meaning": "Ilmu yang bermanfaat dan membawa kepada kebaikan serta amal saleh"
-    },
-    {
-      "preposition": "Idhofah / Tarkib",
-      "arabicPhrase": "أَهْلُ الْعِلْمِ",
-      "meaning": "Para ulama, cendekiawan, atau orang-orang yang berilmu"
+      "preposition": "عَنْ (عِلْمٌ عَنْ)",
+      "arabicPhrase": "أَخَذَ الْعِلْمَ عَنِ الْمَشَايِخِ",
+      "meaning": "Menimba atau meriwayatkan ilmu pengetahuan dari para guru/masyayikh"
     }
   ],
   "examples": [
     {
-      "arabic": "وَقُلْ رَّبِّ زِدْنِيْ عِلْمًا",
-      "latin": "Wa qul rabbi zidnii 'ilmaa",
-      "translation": "Dan katakanlah: 'Ya Tuhanku, tambahkanlah kepadaku ilmu pengetahuan.'",
-      "context": "Al-Qur'an Surat Thaha ayat 114"
-    },
-    {
       "arabic": "طَلَبُ الْعِلْمِ فَرِيْضَةٌ عَلَى كُلِّ مُسْلِمٍ",
-      "latin": "Thalabul-'ilmi fariidhatun 'alaa kulli muslimin",
-      "translation": "Menuntut ilmu itu wajib atas setiap muslim.",
-      "context": "Hadis Nabi Muhammad SAW (HR. Ibnu Majah)"
+      "latin": "Thalabul-'ilmi farīdhatun 'alā kulli muslimin",
+      "translation": "Menuntut ilmu adalah kewajiban bagi setiap muslim.",
+      "context": "Hadits Riwayat Ibnu Majah"
     },
     {
-      "arabic": "الْعِلْمُ بِلاَ عَمَلٍ كَالشَّجَرِ بِلاَ ثَمَرٍ",
-      "latin": "Al-'ilmu bilaa 'amalin kasy-syajari bilaa tsamarin",
+      "arabic": "وَقُلْ رَبِّ زِدْنِي عِلْمًا",
+      "latin": "Wa qul rabbi zidnī 'ilmā",
+      "translation": "Dan katakanlah: Ya Tuhanku, tambahkanlah kepadaku ilmu pengetahuan.",
+      "context": "Al-Qur'an Surah Thaha ayat 114"
+    },
+    {
+      "arabic": "الْعِلْمُ بِلَا عَمَلٍ كَالشَّجَرِ بِلَا ثَمَرٍ",
+      "latin": "Al-'ilmu bilā 'amalin kasy-syajari bilā tsamarin",
       "translation": "Ilmu tanpa amal bagaikan pohon tanpa buah.",
       "context": "Mahfuzhat / Qaul Ulama Pesantren"
     }
@@ -73,87 +69,71 @@
   "synonyms": [
     "مَعْرِفَةٌ",
     "دِرَايَةٌ",
-    "فِقْهٌ",
     "فَهْمٌ",
-    "إِدْرَاكٌ"
+    "فِقْهٌ",
+    "يَقِيْنٌ"
   ],
   "antonyms": [
     "جَهْلٌ",
     "جَهَالَةٌ",
-    "غَفْلَةٌ",
-    "أُمِّيَّةٌ"
+    "غَبَاوَةٌ"
   ],
   "derivedWords": [
     {
-      "arabic": "عَالِمٌ (ج: عُلَمَاءُ)",
-      "meaning": "Orang yang berilmu, ulama, sarjana, ilmuwan",
+      "arabic": "عَالِمٌ (جـ عُلَمَاءُ)",
+      "meaning": "Orang yang berilmu, cendekiawan, ulama",
       "type": "Isim Fa'il"
     },
     {
       "arabic": "عَلِيْمٌ",
-      "meaning": "Maha Mengetahui (salah satu Asmaul Husna) / sangat berilmu",
+      "meaning": "Yang Maha Mengetahui (salah satu Asmaul Husna) / sangat berilmu",
       "type": "Shighah Mubalaghah / Shifah Musyabbahah"
     },
     {
       "arabic": "عَلَّامَةٌ",
-      "meaning": "Orang yang sangat luas dan mendalam ilmunya (mahaguru)",
+      "meaning": "Orang yang sangat luas dan mendalam ilmunya (alim allamah)",
       "type": "Shighah Mubalaghah"
     },
     {
       "arabic": "مَعْلُوْمٌ",
-      "meaning": "Yang diketahui, dimaklumi, jelas; juga istilah Nahwu untuk fi'il aktif (Fi'il Ma'lum)",
+      "meaning": "Yang diketahui, dimaklumi, atau jelas",
       "type": "Isim Maf'ul"
     },
     {
-      "arabic": "مَعْلُوْمَاتٌ",
-      "meaning": "Informasi, data, keterangan-keterangan yang diketahui",
-      "type": "Jamak Muannats Salim dari Isim Maf'ul"
-    },
-    {
       "arabic": "تَعْلِيْمٌ",
-      "meaning": "Pengajaran, pendidikan, instruksi (dari fi'il عَلَّمَ - يُعَلِّمُ)",
-      "type": "Masdar Tsulatsi Mazid (Bab Taf'il)"
-    },
-    {
-      "arabic": "مُعَلِّمٌ",
-      "meaning": "Guru, pengajar, pendidik",
-      "type": "Isim Fa'il (Bab Taf'il)"
+      "meaning": "Pengajaran, pendidikan, instruksi",
+      "type": "Mashdar Bab Taf'il (عَلَّمَ - يُعَلِّمُ)"
     },
     {
       "arabic": "تَعَلُّمٌ",
-      "meaning": "Pembelajaran, proses belajar (dari fi'il تَعَلَّمَ - يَتَعَلَّمُ)",
-      "type": "Masdar Tsulatsi Mazid (Bab Tafa''ul)"
+      "meaning": "Proses belajar, pembelajaran",
+      "type": "Mashdar Bab Tafa''ul (تَعَلَّمَ - يَتَعَلَّمُ)"
+    },
+    {
+      "arabic": "مُعَلِّمٌ",
+      "meaning": "Pengajar, guru, pendidik",
+      "type": "Isim Fa'il Bab Taf'il"
     },
     {
       "arabic": "مُتَعَلِّمٌ",
-      "meaning": "Pelajar, murid, santri yang sedang belajar",
-      "type": "Isim Fa'il (Bab Tafa''ul)"
+      "meaning": "Pelajar, murid, santri yang menuntut ilmu",
+      "type": "Isim Fa'il Bab Tafa''ul"
     },
     {
-      "arabic": "إِعْلاَمٌ",
-      "meaning": "Pemberitahuan, informasi, media massa/pers (dari fi'il أَعْلَمَ - يُعْلِمُ)",
-      "type": "Masdar Tsulatsi Mazid (Bab If'al)"
-    },
-    {
-      "arabic": "عَلَمٌ (ج: أَعْلاَمٌ)",
-      "meaning": "Bendera, panji, tanda, gunung, tokoh terkemuka, atau Isim 'Alam (nama diri) dalam Nahwu",
-      "type": "Isim Jamid / Mustaqil"
+      "arabic": "مَعْلَمٌ (جـ مَعَالِمُ)",
+      "meaning": "Tanda penunjuk jalan, ciri khas, tonggak sejarah",
+      "type": "Isim Makan / Alah"
     },
     {
       "arabic": "عَلَامَةٌ",
-      "meaning": "Tanda, ciri, alamat, nilai/markah",
-      "type": "Isim Muannats"
+      "meaning": "Tanda, alamat, isyarat, lambang",
+      "type": "Isim"
     },
     {
-      "arabic": "مَعْلَمٌ (ج: مَعَالِمُ)",
-      "meaning": "Tanda penunjuk jalan, monumen, tonggak sejarah atau ilmu",
-      "type": "Isim Makan"
-    },
-    {
-      "arabic": "اِسْتِعْلاَمٌ",
-      "meaning": "Permintaan keterangan/informasi, penyelidikan (dari اِسْتَعْلَمَ)",
-      "type": "Masdar Tsulatsi Mazid (Bab Istif'al)"
+      "arabic": "اِسْتِعْلَامٌ",
+      "meaning": "Permintaan informasi, penyelidikan, pencarian keterangan",
+      "type": "Mashdar Bab Istif'al (اِسْتَعْلَمَ)"
     }
   ],
-  "notes": "1) Dalam ilmu Nahwu, akar fi'il عَلِمَ termasuk kelompok Af'alul Qulub (أَفْعَالُ الْقُلُوْبِ) yang menashabkan dua maf'ul bih (asalnya mubtada' dan khabar), misalnya: عَلِمْتُ زَيْدًا صَادِقًا (Aku mengetahui Zaid itu jujur), dan terkadang menjadi muta'addi dengan huruf jar 'ba' (بِـ) bila bermakna mengetahui/mengenal suatu hal secara umum. 2) Dalam kajian leksikografi dan ushul pesantren, terdapat perbedaan halus antara عِلْمٌ dan مَعْرِفَةٌ: عِلْمٌ bersifat menyeluruh dan berkaitan dengan hakikat sesuatu (lawan dari جَهْلٌ) serta dinisbatkan kepada Allah SWT (العَلِيْمُ), sedangkan مَعْرِفَةٌ didahului oleh ketidaktahuan sebelumnya atau pengenalan partikular (lawan dari إِنْكَارٌ), sehingga Allah tidak disifati dengan العَارِفُ."
+  "notes": "Dalam kaidah ilmu Nahwu, kata kerja dasar dari عِلْمٌ yakni عَلِمَ termasuk kategori Af'alul Qulub (kata kerja hati) dari kelompok Zhanna wa Akhawatuha yang menashabkan dua maf'ul bih (mubtada dan khabar) apabila bermakna meyakini atau mengetahui secara pasti, namun cukup membutuhkan satu maf'ul bih jika bermakna mengenal (seperti مَعْرِفَةٌ). Menurut para ahli bahasa dan ulama seperti Imam Ar-Raghib Al-Ashfahani dan catatan dalam tradisi pesantren, عِلْمٌ lebih umum daripada مَعْرِفَةٌ atau dalam konteks lain عِلْمٌ bersifat komprehensif mencakup kaidah kulliyyah, sedangkan مَعْرِفَةٌ lebih tertuju pada pengenalan dzat secara langsung dan didahului ketidaktahuan (sehingga Allah disifati dengan العَلِيْمُ, bukan العَارِفُ). Bentuk jamaknya adalah عُلُوْمٌ yang lazim dipakai untuk merujuk kepada berbagai cabang keilmuan seperti عُلُوْمُ الْقُرْآنِ dan عُلُوْمُ الدِّيْنِ."
 }
