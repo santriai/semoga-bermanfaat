@@ -1,0 +1,362 @@
+{
+  "profile": {
+    "name": "Al-Awamil al-Jadidah (العوامل الجديدة)",
+    "originalTitle": "الْعَوَامِلُ الْجَدِيدَةُ",
+    "author": "Al-Imam Muhammad bin Pir 'Ali al-Birgivi (مُحَمَّدُ بْنُ بِيرْ عَلِيٍّ الْبِرْكَوِيُّ)",
+    "field": "Ilmu Nahwu (Sintaksis Bahasa Arab)",
+    "about": "Al-Awamil al-Jadidah merupakan kitab matan ringkas ilmu nahwu yang disusun oleh ulama besar Utsmaniyah, Imam al-Birgivi, sebagai pembaruan sistematis atas kitab Al-Awamil al-Mi'ah karya Imam al-Jurjani. Kitab ini merangkum seratus kaidah inti tata bahasa Arab yang wajib dikuasai setiap pelajar untuk memahami struktur i'rab secara tepat. Keseratus perkara tersebut dibagi secara teratur ke dalam tiga bab besar, yaitu enam puluh 'amil (pengubah akhir kata), tiga puluh ma'mul (kata yang dipengaruhi), dan sepuluh tanda i'rab. Keunikan kitab ini terletak pada contoh-contoh kalimatnya yang sarat dengan nilai tauhid, tobat, akhlak, dan nasihat spiritual bagi penuntut ilmu. Hingga kini, kitab ini menjadi salah satu teks dasar utama dalam kurikulum madrasah dan pesantren tradisional di berbagai belahan dunia Islam.",
+    "authorBorn": "929 H / 1523 M di Balikesir, Anatolia (Turki Utsmani)",
+    "authorDied": "981 H / 1573 M di Birgi, Izmir",
+    "authorCentury": "Abad ke-10 H / Abad ke-16 M"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah: Pengantar & Pembagian Seratus Perkara",
+      "titleArabic": "الْمُقَدِّمَةُ",
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ. الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ، وَالصَّلَاةُ وَالسَّلَامُ عَلَى مُحَمَّدٍ وَآلِهِ أَجْمَعِينَ. وَبَعْدُ، فَاعْلَمْ أَنَّهُ لَا بُدَّ لِطَالِبِ مَعْرِفَةِ الْإِعْرَابِ مِنْ مَعْرِفَةِ مِائَةِ شَيْءٍ: سِتِّينَ مِنْهَا يُسَمَّى عَامِلًا، وَثَلَاثِينَ مِنْهَا يُسَمَّى مَعْمُولًا، وَعَشَرَةً مِنْهَا يُسَمَّى عَمَلًا وَإِعْرَابًا. فَأُبَيِّنُ لَكَ بِإِذْنِ اللَّهِ تَعَالَى هَذِهِ الثَّلَاثَةَ عَلَى طَرِيقِ الْإِيجَازِ فِي ثَلَاثَةِ أَبْوَابٍ.",
+      "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah Tuhan semesta alam, serta shalawat dan salam semoga tercurah kepada Nabi Muhammad beserta seluruh keluarganya. Adapun setelah itu, ketahuilah bahwasanya wajib bagi penuntut pengetahuan i'rab untuk mengetahui seratus perkara: enam puluh darinya dinamakan 'amil, tiga puluh darinya dinamakan ma'mul, dan sepuluh darinya dinamakan 'amal dan i'rab. Maka aku jelaskan kepadamu ketiga hal ini dengan izin Allah Ta'ala secara ringkas dalam tiga bab."
+    },
+    {
+      "title": "Bab I: Pengantar 'Amil dan Pembagiannya",
+      "titleArabic": "الْبَابُ الْأَوَّلُ: فِي الْعَامِلِ",
+      "arabic": "الْبَابُ الْأَوَّلُ فِي الْعَامِلِ، وَهُوَ عَلَى ضَرْبَيْنِ: لَفْظِيٍّ وَمَعْنَوِيٍّ. فَاللَّفْظِيُّ عَلَى ضَرْبَيْنِ: سَمَاعِيٍّ وَقِيَاسِيٍّ. فَالسَّمَاعِيُّ تِسْعَةٌ وَأَرْبَعُونَ، وَأَنْوَاعُهُ خَمْسَةٌ.",
+      "translation": "Bab Pertama membahas tentang 'amil. 'Amil terbagi menjadi dua macam, yaitu lafzhi dan ma'nawi. Adapun 'amil lafzhi terbagi menjadi dua macam, yaitu sama'i dan qiyasi. 'Amil sama'i berjumlah empat puluh sembilan yang terbagi dalam lima jenis."
+    },
+    {
+      "title": "'Amil Sama'i Jenis 1: Huruf Jarr (Bagian 1: Ba', Min, Ila, 'An, 'Ala)",
+      "titleArabic": "النَّوْعُ الْأَوَّلُ: حُرُوفُ الْجَرِّ (١-٥)",
+      "arabic": "النَّوْعُ الْأَوَّلُ: حُرُوفٌ تَجُرُّ الِاسْمَ فَقَطْ، وَهِيَ عِشْرُونَ حَرْفًا. الْأَوَّلُ: الْبَاءُ، نَحْوُ: آمَنْتُ بِاللَّهِ. الثَّانِي: مِنْ، نَحْوُ: تُبْتُ مِنْ كُلِّ ذَنْبٍ. الثَّالِثُ: إِلَى، نَحْوُ: تُبْتُ إِلَى اللَّهِ. الرَّابِعُ: عَنْ، نَحْوُ: كُفَّ عَنِ الْحَرَامِ. الْخَامِسُ: عَلَى، نَحْوُ: تَجِبُ التَّوْبَةُ عَلَى كُلِّ مُذْنِبٍ.",
+      "translation": "Jenis pertama adalah huruf-huruf yang men-jarr-kan isim saja, yang berjumlah dua puluh huruf. Pertama: ba', contohnya 'Amantu billahi' (Aku beriman kepada Allah). Kedua: min, contohnya 'Tubtu min kulli dzanbin' (Aku bertobat dari segala dosa). Ketiga: ila, contohnya 'Tubtu ilallahi' (Aku bertobat kepada Allah). Keempat: 'an, contohnya 'Kuffa 'anil-harami' (Tahanlah diri dari perkara haram). Kelima: 'ala, contohnya 'Tajibut-tawbatu 'ala kulli mudznibin' (Tobat itu wajib atas setiap pendosa)."
+    },
+    {
+      "title": "'Amil Sama'i Jenis 1: Huruf Jarr (Bagian 2: Lam, Fi, Kaf, Hatta, Rubba)",
+      "titleArabic": "النَّوْعُ الْأَوَّلُ: حُرُوفُ الْجَرِّ (٦-١٠)",
+      "arabic": "السَّادِسُ: اللَّامُ، نَحْوُ: أَنَا عَبْدٌ لِلَّهِ. السَّابِعُ: فِي، نَحْوُ: الْمُطِيعُ فِي الْجَنَّةِ. الثَّامِنُ: الْكَافُ، نَحْوُ: لَيْسَ كَمِثْلِهِ شَيْءٌ. التَّاسِعُ: حَتَّى، نَحْوُ: أَعْبُدُ اللَّهَ حَتَّى الْمَوْتِ. الْعَاشِرُ: رُبَّ، نَحْوُ: رُبَّ تَالٍ يَلْعَنُهُ الْقُرْآنُ.",
+      "translation": "Keenam: lam, contohnya 'Ana 'abdun lillahi' (Aku adalah hamba bagi Allah). Ketujuh: fi, contohnya 'Al-muthi'u fil-jannati' (Orang yang taat berada di dalam surga). Kedelapan: kaf, contohnya 'Laysa kamitslihi syay'un' (Tidak ada sesuatu pun yang serupa dengan-Nya). Kesembilan: hatta, contohnya 'A'budullaha hattal-mawti' (Aku menyembah Allah hingga kematian). Kesepuluh: rubba, contohnya 'Rubba talin yal'anuhul-Qur'anu' (Betapa banyak pembaca Al-Qur'an yang justru dilaknat oleh Al-Qur'an)."
+    },
+    {
+      "title": "'Amil Sama'i Jenis 1: Huruf Jarr (Bagian 3: Wawu Qasam, Ta' Qasam, Hasya, Mudz, Mundzu)",
+      "titleArabic": "النَّوْعُ الْأَوَّلُ: حُرُوفُ الْجَرِّ (١١-١٥)",
+      "arabic": "الْحَادِي عَشَرَ: وَاوُ الْقَسَمِ، نَحْوُ: وَاللَّهِ لَأَفْعَلَنَّ كَذَا. الثَّانِي عَشَرَ: تَاءُ الْقَسَمِ، نَحْوُ: تَاللَّهِ لَأَفْعَلَنَّ كَذَا. الثَّالِثَ عَشَرَ: حَاشَا، نَحْوُ: هَلَكَ النَّاسُ حَاشَا الْعَالِمِ. الرَّابِعَ عَشَرَ: مُذْ، نَحْوُ: تُبْتُ مِنْ كُلِّ ذَنْبٍ مُذْ يَوْمِ الْبُلُوغِ. الْخَامِسَ عَشَرَ: مُنْذُ، نَحْوُ: تَرَكْتُ الْحَرَامَ مُنْذُ يَوْمِ الْبُلُوغِ.",
+      "translation": "Kesebelas: wawu qasam (sumpah), contohnya 'Wallahi la-af'alanna kadza' (Demi Allah, sungguh aku akan melakukan demikian). Kedua belas: ta' qasam, contohnya 'Tallahi la-af'alanna kadza' (Demi Allah, sungguh aku akan melakukan demikian). Ketiga belas: hasya, contohnya 'Halakan-nasu hasyal-'alimi' (Manusia binasa kecuali orang alim). Keempat belas: mudz, contohnya 'Tubtu min kulli dzanbin mudz yawmil-bulughi' (Aku bertobat dari segala dosa sejak hari balig). Kelima belas: mundzu, contohnya 'Taraktul-harama mundzu yawmil-bulughi' (Aku meninggalkan perkara haram sejak hari balig)."
+    },
+    {
+      "title": "'Amil Sama'i Jenis 1: Huruf Jarr (Bagian 4: Khala, 'Ada, Lawla, Kay, La'alla)",
+      "titleArabic": "النَّوْعُ الْأَوَّلُ: حُرُوفُ الْجَرِّ (١٦-٢٠)",
+      "arabic": "السَّادِسَ عَشَرَ: خَلَا، نَحْوُ: هَلَكَ الْعَالِمُونَ خَلَا الْعَامِلِ بِعِلْمِهِ. السَّابِعَ عَشَرَ: عَدَا، نَحْوُ: هَلَكَ الْعَامِلُونَ عَدَا الْمُخْلِصِ. الثَّامِنَ عَشَرَ: لَوْلَا، نَحْوُ: لَوْلَاكَ يَا رَحْمَةَ اللَّهِ لَهَلَكْتُ. التَّاسِعَ عَشَرَ: كَيْ، نَحْوُ: كَيْ مَهْ. الْعِشْرُونَ: لَعَلَّ، نَحْوُ: لَعَلَّ اللَّهِ غَافِرٌ ذَنْبِي.",
+      "translation": "Keenam belas: khala, contohnya 'Halakal-'alimuna khalal-'amili bi-'ilmihi' (Para ulama binasa kecuali yang mengamalkan ilmunya). Ketujuh belas: 'ada, contohnya 'Halakal-'amiluna 'adal-mukhlishi' (Orang-orang yang beramal binasa kecuali yang ikhlas). Kedelapan belas: lawla (ketika bersambung dengan dhamir), contohnya 'Lawlaka ya rahmatallahi lahalaktu' (Andai bukan karena-Mu wahai rahmat Allah, niscaya aku binasa). Kesembilan belas: kay (yang masuk pada ma istifhamiyah), contohnya 'Kay mah' (Karena apakah?). Kedua puluh: la'alla (menurut dialek suku 'Uqayl), contohnya 'La'allallahi ghafirun dzanbi' (Semoga Allah mengampuni dosaku)."
+    },
+    {
+      "title": "'Amil Sama'i Jenis 2: Huruf yang Menashabkan Isim & Merafa'kan Khabar (Bagian 1)",
+      "titleArabic": "النَّوْعُ الثَّانِي: حُرُوفٌ تَنْصِبُ الِاسْمَ وَتَرْفَعُ الْخَبَرَ (١-٤)",
+      "arabic": "النَّوْعُ الثَّانِي: حُرُوفٌ تَنْصِبُ الِاسْمَ وَتَرْفَعُ الْخَبَرَ، وَهِيَ ثَمَانِيَةٌ. الْأَوَّلُ: إِنَّ، نَحْوُ: إِنَّ اللَّهَ تَعَالَى عَالِمٌ بِكُلِّ شَيْءٍ. الثَّانِي: أَنَّ، نَحْوُ: اعْتَقَدْتُ أَنَّ اللَّهَ تَعَالَى قَادِرٌ عَلَى كُلِّ شَيْءٍ. الثَّالِثُ: كَأَنَّ، نَحْوُ: كَأَنَّ الْحَرَامَ نَارٌ. الرَّابِعُ: لَكِنَّ، نَحْوُ: مَا فَازَ الْجَاهِلُ لَكِنَّ الْعَالِمَ فَائِزٌ.",
+      "translation": "Jenis kedua adalah huruf-huruf yang me-nashab-kan isim dan me-rafa'-kan khabar, yang berjumlah delapan huruf. Pertama: inna, contohnya 'Innallaha Ta'ala 'alimun bikulli syay'in' (Sesungguhnya Allah Ta'ala Maha Mengetahui segala sesuatu). Kedua: anna, contohnya 'I'taqadtu annallaha Ta'ala qadirun 'ala kulli syay'in' (Aku meyakini bahwa Allah Ta'ala Mahakuasa atas segala sesuatu). Ketiga: ka'anna, contohnya 'Ka'annal-harama narun' (Seakan-akan barang haram itu api). Keempat: lakinna, contohnya 'Ma fazal-jahilu lakinnal-'alima fa'izun' (Orang bodoh tidak beruntung, tetapi orang alimlah yang beruntung)."
+    },
+    {
+      "title": "'Amil Sama'i Jenis 2: Huruf yang Menashabkan Isim & Merafa'kan Khabar (Bagian 2)",
+      "titleArabic": "النَّوْعُ الثَّانِي: حُرُوفٌ تَنْصِبُ الِاسْمَ وَتَرْفَعُ الْخَبَرَ (٥-٨)",
+      "arabic": "الْخَامِسُ: لَيْتَ، نَحْوُ: لَيْتَ الْعِلْمَ مَرْزُوقٌ لِكُلِّ أَحَدٍ. السَّادِسُ: لَعَلَّ، نَحْوُ: لَعَلَّ اللَّهَ تَعَالَى غَافِرٌ ذَنْبِي. السَّابِعُ: إِلَّا فِي الِاسْتِثْنَاءِ الْمُنْقَطِعِ، نَحْوُ: الْمَعْصِيَةُ مُبْعِدَةٌ عَنِ الْجَنَّةِ إِلَّا الطَّاعَةَ مُقَرِّبَةٌ مِنْهَا. الثَّامِنُ: لَا لِنَفْيِ الْجِنْسِ، نَحْوُ: لَا فَاعِلَ شَرٍّ فَائِزٌ.",
+      "translation": "Kelima: layta, contohnya 'Laytal-'ilma marzuqun likulli ahadin' (Andai saja ilmu dikaruniakan kepada setiap orang). Keenam: la'alla, contohnya 'La'allallaha Ta'ala ghafirun dzanbi' (Semoga Allah Ta'ala mengampuni dosaku). Ketujuh: illa dalam istitsna' munqathi', contohnya 'Al-ma'shiyatu mub'idatun 'anil-jannati illat-tha'ata muqarribatun minha' (Kemaksiatan menjauhkan dari surga, akan tetapi ketaatan mendekatkan kepadanya). Kedelapan: la penafi jenis, contohnya 'La fa'ila syarrin fa'izun' (Tidak ada pelaku keburukan yang beruntung)."
+    },
+    {
+      "title": "'Amil Sama'i Jenis 3: Dua Huruf yang Merafa'kan Isim & Menashabkan Khabar",
+      "titleArabic": "النَّوْعُ الثَّالِثُ: حَرْفَانِ تَرْفَعَانِ الِاسْمَ وَتَنْصِبَانِ الْخَبَرَ",
+      "arabic": "النَّوْعُ الثَّالِثُ: حَرْفَانِ تَرْفَعَانِ الِاسْمَ وَتَنْصِبَانِ الْخَبَرَ، وَهُمَا مَا وَلَا الْمُشَبَّهَتَانِ بِلَيْسَ. الْأَوَّلُ: مَا، نَحْوُ: مَا اللَّهُ تَعَالَى مُتَمَكِّنًا بِمَكَانٍ. الثَّانِي: لَا، نَحْوُ: لَا شَيْءٌ مُشَابِهًا لِلَّهِ تَعَالَى.",
+      "translation": "Jenis ketiga adalah dua huruf yang me-rafa'-kan isim dan me-nashab-kan khabar, yaitu ma dan la yang diserupakan dengan laysa. Pertama: ma, contohnya 'Mallahu Ta'ala mutamakkinan bimakanin' (Allah Ta'ala tidak bertempat di suatu tempat). Kedua: la, contohnya 'La syay'un musyabihan lillahi Ta'ala' (Tidak ada sesuatu pun yang menyerupai Allah Ta'ala)."
+    },
+    {
+      "title": "'Amil Sama'i Jenis 4: Huruf yang Menashabkan Fi'il Mudhari'",
+      "titleArabic": "النَّوْعُ الرَّابِعُ: حُرُوفٌ تَنْصِبُ الْفِعْلَ الْمُضَارِعَ",
+      "arabic": "النَّوْعُ الرَّابِعُ: حُرُوفٌ تَنْصِبُ الْفِعْلَ الْمُضَارِعَ، وَهِيَ أَرْبَعَةٌ. الْأَوَّلُ: أَنْ، نَحْوُ: أُحِبُّ أَنْ أُطِيعَ اللَّهَ تَعَالَى. الثَّانِي: لَنْ، نَحْوُ: لَنْ يَغْفِرَ اللَّهُ تَعَالَى لِلْكَافِرِينَ. الثَّالِثُ: كَيْ، نَحْوُ: أُحِبُّ طُولَ الْعُمْرِ كَيْ أُحَصِّلَ الْعِلْمَ. الرَّابِعُ: إِذَنْ، نَحْوُ: إِذَنْ تَدْخُلَ الْجَنَّةَ، فِي جَوَابِ مَنْ قَالَ: أُطِيعُ اللَّهَ تَعَالَى.",
+      "translation": "Jenis keempat adalah huruf-huruf yang me-nashab-kan fi'il mudhari', yang berjumlah empat huruf. Pertama: an, contohnya 'Uhibbu an uthi'allaha Ta'ala' (Aku senang menaati Allah Ta'ala). Kedua: lan, contohnya 'Lan yaghfirallahu Ta'ala lil-kafirina' (Allah Ta'ala tidak akan mengampuni orang-orang kafir). Ketiga: kay, contohnya 'Uhibbu thulal-'umri kay uhasshilal-'ilma' (Aku menyukai panjang umur agar aku memperoleh ilmu). Keempat: idzan, contohnya 'Idzan tadkhulal-jannata' (Kalau begitu engkau akan masuk surga), sebagai jawaban bagi orang yang berkata: 'Aku menaati Allah Ta'ala'."
+    },
+    {
+      "title": "'Amil Sama'i Jenis 5: Penjazm Satu Fi'il Mudhari'",
+      "titleArabic": "النَّوْعُ الْخَامِسُ: مَا يَجْزِمُ فِعْلًا وَاحِدًا",
+      "arabic": "النَّوْعُ الْخَامِسُ: كَلِمَاتٌ تَجْزِمُ الْفِعْلَ الْمُضَارِعَ، وَهِيَ خَمْسَ عَشْرَةَ كَلِمَةً. أَرْبَعَةٌ مِنْهَا تَجْزِمُ فِعْلًا وَاحِدًا. الْأَوَّلُ: لَمْ، نَحْوُ: لَمْ يَلِدِ اللَّهُ تَعَالَى وَلَمْ يُولَدْ. الثَّانِي: لَمَّا، نَحْوُ: لَمَّا يَنْفَعْ عُمْرِي. الثَّالِثُ: لَامُ الْأَمْرِ، نَحْوُ: لِيَعْمَلْ عَمَلًا صَالِحًا. الرَّابِعُ: لَا فِي النَّهْيِ، نَحْوُ: لَا تَعْمَلْ ذَنْبًا.",
+      "translation": "Jenis kelima adalah kata-kata yang men-jazm-kan fi'il mudhari', yang berjumlah lima belas kata. Empat di antaranya men-jazm-kan satu fi'il saja. Pertama: lam, contohnya 'Lam yalidillahu Ta'ala wa lam yulad' (Allah Ta'ala tidak beranak dan tidak pula diperanakkan). Kedua: lamma, contohnya 'Lamma yanfa' 'umri' (Umurku belum memberi manfaat). Ketiga: lam amr, contohnya 'Liya'mal 'amalan shalihan' (Hendaklah ia mengerjakan amal saleh). Keempat: la nahyi (larangan), contohnya 'La ta'mal dzanban' (Janganlah engkau mengerjakan dosa)."
+    },
+    {
+      "title": "'Amil Sama'i Jenis 5: Penjazm Dua Fi'il Mudhari' (Bagian 1: In, Mahma, Ma, Man)",
+      "titleArabic": "النَّوْعُ الْخَامِسُ: مَا يَجْزِمُ فِعْلَيْنِ (١-٤)",
+      "arabic": "وَأَحَدَ عَشَرَ مِنْهَا تَجْزِمُ فِعْلَيْنِ، وَتُسَمَّى كَلِمَاتِ الشَّرْطِ وَالْجَزَاءِ. الْأَوَّلُ: إِنْ، نَحْوُ: إِنْ تَتُبْ يُغْفَرْ ذَنْبُكَ. الثَّانِي: مَهْمَا، نَحْوُ: مَهْمَا تَفْعَلْ تُسْأَلْ عَنْهُ. الثَّالِثُ: مَا، نَحْوُ: مَا تَفْعَلْ مِنْ خَيْرٍ تَجِدْهُ عِنْدَ اللَّهِ. الرَّابِعُ: مَنْ، نَحْوُ: مَنْ يَعْمَلْ عَمَلًا صَالِحًا يَكُنْ نَاجِيًا.",
+      "translation": "Sebelas lainnya men-jazm-kan dua fi'il, dan dinamakan kata-kata syarat dan jaza'. Pertama: in, contohnya 'In tatub yughfar dzanbuka' (Jika engkau bertobat, dosamu diampuni). Kedua: mahma, contohnya 'Mahma taf'al tus'al 'anhu' (Apa pun yang engkau lakukan, engkau akan ditanya tentangnya). Ketiga: ma, contohnya 'Ma taf'al min khayrin tajidhu 'indallahi' (Kebaikan apa pun yang engkau lakukan, engkau akan mendapatinya di sisi Allah). Keempat: man, contohnya 'Man ya'mal 'amalan shalihan yakun najiyan' (Barang siapa mengerjakan amal saleh, niscaya ia selamat)."
+    },
+    {
+      "title": "'Amil Sama'i Jenis 5: Penjazm Dua Fi'il Mudhari' (Bagian 2: Ayna, Mata, Anna, Ayyun)",
+      "titleArabic": "النَّوْعُ الْخَامِسُ: مَا يَجْزِمُ فِعْلَيْنِ (٥-٨)",
+      "arabic": "الْخَامِسُ: أَيْنَ، نَحْوُ: أَيْنَ تَكُنْ يُدْرِكْكَ الْمَوْتُ. السَّادِسُ: مَتَى، نَحْوُ: مَتَى تَحْسُدْ تَهْلِكْ. السَّابِعُ: أَنَّى، نَحْوُ: أَنَّى تُذْنِبْ يَعْلَمْكَ اللَّهُ. الثَّامِنُ: أَيٌّ، نَحْوُ: أَيَّ عَالِمٍ تُكْرِمْ يَرْضَ اللَّهُ عَنْكَ.",
+      "translation": "Kelima: ayna, contohnya 'Ayna takun yudrikkal-mawtu' (Di mana saja engkau berada, kematian akan menjemputmu). Keenam: mata, contohnya 'Mata tahsud tahlik' (Kapan saja engkau dengki, engkau binasa). Ketujuh: anna, contohnya 'Anna tudznib ya'lamkallahu' (Bagaimana/di mana saja engkau berdosa, Allah mengetahuimu). Kedelapan: ayyun, contohnya 'Ayya 'alimin tukrim yardhallahu 'anka' (Orang alim mana saja yang engkau muliakan, Allah akan rida kepadamu)."
+    },
+    {
+      "title": "'Amil Sama'i Jenis 5: Penjazm Dua Fi'il Mudhari' (Bagian 3: Haytsuma, Idzma, Idza)",
+      "titleArabic": "النَّوْعُ الْخَامِسُ: مَا يَجْزِمُ فِعْلَيْنِ (٩-١١)",
+      "arabic": "التَّاسِعُ: حَيْثُمَا، نَحْوُ: حَيْثُمَا تَفْعَلْ يُكْتَبْ فِعْلُكَ. الْعَاشِرُ: إِذْمَا، نَحْوُ: إِذْمَا تَتُبْ يُقْبَلْ تَوْبَتُكَ. الْحَادِي عَشَرَ: إِذَا فِي الشِّعْرِ خَاصَّةً، نَحْوُ قَوْلِ الشَّاعِرِ: اسْتَغْنِ مَا أَغْنَاكَ رَبُّكَ بِالْغِنَى * وَإِذَا تُصِبْكَ خَصَاصَةٌ فَتَجَمَّلِ.",
+      "translation": "Kesembilan: haytsuma, contohnya 'Haytsuma taf'al yuktab fi'luka' (Di mana pun engkau berbuat, perbuatanmu dicatat). Kesepuluh: idzma, contohnya 'Idzma tatub yuqbal tawbatuka' (Kapan saja engkau bertobat, tobatmu diterima). Kesebelas: idza khusus dalam syair, seperti ucapan penyair: 'Merasa cukuplah selama Tuhanmu mencukupimu dengan kekayaan, dan apabila kefakiran menimpamu maka bersikap eloklah'."
+    },
+    {
+      "title": "'Amil Qiyasi 1: Fi'il Secara Mutlak (Muta'addi & Lazim)",
+      "titleArabic": "الْعَامِلُ الْقِيَاسِيُّ الْأَوَّلُ: الْفِعْلُ مُطْلَقًا",
+      "arabic": "وَالْقِيَاسِيُّ تِسْعَةٌ. الْأَوَّلُ: الْفِعْلُ مُطْلَقًا، فَإِنَّ كُلَّ فِعْلٍ يَرْفَعُ وَيَنْصِبُ، نَحْوُ: خَلَقَ اللَّهُ تَعَالَى كُلَّ شَيْءٍ، وَنَزَلَ الْقُرْآنُ نُزُولًا. وَيُحْتَاجُ كُلُّ فِعْلٍ إِلَى مَرْفُوعٍ؛ فَإِنْ تَمَّ بِهِ كَلَامًا سُمِّيَ فِعْلًا تَامًّا، نَحْوُ: عَلِمَ اللَّهُ تَعَالَى. وَهُوَ إِمَّا لَازِمٌ أَوْ مُتَعَدٍّ.",
+      "translation": "'Amil qiyasi berjumlah sembilan. Pertama adalah fi'il secara mutlak, karena setiap fi'il me-rafa'-kan dan me-nashab-kan, contohnya 'Khalaqallahu Ta'ala kulla syay'in' (Allah Ta'ala menciptakan segala sesuatu) dan 'Nazalal-Qur'anu nuzulan' (Al-Qur'an benar-benar turun). Setiap fi'il membutuhkan kata yang di-rafa'-kan; jika telah sempurna dengannya menjadi kalimat, maka ia disebut fi'il tamm, contohnya ''Alimallahu Ta'ala' (Allah Ta'ala Maha Mengetahui), dan ia adakalanya lazim atau muta'addi."
+    },
+    {
+      "title": "'Amil Qiyasi 1 (Lanjutan): Af'al Naqishah, Muqarabah, Madh wa Dzamm, & Qulub",
+      "titleArabic": "تَتِمَّةُ الْفِعْلِ: الْأَفْعَالُ النَّاقِصَةُ وَالْمُقَارَبَةُ وَالْمَدْحُ وَالْقُلُوبُ",
+      "arabic": "وَإِنْ لَمْ يَتِمَّ بِالْمَرْفُوعِ كَلَامًا بَلِ احْتَاجَ إِلَى خَبَرٍ مَنْصُوبٍ سُمِّيَ فِعْلًا نَاقِصًا، نَحْوُ: كَانَ اللَّهُ تَعَالَى عَلِيمًا حَكِيمًا، وَصَارَ الْعَاصِي مُسْتَحِقًّا لِلْعَذَابِ. وَمِنْهُ أَفْعَالُ الْمُقَارَبَةِ نَحْوُ: عَسَى اللَّهُ أَنْ يَغْفِرَ ذَنْبِي، وَأَفْعَالُ الْمَدْحِ وَالذَّمِّ نَحْوُ: نِعْمَ الْعَبْدُ الْمُطِيعُ وَبِئْسَ الْعَبْدُ الْعَاصِي، وَأَفْعَالُ الْقُلُوبِ نَحْوُ: عَلِمْتُ اللَّهَ تَعَالَى مَوْجُودًا.",
+      "translation": "Jika belum sempurna menjadi kalimat dengan kata yang di-rafa'-kan, melainkan membutuhkan khabar yang di-nashab-kan, maka ia dinamakan fi'il naqish, contohnya 'Kanallahu Ta'ala 'aliman hakiman' (Allah Ta'ala Maha Mengetahui lagi Mahabijaksana) dan 'Sharal-'ashi mustahiqqan lil-'adzabi' (Pelaku maksiat berhak atas azab). Termasuk jenis fi'il juga adalah af'al al-muqarabah seperti ''Asallahu an yaghfira dzanbi', af'al al-madh wa al-dzamm seperti 'Ni'mal-'abdul-muthi'u wa bi'sal-'abdul-'ashi', serta af'al al-qulub seperti ''Alimtullaha Ta'ala mawjudan'."
+    },
+    {
+      "title": "'Amil Qiyasi 2: Isim Fa'il",
+      "titleArabic": "الْعَامِلُ الْقِيَاسِيُّ الثَّانِي: اسْمُ الْفَاعِلِ",
+      "arabic": "الثَّانِي: اسْمُ الْفَاعِلِ، وَهُوَ يَعْمَلُ عَمَلَ فِعْلِهِ الْمَعْلُومِ، نَحْوُ: كُلُّ حَسُودٍ مُحْرِقٌ عَمَلَهُ.",
+      "translation": "Kedua adalah isim fa'il, dan ia beramal sebagaimana pengamalan fi'il ma'lum-nya (me-rafa'-kan fa'il dan me-nashab-kan maf'ul jika muta'addi), contohnya 'Kullu hasudin muhriqun 'amalahu' (Setiap pendengki itu membakar amalnya sendiri)."
+    },
+    {
+      "title": "'Amil Qiyasi 3: Isim Maf'ul",
+      "titleArabic": "الْعَامِلُ الْقِيَاسِيُّ الثَّالِثُ: اسْمُ الْمَفْعُولِ",
+      "arabic": "الثَّالِثُ: اسْمُ الْمَفْعُولِ، وَهُوَ يَعْمَلُ عَمَلَ فِعْلِهِ الْمَجْهُولِ، نَحْوُ: كُلُّ تَائِبٍ مَقْبُولٌ تَوْبَتُهُ.",
+      "translation": "Ketiga adalah isim maf'ul, dan ia beramal sebagaimana pengamalan fi'il majhul-nya (me-rafa'-kan na'ibul fa'il), contohnya 'Kullu ta'ibin maqbulun tawbatuhu' (Setiap orang yang bertobat diterima tobatnya)."
+    },
+    {
+      "title": "'Amil Qiyasi 4: Sifat Musyabbahah",
+      "titleArabic": "الْعَامِلُ الْقِيَاسِيُّ الرَّابِعُ: الصِّفَةُ الْمُشَبَّهَةُ",
+      "arabic": "الرَّابِعُ: الصِّفَةُ الْمُشَبَّهَةُ، وَهِيَ تَعْمَلُ عَمَلَ فِعْلِهَا اللَّازِمِ، نَحْوُ: الْعِبَادَةُ حَسَنٌ ثَوَابُهَا، وَالْمَعْصِيَةُ قَبِيحٌ عَذَابُهَا.",
+      "translation": "Keempat adalah sifat musyabbahah, dan ia beramal sebagaimana pengamalan fi'il lazim-nya, contohnya 'Al-'ibadatu hasanun tsawabuha' (Ibadah itu baik pahalanya) dan 'Al-ma'shiyatu qabihun 'adzabuha' (Kemaksiatan itu buruk siksaannya)."
+    },
+    {
+      "title": "'Amil Qiyasi 5: Isim Tafdhil",
+      "titleArabic": "الْعَامِلُ الْقِيَاسِيُّ الْخَامِسُ: اسْمُ التَّفْضِيلِ",
+      "arabic": "الْخَامِسُ: اسْمُ التَّفْضِيلِ، وَهُوَ يَرْفَعُ الضَّمِيرَ الْمُسْتَتِرَ غَالِبًا، وَلَا يَرْفَعُ الظَّاهِرَ إِلَّا فِي مَسْأَلَةِ الْكُحْلِ، نَحْوُ: مَا مِنْ رَجُلٍ أَحْسَنَ فِيهِ الْحِلْمُ مِنْهُ فِي الْعَالِمِ.",
+      "translation": "Kelima adalah isim tafdhil, dan ia umumnya me-rafa'-kan dhamir mustatir, serta tidak me-rafa'-kan isim zhahir kecuali pada masalah al-kuhl (nafi yang diikuti isim nakirah dan isim tafdhil), contohnya 'Ma min rajulin ahsana fihil-hilmu minhu fil-'alimi' (Tidak ada seorang lelaki pun yang sifat santun lebih indah padanya daripada pada diri seorang alim)."
+    },
+    {
+      "title": "'Amil Qiyasi 6: Mashdar",
+      "titleArabic": "الْعَامِلُ الْقِيَاسِيُّ السَّادِسُ: الْمَصْدَرُ",
+      "arabic": "السَّادِسُ: الْمَصْدَرُ، وَهُوَ يَعْمَلُ عَمَلَ فِعْلِهِ بِشَرْطِ أَلَّا يَكُونَ مَفْعُولًا مُطْلَقًا، نَحْوُ: يُحِبُّ اللَّهُ تَعَالَى إِعْطَاءَ عَبْدِهِ دِرْهَمًا فَقِيرًا.",
+      "translation": "Keenam adalah mashdar, dan ia beramal sebagaimana pengamalan fi'il-nya dengan syarat tidak berkedudukan sebagai maf'ul muthlaq, contohnya 'Yuhibbullahu Ta'ala i'tha'a 'abdihi dirhaman faqiran' (Allah Ta'ala menyukai pemberian hamba-Nya satu dirham kepada orang fakir)."
+    },
+    {
+      "title": "'Amil Qiyasi 7: Isim Mudhaf",
+      "titleArabic": "الْعَامِلُ الْقِيَاسِيُّ السَّابِعُ: الِاسْمُ الْمُضَافُ",
+      "arabic": "السَّابِعُ: الِاسْمُ الْمُضَافُ، وَهُوَ يَجُرُّ الْمُضَافَ إِلَيْهِ، نَحْوُ: عِبَادَةُ اللَّهِ خَيْرٌ، وَذَلِكَ بِشَرْطِ تَجَرُّدِ الْمُضَافِ عَنِ التَّنْوِينِ وَنُونَيِ التَّثْنِيَةِ وَالْجَمْعِ وَاللَّامِ.",
+      "translation": "Ketujuh adalah isim mudhaf, dan ia men-jarr-kan mudhaf ilayh, contohnya ''Ibadatullahi khayrun' (Beribadah kepada Allah adalah kebaikan), dengan syarat mudhaf tersebut sunyi dari tanwin, nun tatsniyah, nun jamak, serta alif lam."
+    },
+    {
+      "title": "'Amil Qiyasi 8: Isim Mubham Tamm",
+      "titleArabic": "الْعَامِلُ الْقِيَاسِيُّ الثَّامِنُ: الِاسْمُ الْمُبْهَمُ التَّامُّ",
+      "arabic": "الثَّامِنُ: الِاسْمُ الْمُبْهَمُ التَّامُّ، وَهُوَ يَنْصِبُ الِاسْمَ النَّكِرَةَ عَلَى التَّمْيِيزِ، وَتَمَامُهُ بِالتَّنْوِينِ نَحْوُ: رِطْلٌ زَيْتًا، أَوْ بِنُونِ التَّثْنِيَةِ نَحْوُ: مَنَوَانِ سَمْنًا، أَوْ بِنُونِ الْجَمْعِ نَحْوُ: عِشْرُونَ دِرْهَمًا، أَوْ بِالْإِضَافَةِ نَحْوُ: مِلْءُ الْأَرْضِ ذَهَبًا.",
+      "translation": "Kedelapan adalah isim mubham tamm (isim samar yang sempurna), dan ia me-nashab-kan isim nakirah sebagai tamyiz. Kesempurnaannya bisa dengan tanwin seperti 'Rithlun zaytan', atau dengan nun tatsniyah seperti 'Manawani samnan', atau dengan nun jamak seperti ''Isyruna dirhaman', atau dengan idhafah seperti 'Mil'ul-ardhi dzahaban'."
+    },
+    {
+      "title": "'Amil Qiyasi 9: Ma'na al-Fi'l",
+      "titleArabic": "الْعَامِلُ الْقِيَاسِيُّ التَّاسِعُ: مَعْنَى الْفِعْلِ",
+      "arabic": "التَّاسِعُ: مَعْنَى الْفِعْلِ، وَهُوَ كُلُّ لَفْظٍ يُفْهَمُ مِنْهُ مَعْنَى الْفِعْلِ وَلَيْسَ بِفِعْلٍ وَلَا مُشْتَقٍّ مِنْهُ، نَحْوُ: هَيْهَاتَ الْمُذْنِبُ مِنَ اللَّهِ، وَتَرَاكِ ذَنْبًا، وَحَسْبُكَ دِرْهَمٌ، وَيَنْبَغِي لِلْعَالِمِ أَنْ يَكُونَ مُتَوَاضِعًا.",
+      "translation": "Kesembilan adalah ma'na al-fi'l, yaitu setiap lafaz yang dipahami darinya makna fi'il padahal ia bukan fi'il dan bukan pula musytaq darinya (seperti isim fi'il, huruf tanbih, dan lainnya), contohnya 'Hayhatal-mudznibu minallahi', 'Taraki dzanban', 'Hasbuka dirhamun', dan 'Yanbaghi lil-'alimi an yakuna mutawadhi'an'."
+    },
+    {
+      "title": "'Amil Ma'nawi 1: Pengamil Mubtada' & Khabar",
+      "titleArabic": "الْعَامِلُ الْمَعْنَوِيُّ الْأَوَّلُ: رَافِعُ الْمُبْتَدَأِ وَالْخَبَرِ",
+      "arabic": "وَالْمَعْنَوِيُّ اثْنَانِ. الْأَوَّلُ: رَافِعُ الْمُبْتَدَأِ وَالْخَبَرِ، وَهُوَ التَّجَرُّدُ عَنِ الْعَوَامِلِ اللَّفْظِيَّةِ، نَحْوُ: مُحَمَّدٌ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ.",
+      "translation": "Adapun 'amil ma'nawi berjumlah dua. Pertama adalah yang me-rafa'-kan mubtada' dan khabar, yaitu keterlepasan (tajarrud) dari 'amil-'amil lafzhi, contohnya 'Muhammadun Rasulullah shallallahu 'alayhi wa sallama' (Nabi Muhammad adalah utusan Allah)."
+    },
+    {
+      "title": "'Amil Ma'nawi 2: Pengamil Fi'il Mudhari'",
+      "titleArabic": "الْعَامِلُ الْمَعْنَوِيُّ الثَّانِي: رَافِعُ الْفِعْلِ الْمُضَارِعِ",
+      "arabic": "الثَّانِي: رَافِعُ الْفِعْلِ الْمُضَارِعِ، وَهُوَ وُقُوعُهُ مَوْقِعَ الِاسْمِ، نَحْوُ: يَرْحَمُ اللَّهُ التَّائِبَ.",
+      "translation": "Kedua adalah yang me-rafa'-kan fi'il mudhari', yaitu penempatannya pada posisi isim (serta sunyi dari 'amil nashib dan jazim), contohnya 'Yarhamullahut-ta'iba' (Allah merahmati orang yang bertobat)."
+    },
+    {
+      "title": "Bab II: Pengantar Ma'mul dan Pembagiannya",
+      "titleArabic": "الْبَابُ الثَّانِي: فِي الْمَعْمُولِ",
+      "arabic": "الْبَابُ الثَّانِي فِي الْمَعْمُولِ، وَهُوَ ثَلَاثُونَ، وَعَلَى ضَرْبَيْنِ: مَعْمُولٌ بِالْأَصَالَةِ وَمَعْمُولٌ بِالتَّبَعِيَّةِ. فَالْمَعْمُولُ بِالْأَصَالَةِ خَمْسَةٌ وَعِشْرُونَ، وَأَنْوَاعُهُ أَرْبَعَةٌ: مَرْفُوعٌ، وَمَنْصُوبٌ، وَمَجْرُورٌ يَخْتَصُّ بِالِاسْمِ، وَمَجْزُومٌ يَخْتَصُّ بِالْفِعْلِ.",
+      "translation": "Bab Kedua membahas tentang ma'mul. Jumlahnya ada tiga puluh dan terbagi menjadi dua macam: ma'mul bi'l-ashalah (secara asal) dan ma'mul bi'l-taba'iyyah (karena mengikuti). Ma'mul bi'l-ashalah berjumlah dua puluh lima yang terbagi menjadi empat jenis: marfu', manshub, majrur yang khusus bagi isim, dan majzum yang khusus bagi fi'il."
+    },
+    {
+      "title": "Ma'mul Marfu' 1 & 2: Fa'il dan Na'ibul Fa'il",
+      "titleArabic": "الْمَرْفُوعَاتُ: الْفَاعِلُ وَنَائِبُ الْفَاعِلِ",
+      "arabic": "فَالْمَرْفُوعُ تِسْعَةٌ. الْأَوَّلُ: الْفَاعِلُ، نَحْوُ: قَامَ زَيْدٌ وَصَدَقَ مُحَمَّدٌ. الثَّانِي: نَائِبُ الْفَاعِلِ، نَحْوُ: رُحِمَ التَّائِبُ وَقُبِلَتْ تَوْبَتُهُ.",
+      "translation": "Ma'mul yang di-rafa'-kan ada sembilan. Pertama: fa'il (subjek kalimat aktif), contohnya 'Qama Zaydun' (Zaid telah berdiri) dan 'Shadaqa Muhammadun' (Muhammad telah berkata jujur). Kedua: na'ibul fa'il (pengganti fa'il pada kalimat pasif), contohnya 'Ruhimat-ta'ibu wa qubilat tawbatuhu' (Orang yang bertobat telah dirahmati dan tobatnya telah diterima)."
+    },
+    {
+      "title": "Ma'mul Marfu' 3 & 4: Mubtada' dan Khabar",
+      "titleArabic": "الْمَرْفُوعَاتُ: الْمُبْتَدَأُ وَالْخَبَرُ",
+      "arabic": "الثَّالِثُ: الْمُبْتَدَأُ، نَحْوُ: مُحَمَّدٌ خَاتَمُ الْأَنْبِيَاءِ. الرَّابِعُ: الْخَبَرُ، نَحْوُ: الْقُرْآنُ كَلَامُ اللَّهِ تَعَالَى.",
+      "translation": "Ketiga: mubtada' (subjek jumlah ismiyah), contohnya 'Muhammadun khatamul-anbiya'i' (Muhammad adalah penutup para nabi). Keempat: khabar (predikat jumlah ismiyah), contohnya 'Al-Qur'anu kalamullahi Ta'ala' (Al-Qur'an adalah firman Allah Ta'ala)."
+    },
+    {
+      "title": "Ma'mul Marfu' 5 & 6: Isim Af'al Naqishah & Khabar Huruf Musyabbahah",
+      "titleArabic": "الْمَرْفُوعَاتُ: اسْمُ كَانَ وَخَبَرُ إِنَّ",
+      "arabic": "الْخَامِسُ: اسْمُ الْأَفْعَالِ النَّاقِصَةِ، نَحْوُ: كَانَ اللَّهُ تَعَالَى غَفُورًا رَحِيمًا. السَّادِسُ: خَبَرُ الْحُرُوفِ الْمُشَبَّهَةِ بِالْفِعْلِ، نَحْوُ: إِنَّ اللَّهَ تَعَالَى شَدِيدُ الْعِقَابِ.",
+      "translation": "Kelima: isim bagi af'al naqishah (kana dan saudari-saudarinya), contohnya 'Kanallahu Ta'ala ghafuran rahiman' (Allah Ta'ala Maha Pengampun lagi Maha Penyayang). Keenam: khabar bagi huruf-huruf musyabbahah bi'l-fi'l (inna dan saudari-saudarinya), contohnya 'Innallaha Ta'ala syadidul-'iqabi' (Sesungguhnya Allah Ta'ala amat keras siksa-Nya)."
+    },
+    {
+      "title": "Ma'mul Marfu' 7 & 8: Khabar La Nafyi al-Jins & Isim Ma/La Musyabbahatayn bi-Laysa",
+      "titleArabic": "الْمَرْفُوعَاتُ: خَبَرُ لَا لِنَفْيِ الْجِنْسِ وَاسْمُ مَا وَلَا",
+      "arabic": "السَّابِعُ: خَبَرُ لَا لِنَفْيِ الْجِنْسِ، نَحْوُ: لَا عَمَلَ رِيَاءٍ مَقْبُولٌ. الثَّامِنُ: اسْمُ مَا وَلَا الْمُشَبَّهَتَيْنِ بِلَيْسَ، نَحْوُ: مَا التَّكَبُّرُ لَائِقًا بِالْعَالِمِ، وَلَا حَسَدٌ نَافِعًا.",
+      "translation": "Ketujuh: khabar bagi la penafi jenis, contohnya 'La 'amala riya'in maqbulun' (Tidak ada amal riya yang diterima). Kedelapan: isim bagi ma dan la yang diserupakan dengan laysa, contohnya 'Mat-takabburu la'iqan bil-'alimi' (Kesombongan tidak pantas bagi orang alim) dan 'La hasadun nafi'an' (Tidak ada kedengkian yang bermanfaat)."
+    },
+    {
+      "title": "Ma'mul Marfu' 9: Fi'il Mudhari' yang Sunyi dari Nawashib & Jawazim",
+      "titleArabic": "الْمَرْفُوعَاتُ: الْفِعْلُ الْمُضَارِعُ الْخَالِي عَنِ النَّوَاصِبِ وَالْجَوَازِمِ",
+      "arabic": "التَّاسِعُ: الْفِعْلُ الْمُضَارِعُ الْخَالِي عَنِ النَّوَاصِبِ وَالْجَوَازِمِ، نَحْوُ: يَقْبَلُ اللَّهُ تَعَالَى تَوْبَةَ التَّائِبِ.",
+      "translation": "Kesembilan: fi'il mudhari' yang sunyi dari 'amil-'amil nashib dan 'amil-'amil jazim, contohnya 'Yaqbalullahu Ta'ala tawbatat-ta'ibi' (Allah Ta'ala menerima tobat orang yang bertobat)."
+    },
+    {
+      "title": "Ma'mul Manshub 1 & 2: Maf'ul Muthlaq dan Maf'ul Bihi",
+      "titleArabic": "الْمَنْصُوبَاتُ: الْمَفْعُولُ الْمُطْلَقُ وَالْمَفْعُولُ بِهِ",
+      "arabic": "وَالْمَنْصُوبُ ثَلَاثَةَ عَشَرَ. الْأَوَّلُ: الْمَفْعُولُ الْمُطْلَقُ، نَحْوُ: تُبْتُ تَوْبَةً نَصُوحًا. الثَّانِي: الْمَفْعُولُ بِهِ، نَحْوُ: أَعْبُدُ اللَّهَ تَعَالَى.",
+      "translation": "Ma'mul yang di-nashab-kan berjumlah tiga belas. Pertama: maf'ul muthlaq (penegas atau penjelas jenis/bilangan fi'il), contohnya 'Tubtu tawbatan nashuhan' (Aku bertobat dengan tobat nasuha). Kedua: maf'ul bihi (objek penderita), contohnya 'A'budullaha Ta'ala' (Aku menyembah Allah Ta'ala)."
+    },
+    {
+      "title": "Ma'mul Manshub 3, 4, & 5: Maf'ul Fihi, Maf'ul Lahu, dan Maf'ul Ma'ahu",
+      "titleArabic": "الْمَنْصُوبَاتُ: الْمَفْعُولُ فِيهِ وَلَهُ وَمَعَهُ",
+      "arabic": "الثَّالِثُ: الْمَفْعُولُ فِيهِ، نَحْوُ: صُمْتُ شَهْرَ رَمَضَانَ وَاعْتَكَفْتُ فِي الْمَسْجِدِ. الرَّابِعُ: الْمَفْعُولُ لَهُ، نَحْوُ: عَمِلْتُ طَلَبًا لِمَرْضَاةِ اللَّهِ تَعَالَى. الْخَامِسُ: الْمَفْعُولُ مَعَهُ، نَحْوُ: يَفْنَى الْمَالُ وَتَبْقَى الطَّاعَةُ وَذَهَابُ الْعُمْرِ.",
+      "translation": "Ketiga: maf'ul fihi (keterangan waktu atau tempat), contohnya 'Shumtu syahra Ramadhana' (Aku berpuasa pada bulan Ramadan). Keempat: maf'ul lahu (keterangan sebab atau tujuan), contohnya ''Amiltu thalaban limardhatillahi Ta'ala' (Aku beramal karena mencari rida Allah Ta'ala). Kelima: maf'ul ma'ahu (penyerta setelah wawu ma'iyyah), contohnya 'Yafnal-malu wa tabqat-tha'atu wa dzahabal-'umri' (Harta akan sirna sedangkan ketaatan tetap kekal bersama berlalunya umur)."
+    },
+    {
+      "title": "Ma'mul Manshub 6, 7, & 8: Hal, Tamyiz, dan Mustatsna",
+      "titleArabic": "الْمَنْصُوبَاتُ: الْحَالُ وَالتَّمْيِيزُ وَالْمُسْتَثْنَى",
+      "arabic": "السَّادِسُ: الْحَالُ، نَحْوُ: عَبَدْتُ اللَّهَ تَعَالَى خَائِفًا رَاجِيًا. السَّابِعُ: التَّمْيِيزُ، نَحْوُ: طَابَ الْعَالِمُ عِلْمًا. الثَّامِنُ: الْمُسْتَثْنَى، نَحْوُ: يَدْخُلُ النَّاسُ الْجَنَّةَ إِلَّا الْكَافِرَ.",
+      "translation": "Keenam: hal (penjelas keadaan), contohnya ''Abadtullaha Ta'ala kha'ifan rajiyan' (Aku menyembah Allah Ta'ala dalam keadaan takut lagi berharap). Ketujuh: tamyiz (penjelas kesamaran), contohnya 'Thabal-'alimu 'ilman' (Orang alim itu baik ilmunya). Kedelapan: mustatsna (kata yang dikecualikan), contohnya 'Yadkhulun-nasul-jannata illal-kafira' (Manusia akan masuk surga kecuali orang kafir)."
+    },
+    {
+      "title": "Ma'mul Manshub 9 & 10: Khabar Af'al Naqishah & Isim Huruf Musyabbahah",
+      "titleArabic": "الْمَنْصُوبَاتُ: خَبَرُ كَانَ وَاسْمُ إِنَّ",
+      "arabic": "التَّاسِعُ: خَبَرُ الْأَفْعَالِ النَّاقِصَةِ، نَحْوُ: كَانَ الْمَلَائِكَةُ عِبَادًا مُكْرَمِينَ. الْعَاشِرُ: اسْمُ الْحُرُوفِ الْمُشَبَّهَةِ بِالْفِعْلِ، نَحْوُ: إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ.",
+      "translation": "Kesembilan: khabar bagi af'al naqishah, contohnya 'Kanal-mala'ikatu 'ibadan mukramina' (Para malaikat adalah hamba-hamba yang dimuliakan). Kesepuluh: isim bagi huruf-huruf musyabbahah bi'l-fi'l, contohnya 'Innan-nafsa la-ammaratun bis-su'i' (Sesungguhnya nafsu itu selalu menyuruh kepada keburukan)."
+    },
+    {
+      "title": "Ma'mul Manshub 11 & 12: Isim La Nafyi al-Jins & Khabar Ma/La Musyabbahatayn",
+      "titleArabic": "الْمَنْصُوبَاتُ: اسْمُ لَا لِنَفْيِ الْجِنْسِ وَخَبَرُ مَا وَلَا",
+      "arabic": "الْحَادِي عَشَرَ: اسْمُ لَا لِنَفْيِ الْجِنْسِ، نَحْوُ: لَا عَاصِيًا مُغْتَبِطًا عِنْدَ اللَّهِ. الثَّانِي عَشَرَ: خَبَرُ مَا وَلَا الْمُشَبَّهَتَيْنِ بِلَيْسَ، نَحْوُ: مَا أَحَدٌ بَاقِيًا فِي الدُّنْيَا، وَلَا عَمَلٌ ضَائِعًا عِنْدَ اللَّهِ.",
+      "translation": "Kesebelas: isim bagi la penafi jenis (ketika mudhaf atau syabih bil-mudhaf), contohnya 'La 'ashiyan mughtabithan 'indallahi'. Kedua belas: khabar bagi ma dan la yang diserupakan dengan laysa, contohnya 'Ma ahadun baqiyan fid-dunya' (Tidak seorang pun kekal di dunia) dan 'La 'amalun dha'i'an 'indallahi' (Tidak ada satu amal pun yang sia-sia di sisi Allah)."
+    },
+    {
+      "title": "Ma'mul Manshub 13: Fi'il Mudhari' yang Kemasukan Nashib",
+      "titleArabic": "الْمَنْصُوبَاتُ: الْفِعْلُ الْمُضَارِعُ الْمَنْصُوبُ",
+      "arabic": "الثَّالِثَ عَشَرَ: الْفِعْلُ الْمُضَارِعُ إِذَا دَخَلَ عَلَيْهِ أَحَدُ النَّوَاصِبِ، نَحْوُ: أُرِيدُ أَنْ يَغْفِرَ اللَّهُ ذَنْبِي.",
+      "translation": "Ketiga belas: fi'il mudhari' apabila kemasukan salah satu 'amil nashib, contohnya 'Uridu an yaghfirallahu dzanbi' (Aku ingin agar Allah mengampuni dosaku)."
+    },
+    {
+      "title": "Ma'mul Majrur 1 & 2: Majrur dengan Huruf Jarr dan Majrur dengan Idhafah",
+      "titleArabic": "الْمَجْرُورَاتُ: الْمَجْرُورُ بِحَرْفِ الْجَرِّ وَبِالْإِضَافَةِ",
+      "arabic": "وَالْمَجْرُورُ اثْنَانِ. الْأَوَّلُ: الْمَجْرُورُ بِحَرْفِ الْجَرِّ، نَحْوُ: عَمِلْتُ لِوَجْهِ اللَّهِ. الثَّانِي: الْمَجْرُورُ بِالْإِضَافَةِ، نَحْوُ: ذَنْبُ الْعَبْدِ يَسْوَدُّ قَلْبَهُ.",
+      "translation": "Ma'mul yang di-jarr-kan berjumlah dua. Pertama: yang di-jarr-kan oleh huruf jarr, contohnya ''Amiltu liwajhillahi' (Aku beramal demi wajah/rida Allah). Kedua: yang di-jarr-kan oleh idhafah (penyandaran kata), contohnya 'Dzanbul-'abdi yusawwidu qalbahu' (Dosa seorang hamba menghitamkan hatinya)."
+    },
+    {
+      "title": "Ma'mul Majzum: Fi'il Mudhari' yang Kemasukan Jazim",
+      "titleArabic": "الْمَجْزُومُ: الْفِعْلُ الْمُضَارِعُ الْمَجْزُومُ",
+      "arabic": "وَالْمَجْزُومُ وَاحِدٌ، وَهُوَ الْفِعْلُ الْمُضَارِعُ إِذَا دَخَلَ عَلَيْهِ أَحَدُ الْجَوَازِمِ، نَحْوُ: لَمْ أَعْبُدِ اللَّهَ تَعَالَى كَمَا يَنْبَغِي.",
+      "translation": "Ma'mul yang di-jazm-kan berjumlah satu, yaitu fi'il mudhari' apabila kemasukan salah satu 'amil jazim, contohnya 'Lam a'budillaha Ta'ala kama yanbaghi' (Aku belum menyembah Allah Ta'ala sebagaimana mestinya)."
+    },
+    {
+      "title": "Ma'mul bi'l-Taba'iyyah 1: Sifat (Na'at)",
+      "titleArabic": "الْمَعْمُولُ بِالتَّبَعِيَّةِ الْأَوَّلُ: الصِّفَةُ",
+      "arabic": "وَالْمَعْمُولُ بِالتَّبَعِيَّةِ خَمْسَةٌ، وَإِعْرَابُهَا كَإِعْرَابِ مَتْبُوعِهَا. الْأَوَّلُ: الصِّفَةُ، نَحْوُ: أَعْبُدُ اللَّهَ الْعَظِيمَ.",
+      "translation": "Ma'mul bi'l-taba'iyyah (yang mengikuti i'rab kata sebelumnya) berjumlah lima, dan i'rabnya mengikuti i'rab matbu'-nya. Pertama: sifat (na'at), contohnya 'A'budullahal-'Azhima' (Aku menyembah Allah Yang Maha Agung)."
+    },
+    {
+      "title": "Ma'mul bi'l-Taba'iyyah 2: 'Athaf (dengan Sepuluh Huruf 'Athaf)",
+      "titleArabic": "الْمَعْمُولُ بِالتَّبَعِيَّةِ الثَّانِي: الْعَطْفُ",
+      "arabic": "الثَّانِي: الْعَطْفُ بِأَحَدِ الْحُرُوفِ الْعَشَرَةِ، وَهِيَ: الْوَاوُ، وَالْفَاءُ، وَثُمَّ، وَحَتَّى، وَأَوْ، وَإِمَّا، وَأَمْ، وَلَا، وَبَلْ، وَلَكِنْ، نَحْوُ: آمَنْتُ بِاللَّهِ وَالْمَلَائِكَةِ وَالْكُتُبِ وَالرُّسُلِ.",
+      "translation": "Kedua: 'athaf dengan salah satu dari sepuluh huruf 'athaf, yaitu wawu, fa', tsumma, hatta, aw, imma, am, la, bal, dan lakin. Contohnya 'Amantu billahi wal-mala'ikati wal-kutubi war-rusuli' (Aku beriman kepada Allah, para malaikat, kitab-kitab, dan para rasul)."
+    },
+    {
+      "title": "Ma'mul bi'l-Taba'iyyah 3: Ta'kid (Penegasan)",
+      "titleArabic": "الْمَعْمُولُ بِالتَّبَعِيَّةِ الثَّالِثُ: التَّأْكِيدُ",
+      "arabic": "الثَّالِثُ: التَّأْكِيدُ، وَهُوَ إِمَّا لَفْظِيٌّ نَحْوُ: جَاءَ عِيسَى عِيسَى عَلَيْهِ السَّلَامُ، أَوْ مَعْنَوِيٌّ نَحْوُ: تَرَكْتُ الذُّنُوبَ كُلَّهَا.",
+      "translation": "Ketiga: ta'kid (penguat/penegas), yang adakalanya lafzhi seperti 'Ja'a 'Isa 'Isa 'alayhis-salamu' (Nabi Isa telah datang), atau ma'nawi seperti 'Taraktudz-dzunuba kullaha' (Aku telah meninggalkan dosa-dosa seluruhnya)."
+    },
+    {
+      "title": "Ma'mul bi'l-Taba'iyyah 4: Badal (Pengganti)",
+      "titleArabic": "الْمَعْمُولُ بِالتَّبَعِيَّةِ الرَّابِعُ: الْبَدَلُ",
+      "arabic": "الرَّابِعُ: الْبَدَلُ، وَهُوَ أَرْبَعَةٌ: بَدَلُ الْكُلِّ مِنَ الْكُلِّ نَحْوُ: اعْبُدْ رَبَّكَ إِلَهَ الْعَالَمِينَ، وَبَدَلُ الْبَعْضِ مِنَ الْكُلِّ نَحْوُ: أَطِعِ اللَّهَ يَوْمًا نِصْفَهُ، وَبَدَلُ الِاشْتِمَالِ نَحْوُ: احْفَظِ الْإِنْسَانَ حَقَّهُ، وَبَدَلُ الْغَلَطِ نَحْوُ: رَأَيْتُ رَجُلًا حِمَارًا.",
+      "translation": "Keempat: badal, yang terbagi menjadi empat macam: badal kull minal-kull seperti 'U'bud rabbaka ilahal-'alamina', badal ba'dh minal-kull seperti 'Athi'illaha yawman nishfahu', badal isytimal seperti 'Ihfazhil-insana haqqahu', dan badal ghalath seperti 'Ra'aytu rajulan himaran'."
+    },
+    {
+      "title": "Ma'mul bi'l-Taba'iyyah 5: 'Athaf Bayan",
+      "titleArabic": "الْمَعْمُولُ بِالتَّبَعِيَّةِ الْخَامِسُ: عَطْفُ الْبَيَانِ",
+      "arabic": "الْخَامِسُ: عَطْفُ الْبَيَانِ، نَحْوُ: آمَنْتُ بِنَبِيِّنَا مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ.",
+      "translation": "Kelima: 'athaf bayan (penjelas kata sebelumnya tanpa perantara huruf 'athaf), contohnya 'Amantu binabiyyina Muhammadin shallallahu 'alayhi wa sallama' (Aku beriman kepada nabi kita, yakni Muhammad shallallahu 'alayhi wa sallam)."
+    },
+    {
+      "title": "Bab III: Pengantar 'Amal / I'rab (Sepuluh Tanda I'rab)",
+      "titleArabic": "الْبَابُ الثَّالِثُ: فِي الْإِعْرَابِ",
+      "arabic": "الْبَابُ الثَّالِثُ فِي الْإِعْرَابِ، وَهُوَ عَشَرَةُ أَشْيَاءَ: ثَلَاثَةٌ مِنْهَا حَرَكَاتٌ، وَأَرْبَعَةٌ مِنْهَا حُرُوفٌ، وَثَلَاثَةٌ مِنْهَا حَذْفٌ.",
+      "translation": "Bab Ketiga membahas tentang i'rab. I'rab terdiri dari sepuluh perkara: tiga di antaranya berupa harakat, empat berupa huruf, dan tiga berupa hadhf (pembuangan)."
+    },
+    {
+      "title": "Tanda I'rab Harakat: Dhammah, Fathah, dan Kasrah",
+      "titleArabic": "الْحَرَكَاتُ الثَّلَاثُ: الضَّمَّةُ وَالْفَتْحَةُ وَالْكَسْرَةُ",
+      "arabic": "فَالْحَرَكَاتُ الثَّلَاثُ هِيَ: الضَّمَّةُ، وَالْفَتْحَةُ، وَالْكَسْرَةُ.",
+      "translation": "Tiga harakat tersebut adalah dhammah (tanda asal rafa'), fathah (tanda asal nashab), dan kasrah (tanda asal jarr)."
+    },
+    {
+      "title": "Tanda I'rab Huruf: Wawu, Ya', Alif, dan Nun",
+      "titleArabic": "الْحُرُوفُ الْأَرْبَعَةُ: الْوَاوُ وَالْيَاءُ وَالْأَلِفُ وَالنُّونُ",
+      "arabic": "وَالْحُرُوفُ الْأَرْبَعَةُ هِيَ: الْوَاوُ، وَالْيَاءُ، وَالْأَلِفُ، وَالنُّونُ.",
+      "translation": "Empat huruf tersebut adalah wawu, ya', alif, dan nun."
+    },
+    {
+      "title": "Tanda I'rab Hadhf: Hadhf Harakah, Hadhf Akhir, dan Hadhf Nun",
+      "titleArabic": "الْحَذْفُ الثَّلَاثَةُ: حَذْفُ الْحَرَكَةِ وَحَذْفُ الْآخِرِ وَحَذْفُ النُّونِ",
+      "arabic": "وَالْحَذْفُ الثَّلَاثَةُ هِيَ: حَذْفُ الْحَرَكَةِ، وَحَذْفُ الْآخِرِ، وَحَذْفُ النُّونِ.",
+      "translation": "Tiga pembuangan (hadhf) tersebut adalah pembuangan harakat (yakni sukun), pembuangan huruf akhir (huruf 'illat), dan pembuangan nun."
+    },
+    {
+      "title": "Tempat I'rab 1: Isim Mufrad Munsharif & Jamak Taksir Munsharif",
+      "titleArabic": "مَحَلُّ الْإِعْرَابِ الْأَوَّلُ: الِاسْمُ الْمُفْرَدُ وَجَمْعُ التَّكْسِيرِ الْمُنْصَرِفَانِ",
+      "arabic": "وَلِلْإِعْرَابِ تِسْعَةُ مَحَالَّ. الْأَوَّلُ: الِاسْمُ الْمُفْرَدُ الْمُنْصَرِفُ وَجَمْعُ التَّكْسِيرِ الْمُنْصَرِفُ؛ فَرَفْعُهُمَا بِالضَّمَّةِ نَحْوُ: جَاءَ رَسُولٌ وَأَنْبِيَاءُ، وَنَصْبُهُمَا بِالْفَتْحَةِ نَحْوُ: صَدَّقْتُ رَسُولًا وَأَنْبِيَاءَ، وَجَرُّهُمَا بِالْكَسْرَةِ نَحْوُ: آمَنْتُ بِرَسُولٍ وَأَنْبِيَاءَ.",
+      "translation": "I'rab memiliki sembilan tempat. Pertama: isim mufrad munsharif dan jamak taksir munsharif; rafa' keduanya dengan dhammah seperti 'Ja'a rasulun wa anbiya'u', nashab keduanya dengan fathah seperti 'Shaddaqtu rasulan wa anbiya'a', dan jarr keduanya dengan kasrah seperti 'Amantu birasulin wa anbiya'a'."
+    },
+    {
+      "title": "Tempat I'rab 2: Jamak Mu'annats Salim & Isim Ghayr Munsharif",
+      "titleArabic": "مَحَلُّ الْإِعْرَابِ الثَّانِي وَالثَّالِثُ: جَمْعُ الْمُؤَنَّثِ السَّالِمُ وَغَيْرُ الْمُنْصَرِفِ",
+      "arabic": "الثَّانِي: جَمْعُ الْمُؤَنَّثِ السَّالِمُ؛ فَرَفْعُهُ بِالضَّمَّةِ نَحْوُ: جَاءَتِ الْمُؤْمِنَاتُ، وَنَصْبُهُ وَجَرُّهُ بِالْكَسْرَةِ نَحْوُ: أَحْبَبْتُ الْمُؤْمِنَاتِ وَرَضِيتُ عَنِ الْمُؤْمِنَاتِ. الثَّالِثُ: غَيْرُ الْمُنْصَرِفِ؛ فَرَفْعُهُ بِالضَّمَّةِ نَحْوُ: جَاءَ أَحْمَدُ، وَنَصْبُهُ وَجَرُّهُ بِالْفَتْحَةِ نَحْوُ: أَحْبَبْتُ أَحْمَدَ وَآمَنْتُ بِأَحْمَدَ، إِلَّا أَنْ يُضَافَ أَوْ تَدْخُلَهُ اللَّامُ فَيُجَرُّ بِالْكَسْرَةِ.",
+      "translation": "Kedua: jamak mu'annats salim; rafa'-nya dengan dhammah seperti 'Ja'atil-mu'minatu', sedangkan nashab dan jarr-nya dengan kasrah seperti 'Ahbabtul-mu'minati wa radhitu 'anil-mu'minati'. Ketiga: isim ghayr munsharif; rafa'-nya dengan dhammah seperti 'Ja'a Ahmadu', sedangkan nashab dan jarr-nya dengan fathah seperti 'Ahbabtu Ahmada wa amantu bi-Ahmada', kecuali apabila di-idhafah-kan atau kemasukan alif lam maka di-jarr-kan dengan kasrah."
+    },
+    {
+      "title": "Tempat I'rab 3: Asma' Sittah Mu'tallah Mudhafah",
+      "titleArabic": "مَحَلُّ الْإِعْرَابِ الرَّابِعُ: الْأَسْمَاءُ السِّتَّةُ الْمُعْتَلَّةُ الْمُضَافَةُ",
+      "arabic": "الرَّابِعُ: الْأَسْمَاءُ السِّتَّةُ الْمُعْتَلَّةُ الْمُضَافَةُ إِلَى غَيْرِ يَاءِ الْمُتَكَلِّمِ، وَهِيَ: أَبُوهُ، وَأَخُوهُ، وَحَمُوهَا، وَفُوهُ، وَهَنُوهُ، وَذُو مَالٍ؛ فَرَفْعُهَا بِالْوَاوِ، وَنَصْبُهَا بِالْأَلِفِ، وَجَرُّهَا بِالْيَاءِ، نَحْوُ: جَاءَ أَبُو زَيْدٍ وَرَأَيْتُ أَبَا زَيْدٍ وَمَرَرْتُ بِأَبِي زَيْدٍ.",
+      "translation": "Keempat: asma' sittah (enam isim) yang berhuruf 'illat dan di-idhafah-kan kepada selain ya' mutakallim, yaitu abuhu, akhuhu, hamuha, fuhu, hanuhu, dan dzu malin; rafa'-nya dengan wawu, nashab-nya dengan alif, dan jarr-nya dengan ya', contohnya 'Ja'a abu Zaydin wa ra'aytu aba Zaydin wa marartu bi-abi Zaydin'."
+    },
+    {
+      "title": "Tempat I'rab 4: Isim Mutsanna dan Mulhaqatnya",
+      "titleArabic": "مَحَلُّ الْإِعْرَابِ الْخَامِسُ: التَّثْنِيَةُ وَمُلْحَقَاتُهَا",
+      "arabic": "الْخَامِسُ: التَّثْنِيَةُ وَكِلَا وَكِلْتَا مُضَافَيْنِ إِلَى مُضْمَرٍ وَاثْنَانِ وَاثْنَتَانِ؛ فَرَفْعُهَا بِالْأَلِفِ، وَنَصْبُهَا وَجَرُّهَا بِالْيَاءِ الْمَفْتُوحِ مَا قَبْلَهَا، نَحْوُ: جَاءَ الْمُسْلِمَانِ وَرَأَيْتُ الْمُسْلِمَيْنِ وَمَرَرْتُ بِالْمُسْلِمَيْنِ.",
+      "translation": "Kelima: isim tatsniyah beserta kila dan kilta yang di-idhafah-kan kepada dhamir, serta itsnani dan itsnatani; rafa'-nya dengan alif, sedangkan nashab dan jarr-nya dengan ya' yang difathah huruf sebelumnya, contohnya 'Ja'al-muslimani wa ra'aytul-muslimayni wa marartu bil-muslimayni'."
+    },
+    {
+      "title": "Tempat I'rab 5: Jamak Mudzakkar Salim dan Mulhaqatnya",
+      "titleArabic": "مَحَلُّ الْإِعْرَابِ السَّادِسُ: جَمْعُ الْمُذَكَّرِ السَّالِمُ وَمُلْحَقَاتُهُ",
+      "arabic": "السَّادِسُ: جَمْعُ الْمُذَكَّرِ السَّالِمُ وَأُولُو وَعِشْرُونَ وَأَخَوَاتُهُ؛ فَرَفْعُهَا بِالْوَاوِ، وَنَصْبُهَا وَجَرُّهَا بِالْيَاءِ الْمَكْسُورِ مَا قَبْلَهَا، نَحْوُ: جَاءَ الْمُسْلِمُونَ وَرَأَيْتُ الْمُسْلِمِينَ وَمَرَرْتُ بِالْمُسْلِمِينَ.",
+      "translation": "Keenam: jamak mudzakkar salim beserta ulu, 'isyruna dan saudari-saudarinya (bilangan puluhan); rafa'-nya dengan wawu, sedangkan nashab dan jarr-nya dengan ya' yang dikasrah huruf sebelumnya, contohnya 'Ja'al-muslimuna wa ra'aytul-muslimina wa marartu bil-muslimina'."
+    },
+    {
+      "title": "Tempat I'rab 6: Fi'il Mudhari' Shahih Akhir & Mu'tall Akhir",
+      "titleArabic": "مَحَلُّ الْإِعْرَابِ السَّابِعُ وَالثَّامِنُ: الْمُضَارِعُ الصَّحِيحُ وَالْمُعْتَلُّ الْآخِرِ",
+      "arabic": "السَّابِعُ: الْفِعْلُ الْمُضَارِعُ الصَّحِيحُ الْآخِرِ الَّذِي لَمْ يَتَّصِلْ بِآخِرِهِ ضَمِيرٌ بَارِزٌ مَرْفُوعٌ؛ فَرَفْعُهُ بِالضَّمَّةِ وَنَصْبُهُ بِالْفَتْحَةِ وَجَزْمُهُ بِحَذْفِ الْحَرَكَةِ، نَحْوُ: يَتُوبُ وَلَنْ يَتُوبَ وَلَمْ يَتُبْ. الثَّامِنُ: الْفِعْلُ الْمُضَارِعُ الْمُعْتَلُّ الْآخِرِ كَذَلِكَ؛ فَرَفْعُهُ بِالضَّمَّةِ وَنَصْبُهُ بِالْفَتْحَةِ وَجَزْمُهُ بِحَذْفِ الْآخِرِ، نَحْوُ: يَدْعُو وَلَنْ يَدْعُوَ وَلَمْ يَدْعُ.",
+      "translation": "Ketujuh: fi'il mudhari' shahih akhir yang akhirnya tidak bersambung dengan dhamir bariz marfu'; rafa'-nya dengan dhammah, nashab-nya dengan fathah, dan jazm-nya dengan pembuangan harakat (sukun), contohnya 'Yatubu, lan yatuba, lam yatub'. Kedelapan: fi'il mudhari' mu'tall akhir yang juga tidak bersambung dengan dhamir bariz marfu'; rafa'-nya dengan dhammah, nashab-nya dengan fathah, dan jazm-nya dengan pembuangan huruf akhir, contohnya 'Yad'u, lan yad'uwa, lam yad'u'."
+    },
+    {
+      "title": "Tempat I'rab 7: Af'al Khamsah (Mudhari' dengan Dhamir Bariz Marfu')",
+      "titleArabic": "مَحَلُّ الْإِعْرَابِ التَّاسِعُ: الْأَفْعَالُ الْخَمْسَةُ",
+      "arabic": "التَّاسِعُ: الْفِعْلُ الْمُضَارِعُ الَّذِي اتَّصَلَ بِآخِرِهِ ضَمِيرٌ بَارِزٌ مَرْفُوعٌ، غَيْرَ نُونِ الْإِنَاثِ، وَهُوَ: يَفْعَلَانِ، وَتَفْعَلَانِ، وَيَفْعَلُونَ، وَتَفْعَلُونَ، وَتَفْعَلِينَ؛ فَرَفْعُهُ بِالنُّونِ، وَنَصْبُهُ وَجَزْمُهُ بِحَذْفِ النُّونِ، نَحْوُ: يَعْبُدُونَ وَلَنْ يَعْبُدُوا وَلَمْ يَعْبُدُوا.",
+      "translation": "Kesembilan: fi'il mudhari' yang akhirnya bersambung dengan dhamir bariz marfu' selain nun inats, yaitu yaf'alani, taf'alani, yaf'aluna, taf'aluna, dan taf'alina; rafa'-nya dengan tetapnya nun, sedangkan nashab dan jazm-nya dengan pembuangan nun, contohnya 'Ya'buduna, lan ya'budu, lam ya'budu'."
+    },
+    {
+      "title": "Pembagian I'rab dari Segi Penampakannya: Lafzhi, Taqdiri, & Mahalli",
+      "titleArabic": "تَقْسِيمُ الْإِعْرَابِ إِلَى لَفْظِيٍّ وَتَقْدِيرِيٍّ وَمَحَلِّيٍّ",
+      "arabic": "ثُمَّ الْإِعْرَابُ إِمَّا لَفْظِيٌّ إِنْ ظَهَرَ فِي اللَّفْظِ، نَحْوُ: جَاءَ زَيْدٌ؛ وَإِمَّا تَقْدِيرِيٌّ إِنْ لَمْ يَظْهَرْ فِي اللَّفْظِ لِتَعَذُّرٍ أَوِ اسْتِثْقَالٍ، نَحْوُ: يَخْشَى الْعَاصِي وَيَدْعُو الْمُؤْمِنُ؛ وَإِمَّا مَحَلِّيٌّ إِنْ كَانَ فِي مَبْنِيٍّ، نَحْوُ: آمَنْتُ بِمَنْ خَلَقَنِي.",
+      "translation": "Kemudian i'rab itu adakalanya lafzhi jika tampak pada pelafalan seperti 'Ja'a Zaydun'; adakalanya taqdiri jika tidak tampak pada pelafalan karena udzur (ta'adzdzur) atau berat (istitsqal) seperti 'Yakhsyal-'ashi' dan 'Yad'ul-mu'minu'; dan adakalanya mahalli jika terjadi pada kata yang mabni seperti 'Amantu biman khalaqani'."
+    },
+    {
+      "title": "Khatimah: Penutup Kitab",
+      "titleArabic": "الْخَاتِمَةُ",
+      "arabic": "هَذَا مَا تَيَسَّرَ لَنَا مِنْ جَمْعِ هَذِهِ الْمِائَةِ بِعَوْنِ اللَّهِ تَعَالَى وَحُسْنِ تَوْفِيقِهِ. وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ، وَالصَّلَاةُ وَالسَّلَامُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَآلِهِ وَصَحْبِهِ أَجْمَعِينَ.",
+      "translation": "Inilah yang dimudahkan bagi kami untuk menghimpun seratus perkara ini dengan pertolongan Allah Ta'ala dan sebaik-baik taufik-Nya. Segala puji bagi Allah Tuhan semesta alam, serta shalawat dan salam semoga senantiasa tercurah atas junjungan kita Nabi Muhammad beserta seluruh keluarga dan sahabat beliau."
+    }
+  ]
+}
