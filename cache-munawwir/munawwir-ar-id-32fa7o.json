@@ -1,0 +1,120 @@
+{
+  "arabic": "بَرَكَةٌ",
+  "arabicHarokat": "بَرَكَ - يَبْرُكُ - بُرُوكًا وَبَرَكَةً (بَرَكَةٌ ج بَرَكَاتٌ)",
+  "latin": "barakatun",
+  "wordType": "isim",
+  "wordTypeIndo": "Isim Mashdar / Isim Muannats (Bentuk tunggal dengan ta marbuthah, berakar dari Fi'il Tsulatsi Mujarrad Bab I)",
+  "root": "ب - ر - ك",
+  "wazan": "فَعَلَةٌ (akar fi'il: فَعَلَ - يَفْعُلُ)",
+  "page": "78",
+  "referenceBook": "Kamus Al-Munawwir Arab-Indonesia Terlengkap (Krapyak)",
+  "referenceUrl": "https://archive.org/details/kamus-al-munawwir-arab-indonesia",
+  "tashrifBrief": {
+    "madhi": "بَرَكَ",
+    "mudhari": "يَبْرُكُ",
+    "mashdar": "بَرْكًا / بُرُوكًا / بَرَكَةً",
+    "fail": "بَارِكٌ",
+    "maful": "مَبْرُوكٌ",
+    "amr": "اُبْرُكْ",
+    "nahyi": "لَا تَبْرُكْ"
+  },
+  "singular": "بَرَكَةٌ",
+  "plural": "بَرَكَاتٌ (Jamak Muannats Salim)",
+  "gender": "muannats",
+  "transitivity": "lazim",
+  "meanings": [
+    "Berkah, berkat, karunia, rahmat Tuhan",
+    "Bertambahnya kebaikan dan kemakmuran (النَّمَاءُ وَالزِّيَادَةُ)",
+    "Ketetapan serta kelanggengan kebaikan Ilahi dalam sesuatu (ثُبُوتُ الْخَيْرِ الْإِلَهِيِّ)",
+    "Kebahagiaan, keberuntungan, dan kelimpahan nikmat"
+  ],
+  "contextualMeanings": [
+    {
+      "preposition": "عَلَى (بَرَكَةِ اللهِ)",
+      "arabicPhrase": "عَلَى بَرَكَةِ اللَّهِ",
+      "meaning": "Dengan mengharap berkah Allah / Dengan menyebut nama dan pertolongan Allah (ungkapan memulai aktivitas)"
+    },
+    {
+      "preposition": "بِـ (بِبَرَكَةِ)",
+      "arabicPhrase": "بِبَرَكَةِ الْعُلَمَاءِ وَالصَّالِحِينَ",
+      "meaning": "Dengan lantaran berkah / sebab keberkahan para ulama dan orang-orang saleh"
+    },
+    {
+      "preposition": "فِي (dalam bentuk fi'il بَارَكَ)",
+      "arabicPhrase": "بَارَكَ اللَّهُ فِيهِ",
+      "meaning": "Semoga Allah melimpahkan keberkahan dan kebaikan yang terus bertambah di dalamnya"
+    },
+    {
+      "preposition": "لِـ / عَلَى (dalam bentuk fi'il بَارَكَ)",
+      "arabicPhrase": "بَارَكَ اللَّهُ لَكَ وَعَلَيْكَ",
+      "meaning": "Semoga Allah melimpahkan berkah bagimu dan mencurahkan kebaikan atasmu"
+    }
+  ],
+  "examples": [
+    {
+      "arabic": "وَلَوْ أَنَّ أَهْلَ الْقُرَى آمَنُوا وَاتَّقَوْا لَفَتَحْنَا عَلَيْهِمْ بَرَكَاتٍ مِنَ السَّمَاءِ وَالْأَرْضِ",
+      "latin": "Walau anna ahlal-qurā āmanū wattaqau lafataḥnā 'alaihim barakātin minas-samā'i wal-arḍi",
+      "translation": "Jikalau sekiranya penduduk negeri-negeri beriman dan bertakwa, pastilah Kami akan melimpahkan kepada mereka berkah dari langit dan bumi.",
+      "context": "Al-Qur'an Surah Al-A'raf ayat 96"
+    },
+    {
+      "arabic": "بَارَكَ اللَّهُ لَكَ، وَبَارَكَ عَلَيْكَ، وَجَمَعَ بَيْنَكُمَا فِي خَيْرٍ",
+      "latin": "Bārakallāhu laka, wa bāraka 'alaika, wa jama'a bainakumā fī khairin",
+      "translation": "Semoga Allah memberkahimu (dalam suka), dan memberkahi atasmu (dalam duka), serta mengumpulkan kalian berdua dalam kebaikan.",
+      "context": "Hadis Riwayat Abu Dawud dan Tirmidzi (Doa untuk pengantin)"
+    },
+    {
+      "arabic": "أَخْذُ الْعِلْمِ مِنْ أَفْوَاهِ الْمَشَايِخِ فِيهِ بَرَكَةٌ عَظِيمَةٌ",
+      "latin": "Akhdzul-'ilmi min afwāhil-masyāyikhi fīhi barakatun 'aẓīmatun",
+      "translation": "Mengambil ilmu secara langsung dari lisan para guru (masyayikh) terdapat keberkahan yang agung di dalamnya.",
+      "context": "Qaul Ulama / Tradisi Keilmuan Pesantren"
+    }
+  ],
+  "synonyms": [
+    "نِعْمَةٌ",
+    "يُمْنٌ",
+    "نَمَاءٌ",
+    "زِيَادَةٌ",
+    "فَضْلٌ",
+    "خَيْرٌ"
+  ],
+  "antonyms": [
+    "مَحْقٌ",
+    "شُؤْمٌ",
+    "نَقْصٌ",
+    "لَعْنَةٌ"
+  ],
+  "derivedWords": [
+    {
+      "arabic": "بَارَكَ - يُبَارِكُ",
+      "meaning": "Memberkahi, melimpahkan rahmat dan kebaikan",
+      "type": "Fi'il Tsulatsi Mazid (Wazan فَاعَلَ)"
+    },
+    {
+      "arabic": "تَبَارَكَ - يَتَبَارَكُ",
+      "meaning": "Maha Suci, Maha Tinggi, Maha Memberi Berkah (khusus untuk Allah)",
+      "type": "Fi'il Tsulatsi Mazid (Wazan تَفَاعَلَ)"
+    },
+    {
+      "arabic": "مُبَارَكٌ",
+      "meaning": "Yang diberkahi, yang membawa keberuntungan dan kebaikan",
+      "type": "Isim Maf'ul dari بَارَكَ"
+    },
+    {
+      "arabic": "مَبْرُوكٌ",
+      "meaning": "Yang diberkahi (sering digunakan dalam ungkapan ucapan selamat)",
+      "type": "Isim Maf'ul dari بَرَكَ"
+    },
+    {
+      "arabic": "بِرْكَةٌ (ج بِرَكٌ)",
+      "meaning": "Kolam, telaga, genangan air",
+      "type": "Isim (dengan harakat kasrah pada ba)"
+    },
+    {
+      "arabic": "بَرْكٌ",
+      "meaning": "Dada unta; sekumpulan unta yang sedang menderum",
+      "type": "Isim / Mashdar"
+    }
+  ],
+  "notes": "Secara etimologis dalam kaidah Shorof dan leksikografi Arab (sebagaimana dicatat dalam Kamus Al-Munawwir), akar kata بَرَكَ bermakna unta yang menderum (duduk) dan menetap di suatu tempat. Dari makna dasar 'menetap dan berdiam' itulah muncul makna بَرَكَةٌ, yakni menetapnya kebaikan Ilahi dalam sesuatu sehingga kebaikan tersebut terus tumbuh dan bertambah (النماء والزيادة). Santri perlu memperhatikan perbedaan harakat huruf Ba: بَرَكَةٌ (fathah ba) berarti berkah/karunia, sedangkan بِرْكَةٌ (kasrah ba) berarti kolam air (tempat air menetap/menggenang). Adapun kata تَبَارَكَ adalah fi'il jamid dalam al-Qur'an yang hanya dinisbatkan kepada Allah SWT untuk menunjukkan kesempurnaan dzat dan limpahan kebaikan-Nya."
+}
