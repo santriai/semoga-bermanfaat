@@ -1,0 +1,58 @@
+{
+  "status": "cannot_fulfill_verbatim_full_text",
+  "note": "Teks matan Arab lengkap beserta harakat akurat dan terjemahan penuh kata demi kata dari keseluruhan kitab 'Al-Fusul fi Sirat al-Rasul' karya Ibnu Katsir tidak dapat disajikan secara utuh. Selain karena volume kitab ini cukup tebal (ratusan halaman dalam edisi cetak sehingga melampaui batas panjang keluaran), merekonstruksi teks matan asli secara penuh tanpa naskah sumber langsung berisiko menimbulkan ketidaksesuaian redaksi dengan matan autentik. Sebagai gantinya, berikut disajikan metadata kitab beserta kerangka struktur bab utama (fashl) sesuai sistematika asli Ibnu Katsir, dengan kolom 'arabic' dikosongkan agar tidak menyajikan teks yang bukan matan asli.",
+  "profile": {
+    "name": "Al-Fusul fi Sirat al-Rasul",
+    "originalTitle": "الفُصُولُ فِي اخْتِصَارِ سِيرَةِ الرَّسُولِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+    "author": "Al-Hafizh Imaduddin Abu al-Fida' Isma'il bin Umar bin Katsir al-Qurasyi ad-Dimasyqi asy-Syafi'i",
+    "field": "Sirah Nabawiyah dan Tarikh Islam",
+    "about": "Al-Fusul fi Ikhtisar Sirat ar-Rasul (dikenal luas sebagai Al-Fusul fi Sirat ar-Rasul) adalah kitab ringkasan sejarah kehidupan Nabi Muhammad shallallahu 'alaihi wa sallam yang disusun oleh Imam Ibnu Katsir. Kitab ini merupakan sari pati dari pembahasan Sirah Nabawiyah dalam karya monumentalnya, Al-Bidayah wa an-Nihayah, yang disusun dengan bahasa padat, sistematis, dan berpegang pada riwayat-riwayat shahih serta muktabar. Pembahasannya mencakup nasab, kelahiran, fase kenabian di Makkah, kronologi peristiwa tahun demi tahun di Madinah hingga wafatnya Nabi, serta bagian khusus mengenai sifat-sifat, mukjizat, keistimewaan, dan keluarga beliau. Kitab ini banyak dikaji sebagai rujukan dasar hingga menengah dalam disiplin Sirah Nabawiyah.",
+    "authorBorn": "Sekitar tahun 700 atau 701 H (1300/1301 M) di desa Majdal, wilayah Bushra, Suriah",
+    "authorDied": "Tahun 774 H (1373 M) di Damaskus, Suriah",
+    "authorCentury": "Abad ke-8 Hijriah / Abad ke-14 Masehi"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah Pengarang",
+      "titleArabic": "مُقَدِّمَةُ المُؤَلِّفِ",
+      "arabic": "",
+      "translation": "Ringkasan isi bab: Pembukaan kitab dengan pujian kepada Allah, shalawat kepada Nabi Muhammad, serta penjelasan tujuan penulisan kitab sebagai ringkasan sirah Nabi yang jelas dan sistematis."
+    },
+    {
+      "title": "Pasal tentang Nasab dan Kelahiran Nabi",
+      "titleArabic": "فَصْلٌ فِي نَسَبِهِ وَمَوْلِدِهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+      "arabic": "",
+      "translation": "Ringkasan isi bab: Penjelasan silsilah keturunan mulia Nabi Muhammad hingga Adnan, peristiwa Tahun Gajah, kelahiran beliau di Makkah, serta masa penyusuan dan pengasuhan di Bani Sa'd."
+    },
+    {
+      "title": "Pasal tentang Kehidupan Sebelum Kenabian",
+      "titleArabic": "فَصْلٌ فِي نَشْأَتِهِ قَبْلَ البَعْثَةِ",
+      "arabic": "",
+      "translation": "Ringkasan isi bab: Masa kecil dalam asuhan Abdul Muthalib dan Abu Thalib, perjalanan dagang ke Syam, keikutsertaan dalam Hilf al-Fudhul, pernikahan dengan Khadijah binti Khuwailid, dan peletakan Hajar Aswad."
+    },
+    {
+      "title": "Pasal tentang Permulaan Wahyu dan Dakwah di Makkah",
+      "titleArabic": "فَصْلٌ فِي مَبْعَثِهِ وَدَعْوَتِهِ بِمَكَّةَ",
+      "arabic": "",
+      "translation": "Ringkasan isi bab: Turunnya wahyu pertama di Gua Hira, masa dakwah secara sembunyi-sembunyi dan terang-terangan, serta ujian yang dialami kaum muslimin di Makkah."
+    },
+    {
+      "title": "Pasal tentang Hijrah ke Habasyah, Tahun Kesedihan, Isra Mi'raj, dan Bai'at Aqabah",
+      "titleArabic": "فَصْلٌ فِي الهِجْرَةِ إِلَى الحَبَشَةِ وَالإِسْرَاءِ وَالمِعْرَاجِ وَبَيْعَةِ العَقَبَةِ",
+      "arabic": "",
+      "translation": "Ringkasan isi bab: Hijrah para sahabat ke Habasyah, pemboikotan Quraisy, wafatnya Abu Thalib dan Khadijah, dakwah ke Thaif, peristiwa Isra dan Mi'raj, serta Bai'at Aqabah pertama dan kedua."
+    },
+    {
+      "title": "Pasal tentang Hijrah ke Madinah dan Peristiwa Tahun 1-11 Hijriah",
+      "titleArabic": "فَصْلٌ فِي الهِجْرَةِ إِلَى المَدِينَةِ وَحَوَادِثِ السَّنَوَاتِ مِنَ الأُولَى إِلَى الحَادِيَةَ عَشْرَةَ",
+      "arabic": "",
+      "translation": "Ringkasan isi bab: Kronologi tahun demi tahun sejak hijrah ke Madinah, pembangunan masjid, persaudaraan Muhajirin dan Anshar, berbagai peperangan besar (Badar, Uhud, Khandaq, Khaibar, Fathu Makkah, Hunain, Tabuk), perjanjian Hudaibiyah, Haji Wada', hingga wafatnya Rasulullah."
+    },
+    {
+      "title": "Pasal tentang Syama'il, Mukjizat, Keistimewaan, dan Keluarga Nabi",
+      "titleArabic": "فُصُولٌ فِي شَمَائِلِهِ وَمُعْجِزَاتِهِ وَخَصَائِصِهِ وَأَهْلِ بَيْتِهِ",
+      "arabic": "",
+      "translation": "Ringkasan isi bab: Uraian mengenai ciri fisik dan akhlak mulia Nabi, mukjizat-mukjizat yang diberikan kepada beliau, kekhususan syariat beliau dibanding nabi lain, serta daftar istri, putra-putri, paman, sahabat dekat, penulis wahyu, dan perlengkapan beliau."
+    }
+  ]
+}
