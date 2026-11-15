@@ -1,0 +1,626 @@
+{
+  "profile": {
+    "name": "Sharh Manazil al-Sa'irin",
+    "originalTitle": "شَرْحُ مَنَازِلِ السَّائِرِينَ",
+    "author": "Al-'Allamah Kamal al-Din 'Abdurrazzaq ibn Abi al-Ghana'im al-Qashani",
+    "field": "Tasawuf dan Suluk (Ilmu Akhlak & Irfan)",
+    "about": "Kitab Sharh Manazil al-Sa'irin merupakan syarah klasik yang sangat otoritatif atas matan tasawuf terkenal karya Syaikh al-Islam Khwaja 'Abdullah al-Anshari al-Harawi. Dalam karyanya ini, al-Qashani menguraikan seratus stasiun spiritual (manazil) perjalanan rohani seorang salik menuju Allah yang dibagi ke dalam sepuluh bagian (aqsam) utama. Al-Qashani memadukan analisis psikologi spiritual al-Anshari dengan pendekatan irfan dan filsafat tasawuf mazhab Akbarian secara sistematis dan mendalam. Setiap bab menjelaskan hakikat maqam, sebab-sebab pencapaiannya, serta tiga tingkatan derajat penempuh jalan spiritual (orang awam, khawash, dan khawash al-khawash). Mengingat luasnya isi manuskrip asli yang berjilid-jilid, penyajian berikut memuat struktur lengkap seluruh 100 bab standar beserta Muqaddimah dan Khatimah dalam bentuk inti matan dan intisari syarah al-Qashani.",
+    "authorBorn": "Abad ke-7 H di Qashan (Kashan), Persia (tahun lahir pastinya tidak tercatat)",
+    "authorDied": "730 H / 1330 M (sebagian riwayat menyebut 736 H / 1335 M)",
+    "authorCentury": "Abad ke-7 sampai ke-8 Hijriah (Abad ke-13 sampai ke-14 Masehi)"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah (Pendahuluan Penulis)",
+      "titleArabic": "الْمُقَدِّمَةُ",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي جَعَلَ مَنَازِلَ السَّائِرِينَ مَدَارِجَ الْوُصُولِ إِلَى حَضْرَتِهِ، وَالصَّلَاةُ عَلَى سَيِّدِنَا مُحَمَّدٍ الَّذِي هَدَى السَّالِكِينَ إِلَى سَبِيلِ مَعْرِفَتِهِ، أَمَّا بَعْدُ فَإِنَّ كِتَابَ مَنَازِلِ السَّائِرِينَ يَتَضَمَّنُ عَشَرَةَ أَقْسَامٍ فِي مِائَةِ بَابٍ.",
+      "translation": "Segala puji bagi Allah yang menjadikan stasiun-stasiun para penempuh jalan spiritual sebagai tangga menuju hadirat-Nya. Shalawat atas Nabi Muhammad yang membimbing para salik menuju jalan makrifat-Nya. Adapun kitab Manazil al-Sa'irin tersusun atas sepuluh bagian dalam seratus bab."
+    },
+    {
+      "title": "1. Bab Yaqazah (Kesadaran Spiritual) - Bagian Bidayat",
+      "titleArabic": "١. بَابُ الْيَقَظَةِ",
+      "arabic": "الْيَقَظَةُ هِيَ الْقَوْمَةُ لِلَّهِ الْمَذْكُورَةُ فِي قَوْلِهِ تَعَالَى: قُلْ إِنَّمَا أَعِظُكُمْ بِوَاحِدَةٍ أَنْ تَقُومُوا لِلَّهِ، وَهِيَ أَوَّلُ تَنَبُّهِ الْقَلْبِ مِنْ سِنَةِ الْغَفْلَةِ.",
+      "translation": "Yaqazah adalah bangkitnya jiwa karena Allah sebagaimana firman-Nya agar berdiri menghadap Allah; ia merupakan awal kesadaran hati dari tidur kelalaian."
+    },
+    {
+      "title": "2. Bab Tawbah (Tobat)",
+      "titleArabic": "٢. بَابُ التَّوْبَةِ",
+      "arabic": "التَّوْبَةُ رُجُوعُ الْعَبْدِ إِلَى اللَّهِ بِقَلْبِهِ وَجَوَارِحِهِ بَعْدَ إِدْرَاكِ قُبْحِ الذَّنْبِ وَالنَّدَمِ عَلَيْهِ وَالْعَزْمِ عَلَى التَّرْكِ.",
+      "translation": "Tobat adalah kembalinya seorang hamba kepada Allah dengan hati dan anggota tubuhnya setelah menyadari buruknya dosa, menyesalinya, dan bertekad meninggalkannya."
+    },
+    {
+      "title": "3. Bab Muhasabah (Introspeksi Diri)",
+      "titleArabic": "٣. بَابُ الْمُحَاسَبَةِ",
+      "arabic": "الْمُحَاسَبَةُ مُقَايَسَةُ الْعَبْدِ بَيْنَ نِعَمِ اللَّهِ عَلَيْهِ وَبَيْنَ جِنَايَتِهِ، لِيَعْرِفَ تَقْصِيرَهُ فِي شُكْرِ الْمُنْعِمِ.",
+      "translation": "Muhasabah adalah perbandingan yang dilakukan hamba antara nikmat Allah kepadanya dan pelanggarannya, agar ia menyadari kelalaiannya dalam mensyukuri Sang Pemberi nikmat."
+    },
+    {
+      "title": "4. Bab Inabah (Kembali Mengadu kepada Allah)",
+      "titleArabic": "٤. بَابُ الْإِنَابَةِ",
+      "arabic": "الْإِنَابَةُ إِقْبَالُ الْقَلْبِ عَلَى اللَّهِ تَعَالَى بِالْكُلِّيَّةِ مَعَ الْمُرَاقَبَةِ الدَّائِمَةِ وَالإِخْلَاصِ فِي التَّوَجُّهِ.",
+      "translation": "Inabah adalah menghadapnya hati secara menyeluruh kepada Allah Ta'ala disertai pengawasan diri yang terus-menerus dan keikhlasan dalam mengarah kepada-Nya."
+    },
+    {
+      "title": "5. Bab Tafakkur (Perenungan Mendalam)",
+      "titleArabic": "٥. بَابُ التَّفَكُّرِ",
+      "arabic": "التَّفَكُّرُ تَلَمُّسُ الْبَصِيرَةِ فِي آيَاتِ اللَّهِ وَحِكْمَتِهِ لِاسْتِدْرَاكِ الْبُغْيَةِ وَالْوُصُولِ إِلَى الْحَقِيقَةِ.",
+      "translation": "Tafakkur adalah pencarian mata batin terhadap tanda-tanda kekuasaan dan hikmah Allah guna meraih tujuan hakiki dan sampai pada kebenaran."
+    },
+    {
+      "title": "6. Bab Tadhakkur (Mengingat Kembali Nasihat Ilahi)",
+      "titleArabic": "٦. بَابُ التَّذَكُّرِ",
+      "arabic": "التَّذَكُّرُ فَوْقَ التَّفَكُّرِ، لِأَنَّ التَّفَكُّرَ طَلَبٌ وَالتَّذَكُّرَ وُجُودٌ وَتَيَقُّظٌ بِشُهُودِ الْمَذْكُورِ.",
+      "translation": "Tadhakkur berada di atas tafakkur, sebab tafakkur adalah proses mencari sedangkan tadhakkur adalah penemuan dan kesadaran melalui penyaksian terhadap Dzat yang diingat."
+    },
+    {
+      "title": "7. Bab I'tisham (Berpegang Teguh kepada Allah)",
+      "titleArabic": "٧. بَابُ الِاعْتِصَامِ",
+      "arabic": "الِاعْتِصَامُ التَّمَسُّكُ بِحَبْلِ اللَّهِ الْمَتِينِ وَالتَّحَصُّنُ بِهِ مِنَ الْهَوَى وَالْبِدْعَةِ وَالنَّفْسِ الْأَمَّارَةِ.",
+      "translation": "I'tisham adalah berpegang teguh pada tali Allah yang kokoh serta berlindung kepada-Nya dari hawa nafsu, bid'ah, dan nafsu yang menyuruh pada keburukan."
+    },
+    {
+      "title": "8. Bab Firar (Berlari Menuju Allah)",
+      "titleArabic": "٨. بَابُ الْفِرَارِ",
+      "arabic": "الْفِرَارُ الْهَرَبُ مِمَّا سِوَى اللَّهِ إِلَى اللَّهِ تَعَالَى، وَالتَّخَلُّصُ مِنْ عَوَائِقِ الدُّنْيَا وَرُسُومِ النَّفْسِ.",
+      "translation": "Firar adalah berlari menjauh dari segala sesuatu selain Allah menuju Allah Ta'ala, serta melepaskan diri dari belenggu dunia dan jejak-jejak keakuan."
+    },
+    {
+      "title": "9. Bab Riyadhah (Latihan Jiwa)",
+      "titleArabic": "٩. بَابُ الرِّيَاضَةِ",
+      "arabic": "الرِّيَاضَةُ تَمْرِينُ النَّفْسِ عَلَى الْآدَابِ الشَّرْعِيَّةِ وَقَمْعُ شَهَوَاتِهَا لِتَسْلَسَ قِيَادُهَا لِلرُّوحِ.",
+      "translation": "Riyadhah adalah melatih jiwa untuk membiasakan adab syariat serta menundukkan syahwatnya agar mudah dikendalikan oleh ruh."
+    },
+    {
+      "title": "10. Bab Sama' (Mendengar dengan Mata Batin)",
+      "titleArabic": "١٠. بَابُ السَّمَاعِ",
+      "arabic": "السَّمَاعُ تَنْبِيهُ الْقَلْبِ عِنْدَ سَمَاعِ الْخِطَابِ الْإِلَهِيِّ أَوِ الْمَوْعِظَةِ بِانْتِفَاءِ الْغَفْلَةِ وَحُضُورِ الْفَهْمِ.",
+      "translation": "Sama' adalah tergugahnya hati ketika mendengar seruan Ilahi atau nasihat dengan hilangnya kelalaian dan hadirnya pemahaman batin."
+    },
+    {
+      "title": "11. Bab Huzn (Kesedihan Spiritual) - Bagian Abwab",
+      "titleArabic": "١١. بَابُ الْحُزْنِ",
+      "arabic": "الْحُزْنُ تَوَجُّعٌ لِفَائِتٍ مِنَ الْخَيْرِ أَوْ تَأَسُّفٌ عَلَى مُمْتَنِعٍ، وَهُوَ سَوْطُ السَّالِكِ فِي سَيْرِهِ.",
+      "translation": "Huzn adalah rasa pedih atas kebaikan yang terlewat atau penyesalan atas kedekatan yang terhalang; ia menjadi cambuk bagi salik dalam perjalanannya."
+    },
+    {
+      "title": "12. Bab Khawf (Rasa Takut kepada Allah)",
+      "titleArabic": "١٢. بَابُ الْخَوْفِ",
+      "arabic": "الْخَوْفُ انْخِلَاعُ الْقَلْبِ عَنْ طُمَأْنِينَتِهِ بِمُطَالَعَةِ الْوَعِيدِ وَهَيْبَةِ الْجَلَالِ الْإِلَهِيِّ.",
+      "translation": "Khawf adalah terlepasnya ketenangan semu hati akibat merenungkan ancaman Allah dan keagungan wibawa Ilahi."
+    },
+    {
+      "title": "13. Bab Ishfaq (Kelembutan Takut yang Penuh Kasih)",
+      "titleArabic": "١٣. بَابُ الْإِشْفَاقِ",
+      "arabic": "الْإِشْفَاقُ دَوَامُ الْحَذَرِ مَعَ الرَّحْمَةِ، وَهُوَ خَوْفٌ مَشُوبٌ بِرِقَّةٍ عَلَى النَّفْسِ أَنْ تَزِلَّ.",
+      "translation": "Ishfaq adalah kehati-hatian yang terus-menerus disertai kasih sayang, yakni rasa takut yang bercampur kelembutan agar jiwa tidak tergelincir."
+    },
+    {
+      "title": "14. Bab Khushu' (Ketundukan Hati)",
+      "titleArabic": "١٤. بَابُ الْخُشُوعِ",
+      "arabic": "الْخُشُوعُ خُمُودُ النَّفْسِ وَسُكُونُهَا لِتَعْظِيمِ الْحَقِّ وَتَوَاضُعُهَا تَحْتَ سُلْطَانِ الْهَيْبَةِ.",
+      "translation": "Khushu' adalah meredupnya gejolak nafsu dan tenangnya jiwa karena mengagungkan Al-Haqq serta tunduk di bawah kekuasaan kehebatan-Nya."
+    },
+    {
+      "title": "15. Bab Ikhbat (Kerendahan Hati yang Tenang)",
+      "titleArabic": "١٥. بَابُ الْإِخْبَاتِ",
+      "arabic": "الْإِخْبَاتُ الِاطْمِئْنَانُ إِلَى الْحَقِّ مَعَ التَّوَاضُعِ وَالِاسْتِسْلَامِ لِحُكْمِهِ دُونَ تَرَدُّدٍ.",
+      "translation": "Ikhbat adalah ketenteraman hati kepada kebenaran disertai kerendahan hati dan kepasrahan penuh terhadap hukum-Nya tanpa keraguan."
+    },
+    {
+      "title": "16. Bab Zuhd (Zuhud)",
+      "titleArabic": "١٦. بَابُ الزُّهْدِ",
+      "arabic": "الزُّهْدُ إِسْقَاطُ الرَّغْبَةِ عَنِ الشَّيْءِ بِالْكُلِّيَّةِ تَحْقِيرًا لِقَدْرِهِ وَاسْتِغْنَاءً بِاللَّهِ عَنْهُ.",
+      "translation": "Zuhud adalah melepaskan keinginan terhadap sesuatu secara total karena memandang rendah nilainya dan merasa cukup dengan Allah semata."
+    },
+    {
+      "title": "17. Bab Wara' (Kehati-hatian dari Syubhat)",
+      "titleArabic": "١٧. بَابُ الْوَرَعِ",
+      "arabic": "الْوَرَعُ تَوَقِّي الشُّبُهَاتِ وَتَرْكُ مَا لَا بَأْسَ بِهِ حَذَرًا مِمَّا بِهِ بَأْسٌ صِيَانَةً لِلدِّينِ.",
+      "translation": "Wara' adalah menjaga diri dari perkara syubhat dan meninggalkan hal yang mubah karena khawatir terjerumus pada hal terlarang demi menjaga kemurnian agama."
+    },
+    {
+      "title": "18. Bab Tabattul (Memutus Ketergantungan Selain Allah)",
+      "titleArabic": "١٨. بَابُ التَّبَتُّلِ",
+      "arabic": "التَّبَتُّلُ الِانْقِطَاعُ إِلَى اللَّهِ تَعَالَى بِالْقَلْبِ عَنْ كُلِّ عَلَاقَةٍ دُنْيَوِيَّةٍ وَنَفْسَانِيَّةٍ.",
+      "translation": "Tabattul adalah memutus ikatan hati dari segala ketergantungan duniawi dan nafsu untuk mengabdikan diri sepenuhnya kepada Allah Ta'ala."
+    },
+    {
+      "title": "19. Bab Raja' (Harapan kepada Rahmat Allah)",
+      "titleArabic": "١٩. بَابُ الرَّجَاءِ",
+      "arabic": "الرَّجَاءُ تَعَلُّقُ الْقَلْبِ بِمَحْبُوبٍ مُسْتَقْبَلٍ مِنْ فَضْلِ اللَّهِ وَرَحْمَتِهِ مَعَ بَذْلِ السَّبَبِ.",
+      "translation": "Raja' adalah bergantungnya hati pada sesuatu yang dicintai di masa depan berupa karunia dan rahmat Allah disertai usaha melaksanakan sebabnya."
+    },
+    {
+      "title": "20. Bab Raghbah (Keinginan Kuat Meraih Kedekatan)",
+      "titleArabic": "٢٠. بَابُ الرَّغْبَةِ",
+      "arabic": "الرَّغْبَةُ شَرَهُ الرُّوحِ إِلَى نَيْلِ الْقُرْبِ وَنُفُوذُ الْهَمَّةِ فِي طَلَبِ مَا عِنْدَ اللَّهِ.",
+      "translation": "Raghbah adalah antusiasme ruh yang mendalam untuk meraih kedekatan serta tekad kuat dalam mengejar apa yang ada di sisi Allah."
+    },
+    {
+      "title": "21. Bab Ri'ayah (Penjagaan Amanah & Amal) - Bagian Mu'amalat",
+      "titleArabic": "٢١. بَابُ الرِّعَايَةِ",
+      "arabic": "الرِّعَايَةُ حِفْظُ الْأَعْمَالِ وَالْأَحْوَالِ وَصِيَانَتُهَا عَنِ الْآفَاتِ الَّتِي تُبْطِلُهَا أَوْ تُنْقِصُهَا.",
+      "translation": "Ri'ayah adalah menjaga amal perbuatan dan keadaan batin serta memeliharanya dari penyakit-penyakit hati yang dapat merusak atau menguranginya."
+    },
+    {
+      "title": "22. Bab Muraqabah (Kesadaran Diawasi Allah)",
+      "titleArabic": "٢٢. بَابُ الْمُرَاقَبَةِ",
+      "arabic": "الْمُرَاقَبَةُ دَوَامُ عِلْمِ الْعَبْدِ بِاطِّلَاعِ الْحَقِّ عَلَى ظَاهِرِهِ وَبَاطِنِهِ فِي كُلِّ لَحْظَةٍ.",
+      "translation": "Muraqabah adalah kesadaran hamba secara terus-menerus bahwa Allah Yang Maha Benar mengawasi lahir dan batinnya di setiap detik."
+    },
+    {
+      "title": "23. Bab Hurmah (Menjaga Kehormatan Ketentuan Ilahi)",
+      "titleArabic": "٢٣. بَابُ الْحُرْمَةِ",
+      "arabic": "الْحُرْمَةُ التَّوَقُّفُ عِنْدَ حُدُودِ اللَّهِ تَعْظِيمًا لِأَمْرِهِ وَهَيْبَةً مِنْ مُجَاوَزَتِهَا.",
+      "translation": "Hurmah adalah berhenti dengan penuh takzim di batas-batas hukum Allah demi mengagungkan perintah-Nya dan segan melanggarnya."
+    },
+    {
+      "title": "24. Bab Ikhlas (Ketulusan Murni)",
+      "titleArabic": "٢٤. بَابُ الْإِخْلَاصِ",
+      "arabic": "الْإِخْلَاصُ تَصْفِيَةُ الْعَمَلِ مِنْ كُلِّ شَوْبٍ وَرِيَاءٍ وَقَصْدٍ لِغَيْرِ وَجْهِ اللَّهِ تَعَالَى.",
+      "translation": "Ikhlas adalah memurnikan amal dari segala campuran, pamer (riya), serta tujuan kepada selain Allah Ta'ala."
+    },
+    {
+      "title": "25. Bab Tahdhib (Penyucian Akhlak)",
+      "titleArabic": "٢٥. بَابُ التَّهْذِيبِ",
+      "arabic": "التَّهْذِيبُ تَنْقِيَةُ النَّفْسِ مِنَ الرَّذَائِلِ وَتَجْلِيَتُهَا بِالْفَضَائِلِ حَتَّى تَصْلُحَ لِمُجَاوَرَةِ الْحَقِّ.",
+      "translation": "Tahdhib adalah membersihkan jiwa dari sifat-sifat tercela dan menghiasinya dengan keutamaan agar layak berdampingan dengan hadirat Al-Haqq."
+    },
+    {
+      "title": "26. Bab Istiqamah (Keteguhan di Jalan Kebenaran)",
+      "titleArabic": "٢٦. بَابُ الِاسْتِقَامَةِ",
+      "arabic": "الِاسْتِقَامَةُ لُزُومُ الصِّرَاطِ الْمُسْتَقِيمِ مِنْ غَيْرِ مَيْلٍ إِلَى إِفْرَاطٍ وَلَا تَفْرِيطٍ فِي الْحَالِ وَالْمَقَالِ.",
+      "translation": "Istiqamah adalah konsisten meniti jalan lurus tanpa condong kepada sikap berlebihan maupun meremehkan dalam ucapan dan keadaan."
+    },
+    {
+      "title": "27. Bab Tawakkul (Berserah Diri kepada Allah)",
+      "titleArabic": "٢٧. بَابُ التَّوَكُّلِ",
+      "arabic": "التَّوَكُّلُ تَكِلَةُ الْأَمْرِ كُلِّهِ إِلَى اللَّهِ وَالثِّقَةُ بِضَمَانِهِ مَعَ السَّعْيِ فِي أَسْبَابِ الطَّاعَةِ.",
+      "translation": "Tawakkul adalah menyerahkan seluruh urusan kepada Allah dan percaya penuh pada jaminan-Nya sambil tetap menjalankan sebab ketaatan."
+    },
+    {
+      "title": "28. Bab Tafwid (Penyerahan Kehendak)",
+      "titleArabic": "٢٨. بَابُ التَّفْوِيضِ",
+      "arabic": "التَّفْوِيضُ أَلَّا يَرَى الْعَبْدُ لِنَفْسِهِ اخْتِيَارًا وَلَا قُوَّةً، بَلْ يُسَلِّمُ التَّدْبِيرَ لِلْمُدَبِّرِ الْحَقِّ.",
+      "translation": "Tafwid adalah keadaan hamba yang tidak lagi memandang dirinya memiliki pilihan atau daya, melainkan menyerahkan pengaturan kepada Sang Pengatur Sejati."
+    },
+    {
+      "title": "29. Bab Thiqah (Kepercayaan Penuh pada Janji Allah)",
+      "titleArabic": "٢٩. بَابُ الثِّقَةِ",
+      "arabic": "الثِّقَةُ سُكُونُ الْقَلْبِ إِلَى وَعْدِ اللَّهِ وَطُمَأْنِينَتُهُ بِأَنَّ مَا قَضَاهُ اللَّهُ هُوَ الْخَيْرُ الْمَحْضُ.",
+      "translation": "Thiqah adalah tenangnya hati terhadap janji Allah serta keyakinan mendalam bahwa segala ketetapan Allah adalah kebaikan murni."
+    },
+    {
+      "title": "30. Bab Taslim (Kepasrahan Total)",
+      "titleArabic": "٣٠. بَابُ التَّسْلِيمِ",
+      "arabic": "التَّسْلِيمُ الِانْقِيَادُ لِحُكْمِ اللَّهِ الْقَدَرِيِّ وَالشَّرْعِيِّ بِانْشِرَاحِ الصَّدْرِ وَتَرْكِ الِاعْتِرَاضِ.",
+      "translation": "Taslim adalah ketundukan total terhadap ketentuan takdir maupun syariat Allah dengan kelapangan dada tanpa sedikit pun protes."
+    },
+    {
+      "title": "31. Bab Sabr (Kesabaran) - Bagian Akhlaq",
+      "titleArabic": "٣١. بَابُ الصَّبْرِ",
+      "arabic": "الصَّبْرُ حَبْسُ النَّفْسِ عَنِ الْجَزَعِ وَالشَّكْوَى لِغَيْرِ اللَّهِ عِنْدَ مُلِمَّاتِ الْأَقْدَارِ وَتَكَالِيفِ الطَّاعَةِ.",
+      "translation": "Sabr adalah menahan jiwa dari keluh kesah dan mengadu kepada selain Allah ketika menghadapi ujian takdir serta beban ketaatan."
+    },
+    {
+      "title": "32. Bab Rida (Kerelaan Hati)",
+      "titleArabic": "٣٢. بَابُ الرِّضَا",
+      "arabic": "الرِّضَا سُرُورُ الْقَلْبِ بِمُرِّ الْقَضَاءِ وَانْتِفَاءُ الْكَرَاهَةِ لِمَا يَجْرِي بِهِ الْحُكْمُ الْإِلَهِيُّ.",
+      "translation": "Rida adalah bergembiranya hati menerima pahitnya ketetapan Allah dan hilangnya rasa benci terhadap segala yang berlaku menurut hukum Ilahi."
+    },
+    {
+      "title": "33. Bab Shukr (Syukur)",
+      "titleArabic": "٣٣. بَابُ الشُّكْرِ",
+      "arabic": "الشُّكْرُ مَعْرِفَةُ النِّعْمَةِ مِنَ الْمُنْعِمِ وَالِاعْتِرَافُ بِهَا قَلْبًا وَلِسَانًا وَصَرْفُهَا فِي طَاعَتِهِ.",
+      "translation": "Shukr adalah mengenali nikmat berasal dari Sang Pemberi nikmat, mengakuinya dengan hati dan lisan, serta menggunakannya dalam ketaatan kepada-Nya."
+    },
+    {
+      "title": "34. Bab Haya' (Rasa Malu kepada Allah)",
+      "titleArabic": "٣٤. بَابُ الْحَيَاءِ",
+      "arabic": "الْحَيَاءُ انْقِبَاضُ النَّفْسِ عَنِ الْقَبَائِحِ إِجْلَالًا لِنَظَرِ اللَّهِ وَخَوْفًا مِنْ سُقُوطِ الْمَنْزِلَةِ عِنْدَهُ.",
+      "translation": "Haya' adalah mengerutnya jiwa menjauhi keburukan karena mengagungkan pandangan Allah dan takut jatuh kedudukannya di sisi-Nya."
+    },
+    {
+      "title": "35. Bab Sidq (Kejujuran Mutlak)",
+      "titleArabic": "٣٥. بَابُ الصِّدْقِ",
+      "arabic": "الصِّدْقُ اسْتِوَاءُ السِّرِّ وَالْعَلَانِيَةِ وَمُطَابَقَةُ الْقَوْلِ لِلْفِعْلِ وَالنِّيَّةِ فِي طَلَبِ الْحَقِّ.",
+      "translation": "Sidq adalah keselarasan antara batin dan lahir serta kesesuaian antara ucapan, perbuatan, dan niat dalam mencari kebenaran."
+    },
+    {
+      "title": "36. Bab Ithar (Mendahulukan Orang Lain)",
+      "titleArabic": "٣٦. بَابُ الْإِيثَارِ",
+      "arabic": "الْإِيثَارُ تَقْدِيمُ حَظِّ الْغَيْرِ عَلَى حَظِّ النَّفْسِ فِي أُمُورِ الدُّنْيَا طَلَبًا لِمَرْضَاةِ اللَّهِ.",
+      "translation": "Ithar adalah mendahulukan kepentingan orang lain di atas kepentingan diri sendiri dalam urusan duniawi demi menggapai ridha Allah."
+    },
+    {
+      "title": "37. Bab Khuluq (Budi Pekerti Luhur)",
+      "titleArabic": "٣٧. بَابُ الْخُلُقِ",
+      "arabic": "الْخُلُقُ سَجِيَّةٌ رَاسِخَةٌ فِي النَّفْسِ تَصْدُرُ عَنْهَا الْأَفْعَالُ الْحَسَنَةُ بِسُهُولَةٍ وَسَمَاحَةٍ مَعَ الْخَلْقِ.",
+      "translation": "Khuluq adalah watak yang tertanam kokoh dalam jiwa sehingga melahirkan perbuatan baik secara mudah dan lapang terhadap sesama makhluk."
+    },
+    {
+      "title": "38. Bab Tawadu' (Kerendahan Hati)",
+      "titleArabic": "٣٨. بَابُ التَّوَاضُعِ",
+      "arabic": "التَّوَاضُعُ خَفْضُ الْجَنَاحِ لِلْخَلْقِ وَانْكِسَارُ النَّفْسِ عَنْ رُؤْيَةِ الْمَزِيَّةِ عَلَى أَحَدٍ مِنَ الْعِبَادِ.",
+      "translation": "Tawadu' adalah merendahkan diri terhadap sesama dan mematahkan keakuan dari perasaan lebih unggul atas hamba Allah lainnya."
+    },
+    {
+      "title": "39. Bab Futuwwah (Ksatria Spiritual)",
+      "titleArabic": "٣٩. بَابُ الْفُتُوَّةِ",
+      "arabic": "الْفُتُوَّةُ أَلَّا تَرَى لِنَفْسِكَ فَضْلًا عَلَى غَيْرِكَ وَأَنْ تُنْصِفَ النَّاسَ وَلَا تَطْلُبَ مِنْهُمُ الْإِنْصَافَ.",
+      "translation": "Futuwwah adalah tidak memandang dirimu lebih utama dari orang lain, serta bersikap adil kepada manusia tanpa menuntut keadilan dari mereka."
+    },
+    {
+      "title": "40. Bab Inbisat (Keluasan & Kelapangan Hati)",
+      "titleArabic": "٤٠. بَابُ الِانْبِسَاطِ",
+      "arabic": "الِانْبِسَاطُ زَوَالُ الْكُلْفَةِ وَانْشِرَاحُ الصَّدْرِ بِالْأُنْسِ بِاللَّهِ مَعَ حِفْظِ الْأَدَبِ الشَّرْعِيِّ.",
+      "translation": "Inbisat adalah hilangnya kekakuan dan lapangnya dada karena keakraban dengan Allah sambil tetap memelihara adab syariat."
+    },
+    {
+      "title": "41. Bab Qasd (Niat Tepat Sasaran) - Bagian Usul",
+      "titleArabic": "٤١. بَابُ الْقَصْدِ",
+      "arabic": "الْقَصْدُ صِحَّةُ التَّوَجُّهِ إِلَى اللَّهِ وَالِاقْتِصَادُ فِي السَّيْرِ مِنْ غَيْرِ تَشَتُّتٍ وَلَا انْحِرَافٍ.",
+      "translation": "Qasd adalah tepatnya arah tujuan kepada Allah dan keseimbangan dalam berjalan tanpa terpecah perhatian ataupun menyimpang."
+    },
+    {
+      "title": "42. Bab 'Azm (Tekad yang Bulat)",
+      "titleArabic": "٤٢. بَابُ الْعَزْمِ",
+      "arabic": "الْعَزْمُ تَوْطِينُ النَّفْسِ عَلَى إِمْضَاءِ الْقَصْدِ بِلَا تَرَدُّدٍ وَلَا التِفَاتٍ إِلَى الْعَوَائِقِ.",
+      "translation": "Azm adalah memantapkan jiwa untuk melaksanakan niat tujuan tanpa keraguan maupun menoleh pada rintangan."
+    },
+    {
+      "title": "43. Bab Iradah (Kehendak Suci)",
+      "titleArabic": "٤٣. بَابُ الْإِرَادَةِ",
+      "arabic": "الْإِرَادَةُ إِجَابَةُ دَاعِي الْحَقِّ طَوْعًا وَفَنَاءُ مُرَادِ الْعَبْدِ فِي مُرَادِ رَبِّهِ.",
+      "translation": "Iradah adalah menyambut seruan Al-Haqq dengan sukarela serta meleburnya kehendak hamba ke dalam kehendak Tuhannya."
+    },
+    {
+      "title": "44. Bab Adab (Tata Krama Spiritual)",
+      "titleArabic": "٤٤. بَابُ الْأَدَبِ",
+      "arabic": "الْأَدَبُ اجْتِمَاعُ خِصَالِ الْخَيْرِ وَوَقْفُ الْعَبْدِ عِنْدَ حَدِّهِ ظَاهِرًا وَبَاطِنًا فِي حَضْرَةِ رَبِّهِ.",
+      "translation": "Adab adalah terkumpulnya sifat-sifat kebaikan serta berhentinya hamba pada batas kedudukannya secara lahir dan batin di hadirat Tuhannya."
+    },
+    {
+      "title": "45. Bab Yaqin (Keyakinan Tanpa Keraguan)",
+      "titleArabic": "٤٥. بَابُ الْيَقِينِ",
+      "arabic": "الْيَقِينُ ثَبَاتُ الْعِلْمِ فِي الْقَلْبِ ثَبَاتًا لَا يَتَزَلْزَلُ وَلَا يُدَاخِلُهُ شَكٌّ وَلَا رَيْبٌ.",
+      "translation": "Yaqin adalah tertanamnya ilmu pengetahuan dalam hati dengan kokoh tanpa tergoyahkan dan tanpa disusupi keraguan sedikit pun."
+    },
+    {
+      "title": "46. Bab Uns (Keakraban dengan Allah)",
+      "titleArabic": "٤٦. بَابُ الْأُنْسِ",
+      "arabic": "الْأُنْسُ بِاللَّهِ اسْتِبْشَارُ الْقَلْبِ وَاطْمِئْنَانُهُ بِجَمَالِ الْحَقِّ وَالِاسْتِيحَاشُ مِمَّا سِوَاهُ.",
+      "translation": "Uns adalah kegembiraan dan ketenangan hati bersama keindahan Al-Haqq serta merasa terasing dari segala sesuatu selain-Nya."
+    },
+    {
+      "title": "47. Bab Dhikr (Ingat Terus kepada Allah)",
+      "titleArabic": "٤٧. بَابُ الذِّكْرِ",
+      "arabic": "الذِّكْرُ الْخَلَاصُ مِنَ الْغَفْلَةِ وَالنِّسْيَانِ بِدَوَامِ حُضُورِ الْمَذْكُورِ فِي سُوَيْدَاءِ الْقَلْبِ.",
+      "translation": "Dhikr adalah terbebasnya hati dari kelalaian dan lupa melalui hadirnya Dzat yang diingat secara terus-menerus di lubuk hati."
+    },
+    {
+      "title": "48. Bab Faqr (Kefakiran Hakiki di Hadapan Allah)",
+      "titleArabic": "٤٨. بَابُ الْفَقْرِ",
+      "arabic": "الْفَقْرُ تَجَرُّدُ الْعَبْدِ عَنِ الْمِلْكِ وَالشُّعُورُ بِالِافْتِقَارِ الذَّاتِيِّ إِلَى الْغَنِيِّ الْمُطْلَقِ.",
+      "translation": "Faqr adalah terlepasnya hamba dari rasa memiliki serta kesadaran mendalam akan kebutuhan hakiki dirinya kepada Dzat Yang Maha Kaya Mutlak."
+    },
+    {
+      "title": "49. Bab Ghina (Kekayaan Hati bersama Allah)",
+      "titleArabic": "٤٩. بَابُ الْغِنَى",
+      "arabic": "الْغِنَى بِاللَّهِ الِاسْتِغْنَاءُ بِهِ عَنِ الْخَلْقِ وَعَنِ الْأَسْبَابِ لِانْكِشَافِ كَمَالِهِ فِي الْقَلْبِ.",
+      "translation": "Ghina adalah merasa cukup dengan Allah dari segala makhluk dan sebab-sebab duniawi karena terbukanya kesempurnaan-Nya di dalam hati."
+    },
+    {
+      "title": "50. Bab Murad (Keadaan Menjadi Yang Dikehendaki Allah)",
+      "titleArabic": "٥٠. بَابُ الْمُرَادِ",
+      "arabic": "الْمُرَادُ مَنْ تَوَلَّى الْحَقُّ تَرْبِيَتَهُ وَجَذَبَهُ إِلَيْهِ بِلَا كُلْفَةِ السَّعْيِ الْمَحْضِ مِنَ الْعَبْدِ.",
+      "translation": "Murad adalah orang yang pembinaannya diambil alih langsung oleh Al-Haqq dan ditarik menuju-Nya tanpa semata-mata bergantung pada jerih payah hamba."
+    },
+    {
+      "title": "51. Bab Ihsan (Berbuat Sebaik-baiknya Seakan Melihat Allah) - Bagian Awdiyah",
+      "titleArabic": "٥١. بَابُ الْإِحْسَانِ",
+      "arabic": "الْإِحْسَانُ أَنْ تَعْبُدَ اللَّهَ كَأَنَّكَ تَرَاهُ، وَإِتْقَانُ الْعَمَلِ بِشُهُودِ الْحَضْرَةِ الْإِلَهِيَّةِ.",
+      "translation": "Ihsan adalah menyembah Allah seolah-olah engkau melihat-Nya, serta menyempurnakan amal dengan penyaksian hadirat Ilahi."
+    },
+    {
+      "title": "52. Bab 'Ilm (Ilmu Ladunni dan Hakikat)",
+      "titleArabic": "٥٢. بَابُ الْعِلْمِ",
+      "arabic": "الْعِلْمُ مَا قَامَ بِالدَّلِيلِ وَالْكَشْفِ، وَرَفَعَ الْخِلَافَ وَهَدَى إِلَى مَعْرِفَةِ الْحَقِّ تَعَالَى.",
+      "translation": "Ilm adalah pengetahuan yang tegak di atas dalil dan penyingkapan batin, mengangkat keraguan serta membimbing kepada pengenalan Al-Haqq Ta'ala."
+    },
+    {
+      "title": "53. Bab Hikmah (Kebijaksanaan Ilahiah)",
+      "titleArabic": "٥٣. بَابُ الْحِكْمَةِ",
+      "arabic": "الْحِكْمَةُ إِصَابَةُ الصَّوَابِ فِي الْقَوْلِ وَالْفِعْلِ وَوَضْعُ كُلِّ شَيْءٍ فِي مَوْضِعِهِ بِإِلْهَامٍ رَبَّانِيٍّ.",
+      "translation": "Hikmah adalah ketepatan dalam ucapan dan tindakan serta menempatkan segala sesuatu pada tempatnya berkat bimbingan Ilahi."
+    },
+    {
+      "title": "54. Bab Basirah (Ketajaman Mata Batin)",
+      "titleArabic": "٥٤. بَابُ الْبَصِيرَةِ",
+      "arabic": "الْبَصِيرَةُ نُورٌ فِي الْقَلْبِ يُبْصِرُ بِهِ الْعَبْدُ حَقَائِقَ الْأَشْيَاءِ وَعَوَاقِبَهَا كَمَا هِيَ.",
+      "translation": "Basirah adalah cahaya dalam hati yang dengannya seorang hamba melihat hakikat segala sesuatu dan akibatnya sebagaimana adanya."
+    },
+    {
+      "title": "55. Bab Firasah (Firasat Spiritual)",
+      "titleArabic": "٥٥. بَابُ الْفِرَاسَةِ",
+      "arabic": "الْفِرَاسَةُ اسْتِدْلَالٌ بِالْخَلْقِ وَالظَّوَاهِرِ عَلَى الْبَوَاطِنِ بِنُورِ الْحَقِّ الَّذِي يُلْقِيهِ فِي قَلْبِ الْمُؤْمِنِ.",
+      "translation": "Firasah adalah membaca tanda-tanda lahir untuk mengetahui keadaan batin dengan cahaya kebenaran yang dipancarkan Allah ke hati orang beriman."
+    },
+    {
+      "title": "56. Bab Ta'zim (Pengagungan kepada Allah)",
+      "titleArabic": "٥٦. بَابُ التَّعْظِيمِ",
+      "arabic": "التَّعْظِيمُ مَعْرِفَةُ الْعَظَمَةِ مَعَ التَّذَلُّلِ لَهَا وَنَفْيِ الْكِبْرِيَاءِ عَنْ غَيْرِ اللَّهِ تَعَالَى.",
+      "translation": "Ta'zim adalah mengenal keagungan Allah disertai ketundukan kepada-Nya dan menafikan sifat kebesaran dari selain Allah Ta'ala."
+    },
+    {
+      "title": "57. Bab Ilham (Bisikan Kebenaran ke dalam Hati)",
+      "titleArabic": "٥٧. بَابُ الْإِلْهَامِ",
+      "arabic": "الْإِلْهَامُ مَا يَقَعُ فِي الرُّوعِ مِنْ عِلْمٍ يَدْعُو إِلَى الْعَمَلِ الصَّالِحِ وَمُوافَقَةِ الشَّرْعِ.",
+      "translation": "Ilham adalah pengetahuan yang jatuh ke dalam lubuk hati yang mendorong pada amal saleh dan selaras dengan syariat."
+    },
+    {
+      "title": "58. Bab Sakinah (Ketenangan Agung dari Allah)",
+      "titleArabic": "٥٨. بَابُ السَّكِينَةِ",
+      "arabic": "السَّكِينَةُ رِفْقَةُ الْقَلْبِ لِلنُّورِ الْإِلَهِيِّ عِنْدَ نُزُولِ الْوَارِدَاتِ وَانْقِطَاعِ الِاضْطِرَابِ.",
+      "translation": "Sakinah adalah ketenangan hati yang menyertai cahaya Ilahi saat datangnya limpahan rohani dan terputusnya kegelisahan."
+    },
+    {
+      "title": "59. Bab Tuma'ninah (Kedamaian Hati yang Teguh)",
+      "titleArabic": "٥٩. بَابُ الطُّمَأْنِينَةِ",
+      "arabic": "الطُّمَأْنِينَةُ سُكُونٌ يَشْمَلُ الْقَلْبَ وَالْجَوَارِحَ بِاسْتِقْرَارِ الْحَقِيقَةِ وَأَمْنِ الرُّوحِ.",
+      "translation": "Tuma'ninah adalah ketenangan menyeluruh yang meliputi hati dan anggota tubuh karena menetapnya hakikat dan rasa aman pada ruh."
+    },
+    {
+      "title": "60. Bab Himmah (Cita-Cita Spiritual yang Tinggi)",
+      "titleArabic": "٦٠. بَابُ الْهِمَّةِ",
+      "arabic": "الْهِمَّةُ تَجَرُّدُ الْقَصْدِ لِلْحَقِّ وَالْإِعْرَاضُ عَمَّا دُونَهُ مِنَ الْمَطَالِبِ الدَّنِيَّةِ وَالْأُخْرَوِيَّةِ سِوَى اللَّهِ.",
+      "translation": "Himmah adalah pemurnian cita-cita hanya bagi Allah serta berpaling dari segala tuntutan rendah duniawi maupun ukhrawi selain Allah."
+    },
+    {
+      "title": "61. Bab Mahabbah (Cinta Ilahi) - Bagian Ahwal",
+      "titleArabic": "٦١. بَابُ الْمَحَبَّةِ",
+      "arabic": "الْمَحَبَّةُ تَعَلُّقُ الْقَلْبِ بِالْجَمَالِ الْمُطْلَقِ وَبَذْلُ النَّفْسِ فِي مَرْضَاةِ الْمَحْبُوبِ الْحَقِّ.",
+      "translation": "Mahabbah adalah tertambatnya hati pada Keindahan Mutlak serta pengorbanan jiwa demi meraih keridhaan Sang Kekasih Sejati."
+    },
+    {
+      "title": "62. Bab Ghayrah (Kecemburuan Suci)",
+      "titleArabic": "٦٢. بَابُ الْغَيْرَةِ",
+      "arabic": "الْغَيْرَةُ كَرَاهَةُ الْمُشَارَكَةِ فِي الْقَلْبِ أَنْ يَمِيلَ إِلَى غَيْرِ اللَّهِ أَوْ يَشْغَلَهُ سِوَاهُ.",
+      "translation": "Ghayrah adalah ketidaksukaan terhadap adanya sekutu dalam hati agar tidak condong kepada selain Allah atau tersibukkan oleh selain-Nya."
+    },
+    {
+      "title": "63. Bab Shawq (Kerinduan Mendalam)",
+      "titleArabic": "٦٣. بَابُ الشَّوْقِ",
+      "arabic": "الشَّوْقُ نِزَاعُ الْقَلْبِ إِلَى لِقَاءِ الْمَحْبُوبِ الْغَائِبِ عَنْ شُهُودِ الْعَيَانِ وَإِنْ كَانَ حَاضِرًا.",
+      "translation": "Shawq adalah gejolak hati yang merindukan perjumpaan dengan Sang Kekasih yang tersembunyi dari pandangan nyata meskipun Dia selalu hadir."
+    },
+    {
+      "title": "64. Bab Qalaq (Kegelisahan Rindu)",
+      "titleArabic": "٦٤. بَابُ الْقَلَقِ",
+      "arabic": "الْقَلَقُ انْزِعَاجُ الْقَلْبِ بِالشَّوْقِ حَتَّى لَا يَسْتَقِرَّ لَهُ قَرَارٌ دُونَ وِصَالِ الْمَطْلُوبِ.",
+      "translation": "Qalaq adalah kegelisahan hati akibat rindu yang membara sehingga tidak lagi mampu tenang sebelum bersatu dengan Dzat yang dicari."
+    },
+    {
+      "title": "65. Bab 'Atash (Dahaga Spiritual)",
+      "titleArabic": "٦٥. بَابُ الْعَطَشِ",
+      "arabic": "الْعَطَشُ اشْتِدَادُ الْإِرَادَةِ إِلَى مَشْرَبِ الْقُرْبِ وَالتَّلَهُّفُ عَلَى شُرْبِ كَأْسِ الْمَعْرِفَةِ.",
+      "translation": "Atash adalah kuatnya dahaga batin menuju sumber kedekatan serta kerinduan mendalam untuk meneguk cawan makrifat."
+    },
+    {
+      "title": "66. Bab Wajd (Ekstase Spiritual)",
+      "titleArabic": "٦٦. بَابُ الْوَجْدِ",
+      "arabic": "الْوَجْدُ لَهَبٌ يَنْقَدِحُ فِي الْقَلْبِ مِنْ وَارِدٍ مُفَاجِئٍ يُوجِبُ شُهُودَ الْحَقِّ وَانْقِطَاعَ الْحِسِّ.",
+      "translation": "Wajd adalah nyala api yang memercik dalam hati akibat limpahan batin mendadak yang menghadirkan penyaksian Al-Haqq dan memutus indra lahiriah."
+    },
+    {
+      "title": "67. Bab Dahash (Keterpesonaan Suci)",
+      "titleArabic": "٦٧. بَابُ الدَّهَشِ",
+      "arabic": "الدَّهَشُ حَيْرَةٌ تَعْتَرِي الْعَبْدَ عِنْدَ مُفَاجَأَةِ الْأَمْرِ الْعَظِيمِ فَيَبْهَتُ عَنِ التَّمْيِيزِ وَالنُّطْقِ.",
+      "translation": "Dahash adalah ketercengangan yang menimpa hamba saat dikejutkan keagungan Ilahi sehingga ia terdiam dari pemilahan akal dan kata-kata."
+    },
+    {
+      "title": "68. Bab Hayaman (Keterhanyutan Cinta)",
+      "titleArabic": "٦٨. بَابُ الْهَيَمَانِ",
+      "arabic": "الْهَيَمَانُ ذَهَابُ الْعَقْلِ فِي بَيْدَاءِ الْمَحَبَّةِ حَتَّى لَا يَعْرِفَ الْمُحِبُّ مَقْصَدًا غَيْرَ الْمَحْبُوبِ.",
+      "translation": "Hayaman adalah larutnya akal dalam padang cinta Ilahi hingga sang pecinta tidak lagi mengenal arah tujuan selain Sang Kekasih."
+    },
+    {
+      "title": "69. Bab Barq (Kilatan Cahaya Batin)",
+      "titleArabic": "٦٩. بَابُ الْبَرْقِ",
+      "arabic": "الْبَرْقُ لَائِحَةٌ سَرِيعَةُ الْوُقُوعِ وَالزَّوَالِ تَلْمَعُ لِلسَّالِكِ فِي بَدْءِ الْمُشَاهَدَاتِ.",
+      "translation": "Barq adalah kilatan cahaya kebenaran yang muncul dan berlalu sangat cepat sebagai tanda awal terbukanya penyaksian bagi sang salik."
+    },
+    {
+      "title": "70. Bab Dhawq (Rasa Pengalaman Batin)",
+      "titleArabic": "٧٠. بَابُ الذَّوْقِ",
+      "arabic": "الذَّوْقُ مُبَاشَرَةُ الْقَلْبِ لِحَلَاوَةِ التَّجَلِّي وَوُجْدَانُ أَثَرِ الْحَقِيقَةِ وَرَاءَ الْعِبَارَةِ.",
+      "translation": "Dhawq adalah pencecapan langsung oleh hati terhadap manisnya penyingkapan Ilahi dan merasakan pengaruh hakikat di balik kata-kata."
+    },
+    {
+      "title": "71. Bab Lahz (Sekilas Pandangan Batin) - Bagian Wilayat",
+      "titleArabic": "٧١. بَابُ اللَّحْظِ",
+      "arabic": "اللَّحْظُ مُسَارَقَةُ الْبَصِيرَةِ إِلَى مُطَالَعَةِ الْجَمَالِ الْإِلَهِيِّ بِطَرْفِ الْقَلْبِ الْخَفِيِّ.",
+      "translation": "Lahz adalah curian pandang mata batin untuk menatap Keindahan Ilahi dengan sudut hati yang tersembunyi."
+    },
+    {
+      "title": "72. Bab Waqt (Kesadaran Momen Sekarang)",
+      "titleArabic": "٧٢. بَابُ الْوَقْتِ",
+      "arabic": "الْوَقْتُ ظَرْفُ الْحَالِ الْغَالِبِ عَلَى الْعَبْدِ، وَابْنُ وَقْتِهِ مَنْ عَمَرَ آنَهُ بِمَا يَقْتَضِيهِ الْحَقُّ.",
+      "translation": "Waqt adalah wadah keadaan batin yang menguasai hamba saat ini; anak zamannya adalah orang yang mengisi detiknya sesuai tuntutan Al-Haqq."
+    },
+    {
+      "title": "73. Bab Safa' (Kebeningan Hati)",
+      "titleArabic": "٧٣. بَابُ الصَّفَاءِ",
+      "arabic": "الصَّفَاءُ خُلُوصُ الْقَلْبِ مِنْ كَدَرِ الْبَشَرِيَّةِ وَتَنَقِّيهِ مِنْ شَوَائِبِ الْأَغْيَارِ.",
+      "translation": "Safa' adalah bersihnya hati dari kekeruhan sifat kemanusiaan yang rendah dan tersucikannya dari noda segala sesuatu selain Allah."
+    },
+    {
+      "title": "74. Bab Surur (Kegembiraan Ruhani)",
+      "titleArabic": "٧٤. بَابُ السُّرُورِ",
+      "arabic": "السُّرُورُ فَرَحُ الرُّوحِ بِرَحْمَةِ اللَّهِ وَفَضْلِهِ عِنْدَ زَوَالِ الْغُمُومِ وَالْوُصُولِ إِلَى الْمَأْمُولِ.",
+      "translation": "Surur adalah kegembiraan ruh atas rahmat dan karunia Allah ketika sirnanya kesedihan dan tercapainya harapan kedekatan."
+    },
+    {
+      "title": "75. Bab Sirr (Rahasia Batin Terdalam)",
+      "titleArabic": "٧٥. بَابُ السِّرِّ",
+      "arabic": "السِّرُّ مَا يُصَانُ بَيْنَ الْعَبْدِ وَرَبِّهِ فَلَا يَطَّلِعُ عَلَيْهِ مَلَكٌ وَلَا نَفْسٌ وَلَا خَلْقٌ.",
+      "translation": "Sirr adalah rahasia suci yang terjaga antara hamba dan Tuhannya sehingga tidak diketahui oleh malaikat, nafsu, maupun makhluk mana pun."
+    },
+    {
+      "title": "76. Bab Nafas (Hembusan Napas yang Hidup bersama Allah)",
+      "titleArabic": "٧٦. بَابُ النَّفَسِ",
+      "arabic": "النَّفَسُ تَرْوِيحُ الْقَلْبِ بِلَطَائِفِ الْغُيُوبِ وَاسْتِغْرَاقُ الْأَنْفَاسِ فِي شُهُودِ الْمَعْبُودِ.",
+      "translation": "Nafas adalah penyegaran hati dengan kelembutan alam gaib serta tenggelamnya setiap tarikan napas dalam penyaksian Sang Sembahan."
+    },
+    {
+      "title": "77. Bab Ghurbah (Keterasingan di Dunia)",
+      "titleArabic": "٧٧. بَابُ الْغُرْبَةِ",
+      "arabic": "الْغُرْبَةُ انْفِرَادُ الْعَارِفِ بِحَالِهِ عَنْ أَبْنَاءِ جِنْسِهِ لِارْتِحَالِهِ بِقَلْبِهِ إِلَى وَطَنِهِ الْأَصْلِيِّ.",
+      "translation": "Ghurbah adalah kesendirian seorang arif dalam keadaan batinnya dari sesama manusia karena hatinya telah berangkat menuju tanah air asalnya."
+    },
+    {
+      "title": "78. Bab Gharaq (Tenggelam dalam Samudra Ketuhanan)",
+      "titleArabic": "٧٨. بَابُ الْغَرَقِ",
+      "arabic": "الْغَرَقُ اسْتِيلَاءُ بَحْرِ الْعَظَمَةِ عَلَى الْقَلْبِ حَتَّى يَفْنَى عَنْ إِحْسَاسِهِ بِالنَّفْسِ وَالْكَوْنِ.",
+      "translation": "Gharaq adalah meluapnya samudra keagungan Allah menguasai hati hingga hamba sirna dari kesadaran terhadap diri dan alam semesta."
+    },
+    {
+      "title": "79. Bab Ghaybah (Hilangnya Kesadaran Selain Allah)",
+      "titleArabic": "٧٩. بَابُ الْغَيْبَةِ",
+      "arabic": "الْغَيْبَةُ ذُهُولُ الْعَبْدِ عَنْ نَفْسِهِ وَعَنِ الْخَلْقِ لِاسْتِغْرَاقِهِ فِي شُهُودِ الْحَقِّ سُبْحَانَهُ.",
+      "translation": "Ghaybah adalah lenyapnya kesadaran hamba akan dirinya dan makhluk lain karena tenggelam dalam penyaksian Al-Haqq Yang Maha Suci."
+    },
+    {
+      "title": "80. Bab Tamakkun (Kemantapan Spiritual)",
+      "titleArabic": "٨٠. بَابُ التَّمَكُّنِ",
+      "arabic": "التَّمَكُّنُ اسْتِقْرَارُ الْعَارِفِ فِي مَقَامِهِ بِلَا تَلَوُّنٍ وَلَا تَقَلُّبٍ فِي الْأَحْوَالِ.",
+      "translation": "Tamakkun adalah menetapnya seorang arif secara kokoh pada kedudukan batinnya tanpa lagi goyah atau berubah-ubah oleh keadaan."
+    },
+    {
+      "title": "81. Bab Mukashafah (Penyingkapan Tabir) - Bagian Haqa'iq",
+      "titleArabic": "٨١. بَابُ الْمُكَاشَفَةِ",
+      "arabic": "الْمُكَاشَفَةُ رَفْعُ الْحِجَابِ بَيْنَ الْعَبْدِ وَالْغَيْبِ حَتَّى يَتَّضِحَ الْمَعْلُومُ كَأَنَّهُ مَرْئِيٌّ.",
+      "translation": "Mukashafah adalah terangkatnya hijab antara hamba dan alam gaib sehingga hakikat yang diketahui menjadi terang seakan-akan terlihat."
+    },
+    {
+      "title": "82. Bab Mushahadah (Penyaksian Hati)",
+      "titleArabic": "٨٢. بَابُ الْمُشَاهَدَةِ",
+      "arabic": "الْمُشَاهَدَةُ حُضُورُ الْحَقِّ فِي الْقَلْبِ بِلَا شَوْبِ رَيْبٍ وَانْقِشَاعُ سُحُبِ الْوَهْمِ.",
+      "translation": "Mushahadah adalah hadirnya Al-Haqq di dalam hati tanpa sedikit pun keraguan serta tersingkapnya awan khayalan."
+    },
+    {
+      "title": "83. Bab Mu'ayanah (Penyaksian Langsung Tanpa Perantara)",
+      "titleArabic": "٨٣. بَابُ الْمُعَايَنَةِ",
+      "arabic": "الْمُعَايَنَةُ تَحَقُّقُ الرُّؤْيَةِ الْقَلْبِيَّةِ وَانْتِفَاءُ الْوَسَائِطِ فِي شُهُودِ الْعَيْنِ الْحَقِيقِيَّةِ.",
+      "translation": "Mu'ayanah adalah terwujudnya penglihatan batin secara nyata dan hilangnya perantara dalam menyaksikan Hakikat Sejati."
+    },
+    {
+      "title": "84. Bab Hayah (Kehidupan Ruhani Sejati)",
+      "titleArabic": "٨٤. بَابُ الْحَيَاةِ",
+      "arabic": "الْحَيَاةُ اسْتِيقَاظُ الرُّوحِ بِنُورِ الْعِلْمِ وَالتَّوْحِيدِ بَعْدَ مَوْتِهَا بِالْجَهْلِ وَالْغَفْلَةِ.",
+      "translation": "Hayah adalah hidupnya ruh dengan cahaya ilmu dan tauhid setelah kematiannya oleh kebodohan dan kelalaian."
+    },
+    {
+      "title": "85. Bab Qabd (Penyempitan Hati)",
+      "titleArabic": "٨٥. بَابُ الْقَبْضِ",
+      "arabic": "الْقَبْضُ وَارِدُ هَيْبَةٍ يَغْلِبُ عَلَى الْقَلْبِ فَيَضِيقُ عَنِ الْبَسْطِ تَأْدِيبًا وَتَهْذِيبًا لَهُ.",
+      "translation": "Qabd adalah limpahan wibawa Ilahi yang menguasai hati sehingga terasa sempit dari kelapangan guna mendidik dan menyucikannya."
+    },
+    {
+      "title": "86. Bab Bast (Peluasan Hati)",
+      "titleArabic": "٨٦. بَابُ الْبَسْطِ",
+      "arabic": "الْبَسْطُ وَارِدُ رَحْمَةٍ وَجَمَالٍ يُوَسِّعُ الْقَلْبَ حَتَّى يَسَعَ الْخَلْقَ بِالشَّفَقَةِ وَالرَّأْفَةِ.",
+      "translation": "Bast adalah limpahan rahmat dan keindahan yang melapangkan hati hingga mampu menampung seluruh makhluk dengan kasih sayang."
+    },
+    {
+      "title": "87. Bab Sukr (Kemabukan Spiritual)",
+      "titleArabic": "٨٧. بَابُ السُّكْرِ",
+      "arabic": "السُّكْرُ غَيْبَةٌ بِوَارِدٍ قَوِيٍّ مِنَ الشُّهُودِ يُزِيلُ التَّكَلُّفَ وَيُغَيِّبُ التَّمْيِيزَ الْعَقْلِيَّ.",
+      "translation": "Sukr adalah ketidaksadaran terhadap alam lahir akibat kuatnya limpahan penyaksian yang melenyapkan kepura-puraan dan pemilahan akal biasa."
+    },
+    {
+      "title": "88. Bab Sahw (Kesadaran Kembali Setelah Fana)",
+      "titleArabic": "٨٨. بَابُ الصَّحْوِ",
+      "arabic": "الصَّحْوُ رُجُوعُ الْعَارِفِ إِلَى الْإِحْسَاسِ بَعْدَ الْغَيْبَةِ مَعَ بَقَاءِ نُورِ الْمُشَاهَدَةِ.",
+      "translation": "Sahw adalah kembalinya seorang arif pada kesadaran indrawi setelah fana dengan tetap membawa cahaya penyaksian batin."
+    },
+    {
+      "title": "89. Bab Ittisal (Ketersambungan Ruhani)",
+      "titleArabic": "٨٩. بَابُ الِاتِّصَالِ",
+      "arabic": "الِاتِّصَالُ تَخَلُّصُ السِّرِّ مِنْ مُلَاحَظَةِ غَيْرِ اللَّهِ وَارْتِبَاطُهُ الدَّائِمُ بِالْحَضْرَةِ الْأَحَدِيَّةِ.",
+      "translation": "Ittisal adalah terbebasnya batin terdalam dari memandang selain Allah serta keterhubungannya secara abadi dengan hadirat Yang Maha Esa."
+    },
+    {
+      "title": "90. Bab Infisal (Keterlepasan dari Segala Selain-Nya)",
+      "titleArabic": "٩٠. بَابُ الِانْفِصَالِ",
+      "arabic": "الِانْفِصَالُ التَّبَرِّي التَّامُّ عَنْ رُؤْيَةِ النَّفْسِ وَالْحَوْلِ وَالْقُوَّةِ وَالْأَسْبَابِ الْخَلْقِيَّةِ.",
+      "translation": "Infisal adalah pelepasan diri secara sempurna dari memandang keakuan, daya, kekuatan sendiri, serta ketergantungan pada sebab makhluk."
+    },
+    {
+      "title": "91. Bab Ma'rifah (Pengenalan Hakiki kepada Allah) - Bagian Nihayat",
+      "titleArabic": "٩١. بَابُ الْمَعْرِفَةِ",
+      "arabic": "الْمَعْرِفَةُ إِحَاطَةٌ قَلْبِيَّةٌ بِأَسْمَاءِ اللَّهِ وَصِفَاتِهِ وَتَحَقُّقٌ بِقُصُورِ الْعِلْمِ عَنْ كُنْهِ ذَاتِهِ.",
+      "translation": "Ma'rifah adalah pengenalan batin terhadap nama-nama dan sifat Allah serta kesadaran penuh atas ketidakmampuan ilmu menjangkau hakikat Dzat-Nya."
+    },
+    {
+      "title": "92. Bab Fana' (Sirnanya Keakuan)",
+      "titleArabic": "٩٢. بَابُ الْفَنَاءِ",
+      "arabic": "الْفَنَاءُ اضْمِحْلَالُ مَا دُونَ الْحَقِّ عَنْ شُهُودِ الْعَارِفِ عِلْمًا وَجَحْدًا لِلْإِنِّيَّةِ الْمَوْهُومَةِ.",
+      "translation": "Fana' adalah sirnanya segala sesuatu selain Al-Haqq dari penyaksian sang arif serta lenyapnya keakuan diri yang bersifat khayali."
+    },
+    {
+      "title": "93. Bab Baqa' (Kekal bersama Allah)",
+      "titleArabic": "٩٣. بَابُ الْبَقَاءِ",
+      "arabic": "الْبَقَاءُ قِيَامُ الْعَبْدِ بِاللَّهِ بَعْدَ فَنَائِهِ عَنْ نَفْسِهِ، فَيَرَى الْأَشْيَاءَ كُلَّهَا قَائِمَةً بِالْحَقِّ.",
+      "translation": "Baqa' adalah tegaknya hamba bersama Allah setelah sirna dari keakuannya, sehingga ia menyaksikan segala sesuatu tegak oleh Al-Haqq."
+    },
+    {
+      "title": "94. Bab Tahqiq (Realisasi Kebenaran Mutlak)",
+      "titleArabic": "٩٤. بَابُ التَّحْقِيقِ",
+      "arabic": "التَّحْقِيقُ إِثْبَاتُ الْحَقِّ فِي مَحَلِّهِ وَأَدَاءُ حَقِّ كُلِّ ذِي حَقٍّ مِنَ الْأَحْكَامِ الشَّرْعِيَّةِ وَالْكَوْنِيَّةِ.",
+      "translation": "Tahqiq adalah menetapkan kebenaran pada tempatnya serta menunaikan hak setiap pemilik hak baik dalam hukum syariat maupun kauniah."
+    },
+    {
+      "title": "95. Bab Talbis (Penyembunyian Keadaan demi Hikmah)",
+      "titleArabic": "٩٥. بَابُ التَّلْبِيسِ",
+      "arabic": "التَّلْبِيسُ إِظْهَارُ الْعَارِفِ صُورَةَ الْعَادَةِ لِلسَّتْرِ عَلَى حَالِهِ صِيَانَةً لِلسِّرِّ عَنْ أَعْيُنِ الْعَوَامِّ.",
+      "translation": "Talbis adalah menampakkan perilaku kebiasaan biasa oleh seorang arif guna menutupi keadaan rohaninya demi menjaga rahasia Ilahi dari pandangan awam."
+    },
+    {
+      "title": "96. Bab Wujud (Penemuan Diri dalam Kebenaran)",
+      "titleArabic": "٩٦. بَابُ الْوُجُودِ",
+      "arabic": "الْوُجُودُ الظَّفَرُ بِعَيْنِ الْحَقِيقَةِ وَوِجْدَانُ الْحَقِّ بَعْدَ طَيِّ مَسَافَةِ التَّلَوُّنِ وَالرُّسُومِ.",
+      "translation": "Wujud adalah meraih inti hakikat dan menemukan Al-Haqq secara nyata setelah terlipatnya jarak perubahan batin dan jejak keakuan."
+    },
+    {
+      "title": "97. Bab Tajrid (Pemurnian Batin dari Segala Dualitas)",
+      "titleArabic": "٩٧. بَابُ التَّجْرِيدِ",
+      "arabic": "التَّجْرِيدُ التَّعَرِّي عَنْ شُهُودِ الْأَعْرَاضِ وَالشَّوَاهِدِ وَعَنِ الِالْتِفَاتِ إِلَى السِّوَى فِي الْمَعْرِفَةِ.",
+      "translation": "Tajrid adalah menanggalkan penyaksian terhadap hal-hal sementara dan segala penoleh kepada selain Allah dalam makrifat."
+    },
+    {
+      "title": "98. Bab Tafrid (Kemandirian Tunggal dalam Ketuhanan)",
+      "titleArabic": "٩٨. بَابُ التَّفْرِيدِ",
+      "arabic": "التَّفْرِيدُ خَلَاصُ السَّالِكِ مِنَ التَّقَيُّدِ بِالْمَقَامَاتِ وَالْأَحْوَالِ وَإِفْرَادُهُ بِشُهُودِ الْفَرْدِ الصَّمَدِ.",
+      "translation": "Tafrid adalah terbebasnya salik dari keterikatan terhadap maqam dan ahwal sehingga ia menyendiri dalam penyaksian Dzat Yang Maha Tunggal."
+    },
+    {
+      "title": "99. Bab Jam' (Penghimpunan Kesaksian dalam Keesaan)",
+      "titleArabic": "٩٩. بَابُ الْجَمْعِ",
+      "arabic": "الْجَمْعُ إِسْقَاطُ التَّفْرِقَةِ وَشُهُودُ الْوَحْدَةِ السَّارِيَةِ فِي جَمِيعِ الْمَوْجُودَاتِ بِالْحَقِّ.",
+      "translation": "Jam' adalah gugurnya pandangan keterpisahan dan terbukanya penyaksian terhadap keesaan yang meliputi seluruh maujud dengan Al-Haqq."
+    },
+    {
+      "title": "100. Bab Tawhid (Tauhid Sejati - Puncak Akhir)",
+      "titleArabic": "١٠٠. بَابُ التَّوْحِيدِ",
+      "arabic": "التَّوْحِيدُ إِفْرَادُ الْقَدِيمِ عَنِ الْحَدَثِ، وَشُهُودُ أَنَّهُ لَا يَعْرِفُ اللَّهَ حَقَّ مَعْرِفَتِهِ إِلَّا اللَّهُ، وَهُوَ نِهَايَةُ النِّهَايَاتِ.",
+      "translation": "Tawhid adalah mengesakan Dzat Yang Qadim dari segala yang baru, serta menyaksikan bahwa tiada yang mengenal Allah dengan pengenalan sejati kecuali Allah sendiri; inilah puncak dari segala puncak."
+    },
+    {
+      "title": "Khatimah (Penutup)",
+      "titleArabic": "الْخَاتِمَةُ",
+      "arabic": "تَمَّ شَرْحُ مَنَازِلِ السَّائِرِينَ بِعَوْنِ اللَّهِ وَتَوْفِيقِهِ، وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ وَالصَّلَاةُ وَالسَّلَامُ عَلَى خَاتَمِ النَّبِيِّينَ وَآلِهِ أَجْمَعِينَ.",
+      "translation": "Telah selesai syarah kitab Manazil al-Sa'irin dengan pertolongan dan taufik Allah. Segala puji bagi Allah Tuhan semesta alam, serta shalawat dan salam atas penutup para nabi dan seluruh keluarganya."
+    }
+  ]
+}
