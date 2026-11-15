@@ -1,0 +1,20 @@
+{
+  "status": "cannot_complete",
+  "message": "Permintaan untuk menghasilkan teks matan Arab lengkap berharakat beserta seluruh bab dari kitab 'Targhib al-Mushtaqin fi Suluk Thariq al-Yaqin' tidak dapat dipenuhi karena kendala verifikasi sumber dan keterbatasan akses naskah asli.",
+  "gaps_identified": [
+    "Judul kitab 'Targhib al-Mushtaqin fi Suluk Thariq al-Yaqin' tidak teridentifikasi dalam daftar karya autentik Syekh Nawawi al-Bantani. Karya beliau yang memiliki kemiripan judul adalah 'Targhib al-Musytaqin li Bayan Manzumat al-Sayyid al-Barzanji Zayn al-Abidin' (syarah atas nazham Maulid al-Barzanji).",
+    "Tidak tersedia akses terhadap naskah/manuskrip atau teks digital terverifikasi dari kitab tersebut di dalam sesi ini, sehingga penyajian teks matan Arab asli secara utuh (lengkap dengan harakat akurat dan pembagian 50-70 bab tanpa meringkas) berisiko menghasilkan teks rekayasa/halusinasi yang menyalahi keakuratan ilmiah turath.",
+    "Jika Anda memiliki teks atau salinan naskah kitab yang dimaksud, Anda dapat melampirkannya agar dapat dibantu dalam proses penyusunan, pemberian harakat, analisis, atau penerjemahannya."
+  ],
+  "profile": {
+    "name": "Targhib al-Mushtaqin fi Suluk Thariq al-Yaqin",
+    "originalTitle": null,
+    "author": "Syekh Muhammad Nawawi bin Umar al-Bantani al-Jawi al-Syafi'i (terkait klaim judul pada permintaan)",
+    "field": null,
+    "about": "Judul kitab ini tidak dapat dipastikan keberadaannya sebagai karya Syekh Nawawi al-Bantani. Karya beliau yang tercatat berjudul mirip adalah Targhib al-Musytaqin li Bayan Manzumat al-Sayyid al-Barzanji Zayn al-Abidin, yang membahas syarah atas nazham sirah/maulid karya Sayyid Ja'far al-Barzanji. Untuk menjaga keaslian dan integritas teks turath, isi matan kitab tidak dapat dibuat atau direkonstruksi tanpa sumber naskah yang valid.",
+    "authorBorn": "1230 H / 1813 M (Tanara, Banten)",
+    "authorDied": "1314 H / 1897 M (Makkah)",
+    "authorCentury": "Abad ke-13/14 H (Abad ke-19 M)"
+  },
+  "chapters": []
+}
