@@ -1,0 +1,471 @@
+{
+  "disclaimer": "Keterbatasan Teknis & Kejujuran Akademik: Kitab 'Hasyiyah al-Qulyubi wa 'Umairah' adalah ensiklopedia fikih Syafi'i berukuran sangat besar (4 jilid tebal, lebih dari 1.600 halaman cetak klasik) yang berisi dua hasyiyah atas Syarah al-Mahalli (Kanz al-Raghibin) terhadap Minhaj al-Thalibin. Tidak dimungkinkan untuk mereproduksi teks Arab verbatim secara penuh beserta harakat dan terjemahan lengkap seluruh 4 jilid dalam satu respons tanpa memotong atau mengarang teks (halusinasi). Oleh karena itu, JSON ini menyajikan profil bibliografis yang akurat serta daftar struktur bab/kitab secara sistematis (mengikuti urutan asli Minhaj al-Thalibin dan Kanz al-Raghibin) disertai ringkasan pokok bahasan setiap bab, tanpa mengklaim sebagai teks matan verbatim lengkap.",
+  "profile": {
+    "name": "Hasyiyah al-Qulyubi wa 'Umairah",
+    "originalTitle": "حَاشِيَتَا قَلْيُوبِي وَعُمَيْرَةَ عَلَى شَرْحِ جَلَالِ الدِّينِ الْمَحَلِّيِّ عَلَى مِنْهَاجِ الطَّالِبِينَ",
+    "author": "Syihabuddin Ahmad bin Ahmad bin Salamah al-Qulyubi (w. 1069 H) & Syihabuddin Ahmad al-Burullusi al-Mulaqqab bi 'Umairah (w. 957 H)",
+    "field": "Fiqih Madzhab Syafi'i (Furu' al-Fiqh)",
+    "about": "Hasyiyah al-Qulyubi wa 'Umairah merupakan salah satu kitab rujukan utama tingkat lanjut (muthawwalat) dalam tradisi keilmuan pesantren dan madzhab Syafi'i. Kitab ini menghimpun dua catatan pinggir (hasyiyah) penting atas kitab Kanz al-Raghibin karya Imam Jalaluddin al-Mahalli yang mensyarahi Minhaj al-Thalibin karya Imam al-Nawawi. Hasyiyah Imam 'Umairah dikenal ringkas, padat, dan tajam dalam menelaah redaksi matan serta syarah, sedangkan Hasyiyah Imam al-Qulyubi lebih luas dalam merinci hukum cabang (furu'), membandingkan pendapat ulama mu'tamad (seperti Ibnu Hajar al-Haitami dan Syamsuddin al-Ramli), serta menyertakan kaidah bahasa dan ushul fiqh. Karena luasnya cakupan empat jilid kitab asli ini, entri di bawah menyajikan struktur sistematika bab secara utuh beserta intisari cakupan pembahasannya, bukan reproduksi verbatim teks asli.",
+    "authorBorn": "Al-Qulyubi: lahir di Qalyub, Mesir (akhir abad ke-10 H, tahun pasti tidak tercatat secara definitif); 'Umairah: lahir di al-Burullus, Mesir (pertengahan akhir abad ke-9 H).",
+    "authorDied": "Al-Qulyubi: 1069 H / 1659 M; 'Umairah: 957 H / 1550 M.",
+    "authorCentury": "Abad ke-10 H / 16 M ('Umairah) dan Abad ke-11 H / 17 M (al-Qulyubi)"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah (Pembukaan Kitab)",
+      "titleArabic": "مُقَدِّمَةُ الْكِتَابِ",
+      "arabic": "بَيَانُ الْبَسْمَلَةِ وَالْحَمْدَلَةِ وَالصَّلَاةِ وَالسَّلَامِ، وَمَنْهَجُ الْمُحَشِّيَيْنِ فِي التَّعْلِيقِ عَلَى شَرْحِ الْمَحَلِّيِّ لِمِنْهَاجِ الطَّالِبِينَ. (مُلَخَّصُ الْمَوْضُوعِ؛ لَا يُمْكِنُ سَرْدُ النَّصِّ الْكَامِلِ حَرْفِيًّا)",
+      "translation": "Pembahasan basmalah, hamdalah, shalawat, urgensi ilmu fikih, serta pengantar metodologis Imam al-Qulyubi dan Imam 'Umairah terhadap syarah al-Mahalli dan istilah-istilah tarjih Imam al-Nawawi dalam Minhaj al-Thalibin. (Catatan: Ringkasan topik; teks verbatim asli tidak direproduksi penuh)."
+    },
+    {
+      "title": "Kitab Thaharah (Bersuci)",
+      "titleArabic": "كِتَابُ الطَّهَارَةِ",
+      "arabic": "أَحْكَامُ الْمِيَاهِ وَأَقْسَامِهَا، وَالْآنِيَةِ، وَالسِّوَاكِ، وَالْوُضُوءِ وَفُرُوضِهِ وَسُنَنِهِ وَنَوَاقِضِهِ، وَالِاسْتِنْجَاءِ، وَالْغُسْلِ، وَالتَّيَمُّمِ، وَالْمَسْحِ عَلَى الْخُفَّيْنِ، وَالنَّجَاسَاتِ، وَالْحَيْضِ وَالنِّفَاسِ وَالِاسْتِحَاضَةِ.",
+      "translation": "Pembahasan komprehensif mengenai hukum air (suci menyucikan, musta'mal, mutanajjis), bejana, siwak, wudhu, istinja, mandi wajib, tayamum, mengusap khuf, jenis-jenis najis dan cara menyucikannya, serta hukum haid, nifas, dan istihadhah."
+    },
+    {
+      "title": "Kitab Shalat (Pendahuluan, Waktu, dan Syarat)",
+      "titleArabic": "كِتَابُ الصَّلَاةِ",
+      "arabic": "مَوَاقِيتُ الصَّلَاةِ الْمَكْتُوبَةِ، وَالْأَوْقَاتُ الْمَكْرُوهَةُ، وَشُرُوطُ وُجُوبِ الصَّلَاةِ وَشُرُوطُ صِحَّتِهَا، وَالْأَذَانُ وَالْإِقَامَةُ، وَاسْتِقْبَالُ الْقِبْلَةِ، وَسَتْرُ الْعَوْرَةِ.",
+      "translation": "Penjelasan waktu-waktu shalat fardhu lima waktu, waktu terlarang untuk shalat sunnah mutlak, syarat wajib dan syarat sah shalat, adzan dan iqamah, ketentuan menghadap kiblat, serta batas aurat dalam shalat."
+    },
+    {
+      "title": "Bab Sifat Shalat (Rukun dan Sunnah Shalat)",
+      "titleArabic": "بَابُ صِفَةِ الصَّلَاةِ",
+      "arabic": "أَرْكَانُ الصَّلَاةِ وَهَيْئَاتُهَا وَسُنَنُهَا الْأَبْعَاضُ، وَأَحْكَامُ النِّيَّةِ وَتَكْبِيرَةِ الْإِحْرَامِ وَالْفَاتِحَةِ وَتَشْدِيدَاتِهَا، وَالرُّكُوعِ وَالسُّجُودِ وَأَعْضَائِهِ، وَالتَّشَهُّدِ وَالتَّسْلِيمِ، وَمُبْطِلَاتِ الصَّلَاةِ.",
+      "translation": "Uraian terperinci mengenai rukun-rukun shalat (niat, takbiratul ihram, berdiri, Al-Fatihah beserta tajwid dan tasydidnya, rukuk, i'tidal, sujud dan tujuh anggota sujud, duduk di antara dua sujud, tasyahud akhir, shalawat, salam, tertib), sunnah ab'adh dan hai'at, serta hal-hal yang membatalkan shalat."
+    },
+    {
+      "title": "Bab Sujud Sahwi, Tilawah, dan Syukur",
+      "titleArabic": "بَابُ سُجُودِ السَّهْوِ وَالتِّلَاوَةِ وَالشُّكْرِ",
+      "arabic": "أَسْبَابُ سُجُودِ السَّهْوِ وَكَيْفِيَّتُهُ وَمَحَلُّهُ، وَآيَاتُ السَّجْدَةِ وَشُرُوطُ سُجُودِ التِّلَاوَةِ، وَسُجُودُ الشُّكْرِ وَمَوَاضِعُهُ.",
+      "translation": "Hukum dan sebab-sebab sujud sahwi (karena meninggalkan sunnah ab'adh, ragu jumlah rakaat, dll.), ketentuan sujud tilawah beserta ayat-ayat sajdah, dan hukum sujud syukur."
+    },
+    {
+      "title": "Bab Shalat Sunnah (Tatawwu')",
+      "titleArabic": "بَابُ صَلَاةِ التَّطَوُّعِ",
+      "arabic": "أَقْسَامُ النَّوَافِلِ الرَّاتِبَةِ وَغَيْرِ الرَّاتِبَةِ، كَالْوِتْرِ وَالضُّحَى وَالتَّرَاوِيحِ وَتَحِيَّةِ الْمَسْجِدِ وَصَلَاةِ اللَّيْلِ، وَتَفْضِيلُ بَعْضِهَا عَلَى بَعْضٍ.",
+      "translation": "Klasifikasi shalat sunnah muakkad dan ghairu muakkad, antara lain shalat rawatib, witir, dhuha, tarawih, tahiyatul masjid, dan qiyamul lail beserta keutamaannya."
+    },
+    {
+      "title": "Bab Shalat Jama'ah",
+      "titleArabic": "بَابُ صَلَاةِ الْجَمَاعَةِ",
+      "arabic": "حُكْمُ الْجَمَاعَةِ وَشُرُوطُ الْقُدْوَةِ، وَأَحْكَامُ الْإِمَامِ وَالْمَأْمُومِ، وَالْمَسْبُوقِ وَالْمُوَافِقِ، وَأَعْذَارُ تَرْكِ الْجَمَاعَةِ.",
+      "translation": "Hukum shalat berjamaah, syarat sah mengikuti imam (qudwah), syarat imam dan makmum, hukum makmum masbuq, posisi shaf, serta uzur yang membolehkan meninggalkan jamaah."
+    },
+    {
+      "title": "Bab Shalat Musafir (Qashar dan Jama')",
+      "titleArabic": "بَابُ صَلَاةِ الْمُسَافِرِ",
+      "arabic": "شُرُوطُ الْقَصْرِ وَالْجَمْعِ تَقْدِيمًا وَتَأْخِيرًا، وَمَسَافَةُ السَّفَرِ الْمُبِيحِ لِلرُّخْصَةِ، وَصَلَاةُ الْمَرِيضِ وَالْعَاجِزِ.",
+      "translation": "Ketentuan jarak safar, syarat mengqashar shalat ruba'iyyah, syarat jama' taqdim dan jama' ta'khir, serta tata cara shalat bagi orang sakit atau yang tidak mampu berdiri."
+    },
+    {
+      "title": "Bab Shalat Khauf",
+      "titleArabic": "بَابُ صَلَاةِ الْخَوْفِ",
+      "arabic": "صِفَاتُ صَلَاةِ الْخَوْفِ فِي الْحَرْبِ وَالْأَعْذَارِ الشَّدِيدَةِ، وَأَنْوَاعُهَا الْمَأْثُورَةُ، وَشِدَّةُ الْخَوْفِ.",
+      "translation": "Tata cara pelaksanaan shalat khauf dalam keadaan perang atau ancaman bahaya sesuai bentuk-bentuk yang diriwayatkan dari Nabi Muhammad SAW."
+    },
+    {
+      "title": "Bab Shalat Jum'at",
+      "titleArabic": "بَابُ صَلَاةِ الْجُمُعَةِ",
+      "arabic": "شُرُوطُ وُجُوبِ الْجُمُعَةِ وَشُرُوطُ صِحَّتِهَا، وَأَرْكَانُ الْخُطْبَتَيْنِ وَشُرُوطُهُمَا، وَسُنَنُ يَوْمِ الْجُمُعَةِ وَآدَابُهَا.",
+      "translation": "Syarat wajib dan syarat sah shalat Jum'at (termasuk bilangan 40 orang mukim), rukun dan syarat dua khutbah Jum'at, serta adab dan kesunnahan hari Jum'at."
+    },
+    {
+      "title": "Bab Shalat Dua Hari Raya ('Idain)",
+      "titleArabic": "بَابُ صَلَاةِ الْعِيدَيْنِ",
+      "arabic": "حُكْمُ صَلَاةِ عِيدِ الْفِطْرِ وَعِيدِ الْأَضْحَى وَوَقْتُهُمَا وَكَيْفِيَّتُهُمَا، وَالتَّكْبِيرُ الْمُرْسَلُ وَالْمُقَيَّدُ وَسُنَنُ الْعِيدِ.",
+      "translation": "Tata cara shalat Idul Fitri dan Idul Adha, jumlah takbir zawa'id pada rakaat pertama dan kedua, khutbah Id, serta ketentuan takbir mursal dan muqayyad."
+    },
+    {
+      "title": "Bab Shalat Gerhana (Kusufain)",
+      "titleArabic": "بَابُ صَلَاةِ الْكُسُوفَيْنِ",
+      "arabic": "صِفَةُ صَلَاةِ كُسُوفِ الشَّمْسِ وَخُسُوفِ الْقَمَرِ ذَاتِ الرُّكُوعَيْنِ وَالْقِيَامَيْنِ فِي كُلِّ رَكْعَةٍ، وَخُطْبَتُهُمَا.",
+      "translation": "Tata cara shalat gerhana matahari dan bulan dengan dua kali berdiri, dua kali bacaan Al-Fatihah, dan dua kali rukuk di tiap rakaat beserta dua khutbah setelahnya."
+    },
+    {
+      "title": "Bab Shalat Istisqa' (Meminta Hujan)",
+      "titleArabic": "بَابُ صَلَاةِ الِاسْتِسْقَاءِ",
+      "arabic": "أَحْكَامُ طَلَبِ السُّقْيَا وَصَلَاةِ الِاسْتِسْقَاءِ، وَالصِّيَامِ وَالتَّوْبَةِ قَبْلَهَا، وَتَحْوِيلِ الرِّدَاءِ فِي الْخُطْبَةِ.",
+      "translation": "Ketentuan shalat istisqa', anjuran bertaubat dan berpuasa sebelum keluar menuju lapangan, tata cara shalat dan khutbahnya, serta membalik selendang (rida')."
+    },
+    {
+      "title": "Kitab Jenazah",
+      "titleArabic": "كِتَابُ الْجَنَائِزِ",
+      "arabic": "أَحْكَامُ الْمُحْتَضَرِ، وَغَسْلِ الْمَيِّتِ وَتَكْفِينِهِ، وَالصَّلَاةِ عَلَيْهِ وَأَرْكَانِهَا، وَحَمْلِهِ وَدَفْنِهِ، وَالتَّعْزِيَةِ، وَحُكْمِ الشَّهِيدِ وَالسِّقْطِ.",
+      "translation": "Kewajiban terhadap jenazah (memandikan, mengafani, menyalati dengan tujuh rukunnya, memakamkan), hukum takziah, ziarah kubur, serta ketentuan khusus bagi syahid dunia-akhirat dan bayi keguguran."
+    },
+    {
+      "title": "Kitab Zakat",
+      "titleArabic": "كِتَابُ الزَّكَاةِ",
+      "arabic": "أَمْوَالُ الزَّكَاةِ مِنَ النَّعَمِ وَالنَّقْدَيْنِ وَالزُّرُوعِ وَالثِّمَارِ وَعُرُوضِ التِّجَارَةِ وَالرِّكَازِ وَالْمَعْدِنِ، وَزَكَاةُ الْفِطْرِ، وَقَسْمُ الصَّدَقَاتِ عَلَى الْأَصْنَافِ الثَّمَانِيَةِ.",
+      "translation": "Hukum zakat binatang ternak, emas-perak/uang, hasil pertanian dan buah-buahan, harta perniagaan, barang temuan (rikaz) dan tambang, zakat fitrah, serta syarat pembagian zakat kepada delapan golongan mustahik."
+    },
+    {
+      "title": "Kitab Puasa (Shiyam)",
+      "titleArabic": "كِتَابُ الصِّيَامِ",
+      "arabic": "شُرُوطُ وُجُوبِ الصَّوْمِ وَصِحَّتِهِ، وَثُبُوتُ رَمَضَانَ بِالرُّؤْيَةِ أَوِ الْإِكْمَالِ، وَمُفْطِرَاتُ الصَّائِمِ، وَالْقَضَاءُ وَالْفِدْيَةُ وَالْكَفَّارَةُ، وَصَوْمُ التَّطَوُّعِ وَالْأَيَّامُ الْمَنْهِيُّ عَنْهَا.",
+      "translation": "Penetapan awal Ramadhan, syarat wajib dan sah puasa, rukun puasa (niat dan menahan diri dari pembatal), hukum qadha, fidyah, kafarat jima' di siang Ramadhan, puasa sunnah, serta hari-hari yang diharamkan berpuasa."
+    },
+    {
+      "title": "Kitab I'tikaf",
+      "titleArabic": "كِتَابُ الِاعْتِكَافِ",
+      "arabic": "أَرْكَانُ الِاعْتِكَافِ مِنَ الْمُعْتَكِفِ وَالْمَسْجِدِ وَاللُّبْثِ وَالنِّيَّةِ، وَمُبْطِلَاتُهُ، وَأَحْكَامُ الِاعْتِكَافِ الْمَنْذُورِ.",
+      "translation": "Hukum dan rukun i'tikaf di masjid, syarat orang yang beri'tikaf, hal-hal yang membatalkan i'tikaf, serta konsekuensi i'tikaf yang dinadzarkan."
+    },
+    {
+      "title": "Kitab Haji dan Umrah",
+      "titleArabic": "كِتَابُ الْحَجِّ",
+      "arabic": "شُرُوطُ وُجُوبِ الْحَجِّ وَالْعُمْرَةِ، وَالْمَوَاقِيتُ الزَّمَانِيَّةُ وَالْمَكَانِيَّةُ، وَالْإِحْرَامُ وَمَحْظُورَاتُهُ، وَالطَّوَافُ وَالسَّعْيُ وَالْوُقُوفُ بِعَرَفَةَ وَالْمَبِيتُ وَالرَّمْيُ، وَالدِّمَاءُ وَالْإِحْصَارُ.",
+      "translation": "Kewajiban haji dan umrah sekali seumur hidup bagi yang mampu, miqat zamani dan makani, cara berihram (ifrad, tamattu', qiran), rukun dan wajib haji, larangan ihram, denda (dam), serta hukum terhalang (ihshar)."
+    },
+    {
+      "title": "Kitab Jual Beli (Al-Buyu')",
+      "titleArabic": "كِتَابُ الْبَيْعِ",
+      "arabic": "أَرْكَانُ الْبَيْعِ وَشُرُوطُ الْعَاقِدَيْنِ وَالصِّيغَةِ وَالْمَعْقُودِ عَلَيْهِ، وَالْبُيُوعُ الْمَنْهِيُّ عَنْهَا، وَالرِّبَا وَأَقْسَامُهُ، وَالْخِيَارُ، وَالْمُرَابَحَةُ وَالتَّوْلِيَةُ.",
+      "translation": "Rukun dan syarat sah jual beli, jual beli yang terlarang dan batal, hukum riba (fadhl, nasi'ah, yad), hak khiyar (majelis, syarat, aib), akad sharf, serta jual beli murabahah dan tauliyah."
+    },
+    {
+      "title": "Kitab Salam (Pemesanan Barang)",
+      "titleArabic": "كِتَابُ السَّلَمِ",
+      "arabic": "تَعْرِيفُ السَّلَمِ وَشُرُوطُ صِحَّتِهِ فِي الثَّمَنِ وَالْمُسْلَمِ فِيهِ وَالْأَجَلِ وَمَكَانِ التَّسْلِيمِ.",
+      "translation": "Hukum jual beli pesanan dengan pembayaran di muka (salam), syarat modal diserahkan di majelis akad, serta spesifikasi barang yang dipesan dan waktu penyerahannya."
+    },
+    {
+      "title": "Kitab Rahn (Gadai)",
+      "titleArabic": "كِتَابُ الرَّهْنِ",
+      "arabic": "أَرْكَانُ الرَّهْنِ وَشُرُوطُ الْمَرْهُونِ وَالْمَرْهُونِ بِهِ، وَانْتِفَاعُ الْمُرْتَهِنِ، وَتَلَفُ الْمَرْهُونِ وَبَيْعُهُ عِنْدَ الْمَحَلِّ.",
+      "translation": "Ketentuan gadai sebagai jaminan utang, syarat barang gadai, hukum pemanfaatan barang gadai, serta eksekusi barang gadai saat jatuh tempo."
+    },
+    {
+      "title": "Kitab Taflis (Pailit) dan Hajr",
+      "titleArabic": "كِتَابُ التَّفْلِيسِ وَالْحَجْرِ",
+      "arabic": "أَحْكَامُ الْحَجْرِ عَلَى الْمُفْلِسِ وَالصَّبِيِّ وَالْمَجْنُونِ وَالسَّفِيهِ، وَقَسْمُ مَالِ الْمُفْلِسِ بَيْنَ الْغُرَمَاءِ.",
+      "translation": "Hukum pembatasan kewenangan bertindak (hajr) bagi orang yang pailit, anak kecil, orang gila, dan orang boros (safih), serta pembagian harta pailit kepada para kreditur."
+    },
+    {
+      "title": "Kitab Shulh (Perdamaian)",
+      "titleArabic": "كِتَابُ الصُّلْحِ",
+      "arabic": "أَنْوَاعُ الصُّلْحِ (صُلْحُ الْإِقْرَارِ وَصُلْحُ الْإِنْكَارِ) وَشُرُوطُهُ، وَأَحْكَامُ الْأَجْنِحَةِ وَالْمَمَرَّاتِ وَالطُّرُقِ الْمُشْتَرَكَةِ.",
+      "translation": "Hukum perdamaian dalam sengketa hak milik (shulh ibra' dan mu'awadhah) serta aturan hak bertetangga terkait jalan, saluran air, dan bangunan."
+    },
+    {
+      "title": "Kitab Hawalah (Pengalihan Utang)",
+      "titleArabic": "كِتَابُ الْحَوَالَةِ",
+      "arabic": "أَرْكَانُ الْحَوَالَةِ وَشُرُوطُهَا وَبَرَاءَةُ الْمُحِيلِ بِهَا، وَعَدَمُ رُجُوعِ الْمُحْتَالِ عِنْدَ إِعْسَارِ الْمُحَالِ عَلَيْهِ.",
+      "translation": "Ketentuan pemindahan tanggungan utang dari satu pihak ke pihak lain, syarat kerelaan, dan bebasnya tanggungan pihak pertama."
+    },
+    {
+      "title": "Kitab Dhaman (Penjaminan) dan Kafalah",
+      "titleArabic": "كِتَابُ الضَّمَانِ",
+      "arabic": "ضَمَانُ الدُّيُونِ وَضَمَانُ الْأَبْدَانِ (الْكَفَالَةُ)، وَشُرُوطُ الضَّامِنِ وَالْمَضْمُونِ، وَرُجُوعُ الضَّامِنِ عَلَى الْأَصِيلِ.",
+      "translation": "Hukum penjaminan utang (dhaman) dan penjaminan menghadirkan orang (kafalah bi al-badan), syarat penjamin, serta hak menagih kembali kepada pihak berutang."
+    },
+    {
+      "title": "Kitab Syirkah (Kongsi/Kemitraan)",
+      "titleArabic": "كِتَابُ الشَّرِكَةِ",
+      "arabic": "أَقْسَامُ الشَّرِكَةِ (شَرِكَةُ الْعِنَانِ وَالْأَبْدَانِ وَالْمُفَاوَضَةِ وَالْوُجُوهِ) وَأَيُّهَا يَصِحُّ فِي الْمَذْهَبِ وَشُرُوطُ صِحَّتِهَا.",
+      "translation": "Klasifikasi kemitraan usaha dalam madzhab Syafi'i (keabsahan syirkah 'inan dan batalnya syirkah abdan/mufawadhah/wujuh), syarat permodalan, serta pembagian laba dan rugi."
+    },
+    {
+      "title": "Kitab Wakalah (Perwakilan)",
+      "titleArabic": "كِتَابُ الْوَكَالَةِ",
+      "arabic": "أَرْكَانُ الْوَكَالَةِ وَمَا يَجُوزُ التَّوْكِيلُ فِيهِ وَمَا لَا يَجُوزُ، وَحُدُودُ تَصَرُّفِ الْوَكِيلِ وَضَمَانُهُ عِنْدَ التَّعَدِّي.",
+      "translation": "Hukum mewakilkan urusan muamalah dan ibadah tertentu kepada pihak lain, batas kewenangan wakil, serta tanggung jawab ganti rugi jika melampaui batas."
+    },
+    {
+      "title": "Kitab Iqrar (Pengakuan)",
+      "titleArabic": "كِتَابُ الْإِقْرَارِ",
+      "arabic": "شُرُوطُ الْمُقِرِّ وَالْمُقَرِّ لَهُ وَالْمُقَرِّ بِهِ، وَأَحْكَامُ الِاسْتِثْنَاءِ فِي الْإِقْرَارِ وَإِقْرَارِ الْمَرِيضِ.",
+      "translation": "Ketentuan pengakuan hak atau kewajiban seseorang terhadap orang lain, syarat keabsahannya, serta hukum pengakuan yang disertai pengecualian."
+    },
+    {
+      "title": "Kitab 'Ariyah (Pinjam-Meminjam)",
+      "titleArabic": "كِتَابُ الْعَارِيَةِ",
+      "arabic": "أَرْكَانُ الْإِعَارَةِ وَشُرُوطُهَا، وَضَمَانُ الْمُسْتَعِيرِ لِلْعَيْنِ الْمُسْتَعَارَةِ إِذَا تَلِفَتْ، وَرُجُوعُ الْمُعِيرِ.",
+      "translation": "Hukum meminjamkan barang untuk diambil manfaatnya tanpa imbalan, batas pemanfaatan oleh peminjam, dan tanggung jawab ganti rugi jika barang rusak."
+    },
+    {
+      "title": "Kitab Ghashab (Perampasan)",
+      "titleArabic": "كِتَابُ الْغَصْبِ",
+      "arabic": "تَعْرِيفُ الْغَصْبِ وَوُجُوبُ الرَّدِّ وَأَرْشِ النَّقْصِ وَأُجْرَةِ الْمِثْلِ، وَتَصَرُّفَاتُ الْغَاصِبِ فِي الْمَغْصُوبِ.",
+      "translation": "Hukum mengambil hak orang lain secara zalim, kewajiban mengembalikan barang beserta ganti rugi penurunan nilai atau sewa standar, serta hukum perubahan bentuk barang ghashab."
+    },
+    {
+      "title": "Kitab Syuf'ah (Hak Beli Paksa)",
+      "titleArabic": "كِتَابُ الشُّفْعَةِ",
+      "arabic": "شُرُوطُ ثُبُوتِ الشُّفْعَةِ فِي الْعَقَارِ الْمُشْتَرَكِ وَفَوْرِيَّتُهَا، وَكَيْفِيَّةُ الْأَخْذِ بِالشُّفْعَةِ.",
+      "translation": "Hak mitra kepemilikan bersama atas harta tidak bergerak (tanah/bangunan) untuk membeli paksa bagian mitra yang dijual kepada pihak luar."
+    },
+    {
+      "title": "Kitab Qiradh / Mudharabah (Bagi Hasil)",
+      "titleArabic": "كِتَابُ الْقِرَاضِ",
+      "arabic": "أَرْكَانُ الْقِرَاضِ وَشُرُوطُ رَأْسِ الْمَالِ وَالرِّبْحِ، وَيَدُ الْعَامِلِ وَأَحْكَامُ التَّصَرُّفِ وَالْخَسَارَةِ.",
+      "translation": "Akad kerja sama permodalan antara pemilik modal (malik) dan pengelola ('amil) dengan pembagian keuntungan berdasarkan persentase yang disepakati."
+    },
+    {
+      "title": "Kitab Musaqah (Pengairan Kebun)",
+      "titleArabic": "كِتَابُ الْمُسَاقَاةِ",
+      "arabic": "شُرُوطُ الْمُسَاقَاةِ فِي النَّخْلِ وَالْعِنَبِ، وَوَظَائِفُ الْعَامِلِ وَالْمَالِكِ، وَحُكْمُ الْمُزَارَعَةِ وَالْمُخَابَرَةِ.",
+      "translation": "Akad pemeliharaan pohon kurma dan anggur dengan imbalan bagian tertentu dari hasil buah, serta pembahasan hukum muzara'ah dan mukhabarah."
+    },
+    {
+      "title": "Kitab Ijarah (Sewa-Menyewa dan Upah)",
+      "titleArabic": "كِتَابُ الْإِجَارَةِ",
+      "arabic": "أَرْكَانُ الْإِجَارَةِ (إِجَارَةُ الْعَيْنِ وَإِجَارَةُ الذِّمَّةِ)، وَشُرُوطُ الْمَنْفَعَةِ وَالْأُجْرَةِ، وَضَمَانُ الْأَجِيرِ الْمُشْتَرَكِ وَالْخَاصِّ.",
+      "translation": "Ketentuan sewa manfaat barang dan kontrak jasa tenaga kerja, perbedaan ijarah 'ain dan dzimmah, serta pertanggungjawaban pekerja atas barang."
+    },
+    {
+      "title": "Kitab Ihya' al-Mawat (Pembukaan Lahan Mati)",
+      "titleArabic": "كِتَابُ إِحْيَاءِ الْمَوَاتِ",
+      "arabic": "شُرُوطُ إِحْيَاءِ الْأَرْضِ الْمَوَاتِ وَتَمَلُّكِهَا، وَأَحْكَامُ الْمَعَادِنِ وَالْمِيَاهِ الْمُبَاحَةِ وَإِقْطَاعِ الْإِمَامِ.",
+      "translation": "Ketentuan membuka dan menghidupkan lahan tak bertuan menjadi hak milik, hukum barang tambang, air publik, serta pemberian tanah oleh pemimpin."
+    },
+    {
+      "title": "Kitab Waqaf",
+      "titleArabic": "كِتَابُ الْوَقْفِ",
+      "arabic": "أَرْكَانُ الْوَقْفِ وَشُرُوطُ الْوَاقِفِ وَالْمَوْقُوفِ وَالْمَوْقُوفِ عَلَيْهِ وَالصِّيغَةِ، وَمِلْكِيَّةُ الْمَوْقُوفِ وَوِلَايَةُ النَّاظِرِ.",
+      "translation": "Hukum menahan harta benda yang kekal manfaatnya untuk kepentingan kebaikan, syarat sah wakaf, status kepemilikan harta wakaf, serta tugas nazhir wakaf."
+    },
+    {
+      "title": "Kitab Hibah (Pemberian)",
+      "titleArabic": "كِتَابُ الْهِبَةِ",
+      "arabic": "أَرْكَانُ الْهِبَةِ وَلُزُومُهَا بِالْقَبْضِ، وَحُكْمُ الْعُمْرَى وَالرُّقْبَى، وَرُجُوعُ الْأَصْلِ فِي هِبَةِ فَرْعِهِ.",
+      "translation": "Hukum pemberian sukarela tanpa imbalan, syarat serah terima (qabdh), hukum hibah 'umra dan ruqba, serta hak orang tua menarik kembali hibah kepada anaknya."
+    },
+    {
+      "title": "Kitab Luqathah (Barang Temuan)",
+      "titleArabic": "كِتَابُ اللُّقَطَةِ",
+      "arabic": "أَحْكَامُ الْتِقَاطِ الضَّائِعِ وَتَعْرِيفِهِ سَنَةً، وَالْفَرْقُ بَيْنَ الْحَقِيرِ وَالنَّفِيسِ، وَلُقَطَةُ الْحَرَمِ وَالضَّالَّةُ.",
+      "translation": "Kewajiban dan tata cara mengumumkan barang temuan selama satu tahun, pengecualian barang remeh, barang temuan di tanah haram, serta hewan tersesat."
+    },
+    {
+      "title": "Kitab Laqith (Anak Temuan)",
+      "titleArabic": "كِتَابُ اللَّقِيطِ",
+      "arabic": "وُجُوبُ الْتِقَاطِ الطِّفْلِ الْمَنْبُوذِ وَحِفْظِهِ وَالْإِنْفَاقِ عَلَيْهِ مِنْ بَيْتِ الْمَالِ، وَثُبُوتُ نَسَبِهِ وَوَلَائِهِ.",
+      "translation": "Hukum fardhu kifayah menyelamatkan dan merawat bayi yang diterlantarkan, pembiayaannya, status agama dan kemerdekaannya, serta penetapan nasabnya."
+    },
+    {
+      "title": "Kitab Ji'alah (Sayembara)",
+      "titleArabic": "كِتَابُ الْجِعَالَةِ",
+      "arabic": "تَعْرِيفُ الْجِعَالَةِ وَكَوْنُهَا عَقْدًا جَائِزًا، وَشُرُوطُ الْعَمَلِ وَالْجُعْلِ، وَاسْتِحْقَاقُ الْعِوَضِ عِنْدَ تَمَامِ الْعَمَلِ.",
+      "translation": "Hukum menjanjikan upah atau hadiah atas keberhasilan suatu pekerjaan tertentu (seperti mengembalikan barang hilang), sifat akadnya yang ja'iz, dan hak atas imbalan."
+    },
+    {
+      "title": "Kitab Fara'idh (Hukum Waris)",
+      "titleArabic": "كِتَابُ الْفَرَائِضِ",
+      "arabic": "الْوَارِثُونَ مِنَ الرِّجَالِ وَالنِّسَاءِ، وَالْفُرُوضُ الْمُقَدَّرَةُ، وَالتَّعْصِيبُ، وَالْحَجْبُ، وَالْعَوْلُ، وَالرَّدُّ، وَتَوْرِيثُ ذَوِي الْأَرْحَامِ، وَمَوَانِعُ الْإِرْثِ.",
+      "translation": "Daftar ahli waris laki-laki dan perempuan, bagian pasti (furudh al-muqaddarah), 'ashabah, hijab, 'aul, radd, masalah khusus seperti akdariyah dan musytarakah, serta penghalang waris."
+    },
+    {
+      "title": "Kitab Washaya (Wasiat)",
+      "titleArabic": "كِتَابُ الْوَصَايَا",
+      "arabic": "أَرْكَانُ الْوَصِيَّةِ وَحَدُّهَا بِالثُّلُثِ لِغَيْرِ وَارِثٍ، وَالْوَصِيَّةُ بِالْمَنَافِعِ، وَالْإِيصَاءُ إِلَى الْوَصِيِّ وَشُرُوطُهُ.",
+      "translation": "Hukum berwasiat harta maksimal sepertiga bagi selain ahli waris, wasiat manfaat, pencabutan wasiat, serta penunjukan pelaksana wasiat (washi)."
+    },
+    {
+      "title": "Kitab Wadi'ah (Titipan)",
+      "titleArabic": "كِتَابُ الْوَدِيعَةِ",
+      "arabic": "أَحْكَامُ الْإِيدَاعِ وَحِفْظِ الْوَدِيعَةِ، وَكَوْنُ يَدِ الْمُودَعِ يَدَ أَمَانَةٍ، وَأَسْبَابُ الضَّمَانِ بِالتَّقْصِيرِ أَوِ التَّعَدِّي.",
+      "translation": "Hukum penitipan barang, status tangan penerima titipan sebagai amanah, serta kondisi yang mewajibkan ganti rugi akibat kelalaian atau pelanggaran."
+    },
+    {
+      "title": "Kitab Pembagian Fay' dan Ghanimah",
+      "titleArabic": "كِتَابُ قَسْمِ الْفَيْءِ وَالْغَنِيمَةِ",
+      "arabic": "الْفَرْقُ بَيْنَ الْفَيْءِ وَالْغَنِيمَةِ، وَمَصَارِفُ الْخُمُسِ، وَتَقْسِيمُ الْأَرْبَعَةِ الْأَخْمَاسِ عَلَى الْغَانِمِينَ.",
+      "translation": "Perbedaan harta rampasan tanpa perang (fay') dan hasil perang (ghanimah) serta aturan syariat mengenai pembagian seperlima dan empat perlimanya."
+    },
+    {
+      "title": "Kitab Pembagian Shadaqah (Zakat)",
+      "titleArabic": "كِتَابُ قَسْمِ الصَّدَقَاتِ",
+      "arabic": "تَفْصِيلُ الْأَصْنَافِ الثَّمَانِيَةِ الْمُسْتَحِقِّينَ لِلزَّكَاةِ، وَأَحْكَامُ نَقْلِ الزَّكَاةِ، وَصَدَقَةُ التَّطَوُّعِ.",
+      "translation": "Rincian kriteria delapan asnaf penerima zakat (fakir, miskin, amil, muallaf, riqab, gharim, sabilillah, ibnu sabil), hukum memindahkan zakat ke daerah lain, dan sedekah sunnah."
+    },
+    {
+      "title": "Kitab Nikah",
+      "titleArabic": "كِتَابُ النِّكَاحِ",
+      "arabic": "حُكْمُ النِّكَاحِ وَالْخِطْبَةِ وَالنَّظَرِ، وَأَرْكَانُ النِّكَاحِ وَشُرُوطُ الْوَلِيِّ وَالشَّاهِدَيْنِ، وَالْكَفَاءَةُ، وَالْمُحَرَّمَاتُ مِنَ النِّسَاءِ، وَخِيَارُ الْعَيْبِ.",
+      "translation": "Hukum pernikahan, peminangan, rukun nikah (calon suami-istri, wali, dua saksi, shighat), urutan wali nasab, kesetaraan (kafa'ah), wanita yang haram dinikahi, serta fasakh nikah karena cacat."
+    },
+    {
+      "title": "Kitab Shadaq (Mahar) dan Walimah",
+      "titleArabic": "كِتَابُ الصَّدَاقِ",
+      "arabic": "مِقْدَارُ الصَّدَاقِ وَتَسْمِيَتُهُ، وَمَهْرُ الْمِثْلِ، وَتَنَصُّفُهُ بِالطَّلَاقِ قَبْلَ الدُّخُولِ، وَأَحْكَامُ الْوَلِيمَةِ وَالْقَسْمِ وَالنُّشُوزِ.",
+      "translation": "Ketentuan mahar musamma dan mahar mitsil, gugurnya separuh mahar akibat talak sebelum dukhul, sunnah walimah nikah, pembagian giliran (qasm), serta hukum nusyuz."
+    },
+    {
+      "title": "Kitab Khulu' (Gugat Cerai dengan Tebusan)",
+      "titleArabic": "كِتَابُ الْخُلْعِ",
+      "arabic": "أَرْكَانُ الْخُلْعِ وَأَلْفَاظُهُ وَالْعِوَضُ فِيهِ، وَوُقُوعُهُ طَلْقَةً بَائِنَةً، وَشُرُوطُ أَهْلِيَّةِ الْمُخْتَلِعَةِ.",
+      "translation": "Ketentuan perceraian atas permintaan istri dengan membayar 'iwadh (tebusan), lafal yang digunakan, serta konsekuensinya sebagai talak ba'in shughra."
+    },
+    {
+      "title": "Kitab Thalaq (Cerai)",
+      "titleArabic": "كِتَابُ الطَّلَاقِ",
+      "arabic": "أَلْفَاظُ الطَّلَاقِ الصَّرِيحُ وَالْكِنَايَةُ، وَالسُّنِّيُّ وَالْبِدْعِيُّ، وَعَدَدُ الطَّلَقَاتِ، وَالتَّعْلِيقُ وَالِاسْتِثْنَاءُ فِي الطَّلَاقِ.",
+      "translation": "Pembagian talak sharih dan kinayah, talak sunni dan bid'i, batas tiga kali talak, syarat sah talak, serta hukum talak mu'allaq (digantungkan pada syarat)."
+    },
+    {
+      "title": "Kitab Raj'ah (Rujuk)",
+      "titleArabic": "كِتَابُ الرَّجْعَةِ",
+      "arabic": "شُرُوطُ صِحَّةِ الرَّجْعَةِ فِي الْعِدَّةِ بَعْدَ الطَّلَاقِ الرَّجْعِيِّ، وَصِيغَتُهَا، وَحُكْمُ التَّحْلِيلِ بَعْدَ الثَّلَاثِ.",
+      "translation": "Hak suami merujuk istri dalam masa iddah talak raj'i, syarat sah rujuk dengan ucapan, serta syarat halalnya mantan istri setelah talak tiga."
+    },
+    {
+      "title": "Kitab Ila' (Sumpah Tidak Menggauli Istri)",
+      "titleArabic": "كِتَابُ الْإِيلَاءِ",
+      "arabic": "تَعْرِيفُ الْإِيلَاءِ وَمُدَّتُهُ الْأَرْبَعَةُ الْأَشْهُرِ، وَتَخْيِيرُ الْمُولِي بَيْنَ الْفَيْئَةِ وَالطَّلَاقِ.",
+      "translation": "Hukum sumpah suami untuk tidak menggauli istrinya selama lebih dari empat bulan, batas waktu tunggu, dan kewajiban kembali (fai'ah) atau menceraikan."
+    },
+    {
+      "title": "Kitab Zhihar dan Kaffarah",
+      "titleArabic": "كِتَابُ الظِّهَارِ",
+      "arabic": "أَرْكَانُ الظِّهَارِ وَتَحْرِيمُ الْوَطْءِ قَبْلَ التَّكْفِيرِ، وَأَنْوَاعُ الْكَفَّارَةِ الْمُرَتَّبَةِ (الْعِتْقُ فَالصِّيَامُ فَالْإِطْعَامُ).",
+      "translation": "Hukum suami menyamakan istrinya dengan punggung wanita mahramnya, haramnya hubungan suami-istri sebelum membayar kafarat, serta urutan jenis kafarat zhihar."
+    },
+    {
+      "title": "Kitab Li'an (Sumpah Tuduhan Zina)",
+      "titleArabic": "كِتَابُ اللِّعَانِ",
+      "arabic": "أَسْبَابُ اللِّعَانِ وَكَيْفِيَّتُهُ، وَسُقُوطُ الْحَدِّ وَانْتِفَاءُ النَّسَبِ، وَالْفُرْقَةُ الْمُؤَبَّدَةُ بَيْنَ الزَّوْجَيْنِ.",
+      "translation": "Prosedur sumpah li'an di hadapan hakim ketika suami menuduh istrinya berzina atau mengingkari nasab anak, beserta akibat hukum berupa putusnya perkawinan selamanya."
+    },
+    {
+      "title": "Kitab 'Iddah (Masa Tunggu) dan Istibra'",
+      "titleArabic": "كِتَابُ الْعِدَدِ",
+      "arabic": "أَنْوَاعُ الْعِدَّةِ لِلْمُطَلَّقَةِ وَالْمُتَوَفَّى عَنْهَا زَوْجُهَا وَالْحَامِلِ، وَأَحْكَامُ الْإِحْدَادِ وَالسُّكْنَى وَالِاسْتِبْرَاءِ.",
+      "translation": "Ketentuan lama masa tunggu wanita yang dicerai maupun ditinggal wafat suaminya (berdasarkan quru', bulan, atau melahirkan), kewajiban berkabung (ihdad), serta hukum istibra'."
+    },
+    {
+      "title": "Kitab Radha' (Persusuan)",
+      "titleArabic": "كِتَابُ الرَّضَاعِ",
+      "arabic": "شُرُوطُ الرَّضَاعِ الْمُحَرِّمِ بِخَمْسِ رَضَعَاتٍ مُتَفَرِّقَاتٍ فِي الْحَوْلَيْنِ، وَثُبُوتُ الْحُرْمَةِ وَالْمَحْرَمِيَّةِ.",
+      "translation": "Syarat terjadinya kemahraman akibat persusuan (lima kali susuan terpisah hingga kenyang sebelum usia dua tahun hijriyah) dan dampaknya terhadap hukum nikah."
+    },
+    {
+      "title": "Kitab Nafaqat (Nafkah)",
+      "titleArabic": "كِتَابُ النَّفَقَاتِ",
+      "arabic": "نَفَقَةُ الزَّوْجَةِ وَالْأُصُولِ وَالْفُرُوعِ وَالْمَمْلُوكِ وَالْبَهَائِمِ، وَمِقْدَارُهَا بِحَسَبِ الْيَسَارِ وَالْإِعْسَارِ، وَالْحَضَانَةُ.",
+      "translation": "Kewajiban nafkah suami terhadap istri (pangan, sandang, papan), nafkah terhadap orang tua dan anak, pemeliharaan hewan, serta hukum hak asuh anak (hadhanah)."
+    },
+    {
+      "title": "Kitab Jinayat (Pidana Jiwa dan Anggota Tubuh)",
+      "titleArabic": "كِتَابُ الْجِرَاحِ",
+      "arabic": "أَقْسَامُ الْقَتْلِ (الْعَمْدُ وَشِبْهُ الْعَمْدِ وَالْخَطَأُ)، وَشُرُوطُ وُجُوبِ الْقِصَاصِ فِي النَّفْسِ وَالْأَطْرَافِ، وَعَفْوُ الْوَلِيِّ.",
+      "translation": "Pembagian pembunuhan dan pelukaan (disengaja, semi-sengaja, dan keliru), syarat penegakan hukum qishash atas nyawa dan anggota tubuh, serta hukum pemaafan ahli waris."
+    },
+    {
+      "title": "Kitab Diyat (Denda Pidana)",
+      "titleArabic": "كِتَابُ الدِّيَاتِ",
+      "arabic": "الدِّيَةُ الْمُغَلَّظَةُ وَالْمُخَفَّفَةُ، وَتَحَمُّلُ الْعَاقِلَةِ، وَدِيَاتُ الْأَعْضَاءِ وَالْجُرُوحِ (الْحُكُومَةُ)، وَكَفَّارَةُ الْقَتْلِ.",
+      "translation": "Ukuran diyat berat (mughallazhah) dan ringan (mukhaffafah), peran kerabat penanggung ('aqilah), diyat anggota tubuh dan janin, serta kafarat pembunuhan."
+    },
+    {
+      "title": "Kitab Da'wa al-Dam dan Qasamah",
+      "titleArabic": "كِتَابُ دَعْوَى الدَّمِ وَالْقَسَامَةِ",
+      "arabic": "شُرُوطُ الْقَسَامَةِ بِخَمْسِينَ يَمِينًا عِنْدَ وُجُودِ اللَّوْثِ فِي الْقَتْلِ، وَمَا يَثْبُتُ بِهَا مِنَ الدِّيَةِ.",
+      "translation": "Prosedur sumpah lima puluh kali (qasamah) dalam kasus pembunuhan yang disertai indikasi kuat (lauts) namun tanpa bukti lengkap."
+    },
+    {
+      "title": "Kitab Bughah (Pemberontak)",
+      "titleArabic": "كِتَابُ الْبُغَاةِ",
+      "arabic": "شُرُوطُ وُجُودِ الْبَغْيِ وَتَأْوِيلِ الْبُغَاةِ، وَكَيْفِيَّةُ دَعْوَتِهِمْ وَقِتَالِهِمْ وَالْأَحْكَامُ الْمُتَعَلِّقَةُ بِهِمْ.",
+      "translation": "Kriteria kelompok pemberontak terhadap pemerintahan sah yang memiliki kekuatan dan takwil, kewajiban berdialog sebelum memerangi, serta perlakuan terhadap mereka."
+    },
+    {
+      "title": "Kitab Riddah (Kemurtadan)",
+      "titleArabic": "كِتَابُ الرِّدَّةِ",
+      "arabic": "مَا تَقَعُ بِهِ الرِّدَّةُ مِنَ الْقَوْلِ أَوِ الْفِعْلِ أَوِ الِاعْتِقَادِ، وَوُجُوبُ الِاسْتِتَابَةِ وَالْأَحْكَامُ الْمَالِيَّةُ وَالزَّوْجِيَّةُ لِلْمُرْتَدِّ.",
+      "translation": "Hal-hal yang membatalkan keislaman (ucapan, perbuatan, keyakinan), kewajiban memberi kesempatan bertaubat (istitabah), serta dampak kemurtadan terhadap pernikahan dan harta."
+    },
+    {
+      "title": "Kitab Zina, Qadzaf, dan Hadd Khamr",
+      "titleArabic": "كِتَابُ الزِّنَا",
+      "arabic": "حَدُّ الزِّنَا لِلْمُحْصَنِ وَغَيْرِ الْمُحْصَنِ، وَشُرُوطُ الثُّبُوتِ، وَبَابُ حَدِّ الْقَذْفِ، وَبَابُ الْأَشْرِبَةِ الْمُسْكِرَةِ وَحَدِّ الشُّرْبِ، وَالتَّعْزِيرُ.",
+      "translation": "Ketentuan hukum pidana zina (rajam dan dera), syarat pembuktian empat saksi, hukum menuduh zina (qadzaf), hukum minuman memabukkan (khamr), serta hukum ta'zir."
+    },
+    {
+      "title": "Kitab Qath' al-Sariq (Hukum Pencurian dan Begal)",
+      "titleArabic": "كِتَابُ قَطْعِ السَّارِقِ",
+      "arabic": "شُرُوطُ قَطْعِ يَدِ السَّارِقِ فِي النِّصَابِ وَالْحِرْزِ، وَبَابُ قَطْعِ الطَّرِيقِ (الْحِرَابَةِ) وَأَحْكَامُ الصِّيَالِ وَالدِّفَاعِ.",
+      "translation": "Syarat penegakan hadd pencurian (nisab seperempat dinar dan tempat penyimpanan/hirz), hukum perampokan bersenjata (hirabah), serta hukum membela diri (shiyal)."
+    },
+    {
+      "title": "Kitab Siyar (Jihad dan Hubungan Internasional)",
+      "titleArabic": "كِتَابُ السِّيَرِ",
+      "arabic": "أَحْكَامُ الْجِهَادِ وَفَرْضِ الْكِفَايَةِ، وَالْأَسْرَى وَالْأَمَانِ وَالْهُدْنَةِ، وَحِمَايَةِ النِّسَاءِ وَالصِّبْيَانِ وَغَيْرِ الْمُقَاتِلِينَ.",
+      "translation": "Hukum perang dalam Islam, etika melindungi non-kombatan, ketentuan tawanan perang, perjanjian damai (hudnah), dan pemberian jaminan keamanan (aman)."
+    },
+    {
+      "title": "Kitab Jizyah (Pajak Perlindungan Ahli Dzimmah)",
+      "titleArabic": "كِتَابُ الْجِزْيَةِ",
+      "arabic": "أَحْكَامُ عَقْدِ الذِّمَّةِ وَشُرُوطُهُ، وَمِقْدَارُ الْجِزْيَةِ وَمَنْ تَجِبُ عَلَيْهِ، وَحُقُوقُ أَهْلِ الذِّمَّةِ وَوَاجِبَاتُهُمْ.",
+      "translation": "Ketentuan perjanjian dzimmah bagi warga non-Muslim di bawah negara Islam, besaran jizyah, pihak yang dikecualikan, serta jaminan perlindungan jiwa dan harta mereka."
+    },
+    {
+      "title": "Kitab Shaid dan Dzaba'ih (Berburu dan Sembelihan)",
+      "titleArabic": "كِتَابُ الصَّيْدِ وَالذَّبَائِحِ",
+      "arabic": "شُرُوطُ الذَّكَاةِ الشَّرْعِيَّةِ وَالذَّابِحِ وَالْآلَةِ، وَأَحْكَامُ الصَّيْدِ بِالْجَوَارِحِ الْمُعَلَّمَةِ وَالْآلَةِ، وَحُكْمُ الْجَنِينِ.",
+      "translation": "Syarat penyembelihan hewan yang halal (syarat penyembelih, alat, pemotongan hulqum dan mari'), hukum berburu dengan hewan terlatih dan senjata, serta hukum janin dalam perut sembelihan."
+    },
+    {
+      "title": "Kitab Udhhiyah (Kurban) dan Aqiqah",
+      "titleArabic": "كِتَابُ الْأُضْحِيَّةِ",
+      "arabic": "حُكْمُ الْأُضْحِيَّةِ وَوَقْتُهَا وَسِنُّ الْأُضْحِيَّةِ وَالْعُيُوبُ الْمَانِعَةُ، وَالتَّوْزِيعُ، وَأَحْكَامُ الْعَقِيقَةِ.",
+      "translation": "Hukum sunnah muakkad berkurban pada hari raya Idhul Adha dan hari tasyrik, batas usia hewan kurban, cacat yang membuat tidak sah, pembagian daging, serta ketentuan aqiqah bayi."
+    },
+    {
+      "title": "Kitab Ath'imah (Makanan Halal dan Haram)",
+      "titleArabic": "كِتَابُ الْأَطْعِمَةِ",
+      "arabic": "مَا يَحِلُّ أَكْلُهُ وَمَا يَحْرُمُ مِنْ حَيَوَانَاتِ الْبَرِّ وَالْبَحْرِ، وَالْأَكْلُ عِنْدَ الضَّرُورَةِ وَآدَابُ الطَّعَامِ.",
+      "translation": "Kriteria hewan darat dan laut yang halal dan haram dikonsumsi, hukum memakan barang haram saat darurat mempertahankan nyawa, serta adab makan dan minum."
+    },
+    {
+      "title": "Kitab Musabaqah dan Munadhalah (Perlombaan)",
+      "titleArabic": "كِتَابُ الْمُسَابَقَةِ وَالْمُنَاضَلَةِ",
+      "arabic": "أَحْكَامُ السِّبَاقِ عَلَى الْخَيْلِ وَالْإِبِلِ وَالرَّمْيِ بِالسِّهَامِ، وَشُرُوطُ بَذْلِ الْعِوَضِ فِيهَا.",
+      "translation": "Hukum perlombaan ketangkasan yang melatih persiapan bela negara (berkuda, memanah) beserta syarat keabsahan hadiah agar tidak termasuk perjudian."
+    },
+    {
+      "title": "Kitab Ayman (Sumpah)",
+      "titleArabic": "كِتَابُ الْأَيْمَانِ",
+      "arabic": "أَلْفَاظُ الْيَمِينِ الْمُنْعَقِدَةِ وَيَمِينُ اللَّغْوِ، وَالِاسْتِثْنَاءُ فِي الْيَمِينِ، وَكَفَّارَةُ الْيَمِينِ وَتَفْصِيلُهَا.",
+      "translation": "Pembagian sumpah yang sah mengikat, sumpah laghwu, cara mengucapkan pengecualian (insya Allah), serta rincian kafarat pelanggaran sumpah."
+    },
+    {
+      "title": "Kitab Nadzar",
+      "titleArabic": "كِتَابُ النَّذْرِ",
+      "arabic": "أَقْسَامُ النَّذْرِ (نَذْرُ اللَّجَاجِ وَالْغَضَبِ وَنَذْرُ التَّبَرُّرِ)، وَشُرُوطُ الْمَنْذُورِ، وَأَحْكَامُ الْوَفَاءِ بِالنَّذْرِ.",
+      "translation": "Klasifikasi nadzar (nadzar ketaatan dan nadzar pertengkaran), syarat sah objek yang dinadzarkan, serta kewajiban menunaikannya."
+    },
+    {
+      "title": "Kitab Qadha' (Peradilan)",
+      "titleArabic": "كِتَابُ الْقَضَاءِ",
+      "arabic": "شُرُوطُ الْقَاضِي وَآدَابُهُ، وَكَيْفِيَّةُ الْقَضَاءِ وَالْحُكْمِ، وَالْقَضَاءُ عَلَى الْغَائِبِ، وَالْقِسْمَةُ بَيْنَ الشُّرَكَاءِ.",
+      "translation": "Syarat menjadi hakim (qadhi), etika persidangan dan menyamakan kedua pihak bersengketa, putusan terhadap pihak ghaib, serta hukum pembagian aset bersama (qismah)."
+    },
+    {
+      "title": "Kitab Syahadat (Persaksian)",
+      "titleArabic": "كِتَابُ الشَّهَادَاتِ",
+      "arabic": "شُرُوطُ الشَّاهِدِ مِنَ الْإِسْلَامِ وَالْبُلُوغِ وَالْعَقْلِ وَالْعَدَالَةِ، وَمَوَانِعُ الشَّهَادَةِ، وَعَدَدُ الشُّهُودِ فِي الْحُقُوقِ وَالْحُدُودِ.",
+      "translation": "Syarat keadilan ('adalah) dan integritas saksi, penyebab ditolaknya kesaksian karena tuduhan kepentingan (tuhmah), serta jumlah saksi pada kasus pidana dan perdata."
+    },
+    {
+      "title": "Kitab Da'wa dan Bayyinat (Gugatan dan Pembuktian)",
+      "titleArabic": "كِتَابُ الدَّعْوَى وَالْبَيِّنَاتِ",
+      "arabic": "شُرُوطُ صِحَّةِ الدَّعْوَى، وَوُجُوبُ الْبَيِّنَةِ عَلَى الْمُدَّعِي وَالْيَمِينِ عَلَى الْمُنْكِرِ، وَتَعَارُضُ الْبَيِّنَاتِ.",
+      "translation": "Syarat sah gugatan di pengadilan, beban pembuktian bagi penggugat dan sumpah bagi tergugat, serta kaidah penyelesaian jika kedua belah pihak memiliki bukti."
+    },
+    {
+      "title": "Kitab 'Itq (Pembebasan Budak)",
+      "titleArabic": "كِتَابُ الْعِتْقِ",
+      "arabic": "أَلْفَاظُ الْعِتْقِ الصَّرِيحَةُ وَالْكِنَائِيَّةُ، وَسِرَايَةُ الْعِتْقِ، وَثُبُوتُ الْوَلَاءِ وَأَحْكَامُهُ فِي الْمِيرَاثِ وَالْعَقْلِ.",
+      "translation": "Hukum memerdekakan hamba sahaya, proses kemerdekaan penuh saat dimerdekakan sebagian, serta hak wala' (perwalian waris dan tanggung jawab diyat)."
+    },
+    {
+      "title": "Kitab Tadbir, Kitabah, dan Ummahat al-Awlad (Khatimah)",
+      "titleArabic": "كِتَابُ التَّدْبِيرِ وَالْكِتَابَةِ وَأُمَّهَاتِ الْأَوْلَادِ",
+      "arabic": "أَحْكَامُ تَعْلِيقِ الْعِتْقِ بِالْمَوْتِ (التَّدْبِيرِ)، وَعَقْدِ الْمُكَاتَبَةِ عَلَى نُجُومٍ، وَأُمِّ الْوَلَدِ الَّتِي تَعْتِقُ بِمَوْتِ سَيِّدِهَا.",
+      "translation": "Bagian penutup kitab fiqih klasik Syafi'i yang membahas pembebasan budak yang digantungkan pada wafatnya tuan (tadbir), kontrak tebusan kemerdekaan secara cicilan (kitabah), dan status ummul walad."
+    }
+  ]
+}
