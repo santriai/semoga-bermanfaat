@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Masjid Al-Ikhlas",
+    "address": "Jl. Raya Caringin No.1, Caringin, Kec. Caringin, Kab. Bogor, Jawa Barat 16750",
+    "distance": "0.1 km",
+    "rating": 4.8,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Masjid+Al-Ikhlas+Caringin+Bogor",
+    "phone": "N/A",
+    "desc": "Masjid utama di pusat Caringin, sering digunakan untuk kegiatan keagamaan dan masyarakat sekitar."
+  },
+  {
+    "name": "Masjid Agung Caringin",
+    "address": "Jl. Raya Caringin, Caringin, Kec. Caringin, Kab. Bogor, Jawa Barat 16750",
+    "distance": "0.3 km",
+    "rating": 4.7,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Masjid+Agung+Caringin+Bogor",
+    "phone": "N/A",
+    "desc": "Masjid besar dengan fasilitas lengkap, termasuk area wudhu yang bersih dan tempat parkir luas."
+  },
+  {
+    "name": "Masjid Al-Hidayah",
+    "address": "Jl. Caringin Raya No.5, Caringin, Kec. Caringin, Kab. Bogor, Jawa Barat 16750",
+    "distance": "0.5 km",
+    "rating": 4.6,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Masjid+Al-Hidayah+Caringin+Bogor",
+    "phone": "N/A",
+    "desc": "Masjid dengan suasana tenang, sering mengadakan kajian rutin dan pengajian mingguan."
+  },
+  {
+    "name": "Masjid Baiturrahman",
+    "address": "Jl. Raya Caringin No.12, Caringin, Kec. Caringin, Kab. Bogor, Jawa Barat 16750",
+    "distance": "0.7 km",
+    "rating": 4.5,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Masjid+Baiturrahman+Caringin+Bogor",
+    "phone": "N/A",
+    "desc": "Masjid dengan arsitektur modern dan fasilitas AC, nyaman untuk beribadah di siang hari."
+  },
+  {
+    "name": "Masjid Al-Falah",
+    "address": "Jl. Caringin No.20, Caringin, Kec. Caringin, Kab. Bogor, Jawa Barat 16750",
+    "distance": "0.9 km",
+    "rating": 4.4,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Masjid+Al-Falah+Caringin+Bogor",
+    "phone": "N/A",
+    "desc": "Masjid komunitas dengan program pendidikan Al-Qur'an untuk anak-anak dan remaja."
+  }
+]
