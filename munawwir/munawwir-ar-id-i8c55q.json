@@ -1,0 +1,69 @@
+{
+  "arabic": "آدَمُ",
+  "arabicHarokat": "آدَمُ - ج: أَوَادِمُ",
+  "latin": "Adam",
+  "wordType": "isim",
+  "wordTypeIndo": "Isim Alam (Nama diri) / Isim Ghairu Munsharif",
+  "root": "أ - د - م",
+  "wazan": "أَفْعَلُ",
+  "page": "15",
+  "referenceBook": "Kamus Al-Munawwir Arab-Indonesia Terlengkap (Krapyak)",
+  "referenceUrl": "https://archive.org/details/kamus-al-munawwir-arab-indonesia",
+  "tashrifBrief": {
+    "madhi": "-",
+    "mudhari": "-",
+    "mashdar": "-",
+    "fail": "-",
+    "maful": "-",
+    "amr": "-",
+    "nahyi": "-"
+  },
+  "singular": "آدَمُ",
+  "plural": "أَوَادِمُ",
+  "gender": "mudzakkar",
+  "transitivity": "-",
+  "meanings": [
+    "Nama Nabi pertama (Nabi Adam AS)",
+    "Manusia (sebagai keturunan Nabi Adam)",
+    "Warna kulit yang cokelat kemerah-merahan atau sawo matang (diambil dari kata adimah/permukaan bumi)"
+  ],
+  "contextualMeanings": [
+    {
+      "preposition": "N/A",
+      "arabicPhrase": "بَنُو آدَمَ",
+      "meaning": "Anak cucu Adam (manusia)"
+    }
+  ],
+  "examples": [
+    {
+      "arabic": "خَلَقَ اللهُ آدَمَ مِنْ تُرَابٍ",
+      "latin": "Khalaqallahu Adama min turabin",
+      "translation": "Allah menciptakan Adam dari tanah",
+      "context": "Kisah penciptaan manusia"
+    },
+    {
+      "arabic": "كُلُّ بَنِي آدَمَ خَطَّاءٌ",
+      "latin": "Kullu bani Adama khattha'un",
+      "translation": "Setiap anak cucu Adam (manusia) pasti pernah berbuat salah",
+      "context": "Hadis Nabi SAW"
+    }
+  ],
+  "synonyms": [
+    "إِنْسَانٌ",
+    "بَشَرٌ"
+  ],
+  "antonyms": [],
+  "derivedWords": [
+    {
+      "arabic": "أَدَمَةٌ",
+      "meaning": "Kulit (permukaan bumi atau kulit manusia)",
+      "type": "Isim"
+    },
+    {
+      "arabic": "أَدِيمٌ",
+      "meaning": "Permukaan bumi / kulit yang disamak",
+      "type": "Isim"
+    }
+  ],
+  "notes": "Secara etimologis, nama Adam sering dikaitkan dengan kata 'Adimah' (permukaan bumi) karena beliau diciptakan dari tanah bumi. Dalam tata bahasa, 'Adam' termasuk Isim Ghairu Munsharif (tidak menerima tanwin) karena mengikuti wazan Af'alu (seperti Ahmad) dan merupakan nama diri (alamiyah)."
+}
