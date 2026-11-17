@@ -1,0 +1,374 @@
+{
+  "profile": {
+    "name": "Al-Minhaj Syarh Shahih Muslim",
+    "originalTitle": "الْمِنْهَاجُ شَرْحُ صَحِيحِ مُسْلِمِ بْنِ الْحَجَّاجِ",
+    "author": "Al-Imam al-Hafizh Muhyiddin Abu Zakariyya Yahya bin Syaraf an-Nawawi al-Dimasyqi asy-Syafi'i",
+    "field": "Ilmu Syarah Hadits & Fiqih Muqaran (Perbandingan Mazhab)",
+    "about": "Al-Minhaj Syarh Shahih Muslim bin al-Hajjaj adalah karya monumental di bidang ilmu syarah hadits yang disusun oleh Imam an-Nawawi pada abad ke-7 Hijriah. Kitab ini merupakan salah satu syarah paling otoritatif dan paling luas penggunaannya di lingkungan pesantren serta akademisi Islam untuk memahami hadits-hadits dalam Shahih Muslim. Di dalamnya, Imam an-Nawawi memadukan penjelasan sanad, dhabth (ketepatan pelafalan dan harakat) nama perawi, uraian bahasa dan gharib al-hadits, serta istinbath hukum fiqih lintas mazhab dengan mengunggulkan pendapat yang kuat menurut dalil. Kitab aslinya tersusun dalam sekitar delapan belas jilid besar yang mengupas Muqaddimah serta seluruh kitab tematik dalam Shahih Muslim. Penyajian digital sistematis berikut memuat kerangka lengkap mulai dari Muqaddimah hingga seluruh lima puluh lima kitab pokok beserta inti bahasan Arab berharakat dan terjemahan bernuansa turath pada tiap bab.",
+    "authorBorn": "Bulan Muharram tahun 631 H (1233 M) di Nawa, Hauran, Suriah",
+    "authorDied": "24 Rajab tahun 676 H (1277 M) di Nawa, Suriah",
+    "authorCentury": "Abad ke-7 Hijriah / Abad ke-13 Masehi"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah Penyusun: Khutbah Kitab dan Tujuan Syarah",
+      "titleArabic": "مُقَدِّمَةُ الشَّارِحِ: خُطْبَةُ الْكِتَابِ وَمَنْهَجُ الشَّرْحِ",
+      "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ، قَيُّومِ السَّمَاوَاتِ وَالْأَرَضِينَ. يَذْكُرُ الْإِمَامُ النَّوَوِيُّ فِي خُطْبَةِ كِتَابِهِ أَنَّ أَوْلَى مَا صُرِفَتْ فِيهِ الْأَوْقَاتُ الِاشْتِغَالُ بِالْعِلْمِ الشَّرْعِيِّ، وَأَشْرَفَ ذَلِكَ كِتَابُ اللَّهِ وَسُنَّةُ رَسُولِهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، ثُمَّ يُبَيِّنُ مَنْهَجَهُ فِي شَرْحِ صَحِيحِ مُسْلِمٍ مِنَ التَّوَسُّطِ بَيْنَ الْإِيجَازِ وَالْإِطْنَابِ، وَضَبْطِ الْأَسْمَاءِ وَالْأَلْفَاظِ، وَبَيَانِ الْأَحْكَامِ الْفِقْهِيَّةِ وَالْمَذَاهِبِ.",
+      "translation": "Segala puji bagi Allah Tuhan semesta alam, Penegak langit dan bumi. Dalam pembukaan kitabnya, Imam an-Nawawi menegaskan bahwa kesibukan paling utama untuk mengisi waktu adalah mempelajari ilmu syariat, dan yang paling mulia adalah Al-Qur'an serta Sunnah Rasulullah shallallahu 'alaihi wa sallam. Selanjutnya beliau menjelaskan metodologi syarahnya terhadap Shahih Muslim, yaitu mengambil jalan tengah antara ringkas dan panjang lebar, menertibkan dhabth (pelafalan baku) nama perawi dan kosakata hadits, serta menguraikan hukum-hukum fiqih dan pendapat para mazhab."
+    },
+    {
+      "title": "Fasal Keutamaan Shahih Muslim dan Syarat Keshahihannya",
+      "titleArabic": "فَصْلٌ فِي فَضَائِلِ صَحِيحِ مُسْلِمٍ وَشُرُوطِهِ",
+      "arabic": "يُبَيِّنُ الشَّارِحُ مَكَانَةَ صَحِيحِ مُسْلِمٍ وَاتِّفَاقَ الْعُلَمَاءِ عَلَى أَنَّ أَصَحَّ الْكُتُبِ بَعْدَ الْقُرْآنِ الصَّحِيحَانِ: صَحِيحُ الْبُخَارِيِّ وَصَحِيحُ مُسْلِمٍ. كَمَا يُوَضِّحُ حُسْنَ تَرْتِيبِ مُسْلِمٍ وَجَمْعَهُ طُرُقَ الْحَدِيثِ فِي مَوْضِعٍ وَاحِدٍ، وَسِيَاقَهُ لِلْأَلْفَاظِ مِنْ غَيْرِ تَقْطِيعٍ، وَالْتِزَامَهُ الرِّوَايَةَ عَنِ الثِّقَاتِ الضَّابِطِينَ مَعَ اتِّصَالِ السَّنَدِ وَسَلَامَتِهِ مِنَ الشُّذُوذِ وَالْعِلَّةِ.",
+      "translation": "Pensyarah menguraikan kedudukan tinggi Shahih Muslim serta kesepakatan para ulama bahwa kitab paling shahih setelah Al-Qur'an adalah Shahih al-Bukhari dan Shahih Muslim. Beliau juga menjelaskan keindahan sistematika Imam Muslim dalam menghimpun seluruh jalur sanad suatu hadits dalam satu tempat, meriwayatkan lafaz hadits secara utuh tanpa memotongnya, serta komitmennya meriwayatkan dari para perawi tsiqah yang dhabith dengan sanad bersambung yang terhindar dari kejanggalan (syudzudz) dan cacat tersembunyi ('illah)."
+    },
+    {
+      "title": "Fasal Hukum Hadits Dhaif, Maudhu', dan Pembagian Hadits",
+      "titleArabic": "فَصْلٌ فِي أَقْسَامِ الْحَدِيثِ وَحُكْمِ الضَّعِيفِ وَالْمَوْضُوعِ",
+      "arabic": "يَتَنَاوَلُ النَّوَوِيُّ تَقْسِيمَ الْحَدِيثِ إِلَى صَحِيحٍ وَحَسَنٍ وَضَعِيفٍ، وَيُقَرِّرُ تَحْرِيمَ رِوَايَةِ الْمَوْضُوعِ إِلَّا مَعَ بَيَانِ وَضْعِهِ. وَيُجِيزُ الْعُلَمَاءُ التَّسَاهُلَ فِي رِوَايَةِ الضَّعِيفِ فِي فَضَائِلِ الْأَعْمَالِ وَالرَّغَائِبِ وَالرَّهَائِبِ بِشُرُوطٍ، أَمَّا فِي الْأَحْكَامِ الشَّرْعِيَّةِ وَالْعَقَائِدِ فَلَا يُحْتَجُّ إِلَّا بِالصَّحِيحِ أَوِ الْحَسَنِ.",
+      "translation": "Imam an-Nawawi membahas pembagian hadits menjadi shahih, hasan, dan dhaif, serta menetapkan haramnya meriwayatkan hadits palsu (maudhu') kecuali disertai penjelasan kepalsuannya. Beliau menjelaskan kebolehan menurut para ulama untuk bersikap longgar dalam meriwayatkan hadits dhaif khusus pada keutamaan amal (fadha'il al-a'mal), anjuran kebaikan, dan peringatan dengan syarat-syarat tertentu; adapun dalam masalah hukum syariat dan akidah, tidak boleh berhujah kecuali dengan hadits shahih atau hasan."
+    },
+    {
+      "title": "Fasal Penjelasan Sanad Shahih Muslim dan Tingkatan Perawi",
+      "titleArabic": "فَصْلٌ فِي إِسْنَادِ صَحِيحِ مُسْلِمٍ وَطَبَقَاتِ الرُّوَاةِ",
+      "arabic": "يُوَضِّحُ النَّوَوِيُّ طَبَقَاتِ الرُّوَاةِ الَّذِينَ اعْتَمَدَهُمُ الْإِمَامُ مُسْلِمٌ فِي كِتَابِهِ، وَتَقْسِيمَهُمُ الثَّلَاثَ طَبَقَاتٍ، وَكَيْفِيَّةَ تَعَامُلِهِ مَعَ الْعَنْعَنَةِ وَإِثْبَاتِ اللِّقَاءِ أَوِ الْمُعَاصَرَةِ مَعَ إِمْكَانِ اللُّقْيَا، وَيُفَصِّلُ اصْطِلَاحَاتِ التَّحَمُّلِ وَالْأَدَاءِ كَحَدَّثَنَا وَأَخْبَرَنَا.",
+      "translation": "Imam an-Nawawi menjelaskan tingkatan para perawi yang dijadikan sandaran oleh Imam Muslim dalam kitabnya serta pembagian mereka ke dalam tiga thabaqat. Beliau juga memaparkan sikap Imam Muslim terhadap hadits mu'an'an dan kecukupan hidup sezaman disertai kemungkinan bertemu (mu'asharah ma'a imkan al-luqya), serta merinci istilah-istilah penerimaan dan penyampaian hadits seperti haddatsana dan akhbarana."
+    },
+    {
+      "title": "Syarah Muqaddimah Shahih Muslim: Kewajiban Mengikuti Sunnah",
+      "titleArabic": "شَرْحُ مُقَدِّمَةِ صَحِيحِ مُسْلِمٍ: وُجُوبُ اتِّبَاعِ السُّنَّةِ وَتَحْرِيمُ الْكَذِبِ عَلَى النَّبِيِّ",
+      "arabic": "يَشْرَحُ النَّوَوِيُّ مُقَدِّمَةَ الْإِمَامِ مُسْلِمٍ وَمَا فِيهَا مِنْ تَحْرِيمِ الرِّوَايَةِ عَنِ الضُّعَفَاءِ وَالْكَذَّابِينَ، وَشَرْحِ حَدِيثِ: مَنْ كَذَبَ عَلَيَّ مُتَعَمِّدًا فَلْيَتَبَوَّأْ مَقْعَدَهُ مِنَ النَّارِ، وَبَيَانِ وُجُوبِ الْإِسْنَادِ لِأَنَّ الْإِسْنَادَ مِنَ الدِّينِ وَلَوْلَاهُ لَقَالَ مَنْ شَاءَ مَا شَاءَ.",
+      "translation": "Imam an-Nawawi mensyarah mukadimah Imam Muslim beserta kandungan larangan keras meriwayatkan hadits dari para perawi lemah dan pendusta. Beliau mengulas hadits barang siapa berdusta atas namaku secara sengaja maka hendaklah ia menempati tempat duduknya di neraka, serta menegaskan wajibnya menjaga sanad karena sanad merupakan bagian dari agama yang tanpanya siapa saja akan bebas berkata sesuka hati."
+    },
+    {
+      "title": "Kitab Iman",
+      "titleArabic": "كِتَابُ الْإِيمَانِ",
+      "arabic": "يُفَصِّلُ الشَّارِحُ فِي هَذَا الْكِتَابِ مَعْنَى الْإِيمَانِ وَالْإِسْلَامِ وَالْإِحْسَانِ كَمَا وَرَدَ فِي حَدِيثِ جِبْرِيلَ، وَيُبَيِّنُ أَنَّ الْإِيمَانَ تَصْدِيقٌ بِالْقَلْبِ وَإِقْرَارٌ بِاللِّسَانِ وَعَمَلٌ بِالْجَوَارِحِ يَزِيدُ بِالطَّاعَةِ وَيَنْقُصُ بِالْمَعْصِيَةِ. كَمَا يَشْرَحُ أَرْكَانَ الْإِسْلَامِ الْخَمْسَةَ، وَشُعَبَ الْإِيمَانِ، وَنَفْيَ تَخْلِيدِ أَهْلِ الْكَبَائِرِ مِنَ الْمُوَحِّدِينَ فِي النَّارِ خِلَافًا لِلْخَوَارِجِ وَالْمُعْتَزِلَةِ.",
+      "translation": "Dalam kitab ini, pensyarah merinci hakikat iman, islam, dan ihsan sebagaimana termaktub dalam hadits Jibril, serta menjelaskan bahwa iman mencakup pembenaran hati, ikrar lisan, dan amal anggota badan yang bertambah dengan ketaatan dan berkurang karena maksiat. Beliau juga menguraikan lima rukun Islam, cabang-cabang keimanan, serta bantahan terhadap kaum Khawarij dan Mu'tazilah mengenai tidak kekalnya pelaku dosa besar dari kalangan ahli tauhid di dalam neraka."
+    },
+    {
+      "title": "Kitab Thaharah (Bersuci)",
+      "titleArabic": "كِتَابُ الطَّهَارَةِ",
+      "arabic": "يَتَنَاوَلُ النَّوَوِيُّ أَحْكَامَ الطَّهَارَةِ وَالْوُضُوءِ وَشُرُوطِهِ وَفُرُوضِهِ وَسُنَنِهِ، وَشَرْحَ حَدِيثِ: لَا تُقْبَلُ صَلَاةٌ بِغَيْرِ طُهُورٍ. وَيُبَيِّنُ أَحْكَامَ الْمِيَاهِ وَالنَّجَاسَاتِ، وَأَدَبَ قَاضِي الْحَاجَةِ وَالِاسْتِنْجَاءِ، وَفَضْلَ السِّوَاكِ وَخِصَالَ الْفِطْرَةِ، وَالْمَسْحَ عَلَى الْخُفَّيْنِ وَشُرُوطَهُ وَمُدَّتَهُ لِلْمُقِيمِ وَالْمُسَافِرِ.",
+      "translation": "Imam an-Nawawi membahas hukum-hukum bersuci, wudhu beserta syarat, fardhu, dan sunnahnya, termasuk syarah hadits tidak diterima shalat tanpa bersuci. Beliau juga menguraikan hukum air dan najis, adab buang hajat dan istinja', keutamaan bersiwak serta perkara-perkara fitrah, dan hukum mengusap khuf (sepatu kulit) lengkap dengan syarat serta batas waktunya bagi mukim dan musafir."
+    },
+    {
+      "title": "Kitab Haidh",
+      "titleArabic": "كِتَابُ الْحَيْضِ",
+      "arabic": "يُوَضِّحُ الْإِمَامُ النَّوَوِيُّ أَحْكَامَ الدِّمَاءِ الثَّلَاثَةِ: الْحَيْضِ وَالنِّفَاسِ وَالِاسْتِحَاضَةِ، وَأَقَلَّ مُدَّةِ الْحَيْضِ وَأَكْثَرَهَا وَالْفَرْقَ بَيْنَ دَمِ الْحَيْضِ الْأَسْوَدِ وَدَمِ الِاسْتِحَاضَةِ. كَمَا يَشْرَحُ أَحْكَامَ الْغُسْلِ مِنَ الْجَنَابَةِ وَالْحَيْضِ، وَمَا يَحْرُمُ عَلَى الْحَائِضِ وَالْجُنُبِ، وَأَحْكَامَ التَّيَمُّمِ عِنْدَ فَقْدِ الْمَاءِ أَوْ تَعَذُّرِ اسْتِعْمَالِهِ.",
+      "translation": "Imam an-Nawawi menjelaskan hukum tiga jenis darah perempuan: haidh, nifas, dan istihadhah, batas minimal dan maksimal masa haidh, serta perbedaan antara darah haidh yang kehitaman dan darah istihadhah. Beliau juga mensyarah tata cara mandi wajib akibat junub dan haidh, hal-hal yang haram bagi wanita haidh dan orang junub, serta hukum tayammum ketika tidak ada air atau berhalangan menggunakannya."
+    },
+    {
+      "title": "Kitab Shalat",
+      "titleArabic": "كِتَابُ الصَّلَاةِ",
+      "arabic": "يَشْرَحُ النَّوَوِيُّ أَحْكَامَ الصَّلَاةِ الْمَفْرُوضَةِ، وَصِفَةَ الْأَذَانِ وَالْإِقَامَةِ وَإِجَابَةِ الْمُؤَذِّنِ، وَفَرْضِيَّةَ قِرَاءَةِ الْفَاتِحَةِ فِي كُلِّ رَكْعَةٍ، وَأَرْكَانَ الصَّلَاةِ مِنَ التَّكْبِيرِ وَالْقِيَامِ وَالرُّكُوعِ وَالسُّجُودِ وَالِاعْتِدَالِ وَالتَّشَهُّدِ، وَالطُّمَأْنِينَةَ فِي جَمِيعِ الْأَرْكَانِ، وَالتَّسْوِيَةَ فِي الصُّفُوفِ، وَسُتْرَةَ الْمُصَلِّي.",
+      "translation": "Imam an-Nawawi mensyarah hukum-hukum shalat fardhu, tata cara azan dan iqamah serta menjawab muazin, kewajiban membaca Surah Al-Fatihah di setiap rakaat, serta rukun-rukun shalat mulai dari takbiratul ihram, berdiri, rukuk, sujud, i'tidal, hingga tasyahud. Beliau juga menekankan thuma'ninah pada seluruh rukun, meluruskan shaf, dan hukum sutrah bagi orang yang shalat."
+    },
+    {
+      "title": "Kitab Masjid dan Tempat-Tempat Shalat",
+      "titleArabic": "كِتَابُ الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاةِ",
+      "arabic": "يَتَنَاوَلُ هَذَا الْكِتَابُ فَضْلَ بِنَاءِ الْمَسَاجِدِ وَتَطْهِيرِهَا وَآدَابَهَا، وَمَوَاقِيتَ الصَّلَوَاتِ الْخَمْسِ وَأَوْقَاتَ النَّهْيِ عَنِ النَّوَافِلِ الْمُطْلَقَةِ، وَأَحْكَامَ صَلَاةِ الْجَمَاعَةِ وَفَضْلِهَا، وَسُجُودَ السَّهْوِ، وَالْقُنُوتَ فِي النَّوَازِلِ، وَأَحْكَامَ قَضَاءِ الصَّلَوَاتِ الْفَائِتَةِ.",
+      "translation": "Kitab ini membahas keutamaan membangun masjid, menjaga kesucian dan adabnya, waktu-waktu shalat lima waktu serta waktu-waktu terlarang untuk shalat sunnah mutlak. Diuraikan pula hukum dan keutamaan shalat berjamaah, ketentuan sujud sahwi, qunut nazilah, serta hukum mengqadha shalat yang terlewat."
+    },
+    {
+      "title": "Kitab Shalat Musafir dan Mengqasharnya",
+      "titleArabic": "كِتَابُ صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+      "arabic": "يُبَيِّنُ الشَّارِحُ أَحْكَامَ قَصْرِ الصَّلَاةِ الرُّبَاعِيَّةِ فِي السَّفَرِ وَالْجَمْعِ بَيْنَ الظُّهْرِ وَالْعَصْرِ وَبَيْنَ الْمَغْرِبِ وَالْعِشَاءِ، وَمَسَافَةَ الْقَصْرِ عِنْدَ الْفُقَهَاءِ. كَمَا يَشْرَحُ صَلَاةَ اللَّيْلِ وَقِيَامَ رَمَضَانَ وَالْوِتْرَ وَالسُّنَنَ الرَّوَاتِبَ، وَسُجُودَ التِّلَاوَةِ، وَصَلَاةَ الْخَوْفِ، وَفَضَائِلَ الْقُرْآنِ وَتَرْتِيلِهِ.",
+      "translation": "Pensyarah memaparkan hukum mengqashar shalat empat rakaat saat safar dan menjamak antara Zhuhur dengan Ashar serta Maghrib dengan Isya, termasuk perbedaan jarak tempuh qashar di kalangan ahli fiqih. Selain itu dibahas pula shalat malam, qiyam Ramadhan, shalat witir, sunnah rawatib, sujud tilawah, shalat khauf, serta keutamaan membaca Al-Qur'an secara tartil."
+    },
+    {
+      "title": "Kitab Shalat Jumat",
+      "titleArabic": "كِتَابُ الْجُمُعَةِ",
+      "arabic": "يُفَصِّلُ النَّوَوِيُّ فَضْلَ يَوْمِ الْجُمُعَةِ وَسَاعَةَ الْإِجَابَةِ فِيهِ، وَشُرُوطَ وُجُوبِ صَلَاةِ الْجُمُعَةِ وَصِحَّتِهَا، وَحُكْمَ الْغُسْلِ يَوْمَ الْجُمُعَةِ وَالتَّبْكِيرِ إِلَيْهَا، وَآدَابَ الِاسْتِمَاعِ لِلْخُطْبَتَيْنِ وَتَحِيَّةَ الْمَسْجِدِ أَثْنَاءَ الْخُطْبَةِ، وَالسُّنَّةَ الْقَبْلِيَّةَ وَالْبَعْدِيَّةَ لِلْجُمُعَةِ.",
+      "translation": "Imam an-Nawawi merinci keutamaan hari Jumat dan waktu mustajab doa di dalamnya, syarat wajib dan syarat sah shalat Jumat, hukum mandi Jumat serta bersegera mendatangi masjid. Beliau juga menjelaskan adab mendengarkan dua khutbah, hukum shalat tahiyyatul masjid saat khatib berkhutbah, serta shalat sunnah setelah Jumat."
+    },
+    {
+      "title": "Kitab Shalat Dua Hari Raya",
+      "titleArabic": "كِتَابُ صَلَاةِ الْعِيدَيْنِ",
+      "arabic": "يَشْرَحُ الْإِمَامُ النَّوَوِيُّ أَحْكَامَ صَلَاةِ عِيدِ الْفِطْرِ وَعِيدِ الْأَضْحَى وَتَكْبِيرَاتِهِمَا الزَّوَائِدِ، وَصِفَةَ الْخُطْبَةِ بَعْدَ الصَّلَاةِ، وَخُرُوجَ النِّسَاءِ لِشُهُودِ الْعِيدِ، وَالنَّهْيَ عَنِ الصَّلَاةِ قَبْلَ صَلَاةِ الْعِيدِ أَوْ بَعْدَهَا فِي الْمُصَلَّى، وَإِبَاحَةَ اللَّعِبِ الْمُبَاحِ فِي أَيَّامِ الْعِيدِ إِظْهَارًا لِلسُّرُورِ.",
+      "translation": "Imam an-Nawawi mensyarah hukum shalat Idul Fitri dan Idul Adha beserta takbir-takbir tambahannya, tata cara khutbah setelah shalat Id, anjuran keluarnya kaum wanita untuk menghadiri Id, larangan shalat sunnah sebelum dan sesudah shalat Id di tanah lapang, serta kebolehan permainan yang mubah pada hari raya sebagai ungkapan kegembiraan."
+    },
+    {
+      "title": "Kitab Shalat Istisqa' (Meminta Hujan)",
+      "titleArabic": "كِتَابُ صَلَاةِ الِاسْتِسْقَاءِ",
+      "arabic": "يُبَيِّنُ الشَّارِحُ مَشْرُوعِيَّةَ الِاسْتِسْقَاءِ عِنْدَ الْقَحْطِ وَجَدْبِ الْأَرْضِ، وَخُرُوجَ الْإِمَامِ وَالنَّاسِ بِتَوَاضُعٍ وَتَضَرُّعٍ، وَتَحْوِيلَ الرِّدَاءِ تَفَاؤُلًا بِتَحْوِيلِ الْحَالِ، وَرَفْعَ الْيَدَيْنِ فِي الدُّعَاءِ، وَالتَّسْبِيحَ وَالتَّهْلِيلَ عِنْدَ هُبُوبِ الرِّيحِ وَنُزُولِ الْمَطَرِ.",
+      "translation": "Pensyarah menjelaskan pensyariatan shalat dan doa istisqa' ketika terjadi kekeringan dan kemarau panjang, keluarnya imam bersama masyarakat dengan penuh kerendahan hati dan ketundukan, membalikkan selendang sebagai optimisme perubahan keadaan, mengangkat kedua tangan saat berdoa, serta bacaan tasbih dan doa ketika angin bertiup kencang dan hujan turun."
+    },
+    {
+      "title": "Kitab Shalat Gerhana",
+      "titleArabic": "كِتَابُ الْكُسُوفِ",
+      "arabic": "يَتَنَاوَلُ النَّوَوِيُّ أَحْكَامَ صَلَاةِ كُسُوفِ الشَّمْسِ وَخُسُوفِ الْقَمَرِ وَصِفَتَهَا بِرُكُوعَيْنِ وَقِيَامَيْنِ فِي كُلِّ رَكْعَةٍ، وَخُطْبَةَ الْإِمَامِ بَعْدَهَا، وَبَيَانَ أَنَّ الشَّمْسَ وَالْقَمَرَ آيَتَانِ مِنْ آيَاتِ اللَّهِ لَا يَنْكَسِفَانِ لِمَوْتِ أَحَدٍ وَلَا لِحَيَاتِهِ، وَالْأَمْرَ بِالْفَزَعِ إِلَى الصَّلَاةِ وَالصَّدَقَةِ وَالِاسْتِغْفَارِ.",
+      "translation": "Imam an-Nawawi membahas hukum shalat gerhana matahari dan bulan beserta tata caranya dengan dua rukuk dan dua berdiri pada setiap rakaat, serta khutbah imam setelahnya. Beliau menegaskan bahwa matahari dan bulan adalah tanda kebesaran Allah yang tidak mengalami gerhana karena kematian atau kelahiran seseorang, disertai perintah bersegera menuju shalat, sedekah, dan istighfar."
+    },
+    {
+      "title": "Kitab Jenazah",
+      "titleArabic": "كِتَابُ الْجَنَائِزِ",
+      "arabic": "يُفَصِّلُ الشَّارِحُ آدَابَ الِاحْتِضَارِ وَتَلْقِينَ الْمَيِّتِ لَا إِلَهَ إِلَّا اللَّهُ، وَالصَّبْرَ عِنْدَ الصَّدْمَةِ الْأُولَى، وَتَحْرِيمَ النِّيَاحَةِ وَشَقِّ الْجُيُوبِ، وَجَوَازَ الْبُكَاءِ بِدَمْعِ الْعَيْنِ رَحْمَةً. كَمَا يَشْرَحُ أَحْكَامَ غُسْلِ الْمَيِّتِ وَتَكْفِينِهِ، وَصَلَاةِ الْجَنَازَةِ بِأَرْبَعِ تَكْبِيرَاتٍ، وَالدَّفْنِ، وَتَسْوِيَةِ الْقُبُورِ، وَزِيَارَةِ الْقُبُورِ لِلْعِظَةِ وَالدُّعَاءِ.",
+      "translation": "Pensyarah merinci adab menghadapi orang yang sakaratul maut dan menalkinkan kalimat La ilaha illallah, bersabar pada musibah pertama, keharaman meratap dan merobek pakaian, serta kebolehan menangis karena rasa kasih sayang. Beliau juga mensyarah tata cara memandikan dan mengafani jenazah, shalat jenazah dengan empat takbir, pemakaman, meratakan kubur, dan ziarah kubur untuk mengambil pelajaran serta mendoakan mayit."
+    },
+    {
+      "title": "Kitab Zakat",
+      "titleArabic": "كِتَابُ الزَّكَاةِ",
+      "arabic": "يَشْرَحُ النَّوَوِيُّ وُجُوبَ الزَّكَاةِ وَعُقُوبَةَ مَانِعِهَا، وَأَنْصِبَةَ الْأَمْوَالِ الزَّكَوِيَّةِ مِنَ الذَّهَبِ وَالْفِضَّةِ وَالْإِبِلِ وَالْبَقَرِ وَالْغَنَمِ وَالزُّرُوعِ وَالثِّمَارِ، وَأَحْكَامَ زَكَاةِ الْفِطْرِ وَمِقْدَارِهَا وَوَقْتِ إِخْرَاجِهَا، وَفَضْلَ الصَّدَقَةِ وَالتَّعَفُّفِ عَنِ السُّؤَالِ، وَمَصَارِفَ الزَّكَاةِ الثَّمَانِيَةَ.",
+      "translation": "Imam an-Nawawi mensyarah kewajiban zakat dan ancaman keras bagi orang yang menahannya, nisab harta wajib zakat seperti emas, perak, unta, sapi, kambing, hasil pertanian, dan buah-buahan. Beliau juga memaparkan hukum zakat fitrah beserta takaran dan waktu pengeluarannya, keutamaan sedekah dan menjaga kehormatan diri dari meminta-minta, serta delapan golongan penerima zakat."
+    },
+    {
+      "title": "Kitab Puasa",
+      "titleArabic": "كِتَابُ الصِّيَامِ",
+      "arabic": "يَتَنَاوَلُ الشَّارِحُ فَرْضِيَّةَ صَوْمِ رَمَضَانَ، وَإِثْبَاتَ الشَّهْرِ بِرُؤْيَةِ الْهِلَالِ أَوْ إِكْمَالِ الْعِدَّةِ ثَلَاثِينَ يَوْمًا، وَفَضْلَ السُّحُورِ وَتَعْجِيلَ الْفِطْرِ، وَمُبْطِلَاتِ الصَّوْمِ وَكَفَّارَةَ الْجِمَاعِ فِي نَهَارِ رَمَضَانَ، وَأَحْكَامَ الصَّوْمِ فِي السَّفَرِ، وَصَوْمَ التَّطَوُّعِ كَيَوْمِ عَرَفَةَ وَعَاشُورَاءَ وَسِتٍّ مِنْ شَوَّالٍ، وَفَضْلَ لَيْلَةِ الْقَدْرِ.",
+      "translation": "Pensyarah mengulas kewajiban puasa Ramadhan, penetapan awal bulan dengan rukyatul hilal atau menyempurnakan hitungan tiga puluh hari, keutamaan sahur dan menyegerakan berbuka. Dibahas pula pembatal-pembatal puasa dan kafarat jimak di siang hari Ramadhan, hukum puasa saat safar, puasa sunnah seperti hari Arafah, Asyura, dan enam hari bulan Syawal, serta keutamaan Lailatul Qadar."
+    },
+    {
+      "title": "Kitab I'tikaf",
+      "titleArabic": "كِتَابُ الِاعْتِكَافِ",
+      "arabic": "يُبَيِّنُ الْإِمَامُ النَّوَوِيُّ مَشْرُوعِيَّةَ الِاعْتِكَافِ فِي الْمَسْجِدِ خُصُوصًا فِي الْعَشْرِ الْأَوَاخِرِ مِنْ رَمَضَانَ تَحَرِّيًا لِلَيْلَةِ الْقَدْرِ، وَشُرُوطَ الِاعْتِكَافِ مِنَ النِّيَّةِ وَاللُّبْثِ فِي الْمَسْجِدِ، وَحُكْمَ خُرُوجِ الْمُعْتَكِفِ لِحَاجَتِهِ الضَّرُورِيَّةِ، وَاجْتِنَابَ الْجِمَاعِ وَمُبَاشَرَةِ النِّسَاءِ.",
+      "translation": "Imam an-Nawawi menjelaskan pensyariatan i'tikaf di masjid khususnya pada sepuluh hari terakhir bulan Ramadhan guna meraih Lailatul Qadar. Beliau menguraikan syarat-syarat i'tikaf berupa niat dan berdiam di dalam masjid, hukum keluarnya orang yang beri'tikaf untuk keperluan darurat, serta larangan berhubungan badan dan bersentuhan syahwat dengan istri."
+    },
+    {
+      "title": "Kitab Haji",
+      "titleArabic": "كِتَابُ الْحَجِّ",
+      "arabic": "يُفَصِّلُ النَّوَوِيُّ وُجُوبَ الْحَجِّ وَالْعُمْرَةِ مَرَّةً فِي الْعُمْرِ عَلَى الْمُسْتَطِيعِ، وَالْمَوَاقِيتَ الزَّمَانِيَّةَ وَالْمَكَانِيَّةَ، وَأَنْسَاكَ الْحَجِّ الثَّلَاثَةَ: الْإِفْرَادَ وَالْقِرَانَ وَالتَّمَتُّعَ، وَمَحْظُورَاتِ الْإِحْرَامِ وَفِدْيَتَهَا. كَمَا يَشْرَحُ أَعْمَالَ الْحَجِّ مِنَ الطَّوَافِ وَالسَّعْيِ وَالْوُقُوفِ بِعَرَفَةَ وَالْمَبِيتِ بِمُزْدَلِفَةَ وَمِنًى وَرَمْيِ الْجِمَارِ، وَفَضْلَ الْمَسْجِدِ الْحَرَامِ وَالْمَسْجِدِ النَّبَوِيِّ وَالْمَسْجِدِ الْأَقْصَى.",
+      "translation": "Imam an-Nawawi merinci kewajiban haji dan umrah sekali seumur hidup bagi yang mampu, miqat zamani dan makani, tiga jenis manasik haji (ifrad, qiran, tamattu'), serta larangan ihram dan fidyahnya. Beliau juga mensyarah rangkaian ibadah haji mulai dari thawaf, sa'i, wukuf di Arafah, mabit di Muzdalifah dan Mina, melempar jumrah, hingga keutamaan Masjidil Haram, Masjid Nabawi, dan Masjidil Aqsha."
+    },
+    {
+      "title": "Kitab Nikah",
+      "titleArabic": "كِتَابُ النِّكَاحِ",
+      "arabic": "يَشْرَحُ الشَّارِحُ التَّرْغِيبَ فِي النِّكَاحِ لِمَنِ اسْتَطَاعَ الْبَاءَةَ، وَالنَّهْيَ عَنِ التَّبَتُّلِ، وَالنَّظَرَ إِلَى الْمَخْطُوبَةِ، وَاشْتِرَاطَ الْوَلِيِّ وَالشُّهُودِ وَالصَّدَاقِ، وَالْمُحَرَّمَاتِ مِنَ النِّسَاءِ بِالنَّسَبِ وَالْمُصَاهَرَةِ، وَتَحْرِيمَ نِكَاحِ الشِّغَارِ وَالْمُتْعَةِ، وَأَحْكَامَ الْوَلِيمَةِ، وَالْعَدْلَ بَيْنَ الزَّوْجَاتِ فِي الْقَسْمِ، وَحُسْنَ الْعِشْرَةِ.",
+      "translation": "Pensyarah mengulas anjuran menikah bagi yang mampu menunaikan nafkah dan beban pernikahan, larangan membujang selamanya, hukum melihat calon istri, syarat adanya wali, saksi, dan mahar, serta wanita-wanita yang haram dinikahi karena nasab dan mushaharah. Diterangkan pula keharaman nikah syighar dan nikah mut'ah, hukum walimah, kewajiban adil dalam pembagian giliran istri, serta pergaulan yang baik."
+    },
+    {
+      "title": "Kitab Radha' (Persusuan)",
+      "titleArabic": "كِتَابُ الرَّضَاعِ",
+      "arabic": "يُوَضِّحُ النَّوَوِيُّ أَنَّهُ يَحْرُمُ مِنَ الرَّضَاعِ مَا يَحْرُمُ مِنَ النَّسَبِ إِذَا اسْتَوْفَى الشُّرُوطَ الْمُعْتَبَرَةَ فِي الصِّغَرِ، وَيُفَصِّلُ الْخِلَافَ الْفِقْهِيَّ فِي عَدَدِ الرَّضَعَاتِ الْمُحَرِّمَةِ وَتَرْجِيحَ مَذْهَبِ الشَّافِعِيِّ بِخَمْسِ رَضَعَاتٍ مَعْلُومَاتٍ، كَمَا يَشْرَحُ قَاعِدَةَ: الْوَلَدُ لِلْفِرَاشِ وَلِلْعَاهِرِ الْحَجَرُ، وَأَحْكَامَ الْعِدَّةِ وَالْإِحْدَادِ.",
+      "translation": "Imam an-Nawawi menjelaskan kaidah bahwa hubungan persusuan mengharamkan pernikahan sebagaimana hubungan nasab apabila memenuhi syarat-syarat pada masa kecil. Beliau merinci perbedaan pendapat fiqih mengenai jumlah hisapan yang menyebabkan mahram dengan menguatkan mazhab Syafi'i yaitu lima kali susuan yang jelas, serta mensyarah kaidah anak dinisbahkan kepada pemilik ranjang yang sah dan hukum iddah serta ihdad."
+    },
+    {
+      "title": "Kitab Thalaq (Perceraian)",
+      "titleArabic": "كِتَابُ الطَّلَاقِ",
+      "arabic": "يَتَنَاوَلُ الشَّارِحُ الطَّلَاقَ السُّنِّيَّ وَالطَّلَاقَ الْبِدْعِيَّ فِي الْحَيْضِ أَوْ طُهْرٍ جَامَعَهَا فِيهِ، وَوُقُوعَ الطَّلَاقِ الثَّلَاثِ، وَحُكْمَ الْإِيلَاءِ، وَتَخْيِيرَ الزَّوْجَاتِ، وَأَحْكَامَ النَّفَقَةِ وَالسُّكْنَى لِلْمُطَلَّقَةِ الرَّجْعِيَّةِ وَالْبَائِنِ.",
+      "translation": "Pensyarah membahas talak sunni dan talak bid'i yang dijatuhkan ketika istri haidh atau pada masa suci yang telah disetubuhi, hukum jatuhnya talak tiga, hukum ila', pemberian pilihan kepada para istri, serta ketentuan nafkah dan tempat tinggal bagi wanita yang ditalak raj'i maupun talak ba'in."
+    },
+    {
+      "title": "Kitab Li'an",
+      "titleArabic": "كِتَابُ اللِّعَانِ",
+      "arabic": "يُبَيِّنُ النَّوَوِيُّ صِفَةَ اللِّعَانِ بَيْنَ الزَّوْجَيْنِ عِنْدَ قَذْفِ الزَّوْجِ امْرَأَتَهُ بِالزِّنَا أَوْ نَفْيِ الْوَلَدِ دُونَ أَرْبَعَةِ شُهَدَاءَ، وَشَهَادَاتِ اللِّعَانِ الْخَمْسَ، وَأَنَّ التَّفْرِيقَ بَيْنَ الْمُتَلَاعِنَيْنِ يَقَعُ عَلَى التَّأْبِيدِ، وَإِلْحَاقَ الْوَلَدِ بِأُمِّهِ.",
+      "translation": "Imam an-Nawawi memaparkan tata cara li'an antara suami dan istri ketika suami menuduh istrinya berzina atau mengingkari nasab anak tanpa empat orang saksi. Dijelaskan lima sumpah li'an dari masing-masing pihak, terpisahnya hubungan pernikahan keduanya untuk selamanya, serta penentuan nasab anak kepada ibunya."
+    },
+    {
+      "title": "Kitab 'Itq (Memerdekakan Budak)",
+      "titleArabic": "كِتَابُ الْعِتْقِ",
+      "arabic": "يَشْرَحُ الشَّارِحُ فَضْلَ عِتْقِ الرِّقَابِ وَالْحَثَّ عَلَيْهِ، وَحُكْمَ مَنْ أَعْتَقَ شِرْكًا لَهُ فِي عَبْدٍ وَسِرَايَةِ الْعِتْقِ عَلَى الشَّرِيكِ الْمُوسِرِ، وَتَحْرِيمَ بَيْعِ الْوَلَاءِ وَهِبَتِهِ لِأَنَّ الْوَلَاءَ لِمَنْ أَعْتَقَ، وَأَحْكَامَ الْمُكَاتَبِ وَالْمُدَبَّرِ.",
+      "translation": "Pensyarah menguraikan keutamaan memerdekakan budak dan dorongan syariat terhadapnya, hukum seseorang yang memerdekakan bagian kepemilikannya atas seorang budak bersama sehingga kemerdekaan itu merembet kepada bagian sekutu yang mampu, larangan menjual atau menghibahkan hak wala' karena hak wala' milik orang yang memerdekakan, serta hukum budak mukatab dan mudabbar."
+    },
+    {
+      "title": "Kitab Buyu' (Jual Beli)",
+      "titleArabic": "كِتَابُ الْبُيُوعِ",
+      "arabic": "يُفَصِّلُ النَّوَوِيُّ أَرْكَانَ الْبَيْعِ وَشُرُوطَهُ، وَتَحْرِيمَ بَيْعِ الْغَرَرِ وَالْمُزَابَنَةِ وَالْمُحَاقَلَةِ وَالنَّجْشِ وَالِاحْتِكَارِ، وَخِيَارَ الْمَجْلِسِ وَخِيَارَ الشَّرْطِ، وَبَيْعَ الثِّمَارِ قَبْلَ بُدُوِّ صَلَاحِهَا، وَالنَّهْيَ عَنْ بَيْعِ الْمَيْتَةِ وَالْخَمْرِ وَالْخِنْزِيرِ وَالْأَصْنَامِ، وَحُكْمَ بَيْعِ الْعُرْيَا.",
+      "translation": "Imam an-Nawawi merinci rukun dan syarat jual beli, keharaman jual beli gharar (ketidakjelasan), muzabanah, muhaqalah, najsy (rekayasa penawaran), dan penimbunan barang (ihtikar). Dijelaskan pula khiyar majelis dan khiyar syarat, larangan menjual buah sebelum tampak matangnya, larangan memperjualbelikan bangkai, khamr, babi, dan berhala, serta pengecualian hukum jual beli 'araya."
+    },
+    {
+      "title": "Kitab Musaqah (Bagi Hasil Pengairan dan Pertanian)",
+      "titleArabic": "كِتَابُ الْمُسَاقَاةِ",
+      "arabic": "يَتَنَاوَلُ الشَّارِحُ مَشْرُوعِيَّةَ الْمُسَاقَاةِ وَالْمُزَارَعَةِ بِجُزْءٍ مَعْلُومٍ مِمَّا يَخْرُجُ مِنَ الثَّمَرِ، وَتَحْرِيمَ الرِّبَا بِأَنْوَاعِهِ فِي الذَّهَبِ وَالْفِضَّةِ وَالْأَطْعِمَةِ، وَتَحْرِيمَ بَيْعِ الطَّعَامِ قَبْلَ قَبْضِهِ، وَأَحْكَامَ السَّلَمِ وَالْقَرْضِ وَالرَّهْنِ وَالشُّفْعَةِ وَالْحَوَالَةِ وَالشَّرِكَةِ.",
+      "translation": "Pensyarah membahas pensyariatan akad musaqah dan muzara'ah dengan pembagian hasil buah yang jelas kadarnya, keharaman segala jenis riba pada emas, perak, dan bahan makanan, serta larangan menjual bahan makanan sebelum serah terima. Diuraikan pula hukum akad salam, utang-piutang, gadai (rahn), hak syuf'ah bagi tetangga/sekutu, pengalihan utang (hawalah), dan syirkah."
+    },
+    {
+      "title": "Kitab Fara'idh (Hukum Waris)",
+      "titleArabic": "كِتَابُ الْفَرَائِضِ",
+      "arabic": "يُبَيِّنُ النَّوَوِيُّ أُصُولَ عِلْمِ الْمَوَارِيثِ وَقَوْلَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: أَلْحِقُوا الْفَرَائِضَ بِأَهْلِهَا فَمَا بَقِيَ فَهُوَ لِأَوْلَى رَجُلٍ ذَكَرٍ، وَمَوَانِعَ الْإِرْثِ كَاخْتِلَافِ الدِّينِ وَالْقَتْلِ، وَأَنَّ الْعَائِلَةَ لَا تَرِثُ مَعَ تَفَاوُتِ الْمِلَّةِ، وَأَحْكَامَ الْكَلَالَةِ وَمِيرَاثِ ذَوِي الْفُرُوضِ وَالْعَصَبَاتِ.",
+      "translation": "Imam an-Nawawi memaparkan prinsip-prinsip ilmu mawaris beserta syarah sabda Nabi shallallahu 'alaihi wa sallam agar memberikan bagian waris kepada yang berhak dan sisanya untuk ahli waris laki-laki terdekat. Dijelaskan pula penghalang waris seperti perbedaan agama dan pembunuhan, hukum kalalah, serta pembagian warisan bagi ashhabul furudh dan ashabah."
+    },
+    {
+      "title": "Kitab Hibat (Pemberian)",
+      "titleArabic": "كِتَابُ الْهِبَاتِ",
+      "arabic": "يَشْرَحُ الشَّارِحُ مَشْرُوعِيَّةَ الْهِبَةِ وَالنِّحْلَةِ وَالْعُمْرَى، وَالنَّهْيَ عَنِ الرُّجُوعِ فِي الْهِبَةِ كَالْكَلْبِ يَعُودُ فِي قَيْئِهِ إِلَّا الْوَالِدَ فِيمَا يُعْطِيهِ لِوَلَدِهِ، وَالْأَمْرَ بِالتَّسْوِيَةِ بَيْنَ الْأَوْلَادِ فِي الْعَطِيَّةِ وَالْعَدْلِ بَيْنَهُمْ.",
+      "translation": "Pensyarah menguraikan hukum hibah, pemberian cuma-cuma, dan 'umra, serta larangan keras menarik kembali pemberian yang diibaratkan seperti anjing menjilat muntahnya sendiri kecuali pemberian orang tua kepada anaknya. Ditekankan pula kewajiban atau anjuran kuat bersikap adil dan menyamakan pemberian di antara anak-anak."
+    },
+    {
+      "title": "Kitab Wasiat",
+      "titleArabic": "كِتَابُ الْوَصِيَّةِ",
+      "arabic": "يُفَصِّلُ النَّوَوِيُّ الْحَثَّ عَلَى كِتَابَةِ الْوَصِيَّةِ لِمَنْ لَهُ شَيْءٌ يُوصِي فِيهِ، وَتَقْيِيدَ الْوَصِيَّةِ بِالثُّلُثِ وَأَنَّ الثُّلُثَ كَثِيرٌ لِئَلَّا يُتْرَكَ الْوَرَثَةُ عَالَةً يَتَكَفَّفُونَ النَّاسَ، وَبَيَانَ أَحْكَامِ الْوَقْفِ وَأَنَّهُ صَدَقَةٌ جَارِيَةٌ لَا يُبَاعُ أَصْلُهُ وَلَا يُوهَبُ وَلَا يُورَثُ.",
+      "translation": "Imam an-Nawawi merinci anjuran mencatat wasiat bagi orang yang memiliki harta atau tanggungan yang perlu diwasiatkan, pembatasan maksimal wasiat sebesar sepertiga harta agar ahli waris tidak ditinggalkan dalam keadaan fakir dan meminta-minta, serta hukum wakaf sebagai sedekah jariyah yang pokok hartanya tidak boleh dijual, dihibahkan, atau diwariskan."
+    },
+    {
+      "title": "Kitab Nadzar",
+      "titleArabic": "كِتَابُ النَّذْرِ",
+      "arabic": "يَتَنَاوَلُ الشَّارِحُ حُكْمَ النَّذْرِ وَالنَّهْيَ عَنِ ابْتِدَائِهِ لِأَنَّهُ لَا يَرُدُّ شَيْئًا وَإِنَّمَا يُسْتَخْرَجُ بِهِ مِنَ الْبَخِيلِ، وَوُجُوبَ الْوَفَاءِ بِنَذْرِ الطَّاعَةِ، وَتَحْرِيمَ الْوَفَاءِ بِنَذْرِ الْمَعْصِيَةِ، وَأَنَّ كَفَّارَةَ النَّذْرِ الْمُطْلَقِ كَكَفَّارَةِ الْيَمِينِ.",
+      "translation": "Pensyarah membahas hukum nadzar dan larangan memulainya karena nadzar tidak menolak takdir melainkan hanya mengeluarkan harta dari orang yang kikir. Namun jika seseorang telah bernadzar ketaatan, wajib baginya menunaikan nadzar tersebut, haram menunaikan nadzar maksiat, dan kafarat nadzar yang tidak terpenuhi adalah kafarat sumpah."
+    },
+    {
+      "title": "Kitab Sumpah",
+      "titleArabic": "كِتَابُ الْأَيْمَانِ",
+      "arabic": "يُبَيِّنُ النَّوَوِيُّ أَنَّ الْحَلِفَ لَا يَكُونُ إِلَّا بِاللَّهِ أَوْ بِصِفَةٍ مِنْ صِفَاتِهِ وَتَحْرِيمَ الْحَلِفِ بِالْآبَاءِ وَالطَّوَاغِيتِ، وَمَشْرُوعِيَّةَ الْحِنْثِ فِي الْيَمِينِ إِذَا رَأَى خَيْرًا مِنْهَا مَعَ إِخْرَاجِ كَفَّارَةِ الْيَمِينِ، وَالِاسْتِثْنَاءَ فِي الْيَمِينِ بِالْمَشِيئَةِ، وَآدَابَ مُعَامَلَةِ الْمَمَالِيكِ وَالْخَدَمِ.",
+      "translation": "Imam an-Nawawi menerangkan bahwa bersumpah hanya boleh dengan nama Allah atau sifat-sifat-Nya serta haramnya bersumpah dengan nama leluhur atau berhala. Dijelaskan pula kebolehan membatalkan sumpah apabila melihat sesuatu yang lebih baik dengan membayar kafarat sumpah, hukum pengecualian dengan mengucap insyaAllah, serta adab berbuat baik kepada budak dan pelayan."
+    },
+    {
+      "title": "Kitab Qasamah, Pembegal, Qishash, dan Diyat",
+      "titleArabic": "كِتَابُ الْقَسَامَةِ وَالْمُحَارِبِينَ وَالْقِصَاصِ وَالدِّيَاتِ",
+      "arabic": "يَشْرَحُ الشَّارِحُ أَحْكَامَ الْقَسَامَةِ فِي دَعَاوَى الْقَتْلِ، وَحُدُودَ قُطَّاعِ الطَّرِيقِ وَالْمُحَارِبِينَ، وَعِصْمَةَ دَمِ الْمُسْلِمِ وَأَنَّهُ لَا يَحِلُّ إِلَّا بِإِحْدَى ثَلَاثٍ: الثَّيِّبُ الزَّانِي وَالنَّفْسُ بِالنَّفْسِ وَالتَّارِكُ لِدِينِهِ الْمُفَارِقُ لِلْجَمَاعَةِ، وَأَحْكَامَ الْقِصَاصِ وَالدِّيَةِ فِي الْقَتْلِ الْعَمْدِ وَالْخَطَأِ.",
+      "translation": "Pensyarah mengulas hukum sumpah qasamah dalam perkara pembunuhan, hukuman bagi para perampok dan pengacau keamanan, serta terjaganya darah seorang Muslim yang tidak halal ditumpahkan kecuali karena tiga sebab: pezina muhshan, pembunuhan berbalas qishash, dan orang yang murtad meninggalkan jamaah. Dibahas pula ketentuan qishash dan diyat pada pembunuhan sengaja maupun tidak sengaja."
+    },
+    {
+      "title": "Kitab Hudud (Hukuman Pidana Syariat)",
+      "titleArabic": "كِتَابُ الْحُدُودِ",
+      "arabic": "يُفَصِّلُ النَّوَوِيُّ مَقَادِيرَ الْحُدُودِ الشَّرْعِيَّةِ وَشُرُوطَ إِقَامَتِهَا مِنْ قِبَلِ الْإِمَامِ، كَحَدِّ السَّرِقَةِ وَنِصَابِهِ، وَحَدِّ الزِّنَا لِلْبِكْرِ وَالثَّيِّبِ وَدَرْءِ الْحُدُودِ بِالشُّبُهَاتِ، وَحَدِّ شُرْبِ الْخَمْرِ، وَالْمَنْعِ مِنَ الشَّفَاعَةِ فِي الْحُدُودِ بَعْدَ بُلُوغِهَا السُّلْطَانَ.",
+      "translation": "Imam an-Nawawi merinci kadar hukuman had syariat dan syarat penegakannya oleh penguasa yang sah, seperti had pencurian beserta nisabnya, had zina bagi pelaku belum menikah dan sudah menikah, kaidah menolak hukuman had jika terdapat keraguan (syubhat), had peminum khamr, serta larangan memberi syafaat atau lobi pembebasan dalam perkara had setelah sampai ke penguasa."
+    },
+    {
+      "title": "Kitab Aqdhiyah (Peradilan)",
+      "titleArabic": "كِتَابُ الْأَقْضِيَةِ",
+      "arabic": "يَتَنَاوَلُ الشَّارِحُ قَوَاعِدَ الْقَضَاءِ وَآدَابَ الْقَاضِي، وَقَاعِدَةَ: الْبَيِّنَةُ عَلَى الْمُدَّعِي وَالْيَمِينُ عَلَى مَنْ أَنْكَرَ، وَأَجْرَ الْمُجْتَهِدِ الْمُصِيبِ وَالْمُخْطِئِ، وَالنَّهْيَ عَنْ قَضَاءِ الْقَاضِي وَهُوَ غَضْبَانُ، وَالْبَرَاءَةَ مِنْ دَعَاوَى الْأَمْوَالِ بِمَا يُرْضِي الْحَقَّ وَيُحَقِّقُ الْعَدْلَ.",
+      "translation": "Pensyarah membahas kaidah-kaidah peradilan dan adab seorang hakim, kaidah pokok bahwa pembuktian dibebankan kepada penggugat dan sumpah dibebankan kepada tergugat yang mengingkari, pahala bagi hakim mujtahid yang benar maupun yang keliru, larangan memutus perkara saat hakim sedang marah, serta kehati-hatian dalam menyelesaikan sengketa harta."
+    },
+    {
+      "title": "Kitab Luqathah (Barang Temuan)",
+      "titleArabic": "كِتَابُ اللُّقَطَةِ",
+      "arabic": "يُبَيِّنُ النَّوَوِيُّ أَحْكَامَ اللُّقَطَةِ وَوُجُوبَ مَعْرِفَةِ عِفَاصِهَا وَوِكَائِهَا وَتَعْرِيفِهَا سَنَةً كَامِلَةً، وَالْفَرْقَ بَيْنَ ضَالَّةِ الْغَنَمِ وَضَالَّةِ الْإِبِلِ، وَتَحْرِيمَ الْتِقَاطِ لُقَطَةِ مَكَّةَ إِلَّا لِمُنْشِدٍ، وَحُكْمَ الضِّيَافَةِ وَحُقُوقِ الضَّيْفِ.",
+      "translation": "Imam an-Nawawi menjelaskan hukum barang temuan (luqathah), kewajiban mengenali wadah serta talinya dan mengumumkannya selama satu tahun penuh, perbedaan hukum antara kambing yang tersesat dan unta yang tersesat, serta larangan mengambil barang temuan di Tanah Haram Makkah kecuali untuk diumumkan. Diuraikan pula hukum menjamu tamu dan hak-haknya."
+    },
+    {
+      "title": "Kitab Jihad dan Siyar (Hukum Perang)",
+      "titleArabic": "كِتَابُ الْجِهَادِ وَالسِّيَرِ",
+      "arabic": "يَشْرَحُ الشَّارِحُ آدَابَ الْجِهَادِ فِي سَبِيلِ اللَّهِ وَالْوَفَاءَ بِالْعُهُودِ وَتَحْرِيمَ الْغَدْرِ، وَالنَّهْيَ عَنْ قَتْلِ النِّسَاءِ وَالصِّبْيَانِ، وَالْأَمْرَ بِالتَّيْسِيرِ وَالتَّبْشِيرِ، وَأَحْكَامَ الْغَنَائِمِ وَالْفَيْءِ وَصُلْحِ الْحُدَيْبِيَةِ، وَغَزَوَاتِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَمَكَارِمِ أَخْلَاقِهِ فِي الْحَرْبِ وَالسِّلْمِ.",
+      "translation": "Pensyarah menguraikan etika jihad di jalan Allah, kewajiban menepati perjanjian dan haramnya berkhianat, larangan membunuh wanita dan anak-anak, serta perintah untuk mempermudah dan memberi kabar gembira. Dijelaskan pula hukum harta rampasan perang (ghanimah) dan fai', perjanjian Hudaibiyah, serta peperangan Nabi dan keluhuran akhlak beliau baik dalam keadaan perang maupun damai."
+    },
+    {
+      "title": "Kitab Imarah (Kepemimpinan)",
+      "titleArabic": "كِتَابُ الْإِمَارَةِ",
+      "arabic": "يُفَصِّلُ النَّوَوِيُّ أَحْكَامَ الْإِمَامَةِ الْعُظْمَى وَالْبَيْعَةِ، وَالنَّهْيَ عَنْ طَلَبِ الْإِمَارَةِ، وَوُجُوبَ طَاعَةِ وُلَاةِ الْأَمْرِ فِي الْمَعْرُوفِ دُونَ الْمَعْصِيَةِ، وَأَنَّ كُلَّكُمْ رَاعٍ وَكُلُّكُمْ مَسْؤُولٌ عَنْ رَعِيَّتِهِ، وَفَضْلَ الشَّهَادَةِ وَالرِّبَاطِ فِي سَبِيلِ اللَّهِ، وَشَرْحَ حَدِيثِ: إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ.",
+      "translation": "Imam an-Nawawi merinci hukum kepemimpinan tertinggi dan baiat, larangan berambisi meminta jabatan, serta kewajiban menaati pemimpin dalam perkara ma'ruf bukan dalam kemaksiatan. Beliau juga menjelaskan prinsip tanggung jawab kepemimpinan bahwa setiap individu adalah pemimpin yang akan dimintai pertanggungjawaban, keutamaan mati syahid dan berjaga di perbatasan, serta syarah hadits sesungguhnya amal bergantung pada niat."
+    },
+    {
+      "title": "Kitab Berburu, Sembelihan, dan Hewan yang Halal Dimakan",
+      "titleArabic": "كِتَابُ الصَّيْدِ وَالذَّبَائِحِ وَمَا يُؤْكَلُ مِنَ الْحَيَوَانِ",
+      "arabic": "يَتَنَاوَلُ الشَّارِحُ شُرُوطَ الذَّبْحِ الشَّرْعِيِّ وَالْإِحْسَانِ فِي الذِّبْحَةِ بِإِحْدَادِ الشَّفْرَةِ وَإِرَاحَةِ الذَّبِيحَةِ، وَأَحْكَامَ الصَّيْدِ بِالْكَلْبِ الْمُعَلَّمِ وَالسَّهْمِ مَعَ التَّسْمِيَةِ، وَحِلَّ مَيْتَةِ الْبَحْرِ وَالْجَرَادِ، وَتَحْرِيمَ كُلِّ ذِي نَابٍ مِنَ السِّبَاعِ وَكُلِّ ذِي مِخْلَبٍ مِنَ الطَّيْرِ وَالْحُمُرِ الْأَهْلِيَّةِ.",
+      "translation": "Pensyarah membahas syarat penyembelihan syar'i serta kewajiban berbuat baik terhadap hewan sembelihan dengan menajamkan pisau dan menenangkannya. Diuraikan pula hukum berburu menggunakan anjing terlatih dan panah dengan membaca basmalah, halalnya bangkai laut dan belalang, serta keharaman memakan binatang buas bertaring, burung bercakar tajam, dan keledai jinak."
+    },
+    {
+      "title": "Kitab Qurban",
+      "titleArabic": "كِتَابُ الْأَضَاحِي",
+      "arabic": "يُبَيِّنُ النَّوَوِيُّ سُنِّيَّةَ الْأُضْحِيَةِ وَوَقْتَهَا بَعْدَ صَلَاةِ الْعِيدِ وَمَا يَجُوزُ فِيهَا مِنَ الْبَهِيمَةِ مِنَ الْإِبِلِ وَالْبَقَرِ وَالْغَنَمِ، وَالْعُيُوبَ الْمَانِعَةَ مِنَ الْإِجْزَاءِ، وَإِمْسَاكَ الْمُضَحِّي عَنْ شَعْرِهِ وَأَظْفَارِهِ فِي عَشْرِ ذِي الْحِجَّةِ، وَأَحْكَامَ تَفْرِقَةِ لَحْمِ الْأُضْحِيَةِ وَجَوَازَ الِادِّخَارِ، وَالنَّهْيَ عَنِ الْفَرَعِ وَالْعَتِيرَةِ.",
+      "translation": "Imam an-Nawawi memaparkan kesunnahan berkurban, waktu penyembelihannya setelah shalat Id, jenis hewan yang sah berupa unta, sapi, dan kambing, serta cacat-cacat yang membuat hewan tidak sah dijadikan kurban. Dijelaskan pula anjuran tidak memotong rambut dan kuku pada sepuluh hari pertama Dzulhijjah bagi yang hendak berkurban, tata cara pembagian daging kurban beserta kebolehan menyimpannya, dan larangan tradisi fara' serta 'atirah."
+    },
+    {
+      "title": "Kitab Minuman",
+      "titleArabic": "كِتَابُ الْأَشْرِبَةِ",
+      "arabic": "يَشْرَحُ الشَّارِحُ تَحْرِيمَ الْخَمْرِ وَقَاعِدَةَ: كُلُّ مُسْكِرٍ خَمْرٌ وَكُلُّ مُسْكِرٍ حَرَامٌ، وَمَا أَسْكَرَ كَثِيرُهُ فَقَلِيلُهُ حَرَامٌ، وَالْأَشْرِبَةَ الْمُبَاحَةَ كَالنَّبِيذِ غَيْرِ الْمُسْكِرِ، وَالنَّهْيَ عَنِ الشُّرْبِ فِي آنِيَةِ الذَّهَبِ وَالْفِضَّةِ، وَآدَابَ الطَّعَامِ وَالشَّرَابِ كَالتَّسْمِيَةِ وَالْأَكْلِ بِالْيَمِينِ وَنَفْيِ عَيْبِ الطَّعَامِ.",
+      "translation": "Pensyarah mengulas keharaman khamr beserta kaidah bahwa setiap yang memabukkan adalah khamr dan setiap khamr adalah haram, serta apa yang banyaknya memabukkan maka sedikitnya pun haram. Dijelaskan pula minuman yang halal, larangan makan dan minum menggunakan bejana emas dan perak, serta adab makan dan minum seperti membaca basmalah, makan dengan tangan kanan, dan tidak mencela makanan."
+    },
+    {
+      "title": "Kitab Pakaian dan Perhiasan",
+      "titleArabic": "كِتَابُ اللِّبَاسِ وَالزِّينَةِ",
+      "arabic": "يُفَصِّلُ النَّوَوِيُّ تَحْرِيمَ لُبْسِ الْحَرِيرِ وَالذَّهَبِ عَلَى الرِّجَالِ دُونَ النِّسَاءِ، وَإِبَاحَةَ خَاتَمِ الْفِضَّةِ، وَالْوَعِيدَ فِي إِسْبَالِ الْإِزَارِ خُيَلَاءَ، وَتَحْرِيمَ التَّصَاوِيرِ لِذَوَاتِ الْأَرْوَاحِ وَدُخُولِ الْمَلَائِكَةِ بَيْتًا فِيهِ كَلْبٌ أَوْ صُورَةٌ، وَتَحْرِيمَ الْوَشْمِ وَالْوَصْلِ وَالتَّفَلُّجِ لِلْحُسْنِ.",
+      "translation": "Imam an-Nawawi merinci larangan memakai sutra dan emas bagi laki-laki dan kebolehannya bagi wanita, kebolehan cincin perak, ancaman keras memanjangkan kain di bawah mata kaki karena sombong, larangan menggambar makhluk bernyawa, serta tidak masuknya malaikat rahmat ke rumah yang terdapat anjing atau patung/gambar. Dibahas pula keharaman tato, menyambung rambut, dan mengikir gigi demi kecantikan."
+    },
+    {
+      "title": "Kitab Adab",
+      "titleArabic": "كِتَابُ الْآدَابِ",
+      "arabic": "يَتَنَاوَلُ الشَّارِحُ تَحْسِينَ الْأَسْمَاءِ وَتَغْيِيرَ الْأَسْمَاءِ الْقَبِيحَةِ، وَتَسْمِيَةَ الْمَوْلُودِ وَحَنَكِهِ، وَالِاسْتِئْذَانَ ثَلَاثًا عِنْدَ دُخُولِ الْبُيُوتِ وَآدَابِهِ، وَتَحْرِيمَ النَّظَرِ فِي بَيْتِ الْغَيْرِ بِغَيْرِ إِذْنٍ، وَإِثْبَاتَ كَرَامَةِ التَّكْنِيَةِ بِأَبِي الْقَاسِمِ وَالْمَسْأَلَةَ الْفِقْهِيَّةَ فِيهَا.",
+      "translation": "Pensyarah membahas anjuran memilih nama yang baik dan mengganti nama yang buruk, pemberian nama serta tahnik bagi bayi yang baru lahir, kewajiban meminta izin maksimal tiga kali ketika hendak memasuki rumah orang lain, dan haramnya mengintip ke dalam rumah orang lain tanpa izin. Diuraikan pula persoalan fiqih mengenai penggunaan kunyah Abul Qasim."
+    },
+    {
+      "title": "Kitab Salam",
+      "titleArabic": "كِتَابُ السَّلَامِ",
+      "arabic": "يُبَيِّنُ النَّوَوِيُّ فَضْلَ إِفْشَاءِ السَّلَامِ وَأَنَّ السَّلَامَ سُنَّةٌ وَرَدَّهُ وَاجِبٌ، وَتَرْتِيبَ الْمُسَلِّمِ كَتَسْلِيمِ الرَّاكِبِ عَلَى الْمَاشِي وَالْقَلِيلِ عَلَى الْكَثِيرِ، وَتَحْرِيمَ الْخَلْوَةِ بِالْأَجْنَبِيَّةِ، وَأَحْكَامَ عِيَادَةِ الْمَرِيضِ وَالرُّقْيَةِ الشَّرْعِيَّةِ وَالتَّدَاوِي، وَإِبْطَالَ الطِّيَرَةِ وَالْعَدْوَى وَالْكِهَانَةِ وَالسِّحْرِ.",
+      "translation": "Imam an-Nawawi menjelaskan keutamaan menyebarkan salam beserta hukum memulainya adalah sunnah sedangkan menjawabnya wajib, urutan pihak yang memulai salam, serta haramnya berdua-duaan (khalwat) dengan wanita bukan mahram. Dibahas pula adab menjenguk orang sakit, ruqyah syar'iyyah dan berobat, serta pembatalan keyakinan thiyarah (firasat sial), penularan penyakit tanpa kehendak Allah, perdukunan, dan sihir."
+    },
+    {
+      "title": "Kitab Lafaz-Lafaz Adab dan Etika Berbahasa",
+      "titleArabic": "كِتَابُ الْأَلْفَاظِ مِنَ الْأَدَبِ وَغَيْرِهَا",
+      "arabic": "يَشْرَحُ الشَّارِحُ النَّهْيَ عَنْ سَبِّ الدَّهْرِ لِأَنَّ اللَّهَ هُوَ مُقَلِّبُ الدَّهْرِ، وَالنَّهْيَ عَنْ قَوْلِ عَبْدِي وَأَمَتِي أَوْ خَبُثَتْ نَفْسِي، وَتَسْمِيَةَ الْعِنَبِ كَرْمًا، وَحِكْمَةَ تَجَنُّبِ الْأَلْفَاظِ الْمُوهِمَةِ لِسُوءِ الْأَدَبِ مَعَ اللَّهِ أَوِ الْمُسْلِمِينَ.",
+      "translation": "Pensyarah mengulas larangan mencela masa atau waktu karena Allah-lah yang membolak-balikkan waktu, larangan menyebut budakku dengan panggilan 'abdi atau amati, serta larangan ungkapan jiwaku busuk dan penamaan anggur dengan karm. Beliau menjelaskan hikmah menjaga kesantunan berbahasa dan menghindari istilah yang memberi kesan buruk terhadap Allah maupun sesama Muslim."
+    },
+    {
+      "title": "Kitab Syair",
+      "titleArabic": "كِتَابُ الشِّعْرِ",
+      "arabic": "يُفَصِّلُ النَّوَوِيُّ أَحْكَامَ الشِّعْرِ وَإِنْشَادِهِ، وَبَيَانَ أَنَّ الشِّعْرَ كَلَامٌ حَسَنُهُ حَسَنٌ وَقَبِيحُهُ قَبِيحٌ، وَاسْتِحْسَانَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لِشِعْرِ أُمَيَّةَ بْنِ أَبِي الصَّلْتِ وَحَسَّانَ بْنِ ثَابِتٍ فِي الدِّفَاعِ عَنِ الْإِسْلَامِ، وَالنَّهْيَ عَنْ أَنْ يَمْتَلِئَ جَوْفُ الرَّجُلِ شِعْرًا يَصُدُّهُ عَنْ ذِكْرِ اللَّهِ وَالْقُرْآنِ.",
+      "translation": "Imam an-Nawawi merinci hukum menggubah dan melantunkan syair dengan kaidah bahwa syair adalah ucapan yang jika baik maka baik dan jika buruk maka buruk. Dijelaskan pula apresiasi Nabi terhadap syair Umayyah bin Abi ash-Shalt dan syair pembelaan Islam oleh Hassan bin Tsabit, serta peringatan agar hati seseorang tidak dipenuhi syair hingga melalaikannya dari zikir dan Al-Qur'an."
+    },
+    {
+      "title": "Kitab Mimpi",
+      "titleArabic": "كِتَابُ الرُّؤْيَا",
+      "arabic": "يَتَنَاوَلُ الشَّارِحُ أَقْسَامَ الرُّؤْيَا الثَّلَاثَةَ: الرُّؤْيَا الصَّالِحَةُ مِنَ اللَّهِ وَهِيَ جُزْءٌ مِنْ سِتَّةٍ وَأَرْبَعِينَ جُزْءًا مِنَ النُّبُوَّةِ، وَالْحُلُمُ مِنَ الشَّيْطَانِ، وَحَدِيثُ النَّفْسِ. وَيُبَيِّنُ آدَابَ مَنْ رَأَى مَا يُحِبُّ أَوْ مَا يَكْرَهُ فِي مَنَامِهِ، وَمَعْنَى رُؤْيَةِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي الْمَنَامِ.",
+      "translation": "Pensyarah membahas tiga jenis mimpi: mimpi baik dari Allah yang merupakan satu bagian dari empat puluh enam bagian kenabian, mimpi buruk dari gangguan setan, dan bisikan pikiran manusia. Diterangkan pula adab bagi orang yang bermimpi baik maupun buruk, serta makna bermimpi melihat Nabi shallallahu 'alaihi wa sallam karena setan tidak dapat menyerupai rupa beliau."
+    },
+    {
+      "title": "Kitab Keutamaan Para Nabi (Fadha'il)",
+      "titleArabic": "كِتَابُ الْفَضَائِلِ",
+      "arabic": "يُبَيِّنُ النَّوَوِيُّ فَضَائِلَ النَّبِيِّ مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَمُعْجِزَاتِهِ كَتَكْثِيرِ الطَّعَامِ وَنَبْعِ الْمَاءِ مِنْ بَيْنِ أَصَابِعِهِ وَتَسْبِيحِ الْحَصَى، وَشَمَائِلِهِ وَأَخْلَاقِهِ الْعَظِيمَةِ مِنْ شَجَاعَتِهِ وَجُودِهِ وَحَيَائِهِ وَرَحْمَتِهِ، وَفَضَائِلِ سَائِرِ الْأَنْبِيَاءِ كَإِبْرَاهِيمَ وَمُوسَى وَعِيسَى عَلَيْهِمُ السَّلَامُ.",
+      "translation": "Imam an-Nawawi memaparkan keutamaan Nabi Muhammad shallallahu 'alaihi wa sallam beserta mukjizat-mukjizatnya seperti memperbanyak makanan sedikit, memancarnya air dari sela jari-jari beliau, dan tasbih kerikil. Diuraikan pula ciri fisik serta akhlak agung beliau berupa keberanian, kedermawanan, rasa malu, dan kasih sayang, disertai kisah keutamaan para nabi terdahulu seperti Ibrahim, Musa, dan Isa."
+    },
+    {
+      "title": "Kitab Keutamaan Para Sahabat",
+      "titleArabic": "كِتَابُ فَضَائِلِ الصَّحَابَةِ رَضِيَ اللَّهُ عَنْهُمْ",
+      "arabic": "يَشْرَحُ الشَّارِحُ مَنَاقِبَ الصَّحَابَةِ الْكِرَامِ عُمُومًا، وَمَنَاقِبَ الْخُلَفَاءِ الرَّاشِدِينَ الْأَرْبَعَةِ: أَبِي بَكْرٍ وَعُمَرَ وَعُثْمَانَ وَعَلِيٍّ رَضِيَ اللَّهُ عَنْهُمْ، وَأُمَّهَاتِ الْمُؤْمِنِينَ، وَأَهْلِ الْبَيْتِ، وَالْأَنْصَارِ، وَخَيْرِ الْقُرُونِ، مَعَ تَقْرِيرِ عَقِيدَةِ أَهْلِ السُّنَّةِ فِي تَوْقِيرِهِمْ وَالْكَفِّ عَمَّا شَجَرَ بَيْنَهُمْ وَتَحْرِيمِ سَبِّهِمْ.",
+      "translation": "Pensyarah menguraikan kemuliaan para sahabat secara umum dan keutamaan empat Khulafaur Rasyidin: Abu Bakar, Umar, Utsman, dan Ali radhiyallahu 'anhum, para Ummahatul Mukminin, Ahlul Bait, kaum Anshar, serta generasi terbaik. Ditegaskan pula prinsip akidah Ahlussunnah wal Jama'ah untuk memuliakan seluruh sahabat, menahan lisan dari perselisihan di antara mereka, dan haramnya mencela mereka."
+    },
+    {
+      "title": "Kitab Berbakti, Silaturahmi, dan Adab Pergaulan",
+      "titleArabic": "كِتَابُ الْبِرِّ وَالصِّلَةِ وَالْآدَابِ",
+      "arabic": "يُفَصِّلُ النَّوَوِيُّ وُجُوبَ بِرِّ الْوَالِدَيْنِ وَتَقْدِيمِ الْأُمِّ ثَلَاثًا، وَصِلَةِ الرَّحِمِ وَتَحْرِيمِ قَطِيعَتِهَا، وَتَحْرِيمِ الظُّلْمِ وَالتَّحَاسُدِ وَالتَّبَاغُضِ وَالتَّدَابُرِ وَالْغِيبَةِ وَالنَّمِيمَةِ وَالْكَذِبِ، وَالْأَمْرِ بِالصِّدْقِ وَالرِّفْقِ وَالصَّبْرِ وَمَكَارِمِ الْأَخْلَاقِ وَسَتْرِ عَوْرَاتِ الْمُسْلِمِينَ.",
+      "translation": "Imam an-Nawawi merinci kewajiban berbakti kepada kedua orang tua dengan mendahulukan ibu hingga tiga kali, menyambung tali silaturahmi dan haramnya memutuskannya, serta larangan berbuat zalim, iri dengki, saling membenci, ghibah, adu domba, dan dusta. Ditekankan pula perintah bersikap jujur, lemah lembut, sabar, berakhlak mulia, dan menutupi aib sesama Muslim."
+    },
+    {
+      "title": "Kitab Takdir (Qadar)",
+      "titleArabic": "كِتَابُ الْقَدَرِ",
+      "arabic": "يَتَنَاوَلُ الشَّارِحُ إِثْبَاتَ قَدَرِ اللَّهِ تَعَالَى السَّابِقِ وَكِتَابَةِ الْمَقَادِيرِ قَبْلَ خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ بِخَمْسِينَ أَلْفَ سَنَةٍ، وَشَرْحَ حَدِيثِ تَخْلِيقِ الْجَنِينِ فِي بَطْنِ أُمِّهِ، وَالتَّوْفِيقَ بَيْنَ الْإِيمَانِ بِالْقَدَرِ وَالْأَخْذِ بِالْأَسْبَابِ وَالْعَمَلِ الصَّالِحِ، وَتَقْرِيرَ مَذْهَبِ أَهْلِ السُّنَّةِ فِي كَسْبِ الْعِبَادِ وَخَلْقِ اللَّهِ لِلْأَفْعَالِ.",
+      "translation": "Pensyarah membahas penetapan takdir Allah yang telah tercatat lima puluh ribu tahun sebelum penciptaan langit dan bumi, serta syarah hadits penciptaan janin di dalam rahim ibunya. Dijelaskan pula cara memadukan iman kepada takdir dengan kewajiban berikhtiar dan beramal saleh, serta penegasan akidah Ahlussunnah mengenai usaha (kasb) hamba dan penciptaan perbuatan oleh Allah."
+    },
+    {
+      "title": "Kitab Ilmu",
+      "titleArabic": "كِتَابُ الْعِلْمِ",
+      "arabic": "يُبَيِّنُ النَّوَوِيُّ أَخْلَاقَ طَالِبِ الْعِلْمِ وَالْمُعَلِّمِ، وَذَمَّ اتِّبَاعِ الْمُتَشَابِهِ ابْتِغَاءَ الْفِتْنَةِ، وَذَمَّ الْمِرَاءِ وَالْجِدَالِ الْبَاطِلِ، وَالْحَذَرَ مِنْ قَبْضِ الْعِلْمِ بِمَوْتِ الْعُلَمَاءِ وَاتِّخَاذِ رُؤَسَاءَ جُهَّالٍ، وَمَسْأَلَةَ مَنْ سَنَّ فِي الْإِسْلَامِ سُنَّةً حَسَنَةً أَوْ سُنَّةً سَيِّئَةً.",
+      "translation": "Imam an-Nawawi menerangkan adab penuntut ilmu dan pengajar, celaan terhadap sikap mengikuti ayat-ayat mutasyabihat untuk menimbulkan fitnah, serta larangan berdebat kusir. Beliau juga mengulas hadits tentang diangkatnya ilmu melalui wafatnya para ulama hingga manusia mengangkat pemimpin yang jahil, serta makna barang siapa merintis tradisi baik atau tradisi buruk dalam Islam."
+    },
+    {
+      "title": "Kitab Dzikir, Doa, Taubat, dan Istighfar",
+      "titleArabic": "كِتَابُ الذِّكْرِ وَالدُّعَاءِ وَالتَّوْبَةِ وَالِاسْتِغْفَارِ",
+      "arabic": "يَشْرَحُ الشَّارِحُ فَضْلَ ذِكْرِ اللَّهِ وَالِاجْتِمَاعِ عَلَى تِلَاوَةِ الْقُرْآنِ وَتَدَارُسِهِ، وَفَضْلَ التَّسْبِيحِ وَالتَّحْمِيدِ وَالتَّهْلِيلِ وَالتَّكْبِيرِ، وَأَدْعِيَةَ الصَّبَاحِ وَالْمَسَاءِ وَالنَّوْمِ وَالْكَرْبِ، وَشُرُوطَ إِجَابَةِ الدُّعَاءِ وَالْجَزْمَ فِي الْمَسْأَلَةِ، وَالْإِكْثَارَ مِنَ الِاسْتِغْفَارِ.",
+      "translation": "Pensyarah menguraikan keutamaan berzikir kepada Allah dan berkumpul di masjid untuk membaca serta mempelajari Al-Qur'an, keutamaan kalimat tasbih, tahmid, tahlil, dan takbir, serta zikir-zikir pagi, petang, menjelang tidur, dan saat kesulitan. Dijelaskan pula adab serta syarat terkabulnya doa, keyakinan penuh saat memohon kepada Allah, dan anjuran memperbanyak istighfar."
+    },
+    {
+      "title": "Kitab Taubat",
+      "titleArabic": "كِتَابُ التَّوْبَةِ",
+      "arabic": "يُفَصِّلُ النَّوَوِيُّ وُجُوبَ التَّوْبَةِ النَّصُوحِ وَشُرُوطَهَا الثَّلَاثَةَ فِي حَقِّ اللَّهِ وَالرَّابِعَ فِي حَقِّ الْآدَمِيِّ، وَفَرَحَ اللَّهِ بِتَوْبَةِ عَبْدِهِ التَّائِبِ، وَسَعَةَ رَحْمَةِ اللَّهِ تَعَالَى الَّتِي سَبَقَتْ غَضَبَهُ، وَقَبُولَ التَّوْبَةِ مَا لَمْ يُغَرْغِرِ الْعَبْدُ أَوْ تَطْلُعِ الشَّمْسُ مِنْ مَغْرِبِهَا، وَفَضَائِلَ حَدِيثِ كَعْبِ بْنِ مَالِكٍ وَقِصَّةِ الثَّلَاثَةِ الَّذِينَ خُلِّفُوا.",
+      "translation": "Imam an-Nawawi merinci kewajiban taubat nasuha beserta tiga syaratnya terkait hak Allah dan syarat keempat berupa pengembalian hak sesama manusia. Dibahas pula besarnya kegembiraan Allah atas taubat hamba-Nya, luasnya rahmat Allah yang mendahului murka-Nya, diterimanya taubat sebelum sakaratul maut atau terbitnya matahari dari barat, serta pelajaran agung dari kisah taubat Ka'ab bin Malik."
+    },
+    {
+      "title": "Kitab Sifat Orang Munafik dan Hukumnya",
+      "titleArabic": "كِتَابُ صِفَاتِ الْمُنَافِقِينَ وَأَحْكَامِهِمْ",
+      "arabic": "يَتَنَاوَلُ الشَّارِحُ أَحْوَالَ الْمُنَافِقِينَ فِي عَهْدِ النُّبُوَّةِ وَالْفَرْقَ بَيْنَ النِّفَاقِ الْأَكْبَرِ الِاعْتِقَادِيِّ وَنِفَاقِ الْعَمَلِ، وَأَنَّ الْإِنْسَانَ لَا يَدْخُلُ الْجَنَّةَ بِمُجَرَّدِ عَمَلِهِ بَلْ بِرَحْمَةِ اللَّهِ وَفَضْلِهِ، وَالنَّهْيَ عَنْ تَأَلِّي الْعَبْدِ عَلَى اللَّهِ، وَمَسْأَلَةَ الْإِمْهَالِ لِلظَّالِمِ.",
+      "translation": "Pensyarah membahas karakter kaum munafik pada masa kenabian serta perbedaan antara nifak akidah yang mengeluarkan dari Islam dan nifak amaliah. Diuraikan pula penegasan bahwa seseorang tidak masuk surga semata-mata karena amalnya melainkan karena rahmat dan karunia Allah, larangan bersumpah mendahului kehendak Allah dalam menentukan nasib orang lain, serta hikmah penangguhan azab bagi orang zalim."
+    },
+    {
+      "title": "Kitab Sifat Hari Kiamat, Surga, dan Neraka",
+      "titleArabic": "كِتَابُ صِفَةِ الْقِيَامَةِ وَالْجَنَّةِ وَالنَّارِ",
+      "arabic": "يُبَيِّنُ النَّوَوِيُّ أَهْوَالَ يَوْمِ الْقِيَامَةِ وَطَيَّ السَّمَاوَاتِ وَقَبْضَ الْأَرْضِ، وَالْحَشْرَ حُفَاةً عُرَاةً غُرْلًا، وَعَرْضَ الْأَعْمَالِ وَشَفَاعَةَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، وَأَنَّ نَعِيمَ الْجَنَّةِ وَعَذَابَ النَّارِ أَبَدِيَّانِ دَائِمَانِ، وَالِاقْتِصَارَ عَلَى التَّوَسُّطِ وَالسَّدَادِ فِي الْعِبَادَةِ.",
+      "translation": "Imam an-Nawawi memaparkan dahsyatnya peristiwa hari kiamat, digulungnya langit dan digenggamnya bumi, dikumpulkannya manusia dalam keadaan tidak beralas kaki dan tidak berpakaian, hisab amal, serta syafaat Nabi. Ditegaskan pula kekekalan nikmat surga dan azab neraka, serta anjuran menempuh jalan pertengahan dan konsisten dalam beribadah."
+    },
+    {
+      "title": "Kitab Surga, Sifat Kenikmatan, dan Penghuninya",
+      "titleArabic": "كِتَابُ الْجَنَّةِ وَصِفَةِ نَعِيمِهَا وَأَهْلِهَا",
+      "arabic": "يَشْرَحُ الشَّارِحُ مَا أَعَدَّهُ اللَّهُ لِعِبَادِهِ الصَّالِحِينَ فِي الْجَنَّةِ مِمَّا لَا عَيْنٌ رَأَتْ وَلَا أُذُنٌ سَمِعَتْ وَلَا خَطَرَ عَلَى قَلْبِ بَشَرٍ، وَرُؤْيَةَ الْمُؤْمِنِينَ رَبَّهُمْ فِي الْآخِرَةِ وَهِيَ أَعْظَمُ النَّعِيمِ، وَشِدَّةَ حَرِّ جَهَنَّمَ وَعِظَمَ خَلْقِ أَهْلِ النَّارِ، وَسُؤَالَ الْمَلَكَيْنِ فِي الْقَبْرِ وَنَعِيمَهُ وَعَذَابَهُ.",
+      "translation": "Pensyarah melukiskan kenikmatan surga yang disediakan Allah bagi hamba-hamba-Nya yang saleh yang belum pernah dilihat mata, didengar telinga, atau terlintas di hati manusia, termasuk nikmat tertinggi berupa melihat Allah secara langsung di akhirat. Dibahas pula dahsyatnya panas neraka Jahannam, serta penetapan nikmat dan siksa kubur beserta pertanyaan dua malaikat."
+    },
+    {
+      "title": "Kitab Fitnah dan Tanda-Tanda Hari Kiamat",
+      "titleArabic": "كِتَابُ الْفِتَنِ وَأَشْرَاطِ السَّاعَةِ",
+      "arabic": "يُفَصِّلُ النَّوَوِيُّ الْفِتَنَ الْمُتَلَاحِقَةَ قَبْلَ السَّاعَةِ، وَأَمْرَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِكَفِّ اللِّسَانِ وَالْيَدِ وَالِاعْتِصَامِ بِالْجَمَاعَةِ عِنْدَ اضْطِرَابِ الْفِتَنِ، وَذِكْرَ الْأَشْرَاطِ الْكُبْرَى كَخُرُوجِ الدَّجَّالِ وَنُزُولِ عِيسَى ابْنِ مَرْيَمَ حَكَمًا عَدْلًا، وَخُرُوجِ يَأْجُوجَ وَمَأْجُوجَ، وَطُلُوعِ الشَّمْسِ مِنْ مَغْرِبِهَا.",
+      "translation": "Imam an-Nawawi merinci berbagai fitnah besar menjelang kiamat serta tuntunan Nabi agar menahan lisan dan tangan serta berpegang teguh pada jamaah kaum Muslimin saat fitnah berkecamuk. Diuraikan pula tanda-tanda besar kiamat seperti munculnya Dajjal, turunnya Nabi Isa bin Maryam sebagai hakim yang adil, keluarnya Ya'juj dan Ma'juj, serta terbitnya matahari dari arah barat."
+    },
+    {
+      "title": "Kitab Zuhud dan Kelembutan Hati (Raqa'iq)",
+      "titleArabic": "كِتَابُ الزُّهْدِ وَالرَّقَائِقِ",
+      "arabic": "يَتَنَاوَلُ الشَّارِحُ حَقِيقَةَ الزُّهْدِ فِي الدُّنْيَا وَالِاكْتِفَاءِ بِالْكَفَافِ، وَالتَّذْكِيرَ بِقِلَّةِ مَتَاعِ الدُّنْيَا بِالنِّسْبَةِ إِلَى الْآخِرَةِ، وَتَحْرِيمَ الرِّيَاءِ وَالتَّسْمِيعِ وَإِحْبَاطِهِمَا لِلْأَعْمَالِ، وَأَنَّ النَّظَرَ فِي الدُّنْيَا يَنْبَغِي أَنْ يَكُونَ إِلَى مَنْ هُوَ أَسْفَلُ لِئَلَّا يَزْدَرِيَ الْعَبْدُ نِعْمَةَ اللَّهِ، وَقِصَّةَ أَصْحَابِ الْأُخْدُودِ وَالثَّلَاثَةِ مِنَ الْأَبْرَصِ وَالْأَقْرَعِ وَالْأَعْمَى.",
+      "translation": "Pensyarah membahas hakikat zuhud terhadap dunia dan merasa cukup dengan rezeki secukupnya, perbandingan singkatnya kesenangan dunia dengan keabadian akhirat, serta bahaya riya dan sum'ah yang menggugurkan amal. Ditekankan pula anjuran melihat orang yang lebih bawah dalam urusan dunia agar tidak meremehkan nikmat Allah, disertai pelajaran dari kisah Ashabul Ukhdud serta kisah si penderita kusta, si botak, dan si buta."
+    },
+    {
+      "title": "Kitab Tafsir dan Khatimah Syarah",
+      "titleArabic": "كِتَابُ التَّفْسِيرِ وَخَاتِمَةُ الشَّرْحِ",
+      "arabic": "يَخْتِمُ الْإِمَامُ النَّوَوِيُّ شَرْحَهُ بِتَفْسِيرِ الْآيَاتِ الْقُرْآنِيَّةِ الْمَرْوِيَّةِ فِي أَخِرِ صَحِيحِ مُسْلِمٍ وَأَسْبَابِ نُزُولِهَا كَأَوَائِلِ سُورَةِ بَرَاءَةَ وَآيَاتِ الْحِجَابِ وَغَيْرِهَا، ثُمَّ يَحْمَدُ اللَّهَ تَعَالَى عَلَى تَمَامِ هَذَا الشَّرْحِ الْمُبَارَكِ وَيُصَلِّي عَلَى النَّبِيِّ الْمُصْطَفَى، سَائِلًا اللَّهَ الْإِخْلَاصَ وَالْقَبُولَ وَالنَّفْعَ بِهِ لِلْمُسْلِمِينَ.",
+      "translation": "Imam an-Nawawi menutup syarahnya dengan menafsirkan ayat-ayat Al-Qur'an dan asbabun nuzul yang termaktub pada bagian akhir Shahih Muslim seperti awal Surah Bara'ah, ayat hijab, dan lainnya. Di penghujung kitab, beliau memanjatkan puji syukur kepada Allah atas rampungnya syarah yang penuh berkah ini, bershalawat kepada Nabi al-Mushthafa, serta memohon keikhlasan, diterimanya amal, dan kebermanfaatan kitab ini bagi seluruh kaum Muslimin."
+    }
+  ]
+}
