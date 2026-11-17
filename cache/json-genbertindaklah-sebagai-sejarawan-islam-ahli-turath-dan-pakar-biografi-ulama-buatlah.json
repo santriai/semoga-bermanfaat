@@ -1,88 +1,74 @@
 {
-  "fullName": "Al-Imām al-Ḥāfiẓ al-Muḥaddith Abū 'Abd al-Raḥmān Muḥammad ibn al-Ḥusayn ibn Muḥammad ibn Mūsā ibn Khālid al-Azdī al-Sulamī al-Naysābūrī (الإِمَامُ الحَافِظُ المُحَدِّثُ أَبُو عَبْدِ الرَّحْمَنِ مُحَمَّدُ بْنُ الْحُسَيْنِ بْنِ مُحَمَّدِ بْنِ مُوسَى الأَزْدِيُّ السُّلَمِيُّ النَّيْسَابُورِيُّ)",
-  "titles": "Syaikh al-Ṣūfiyyah (شيخ الصوفية), Imām Ahl al-Ḥaqā'iq (إمام أهل الحقائق), Al-Imām al-Ḥāfiẓ al-Muḥaddith (الإمام الحافظ المحدث), Mu'arrikh al-Ṣūfiyyah (مؤرخ الصوفية)",
-  "birthYear": "325 H / 937 M (sebagian riwayat menyebut 330 H / 941 M)",
-  "deathYear": "3 Sya'ban 412 H / 11 November 1021 M",
-  "century": "Abad ke-4 hingga awal Abad ke-5 Hijriyah",
-  "birthDeath": "Naisabur (Khurasan), 325 H / 937 M - Naisabur (Khurasan), 412 H / 1021 M",
-  "tombLocation": "Kompleks Duwayrah (Zawiyah/Khanqah) Abū 'Abd al-Raḥmān al-Sulamī di Naisabur (Nishapur), Provinsi Khorasan Razavi, Iran",
-  "googleMapsLink": "https://www.google.com/maps/search/?api=1&query=Nishapur+Iran",
-  "intro": "Abū 'Abd al-Raḥmān al-Sulamī adalah ulama besar ahli hadits, tafsir, sekaligus sejarawan dan teoretikus utama tasawuf Sunni abad ke-4 Hijriyah. Melalui karya monumentalnya seperti Ṭabaqāt al-Ṣūfiyyah dan Ḥaqā'iq al-Tafsīr, beliau membuktikan bahwa tasawuf memiliki sanad keilmuan yang kokoh dan berakar pada Al-Qur'an serta Sunnah. Beliau menjadi jembatan emas yang mentransmisikan ajaran para guru sufi klasik Khurasan dan Baghdad kepada generasi ulama besar berikutnya seperti Imam al-Qushayrī dan Imam al-Bayhaqī.",
+  "fullName": "أَبُو عَبْدِ الرَّحْمَنِ مُحَمَّدُ بْنُ الْحُسَيْنِ بْنِ مُوسَى الْأَزْدِيُّ السُّلَمِيُّ النَّيْسَابُورِيُّ (Abu Abdurrahman Muhammad bin al-Husain al-Sulami al-Naisaburi)",
+  "titles": "Syaikh al-Sufiyyah, Hafiz al-Hadits, Imam al-Muhaqqiqin",
+  "birthYear": "325 H / 937 M",
+  "deathYear": "412 H / 1021 M",
+  "century": "Abad ke-5 Hijriyah",
+  "birthDeath": "Lahir di Naisabur, Wafat di Naisabur",
+  "tombLocation": "Naisabur, Iran (Kawasan pemakaman ulama Naisabur)",
+  "googleMapsLink": "https://www.google.com/maps/place/Nishapur,+Razavi+Khorasan+Province,+Iran/",
+  "intro": "Beliau adalah tokoh sentral dalam literatur tasawuf klasik yang menjembatani ilmu hadits dengan kedalaman spiritualitas Islam. Melalui karya-karyanya, beliau mendokumentasikan biografi para sufi terdahulu dan menyusun kaidah-kaidah tasawuf yang bersumber dari Al-Qur'an dan Sunnah. Beliau dikenal sebagai sosok yang menjaga kemurnian ajaran tasawuf dari penyimpangan melalui ketajaman sanad dan pemahaman syariat yang kokoh.",
   "teachers": [
-    "Abū 'Amr Ismā'īl ibn Nujayd ibn Aḥmad al-Sulamī al-Naysābūrī (kakek dari pihak ibu, murid langsung Abū 'Uthmān al-Ḥīrī dan rekan sezamannya al-Junayd al-Baghdādī)",
-    "Abū Sahl Muḥammad ibn Sulaymān al-Ṣu'lūkī (ulama terkemuka mazhab Syafi'i, ahli tafsir, kalam Asy'ari, dan sufi di Naisabur)",
-    "Abū al-Qāsim Ibrāhīm ibn Muḥammad al-Naṣrābādhī (guru besar tasawuf Khurasan, murid al-Shiblī)",
-    "Abū al-Ḥasan 'Alī ibn 'Umar al-Dāraquṭnī (Imam ahli hadits dan 'ilal hadits terkemuka di Baghdad)",
-    "Abū al-'Abbās Muḥammad ibn Ya'qūb al-Aṣamm (ahli hadits utama di Naisabur yang memiliki sanad tinggi)",
-    "Abū Bakr Muḥammad ibn 'Abd Allāh al-Shāfi'ī al-Bazzāz (ahli hadits di Baghdad)",
-    "Abū 'Abd Allāh Muḥammad ibn Ya'qūb al-Akhram (muhaddits Naisabur)"
+    "Al-Husain bin Muhammad al-Sulami (Ayahnya sendiri)",
+    "Abu Amr bin Nujayd",
+    "Abu Sahl al-Su'luki",
+    "Abu al-Hasan al-Alawi",
+    "Abu Bakar al-Qaffal al-Marwazi"
   ],
   "students": [
-    "Abū al-Qāsim 'Abd al-Karīm ibn Hawāzin al-Qushayrī (pengarang kitab al-Risālah al-Qushayriyyah dan Laṭā'if al-Ishārāt)",
-    "Abū Bakr Aḥmad ibn al-Ḥusayn al-Bayhaqī (Imam al-Bayhaqī, ahli hadits dan faqih mazhab Syafi'i, pengarang al-Sunan al-Kubrā)",
-    "Abū 'Uthmān Ismā'īl ibn 'Abd al-Raḥmān al-Ṣābūnī (Syaikh al-Islām di Naisabur dan ahli hadits)",
-    "Abū Sa'īd Muḥammad ibn 'Alī al-Khashshāb (ulama dan tokoh sufi terkemuka Naisabur)",
-    "Abū Ṣāliḥ Aḥmad ibn 'Abd al-Malik al-Mu'adhdhin (ahli hadits dan pewaris zawiyah di Naisabur)",
-    "Abū al-Qāsim al-Qāsim ibn al-Faḍl al-Thaqafī (perawi hadits terpercaya dari Isfahan)"
+    "Abu al-Qasim al-Qusyairi (Penulis Risalah al-Qusyairiyyah)",
+    "Abu Bakar al-Baihaqi",
+    "Abu Sa'id al-Kharrazi",
+    "Abu Shalih al-Mu'azzin",
+    "Al-Khatib al-Baghdadi"
   ],
   "works": [
-    "Ṭabaqāt al-Ṣūfiyyah (طبقات الصوفية) — Ensiklopedia biografi dan sanad lima generasi (ṭabaqāt) kaum sufi dari abad ke-2 hingga abad ke-4 H",
-    "Ḥaqā'iq al-Tafsīr (حقائق التفسير) — Tafsir isyari Al-Qur'an yang menghimpun mutiara hikmah para ulama sufi secara sistematis",
-    "Ziyādāt Ḥaqā'iq al-Tafsīr (زيادات حقائق التفسير) — Suplemen pelengkap bagi kitab tafsir isyari utamanya",
-    "Ādāb al-Ṣuḥbah wa Ḥusn al-'Ishrah (آداب الصحبة وحسن العشرة) — Kitab etika pergaulan sosial dan adab persahabatan Islami berlandaskan Al-Qur'an dan Hadits",
-    "'Uyūb al-Nafs wa Mudāwātuhā (عيوب النفس ومداواتها) — Risalah psikologi spiritual tentang penyakit-penyakit batin dan metode terapinya",
-    "Jawāmi' Ādāb al-Ṣūfiyyah (جوامع آداب الصوفية) — Kumpulan adab lahir dan batin dalam menempuh jalan tasawuf",
-    "Dhikr al-Niswah al-Muta'abbidāt al-Ṣūfiyyāt (ذكر النسوة المتعبدات الصوفيات) — Kitab biografi khusus para wanita ahli ibadah dan sufi perempuan dari berbagai wilayah Islam",
-    "Kitāb al-Futuwwah (كتاب الفتوة) — Risalah tentang nilai-nilai kesatriaan spiritual, kedermawanan, dan pengorbanan untuk sesama"
+    "Thabaqat al-Sufiyyah",
+    "Al-Arba'in al-Sufiyyah",
+    "Haqaiq al-Tafsir",
+    "Jawami' Adab al-Sufiyyah",
+    "Uyub al-Nafs wa Mudawatuha"
   ],
-  "sanad": "Abū 'Abd al-Raḥmān al-Sulamī memegang posisi sentral dalam mata rantai (sanad) keilmuan hadits dan tasawuf Sunni. Dalam bidang tasawuf, jalur spiritual beliau bersambung langsung melalui kakek dari pihak ibunya, Abū 'Amr Ismā'īl ibn Nujayd (w. 366 H), yang berguru kepada tokoh-tokoh sentral tasawuf generasi awal seperti Abū 'Uthmān al-Ḥīrī di Naisabur dan al-Junayd al-Baghdādī di Irak. Selain itu, al-Sulamī juga menerima talqin dan khirqah keilmuan dari Abū al-Qāsim al-Naṣrābādhī (w. 367 H), murid langsung Abū Bakr al-Shiblī yang bersambung kepada al-Junayd, al-Sarī al-Saqaṭī, Ma'rūf al-Karkhī, Dāwūd al-Ṭā'ī, al-Ḥasan al-Baṣrī, hingga Sayyidunā 'Alī ibn Abī Ṭālib raḍiyallāhu 'anhu.\n\nDalam bidang hadits dan riwayat, beliau melakukan rihlah ke Irak, Hijaz, dan Khurasan sehingga menerima sanad-sanad tinggi ('ālī) dari para imam muhaddits seperti Abū al-'Abbās al-Aṣamm, Abū Bakr al-Shāfi'ī, dan al-Imām al-Dāraquṭnī. Penguasaan sanad hadits dan sanad tasawuf inilah yang menjadikan beliau rujukan utama Imam al-Qushayrī—di mana al-Qushayrī dalam al-Risālah al-Qushayriyyah berulang kali meriwayatkan dengan redaksi: «سَمِعْتُ أَبَا عَبْدِ الرَّحْمَنِ السُّلَمِيَّ يَقُولُ...»—serta Imam al-Bayhaqī dalam kitab-kitab hadits dan zuhudnya seperti Shu'ab al-Īmān dan al-Zuhd al-Kabīr. Imam al-Dhahabī dalam Siyar A'lām al-Nubalā' (juz 17, hlm. 247) menegaskan kedudukan beliau: «السُّلَمِيُّ الإِمَامُ الحَافِظُ المُحَدِّثُ، شَيْخُ الصُّوفِيَّةِ، أَبُو عَبْدِ الرَّحْمَنِ مُحَمَّدُ بْنُ الحُسَيْنِ بْنِ مُحَمَّدِ بْنِ مُوسَى الأَزْدِيُّ السُّلَمِيُّ النَّيْسَابُورِيُّ الصُّوفِيُّ، صَاحِبُ التَّصَانِيفِ».",
-  "manhaj": "Manhaj (metodologi) al-Sulamī memadukan secara harmonis antara syariat dan hakikat (al-jam' bayna al-sharī'ah wa al-ḥaqīqah). Dalam bidang fiqih, beliau mengikuti mazhab al-Imām al-Shāfi'ī sebagaimana dicatat oleh Imam Tāj al-Dīn al-Subkī yang memasukkan biografi beliau ke dalam Ṭabaqāt al-Shāfi'iyyah al-Kubrā (juz 4, hlm. 143): «مُحَمَّدُ بْنُ الْحُسَيْنِ بْنِ مُحَمَّدِ بْنِ مُوسَى أَبُو عَبْدِ الرَّحْمَنِ السُّلَمِيُّ النَّيْسَابُورِيُّ، صَاحِبُ التَّصَانِيفِ الْمَشْهُورَةِ فِي التَّصَوُّفِ وَعُلُومِ الْحَقَائِقِ». Dalam akidah, beliau berada di atas jalur Ahlussunnah wal Jama'ah yang sejalan dengan guru utamanya, Abū Sahl al-Ṣu'lūkī (tokoh utama mazhab Syafi'i-Asy'ari di Khurasan) dan lingkungan ulama hadits Naisabur.\n\nMetodologi tasawuf al-Sulamī bercorak Malāmatiyyah-Junaydiyyah yang moderat: menekankan penyembunyian amal kebaikan, penghindaran dari pamer karamah, pengendalian hawa nafsu ('uyūb al-nafs), serta kepatuhan mutlak pada Al-Qur'an dan Sunnah. Dalam penulisan sejarah (ṭabaqāt) dan tafsir isyari (Ḥaqā'iq al-Tafsīr), beliau menerapkan metode muhadditsīn dengan menyertakan sanad riwayat bagi setiap perkataan guru sufi dan menegaskan bahwa penafsiran isyari bersifat sebagai penggalian hikmah spiritual (istinbāṭ rūḥānī), bukan untuk menggantikan atau membatalkan makna zahir syariat. Sebagaimana beliau tegaskan dalam mukadimah Ṭabaqāt al-Ṣūfiyyah (tahqiq Nūr al-Dīn Shuraybah, hlm. 1): «أَمَّا بَعْدُ: فَإِنَّ مِنْ أَوْلَى مَا ابْتُدِئَ بِهِ، وَشُغِلَتِ الأَوْقَاتُ بِجَمْعِهِ، أَخْبَارُ الأَوْلِيَاءِ وَالأَصْفِيَاءِ، وَأَهْلِ الْوَرَعِ وَالْوَلَاءِ».",
+  "sanad": "Beliau memiliki sanad yang sangat tinggi dalam ilmu hadits, menghubungkan tradisi periwayatan Naisabur dengan ulama-ulama besar di Baghdad dan Hijaz. Beliau meriwayatkan hadits dari ratusan guru, menjadikannya otoritas yang diakui dalam disiplin ilmu rijalul hadits sekaligus tasawuf.",
+  "manhaj": "Dalam akidah, beliau mengikuti manhaj Ahlussunnah wal Jama'ah (Asy'ariyah). Dalam fiqih, beliau bermazhab Syafi'i. Dalam tasawuf, beliau menekankan pentingnya 'Tasawuf yang bersandar pada syariat' (Tasawuf Sunni), di mana setiap pengalaman spiritual harus diuji dengan timbangan Al-Qur'an dan Sunnah.",
   "timeline": [
     {
-      "year": "325 H / 937 M",
-      "event": "Lahir di kota Naisabur, pusat ilmu pengetahuan di Khurasan, dalam keluarga yang memadukan garis keturunan Arab al-Azd dari pihak ayah dan Bani Sulaym dari pihak ibu."
+      "year": "325 H",
+      "event": "Lahir di Naisabur dalam keluarga yang mencintai ilmu."
     },
     {
-      "year": "335-345 H / 946-956 M",
-      "event": "Memulai pendidikan dasar di bawah asuhan kakeknya dari pihak ibu, Abū 'Amr Ismā'īl ibn Nujayd, serta mulai mendengarkan hadits (samā' al-ḥadīth) dari Abū al-'Abbās al-Aṣamm dan ulama Naisabur lainnya."
+      "year": "340-360 H",
+      "event": "Memulai rihlah ilmiah ke berbagai pusat ilmu di Khurasan dan Irak."
     },
     {
-      "year": "350-370 H / 961-980 M",
-      "event": "Melakukan rihlah ilmiah ke berbagai pusat ilmu seperti Marw, Rayy, Hamadhan, Baghdad, dan Hijaz (Makkah dan Madinah); berguru kepada al-Dāraquṭnī di Baghdad dan al-Naṣrābādhī di Khurasan."
+      "year": "380 H",
+      "event": "Mulai menyusun karya-karya besar biografi sufi (Thabaqat)."
     },
     {
-      "year": "366 H / 976 M",
-      "event": "Wafatnya kakek sekaligus mursyid utamanya, Ismā'īl ibn Nujayd; al-Sulamī mewarisi perpustakaan besar dan mendirikan Duwayrah (zawiyah/pusat kajian dan pengabdian sufi) di Naisabur."
-    },
-    {
-      "year": "370-405 H / 980-1014 M",
-      "event": "Masa keemasan mengajar dan menulis karya-karya besar seperti Ṭabaqāt al-Ṣūfiyyah, Tārīkh al-Ṣūfiyyah, dan Ḥaqā'iq al-Tafsīr, sekaligus membina murid-murid besar seperti Imam al-Qushayrī dan Imam al-Bayhaqī."
-    },
-    {
-      "year": "412 H / 1021 M",
-      "event": "Wafat di Naisabur pada bulan Sya'ban tahun 412 H dalam usia sekitar 87 tahun dan dimakamkan di dalam Duwayrah tempat beliau mengajar."
+      "year": "412 H",
+      "event": "Wafat di Naisabur setelah mengabdikan hidup untuk dakwah dan penulisan."
     }
   ],
   "narrativeSections": [
     {
       "title": "Nasab & Kelahiran",
-      "content": "Nama lengkap beliau adalah Muḥammad ibn al-Ḥusayn ibn Muḥammad ibn Mūsā ibn Khālid ibn Sālim ibn Zāwiyah ibn Sa'īd ibn Qabīṣah ibn Sarrāq al-Azdī al-Sulamī al-Naysābūrī. Nisbah 'al-Azdī' berasal dari garis ayah beliau, seorang tokoh zuhud dan bangsawan Arab yang menetap di Khurasan, sedangkan nisbah 'al-Sulamī' berasal dari garis ibu beliau, yakni putri dari ulama besar dan tokoh Malāmatiyyah Naisabur, Abū 'Amr Ismā'īl ibn Nujayd al-Sulamī. Al-Sulamī dilahirkan di kota Naisabur pada tahun 325 H (937 M) menurut pendapat yang masyhur di kalangan ahli tarikh—meskipun sebagian riwayat menyebutkan tahun 330 H. Imam al-Khaṭīb al-Baghdādī dalam Tārīkh Baghdād dan al-Dhahabī dalam Siyar A'lām al-Nubalā' menegaskan keutamaan latar belakang keluarga beliau yang sangat terhormat dan religius. Ketika ayahnya berpindah ke Makkah untuk bermukim di sana hingga wafat, al-Sulamī kecil diserahkan ke dalam asuhan penuh kakeknya, Ismā'īl ibn Nujayd, yang membentuk fondasi spiritual dan kecintaannya kepada ilmu hadits serta tasawuf sejak usia sangat dini."
+      "content": "Beliau lahir di Naisabur, sebuah pusat keilmuan besar di Khurasan. Nasab beliau bersambung kepada kabilah Azd. Ayahnya, al-Husain bin Musa, adalah seorang sufi yang juga ahli hadits, yang memberikan pendidikan dasar agama yang sangat kuat sejak dini."
     },
     {
       "title": "Masa Menuntut Ilmu (Rihlah)",
-      "content": "Sejak belia, al-Sulamī dikenal memiliki ketekunan luar biasa dalam mengumpulkan hadits dan catatan-catatan hikmah para ahli tasawuf. Di Naisabur, beliau belajar hadits kepada muhaddits senior Abū al-'Abbās al-Aṣamm, mempelajari fiqih Syafi'i dan ushuluddin kepada Abū Sahl al-Ṣu'lūkī, serta menimba ilmu tasawuf dari Ismā'īl ibn Nujayd dan Abū al-Qāsim al-Naṣrābādhī. Tidak cukup di Khurasan, beliau melakukan perjalanan ilmiah (rihlah) melintasi berbagai wilayah seperti Marw, Rayy, Hamadhan, Baghdad, dan menunaikan ibadah haji ke Makkah serta Madinah. Di Baghdad, beliau menimba ilmu hadits secara intensif kepada al-Imām 'Alī ibn 'Umar al-Dāraquṭnī dan Abū Bakr al-Shāfi'ī. Imam al-Dhahabī dalam Siyar A'lām al-Nubalā' (juz 17, hlm. 248) merekam keluasan rihlah beliau dengan ungkapan: «سَمِعَ بِخُرَاسَانَ وَالْعِرَاقِ وَالْحِجَازِ، وَصَحِبَ الْمَشَايِخَ، وَجَمَعَ كُتُبًا كَثِيرَةً» (Beliau mendengar hadits di Khurasan, Irak, dan Hijaz, bersahabat dengan para guru besar, dan menghimpun sangat banyak kitab). Keunggulan al-Sulamī dalam dua disiplin ilmu sekaligus—riwayat hadits dan ma'rifat tasawuf—membuat otoritasnya diakui oleh para ahli hadits maupun kaum sufi."
+      "content": "Beliau melakukan perjalanan panjang (rihlah) ke berbagai negeri Islam untuk mengumpulkan hadits dan menimba ilmu dari para masyayikh. Beliau tidak hanya belajar ilmu syariat, tetapi juga mendalami ilmu tazkiyatun nafs dari guru-guru sufi terkemuka di zamannya."
     },
     {
       "title": "Masa Pengabdian & Karya",
-      "content": "Sekembalinya ke Naisabur dan setelah wafatnya sang kakek pada tahun 366 H, al-Sulamī mewarisi koleksi kitab yang sangat kaya dan mendirikan sebuah Duwayrah (zawiyah atau pesantren sufi) di Naisabur. Duwayrah ini tidak hanya menjadi tempat ibadah dan khalwat, melainkan menjadi pusat akademi ilmiah tempat ribuan kitab dikaji, disalin, dan diajarkan kepada para penuntut ilmu dari seluruh penjuru dunia Islam. Di sanalah tokoh-tokoh raksasa seperti Imam al-Qushayrī dan Imam al-Bayhaqī menimba ilmu secara langsung. Dalam masa pengabdiannya, beliau tergolong ulama yang sangat produktif hingga disebut-sebut menulis puluhan hingga seratusan karya. Di antara mahakaryanya yang abadi adalah Ṭabaqāt al-Ṣūfiyyah yang menjadi induk rujukan biografi sufi abad awal; Tārīkh al-Ṣūfiyyah yang sangat luas cakupannya; Ḥaqā'iq al-Tafsīr yang mengkodifikasi tafsir isyari; serta risalah-risalah etika seperti Ādāb al-Ṣuḥbah dan 'Uyūb al-Nafs. Selain itu, beliau juga berjasa besar menulis kitab Dhikr al-Niswah al-Muta'abbidāt al-Ṣūfiyyāt yang mendokumentasikan kontribusi intelektual dan spiritual para ulama perempuan dalam sejarah Islam."
+      "content": "Beliau dikenal sebagai penulis yang sangat produktif. Kitab 'Thabaqat al-Sufiyyah' karyanya menjadi rujukan utama bagi para sejarawan untuk mengetahui biografi para wali Allah. Beliau mengajar di Naisabur dan melahirkan murid-murid yang kemudian menjadi pilar keilmuan Islam, seperti Imam al-Qusyairi."
     },
     {
       "title": "Karakter & Keteladanan",
-      "content": "Al-Sulamī dikenal sebagai pribadi yang sangat tawaduk, dermawan, menjaga kehormatan diri (muru'ah), dan memiliki kedudukan sosial yang sangat tinggi di tengah masyarakat Naisabur. Seluruh harta warisan dan dukungan para dermawan beliau pergunakan untuk membiayai para penuntut ilmu dan musafir yang singgah di Duwayrah-nya, sementara beliau sendiri hidup dalam kesederhanaan dan wara'. Imam al-Khaṭīb al-Baghdādī dalam Tārīkh Baghdād (juz 3, hlm. 251) mencatat kehormatan beliau di mata penduduk kotanya: «كَانَ لَهُ عِنْدَ أَهْلِ نَيْسَابُورَ مَحَلٌّ كَبِيرٌ» (Beliau memiliki kedudukan yang sangat mulia di sisi penduduk Naisabur). Dalam pengajaran spiritualnya, beliau sangat menekankan pembersihan penyakit hati—seperti ujub, riya, dan hasad—sebagaimana beliau tuangkan dalam 'Uyūb al-Nafs wa Mudāwātuhā: «إِنَّ النَّفْسَ أَمَّارَةٌ بِالسُّوءِ، دَاعِيَةٌ إِلَى البَاطِلِ، لَا تَزَالُ تَسْتَجْلِبُ العُيُوبَ، وَتَمِيلُ إِلَى الشَّهَوَاتِ» (Sesungguhnya nafsu itu selalu menyuruh kepada keburukan dan mengajak kepada kebatilan, senantiasa menarik cacat-cela dan condong kepada syahwat). Pada akhir hayatnya, beliau sempat mengalami ujian sakit lumpuh pada kedua kakinya (uq'ida) selama beberapa tahun, namun beliau tetap sabar, istiqamah berdzikir, dan terus mendiktekan ilmu kepada para muridnya tanpa pernah mengeluh."
+      "content": "Beliau dikenal dengan sifat wara' (kehati-hatian) dan zuhud. Meskipun memiliki kedudukan tinggi, beliau tetap rendah hati. Beliau sering menekankan bahwa tasawuf bukanlah sekadar klaim, melainkan akhlak yang nyata dalam keseharian sesuai tuntunan Rasulullah SAW."
     },
     {
       "title": "Wafat & Warisan Keilmuan",
-      "content": "Setelah menjalani pengabdian panjang bagi ilmu pengetahuan dan pembinaan ruhani umat, Abū 'Abd al-Raḥmān al-Sulamī wafat di kota Naisabur pada bulan Sya'ban tahun 412 H (tepatnya 3 Sya'ban 412 H / November 1021 M) dalam usia sekitar 87 tahun. Imam al-Dhahabī dalam Siyar A'lām al-Nubalā' (juz 17, hlm. 254) mencatat: «تُوُفِّيَ فِي شَعْبَانَ سَنَةَ اثْنَتَيْ عَشْرَةَ وَأَرْبَعِمِائَةٍ» (Beliau wafat pada bulan Sya'ban tahun 412 H), dan jenazah beliau dimakamkan di dalam lingkungan Duwayrah yang selama puluhan tahun menjadi saksi majelis ilmunya. Warisan keilmuan al-Sulamī sangat monumental bagi peradaban Islam. Beliaulah perintis utama penulisan sejarah tasawuf yang terstruktur dengan metodologi sanad, sehingga menyelamatkan khazanah perkataan para ulama sufi generasi awal dari kepunahan. Tanpa karya-karya al-Sulamī, kitab-kitab induk tasawuf Sunni setelahnya—seperti Hilyah al-Awliyā' karya Abū Nu'aym al-Iṣfahānī, al-Risālah al-Qushayriyyah karya al-Qushayrī, hingga Iḥyā' 'Ulūm al-Dīn karya Imam al-Ghazālī—tidak akan memiliki sumber rujukan historis yang sekomprehensif sekarang. Pengaruh karya beliau terus hidup di pesantren-pesantren dan lembaga kajian Islam klasik hingga hari ini."
+      "content": "Beliau wafat pada tahun 412 H. Warisan beliau yang paling berharga adalah metodologi dalam mendokumentasikan sejarah sufi secara objektif dan ilmiah. Rujukan kitab: Siyar A'lam al-Nubala karya Imam al-Dzahabi, Juz 17, halaman 248-252."
     }
   ]
 }
