@@ -1,0 +1,32 @@
+{
+  "profile": {
+    "name": "Fathul Qorib Al-Mujib (Bab Al-Mirats)",
+    "originalTitle": "فتح القريب المجيب في شرح ألفاظ التقريب",
+    "author": "Muhammad bin Qasim bin Muhammad Al-Ghazi Al-Syafi'i",
+    "field": "Fiqih Madzhab Syafi'i",
+    "about": "Kitab ini merupakan syarah (penjelasan) ringkas namun padat dari kitab Matan Al-Ghayah wa Al-Taqrib karya Abu Syuja'. Kitab ini menjadi rujukan utama di pesantren-pesantren Indonesia untuk mempelajari hukum Islam secara komprehensif. Pembahasan waris dalam kitab ini mengikuti struktur sistematis Fiqih Syafi'iyah yang menitikberatkan pada keadilan pembagian harta sesuai syariat. Kitab ini mencakup bab-bab krusial mulai dari ibadah, muamalah, munakahat, hingga jinayat dan mawaris. Penulis menggunakan gaya bahasa yang lugas dan sangat mudah dipahami oleh penuntut ilmu pemula maupun menengah.",
+    "authorBorn": "866 H / 1462 M",
+    "authorDied": "918 H / 1512 M",
+    "authorCentury": "Abad ke-9 dan ke-10 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Bab Sebab-Sebab Warisan",
+      "titleArabic": "فَصْلٌ فِي أَسْبَابِ الْإِرْثِ",
+      "arabic": "وَأَسْبَابُ الْإِرْثِ أَرْبَعَةٌ: قَرَابَةٌ، فَيَرِثُ بَعْضُ الْأَقَارِبِ مِنْ بَعْضٍ عَلَى تَفْصِيلٍ يَأْتِي. وَنِكَاحٌ، فَيَرِثُ كُلٌّ مِنَ الزَّوْجَيْنِ الْآخَرَ. وَوَلَاءٌ، فَيَرِثُ الْمُعْتِقُ الْعَتِيقَ وَلَا عَكْسَ، أَيْ لَا يَرِثُ الْعَتِيقُ الْمُعْتِقَ. وَالرَّابِعُ الْإِسْلَامُ، أَيْ جِهَتُهُ، فَتُصْرَفُ التَّرِكَةُ لِبَيْتِ الْمَالِ إِرْثًا إِذَا لَمْ يَكُنْ وَارِثٌ بِالْأَسْبَابِ الثَّلَاثَةِ، أَيْ يَرِثُهُ الْمُسْلِمُونَ بِالْعُصُوبَةِ.",
+      "translation": "Sebab-sebab warisan ada empat: Pertama, nasab (hubungan darah), maka sebagian kerabat saling mewarisi satu sama lain dengan perincian yang akan datang. Kedua, nikah (pernikahan), maka masing-masing dari pasangan suami istri saling mewarisi. Ketiga, wala' (memerdekakan budak), maka yang memerdekakan (mu'tiq) mewarisi budak yang dimerdekakan (atiq), namun tidak sebaliknya (budak tidak mewarisi majikannya). Keempat, Islam, maksudnya adalah dari sisi arah (al-Islam), maka harta peninggalan diserahkan ke Baitul Mal sebagai warisan jika tidak ada ahli waris yang memiliki tiga sebab di atas, yaitu kaum muslimin mewarisinya dengan jalur 'ashabah."
+    },
+    {
+      "title": "Bab Ahli Waris Laki-Laki",
+      "titleArabic": "فَصْلٌ فِي مَنْ يَرِثُ مِنَ الرِّجَالِ",
+      "arabic": "وَالْمُجْمَعُ عَلَى إِرْثِهِمْ مِنَ الرِّجَالِ عَشَرَةٌ، وَبِالْبَسْطِ خَمْسَةَ عَشَرَ: الِابْنُ وَابْنُهُ وَإِنْ سَفَلَ، وَالْأَبُ وَأَبُوهُ وَإِنْ عَلَا، وَالْأَخُ لِأَبَوَيْنِ وَلِأَبٍ وَالْأُمِّ، وَابْنُ الْأَخِ لِأَبَوَيْنِ وَلِأَبٍ، وَالْعَمُّ لِأَبَوَيْنِ وَلِأَبٍ، وَكَذَا ابْنُ الْعَمِّ لِأَبَوَيْنِ وَلِأَبٍ، وَالزَّوْجُ، وَالْمُعْتِقُ.",
+      "translation": "Mereka yang disepakati sebagai ahli waris dari kalangan laki-laki ada sepuluh, dan jika dijabarkan ada lima belas: Anak laki-laki, cucu laki-laki dari anak laki-laki dan seterusnya ke bawah, ayah, kakek dan seterusnya ke atas, saudara laki-laki kandung, saudara seayah, saudara seibu, anak laki-laki dari saudara laki-laki kandung, anak laki-laki dari saudara laki-laki seayah, paman kandung, paman seayah, anak laki-laki dari paman kandung, anak laki-laki dari paman seayah, suami, dan orang yang memerdekakan budak."
+    },
+    {
+      "title": "Bab Ahli Waris Perempuan",
+      "titleArabic": "فَصْلٌ فِي مَنْ يَرِثُ مِنَ النِّسَاءِ",
+      "arabic": "وَمِنَ النِّسَاءِ سَبْعٌ، وَبِالْبَسْطِ عَشْرٌ: الْبِنْتُ، وَبِنْتُ الِابْنِ وَإِنْ سَفَلَ، وَالْأُمُّ، وَالْجَدَّةُ، وَالْأُخْتُ لِأَبَوَيْنِ، وَالْأُخْتُ لِأَبٍ، وَالْأُخْتُ لِأُمٍّ، وَالزَّوْجَةُ، وَالْمُعْتِقَةُ.",
+      "translation": "Dan dari kalangan perempuan ada tujuh, dan jika dijabarkan ada sepuluh: Anak perempuan, cucu perempuan dari anak laki-laki dan seterusnya ke bawah, ibu, nenek, saudara perempuan kandung, saudara perempuan seayah, saudara perempuan seibu, istri, dan wanita yang memerdekakan budak."
+    }
+  ]
+}
