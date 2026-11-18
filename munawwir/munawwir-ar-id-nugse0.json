@@ -1,0 +1,102 @@
+{
+  "arabic": "صَيْرَفِيٌّ",
+  "arabicHarokat": "صَيْرَفِيٌّ (ج) صَيَارِفَةٌ وَصَيَارِفُ",
+  "latin": "Ṣairafiyyun",
+  "wordType": "isim",
+  "wordTypeIndo": "Isim Mansub (Kata benda yang diakhiri Ya Nisbah dari bentuk Isim Jamid/Sifat berwazan فَيْعَلٌ)",
+  "root": "ص - ر - ف",
+  "wazan": "فَيْعَلِيٌّ (berasal dari wazan فَيْعَلٌ + يَاءُ النِّسْبَةِ)",
+  "page": "773",
+  "referenceBook": "Kamus Al-Munawwir Arab-Indonesia Terlengkap (Krapyak)",
+  "referenceUrl": "https://archive.org/details/kamus-al-munawwir-arab-indonesia",
+  "tashrifBrief": {
+    "madhi": "صَرَفَ",
+    "mudhari": "يَصْرِفُ",
+    "mashdar": "صَرْفًا / صِرَافَةً",
+    "fail": "صَارِفٌ",
+    "maful": "مَصْرُوفٌ",
+    "amr": "اِصْرِفْ",
+    "nahyi": "لَا تَصْرِفْ"
+  },
+  "singular": "صَيْرَفِيٌّ / صَيْرَفٌ",
+  "plural": "صَيَارِفَةٌ، صَيَارِفُ",
+  "gender": "mudzakkar",
+  "transitivity": null,
+  "meanings": [
+    "Penukar uang (money changer); ahli tukar-menukar mata uang",
+    "Pegawai bank; bankir; bendaharawan",
+    "Penguji keaslian uang logam (emas dan perak)",
+    "Ahli, pakar, atau kritikus ulung yang mampu membedakan kualitas baik dan buruk dalam suatu bidang keilmuan (kiasan dalam sastra dan ilmu hadis)"
+  ],
+  "contextualMeanings": [
+    {
+      "preposition": "الإضافة (Idhafah ke ilmu)",
+      "arabicPhrase": "صَيْرَفِيُّ الْحَدِيثِ",
+      "meaning": "Pakar/kritikus hadis (ahli jarh wa ta'dil) yang sangat jeli membedakan hadis sahih dan dhaif/palsu"
+    },
+    {
+      "preposition": "الإضافة (Idhafah ke sastra)",
+      "arabicPhrase": "صَيْرَفِيُّ الْكَلَامِ / الشِّعْرِ",
+      "meaning": "Ahli kritik sastra yang mampu menimbang keindahan dan cacat suatu ungkapan atau syair"
+    },
+    {
+      "preposition": "سِيَاقُ الْمُعَامَلَاتِ (Konteks Fikih Muamalah)",
+      "arabicPhrase": "عَمَلُ الصَّيْرَفِيِّ",
+      "meaning": "Aktivitas akad sharf (jual beli atau pertukaran mata uang dengan mata uang lain)"
+    }
+  ],
+  "examples": [
+    {
+      "arabic": "ذَهَبَ الْمُسَافِرُ إِلَى الصَّيْرَفِيِّ لِتَبْدِيلِ الدُّولَارِ بِالرُّوبِيَّةِ.",
+      "latin": "Dzahaba al-musāfiru ilā aṣ-ṣairafiyyi litabdīli ad-dūlāri bi ar-rūbiyyati.",
+      "translation": "Musafir itu pergi ke penukar uang (money changer) untuk menukarkan dolar dengan rupiah.",
+      "context": "Contoh kalimat kontemporer dalam konteks muamalah harian"
+    },
+    {
+      "arabic": "كَانَ الْإِمَامُ الْبُخَارِيُّ صَيْرَفِيًّا فِي نَقْدِ الْأَحَادِيثِ وَعِلَلِهَا.",
+      "latin": "Kāna al-Imāmu al-Bukhāriyyu ṣairafiyyan fī naqdi al-aḥādītsi wa 'ilalihā.",
+      "translation": "Imam Al-Bukhari adalah seorang pakar ulung (laksana penguji emas) dalam mengkritik hadis-hadis beserta cacat tersembunyinya.",
+      "context": "Penggunaan metaforis (majazi) dalam literatur ulumul hadis klasik"
+    },
+    {
+      "arabic": "لَا يَعْرِفُ زَيْفَ الدَّرَاهِمِ إِلَّا الصَّيَارِفَةُ الْمَهَرَةُ.",
+      "latin": "Lā ya'rifu zaifa ad-darāhimi illā aṣ-ṣayārifatu al-maharatu.",
+      "translation": "Tidak ada yang mengetahui kepalsuan dirham-dirham kecuali para penukar uang yang ahli.",
+      "context": "Ungkapan klasik dalam kitab-kitab fikih dan adab"
+    }
+  ],
+  "synonyms": [
+    "صَرَّافٌ",
+    "صَيْرَفٌ",
+    "مَصْرِفِيٌّ"
+  ],
+  "antonyms": [],
+  "derivedWords": [
+    {
+      "arabic": "صَرْفٌ",
+      "meaning": "Penukaran uang; ilmu shorof; pemalingan",
+      "type": "Isim Mashdar"
+    },
+    {
+      "arabic": "صِرَافَةٌ",
+      "meaning": "Profesi atau usaha penukaran uang; perbankan",
+      "type": "Isim Mashdar (Shina'ah)"
+    },
+    {
+      "arabic": "مَصْرِفٌ (ج) مَصَارِفُ",
+      "meaning": "Bank; tempat penukaran atau penyaluran uang",
+      "type": "Isim Makan"
+    },
+    {
+      "arabic": "صَرَّافٌ",
+      "meaning": "Tukang tukar uang; kasir; teller bank",
+      "type": "Shighah Mubalaghah"
+    },
+    {
+      "arabic": "صَيْرَفَةٌ",
+      "meaning": "Kegiatan perbankan / bisnis penukaran valuta asing",
+      "type": "Mashdar"
+    }
+  ],
+  "notes": "1. Catatan Ortografi (Imla'): Input kata 'صيرفی' menggunakan huruf Ya tanpa titik di akhir (ی) yang merupakan gaya penulisan Persia/Urdu atau Alif Maqshurah; dalam kaidah bahasa Arab standar wajib ditulis dengan huruf Ya bertitik dua (ي) menjadi 'صَيْرَفِيٌّ'. 2. Catatan Shorof: Kata dasar pertamanya adalah 'صَيْرَفٌ' berwazan 'فَيْعَلٌ' dengan tambahan Ya mati setelah Fa Fi'il, kemudian diberi Ya Nisbah menjadi 'صَيْرَفِيٌّ' untuk menunjukkan profesi atau keahlian. Bentuk jamak taksirnya adalah 'صَيَارِفُ' atau 'صَيَارِفَةٌ'; huruf Ta Marbuthah pada 'صَيَارِفَةٌ' berfungsi sebagai 'iwadh (pengganti) dari huruf Ya yang dibuang saat proses jamak. 3. Catatan Fikih: Dalam kitab-kitab fikih klasik (seperti Fathul Qarib atau Fathul Mu'in), profesi 'Shairafi' sering dibahas dalam Bab Ar-Riba dan Bab As-Sharf terkait syarat tukar-menukar emas dan perak (taqabudh dan tamatsul)."
+}
