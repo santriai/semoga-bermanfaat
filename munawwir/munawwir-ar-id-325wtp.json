@@ -1,0 +1,128 @@
+{
+  "arabic": "طَالِبٌ",
+  "arabicHarokat": "طَالِبٌ (ج: طُلَّابٌ وَطَلَبَةٌ وَطَالِبُوْنَ)",
+  "latin": "ṭālibun",
+  "wordType": "isim",
+  "wordTypeIndo": "Isim Fa'il (Kata Benda Pelaku) dari Fi'il Tsulatsi Mujarrad Bab I (نَصَرَ - يَنْصُرُ)",
+  "root": "ط - ل - ب",
+  "wazan": "فَاعِلٌ",
+  "page": "857",
+  "referenceBook": "Kamus Al-Munawwir Arab-Indonesia Terlengkap (Krapyak)",
+  "referenceUrl": "https://archive.org/details/kamus-al-munawwir-arab-indonesia",
+  "tashrifBrief": {
+    "madhi": "طَلَبَ",
+    "mudhari": "يَطْلُبُ",
+    "mashdar": "طَلَبًا",
+    "fail": "طَالِبٌ",
+    "maful": "مَطْلُوْبٌ",
+    "amr": "اُطْلُبْ",
+    "nahyi": "لَا تَطْلُبْ"
+  },
+  "singular": "طَالِبٌ",
+  "plural": "طُلَّابٌ، طَلَبَةٌ، طَالِبُوْنَ",
+  "gender": "mudzakkar",
+  "transitivity": "mutaaddi",
+  "meanings": [
+    "Pencari, penuntut, atau orang yang berusaha mendapatkan sesuatu",
+    "Pelajar, siswa, santri, atau mahasiswa (penuntut ilmu)",
+    "Pemohon, peminta, atau pelamar (pekerjaan/pernikahan)",
+    "Penagih (utang atau hak)",
+    "Kandidat atau calon yang mengajukan permohonan"
+  ],
+  "contextualMeanings": [
+    {
+      "preposition": "إِضَافَةٌ (طَالِبُ الْعِلْمِ)",
+      "arabicPhrase": "طَالِبُ الْعِلْمِ",
+      "meaning": "Penuntut ilmu, santri, pelajar, atau mahasiswa"
+    },
+    {
+      "preposition": "إِضَافَةٌ (طَالِبُ الدَّيْنِ)",
+      "arabicPhrase": "طَالِبُ الدَّيْنِ",
+      "meaning": "Penagih utang atau pihak kreditur"
+    },
+    {
+      "preposition": "إِضَافَةٌ (طَالِبُ الزَّوَاجِ / الْقُرْبِ)",
+      "arabicPhrase": "طَالِبُ الزَّوَاجِ",
+      "meaning": "Peminang atau pelamar dalam pernikahan"
+    },
+    {
+      "preposition": "إِضَافَةٌ (طَالِبُ اللُّجُوْءِ)",
+      "arabicPhrase": "طَالِبُ اللُّجُوْءِ",
+      "meaning": "Pencari suaka atau pengungsi yang memohon perlindungan"
+    },
+    {
+      "preposition": "طَلَبَ إِلَى / مِنْ (dalam bentuk fi'il asal)",
+      "arabicPhrase": "طَلَبَ مِنْهُ الْعَوْنَ",
+      "meaning": "Meminta atau memohon pertolongan darinya"
+    }
+  ],
+  "examples": [
+    {
+      "arabic": "إِنَّ الْمَلَائِكَةَ لَتَضَعُ أَجْنِحَتَهَا لِطَالِبِ الْعِلْمِ رِضًا بِمَا يَصْنَعُ",
+      "latin": "Innal-malā'ikata lataḍa'u ajniḥatahā liṭālibil-'ilmi riḍan bimā yaṣna'u",
+      "translation": "Sesungguhnya para malaikat membentangkan sayap-sayapnya kepada penuntut ilmu karena rida terhadap apa yang ia kerjakan.",
+      "context": "Hadis Riwayat Abu Dawud, Tirmidzi, Ibnu Majah, dan Ahmad"
+    },
+    {
+      "arabic": "يَجْتَهِدُ الطَّالِبُ فِي مُذَاكَرَةِ دُرُوْسِهِ قَبْلَ الِامْتِحَانِ",
+      "latin": "Yajtahiduṭ-ṭālibu fī mużākarati durūsihi qablal-imtiḥān",
+      "translation": "Pelajar itu bersungguh-sungguh dalam mengulang pelajaran-pelajarannya sebelum ujian.",
+      "context": "Kalimat populer dalam konteks pendidikan dan pesantren"
+    },
+    {
+      "arabic": "حَضَرَ طُلَّابُ الْمَعْهَدِ مَجْلِسَ الذِّكْرِ وَالتَّعْلِيْمِ",
+      "latin": "Ḥaḍara ṭullābul-ma'hadi majlisaż-żikri wat-ta'līm",
+      "translation": "Para santri pondok pesantren menghadiri majelis zikir dan pengajian.",
+      "context": "Penggunaan bentuk jamak taksir (طُلَّابٌ)"
+    }
+  ],
+  "synonyms": [
+    "تِلْمِيْذٌ",
+    "مُتَعَلِّمٌ",
+    "دَارِسٌ",
+    "سَائِلٌ",
+    "بَاحِثٌ",
+    "مُبْتَغٍ"
+  ],
+  "antonyms": [
+    "مَطْلُوْبٌ",
+    "مُعَلِّمٌ",
+    "أُسْتَاذٌ",
+    "مُدَرِّسٌ",
+    "مَانِحٌ",
+    "زَاهِدٌ"
+  ],
+  "derivedWords": [
+    {
+      "arabic": "طَالِبَةٌ",
+      "meaning": "Pelajar perempuan, santriwati, mahasiswi, atau pemohon perempuan",
+      "type": "Isim Fa'il Muannats"
+    },
+    {
+      "arabic": "طَلَبٌ",
+      "meaning": "Permintaan, permohonan, tuntutan, atau pencarian",
+      "type": "Mashdar"
+    },
+    {
+      "arabic": "مَطْلَبٌ",
+      "meaning": "Tuntutan, tujuan, persoalan yang dicari, atau tempat pencarian",
+      "type": "Mashdar Mimi / Isim Makan"
+    },
+    {
+      "arabic": "مَطْلُوْبٌ",
+      "meaning": "Yang dicari, yang diminta, yang dituntut, atau yang dibutuhkan",
+      "type": "Isim Maf'ul"
+    },
+    {
+      "arabic": "طِلَابٌ",
+      "meaning": "Usaha mencari atau menuntut sesuatu dengan sungguh-sungguh",
+      "type": "Mashdar (wazan فِعَالٌ)"
+    },
+    {
+      "arabic": "تَطَلَّبَ",
+      "meaning": "Memerlukan, menuntut, atau berusaha keras mencari",
+      "type": "Fi'il Tsulatsi Mazid (Bab Tafa''ul)"
+    }
+  ],
+  "notes": "Secara shorof, طَالِبٌ adalah Isim Fa'il berwazan فَاعِلٌ dari akar kata ط-ل-ب (Bab I: طَلَبَ - يَطْلُبُ). Bentuk jamaknya meliputi jamak taksir طُلَّابٌ (wazan فُعَّالٌ, sering digunakan untuk jamak isim fa'il yang mudzakkar 'aqil) dan طَلَبَةٌ (wazan فَعَلَةٌ), serta jamak mudzakkar salim طَالِبُوْنَ. Dalam kaidah Nahwu, karena berasal dari fi'il muta'addi (طَلَبَ), kata طَالِبٌ dapat beramal layaknya fi'il-nya dengan menashabkan maf'ul bih apabila memenuhi syarat amal isim fa'il (misalnya: هَذَا طَالِبٌ عِلْمًا), atau lebih umum di-idhafah-kan kepada objek yang dicari seperti طَالِبُ الْعِلْمِ. Dalam Kamus Al-Munawwir maupun tradisi keilmuan Islam, طَالِبٌ tidak hanya bermakna murid/siswa (تِلْمِيْذٌ) di tingkat dasar, tetapi mencakup mahasiswa, peneliti, serta siapa pun yang memiliki hasrat dan ikhtiar aktif dalam mencari sesuatu."
+}
