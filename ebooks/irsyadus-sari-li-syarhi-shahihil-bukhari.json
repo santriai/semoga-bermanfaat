@@ -1,0 +1,620 @@
+{
+  "profile": {
+    "name": "Irsyadus Sari li Syarhi Shahihil Bukhari",
+    "originalTitle": "إِرْشَادُ السَّارِي لِشَرْحِ صَحِيْحِ الْبُخَارِيِّ",
+    "author": "Al-Imam Al-Allamah Syihabuddin Abul 'Abbas Ahmad bin Muhammad bin Abi Bakr Al-Qasthalani Al-Mishri Asy-Syafi'i",
+    "field": "Hadits dan Syarah Hadits (Ilmu Hadits & Fiqih Syafi'iyyah)",
+    "about": "Irsyadus Sari li Syarhi Shahihil Bukhari adalah kitab syarah hadits monumental setebal sepuluh jilid besar yang mengulas kitab Shahih al-Bukhari secara komprehensif. Kitab ini disusun oleh Imam Syihabuddin al-Qasthalani dengan menggabungkan intisari dari berbagai syarah sebelumnya, terutama Fathul Bari karya Ibnu Hajar al-'Asqalani dan 'Umdatul Qari karya Badruddin al-'Aini, namun disajikan dengan bahasa yang lebih ringkas, sistematis, dan mudah dicerna oleh penuntut ilmu. Keistimewaan utama kitab ini terletak pada ketelitian al-Qasthalani dalam melacak perbedaan naskah dan riwayat matan Shahih al-Bukhari—terutama merujuk pada naskah otentik al-Yunini—serta penjelasannya terhadap aspek bahasa, i'rab, balaghah, sanad, dan istinbath hukum fiqih mazhab Syafi'i. Mengingat ukuran aslinya yang mencakup ribuan halaman dalam sepuluh jilid, penyajian digital berikut memetakan struktur lengkap dan sistematis karya ini mulai dari Muqaddimah, seluruh 97 Kitab standar Shahih al-Bukhari yang disyarah, hingga Khatimah.",
+    "authorBorn": "12 Dzulqa'dah 851 H / 20 Januari 1448 M di Kairo, Mesir",
+    "authorDied": "7 Muharram 923 H / 30 Januari 1517 M di Kairo, Mesir",
+    "authorCentury": "Abad ke-9 hingga awal abad ke-10 Hijriah (Abad ke-15–16 Masehi)"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah I: Khutbah Kitab dan Pujian kepada Allah serta Shalawat",
+      "titleArabic": "الْمُقَدِّمَةُ الْأُوْلَى: خُطْبَةُ الْكِتَابِ",
+      "arabic": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ. الْحَمْدُ لِلّٰهِ الَّذِيْ شَرَحَ صُدُوْرَ الْعَارِفِيْنَ بِأَنْوَارِ السُّنَّةِ النَّبَوِيَّةِ، وَأَفَاضَ عَلَى قُلُوْبِ السَّالِكِيْنَ مَعَارِفَ الْآثَارِ الْمُصْطَفَوِيَّةِ، أَمَّا بَعْدُ، فَهٰذَا شَرْحٌ لِصَحِيْحِ الْإِمَامِ الْبُخَارِيِّ مُسَمًّى بِـ(إِرْشَادِ السَّارِي).",
+      "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah yang melapangkan dada orang-orang arif dengan cahaya sunnah kenabian. Pembukaan kitab oleh Imam al-Qasthalani yang menjelaskan niat penyusunan syarah ringkas namun padat bagi Shahih al-Bukhari serta penamaannya dengan Irsyadus Sari."
+    },
+    {
+      "title": "Muqaddimah II: Biografi Imam al-Bukhari dan Kedudukan Kitab Shahih-nya",
+      "titleArabic": "الْمُقَدِّمَةُ الثَّانِيَةُ: تَرْجَمَةُ الْإِمَامِ الْبُخَارِيِّ وَفَضْلُ كِتَابِهِ",
+      "arabic": "فَصْلٌ فِيْ ذِكْرِ نَسَبِ الْإِمَامِ أَبِيْ عَبْدِ اللهِ مُحَمَّدِ بْنِ إِسْمَاعِيْلَ الْبُخَارِيِّ، وَمَوْلِدِهِ، وَرَحَلَاتِهِ فِيْ طَلَبِ الْعِلْمِ، وَثَنَاءِ الْأَئِمَّةِ عَلَيْهِ وَعَلَى جَامِعِهِ الصَّحِيْحِ.",
+      "translation": "Pasal tentang nasab, kelahiran, pengembaraan ilmiah, kekuatan hafalan, serta pujian para ulama terhadap Imam Abu Abdillah Muhammad bin Ismail al-Bukhari dan kitab al-Jami' ash-Shahih sebagai kitab paling sahih setelah Al-Qur'an."
+    },
+    {
+      "title": "Muqaddimah III: Metodologi, Syarat Shahih, Rumuz Naskah, dan Ilmu Musthalah",
+      "titleArabic": "الْمُقَدِّمَةُ الثَّالِثَةُ: شُرُوْطُ الْبُخَارِيِّ وَرُمُوْزُ النُّسَخِ وَالْإِسْنَادُ",
+      "arabic": "فَصْلٌ فِيْ بَيَانِ شُرُوْطِ الْبُخَارِيِّ، وَتَرَاجِمِ أَبْوَابِهِ، وَالْمُعَلَّقَاتِ وَالْمُتَابَعَاتِ، وَبَيَانِ رُمُوْزِ الرُّوَاةِ عَنْهُ كَالْفَرَبْرِيِّ وَغَيْرِهِ، وَاعْتِمَادِ رِوَايَةِ الْيُوْنِيْنِيِّ.",
+      "translation": "Pasal penjelasan metodologi Imam al-Bukhari dalam menetapkan syarat kesahihan hadits (pertemuan guru dan murid), rahasia penyusunan tarjamah bab, hukum hadits mu'allaq, serta penjelasan singkatan/rumuz para perawi naskah Shahih al-Bukhari seperti riwayat al-Firabri dan pentahqiqan al-Yunini."
+    },
+    {
+      "title": "Bab 1: Kitab Permulaan Wahyu",
+      "titleArabic": "كِتَابُ بَدْءِ الْوَحْيِ",
+      "arabic": "كِتَابُ بَدْءِ الْوَحْيِ: كَيْفَ كَانَ بَدْءُ الْوَحْيِ إِلَى رَسُوْلِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَقَوْلُ اللهِ تَعَالَى: ﴿إِنَّا أَوْحَيْنَا إِلَيْكَ كَمَا أَوْحَيْنَا إِلَى نُوْحٍ وَالنَّبِيِّيْنَ مِنْ بَعْدِهِ﴾.",
+      "translation": "Kitab Permulaan Wahyu. Membahas hadits niat ('Innamal a'malu binniyat'), hakikat dan bentuk turunnya wahyu kepada Rasulullah SAW di Gua Hira, peran Jibril AS, serta kesaksian Waraqah bin Naufal dan Heraklius."
+    },
+    {
+      "title": "Bab 2: Kitab Iman",
+      "titleArabic": "كِتَابُ الْإِيْمَانِ",
+      "arabic": "كِتَابُ الْإِيْمَانِ: وَقَوْلُ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: بُنِيَ الْإِسْلَامُ عَلَى خَمْسٍ، وَهُوَ قَوْلٌ وَفِعْلٌ، وَيَزِيْدُ وَيَنْقُصُ.",
+      "translation": "Kitab Iman. Menguraikan definisi iman menurut Ahlussunnah wal Jamaah (keyakinan hati, ucapan lisan, dan amal perbuatan yang dapat bertambah dan berkurang), cabang-cabang iman, manisnya iman, serta tanda-tanda kemunafikan."
+    },
+    {
+      "title": "Bab 3: Kitab Ilmu",
+      "titleArabic": "كِتَابُ الْعِلْمِ",
+      "arabic": "كِتَابُ الْعِلْمِ: بَابُ فَضْلِ الْعِلْمِ، وَقَوْلِ اللهِ تَعَالَى: ﴿يَرْفَعِ اللهُ الَّذِيْنَ آمَنُوْا مِنْكُمْ وَالَّذِيْنَ أُوْتُوا الْعِلْمَ دَرَجَاتٍ﴾.",
+      "translation": "Kitab Ilmu. Membahas keutamaan menuntut dan mengajarkan ilmu syar'i, adab guru dan murid, metode penyampaian hadits (sama', qira'ah, munawalah), larangan berdusta atas nama Nabi SAW, serta pencabutan ilmu dengan wafatnya ulama."
+    },
+    {
+      "title": "Bab 4: Kitab Wudhu",
+      "titleArabic": "كِتَابُ الْوُضُوْءِ",
+      "arabic": "كِتَابُ الْوُضُوْءِ: وَقَوْلُ اللهِ تَعَالَى: ﴿إِذَا قُمْتُمْ إِلَى الصَّلَاةِ فَاغْسِلُوْا وُجُوْهَكُمْ وَأَيْدِيَكُمْ إِلَى الْمَرَافِقِ﴾.",
+      "translation": "Kitab Wudhu. Mengulas hukum bersuci, fardhu dan sunnah wudhu, sifat wudhu Nabi SAW, hukum air dan najis, mengusap khuf (sepatu kulit), serta hal-hal yang membatalkan wudhu disertai tinjauan fiqih komparatif."
+    },
+    {
+      "title": "Bab 5: Kitab Mandi Wajib (Ghusl)",
+      "titleArabic": "كِتَابُ الْغُسْلِ",
+      "arabic": "كِتَابُ الْغُسْلِ: وَقَوْلُ اللهِ تَعَالَى: ﴿وَإِنْ كُنْتُمْ جُنُبًا فَاطَّهَّرُوْا﴾، وَبَابُ الْوُضُوْءِ قَبْلَ الْغُسْلِ.",
+      "translation": "Kitab Mandi. Menjelaskan sebab-sebab wajib mandi (janabah), tata cara mandi wajib Rasulullah SAW, takaran air yang digunakan, serta hukum interaksi orang junub sebelum mandi."
+    },
+    {
+      "title": "Bab 6: Kitab Haid",
+      "titleArabic": "كِتَابُ الْحَيْضِ",
+      "arabic": "كِتَابُ الْحَيْضِ: وَقَوْلُ اللهِ تَعَالَى: ﴿وَيَسْأَلُوْنَكَ عَنِ الْمَحِيْضِ قُلْ هُوَ أَذًى﴾، وَبَابُ كَيْفَ كَانَ بَدْءُ الْحَيْضِ.",
+      "translation": "Kitab Haid. Membahas hukum-hukum darah haid dan istihadhah, ibadah yang terlarang dan yang boleh dilakukan wanita haid (termasuk manasik haji selain thawaf), serta tata cara bersuci pasca-haid."
+    },
+    {
+      "title": "Bab 7: Kitab Tayammum",
+      "titleArabic": "كِتَابُ التَّيَمُّمِ",
+      "arabic": "كِتَابُ التَّيَمُّمِ: وَقَوْلُ اللهِ تَعَالَى: ﴿فَلَمْ تَجِدُوْا مَاءً فَتَيَمَّمُوْا صَعِيْدًا طَيِّبًا﴾.",
+      "translation": "Kitab Tayammum. Menguraikan sebab disyariatkannya tayammum sebagai kekhususan umat Nabi Muhammad SAW, syarat tidak adanya air atau uzur memakainya, serta tata cara tayammum untuk wajah dan dua tangan."
+    },
+    {
+      "title": "Bab 8: Kitab Shalat",
+      "titleArabic": "كِتَابُ الصَّلَاةِ",
+      "arabic": "كِتَابُ الصَّلَاةِ: بَابُ كَيْفَ فُرِضَتِ الصَّلَاةُ فِي الْإِسْرَاءِ، وَبَابُ وُجُوْبِ الصَّلَاةِ فِي الثِّيَابِ.",
+      "translation": "Kitab Shalat. Menjelaskan sejarah kewajiban shalat lima waktu pada malam Isra' Mi'raj, syarat sah menutup aurat, kesucian tempat shalat, hukum sutrah (pembatas shalat), menghadap kiblat, serta adab di dalam masjid."
+    },
+    {
+      "title": "Bab 9: Kitab Waktu-waktu Shalat",
+      "titleArabic": "كِتَابُ مَوَاقِيْتِ الصَّلَاةِ",
+      "arabic": "كِتَابُ مَوَاقِيْتِ الصَّلَاةِ: وَفَضْلِهَا، وَقَوْلِ اللهِ تَعَالَى: ﴿إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِيْنَ كِتَابًا مَوْقُوْتًا﴾.",
+      "translation": "Kitab Waktu-waktu Shalat. Membahas batasan awal dan akhir waktu shalat fardhu lima waktu, keutamaan shalat tepat waktu, waktu-waktu terlarang untuk shalat sunnah, serta hukum mengqadha shalat yang tertinggal."
+    },
+    {
+      "title": "Bab 10: Kitab Adzan",
+      "titleArabic": "كِتَابُ الْأَذَانِ",
+      "arabic": "كِتَابُ الْأَذَانِ: بَابُ بَدْءِ الْأَذَانِ، وَقَوْلِ اللهِ تَعَالَى: ﴿وَإِذَا نَادَيْتُمْ إِلَى الصَّلَاةِ اتَّخَذُوْهَا هُزُوًا وَلَعِبًا﴾.",
+      "translation": "Kitab Adzan. Mengulas awal mula pensyariatan adzan dan iqamah, keutamaan muadzin, kewajiban shalat berjamaah, syarat dan adab menjadi imam, meluruskan shaf, serta tata cara gerakan shalat dari takbiratul ihram hingga salam."
+    },
+    {
+      "title": "Bab 11: Kitab Shalat Jumat",
+      "titleArabic": "كِتَابُ الْجُمُعَةِ",
+      "arabic": "كِتَابُ الْجُمُعَةِ: بَابُ فَرْضِ الْجُمُعَةِ لِقَوْلِ اللهِ تَعَالَى: ﴿إِذَا نُوْدِيَ لِلصَّلَاةِ مِنْ يَوْمِ الْجُمُعَةِ فَاسْعَوْا إِلَى ذِكْرِ اللهِ﴾.",
+      "translation": "Kitab Jumat. Menjelaskan kewajiban dan keutamaan hari Jumat, mandi Jumat, memakai wewangian, adab mendengarkan khutbah, waktu mustajab untuk berdoa di hari Jumat, serta rukun khutbah."
+    },
+    {
+      "title": "Bab 12: Kitab Shalat Khauf",
+      "titleArabic": "كِتَابُ الْخَوْفِ",
+      "arabic": "كِتَابُ الْخَوْفِ: بَابُ صَلَاةِ الْخَوْفِ، وَقَوْلِ اللهِ تَعَالَى: ﴿وَإِذَا ضَرَبْتُمْ فِي الْأَرْضِ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَنْ تَقْصُرُوْا مِنَ الصَّلَاةِ﴾.",
+      "translation": "Kitab Shalat Khauf. Menguraikan tata cara pelaksanaan shalat dalam kondisi genting atau peperangan sesuai berbagai riwayat Nabi SAW, baik berjamaah secara bergantian maupun sambil berjalan atau berkendara."
+    },
+    {
+      "title": "Bab 13: Kitab Dua Hari Raya (Idul Fitri dan Idul Adha)",
+      "titleArabic": "كِتَابُ الْعِيْدَيْنِ",
+      "arabic": "كِتَابُ الْعِيْدَيْنِ: بَابُ فِي الْعِيْدَيْنِ وَالتَّجَمُّلِ فِيْهِ، وَبَابُ السُّنَّةِ فِي الْعِيْدَيْنِ.",
+      "translation": "Kitab Dua Hari Raya. Membahas sunnah-sunnah hari raya Id, berhias dan makan sebelum berangkat shalat Idul Fitri, pelaksanaan shalat Id di mushalla/lapangan tanpa adzan dan iqamah, khutbah Id, serta takbir pada hari-hari tasyrik."
+    },
+    {
+      "title": "Bab 14: Kitab Shalat Witir",
+      "titleArabic": "كِتَابُ الْوِتْرِ",
+      "arabic": "كِتَابُ الْوِتْرِ: بَابُ مَا جَاءَ فِي الْوِتْرِ، وَبَابُ سَاعَاتِ الْوِتْرِ.",
+      "translation": "Kitab Witir. Menjelaskan hukum shalat witir (sunnah muakkadah menurut mayoritas ulama termasuk Syafi'iyyah), jumlah rakaat, waktu pelaksanaannya di malam hari, serta bacaan qunut."
+    },
+    {
+      "title": "Bab 15: Kitab Shalat Istisqa' (Meminta Hujan)",
+      "titleArabic": "كِتَابُ الِاسْتِسْقَاءِ",
+      "arabic": "كِتَابُ الِاسْتِسْقَاءِ: بَابُ الِاسْتِسْقَاءِ وَخُرُوْجِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِي الِاسْتِسْقَاءِ.",
+      "translation": "Kitab Istisqa'. Menguraikan tata cara memohon hujan kepada Allah baik melalui doa di atas mimbar Jumat maupun keluar ke lapangan dengan shalat dua rakaat, membalik selendang (rida'), dan memperbanyak istighfar."
+    },
+    {
+      "title": "Bab 16: Kitab Shalat Gerhana (Kusuf)",
+      "titleArabic": "كِتَابُ الْكُسُوْفِ",
+      "arabic": "كِتَابُ الْكُسُوْفِ: بَابُ الصَّلَاةِ فِيْ كُسُوْفِ الشَّمْسِ، وَبَابُ الصَّدَقَةِ فِي الْكُسُوْفِ.",
+      "translation": "Kitab Gerhana. Menjelaskan bahwa gerhana matahari dan bulan adalah tanda kekuasaan Allah bukan karena kematian atau kelahiran seseorang, beserta tata cara shalat kusuf dua rakaat dengan dua kali ruku' di setiap rakaat."
+    },
+    {
+      "title": "Bab 17: Kitab Sujud Tilawah",
+      "titleArabic": "كِتَابُ سُجُوْدِ الْقُرْآنِ",
+      "arabic": "كِتَابُ سُجُوْدِ الْقُرْآنِ: بَابُ مَا جَاءَ فِيْ سُجُوْدِ الْقُرْآنِ وَسُنَّتِهَا.",
+      "translation": "Kitab Sujud Al-Qur'an. Membahas hukum sunnahnya sujud tilawah ketika membaca atau mendengar ayat-ayat sajdah, rincian ayat sajdah dalam Al-Qur'an, dan bacaan saat bersujud."
+    },
+    {
+      "title": "Bab 18: Kitab Mengqashar Shalat",
+      "titleArabic": "كِتَابُ التَّقْصِيْرِ",
+      "arabic": "كِتَابُ التَّقْصِيْرِ: بَابُ مَا جَاءَ فِي التَّقْصِيْرِ، وَكَمْ يُقِيْمُ حَتَّى يَقْصُرَ.",
+      "translation": "Kitab Taqshir (Qashar). Mengulas ketentuan jarak safar yang membolehkan qashar shalat, batas waktu mukim bagi musafir, hukum menjamak shalat, serta kebolehan shalat sunnah di atas kendaraan saat safar."
+    },
+    {
+      "title": "Bab 19: Kitab Shalat Tahajjud",
+      "titleArabic": "كِتَابُ التَّهَجُّدِ",
+      "arabic": "كِتَابُ التَّهَجُّدِ: بَابُ التَّهَجُّدِ بِاللَّيْلِ، وَقَوْلِ اللهِ تَعَالَى: ﴿وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَكَ﴾.",
+      "translation": "Kitab Tahajjud. Membahas keutamaan shalat malam, cara tidur dan bangun Nabi SAW, jumlah rakaat shalat malam beliau, anjuran shalat sunnah rawatib, shalat dhuha, dan keseimbangan dalam beribadah."
+    },
+    {
+      "title": "Bab 20: Kitab Keutamaan Shalat di Masjid Makkah dan Madinah",
+      "titleArabic": "كِتَابُ فَضْلِ الصَّلَاةِ فِيْ مَسْجِدِ مَكَّةَ وَالْمَدِيْنَةِ",
+      "arabic": "كِتَابُ فَضْلِ الصَّلَاةِ فِيْ مَسْجِدِ مَكَّةَ وَالْمَدِيْنَةِ: بَابُ فَضْلِ الصَّلَاةِ فِيْ مَسْجِدِ مَكَّةَ وَالْمَدِيْنَةِ وَبَيْتِ الْمَقْدِسِ.",
+      "translation": "Kitab Keutamaan Shalat di Masjid Makkah dan Madinah. Menjelaskan pelipatgandaan pahala shalat di Masjidil Haram, Masjid Nabawi, dan Masjidil Aqsha, serta keutamaan Masjid Quba dan Raudhah."
+    },
+    {
+      "title": "Bab 21: Kitab Perbuatan dalam Shalat",
+      "titleArabic": "كِتَابُ الْعَمَلِ فِي الصَّلَاةِ",
+      "arabic": "كِتَابُ الْعَمَلِ فِي الصَّلَاةِ: بَابُ الِاسْتِعَانَةِ بِالْيَدِ فِي الصَّلَاةِ إِذَا كَانَ مِنْ أَمْرِ الصَّلَاةِ.",
+      "translation": "Kitab Perbuatan dalam Shalat. Menguraikan batasan gerakan yang diperbolehkan dan yang membatalkan shalat, larangan berbicara dalam shalat, isyarat menjawab salam, serta hukum bertolak pinggang (ikhtishar) dalam shalat."
+    },
+    {
+      "title": "Bab 22: Kitab Sujud Sahwi (Lupa dalam Shalat)",
+      "titleArabic": "كِتَابُ السَّهْوِ",
+      "arabic": "كِتَابُ السَّهْوِ: بَابُ مَا جَاءَ فِي السَّهْوِ إِذَا قَامَ مِنْ رَكْعَتَيِ الْفَرِيْضَةِ.",
+      "translation": "Kitab Sahwi. Menjelaskan tata cara sujud sahwi akibat kelebihan, kekurangan rakaat, atau keraguan dalam shalat, baik dilakukan sebelum maupun sesudah salam berdasarkan hadits Dzul Yadain dan Ibnu Buhainah."
+    },
+    {
+      "title": "Bab 23: Kitab Jenazah",
+      "titleArabic": "كِتَابُ الْجَنَائِزِ",
+      "arabic": "كِتَابُ الْجَنَائِزِ: بَابٌ فِي الْجَنَائِزِ وَمَنْ كَانَ آخِرُ كَلَامِهِ لَا إِلٰهَ إِلَّا اللهُ.",
+      "translation": "Kitab Jenazah. Mengulas tuntunan menghadapi orang sakaratul maut (talqin), memandikan, mengkafani, menshalatkan (termasuk shalat ghaib), mengiringi jenazah, pemakaman, larangan meratap (niyahah), takziah, dan ziarah kubur."
+    },
+    {
+      "title": "Bab 24: Kitab Zakat",
+      "titleArabic": "كِتَابُ الزَّكَاةِ",
+      "arabic": "كِتَابُ الزَّكَاةِ: بَابُ وُجُوْبِ الزَّكَاةِ، وَقَوْلِ اللهِ تَعَالَى: ﴿وَأَقِيْمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ﴾.",
+      "translation": "Kitab Zakat. Membahas kewajiban zakat maal (emas, perak, hasil pertanian, ternak, dan rikaz), nishab dan kadarnya, delapan golongan penerima zakat (ashnaf), keutamaan sedekah sunnah, serta zakat fitrah."
+    },
+    {
+      "title": "Bab 25: Kitab Haji",
+      "titleArabic": "كِتَابُ الْحَجِّ",
+      "arabic": "كِتَابُ الْحَجِّ: بَابُ وُجُوْبِ الْحَجِّ وَفَضْلِهِ، وَقَوْلِ اللهِ تَعَالَى: ﴿وَلِلّٰهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ سَبِيْلًا﴾.",
+      "translation": "Kitab Haji. Menguraikan kewajiban haji bagi yang mampu (istitha'ah), miqat makani dan zamani, tata cara ihram, talbiyah, thawaf, sa'i, wukuf di Arafah, mabit di Muzdalifah dan Mina, melontar jamrah, serta hadyu (denda/dam)."
+    },
+    {
+      "title": "Bab 26: Kitab Umrah",
+      "titleArabic": "كِتَابُ الْعُمْرَةِ",
+      "arabic": "كِتَابُ الْعُمْرَةِ: بَابُ وُجُوْبِ الْعُمْرَةِ وَفَضْلِهَا، وَقَوْلِ ابْنِ عُمَرَ: لَيْسَ أَحَدٌ إِلَّا وَعَلَيْهِ حَجَّةٌ وَعُمْرَةٌ.",
+      "translation": "Kitab Umrah. Menjelaskan hukum dan keutamaan umrah sebagai penghapus dosa, keutamaan umrah di bulan Ramadhan yang pahalanya setara haji bersama Nabi SAW, dan jumlah umrah yang dilakukan Rasulullah SAW."
+    },
+    {
+      "title": "Bab 27: Kitab Orang yang Terhalang dalam Haji (Muhshar)",
+      "titleArabic": "كِتَابُ الْمُحْصَرِ",
+      "arabic": "كِتَابُ الْمُحْصَرِ: بَابُ الْإِحْصَارِ، وَإِذَا أُحْصِرَ الْمُعْتَمِرُ.",
+      "translation": "Kitab Muhshar. Membahas hukum fiqih bagi orang yang berihram haji atau umrah namun terhalang oleh musuh atau sakit (seperti peristiwa Perjanjian Hudaibiyah), serta kewajiban menyembelih hadyu dan bertahallul."
+    },
+    {
+      "title": "Bab 28: Kitab Denda Berburu saat Ihram",
+      "titleArabic": "كِتَابُ جَزَاءِ الصَّيْدِ",
+      "arabic": "كِتَابُ جَزَاءِ الصَّيْدِ: وَنَحْوِهِ، وَقَوْلِ اللهِ تَعَالَى: ﴿لَا تَقْتُلُوا الصَّيْدَ وَأَنْتُمْ حُرُمٌ﴾.",
+      "translation": "Kitab Jaza' ash-Shaid. Menguraikan larangan berburu hewan darat bagi muhrim dan di tanah haram, jenis hewan yang boleh dibunuh saat ihram (lima hewan fasik), serta ketentuan kafarat atau dendanya."
+    },
+    {
+      "title": "Bab 29: Kitab Keutamaan Kota Madinah",
+      "titleArabic": "كِتَابُ فَضَائِلِ الْمَدِيْنَةِ",
+      "arabic": "كِتَابُ فَضَائِلِ الْمَدِيْنَةِ: بَابُ حَرَمِ الْمَدِيْنَةِ، وَبَابُ فَضْلِ الْمَدِيْنَةِ وَأَنَّهَا تَنْفِي النَّاسَ.",
+      "translation": "Kitab Keutamaan Madinah. Menjelaskan batas tanah haram Madinah, keberkahan kota Madinah dan doa Nabi SAW baginya, larangan berbuat bid'ah atau kezaliman di dalamnya, serta penjagaan malaikat dari Dajjal dan wabah tha'un."
+    },
+    {
+      "title": "Bab 30: Kitab Puasa (Shaum)",
+      "titleArabic": "كِتَابُ الصَّوْمِ",
+      "arabic": "كِتَابُ الصَّوْمِ: بَابُ وَجُوْبِ صَوْمِ رَمَضَانَ، وَقَوْلِ اللهِ تَعَالَى: ﴿يَا أَيُّهَا الَّذِيْنَ آمَنُوْا كُتِبَ عَلَيْكُمُ الصِّيَامُ﴾.",
+      "translation": "Kitab Puasa. Membahas kewajiban puasa Ramadhan, keutamaan puasa (pintu ar-Rayyan), penentuan awal bulan dengan rukyatul hilal, adab sahur dan berbuka, pembatal dan kafarat puasa, qadha puasa, serta puasa-puasa sunnah."
+    },
+    {
+      "title": "Bab 31: Kitab Shalat Tarawih",
+      "titleArabic": "كِتَابُ صَلَاةِ التَّرَاوِيْحِ",
+      "arabic": "كِتَابُ صَلَاةِ التَّرَاوِيْحِ: بَابُ فَضْلِ مَنْ قَامَ رَمَضَانَ.",
+      "translation": "Kitab Shalat Tarawih. Menguraikan keutamaan menghidupkan malam Ramadhan dengan qiyamul lail, sejarah pelaksanaannya secara berjamaah di masa Nabi SAW lalu dihidupkan kembali secara teratur di masa Khalifah Umar bin Khattab RA."
+    },
+    {
+      "title": "Bab 32: Kitab Keutamaan Lailatul Qadar",
+      "titleArabic": "كِتَابُ فَضْلِ لَيْلَةِ الْقَدْرِ",
+      "arabic": "كِتَابُ فَضْلِ لَيْلَةِ الْقَدْرِ: وَقَوْلِ اللهِ تَعَالَى: ﴿إِنَّا أَنْزَلْنَاهُ فِيْ لَيْلَةِ الْقَدْرِ﴾.",
+      "translation": "Kitab Lailatul Qadar. Menjelaskan kemuliaan malam Lailatul Qadar yang lebih baik dari seribu bulan, anjuran mencarinya pada malam-malam ganjil di sepuluh hari terakhir Ramadhan, dan hikmah dirahasiakannya waktu pastinya."
+    },
+    {
+      "title": "Bab 33: Kitab I'tikaf",
+      "titleArabic": "كِتَابُ الِاعْتِكَافِ",
+      "arabic": "كِتَابُ الِاعْتِكَافِ: بَابُ الِاعْتِكَافِ فِي الْعَشْرِ الْأَوَاخِرِ، وَالِاعْتِكَافِ فِي الْمَسَاجِدِ كُلِّهَا.",
+      "translation": "Kitab I'tikaf. Mengulas disyariatkannya berdiam diri di masjid pada sepuluh hari terakhir Ramadhan untuk beribadah, syarat dan adab orang yang beri'tikaf, serta hal-hal yang diperbolehkan bagi mu'takif."
+    },
+    {
+      "title": "Bab 34: Kitab Jual Beli (Buyu')",
+      "titleArabic": "كِتَابُ الْبُيُوْعِ",
+      "arabic": "كِتَابُ الْبُيُوْعِ: وَقَوْلِ اللهِ تَعَالَى: ﴿وَأَحَلَّ اللهُ الْبَيْعَ وَحَرَّمَ الرِّبَا﴾، وَبَابُ مَا جَاءَ فِيْ قَوْلِ اللهِ عَزَّ وَجَلَّ: ﴿فَإِذَا قُضِيَتِ الصَّلَاةُ فَانْتَشِرُوْا فِي الْأَرْضِ﴾.",
+      "translation": "Kitab Jual Beli. Membahas etika berdagang dalam Islam, mencari nafkah yang halal, hukum khiyar (hak memilih melanjutkan atau membatalkan akad), larangan riba, gharar (ketidakjelasan), penipuan (najasy), dan jual beli barang haram."
+    },
+    {
+      "title": "Bab 35: Kitab Jual Beli Salam",
+      "titleArabic": "كِتَابُ السَّلَمِ",
+      "arabic": "كِتَابُ السَّلَمِ: بَابُ السَّلَمِ فِيْ كَيْلٍ مَعْلُوْمٍ، وَوَزْنٍ مَعْلُوْمٍ، إِلَى أَجَلٍ مَعْلُوْمٍ.",
+      "translation": "Kitab Salam. Menjelaskan kebolehan transaksi pesanan barang (bay' as-salam) dengan pembayaran tunai di muka dan penyerahan barang di kemudian hari dengan syarat takaran, timbangan, sifat, dan waktu penyerahannya jelas."
+    },
+    {
+      "title": "Bab 36: Kitab Syuf'ah (Hak Beli Prioritas)",
+      "titleArabic": "كِتَابُ الشُّفْعَةِ",
+      "arabic": "كِتَابُ الشُّفْعَةِ: بَابُ الشُّفْعَةِ فِيْمَا لَمْ يُقْسَمْ، فَإِذَا وَقَعَتِ الْحُدُوْدُ فَلَا شُفْعَةَ.",
+      "translation": "Kitab Syuf'ah. Menguraikan hak mitra kongsi (syarik) untuk membeli bagian properti/tanah yang belum dibagi apabila mitra lainnya hendak menjual bagiannya kepada pihak luar, demi mencegah kemudaratan."
+    },
+    {
+      "title": "Bab 37: Kitab Sewa-Menyewa dan Upah (Ijarah)",
+      "titleArabic": "كِتَابُ الْإِجَارَةِ",
+      "arabic": "كِتَابُ الْإِجَارَةِ: بَابُ اسْتِئْجَارِ الرَّجُلِ الصَّالِحِ، وَقَوْلِ اللهِ تَعَالَى: ﴿إِنَّ خَيْرَ مَنِ اسْتَأْجَرْتَ الْقَوِيُّ الْأَمِيْنُ﴾.",
+      "translation": "Kitab Ijarah. Membahas hukum kontrak kerja, sewa menyewa barang/jasa, kewajiban menunaikan upah pekerja tepat waktu, upah mengajari Al-Qur'an dan ruqyah, serta dosa menahan hak pekerja."
+    },
+    {
+      "title": "Bab 38: Kitab Pengalihan Utang (Hawalah)",
+      "titleArabic": "كِتَابُ الْحَوَالَاتِ",
+      "arabic": "كِتَابُ الْحَوَالَاتِ: وَهَلْ يَرْجِعُ فِي الْحَوَالَةِ؟",
+      "translation": "Kitab Hawalah. Menjelaskan akad pemindahan tanggungan utang dari satu pihak kepada pihak lain yang mampu membayar, serta kewajiban pemberi piutang untuk menerima pengalihan tersebut jika dialihkan kepada orang yang berkecukupan."
+    },
+    {
+      "title": "Bab 39: Kitab Jaminan Penanggungan (Kafalah)",
+      "titleArabic": "كِتَابُ الْكَفَالَةِ",
+      "arabic": "كِتَابُ الْكَفَالَةِ: بَابُ الْكَفَالَةِ فِي الدَّيْنِ وَالْقَرْضِ بِالْأَبْدَانِ وَغَيْرِهَا.",
+      "translation": "Kitab Kafalah. Mengulas hukum jaminan utang atau penanggungan diri seseorang terhadap kewajiban finansial orang lain, disertai kisah terkenal penjaminan atas nama Allah dari kalangan Bani Israil."
+    },
+    {
+      "title": "Bab 40: Kitab Perwakilan (Wakalah)",
+      "titleArabic": "كِتَابُ الْوَكَالَةِ",
+      "arabic": "كِتَابُ الْوَكَالَةِ: بَابُ وَكَالَةِ الشَّرِيْكِ الشَّرِيْكَ فِي الْقَسْمِ وَغَيْرِهِ.",
+      "translation": "Kitab Wakalah. Membahas kebolehan mewakilkan urusan muamalah, jual beli, pengurusan zakat, pembagian hadiah, pelunasan utang, maupun perkara hukum kepada orang lain yang amanah."
+    },
+    {
+      "title": "Bab 41: Kitab Penggarapan Lahan Pertanian (Muzara'ah)",
+      "titleArabic": "كِتَابُ الْمُزَارَعَةِ",
+      "arabic": "كِتَابُ الْمُزَارَعَةِ: بَابُ فَضْلِ الزَّرْعِ وَالْغَرْسِ إِذَا أُكِلَ مِنْهُ.",
+      "translation": "Kitab Muzara'ah. Menguraikan keutamaan bercocok tanam sebagai sedekah jariyah, aturan menghidupkan tanah mati (ihya'ul mawat), serta hukum kerja sama bagi hasil penggarapan lahan pertanian."
+    },
+    {
+      "title": "Bab 42: Kitab Pengairan dan Hak Air (Musaqah)",
+      "titleArabic": "كِتَابُ الْمُسَاقَاةِ",
+      "arabic": "كِتَابُ الْمُسَاقَاةِ: بَابٌ فِي الشُّرْبِ، وَقَوْلِ اللهِ تَعَالَى: ﴿وَمِنْهَا تَشْرَبُوْنَ﴾.",
+      "translation": "Kitab Musaqah. Membahas hukum pemanfaatan air umum, larangan menahan kelebihan air untuk mengairi tanaman dan memberi minum ternak, serta akad bagi hasil pengairan kebun."
+    },
+    {
+      "title": "Bab 43: Kitab Utang Piutang, Pelunasan, Hajr, dan Pailit",
+      "titleArabic": "كِتَابٌ فِي الِاسْتِقْرَاضِ وَأَدَاءِ الدُّيُوْنِ وَالْحَجْرِ وَالتَّفْلِيْسِ",
+      "arabic": "كِتَابٌ فِي الِاسْتِقْرَاضِ وَأَدَاءِ الدُّيُوْنِ وَالْحَجْرِ وَالتَّفْلِيْسِ: بَابُ مَنِ اشْتَرَى بِالدَّيْنِ وَلَيْسَ عِنْدَهُ ثَمَنُهُ.",
+      "translation": "Kitab Istiqradh. Menjelaskan adab berutang dengan niat melunasi, bahaya menunda-nunda pembayaran utang bagi yang mampu, anjuran memberi tangguh kepada yang kesulitan, serta penyitaan harta orang pailit (taflis)."
+    },
+    {
+      "title": "Bab 44: Kitab Persengketaan (Khushumat)",
+      "titleArabic": "كِتَابُ الْخُصُوْمَاتِ",
+      "arabic": "كِتَابُ الْخُصُوْمَاتِ: بَابُ مَا يُذْكَرُ فِي الْأَشْخَاصِ وَالْخُصُوْمَةِ بَيْنَ الْمُسْلِمِ وَالْيَهُوْدِيِّ.",
+      "translation": "Kitab Khushumat. Membahas cara penyelesaian sengketa di hadapan hakim, etika bersumpah saat berselisih, pemenjaraan sementara dalam kasus tertentu, serta keadilan terhadap non-Muslim dalam sengketa hukum."
+    },
+    {
+      "title": "Bab 45: Kitab Barang Temuan (Luqathah)",
+      "titleArabic": "كِتَابُ اللُّقَطَةِ",
+      "arabic": "كِتَابُ اللُّقَطَةِ: بَابُ إِذَا أَخْبَرَ رَبُّ اللُّقَطَةِ بِالْعَلَامَةِ دَفَعَ إِلَيْهِ.",
+      "translation": "Kitab Luqathah. Menguraikan kewajiban mengumumkan barang temuan selama satu tahun, mengenali ciri wadah dan talinya, perbedaan hukum antara barang temuan bernilai kecil, ternak unta/kambing yang tersesat, serta barang temuan di tanah Haram."
+    },
+    {
+      "title": "Bab 46: Kitab Kezaliman dan Perampasan (Mazhalim)",
+      "titleArabic": "كِتَابُ الْمَظَالِمِ",
+      "arabic": "كِتَابُ الْمَظَالِمِ وَالْغَصْبِ: بَابُ قِصَاصِ الْمَظَالِمِ، وَقَوْلِ اللهِ تَعَالَى: ﴿أَلَا لَعْنَةُ اللهِ عَلَى الظَّالِمِيْنَ﴾.",
+      "translation": "Kitab Mazhalim. Menjelaskan keharaman berbuat zalim dan merampas hak orang lain (ghashab), hak-hak bertetangga, tanggung jawab menjaga barang pinjaman/titipan, serta keutamaan membela diri dan harta dari perampasan."
+    },
+    {
+      "title": "Bab 47: Kitab Kerja Sama / Kongsi (Syirkah)",
+      "titleArabic": "كِتَابُ الشَّرِكَةِ",
+      "arabic": "كِتَابُ الشَّرِكَةِ: بَابُ الشَّرِكَةِ فِي الطَّعَامِ وَالنَّهْدِ وَالْعُرُوْضِ.",
+      "translation": "Kitab Syirkah. Mengulas hukum berserikat dalam modal usaha, makanan, harta warisan, atau hewan ternak, termasuk pembagian yang adil dan pengundian (qur'ah) saat terjadi pembagian hak bersama."
+    },
+    {
+      "title": "Bab 48: Kitab Gadai (Rahn)",
+      "titleArabic": "كِتَابُ الرَّهْنِ",
+      "arabic": "كِتَابُ الرَّهْنِ: بَابُ الرَّهْنِ فِي الْحَضَرِ، وَقَوْلِ اللهِ تَعَالَى: ﴿وَإِنْ كُنْتُمْ عَلَى سَفَرٍ وَلَمْ تَجِدُوْا كَاتِبًا فَرِهَانٌ مَقْبُوْضَةٌ﴾.",
+      "translation": "Kitab Rahn. Membahas kebolehan menggadaikan barang sebagai jaminan utang baik ketika mukim maupun safar, hukum pemanfaatan hewan yang digadaikan sebagai ganti biaya nafkahnya, dan gadai dengan non-Muslim."
+    },
+    {
+      "title": "Bab 49: Kitab Memerdekakan Budak ('Itq)",
+      "titleArabic": "كِتَابُ الْعِتْقِ",
+      "arabic": "كِتَابُ الْعِتْقِ: بَابُ مَا جَاءَ فِي الْعِتْقِ وَفَضْلِهِ، وَقَوْلِ اللهِ تَعَالَى: ﴿فَكُّ رَقَبَةٍ﴾.",
+      "translation": "Kitab 'Itq. Menjelaskan besarnya pahala memerdekakan budak, hukum memerdekakan sebagian kepemilikan atas budak, hak wala', serta anjuran memperlakukan hamba sahaya dengan penuh kasih sayang dan kesetaraan dalam makanan serta pakaian."
+    },
+    {
+      "title": "Bab 50: Kitab Budak Mukatab",
+      "titleArabic": "كِتَابُ الْمُكَاتَبِ",
+      "arabic": "كِتَابُ الْمُكَاتَبِ: بَابُ إِثْمِ الْمُكَاتَبِ وَإِجَازَةِ شُرُوْطِهِ، وَمَا يَجُوْزُ مِنَ الشُّرُوْطِ.",
+      "translation": "Kitab Mukatab. Menguraikan ketentuan akad kitabah (perjanjian tebusan kemerdekaan budak secara mencicil) dan syarat-syarat sah dalam perjanjian tersebut sebagaimana dalam kisah Barirah RA."
+    },
+    {
+      "title": "Bab 51: Kitab Hibah, Keutamaannya, dan Anjurannya",
+      "titleArabic": "كِتَابُ الْهِبَةِ وَفَضْلِهَا وَالتَّحْرِيْضِ عَلَيْهَا",
+      "arabic": "كِتَابُ الْهِبَةِ وَفَضْلِهَا وَالتَّحْرِيْضِ عَلَيْهَا: بَابُ الْهِبَةِ، وَبَابُ قَبُوْلِ الْهَدِيَّةِ.",
+      "translation": "Kitab Hibah. Membahas keutamaan saling memberi hadiah untuk menumbuhkan kasih sayang, kewajiban berlaku adil dalam pemberian kepada anak-anak, haramnya menarik kembali hibah yang sudah diberikan, serta hukum 'umra dan ruqba."
+    },
+    {
+      "title": "Bab 52: Kitab Persaksian (Syahadat)",
+      "titleArabic": "كِتَابُ الشَّهَادَاتِ",
+      "arabic": "كِتَابُ الشَّهَادَاتِ: بَابُ مَا جَاءَ فِي الشَّهَادَاتِ، وَأَنَّ الْبَيِّنَةَ عَلَى الْمُدَّعِي وَالْيَمِيْنَ عَلَى الْمُدَّعَى عَلَيْهِ.",
+      "translation": "Kitab Syahadat. Mengulas kaidah pembuktian dalam peradilan Islam (bukti bagi penggugat dan sumpah bagi tergugat), syarat saksi yang adil, keharaman kesaksian palsu, serta jenis-jenis kesaksian dalam berbagai perkara."
+    },
+    {
+      "title": "Bab 53: Kitab Perdamaian (Shulh)",
+      "titleArabic": "كِتَابُ الصُّلْحِ",
+      "arabic": "كِتَابُ الصُّلْحِ: بَابُ مَا جَاءَ فِي الْإِصْلَاحِ بَيْنَ النَّاسِ إِذَا تَفَاسَدُوْا.",
+      "translation": "Kitab Shulh. Menjelaskan keutamaan mendamaikan dua pihak yang berselisih, batasan perdamaian yang halal (tidak menghalalkan yang haram dan sebaliknya), serta kebolehan menyambung silaturahmi untuk meredam permusuhan."
+    },
+    {
+      "title": "Bab 54: Kitab Syarat-syarat (Syuruth)",
+      "titleArabic": "كِتَابُ الشُّرُوْطِ",
+      "arabic": "كِتَابُ الشُّرُوْطِ: بَابُ مَا يَجُوْزُ مِنَ الشُّرُوْطِ فِي الْإِسْلَامِ وَالْأَحْكَامِ وَالْمُبَايَعَةِ.",
+      "translation": "Kitab Syuruth. Menguraikan syarat-syarat yang sah dan yang batal dalam berbagai transaksi seperti jual beli, muzara'ah, wakaf, pernikahan, maupun perjanjian damai kenegaraan seperti Perjanjian Hudaibiyah."
+    },
+    {
+      "title": "Bab 55: Kitab Wasiat",
+      "titleArabic": "كِتَابُ الْوَصَايَا",
+      "arabic": "كِتَابُ الْوَصَايَا: بَابُ الْوَصَايَا، وَقَوْلِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: وَصِيَّةُ الرَّجُلِ مَكْتُوْبَةٌ عِنْدَهُ.",
+      "translation": "Kitab Wasiat. Membahas anjuran menulis wasiat, batas maksimal wasiat sepertiga harta, larangan berwasiat kepada ahli waris, hukum wakaf (shadaqah jariyah), larangan memakan harta anak yatim, dan wasiat berbuat baik kepada kerabat."
+    },
+    {
+      "title": "Bab 56: Kitab Jihad dan Ekspedisi (Siyar)",
+      "titleArabic": "كِتَابُ الْجِهَادِ وَالسِّيَرِ",
+      "arabic": "كِتَابُ الْجِهَادِ وَالسِّيَرِ: بَابُ فَضْلِ الْجِهَادِ وَالسِّيَرِ، وَقَوْلِ اللهِ تَعَالَى: ﴿إِنَّ اللهَ اشْتَرَى مِنَ الْمُؤْمِنِيْنَ أَنْفُسَهُمْ وَأَمْوَالَهُمْ﴾.",
+      "translation": "Kitab Jihad dan Siyar. Mengulas keutamaan jihad di jalan Allah dan ribath (berjaga di perbatasan), adab peperangan dalam Islam (larangan membunuh wanita dan anak-anak), perlakuan terhadap tawanan perang, serta pengiriman surat dakwah kepada para raja."
+    },
+    {
+      "title": "Bab 57: Kitab Kewajiban Seperlima Harta Rampasan (Khumus)",
+      "titleArabic": "كِتَابُ فَرْضِ الْخُمُسِ",
+      "arabic": "كِتَابُ فَرْضِ الْخُمُسِ: وَقَوْلِ اللهِ تَعَالَى: ﴿وَاعْلَمُوْا أَنَّمَا غَنِمْتُمْ مِنْ شَيْءٍ فَأَنَّ لِلّٰهِ خُمُسَهُ﴾.",
+      "translation": "Kitab Fardh al-Khumus. Menjelaskan aturan pembagian seperlima harta rampasan perang (ghanimah) dan harta fai', hak Ahlul Bait, bagian anak yatim, fakir miskin, dan ibnu sabil, serta kisah kehati-hatian terhadap harta ghulul."
+    },
+    {
+      "title": "Bab 58: Kitab Jizyah dan Perjanjian Damai (Muwada'ah)",
+      "titleArabic": "كِتَابُ الْجِزْيَةِ وَالْمُوَادَعَةِ",
+      "arabic": "كِتَابُ الْجِزْيَةِ وَالْمُوَادَعَةِ: بَابُ الْجِزْيَةِ وَالْمُوَادَعَةِ مَعَ أَهْلِ الذِّمَّةِ وَالْحَرْبِ.",
+      "translation": "Kitab Jizyah dan Muwada'ah. Menguraikan hukum pemungutan jizyah dari ahli dzimmah sebagai jaminan perlindungan negara Islam, larangan menzalimi kafir mu'ahad, dan keharaman mengkhianati perjanjian damai."
+    },
+    {
+      "title": "Bab 59: Kitab Permulaan Penciptaan (Bad'il Khalq)",
+      "titleArabic": "كِتَابُ بَدْءِ الْخَلْقِ",
+      "arabic": "كِتَابُ بَدْءِ الْخَلْقِ: بَابُ مَا جَاءَ فِيْ قَوْلِ اللهِ تَعَالَى: ﴿وَهُوَ الَّذِيْ يَبْدَأُ الْخَلْقَ ثُمَّ يُعِيْدُهُ﴾.",
+      "translation": "Kitab Bad'il Khalq. Membahas hadits-hadits tentang penciptaan alam semesta, Arsy, langit dan bumi, matahari dan bulan, sifat malaikat, penciptaan jin dan iblis, penciptaan Nabi Adam AS, surga dan neraka, serta hikmah penciptaan hewan."
+    },
+    {
+      "title": "Bab 60: Kitab Kisah Para Nabi (Ahadits al-Anbiya')",
+      "titleArabic": "كِتَابُ أَحَادِيْثِ الْأَنْبِيَاءِ",
+      "arabic": "كِتَابُ أَحَادِيْثِ الْأَنْبِيَاءِ: بَابُ خَلْقِ آدَمَ صَلَوَاتُ اللهِ عَلَيْهِ وَذُرِّيَّتِهِ.",
+      "translation": "Kitab Kisah Para Nabi. Menguraikan riwayat-riwayat sahih tentang para nabi terdahulu mulai dari Nabi Adam AS, Idris, Nuh, Ibrahim, Luth, Ya'qub, Yusuf, Ayyub, Musa, Khidir, Dawud, Sulaiman, Yunus, Zakariya, Yahya, Isa bin Maryam AS, hingga kisah umat terdahulu seperti Ashabul Ukhdud."
+    },
+    {
+      "title": "Bab 61: Kitab Keutamaan dan Nasab Mulia (Manaqib)",
+      "titleArabic": "كِتَابُ الْمَنَاقِبِ",
+      "arabic": "كِتَابُ الْمَنَاقِبِ: بَابُ قَوْلِ اللهِ تَعَالَى: ﴿يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَى وَجَعَلْنَاكُمْ شُعُوْبًا وَقَبَائِلَ لِتَعَارَفُوْا﴾.",
+      "translation": "Kitab Manaqib. Membahas kemuliaan suku Quraisy, sifat-sifat fisik dan akhlak mulia Rasulullah SAW, tanda kenabian (khatamun nubuwwah), mukjizat-mukjizat Nabi SAW (seperti terbelahnya bulan dan memancarnya air dari jari), serta berita ghaib yang terbukti."
+    },
+    {
+      "title": "Bab 62: Kitab Keutamaan Para Sahabat Nabi SAW",
+      "titleArabic": "كِتَابُ فَضَائِلِ أَصْحَابِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ",
+      "arabic": "كِتَابُ فَضَائِلِ أَصْحَابِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: بَابُ فَضَائِلِ أَصْحَابِ النَّبِيِّ وَمَنْ صَحِبَ النَّبِيَّ أَوْ رَآهُ.",
+      "translation": "Kitab Keutamaan Sahabat. Mengulas definisi sahabat dan keutamaan generasi terbaik umat ini, secara khusus Khulafaur Rasyidin (Abu Bakar, Umar, Utsman, Ali), sepuluh sahabat yang dijamin masuk surga, Ahlul Bait, serta para sahabat terkemuka lainnya."
+    },
+    {
+      "title": "Bab 63: Kitab Keutamaan Kaum Anshar",
+      "titleArabic": "كِتَابُ مَنَاقِبِ الْأَنْصَارِ",
+      "arabic": "كِتَابُ مَنَاقِبِ الْأَنْصَارِ: بَابُ مَنَاقِبِ الْأَنْصَارِ وَقَوْلِ اللهِ عَزَّ وَجَلَّ: ﴿وَالَّذِيْنَ تَبَوَّءُوا الدَّارَ وَالْإِيْمَانَ مِنْ قَبْلِهِمْ﴾.",
+      "translation": "Kitab Manaqib al-Anshar. Menjelaskan keutamaan penduduk Madinah dari suku Aus dan Khazraj yang membela Rasulullah SAW dan kaum Muhajirin, kisah Baiat Aqabah, peristiwa Hijrah ke Madinah, serta sejarah permulaan dakwah Islam di Makkah."
+    },
+    {
+      "title": "Bab 64: Kitab Peperangan Nabi SAW (Maghazi)",
+      "titleArabic": "كِتَابُ الْمَغَازِيْ",
+      "arabic": "كِتَابُ الْمَغَازِيْ: بَابُ غَزْوَةِ الْعُشَيْرَةِ أَوِ الْعُسَيْرَةِ.",
+      "translation": "Kitab Maghazi. Menguraikan kronologi peperangan dan ekspedisi militer pada masa Rasulullah SAW secara rinci, mulai dari Perang Badar, Uhud, Khandaq, Bani Quraizhah, Hudaibiyah, Khaibar, Mu'tah, Fathu Makkah, Hunain, Tabuk, hingga Haji Wada' dan wafatnya Nabi SAW."
+    },
+    {
+      "title": "Bab 65: Kitab Tafsir Al-Qur'an",
+      "titleArabic": "كِتَابُ التَّفْسِيْرِ",
+      "arabic": "كِتَابُ التَّفْسِيْرِ: بَابُ مَا جَاءَ فِيْ فَاتِحَةِ الْكِتَابِ، وَسُمِّيَتْ أُمَّ الْكِتَابِ.",
+      "translation": "Kitab Tafsir. Bagian terpanjang kedua setelah Maghazi yang memuat hadits-hadits tafsir Rasulullah SAW dan penafsiran para sahabat terhadap ayat-ayat dalam seluruh 114 surah Al-Qur'an dari al-Fatihah hingga an-Nas, termasuk asbabun nuzul dan penjelasan kosa kata gharib."
+    },
+    {
+      "title": "Bab 66: Kitab Keutamaan Al-Qur'an",
+      "titleArabic": "كِتَابُ فَضَائِلِ الْقُرْآنِ",
+      "arabic": "كِتَابُ فَضَائِلِ الْقُرْآنِ: بَابُ كَيْفَ نَزَلَ الْوَحْيُ وَأَوَّلُ مَا نَزَلَ.",
+      "translation": "Kitab Fadha'il al-Qur'an. Membahas sejarah turunnya Al-Qur'an dalam tujuh huruf (sab'atu ahruf), pengumpulan Al-Qur'an pada masa Abu Bakar dan Utsman bin Affan RA, keutamaan beberapa surah dan ayat (seperti al-Fatihah, Ayat Kursi, al-Ikhlas), serta adab membaca Al-Qur'an."
+    },
+    {
+      "title": "Bab 67: Kitab Pernikahan (Nikah)",
+      "titleArabic": "كِتَابُ النِّكَاحِ",
+      "arabic": "كِتَابُ النِّكَاحِ: بَابُ التَّرْغِيْبِ فِي النِّكَاحِ، لِقَوْلِ اللهِ تَعَالَى: ﴿فَانْكِحُوْا مَا طَابَ لَكُمْ مِنَ النِّسَاءِ﴾.",
+      "translation": "Kitab Nikah. Menguraikan anjuran menikah dan larangan membujang (tabattul), kriteria memilih pasangan yang beragama, hukum wali dan mahar, khitbah, wanita yang haram dinikahi, walimah, serta hak dan kewajiban suami istri dalam rumah tangga."
+    },
+    {
+      "title": "Bab 68: Kitab Talak",
+      "titleArabic": "كِتَابُ الطَّلَاقِ",
+      "arabic": "كِتَابُ الطَّلَاقِ: بَابُ قَوْلِ اللهِ تَعَالَى: ﴿يَا أَيُّهَا النَّبِيُّ إِذَا طَلَّقْتُمُ النِّسَاءَ فَطَلِّقُوْهُنَّ لِعِدَّتِهِنَّ﴾.",
+      "translation": "Kitab Talak. Menjelaskan talak sunni dan talak bid'i, hukum khulu' (gugat cerai dengan tebusan), rujuk, sumpah ila', zhihar, li'an (saling melaknat karena tuduhan zina), masa iddah, serta larangan berkabung (ihdad) melebihi tiga hari kecuali bagi istri yang ditinggal wafat suaminya."
+    },
+    {
+      "title": "Bab 69: Kitab Nafkah",
+      "titleArabic": "كِتَابُ النَّفَقَاتِ",
+      "arabic": "كِتَابُ النَّفَقَاتِ: بَابُ فَضْلِ النَّفَقَةِ عَلَى الْأَهْلِ.",
+      "translation": "Kitab Nafaqat. Membahas keutamaan memberi nafkah kepada keluarga sebagai sedekah bernilai pahala besar, kewajiban suami mencukupi kebutuhan istri dan anak secara makruf, serta kebolehan istri mengambil harta suami secara wajar bila suami kikir (kisah Hindun)."
+    },
+    {
+      "title": "Bab 70: Kitab Makanan (Ath'imah)",
+      "titleArabic": "كِتَابُ الْأَطْعِمَةِ",
+      "arabic": "كِتَابُ الْأَطْعِمَةِ: بَابُ قَوْلِ اللهِ تَعَالَى: ﴿كُلُوْا مِنْ طَيِّبَاتِ مَا رَزَقْنَاكُمْ﴾.",
+      "translation": "Kitab Ath'imah. Mengulas adab makan dan minum dalam Islam (membaca basmalah, memakai tangan kanan, mengambil yang terdekat), jenis makanan yang disukai Nabi SAW, kesederhanaan dalam makan, serta etika menjamu tamu."
+    },
+    {
+      "title": "Bab 71: Kitab Akikah",
+      "titleArabic": "كِتَابُ الْعَقِيْقَةِ",
+      "arabic": "كِتَابُ الْعَقِيْقَةِ: بَابُ تَسْمِيَةِ الْمَوْلُوْدِ غَدَاةَ يُوْلَدُ لِمَنْ لَمْ يَعُقَّ عَنْهُ وَتَحْنِيْكِهِ.",
+      "translation": "Kitab Akikah. Menjelaskan sunnah mentahnik bayi yang baru lahir, memberi nama yang baik, mencukur rambut bayi pada hari ketujuh, serta menyembelih kambing akikah (dua ekor untuk anak laki-laki dan satu ekor untuk anak perempuan)."
+    },
+    {
+      "title": "Bab 72: Kitab Sembelihan dan Hewan Buruan",
+      "titleArabic": "كِتَابُ الذَّبَائِحِ وَالصَّيْدِ",
+      "arabic": "كِتَابُ الذَّبَائِحِ وَالصَّيْدِ: وَالتَّسْمِيَةِ عَلَى الصَّيْدِ، وَقَوْلِ اللهِ تَعَالَى: ﴿يَا أَيُّهَا الَّذِيْنَ آمَنُوْا لَيَبْلُوَنَّكُمُ اللهُ بِشَيْءٍ مِنَ الصَّيْدِ﴾.",
+      "translation": "Kitab Dzaba'ih wash Shaid. Menguraikan syarat sah penyembelihan hewan (menyebut nama Allah dan memotong urat leher dengan alat tajam), hukum berburu dengan anjing terlatih atau panah, kehalalan sembelihan Ahli Kitab, serta hewan-hewan yang diharamkan (seperti keledai jinak dan binatang bertaring)."
+    },
+    {
+      "title": "Bab 73: Kitab Kurban (Adhahi)",
+      "titleArabic": "كِتَابُ الْأَضَاحِيْ",
+      "arabic": "كِتَابُ الْأَضَاحِيْ: بَابُ سُنَّةِ الْأُضْحِيَّةِ، وَقَالَ ابْنُ عُمَرَ: هِيَ سُنَّةٌ وَمَعْرُوْفٌ.",
+      "translation": "Kitab Adhahi. Membahas syariat penyembelihan hewan kurban pada hari Idul Adha dan hari-hari tasyrik setelah shalat Id, syarat hewan kurban yang sehat dan cukup umur, serta pembagian daging kurban untuk dimakan, disedekahkan, dan disimpan."
+    },
+    {
+      "title": "Bab 74: Kitab Minuman (Asyribah)",
+      "titleArabic": "كِتَابُ الْأَشْرِبَةِ",
+      "arabic": "كِتَابُ الْأَشْرِبَةِ: بَابُ قَوْلِ اللهِ تَعَالَى: ﴿إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ وَالْأَنْصَابُ وَالْأَزْلَامُ رِجْسٌ مِنْ عَمَلِ الشَّيْطَانِ﴾.",
+      "translation": "Kitab Asyribah. Menjelaskan pengharaman khamar secara bertahap hingga larangan mutlak segala minuman yang memabukkan, keharaman wadah berbahan emas dan perak, serta adab minum (tidak bernapas dalam gelas dan menutup bejana di malam hari)."
+    },
+    {
+      "title": "Bab 75: Kitab Orang-orang Sakit (Mardha)",
+      "titleArabic": "كِتَابُ الْمَرْضَى",
+      "arabic": "كِتَابُ الْمَرْضَى: بَابُ مَا جَاءَ فِيْ كَفَّارَةِ الْمَرَضِ، وَقَوْلِ اللهِ تَعَالَى: ﴿مَنْ يَعْمَلْ سُوْءًا يُجْزَ بِهِ﴾.",
+      "translation": "Kitab Mardha. Mengulas hikmah sakit sebagai penggugur dosa dan peninggi derajat seorang mukmin, keutamaan menjenguk orang sakit, adab mendoakan kesembuhan, serta larangan mengharapkan kematian karena musibah."
+    },
+    {
+      "title": "Bab 76: Kitab Pengobatan (Thibb)",
+      "titleArabic": "كِتَابُ الطِّبِّ",
+      "arabic": "كِتَابُ الطِّبِّ: بَابُ مَا أَنْزَلَ اللهُ دَاءً إِلَّا أَنْزَلَ لَهُ شِفَاءً.",
+      "translation": "Kitab Thibb. Membahas perintah berobat dengan cara yang halal, pengobatan nabawi (madu, habbatus sauda', bekam/hijamah), ruqyah syar'iyyah dengan Al-Qur'an dan doa, sikap terhadap wabah penyakit menular (tha'un), serta keharaman sihir dan perdukunan."
+    },
+    {
+      "title": "Bab 77: Kitab Pakaian dan Perhiasan (Libas)",
+      "titleArabic": "كِتَابُ اللِّبَاسِ",
+      "arabic": "كِتَابُ اللِّبَاسِ: بَابُ قَوْلِ اللهِ تَعَالَى: ﴿قُلْ مَنْ حَرَّمَ زِيْنَةَ اللهِ الَّتِيْ أَخْرَجَ لِعِبَادِهِ﴾.",
+      "translation": "Kitab Libas. Menguraikan tuntunan berpakaian dalam Islam, larangan isbal (menjulurkan kain di bawah mata kaki karena sombong), larangan sutera dan emas bagi laki-laki, adab memelihara jenggot dan memotong kumis, serta hukum gambar makhluk bernyawa."
+    },
+    {
+      "title": "Bab 78: Kitab Adab dan Akhlak",
+      "titleArabic": "كِتَابُ الْأَدَبِ",
+      "arabic": "كِتَابُ الْأَدَبِ: بَابُ قَوْلِ اللهِ تَعَالَى: ﴿وَوَصَّيْنَا الْإِنْسَانَ بِوَالِدَيْهِ حُسْنًا﴾.",
+      "translation": "Kitab Adab. Membahas fondasi akhlak mulia dalam Islam: berbakti kepada kedua orang tua, menyambung silaturahmi, memuliakan tetangga dan tamu, kasih sayang terhadap anak-anak dan hewan, larangan hasad, ghibah, adu domba, serta menjaga lisan dan etika bercanda."
+    },
+    {
+      "title": "Bab 79: Kitab Meminta Izin (Isti'dzan)",
+      "titleArabic": "كِتَابُ الِاسْتِئْذَانِ",
+      "arabic": "كِتَابُ الِاسْتِئْذَانِ: بَابُ بَدْءِ السَّلَامِ.",
+      "translation": "Kitab Isti'dzan. Mengulas etika bertamu dengan meminta izin maksimal tiga kali dan mengucapkan salam, menjaga pandangan dari aurat rumah orang lain, adab menyebarkan salam, berjabat tangan, serta etika duduk dan bermajelis."
+    },
+    {
+      "title": "Bab 80: Kitab Doa-doa (Da'awat)",
+      "titleArabic": "كِتَابُ الدَّعَوَاتِ",
+      "arabic": "كِتَابُ الدَّعَوَاتِ: بَابُ لِكُلِّ نَبِيٍّ دَعْوَةٌ مُسْتَجَابَةٌ.",
+      "translation": "Kitab Da'awat. Menghimpun mutiara doa dan dzikir yang diajarkan Rasulullah SAW dalam berbagai kondisi: doa istighfar (sayyidul istighfar), dzikir pagi-petang, doa sebelum dan bangun tidur, doa perlindungan dari kesulitan, keutamaan shalawat atas Nabi SAW, serta kalimat tasbih, tahmid, dan tahlil."
+    },
+    {
+      "title": "Bab 81: Kitab Pelembut Hati (Riqaq)",
+      "titleArabic": "كِتَابُ الرِّقَاقِ",
+      "arabic": "كِتَابُ الرِّقَاقِ: بَابُ مَا جَاءَ فِي الرِّقَاقِ، وَأَنْ لَا عَيْشَ إِلَّا عَيْشُ الْآخِرَةِ.",
+      "translation": "Kitab Riqaq. Membahas hadits-hadits nasihat untuk melembutkan hati dan mempersiapkan diri menghadapi akhirat: hakikat zuhud dan qana'ah, peringatan terhadap fitnah dunia dan panjang angan-angan, keutamaan menangis karena takut kepada Allah, tanda-tanda kiamat, hisab, telaga al-Kautsar, serta sifat surga dan neraka."
+    },
+    {
+      "title": "Bab 82: Kitab Takdir (Qadar)",
+      "titleArabic": "كِتَابُ الْقَدَرِ",
+      "arabic": "كِتَابُ الْقَدَرِ: بَابٌ فِي الْقَدَرِ، وَقَوْلِ اللهِ تَعَالَى: ﴿وَكَانَ أَمْرُ اللهِ قَدَرًا مَقْدُوْرًا﴾.",
+      "translation": "Kitab Qadar. Menguraikan akidah Ahlussunnah wal Jamaah mengenai takdir Allah (pencatatan rezeki, ajal, amal, dan nasib di Lauh Mahfuzh sejak penciptaan janin), keseimbangan antara keimanan kepada takdir dan kewajiban berikhtiar serta beramal saleh."
+    },
+    {
+      "title": "Bab 83: Kitab Sumpah dan Nazar",
+      "titleArabic": "كِتَابُ الْأَيْمَانِ وَالنُّذُوْرِ",
+      "arabic": "كِتَابُ الْأَيْمَانِ وَالنُّذُوْرِ: بَابُ قَوْلِ اللهِ تَعَالَى: ﴿لَا يُؤَاخِذُكُمُ اللهُ بِاللَّغْوِ فِيْ أَيْمَانِكُمْ﴾.",
+      "translation": "Kitab Aiman wan Nudzur. Menjelaskan aturan sumpah dalam Islam (larangan bersumpah dengan selain nama Allah), perbedaan sumpah laghwu dan sumpah yang mengikat, kewajiban menunaikan nazar ketaatan dan larangan bernazar kemaksiatan."
+    },
+    {
+      "title": "Bab 84: Kitab Kafarat Sumpah",
+      "titleArabic": "كِتَابُ كَفَّارَاتِ الْأَيْمَانِ",
+      "arabic": "كِتَابُ كَفَّارَاتِ الْأَيْمَانِ: بَابُ قَوْلِ اللهِ تَعَالَى: ﴿فَكَفَّارَتُهُ إِطْعَامُ عَشَرَةِ مَسَاكِيْنَ مِنْ أَوْسَطِ مَا تُطْعِمُوْنَ أَهْلِيْكُمْ﴾.",
+      "translation": "Kitab Kaffarat al-Aiman. Membahas tata cara membayar kafarat bagi orang yang melanggar sumpah karena melihat sesuatu yang lebih baik (memberi makan atau pakaian kepada sepuluh orang miskin, memerdekakan budak, atau berpuasa tiga hari), serta hukum pengecualian (istitsna' dengan insya Allah)."
+    },
+    {
+      "title": "Bab 85: Kitab Hukum Waris (Fara'idh)",
+      "titleArabic": "كِتَابُ الْفَرَائِضِ",
+      "arabic": "كِتَابُ الْفَرَائِضِ: وَقَوْلِ اللهِ تَعَالَى: ﴿يُوْصِيْكُمُ اللهُ فِيْ أَوْلَادِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ الْأُنْثَيَيْنِ﴾.",
+      "translation": "Kitab Fara'idh. Menguraikan prinsip dasar ilmu waris Islam: mendahulukan hak ashabul furudh lalu sisanya untuk ashabah laki-laki terdekat, bagian anak, orang tua, suami-istri, saudara (kalalah), serta penghalang warisan seperti perbedaan agama dan pembunuhan."
+    },
+    {
+      "title": "Bab 86: Kitab Hukum Pidana Islam (Hudud)",
+      "titleArabic": "كِتَابُ الْحُدُوْدِ",
+      "arabic": "كِتَابُ الْحُدُوْدِ: بَابُ مَا يُكْرَهُ مِنَ التَّعْرِيْضِ، وَبَابُ إِقَامَةِ الْحُدُوْدِ وَالِانْتِقَامِ لِحُرُمَاتِ اللهِ.",
+      "translation": "Kitab Hudud. Membahas ketentuan sanksi hukum pidana syariat yang telah ditetapkan Allah: had pencurian (nishab potong tangan), had zina (rajam bagi muhshan dan dera bagi ghairu muhshan), had qadzaf (menuduh zina), had peminum khamar, serta larangan memberi syafaat untuk menggugurkan had yang telah sampai ke pengadilan."
+    },
+    {
+      "title": "Bab 87: Kitab Denda Pembunuhan dan Pelukaan (Diyat)",
+      "titleArabic": "كِتَابُ الدِّيَاتِ",
+      "arabic": "كِتَابُ الدِّيَاتِ: بَابُ قَوْلِ اللهِ تَعَالَى: ﴿وَمَنْ قَتَلَ مُؤْمِنًا خَطَأً فَتَحْرِيْرُ رَقَبَةٍ مُؤْمِنَةٍ وَدِيَةٌ مُسَلَّمَةٌ إِلَى أَهْلِهِ﴾.",
+      "translation": "Kitab Diyat. Menguraikan hukum qishash dan diyat dalam kasus pembunuhan sengaja, tersalah, maupun melukai anggota tubuh, tanggung jawab 'aqilah (keluarga besar), sumpah qasamah, serta jaminan keselamatan jiwa dalam Islam."
+    },
+    {
+      "title": "Bab 88: Kitab Meminta Taubat Orang Murtad dan Pembangkang",
+      "titleArabic": "كِتَابُ اسْتِتَابَةِ الْمُرْتَدِّيْنَ وَالْمُعَانِدِيْنَ وَقِتَالِهِمْ",
+      "arabic": "كِتَابُ اسْتِتَابَةِ الْمُرْتَدِّيْنَ وَالْمُعَانِدِيْنَ وَقِتَالِهِمْ: بَابُ قَوْلِ اللهِ تَعَالَى: ﴿يَا أَيُّهَا الَّذِيْنَ آمَنُوْا مَنْ يَرْتَدَّ مِنْكُمْ عَنْ دِيْنِهِ﴾.",
+      "translation": "Kitab Istitabat al-Murtaddin. Membahas hukum peradilan terhadap kemurtadan dan prosedur meminta taubat (istitabah), sikap terhadap kelompok menyimpang seperti Khawarij, serta kaidah fiqih penegakan hukum hanya oleh penguasa sah dengan kejelasan bukti."
+    },
+    {
+      "title": "Bab 89: Kitab Paksaan (Ikrah)",
+      "titleArabic": "كِتَابُ الْإِكْرَاهِ",
+      "arabic": "كِتَابُ الْإِكْرَاهِ: بَابُ قَوْلِ اللهِ تَعَالَى: ﴿إِلَّا مَنْ أُكْرِهَ وَقَلْبُهُ مُطْمَئِنٌّ بِالْإِيْمَانِ﴾.",
+      "translation": "Kitab Ikrah. Menjelaskan keringanan (rukhshah) dan gugurnya konsekuensi hukum bagi orang yang dipaksa di bawah ancaman jiwa atau siksaan berat (seperti kasus Ammar bin Yasir RA), serta batasan akad nikah, jual beli, dan talak dalam kondisi terpaksa."
+    },
+    {
+      "title": "Bab 90: Kitab Siasat dan Tipu Daya Hukum (Hiyal)",
+      "titleArabic": "كِتَابُ الْحِيَلِ",
+      "arabic": "كِتَابُ الْحِيَلِ: بَابُ تَرْكِ الْحِيَلِ وَأَنَّ لِكُلِّ امْرِئٍ مَا نَوَى فِي الْأَيْمَانِ وَغَيْرِهَا.",
+      "translation": "Kitab Hiyal. Mengulas penolakan Imam al-Bukhari terhadap rekayasa hukum (hilah) yang bertujuan mengakali syariat untuk menggugurkan kewajiban (seperti zakat) atau menghalalkan yang haram (seperti nikah tahlil dan riba terselubung), berlandaskan prinsip niat."
+    },
+    {
+      "title": "Bab 91: Kitab Takwil Mimpi (Ta'bir)",
+      "titleArabic": "كِتَابُ التَّعْبِيْرِ",
+      "arabic": "كِتَابُ التَّعْبِيْرِ: بَابُ أَوَّلِ مَا بُدِئَ بِهِ رَسُوْلُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مِنَ الْوَحْيِ الرُّؤْيَا الصَّالِحَةُ.",
+      "translation": "Kitab Ta'bir. Membahas pembagian mimpi (ru'ya shadiqah dari Allah, bisikan jiwa, dan gangguan setan), adab ketika mengalami mimpi baik atau mimpi buruk, keutamaan melihat Nabi SAW dalam mimpi, serta contoh penakwilan simbol-simbol mimpi."
+    },
+    {
+      "title": "Bab 92: Kitab Fitnah dan Huru-hara Akhir Zaman (Fitan)",
+      "titleArabic": "كِتَابُ الْفِتَنِ",
+      "arabic": "كِتَابُ الْفِتَنِ: بَابُ مَا جَاءَ فِيْ قَوْلِ اللهِ تَعَالَى: ﴿وَاتَّقُوْا فِتْنَةً لَا تُصِيْبَنَّ الَّذِيْنَ ظَلَمُوْا مِنْكُمْ خَاصَّةً﴾.",
+      "translation": "Kitab Fitan. Menguraikan nubuwat Rasulullah SAW mengenai cobaan, perpecahan, dan konflik yang akan menimpa umat Islam, perintah menjauhi fitnah pertumpahan darah, munculnya tanda-tanda besar kiamat seperti Ya'juj dan Ma'juj serta Dajjal."
+    },
+    {
+      "title": "Bab 93: Kitab Hukum dan Kepemimpinan (Ahkam)",
+      "titleArabic": "كِتَابُ الْأَحْكَامِ",
+      "arabic": "كِتَابُ الْأَحْكَامِ: بَابُ قَوْلِ اللهِ تَعَالَى: ﴿أَطِيْعُوا اللهَ وَأَطِيْعُوا الرَّسُوْلَ وَأُولِي الْأَمْرِ مِنْكُمْ﴾.",
+      "translation": "Kitab Ahkam. Membahas prinsip kepemimpinan dan peradilan dalam Islam: kewajiban taat kepada pemimpin dalam hal yang makruf, tanggung jawab hakim agar tidak memutus perkara saat marah, larangan suap dan mencari jabatan, serta baiat."
+    },
+    {
+      "title": "Bab 94: Kitab Angan-angan (Tamanni)",
+      "titleArabic": "كِتَابُ التَّمَنِّيْ",
+      "arabic": "كِتَابُ التَّمَنِّيْ: بَابُ مَا يَجُوْزُ مِنَ اللَّوِ، وَقَوْلِ اللهِ تَعَالَى: ﴿لَوْ أَنَّ لِيْ بِكُمْ قُوَّةً﴾.",
+      "translation": "Kitab Tamanni. Menjelaskan batasan berangan-angan dalam Islam: terpuji apabila berangan-angan beramal saleh seperti menuntut ilmu Al-Qur'an dan bersedekah (ghibthah) atau berjihad, serta tercela apabila mengandung penyesalan terhadap takdir."
+    },
+    {
+      "title": "Bab 95: Kitab Khabar Ahad",
+      "titleArabic": "كِتَابُ أَخْبَارِ الْآحَادِ",
+      "arabic": "كِتَابُ أَخْبَارِ الْآحَادِ: بَابُ مَا جَاءَ فِيْ إِجَازَةِ خَبَرِ الْوَاحِدِ الصَّدُوْقِ فِي الْأَذَانِ وَالصَّلَاةِ وَالصَّوْمِ وَالْفَرَائِضِ وَالْأَحْكَامِ.",
+      "translation": "Kitab Akhbar al-Ahad. Mengulas hujjah ushul hadits dan ushul fiqih mengenai keharusan menerima serta mengamalkan hadits ahad yang diriwayatkan oleh perawi terpercaya (shaduq/tsiqah) dalam seluruh aspek syariat, berlandaskan praktik Nabi SAW mengutus satu utusan ke berbagai negeri."
+    },
+    {
+      "title": "Bab 96: Kitab Berpegang Teguh pada Al-Qur'an dan Sunnah",
+      "titleArabic": "كِتَابُ الِاعْتِصَامِ بِالْكِتَابِ وَالسُّنَّةِ",
+      "arabic": "كِتَابُ الِاعْتِصَامِ بِالْكِتَابِ وَالسُّنَّةِ: بَابُ قَوْلِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: بُعِثْتُ بِجَوَامِعِ الْكَلِمِ.",
+      "translation": "Kitab al-I'tisham. Menjelaskan kewajiban berpegang teguh pada wahyu Al-Qur'an dan Sunnah Nabi SAW, larangan berlebih-lebihan dalam agama dan berselisih dalam hal yang tidak perlu, kedudukan ijtihad dan qiyas yang benar, serta janji terjaganya kelompok yang berpegang pada kebenaran (tha'ifah manshurah)."
+    },
+    {
+      "title": "Bab 97: Kitab Tauhid",
+      "titleArabic": "كِتَابُ التَّوْحِيْدِ",
+      "arabic": "كِتَابُ التَّوْحِيْدِ: بَابُ مَا جَاءَ فِيْ دُعَاءِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أُمَّتَهُ إِلَى تَوْحِيْدِ اللهِ تَبَارَكَ وَتَعَالَى.",
+      "translation": "Kitab Tauhid (Kitab penutup Shahih al-Bukhari). Membahas dakwah tauhid kepada Allah SWT, penetapan nama-nama Allah yang indah (Asmaul Husna) dan sifat-sifat kesempurnaan-Nya tanpa tasybih maupun ta'thil, kemuliaan firman Allah (Kalamullah), penciptaan amal hamba, serta diakhiri dengan hadits dua kalimat yang ringan di lisan namun berat di timbangan ('Subhanallahi wa bihamdihi, Subhanallahil 'Azhim')."
+    },
+    {
+      "title": "Khatimah: Penutup Kitab Syarah dan Doa Pengarang",
+      "titleArabic": "الْخَاتِمَةُ: خَتْمُ الشَّرْحِ وَتَارِيْخُ الْفَرَاغِ مِنْهُ",
+      "arabic": "هٰذَا آخِرُ مَا يَسَّرَ اللهُ تَعَالَى مِنَ الشَّرْحِ الْمُبَارَكِ الْمَوْسُوْمِ بِـ(إِرْشَادِ السَّارِيْ لِشَرْحِ صَحِيْحِ الْبُخَارِيِّ)، وَالْحَمْدُ لِلّٰهِ أَوَّلًا وَآخِرًا، وَصَلَّى اللهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلَّمَ.",
+      "translation": "Penutup kitab oleh Imam Syihabuddin al-Qasthalani yang berisi ungkapan syukur kepada Allah atas rampungnya penyusunan Irsyadus Sari pada awal abad ke-10 Hijriah (tahun 916 H), doa agar karya ini diterima sebagai amal jariyah dan bermanfaat bagi kaum muslimin, serta shalawat penutup kepada Nabi Muhammad SAW."
+    }
+  ]
+}
