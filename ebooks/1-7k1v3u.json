@@ -1,0 +1,44 @@
+{
+  "profile": {
+    "name": "Hasyiyah al-Bujairimi 'ala al-Manhaj",
+    "originalTitle": "حاشية البجيرمي على المنهج",
+    "author": "Sulaiman bin Muhammad bin Umar al-Bujairimi al-Syafi'i",
+    "field": "Fiqih Syafi'i",
+    "about": "Kitab ini merupakan salah satu Hasyiyah (catatan kaki) yang sangat otoritatif dalam madzhab Syafi'i, khususnya dalam memberikan syarah (penjelasan) atas kitab 'Manhaj al-Thullab' karya Syaikhul Islam Zakaria al-Anshari. Kitab ini menjadi rujukan utama bagi para santri di pesantren karena kedalamannya dalam membahas detail fiqih serta kutipan-kutipan dari ulama muhaqqiq seperti Syamsuddin al-Ramli dan Ibnu Hajar al-Haitami. Dalam fragmen yang diberikan, kitab ini membahas detail mengenai hukum iktida' (bermakmum) dalam shalat jamaah, khususnya kondisi ketika imam ditemukan memiliki kekurangan atau syarat yang tidak terpenuhi. Penulis sangat teliti dalam menjelaskan perbedaan pendapat antara ulama besar seperti al-Subki, al-Syirwani, dan al-Suyuthi dalam konteks fikih dan tata bahasa Arab. Karya ini mencerminkan tradisi turath yang ketat dalam metodologi pengambilan hukum serta analisis linguistik.",
+    "authorBorn": "1132 H",
+    "authorDied": "1221 H",
+    "authorCentury": "Abad ke-12 - 13 Hijriyah"
+  },
+  "chapters": [
+    {
+      "title": "Hukum Bermakmum kepada Imam yang Kondisinya Tidak Diketahui",
+      "titleArabic": "حكم الاقتداء بمن لم يعلم حاله",
+      "arabic": "وحيث بص القدوة هنا فهو للعالم بحاله. قوله لكن للعالم بحاله أما إذا لم يعلم بحاله فتصح قدوته به ويفرق بينه وبين الأمي حيث بطل اقتداء الجاهل به بأن هذا يعسر الاطلاع على حاله قبل القدوة.",
+      "translation": "Ketika keabsahan bermakmum di sini, maka itu berlaku bagi yang mengetahui kondisi imam. Adapun jika tidak diketahui kondisinya, maka bermakmum kepadanya tetap sah. Ada perbedaan antara kondisi ini dan (bermakmum kepada) orang yang ummi (tidak fasih bacaan), di mana bermakmum kepada orang ummi dianggap batal, karena (dalam kasus imam yang tidak diketahui kondisinya) sangat sulit untuk meneliti keadaan imam sebelum bermakmum."
+    },
+    {
+      "title": "Tentang Bacaan yang Salah (Lahn) dan Pendapat al-Subki",
+      "titleArabic": "قوله واختار السبكي وضعيف ع ش",
+      "arabic": "(قوله واختار السبكى) ضعيف ع ش وهذا مقابل قوله صحت صلاته والقدوة به إلا إذا قدر الخ (قوله ليس الخ) مقول قول الإمام وقوله لهذا أى اللاحن فى غير الفاتحة.",
+      "translation": "(Ucapan: Dan Imam al-Subki memilih...) ini dianggap lemah menurut 'Ali Syibramalisi (asy-Syawbari). Ini merupakan lawan dari pendapat yang menyatakan sah shalatnya dan sah bermakmum kepadanya kecuali jika dia mampu (memperbaiki bacaan). (Ucapan: Bukan...) adalah maqul qaul (perkataan) imam. Dan ucapannya 'untuk ini' maksudnya adalah orang yang melakukan kesalahan bacaan (lahn) di luar surat al-Fatihah."
+    },
+    {
+      "title": "Hukum Kesalahan Bacaan yang Tidak Disengaja",
+      "titleArabic": "حكم اللحن بلا ضرورة",
+      "arabic": "(قوله لأنه أي اللحن المذكور وهو تعليل لقوله ليس لهذا الخ وقوله بلا ضرورة أى بلا حاجة إلى التكلم به من البطلان) بيان لما وقوله مطلقا أى سواء قدر على النطق به على الصواب أو عجز عنه وأما النسيان أو الجهل فلا يقتضى البطلان عنده أيضا إلا مع الكثرة أفاده سم.",
+      "translation": "(Ucapan: Karena...) yaitu kesalahan bacaan yang disebutkan, ini merupakan alasan untuk ucapan 'bukan untuk ini'. Dan ucapannya 'tanpa dharurat' maksudnya tanpa kebutuhan untuk mengucapkannya yang menyebabkan batal. Ucapan 'secara mutlak' artinya sama saja apakah dia mampu mengucapkannya dengan benar atau tidak mampu. Adapun lupa atau bodoh (tidak tahu hukum) maka itu tidak mengharuskan batal menurutnya kecuali jika terjadi secara terus-menerus (banyak), sebagaimana dijelaskan oleh asy-Syibramalisi."
+    },
+    {
+      "title": "Ketentuan Bermakmum kepada Imam yang Disangka Ahli",
+      "titleArabic": "الاقتداء بمن ظنه أهلا للإمامة فبان خلافه",
+      "arabic": "(قوله لو اقتدى بمن ظنه أهلا للإمامة) خرج به ما إذا ظنه ليس أهلا لها فلا تنعقد صلاته وإن تبين أن لا خلل لعدم صحة القدوة في الظاهر للتردد عندها قوله فبان خلافه أى ظهر له خلاف ما ظنه.",
+      "translation": "(Ucapan: Jika bermakmum kepada orang yang disangka ahli dalam imamah) dikecualikan darinya jika dia menyangka imam tersebut bukan ahlinya, maka shalatnya tidak sah meskipun ternyata tidak ada cacat, karena tidak sahnya bermakmum secara lahiriah akibat keraguan saat itu. Ucapan 'lalu nampak sebaliknya' artinya nampak baginya hal yang berbeda dari sangkaannya."
+    },
+    {
+      "title": "Tinjauan Linguistik Terhadap Kata 'Bana'",
+      "titleArabic": "تنبيه في إعراب بان",
+      "arabic": "(تنبيه) وقع خلاف فى بان فقيل هي من أخوات كان والمنصوب بعدها خبرها وقيل إنها ليست من أخوات كان والمنصوب بعدها إما تمييز محول عن الفاعل أى بان أميته أو كفره أو زندقته مثلا أو منصوب على الحال.",
+      "translation": "(Peringatan) Terjadi perbedaan pendapat mengenai kata 'bana' (nampak). Ada yang mengatakan ia termasuk saudara 'kana' dan isim manshub setelahnya adalah khabar-nya. Ada juga yang berpendapat ia bukan saudara 'kana', dan isim manshub setelahnya adalah tamyiz yang dipindahkan dari fa'il (subjek), misalnya 'bana ummiyatu-hu' (nampak ke-ummi-annya), atau manshub sebagai hal (keterangan keadaan)."
+    }
+  ]
+}
