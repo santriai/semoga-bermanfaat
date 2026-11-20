@@ -1,13 +1,20 @@
 {
   "profile": {
-    "name": "بقرآن يبطل الصلاة مع العلم والتعمد كما مر قوله) نعم إن ضاق الوقت أى على من أمكنه  التعلم وتركه قال ع ش ومفهومه أنه لا يصلى ما دام الوقت واسعا وظاهره وإن أيس ممن يعلمه  وقياس ما فى التيمم من أن فاقد الطهورين إن لم يرج الماء صلى فى أول الوقت أنه هنا كذلك إلا  أن يفرق بأن فقد الطهورين من أصله لا اختيار للمكلف فيه بخلاف ترك التعلم فإن المكلف",
-    "originalTitle": "Tidak teridentifikasi sebagai judul kitab (merupakan kutipan teks dari kitab Hasyiyah Fiqih Syafi'iyyah)",
-    "author": "Tidak dapat dipastikan secara tunggal karena input berupa potongan teks hasyiyah (memuat nukilan dari 'ع ش' / Ali al-Syabramallisi, w. 1087 H, yang lazim dikutip dalam Hasyiyah al-Bujairimi atau Hasyiyah al-Jamal)",
-    "field": "Fiqih Mazhab Syafi'i (Bab Shalat / Hukum Orang yang Tidak Mampu Membaca Al-Fatihah)",
-    "about": "Teks yang dimasukkan pada kolom nama kitab bukanlah judul suatu kitab turath, melainkan penggalan paragraf dari kitab syarah atau hasyiyah fiqih mazhab Syafi'i mengenai hukum orang yang tidak hafal Al-Fatihah/Al-Qur'an, kewajiban belajar saat waktu shalat masih luas, serta perbedaan qiyas dengan faqid al-thahurayn ketika waktu shalat sempit. Karena judul kitab induk tidak ditentukan secara jelas—dan kitab-kitab hasyiyah tersebut berukuran sangat besar (berjilid-jilid) sehingga tidak memungkinkan untuk disajikan teks Arab berharakat lengkap beserta terjemahan 50-70 bab secara utuh dan akurat tanpa risiko fabrikasi—maka daftar bab tidak dapat dihasilkan. Silakan masukkan judul kitab yang spesifik dan ringkas (misalnya Safinatun Najah, Matan Abi Syuja', atau Sulamut Taufiq) apabila ingin memperoleh struktur bab secara sistematis.",
-    "authorBorn": "Tidak diketahui (judul kitab spesifik tidak tercantum)",
-    "authorDied": "Tidak diketahui (penukil 'ع ش' yakni Ali al-Syabramallisi wafat tahun 1087 H / 1676 M)",
-    "authorCentury": "Abad ke-11 H ke atas (merujuk pada penyebutan 'ع ش')"
+    "name": "Potongan Teks (Hasyiyah Fiqih Syafi'i - Tanpa Judul Kitab Spesifik)",
+    "originalTitle": "غير محدد (مقتطف من حاشية فقهية شافعية)",
+    "author": "Tidak dapat dipastikan secara tunggal dari potongan teks ini (dalam teks dikutip 'ع ش' yaitu Syekh Ali al-Syabramallisi, w. 1087 H)",
+    "field": "Fiqih Mazhab Syafi'i (Bab Shifat al-Shalah / Qira'ah al-Fatihah)",
+    "about": "Input yang diberikan bukan merupakan judul kitab, melainkan potongan kalimat dari tengah pembahasan sebuah kitab Hasyiyah (komentar lanjutan) dalam mazhab Syafi'i. Potongan tersebut mengutip pendapat 'ع ش' (Nuruddin Ali al-Syabramallisi) mengenai hukum seseorang yang mampu mempelajari bacaan shalat (al-Fatihah) namun meninggalkannya hingga waktu shalat menjadi sempit, serta perbandingannya dengan kasus faqid al-thahurain dalam bab tayamum. Karena judul kitab induk maupun hasyiyahnya tidak disebutkan secara pasti (kutipan serupa tersebar dalam karya muta'akhkhirin seperti Hasyiyah al-Bujairimi, Hasyiyah al-Jamal, atau Hasyiyah al-Syarwani) dan kitab-kitab hasyiyah tersebut berjumlah berjilid-jilid, maka teks matan lengkap 50-70 bab dengan harakat penuh tidak dapat dihadirkan secara autentik tanpa mengarang teks.",
+    "authorBorn": "Tidak diketahui (judul kitab spesifik belum teridentifikasi)",
+    "authorDied": "Tidak diketahui (kutipan merujuk pada Ali al-Syabramallisi yang wafat 1087 H / 1676 M, sehingga pengarang hasyiyah ini hidup pada abad ke-11 H atau setelahnya)",
+    "authorCentury": "Abad ke-11 hingga ke-13 Hijriah (berdasarkan kutipan terhadap ع ش)"
   },
-  "chapters": []
+  "chapters": [
+    {
+      "title": "Keterangan Keterbatasan Sumber dan Analisis Potongan Teks yang Diberikan",
+      "titleArabic": "توضيح حول النص المقتطف وتعذر استيفاء الكتاب كاملا",
+      "arabic": "بقرآن يبطل الصلاة مع العلم والتعمد كما مر قوله) نعم إن ضاق الوقت أى على من أمكنه التعلم وتركه قال ع ش ومفهومه أنه لا يصلى ما دام الوقت واسعا وظاهره وإن أيس ممن يعلمه وقياس ما فى التيمم من أن فاقد الطهورين إن لم يرج الماء صلى فى أول الوقت أنه هنا كذلك إلا أن يفرق بأن فقد الطهورين من أصله لا اختيار للمكلف فيه بخلاف ترك التعلم فإن المكلف",
+      "translation": "Terjemahan potongan teks input: '...dengan al-Qur'an (yang bukan pada tempatnya) membatalkan shalat apabila dilakukan dengan mengetahui dan sengaja sebagaimana telah berlalu. (Perkataannya): Ya, apabila waktu telah sempit—yakni bagi orang yang sebenarnya mampu belajar namun meninggalkannya. Berkata 'Ayn Syin (Ali al-Syabramallisi): Mafhum (pemahaman tersirat) dari hal itu adalah bahwa ia tidak boleh shalat selama waktu masih lapang. Lahiriahnya berlaku meskipun ia putus asa untuk menemukan orang yang dapat mengajarinya. Berdasarkan qiyas terhadap masalah dalam bab tayamum mengenai orang yang tidak mendapati dua alat bersuci (faqid al-thahurain) bahwa jika ia tidak berharap mendapati air maka ia shalat di awal waktu, semestinya di sini juga demikian; hanya saja dapat dibedakan bahwa ketiadaan dua alat bersuci sejak awal bukanlah pilihan mukallaf, berbeda dengan meninggalkan belajar karena sesungguhnya mukallaf (memiliki pilihan/upaya dalam hal itu)...'. Catatan Pustakawan: Untuk menghasilkan daftar bab lengkap dengan teks Arab asli berharakat penuh dan terjemahan akurat sesuai standar pesantren, mohon cantumkan judul kitab yang spesifik (misalnya Safinatun Najah, Fathul Qarib, atau Hasyiyah tertentu secara spesifik)."
+    }
+  ]
 }
