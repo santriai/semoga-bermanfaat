@@ -1,0 +1,58 @@
+{
+  "arabic": "تَوْرَاةٌ",
+  "arabicHarokat": "تَوْرَاةٌ - تَوْرَاتَانِ - تَوْرَاتَاتٌ",
+  "latin": "Taurat",
+  "wordType": "isim",
+  "wordTypeIndo": "Isim Jamid (bukan turunan), Isim Muannats, Mufrad",
+  "root": "و - ر - ي",
+  "wazan": "فَوْعَلَةٌ",
+  "page": "235",
+  "referenceBook": "Kamus Al-Munawwir Arab-Indonesia Terlengkap (Krapyak)",
+  "referenceUrl": "https://archive.org/details/kamus-al-munawwir-arab-indonesia",
+  "tashrifBrief": {
+    "madhi": "-",
+    "mudhari": "-",
+    "mashdar": "-",
+    "fail": "-",
+    "maful": "-",
+    "amr": "-",
+    "nahyi": "-"
+  },
+  "singular": "تَوْرَاةٌ",
+  "plural": "تَوْرَاتَاتٌ",
+  "gender": "muannats",
+  "transitivity": "-",
+  "meanings": [
+    "Taurat (Kitab suci yang diturunkan kepada Nabi Musa AS)",
+    "Syariat atau hukum yang diturunkan kepada Bani Israil",
+    "Secara etimologis sering dikaitkan dengan akar kata 'Wara'a' (menampakkan/menerangi) atau serapan dari bahasa Ibrani 'Torah' yang berarti pengajaran atau hukum"
+  ],
+  "contextualMeanings": [
+    {
+      "preposition": "N/A",
+      "arabicPhrase": "أَهْلُ التَّوْرَاةِ",
+      "meaning": "Kaum atau pengikut yang berpegang pada kitab Taurat"
+    }
+  ],
+  "examples": [
+    {
+      "arabic": "إِنَّا أَنْزَلْنَا التَّوْرَاةَ فِيهَا هُدًى وَنُورٌ",
+      "latin": "Inna anzalnat-taurata fiha hudan wa nurun",
+      "translation": "Sesungguhnya Kami telah menurunkan Kitab Taurat, di dalamnya (ada) petunjuk dan cahaya.",
+      "context": "QS. Al-Ma'idah: 44"
+    }
+  ],
+  "synonyms": [
+    "كِتَابُ مُوسَى",
+    "الشَّرِيعَةُ"
+  ],
+  "antonyms": [],
+  "derivedWords": [
+    {
+      "arabic": "تَوْرَاتِيٌّ",
+      "meaning": "Berkaitan dengan Taurat (Taurati)",
+      "type": "Isim Mansub"
+    }
+  ],
+  "notes": "Kata 'Taurat' dalam bahasa Arab merupakan kata serapan (mu'arrab) dari bahasa Ibrani 'Torah'. Dalam kaidah penulisan Arab, ia diakhiri dengan ta' marbuthah yang menunjukkan muannats. Secara teologis, Taurat adalah salah satu dari empat kitab utama yang wajib diimani oleh umat Islam."
+}
