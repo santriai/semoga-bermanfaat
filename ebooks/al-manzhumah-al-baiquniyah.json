@@ -1,0 +1,122 @@
+{
+  "profile": {
+    "name": "Al-Manzhumah Al-Baiquniyah",
+    "originalTitle": "المنظومة البيقونية في مصطلح الحديث",
+    "author": "Umar bin Muhammad bin Futuh al-Baiquni",
+    "field": "Musthalah al-Hadits (Ilmu Hadits)",
+    "about": "Al-Manzhumah al-Baiquniyah adalah kitab nazham (syair) klasik yang sangat populer dalam disiplin ilmu Musthalah al-Hadits di kalangan pesantren. Kitab ini meringkas kaidah-kaidah pokok periwayatan hadits ke dalam 34 bait syair yang padat dan sistematis. Meskipun ringkas, kitab ini mencakup pembagian hadits secara komprehensif, mulai dari hadits shahih, hasan, dhaif, hingga terminologi perawi dan sanad. Keberadaannya menjadi pintu gerbang utama bagi para penuntut ilmu dalam memahami kriteria keabsahan sebuah hadits. Karena urgensinya, kitab ini telah disyarah (diberi penjelasan) oleh banyak ulama besar sepanjang sejarah.",
+    "authorBorn": "Tidak diketahui secara mendetail",
+    "authorDied": "1080 H",
+    "authorCentury": "Abad ke-11 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah",
+      "titleArabic": "مقدمة",
+      "arabic": "أَبْدَأُ بِالْحَمْدِ مُصَلِّيًا عَلَى ... مُحَمَّدٍ خَيْرِ نَبِيٍّ أُرْسِلَا",
+      "translation": "Aku memulai (kitab ini) dengan memuji Allah, seraya bershalawat kepada Nabi Muhammad, sebaik-baik nabi yang diutus."
+    },
+    {
+      "title": "Pembagian Hadits Pertama",
+      "titleArabic": "أقسام الحديث",
+      "arabic": "وَذِي مِنَ أَقْسَامِ الْحَدِيثِ عِدَّةْ ... وَكُلُّ وَاحِدٍ أَتَى وَحَدَّهْ",
+      "translation": "Ini adalah bagian-bagian hadits yang jumlahnya banyak, dan setiap bagian telah datang dengan definisi (batasan)-nya masing-masing."
+    },
+    {
+      "title": "Hadits Shahih",
+      "titleArabic": "الحديث الصحيح",
+      "arabic": "أَوَّلُهَا الصَّحِيحُ وَهْوَ مَا اتَّصَلْ ... إِسْنَادُهُ وَلَمْ يُشَذَّ أَوْ يُعَلّْ",
+      "translation": "Pertama adalah Hadits Shahih, yaitu hadits yang bersambung sanadnya, tidak syadz (ganjil), dan tidak memiliki 'illah (cacat)."
+    },
+    {
+      "title": "Hadits Hasan",
+      "titleArabic": "الحديث الحسن",
+      "arabic": "يَرْوِيهِ عَدْلٌ ضَابِطٌ عَنْ مِثْلِهِ ... مُعْتَمَدٌ فِي ضَبْطِهِ وَنَقْلِهِ",
+      "translation": "Yang diriwayatkan oleh perawi yang adil dan dhabith (kuat hafalannya) dari perawi yang semisal dengannya, serta terpercaya dalam hafalan dan periwayatannya."
+    },
+    {
+      "title": "Hadits Hasan",
+      "titleArabic": "الحديث الحسن (تابع)",
+      "arabic": "وَالْحَسَنُ الْمَعْرُوفُ طُرْقًا وَغَدَتْ ... رِجَالُهُ لَا كَالصَّحِيحِ اشْتَهَرَتْ",
+      "translation": "Dan Hadits Hasan adalah hadits yang jalurnya dikenal, namun perawi-perawinya tidak mencapai derajat kemasyhuran seperti perawi hadits shahih."
+    },
+    {
+      "title": "Hadits Mudraj",
+      "titleArabic": "الحديث المدرج",
+      "arabic": "وَكُلُّ مَا عَنْ رُتْبَةِ الْحُسْنِ قَصُرْ ... فَهْوَ الضَّعِيفُ وَهْوَ أَقْسَامًا كُثُرْ",
+      "translation": "Dan setiap hadits yang derajatnya di bawah Hasan, maka ia disebut Hadits Dhaif, dan ia memiliki banyak bagian."
+    },
+    {
+      "title": "Hadits Musnad",
+      "titleArabic": "الحديث المسند",
+      "arabic": "وَمَا أُضِيفَ لِلنَّبِيِّ الْمَرْفُوعُ ... وَمَا لِتَابِعٍ هُوَ الْمَقْطُوعُ",
+      "translation": "Hadits yang disandarkan kepada Nabi disebut Marfu', dan yang disandarkan kepada Tabi'in disebut Maqthu'."
+    },
+    {
+      "title": "Hadits Mursal",
+      "titleArabic": "الحديث المرسل",
+      "arabic": "وَالْمُرْسَلُ مِنْهُ الصَّحَابِيُّ سَقَطْ ... وَقُلْ غَرِيبٌ مَا رَوَى رَاوٍ فَقَطْ",
+      "translation": "Hadits Mursal adalah hadits yang gugur perawi sahabatnya. Dan katakanlah Gharib adalah hadits yang hanya diriwayatkan oleh seorang perawi saja."
+    },
+    {
+      "title": "Hadits Musnad, Muttashil, dan Mutawatir",
+      "titleArabic": "المسند والمتصل والمتواتر",
+      "arabic": "وَكُلُّ مَا قَلَّتْ رُوَاتُهُ (...) وَالْمُسْنَدُ الْمُتَّصِلُ الْإِسْنَادِ مِنْ ... رَاوِيهِ حَتَّى الْمُصْطَفَى وَلَمْ يَبِنْ",
+      "translation": "Hadits Musnad adalah hadits yang bersambung sanadnya dari perawinya sampai kepada Nabi tanpa ada yang terputus."
+    },
+    {
+      "title": "Hadits Mutawatir",
+      "titleArabic": "الحديث المتواتر",
+      "arabic": "وَمَا بِسَمْعِ كُلِّ رَاوٍ يَتَّصِلُ ... إِسْنَادُهُ لِلْمُصْطَفَى فَالْمُتَّصِلُ",
+      "translation": "Hadits yang bersambung sanadnya melalui pendengaran setiap perawi hingga sampai kepada Nabi, itulah hadits Muttashil."
+    },
+    {
+      "title": "Hadits Aziz",
+      "titleArabic": "الحديث العزيز",
+      "arabic": "وَالْعَزِيزُ مَرْوِيُّ اثْنَيْنِ أَوْ ثَلَاثَهْ ... مَشْهُورٌ مَرْوِيُّ فَوْقَ مَا ثَلَاثَهْ",
+      "translation": "Hadits Aziz adalah hadits yang diriwayatkan oleh dua atau tiga perawi. Hadits Masyhur adalah hadits yang diriwayatkan lebih dari tiga perawi."
+    },
+    {
+      "title": "Hadits Mu'an'an dan Mubham",
+      "titleArabic": "المعنعن والمبهم",
+      "arabic": "وَالْمُعَنْعَنُ كَسَعِيدٍ عَنْ كَرَمْ ... وَمُبْهَمٌ مَا فِيهِ رَاوٍ لَمْ يُسَمّْ",
+      "translation": "Hadits Mu'an'an seperti (perkataan) 'dari Sa'id dari Karam'. Hadits Mubham adalah hadits yang di dalamnya terdapat perawi yang tidak disebutkan namanya."
+    },
+    {
+      "title": "Hadits Mu'allaq",
+      "titleArabic": "الحديث المعلق",
+      "arabic": "وَكُلُّ مَا قُلْتَ رِجَالُهُ عَلَى ... حَذْفٍ فَمُعَلَّقٌ كَمَا عَلَى وَلَا",
+      "translation": "Setiap hadits yang kamu dapati perawinya dibuang (di awal sanad), maka ia disebut Mu'allaq."
+    },
+    {
+      "title": "Hadits Mudallas",
+      "titleArabic": "الحديث المدلس",
+      "arabic": "وَإِنْ تُدُلِّسَ فِيهِ بَعْضُ رِجَالِ ... فَكُلُّ مَا تَفَرَّدَ بِهِ الْوَصْلُ مُعَالِ",
+      "translation": "Dan jika di dalamnya terdapat tadlis (penyamaran) oleh sebagian perawi..."
+    },
+    {
+      "title": "Hadits Syadz dan Maqlub",
+      "titleArabic": "الشاذ والمقلوب",
+      "arabic": "وَالشَّاذُّ مَّا بِخِلَافِ الثِّقَةِ اتَى ... وَالْمَقْلُوبُ قَسْمَانِ بِقَلْبٍ قَدْ حَوَى",
+      "translation": "Hadits Syadz adalah hadits yang datang menyalahi periwayatan orang yang tsiqah. Hadits Maqlub terbagi menjadi dua bagian yang mengandung pembalikan."
+    },
+    {
+      "title": "Hadits Mudraj (Lanjutan)",
+      "titleArabic": "الحديث المدرج",
+      "arabic": "وَالْمُدْرَجُ بَعْضُ مَتْنٍ لَا مَزِيدْ ... وَالْفَرْدُ مَا قَيْدُهُ بِالْقَيْدِ يَزِيدْ",
+      "translation": "Hadits Mudraj adalah penambahan ke dalam sebagian matan bukan karena asalnya. Hadits Fard adalah hadits yang dibatasi dengan tambahan riwayat."
+    },
+    {
+      "title": "Hadits Ma'lul dan Mudtharib",
+      "titleArabic": "المعلول والمضطرب",
+      "arabic": "وَالْمَعْلُولُ مَا فِيهِ عِلَّةٌ ... وَالْمُضْطَرِبُ مَا اخْتَلَفُوا فِي نَقْلِهِ",
+      "translation": "Hadits Ma'lul adalah hadits yang di dalamnya terdapat cacat. Hadits Mudhtharib adalah hadits yang para perawinya berselisih dalam periwayatannya."
+    },
+    {
+      "title": "Hadits Mawdhu' dan Khatimah",
+      "titleArabic": "الموضوع والخاتمة",
+      "arabic": "وَالْمَوْضُوعُ هُوَ الْمُخْتَلَقُ الْمَصْنُوعُ ... وَالْحَمْدُ لِلَّهِ عَلَى الْخِتَامِ",
+      "translation": "Hadits Mawdhu' adalah hadits yang dibuat-buat (dusta atas nama Nabi). Segala puji bagi Allah atas penyelesaian kitab ini."
+    }
+  ]
+}
