@@ -1,0 +1,97 @@
+{
+  "status": "incomplete_request",
+  "message": "Saya tidak dapat menghasilkan teks Arab lengkap kata demi kata (verbatim) beserta harakat penuh dan terjemahan seluruh kitab Syarh Al-Waraqat secara utuh dari ingatan tanpa merujuk pada naskah sumber yang terverifikasi, karena berisiko menimbulkan kesalahan redaksi matan, syarah, maupun syakal. Selain itu, Syarh Al-Waraqat adalah kitab ringkas (mukhtashar) yang struktur aslinya hanya terdiri dari sekitar 20 bab utama, sehingga tidak memiliki 50-70 bab. Jika Anda menyertakan teks Arab kitab ini per bagian, saya dapat membantu memberikan harakat yang tepat, analisis struktur, serta terjemahan akurat dalam format JSON.",
+  "profile": {
+    "name": "Syarh Al-Waraqat",
+    "originalTitle": "شَرْحُ الْوَرَقَاتِ فِي أُصُولِ الْفِقْهِ",
+    "author": "Al-Imam Jalaluddin Abu 'Abdillah Muhammad bin Ahmad al-Mahalli al-Syafi'i",
+    "field": "Ushul Fiqih (أُصُولُ الْفِقْهِ)",
+    "about": "Syarh Al-Waraqat karya Imam Jalaluddin al-Mahalli merupakan salah satu kitab syarah (komentar) yang paling populer dan banyak dipelajari di pesantren terhadap matan Al-Waraqat karya Imam al-Haramain al-Juwayni. Kitab ini disusun dengan metode syarah mamzuj, yaitu menggabungkan langsung teks matan dan penjelasannya dalam satu alur kalimat yang ringkas dan padat. Di dalamnya dibahas kaidah-kaidah dasar ilmu ushul fiqih mulai dari definisi hukum syariat, kaidah kebahasaan seperti amr, nahy, 'amm, dan khass, hingga sumber hukum seperti ijma' dan qiyas. Karena kejelasan bahasanya, kitab ini menjadi rujukan utama tingkat dasar-menengah sebelum mempelajari kitab ushul fiqih yang lebih luas seperti Jam'ul Jawami'. Karya ini juga melahirkan banyak hasyiyah (catatan pinggir) dari ulama muta'akhkhirin, seperti Hasyiyah al-Dimyathi.",
+    "authorBorn": "791 H / 1389 M di Kairo, Mesir",
+    "authorDied": "864 H / 1459 M di Kairo, Mesir",
+    "authorCentury": "Abad ke-9 H / Abad ke-15 M"
+  },
+  "authenticChapterOutline": [
+    {
+      "title": "Muqaddimah dan Definisi Ushul Fiqih",
+      "titleArabic": "الْمُقَدِّمَةُ وَتَعْرِيفُ أُصُولِ الْفِقْهِ"
+    },
+    {
+      "title": "Pembagian Hukum-Hukum Syariat",
+      "titleArabic": "أَقْسَامُ الْأَحْكَامِ الشَّرْعِيَّةِ"
+    },
+    {
+      "title": "Definisi Fiqih, Ilmu, Jahl, Zhann, dan Syakk",
+      "titleArabic": "تَعْرِيفُ الْفِقْهِ وَالْعِلْمِ وَالْجَهْلِ وَالظَّنِّ وَالشَّكِّ"
+    },
+    {
+      "title": "Pembagian Kalam dan Makna Lafal",
+      "titleArabic": "أَقْسَامُ الْكَلَامِ"
+    },
+    {
+      "title": "Bab Perintah (Al-Amr)",
+      "titleArabic": "بَابُ الْأَمْرِ"
+    },
+    {
+      "title": "Bab Larangan (Al-Nahy)",
+      "titleArabic": "بَابُ النَّهْيِ"
+    },
+    {
+      "title": "Bab Lafal Umum (Al-'Amm)",
+      "titleArabic": "بَابُ الْعَامِّ"
+    },
+    {
+      "title": "Bab Lafal Khusus dan Pengkhususan (Al-Khass wa al-Takhshish)",
+      "titleArabic": "بَابُ الْخَاصِّ وَالتَّخْصِيصِ"
+    },
+    {
+      "title": "Bab Mujmal dan Mubayyan",
+      "titleArabic": "بَابُ الْمُجْمَلِ وَالْمُبَيَّنِ"
+    },
+    {
+      "title": "Bab Zhahir dan Mu'awwal",
+      "titleArabic": "بَابُ الظَّاهِرِ وَالْمُؤَوَّلِ"
+    },
+    {
+      "title": "Bab Perbuatan Nabi Muhammad SAW (Al-Af'al)",
+      "titleArabic": "بَابُ الْأَفْعَالِ"
+    },
+    {
+      "title": "Bab Penghapusan Hukum (Al-Naskh)",
+      "titleArabic": "بَابُ النَّسْخِ"
+    },
+    {
+      "title": "Bab Pertentangan Dalil (Al-Ta'arud)",
+      "titleArabic": "بَابُ التَّعَارُضِ"
+    },
+    {
+      "title": "Bab Konsensus Ulama (Al-Ijma')",
+      "titleArabic": "بَابُ الْإِجْمَاعِ"
+    },
+    {
+      "title": "Bab Riwayat Hadis (Al-Akhbar)",
+      "titleArabic": "بَابُ الْأَخْبَارِ"
+    },
+    {
+      "title": "Bab Analogi Hukum (Al-Qiyas)",
+      "titleArabic": "بَابُ الْقِيَاسِ"
+    },
+    {
+      "title": "Bab Larangan dan Kebolehan (Al-Hazhr wa al-Ibahah)",
+      "titleArabic": "بَابُ الْحَظْرِ وَالْإِبَاحَةِ"
+    },
+    {
+      "title": "Bab Urutan Dalil-Dalil (Tartib al-Adillah)",
+      "titleArabic": "بَابُ تَرْتِيبِ الْأَدِلَّةِ"
+    },
+    {
+      "title": "Bab Sifat dan Syarat Mufti serta Mustafti",
+      "titleArabic": "بَابُ صِفَةِ الْمُفْتِي وَالْمُسْتَفْتِي"
+    },
+    {
+      "title": "Bab Hukum-Hukum Mujtahid dan Khatimah",
+      "titleArabic": "بَابُ أَحْكَامِ الْمُجْتَهِدِينَ"
+    }
+  ],
+  "chapters": []
+}
