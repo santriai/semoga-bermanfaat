@@ -1,8 +1,12 @@
 {
-  "name": "Al-Arba'in an-Nawawiyyah",
+  "id": "arbain-nawawi",
+  "name": "Al-Arba'in An-Nawawiyyah",
   "author": "Imam an-Nawawi",
-  "desc": "Kumpulan 42 hadits paling fundamental dalam ajaran Islam.",
+  "year": "w. 676 H",
+  "desc": "42 hadits pokok agama pilihan Imam an-Nawawi: niat, iman, halal-haram, adab. Matan Arab berharakat, isinya bisa dicari.",
   "category": "hadits",
-  "sourceType": "AI_DISCOVERY",
-  "_generated_at": "2026-05-26T06:41:23.016Z"
+  "sourceCategory": "hadits",
+  "sourceCategoryLabel": "Hadits",
+  "sourceType": "CURATED_CATALOG",
+  "_generated_at": "2026-11-23T01:35:35.730Z"
 }
