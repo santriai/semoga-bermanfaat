@@ -1,0 +1,44 @@
+{
+  "profile": {
+    "name": "Al-Itqan fi Ulumil Qur'an",
+    "originalTitle": "الإتقان في علوم القرآن",
+    "author": "Jalaluddin as-Suyuthi (Abdurrahman bin Abu Bakar)",
+    "field": "Ulumul Qur'an",
+    "about": "Kitab ini merupakan ensiklopedia terlengkap dalam bidang ilmu-ilmu Al-Qur'an. Disusun oleh Imam as-Suyuthi sebagai penyempurna dan ringkasan dari karya-karya sebelumnya seperti 'Al-Burhan' karya Az-Zarkasyi. Kitab ini membahas segala aspek yang berkaitan dengan Al-Qur'an, mulai dari sebab turunnya ayat hingga perdebatan teologis. Karya ini menjadi rujukan utama bagi para akademisi dan santri di seluruh dunia Islam. Kedalaman analisisnya menjadikan kitab ini otoritatif dalam membedah mukjizat Al-Qur'an dari sisi linguistik maupun hukum.",
+    "authorBorn": "1445 M / 849 H",
+    "authorDied": "1505 M / 911 H",
+    "authorCentury": "Abad ke-9 dan 10 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah",
+      "titleArabic": "مقدمة",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَنْزَلَ الْقُرْآنَ كَلَامًا مَجِيدًا، وَيَسَّرَهُ لِلذِّكْرِ فَلَا يَجِدُ ذُو عُدُولٍ عَنْهُ مَحِيدًا. وَالصَّلَاةُ وَالسَّلَامُ عَلَى سَيِّدِنَا مُحَمَّدٍ الَّذِي أُوتِيَ جَوَامِعَ الْكَلِمِ، وَعَلَى آلِهِ وَأَصْحَابِهِ أَهْلِ الْعِلْمِ وَالْحِلْمِ.",
+      "translation": "Segala puji bagi Allah yang telah menurunkan Al-Qur'an sebagai kalam yang mulia, dan memudahkan (pelajaran) untuk diingat, sehingga tidak ada orang yang berpaling darinya. Shalawat dan salam semoga tercurah kepada junjungan kita Muhammad yang dianugerahi kemampuan berbicara yang singkat namun padat, serta kepada keluarga dan sahabatnya yang ahli ilmu dan santun."
+    },
+    {
+      "title": "Bab 1: Mengetahui Makki dan Madani",
+      "titleArabic": "النوع الأول: معرفة المكي والمدني",
+      "arabic": "فِي الْمَكِّيِّ وَالْمَدَنِيِّ: وَقَدْ أَوْرَدَ الْعُلَمَاءُ فِي ذَلِكَ أَقْوَالًا، أَحَدُهَا: الْمَكِّيُّ مَا نَزَلَ قَبْلَ الْهِجْرَةِ، وَالْمَدَنِيُّ مَا نَزَلَ بَعْدَهَا، وَإِنْ نَزَلَ بِغَيْرِ الْمَدِينَةِ.",
+      "translation": "Tentang Makki dan Madani: Para ulama menyampaikan beberapa pendapat. Salah satunya: Makki adalah apa yang turun sebelum hijrah, dan Madani adalah apa yang turun setelahnya, meskipun (tempat turunnya) bukan di Madinah."
+    },
+    {
+      "title": "Bab 2: Mengetahui Safar dan Hadhar",
+      "titleArabic": "النوع الثاني: معرفة الحضر والسفر",
+      "arabic": "مَعْرِفَةُ مَا نَزَلَ حَضَرًا وَمَا نَزَلَ سَفَرًا. وَهَذَا نَوْعٌ مُهِمٌّ، فَإِنَّهُ يُفِيدُ تَمْيِيزَ مَا نَزَلَ فِي الْأَسْفَارِ وَمَا نَزَلَ فِي الْإِقَامَةِ.",
+      "translation": "Mengetahui apa yang turun saat menetap (hadhar) dan saat bepergian (safar). Ini adalah cabang ilmu yang penting, karena bermanfaat untuk membedakan apa yang turun selama perjalanan dan apa yang turun saat menetap di satu tempat."
+    },
+    {
+      "title": "Bab 3: Mengetahui Waktu Penurunan (Zaman)",
+      "titleArabic": "النوع الثالث: معرفة أوقات النزول",
+      "arabic": "وَهُوَ مَعْرِفَةُ الْأَوْقَاتِ الَّتِي نَزَلَ فِيهَا الْقُرْآنُ، فَمِنْهُ مَا نَزَلَ لَيْلًا، وَمِنْهُ مَا نَزَلَ نَهَارًا، وَمِنْهُ مَا نَزَلَ فِي الصَّيْفِ وَالشِّتَاءِ.",
+      "translation": "Yaitu mengetahui waktu-waktu turunnya Al-Qur'an. Di antaranya ada yang turun pada malam hari, ada yang pada siang hari, dan ada yang turun saat musim panas atau musim dingin."
+    },
+    {
+      "title": "Bab 4: Mengetahui Tempat Penurunan (Makan)",
+      "titleArabic": "النوع الرابع: معرفة أماكن النزول",
+      "arabic": "وَهُوَ مَعْرِفَةُ الْأَمَاكِنِ الَّتِي نَزَلَ فِيهَا الْوَحْيُ، فَأَغْلَبُهُ نَزَلَ بِمَكَّةَ وَالْمَدِينَةِ، وَبَعْضُهُ بَعِيدًا عَنْهُمَا كَبَيْتِ الْمَقْدِسِ وَغَيْرِهَا.",
+      "translation": "Yaitu mengetahui tempat-tempat turunnya wahyu. Sebagian besar turun di Makkah dan Madinah, sebagian lainnya di luar keduanya, seperti Baitul Maqdis dan tempat lainnya."
+    }
+  ]
+}
