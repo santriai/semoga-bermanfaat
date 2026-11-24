@@ -1,0 +1,44 @@
+{
+  "profile": {
+    "name": "Al-Manzhumah al-Shabrawiyyah",
+    "originalTitle": "المنظومة الصبراوية",
+    "author": "Syaikh Jamaluddin al-Shabrawi",
+    "field": "Ilmu Nahwu (Tata Bahasa Arab)",
+    "about": "Kitab Al-Manzhumah al-Shabrawiyyah merupakan sebuah karya fenomenal berbentuk nazham (puisi) yang disusun untuk mempermudah santri dalam mempelajari kaidah-kaidah dasar ilmu Nahwu. Karya ini ringkas namun padat, mencakup prinsip-prinsip krusial dalam tata bahasa Arab seperti i'rab, tanda-tanda i'rab, dan pembagian kalimat. Syaikh al-Shabrawi berhasil merangkum kompleksitas teori bahasa Arab ke dalam bait-bait yang mudah dihafal oleh para penuntut ilmu di berbagai pesantren. Kitab ini sering dijadikan materi pengantar atau penguat sebelum mengkaji kitab-kitab Nahwu yang lebih besar seperti Jurumiyah atau Mutammimah. Penggunaannya sangat populer di kalangan pelajar pemula karena sistematikanya yang runtut dan bahasanya yang jelas.",
+    "authorBorn": "Mesir",
+    "authorDied": "Abad ke-12 Hijriah",
+    "authorCentury": "Abad ke-12 H"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah",
+      "titleArabic": "بَابُ الْمُقَدِّمَةِ",
+      "arabic": "بِسْمِ الإِلهِ بَدْءَ كُلِّ سُورَةٍ، وَمُسْتَعِينًا بِمُهَيْمِنٍ وَبَارِئٍ. نَظَمْتُ أَبْيَاتًا بَدِيعَ شَأْنِهَا، فِي النَّحْوِ تَهْدِي كُلَّ ذِي إِيمَانِ.",
+      "translation": "Dengan menyebut nama Allah, sebagai pembuka setiap surat. Serta memohon pertolongan kepada Dzat Yang Maha Mengawasi dan Maha Pencipta. Aku menyusun bait-bait yang indah urusannya, dalam ilmu Nahwu yang menuntun setiap orang yang beriman."
+    },
+    {
+      "title": "Pembagian Kalimat",
+      "titleArabic": "بَابُ أَقْسَامِ الْكَلِمَةِ",
+      "arabic": "وَالْكَلِمَةُ اسْمٌ ثُمَّ فِعْلٌ ثُمَّ حَرْفٌ، كَذَا حَوَتْ نُصُوصُ أَهْلِ الْعِرْفَانِ. فَالِاسْمُ بِالْخَفْضِ وَبِالتَّنْوِينِ عُرِفْ، وَبِدُخُولِ أَلْ أَوْ حَرْفِ الْجَرِّ فِيهِ بَانِ.",
+      "translation": "Kalimat itu terbagi menjadi Isim, Fi'il, dan Huruf, sebagaimana teks para ahli makrifat. Isim dapat dikenali dengan adanya khafadh (jer), tanwin, masuknya alif-lam, atau masuknya huruf jar ke dalamnya."
+    },
+    {
+      "title": "Tanda-Tanda I'rab",
+      "titleArabic": "بَابُ عَلَامَاتِ الإِعْرَابِ",
+      "arabic": "وَارْفَعْ بِضَمٍّ وَانْصِبَنْ بِفَتْحَةٍ، وَاجْزِمْ بِسُكُونٍ يَا أُولِي الْإِحْسَانِ. وَاجْرُرْ بِكَسْرٍ وَهْيَ أَرْبَعٌ أَتَتْ، فِي النَّحْوِ حُكْمًا لَازِمًا لِلتِّبْيَانِ.",
+      "translation": "Rofa'kanlah dengan dhommah, nashabkanlah dengan fathah, dan jazmkanlah dengan sukun wahai orang yang berbuat baik. Dan jer-kanlah dengan kasrah. Itulah empat tanda yang datang dalam ilmu Nahwu sebagai hukum yang wajib dijelaskan."
+    },
+    {
+      "title": "Fi'il Mudhari",
+      "titleArabic": "بَابُ الْفِعْلِ الْمُضَارِعِ",
+      "arabic": "وَكُلُّ فِعْلٍ بَادِئٍ بِأَحْرُفِ، نَأَيْتَ قَدْ يُسَمَّى بِالْمُضَارِعِ الْآتِي. وَيُعْرَبُ الْفِعْلُ إِذَا مَا جُرِّدَا، عَنْ نُونِ تَوْكِيدٍ وَعَنْ نُونِ الْإِنَاثِ.",
+      "translation": "Setiap fi'il yang diawali dengan huruf (hamzah, nun, ya, ta) yang terkumpul dalam kata 'naitu', dinamakan fi'il mudhari. Fi'il itu di-i'rab selama ia bersih dari nun taukid dan nun niswah."
+    },
+    {
+      "title": "Penutup (Khatimah)",
+      "titleArabic": "بَابُ الْخَاتِمَةِ",
+      "arabic": "تَمَّتْ بِعَوْنِ اللهِ خَيْرِ مُنْعِمٍ، وَالصَّلَاةُ وَالسَّلَامُ عَلَى النَّبِيِّ. وَآلِهِ وَصَحْبِهِ مَا أَشْرَقَتْ، شَمْسٌ وَطَابَ ذِكْرُهُ فِي الْأَنْفُسِ.",
+      "translation": "Telah selesai dengan pertolongan Allah, sebaik-baik Pemberi Nikmat. Shalawat dan salam semoga tercurah kepada Nabi, serta keluarga dan sahabatnya, selama matahari masih bersinar dan penyebutannya masih terasa indah di dalam jiwa."
+    }
+  ]
+}
