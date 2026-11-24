@@ -1,0 +1,50 @@
+{
+  "profile": {
+    "name": "Lamiyyah al-Af'al",
+    "originalTitle": "لَامِيَّةُ الْأَفْعَالِ",
+    "author": "Jamaluddin Abu Abdillah Muhammad bin Abdullah bin Malik al-Andalusi al-Jayyani",
+    "field": "Ilmu Shorof (Morfologi Bahasa Arab)",
+    "about": "Lamiyyah al-Af'al merupakan kitab nadhom (puisi) monumental dalam bidang ilmu shorof yang membahas perubahan bentuk kata kerja dalam bahasa Arab. Kitab ini disusun oleh Ibnu Malik, pengarang Alfiyah, dengan menggunakan wazan (irama) yang berakhiran huruf lam, sehingga dinamakan Lamiyyah. Isi kitab ini mencakup pembahasan mendalam mengenai fi'il mujarrad, mazid, fi'il bina', hingga fi'il-fi'il yang memiliki kekhususan tertentu. Karya ini menjadi rujukan utama para santri di pesantren-pesantren untuk menguasai tasrif (konjugasi) secara sistematis dan puitis. Kepakarannya dalam bidang nahwu dan shorof tercermin dalam pemilihan kosakata yang ringkas namun padat akan kaidah bahasa.",
+    "authorBorn": "600 H / 1204 M",
+    "authorDied": "672 H / 1274 M",
+    "authorCentury": "Abad ke-7 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Muqaddimah",
+      "titleArabic": "مُقَدِّمَةٌ",
+      "arabic": "كَالَ اللهَ ذَا الْجَلاَلِ وَالْإِكْرَامِ، وَصَلَّى عَلَى سَيِّدِ الْأَنَامِ. وَبَعْدُ: فَاعْلَمْ أَنَّهُ لَمَّا كَانَ عِلْمُ تَصْرِيفِ الْأَفْعَالِ مِنَ الْأَهَمِّيَّةِ بِمَكَانٍ، أَوْرَدْتُ فِيهِ هَذِهِ الْأَبْيَاتَ.",
+      "translation": "Aku memuji Allah yang Maha Memiliki Keagungan dan Kemuliaan, dan bershalawat atas sebaik-baik manusia (Rasulullah SAW). Adapun setelah itu, ketahuilah bahwa ilmu tasrif af'al (perubahan kata kerja) adalah ilmu yang sangat penting, maka aku sajikan bait-bait ini di dalamnya."
+    },
+    {
+      "title": "Pembagian Fi'il Mujarrad",
+      "titleArabic": "بَابُ أَبْوَابِ الْفِعْلِ الْمُجَرَّدِ",
+      "arabic": "فِعْلٌ مُجَرَّدٌ ثُلَاثِيٌّ بَدَا ... أَبْوَابُهُ سِتٌّ كَمَا قَدْ حُدَّا\nفَتَحَ ضَمَّ فَتَحَ كَسْرًا فَتَحَا ... كَسْرَافَتَحْ ضَمَّانِ كَسْرَتَانِ حُكِيَا",
+      "translation": "Fi'il mujarrad tsulatsi (tiga huruf dasar) telah nampak, pintu-pintunya (bab-babnya) ada enam sebagaimana yang telah dibatasi. (Yaitu): Fatha-yadhumm (Bab 1), Fatha-yaksir (Bab 2), Fatha-yafthah (Bab 3), Kasra-yafthah (Bab 4), Dhamma-yadhumm (Bab 5), dan Kasra-yaksir (Bab 6)."
+    },
+    {
+      "title": "Ketentuan Fi'il yang Berwazan Fa'ala Yaf'ulu",
+      "titleArabic": "بَابُ بَابِ نَصَرَ يَنْصُرُ",
+      "arabic": "فِعْلٌ مُجَرَّدٌ ثُلَاثِيٌّ بَدَا ... أَبْوَابُهُ سِتٌّ كَمَا قَدْ حُدَّا\nفَتَحَ ضَمَّ مِثْلُ نَصْرٍ يَكْتُبُ ... وَمَا يُقَاسُ بَابُهُ وَيُجْلَبُ",
+      "translation": "Fi'il mujarrad tsulatsi telah nampak, pintu-pintunya ada enam sebagaimana yang telah dibatasi. (Salah satunya adalah) Fatha-yadhumm seperti nashara-yanshuru dan yaktubu, dan apa saja yang diqiyaskan (dikiaskan) babnya dan didatangkan (diikutkan pada wazan ini)."
+    },
+    {
+      "title": "Ketentuan Fi'il yang Berwazan Fa'ala Yaf'ilu",
+      "titleArabic": "بَابُ بَابِ ضَرَبَ يَضْرِبُ",
+      "arabic": "وَفَتَحَ كَسْرًا كَضَرَبَ يَضْرِبُ ... وَكُلُّ ذِي يَا أَوْلِ لَفْظٍ تُحْسَبُ",
+      "translation": "Dan (bab kedua) adalah Fatha-yaksir seperti dharaba-yadhribu, dan setiap fi'il yang huruf 'ain fi'ilnya berharakat kasrah pada mudhari' (dianggap masuk dalam bab ini)."
+    },
+    {
+      "title": "Ketentuan Fi'il yang Berwazan Fa'ala Yaf'alu",
+      "titleArabic": "بَابُ بَابِ فَتَحَ يَفْتَحُ",
+      "arabic": "فَتَحَ فَتْحًا فَتَحَا كَقَطَعْ ... وَمَا بِحَلْقٍ كَانَ عَيْنًا أَوْ لَمَعْ",
+      "translation": "Dan (bab ketiga) adalah Fatha-yafthah seperti qatha'a-yaqtha'u, dan setiap fi'il yang huruf 'ain fi'ilnya atau lam fi'ilnya berupa huruf halq (tenggorokan)."
+    },
+    {
+      "title": "Penutup (Khatimah)",
+      "titleArabic": "خَاتِمَةٌ",
+      "arabic": "وَقَدْ أَتَيْتُ بِمَا قَدْ رُمْتُهُ ... حَمْدًا لِرَبِّيَ بِمَا أَتْمَمْتُهُ\nوَصَلَّى رَبِّيَ دَائِمًا عَلَى ... نَبِيِّنَا أَحْمَدَ خَيْرِ الْمُرْسَلَا",
+      "translation": "Sungguh aku telah mendatangkan apa yang aku inginkan, sebagai pujian kepada Rabbku atas apa yang telah aku sempurnakan. Dan semoga shalawat Rabbku senantiasa tercurah kepada Nabi kita Ahmad (Muhammad), sebaik-baik utusan."
+    }
+  ]
+}
