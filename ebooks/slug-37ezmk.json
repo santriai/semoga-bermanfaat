@@ -1,0 +1,68 @@
+{
+  "profile": {
+    "name": "Fathul Mu'in 'ala Syarh al-Muqni'",
+    "originalTitle": "فَتح المُوْجِب على شَرح المُوْجِب",
+    "author": "Syekh Abu al-Hasan 'Ali ibn Muhammad al-Hanafi al-Makki (w. 1041 H)",
+    "field": "Fiqih (Hukum Waris/Faraidh) - Mazhab Hanafi",
+    "about": "Kitab ini merupakan bagian dari syarah (penjelasan) atas kitab 'al-Muqni' atau teks fiqih Hanafi yang membahas secara mendalam tentang hukum waris (Faraidh). Teks yang disajikan di sini berfokus pada pembahasan spesifik mengenai prioritas pewaris, konsep hijab (penghalang waris), dan masalah 'Radd' (pengembalian sisa harta) serta 'Bayt al-Mal' (Bendahara Negara) dalam kasus di mana para ahli waris tidak menghabiskan seluruh harta. Penjelasan ini menguraikan bagaimana sisa harta didistribusikan ketika para ahli waris wajib (fardh) tidak mengambil seluruhnya, dengan merujuk pada pendapat Imam al-Muzani dan Ibnu al-Siraj serta fatwa ulama muta'akhkhirin (terakhir) dalam mazhab Hanafi. Kitab ini sangat penting bagi para pelajar fiqih Hanafi untuk memahami nuansa hukum teknis dalam pembagian waris, khususnya terkait interaksi antara ahli waris laki-laki dan perempuan, serta peran negara dalam pengelolaan sisa harta waris.",
+    "authorBorn": "Tidak tercatat secara spesifik di sumber primer standar, namun aktif di era ke-10/11 H",
+    "authorDied": "1041 H (1631 M)",
+    "authorCentury": "Abad ke-10/11 Hijriah"
+  },
+  "chapters": [
+    {
+      "title": "Pendahuluan: Struktur Pewaris Utama dan Konsep Hijab",
+      "titleArabic": "مقدمة: بنية الورثة الرئيسيين ومفهوم الحجب",
+      "arabic": "أم الأباء وأم الأم وإن علوا. (والأخت) من جهتها الثلاث والزوجة والمعتقة ويدخل في العم عم الأب وعم الجد، والمراد بالمعتق والمعتقة من أعتق أو عصبة أدلى بمعتق.",
+      "translation": "Ibu dari para ayah (ibu kakek) dan ibu dari ibu (nenek) dan seterusnya ke atas. (Saudari) dari tiga sisi (saudari seayah, seibu, dan seayah-seibu) dan istri serta wanita yang dimerdekakan (mantan budak yang dimerdekakan oleh si mayat). Dan termasuk dalam kategori saudara laki-laki (khalas) adalah saudara laki-laki ayah (paman) dan saudara laki-laki kakek. Yang dimaksud dengan 'mu'tiq' (pembebas budak laki-laki) dan 'mu'tiqah' (pembebas budak perempuan) adalah orang yang telah membebaskan budak, atau kerabat (ashabah) yang nasabnya tersambung kepada seorang pembebas budak."
+    },
+    {
+      "title": "Skenario Pertemuan Seluruh Pewaris Laki-laki",
+      "titleArabic": "حالة اجتماع جميع الورثة الذكور",
+      "arabic": "فلو اجتمع كل الرجال ورث الأب والابن والزوج فقط لأن غيرهم محجوب بغير الزوج.",
+      "translation": "Maka jika seluruh pewaris laki-laki hadir (dalam satu kasus kematian), maka yang berhak mewarisi hanyalah ayah, anak laki-laki, dan suami saja. Karena selain mereka (pewaris laki-laki lainnya) terhalang (mahjub) oleh pewaris yang lebih dekat, kecuali suami yang tidak pernah terhalang oleh siapa pun."
+    },
+    {
+      "title": "Skenario Pertemuan Seluruh Pewaris Perempuan",
+      "titleArabic": "حالة اجتماع جميع الورثة الإناث",
+      "arabic": "(أو) اجتمع كل النساء فالبنت وبنت الابن والأم والأخت للأبوين والزوجة وسقطت الجدة بالأم والمعتقة بالأخت المذكورة، كما سقطت بها الأخت للأب وبالبنت الأخت للأم.",
+      "translation": "(Atau) jika seluruh pewaris perempuan hadir, maka yang berhak mewarisi adalah: anak perempuan, anak perempuan dari anak laki-laki, ibu, saudara perempuan seayah-seibu, dan istri. Nenek (dari pihak ibu) terhalang oleh ibu, dan wanita yang dimerdekakan (mu'tiqah) terhalang oleh saudara perempuan seayah-seibu yang disebutkan tadi. Demikian pula, saudara perempuan seayah terhalang oleh saudara perempuan seayah-seibu, dan saudara perempuan seibu terhalang oleh anak perempuan."
+    },
+    {
+      "title": "Skenario Pertemuan Pewaris Campuran (Laki-laki dan Perempuan)",
+      "titleArabic": "حالة اجتماع الورثة المختلطين (ذكور وإناث)",
+      "arabic": "أو الذين يمكن اجتماعهم من الصنفين فالأبوان والابن والبنت وأحد الزوجين) أي الذكر إن كان الميت امرأة والأنثى إن كان رجلا.",
+      "translation": "Atau mereka yang mungkin hadir dari kedua golongan (laki-laki dan perempuan), yaitu: ayah dan ibu, anak laki-laki, anak perempuan, dan salah satu dari pasangan (suami atau istri). Yaitu: suami jika yang meninggal adalah perempuan, dan istri jika yang meninggal adalah laki-laki."
+    },
+    {
+      "title": "Hukum Jika Tidak Ada Pewaris dari Golongan Utama",
+      "titleArabic": "حكم عدم وجود الورثة من الأصناف المذكورة",
+      "arabic": "ولو فقدوا كلهم أي الورثة من الرجال والنساء المذكورين فأصل المذهب أنه لا يورث ذوو الأرحام وسيأتي بيانهم.",
+      "translation": "Dan jika mereka semua tidak ada, yaitu seluruh pewaris laki-laki dan perempuan yang disebutkan sebelumnya, maka prinsip mazhab (Hanafi) adalah bahwa kerabat melalui hubungan darah jauh (Dzu al-Arham) tidak mewarisi. Dan penjelasan tentang mereka (Dzu al-Arham) akan datang kemudian."
+    },
+    {
+      "title": "Prinsip Dasar Mazhab Mengenai Sisa Harta (Radd)",
+      "titleArabic": "أصل المذهب فيما لا تستغرق الورثة المال",
+      "arabic": "(و) أصل المذهب فيما لا تستغرق الورثة المال أنه لا يرد على أهل الفرض) أي التقدير ما بقي من المال بعد المفروض.",
+      "translation": "(Dan) prinsip mazhab dalam kasus di mana para pewaris tidak menghabiskan seluruh harta adalah: tidak ada pengembalian (Radd) kepada ahli waris fardh (berhak tetap), yaitu tidak dikembalikan kepada mereka sisa harta yang tersisa setelah diambil bagian fardh mereka."
+    },
+    {
+      "title": "Tujuan Sisa Harta: Bayt al-Mal",
+      "titleArabic": "مصير المال الباقي: بيت المال",
+      "arabic": "(بل المال كله أو الباقي بعد المفروض (لبيت المال إرثاً.",
+      "translation": "(Bahkan, seluruh harta atau sisa harta setelah diambil bagian fardh, adalah untuk Bayt al-Mal (Bendahara Negara) sebagai warisan."
+    },
+    {
+      "title": "Pendapat Al-Muzani dan Ibnu al-Siraj",
+      "titleArabic": "قول المزني وابن السراج",
+      "arabic": "وقال المزني وابن السراج بتوريث ذوي الأرحام في الأولى، وبالرد في الثانية على غير الزوجين ولم يقولا إذا لم ينتظم أمر بيت المال.",
+      "translation": "Sedangkan Al-Muzani dan Ibnu al-Siraj berpendapat dengan mewariskan kepada Dzu al-Arham (kerabat jauh) dalam kasus pertama (di mana tidak ada pewaris sama sekali), dan dengan Radd (pengembalian) dalam kasus kedua (di mana ada pewaris fardh tapi tidak menghabiskan harta) kepada selain suami/istri. Dan mereka berdua tidak berpendapat demikian jika urusan Bayt al-Mal tidak tertata dengan baik."
+    },
+    {
+      "title": "Fatwa Ulama Muta'akhkhirin (Terakhir)",
+      "titleArabic": "فتوى المتأخرين من الأصحاب",
+      "arabic": "وأفتى المتأخرون من الأصحاب إذا لم ينتظم أمر بيت المال) لكون الإمام غير عادل (بالرد).",
+      "translation": "Dan para ulama muta'akhkhirin (terakhir) dari kalangan pengikut mazhab (Hanafi) berfatwa, jika urusan Bayt al-Mal tidak tertata dengan baik, karena Imam (penguasa) tidak adil, maka dilakukan Radd (pengembalian)."
+    }
+  ]
+}
