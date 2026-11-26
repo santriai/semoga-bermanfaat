@@ -1,0 +1,13 @@
+{
+  "status": "cannot_fulfill",
+  "reason": "Keterbatasan verifikasi naskah dan larangan mengarang teks matan asli",
+  "message": "Permintaan untuk menghasilkan teks matan Arab asli yang lengkap beserta harakat akurat dan terjemahan untuk seluruh bab (50-70 bab) dari kitab 'Fathul Mu'in 'ala Syarh al-Muqni'' karya Syekh Abu al-Hasan 'Ali ibn Muhammad al-Hanafi al-Makki (w. 1041 H) tidak dapat dipenuhi secara jujur dan akurat.",
+  "gaps_identified": [
+    "Naskah atau teks lengkap kitab 'Fathul Mu'in 'ala Syarh al-Muqni'' oleh pengarang tersebut tidak tersedia dalam sumber yang dapat saya verifikasi, sehingga menyajikan teks Arab berharakat sebagai 'matan asli' berisiko besar menghasilkan teks rekaan (halusinasi).",
+    "Terdapat potensi kerancuan bibliografi dengan karya-karya masyhur berjudul mirip, seperti 'Fath al-Mu'in bi-Syarh Qurrat al-'Ayn' (Zainuddin al-Malibari, Fiqih Syafi'i), 'Fath al-Mu'in' atas 'Syarh Kanz al-Daqa'iq' (Mulla Miskin al-Harawi, Fiqih Hanafi), atau kitab 'al-Muqni'' (Ibnu Qudamah dalam Fiqih Hanbali, al-Dani dalam Qira'at, atau Ibnu al-Ha'im dalam Fara'id/Hisab).",
+    "Mengeluarkan isi lengkap 50-70 bab kitab turath beserta matan Arab dan terjemahan utuh dalam satu keluaran tanpa teks sumber yang dilampirkan melampaui kapasitas verifikasi akurat."
+  ],
+  "suggestion": "Silakan pastikan kembali judul dan nama muallif yang dimaksud, atau lampirkan teks/manuskrip Arab asli per bagian jika Anda ingin dilakukan penyusunan struktur JSON, pemberian harakat, atau penerjemahan yang akurat.",
+  "profile": null,
+  "chapters": []
+}
