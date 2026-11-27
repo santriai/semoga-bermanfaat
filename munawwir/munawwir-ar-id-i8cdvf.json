@@ -1,0 +1,78 @@
+{
+  "arabic": "زَهِدَ",
+  "arabicHarokat": "زَهِدَ - يَزْهَدُ - زُهْدًا",
+  "latin": "zahida",
+  "wordType": "fiil",
+  "wordTypeIndo": "Fi'il Tsulatsi Mujarrad Bab IV (Fa'ila - Yaf'alu)",
+  "root": "ز - ه - د",
+  "wazan": "فَعِلَ - يَفْعَلُ",
+  "page": "578",
+  "referenceBook": "Kamus Al-Munawwir Arab-Indonesia Terlengkap (Krapyak)",
+  "referenceUrl": "https://archive.org/details/kamus-al-munawwir-arab-indonesia",
+  "tashrifBrief": {
+    "madhi": "زَهِدَ",
+    "mudhari": "يَزْهَدُ",
+    "mashdar": "زُهْدًا",
+    "fail": "زَاهِدٌ",
+    "maful": "مَزْهُودٌ",
+    "amr": "اِزْهَدْ",
+    "nahyi": "لَا تَزْهَدْ"
+  },
+  "singular": "زَاهِدٌ",
+  "plural": "زُهَّادٌ",
+  "gender": "mudzakkar",
+  "transitivity": "lazim",
+  "meanings": [
+    "Tidak menginginkan sesuatu karena menganggapnya remeh atau tidak berharga",
+    "Zuhud; meninggalkan kesenangan duniawi demi akhirat",
+    "Bersikap sederhana dan tidak tamak terhadap harta benda"
+  ],
+  "contextualMeanings": [
+    {
+      "preposition": "فِي",
+      "arabicPhrase": "زَهِدَ فِي الدُّنْيَا",
+      "meaning": "Zuhud terhadap dunia (meninggalkan keterikatan hati pada dunia)"
+    },
+    {
+      "preposition": "عَنْ",
+      "arabicPhrase": "زَهِدَ عَنْهُ",
+      "meaning": "Meninggalkan sesuatu karena tidak menyukainya atau tidak membutuhkannya"
+    }
+  ],
+  "examples": [
+    {
+      "arabic": "اِزْهَدْ فِي الدُّنْيَا يُحِبَّكَ اللهُ",
+      "latin": "Izh-had fid-dunya yuhibbakallahu",
+      "translation": "Zuhudlah terhadap dunia, niscaya Allah mencintaimu",
+      "context": "Hadis Riwayat Ibnu Majah"
+    }
+  ],
+  "synonyms": [
+    "تَرَكَ",
+    "أَعْرَضَ",
+    "تَعَفَّفَ"
+  ],
+  "antonyms": [
+    "رَغِبَ",
+    "طَمِعَ",
+    "حَرَصَ"
+  ],
+  "derivedWords": [
+    {
+      "arabic": "زُهْدٌ",
+      "meaning": "Sikap zuhud/kesederhanaan",
+      "type": "Isim Masdar"
+    },
+    {
+      "arabic": "زَاهِدٌ",
+      "meaning": "Orang yang zuhud",
+      "type": "Isim Fa'il"
+    },
+    {
+      "arabic": "مَزْهَدَةٌ",
+      "meaning": "Tempat atau hal yang menyebabkan zuhud",
+      "type": "Isim Makan/Masdar Mimi"
+    }
+  ],
+  "notes": "Kata 'Zahida' secara etimologis berlawanan dengan 'Raghiba'. Dalam tradisi tasawuf, zuhud bukan berarti tidak memiliki harta, melainkan tidak membiarkan harta menguasai hati (tidak tamak)."
+}
