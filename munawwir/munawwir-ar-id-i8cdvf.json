@@ -1,78 +1,129 @@
 {
   "arabic": "زَهِدَ",
-  "arabicHarokat": "زَهِدَ - يَزْهَدُ - زُهْدًا",
-  "latin": "zahida",
+  "arabicHarokat": "زَهِدَ - يَزْهَدُ - زُهْدًا وَزَهَادَةً",
+  "latin": "zahida - yazhadu - zuhdan wa zahādatan",
   "wordType": "fiil",
-  "wordTypeIndo": "Fi'il Tsulatsi Mujarrad Bab IV (Fa'ila - Yaf'alu)",
-  "root": "ز - ه - د",
+  "wordTypeIndo": "Fi'il Tsulatsi Mujarrad Bab IV (فَعِلَ - يَفْعَلُ), juga terdapat variasi Bab III (فَعَلَ - يَفْعَلُ) dan Bab V (فَعُلَ - يَفْعُلُ)",
+  "root": "ز - هـ - د",
   "wazan": "فَعِلَ - يَفْعَلُ",
-  "page": "578",
+  "page": "589",
   "referenceBook": "Kamus Al-Munawwir Arab-Indonesia Terlengkap (Krapyak)",
   "referenceUrl": "https://archive.org/details/kamus-al-munawwir-arab-indonesia",
   "tashrifBrief": {
     "madhi": "زَهِدَ",
     "mudhari": "يَزْهَدُ",
-    "mashdar": "زُهْدًا",
+    "mashdar": "زُهْدًا / زَهَادَةً",
     "fail": "زَاهِدٌ",
-    "maful": "مَزْهُودٌ",
+    "maful": "مَزْهُودٌ فِيهِ",
     "amr": "اِزْهَدْ",
     "nahyi": "لَا تَزْهَدْ"
   },
-  "singular": "زَاهِدٌ",
-  "plural": "زُهَّادٌ",
+  "singular": "زُهْدٌ (bentuk mashdar); زَاهِدٌ (isim fa'il mufrad)",
+  "plural": "زُهَّادٌ / زُهْدٌ / زَاهِدُونَ (jamak taksir & jamak mudzakkar salim dari isim fa'il زَاهِدٌ); bentuk mashdar tidak memiliki jamak",
   "gender": "mudzakkar",
   "transitivity": "lazim",
   "meanings": [
-    "Tidak menginginkan sesuatu karena menganggapnya remeh atau tidak berharga",
-    "Zuhud; meninggalkan kesenangan duniawi demi akhirat",
-    "Bersikap sederhana dan tidak tamak terhadap harta benda"
+    "Tidak menyukai, tidak tertarik, berpaling dari, atau meninggalkan sesuatu karena dianggap tidak bernilai atau tidak penting",
+    "Berlaku zuhud atau hidup sederhana (dalam konteks tasawuf dan syariat Islam: meninggalkan kesenangan duniawi yang melalaikan dan mengutamakan kehidupan akhirat, bukan berarti membenci harta yang halal, melainkan tidak menjadikan dunia sebagai tujuan hati)",
+    "Merasa cukup dengan apa yang sedikit (qana'ah) dan menahan diri dari sifat tamak",
+    "Menjadi sedikit, remeh, atau tidak berharga (khusus pada wazan Bab V: زَهُدَ - يَزْهُدُ)"
   ],
   "contextualMeanings": [
     {
-      "preposition": "فِي",
-      "arabicPhrase": "زَهِدَ فِي الدُّنْيَا",
-      "meaning": "Zuhud terhadap dunia (meninggalkan keterikatan hati pada dunia)"
+      "preposition": "زَهِدَ فِي (dengan huruf jar فِي)",
+      "arabicPhrase": "زَهِدَ فِي الشَّيْءِ",
+      "meaning": "Tidak menyukai sesuatu, meninggalkannya, tidak berminat kepadanya, atau memandangnya rendah/remeh"
     },
     {
-      "preposition": "عَنْ",
-      "arabicPhrase": "زَهِدَ عَنْهُ",
-      "meaning": "Meninggalkan sesuatu karena tidak menyukainya atau tidak membutuhkannya"
+      "preposition": "زَهِدَ عَنْ (dengan huruf jar عَنْ)",
+      "arabicPhrase": "زَهِدَ عَنِ الشَّيْءِ",
+      "meaning": "Berpaling dari sesuatu, enggan mengambilnya, dan menjauhkan diri darinya (semakna dengan رَغِبَ عَنْ)"
+    },
+    {
+      "preposition": "زَهِدَ فِي الدُّنْيَا",
+      "arabicPhrase": "زَهِدَ الْمُؤْمِنُ فِي الدُّنْيَا",
+      "meaning": "Seorang mukmin bersikap zuhud terhadap dunia (tidak tertipu oleh kemewahan duniawi dan mengarahkan hatinya kepada Allah)"
+    },
+    {
+      "preposition": "Tanpa huruf jar (lazim, Bab V: زَهُدَ)",
+      "arabicPhrase": "زَهُدَ المَالُ / زَهُدَتِ النَّفَقَةُ",
+      "meaning": "Harta atau nafkah itu sedikit, kecil jumlahnya, atau kurang mencukupi"
     }
   ],
   "examples": [
     {
-      "arabic": "اِزْهَدْ فِي الدُّنْيَا يُحِبَّكَ اللهُ",
-      "latin": "Izh-had fid-dunya yuhibbakallahu",
-      "translation": "Zuhudlah terhadap dunia, niscaya Allah mencintaimu",
-      "context": "Hadis Riwayat Ibnu Majah"
+      "arabic": "وَشَرَوْهُ بِثَمَنٍ بَخْسٍ دَرَاهِمَ مَعْدُودَةٍ وَكَانُوا فِيهِ مِنَ الزَّاهِدِينَ",
+      "latin": "Wa syarauhu bitsamanin bakhsin darāhima ma'dūdatin wa kānū fīhi minaz-zāhidīn",
+      "translation": "Dan mereka menjualnya (Yusuf) dengan harga yang murah, yaitu beberapa dirham saja, dan mereka merasa tidak tertarik kepadanya.",
+      "context": "Al-Qur'an Surah Yusuf ayat 20"
+    },
+    {
+      "arabic": "اِزْهَدْ فِي الدُّنْيَا يُحِبَّكَ اللَّهُ، وَازْهَدْ فِيمَا عِنْدَ النَّاسِ يُحِبَّكَ النَّاسُ",
+      "latin": "Izhad fid-dunyā yuhibbakallāhu, wazhad fīmā 'indan-nāsi yuhibbakan-nās",
+      "translation": "Zuhudlah kamu terhadap dunia niscaya Allah akan mencintaimu, dan zuhudlah kamu terhadap apa yang dimiliki manusia niscaya manusia akan mencintaimu.",
+      "context": "Hadits Riwayat Ibnu Majah (dari Sahl bin Sa'd as-Sa'idi radhiyallahu 'anhu)"
+    },
+    {
+      "arabic": "الزُّهْدُ فِي الدُّنْيَا قِصَرُ الْأَمَلِ، وَلَيْسَ بِأَكْلِ الْغَلِيظِ وَلَا لُبْسِ الْعَبَاءِ",
+      "latin": "Az-zuhdu fid-dunyā qisharul amali, wa laisa bi-aklil ghalīzhi wa lā lubsil 'abā'i",
+      "translation": "Zuhud terhadap dunia adalah pendeknya angan-angan (akan panjang umur di dunia), dan bukanlah dengan memakan makanan kasar atau memakai jubah compang-camping.",
+      "context": "Qaul Ulama Salaf (diriwayatkan dari Sufyan ats-Tsauri dan Imam Ahmad bin Hanbal)"
     }
   ],
   "synonyms": [
+    "رَغِبَ عَنْ",
+    "أَعْرَضَ عَنْ",
     "تَرَكَ",
-    "أَعْرَضَ",
-    "تَعَفَّفَ"
+    "تَوَرَّعَ",
+    "قَنِعَ"
   ],
   "antonyms": [
-    "رَغِبَ",
-    "طَمِعَ",
-    "حَرَصَ"
+    "رَغِبَ فِي",
+    "حَرَصَ عَلَى",
+    "طَمِعَ فِي",
+    "تَهَالَكُ عَلَى"
   ],
   "derivedWords": [
     {
       "arabic": "زُهْدٌ",
-      "meaning": "Sikap zuhud/kesederhanaan",
-      "type": "Isim Masdar"
+      "meaning": "Kezuhudan, sikap menjauhi kesenangan duniawi, ketidaktertarikan pada sesuatu",
+      "type": "Isim Mashdar"
     },
     {
-      "arabic": "زَاهِدٌ",
-      "meaning": "Orang yang zuhud",
+      "arabic": "زَهَادَةٌ",
+      "meaning": "Sifat zuhud, keadaan sedikit/remehnya sesuatu",
+      "type": "Isim Mashdar"
+    },
+    {
+      "arabic": "زَاهِدٌ (ج: زُهَّادٌ / زُهْدٌ)",
+      "meaning": "Orang yang zuhud, ahli ibadah yang meninggalkan gemerlap dunia, orang yang tidak tertarik",
       "type": "Isim Fa'il"
     },
     {
-      "arabic": "مَزْهَدَةٌ",
-      "meaning": "Tempat atau hal yang menyebabkan zuhud",
-      "type": "Isim Makan/Masdar Mimi"
+      "arabic": "زَهِيدٌ",
+      "meaning": "Sedikit, kecil, murah, tidak berarti (contoh: ثَمَنٌ زَهِيدٌ = harga yang murah/sedikit)",
+      "type": "Sifat Musyabbahah"
+    },
+    {
+      "arabic": "زَهَّدَ - يُزَهِّدُ - تَزْهِيدًا",
+      "meaning": "Membuat orang lain bersikap zuhud, menganjurkan zuhud, menganggap remeh/sedikit, atau menaksir buah kurma di pohon (sinonim خَرَصَ)",
+      "type": "Fi'il Tsulatsi Mazid Ruba'i (Wazan تَفْعِيل)"
+    },
+    {
+      "arabic": "تَزَهَّدَ - يَتَزَهَّدُ - تَزَهُّدًا",
+      "meaning": "Bersungguh-sungguh berlaku zuhud, tekun beribadah, atau berpura-pura bersikap zuhud",
+      "type": "Fi'il Tsulatsi Mazid Khumasi (Wazan تَفَعُّل)"
+    },
+    {
+      "arabic": "مَزْهُودٌ فِيهِ",
+      "meaning": "Sesuatu yang tidak diminati, ditinggalkan, atau dijauhi",
+      "type": "Isim Maf'ul"
+    },
+    {
+      "arabic": "مِزْهَادٌ",
+      "meaning": "Orang yang sangat zuhud; (dalam lughah klasik) unta yang sedikit air susunya",
+      "type": "Shighah Mubalaghah"
     }
   ],
-  "notes": "Kata 'Zahida' secara etimologis berlawanan dengan 'Raghiba'. Dalam tradisi tasawuf, zuhud bukan berarti tidak memiliki harta, melainkan tidak membiarkan harta menguasai hati (tidak tamak)."
+  "notes": "Dalam kaidah Shorof dan catatan Kamus Al-Munawwir, akar kata (جَذْر) ز-هـ-د pada Fi'il Tsulatsi Mujarrad memiliki tiga variasi harakat 'ain fi'il: (1) Bab IV زَهِدَ - يَزْهَدُ (paling masyhur dan fasih untuk makna tidak tertarik/zuhud); (2) Bab III زَهَدَ - يَزْهَدُ (juga digunakan untuk makna yang sama menurut sebagian ahli bahasa); dan (3) Bab V زَهُدَ - يَزْهُدُ yang berwazan sifat tetap untuk menunjukkan makna 'menjadi sedikit atau remeh'. Dari sisi Nahwu, kata زَهِدَ tergolong fi'il lazim yang menjadi muta'addi dengan perantaraan huruf jar (تَعَدٍّ بِالْحَرْفِ) berupa فِي atau عَنْ; namun dalam ungkapan sastra Arab terkadang huruf jar-nya dibuang (نَزْعُ الْخَافِضِ) sehingga langsung diikuti maf'ul bih seperti زَهِدَ الدُّنْيَا. Di lingkungan pesantren dan literatur tasawuf Ahlussunnah wal Jama'ah (seperti kitab Ihya' Ulumiddin dan Al-Hikam), kata زُهْدٌ tidak diartikan sebagai meninggalkan kerja atau membenci harta, melainkan mengosongkan hati dari ketergantungan pada dunia meskipun harta berada di tangan."
 }
